@@ -1,0 +1,590 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4926300014745312858
+
+12409 Zodoihem the Thaumaturge (level 11, 53/53 HPs) *WIZ*
+             Began as a Felid Transmuter on Sept 1, 2019.
+             Quit the game on level 4 of the Shoals.
+             The game lasted 00:36:35 (2786 turns).
+
+Zodoihem the Thaumaturge (Felid Transmuter)         Turns: 2786, Time: 00:36:35
+
+Health: 53/53      AC:  3    Str:  6    XL:     11   Next: 62%
+Magic:  27/27      EV: 16    Int: 17    God:    No God 0 (0)
+Gold:   22         SH:  0    Dex: 10    Spells: 17/32 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.17/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 3, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 4 of the Shoals.
+You were full.
+
+You visited 2 branches of the dungeon, and saw 3 of its levels.
+
+You collected 22 gold pieces.
+
+Inventory:
+
+Missiles
+ a - 11 arrows
+ g - 21 throwing nets
+Scrolls
+ e - a scroll of identify {unknown}
+ f - a scroll of remove curse {unknown}
+Potions
+ b - 2 potions of experience
+ d - a potion of agility {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 9.1 Fighting
+   Level 0.0 Throwing
+ - Level 1.0 Dodging
+ - Level 1.0 Stealth
+ - Level 8.5 Unarmed Combat
+ + Level 11.0 Spellcasting
+ - Level 10.3 Transmutations
+ - Level 3.0 Ice Magic
+ - Level 4.2 Poison Magic
+
+
+You had 17 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           44 (50)      1%          1    0
+b - Sticks to Snakes      Tmut           44 (100)     1%          2    0
+c - Spider Form           Tmut/Pois      34 (200)     1%          3    0
+d - Ice Form              Ice/Tmut       32 (100)     4%          4    63
+e - Blade Hands           Tmut           44 (200)     3%          5    213
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Sif Muna
+
+Annotations:
+Abyss:1 Roxanne
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+Your thick and shaggy fur keeps you warm. (AC +3, rC+)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+There is a stone staircase leading up here.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+There is a stone staircase leading up here.
+Key pressed, stopping explore.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#~~~~~~~~~~~~~~~~~~~~        ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~      ~~~~~~~~~~~~~~~......~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~    ~~~~~~~~~~~~~~.....<...~~~~~~...~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.###......~~~.#####~~~~~~~
+#~~~~~~~...~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.###.......~.##...##~~~~~~
+#~~~~~~..<..~~~~~~~~~~~~~~~~~~~~~~~~~~.....##.........#.....#~~~~~~~
+#~~~~~~#####...~~~~~..~~~~~~~~~~~~~~~...###.#.........'..)..#~~~~~~~
+#~~~~~##...##...(..~..~.~~.~~~~~~~~~..### #...........#.....#.~~~~~~
+#~~~~~#.....#......~~~~~~~~~~~~~~~~.### ###.~~........##...##.~~~~~~
+#~~~~~#..)..(........~~~~~.~~~~~~~~.#  ##.~~~~~~~~~....#####...~~~.~
+#~~~~~#.....#...........~..~~~~~~~~.#  #..~~~~~~~~..........~..~~~~~
+#~~~~~##...##..............~~~~~~~$#####.~~~~~~~~...........~...~~~~
+#~~~~~~#####................~..~~~...##.~~~~~~~~~................~~~
+#~~~~~~~~..............[........~~~~...~~~~~~~~~~..##.~~..~......~~~
+   ~~~~~~~........................~~~~~~~~~~~~~~~~...........##..~~~
+   ~~~~~~~.................<.#####.~~~~~~~~~~~~~~~~..~....~..##.~~~~
+#~~~~~~~~~~.................##...##..~~~~~~~~~~~~~~~~~~~~~~.....~~~~
+#~~~~~~~~~~~~~..........!...#00...#...~~~~~~~~~~~~~~~~~~~~....!~~~~~
+#~~~~~~~~~~!.~~~~...........#0.:..#...~~~~~~~~~~~~~~~~~~~~......~~~~
+#~~~~~~~~~~.~~~~~..##'##....#.....#...~~..~~~~~~~~~~~~~~~~~~~....~~~
+#~~~~~~~~~~~~~~~~.##...##...##...##..........(.(~~~~~~~~~~~..(.!.~~~
+#~~~~~~~~~~~~~~~~~#.....#....##'##.............~~~~~~~~~~~~..##...~~
+#~~~~~~~~~~~~~~~~~#..=..#.......................~~~~~~~~~~~~~.#.~~~~
+#~~~~~~~~~~~~~~~~~#.....#....@............~~.(.~~~~~~~~...~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~##...##~.......(.......~~~.(.~~~~~~~.[...~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~#####~~......~~.......~~##'##~~~~~....?~.#####~~~
+#~~~~~~~~~~~~~~~~~...~~..................~##00~##~~~~......##    #~~
+#~~~~~~~~~~~~~~~~~...~~......~~~.........~#000~~#~~~.......#       ~
+#~~~~~~~~~~...~~~~~~~~~~~....~~~.........~#~~~0~#~~~.......#
+#~~~~~~~~~.##.~~..~~~~~..~~~~.~~..~......~#~~m~~#~~~.......#
+#~~~~~~~~~..#~~.....~~~~~~.....~..~...!..~##~~~##~~~.......##
+#~~~~~~~~~~~..###..~~~~~~~~~...~~...~....~~#####~~.........~##+#
+#~~~~~~~~~~~~.# ##.~~~~~~~~~.##.....~~..~~~~~~~~~....~.......~~~
+#~~~~~~~~~~~~.###..~~~~~~~...##..#..~~~~~~~.........~~~~~.....~~
+#~~~~~~~~~~~~..).~..~~~~~~.......#..~~~~~~~.........~~~~~~~~.~~~
+ ~~~~~~~~~~~~....~~~~~~.~~..~~.......~~~~##'##.....~~~~~~~~~^~~~
+  ~~~~~~~~~~~~....~~~~~~~~..~~~......~~~##~~.##....~~~~#####~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~............~~#~~~~.#....~~~##    #~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~.~...........~#..=.0#~~~~~~~#      ~~~~~~
+   ~~~~~~~~~~~~~~~~..~~~~~~~~.....?.~..$#?0000#~~~~~~~#      ~~~~~~~
+   ~~~~~~~~~~~~~~~~~..~~..~.?....###.~.~##000##~~~~~~~#      ~~~~~~~
+   ~~~~~~~~~~~~~~~?.#.~~.........###...~~#####~~~..~~~##   ##~~~~~~~
+   ~~~~~~~~~~~~~~~..##~~~..~...~.....~~~~~~~~~~~~.~(.~~#####~~~~~~~~
+   ~~~~~~~~~~~~~.~....~~~..~..<.......~~~~~~~~~~~.?.~~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~..~~~~~~~~~....#...~~~~~~~~~~.##..~~~~~~~~~~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~.~~~~~~......~~~~~~~~~~......~~~~~~~~~~~~~~~
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (others)
+  2 krakens
+  A frost giant (Shoals:4)
+  13 merfolk javelineers
+  15 merfolk impalers
+  3 merfolk aquamancers (Shoals:4)
+  5 merfolk avatars
+  7 satyrs (Shoals:4)
+  2 alligator snapping turtles
+  20 sea snakes
+  17 harpies
+  18 manticores
+  13 fauns (Shoals:4)
+  4 cyclopes (Shoals:4)
+  7 merfolk sirens (Shoals:4)
+  10 water nymphs
+  7 wind drakes
+  41 merfolk
+  17 snapping turtles
+  4 dream sheep (Shoals:4)
+  A hippogriff (Shoals:4)
+  11 water elementals
+  5 centaurs
+  4 plants (Shoals:4)
+227 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zodoihem the Felid Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 13/13 MP: 5/7
+     2 | D:1      | Reached skill level 5 in Unarmed Combat
+     2 | D:1      | Reached skill level 5 in Transmutations
+     2 | D:1      | Reached XP level 3. HP: 19/19 MP: 5/8
+     3 | D:1      | Reached XP level 4. HP: 24/24 MP: 6/10
+     7 | D:1      | Learned a level 2 spell: Sticks to Snakes
+    11 | D:1      | Learned a level 3 spell: Spider Form
+    11 | D:1      | Reached XP level 5. HP: 28/28 MP: 7/12
+    17 | D:1      | Learned a level 4 spell: Ice Form
+    17 | D:1      | Reached skill level 10 in Dodging
+    17 | D:1      | Reached skill level 5 in Spellcasting
+    17 | D:1      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+    17 | D:1      | Reached XP level 6. HP: 33/33 MP: 7/15
+    18 | D:1      | Reached XP level 7. HP: 36/36 MP: 8/18
+    25 | D:1      | Learned a level 5 spell: Blade Hands
+    25 | D:1      | Reached XP level 8. HP: 40/40 MP: 9/19
+    26 | D:1      | Reached XP level 9. HP: 44/44 MP: 9/20
+    27 | D:1      | Reached skill level 10 in Transmutations
+    27 | D:1      | Reached XP level 10. HP: 48/48 MP: 9/21
+    28 | D:1      | Reached XP level 11. HP: 53/53 MP: 9/22
+    98 | D:1      | Noticed a merfolk javelineer
+   105 | Shoals:4 | Entered Level 4 of the Shoals
+   105 | Shoals:4 | Noticed a merfolk avatar
+   108 | Shoals:4 | Noticed a harpy
+   110 | Shoals:4 | Noticed a merfolk javelineer
+   118 | Shoals:4 | Noticed a sea snake
+   118 | Shoals:4 | Noticed a sea snake
+   125 | Shoals:4 | Banished a sea snake
+   126 | Shoals:4 | Noticed Roxanne
+   127 | Shoals:4 | Banished Roxanne
+   150 | Shoals:4 | Hit by a javelin of penetration thrown by a merfolk
+                  | javelineer (11 damage)
+   152 | Shoals:4 | Mangled by a snapping turtle (21 damage)
+   154 | Shoals:4 | Hit by a javelin of penetration thrown by a merfolk
+                  | javelineer (30 damage)
+   155 | Shoals:4 | Hit by a javelin of penetration thrown by a merfolk
+                  | javelineer (36 damage)
+   159 | Shoals:4 | Hit by a javelin of penetration thrown by a merfolk
+                  | javelineer (34 damage)
+   171 | Shoals:4 | Noticed a sea snake
+   172 | Shoals:4 | Noticed a harpy
+   173 | Shoals:4 | Banished a harpy
+   174 | Shoals:4 | Noticed a harpy
+   174 | Shoals:4 | Noticed a harpy
+   175 | Shoals:4 | Noticed a harpy
+   175 | Shoals:4 | Slain by a merfolk
+                  | ... wielding a +0 trident
+                  | (9 damage)
+   176 | Shoals:3 | Noticed a sea snake
+   176 | Shoals:3 | Banished a sea snake
+   188 | Shoals:3 | Noticed a merfolk aquamancer
+   204 | Shoals:3 | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+   204 | Shoals:3 | Reduced skill Throwing to level 25
+   207 | Shoals:3 | Noticed a merfolk avatar
+   216 | Shoals:3 | Banished a merfolk avatar
+   216 | Shoals:3 | Noticed an alligator snapping turtle
+   222 | Shoals:3 | Banished an alligator snapping turtle
+   240 | Shoals:3 | Noticed a merfolk impaler
+   241 | Shoals:3 | Noticed a sea snake
+   242 | Shoals:3 | Banished a sea snake
+   246 | Shoals:3 | Noticed a merfolk javelineer
+   248 | Shoals:3 | Noticed a merfolk avatar
+   249 | Shoals:3 | Banished a merfolk impaler
+   249 | Shoals:3 | Hit by a silver javelin thrown by a merfolk javelineer (28
+                  | damage)
+   250 | Shoals:3 | Banished a merfolk avatar
+   254 | Shoals:3 | Noticed a harpy
+   254 | Shoals:3 | Noticed a harpy
+   256 | Shoals:3 | Banished a harpy
+   256 | Shoals:3 | Banished a harpy
+   257 | Shoals:3 | Hit by a silver javelin thrown by a merfolk javelineer (29
+                  | damage)
+   275 | Shoals:3 | Banished a merfolk javelineer
+   300 | Shoals:3 | Noticed a harpy
+   300 | Shoals:3 | Noticed a harpy
+   300 | Shoals:3 | Noticed a harpy
+   301 | Shoals:3 | Banished a harpy
+   301 | Shoals:3 | Banished a harpy
+   302 | Shoals:3 | Noticed a merfolk avatar
+   310 | Shoals:3 | Banished a merfolk avatar
+   314 | Shoals:3 | Banished a harpy
+   348 | Shoals:3 | Noticed a satyr
+   349 | Shoals:3 | Banished a satyr
+   408 | Shoals:3 | Noticed a merfolk javelineer
+   411 | Shoals:3 | Hit by a tomahawk thrown by a merfolk (15 damage)
+   413 | Shoals:3 | Banished a merfolk javelineer
+   413 | Shoals:3 | Gained mutation: Your thick and shaggy fur keeps you warm.
+                  | (AC +3, rC+) [Felid growth]
+   413 | Shoals:3 | Reached XP level 12. HP: 57/57 MP: 24/24
+   430 | Shoals:3 | Noticed a kraken
+   431 | Shoals:3 | Banished a kraken
+   458 | Shoals:3 | Noticed a merfolk javelineer
+   461 | Shoals:3 | HP: 2/57 [merfolk javelineer/poisoned javelin (21)]
+   461 | Shoals:3 | Hit by a tomahawk of returning thrown by a merfolk (3
+                  | damage)
+   462 | Shoals:3 | Banished a merfolk javelineer
+   672 | Shoals:4 | Entered Level 4 of the Shoals
+   681 | Shoals:4 | Found Nodetz's General Store.
+   698 | Shoals:4 | Reached XP level 13. HP: 60/60 MP: 26/26
+  1062 | Shoals:4 | Entered Level 4 of the Shoals
+  1164 | Shoals:4 | Slain by a merfolk
+                  | ... wielding a +1 trident of venom
+                  | (18 damage)
+  1170 | Shoals:4 | Slain by a merfolk
+                  | ... wielding a +1 trident of venom
+                  | (15 damage)
+  1173 | Shoals:4 | HP: 3/60 [merfolk/+1 trident of venom (22)]
+  1174 | Shoals:4 | Succumbed to a merfolk's poison
+  1250 | Shoals:4 | Noticed a merfolk impaler
+  1254 | Shoals:4 | Mangled by a merfolk impaler
+                  | ... wielding a +0 trident
+                  | (21 damage)
+  1257 | Shoals:4 | Banished a merfolk impaler
+  1265 | Shoals:4 | Noticed a merfolk impaler
+  1269 | Shoals:4 | Banished a merfolk impaler
+  1324 | Shoals:4 | Reached skill level 15 in Stealth
+  1343 | Shoals:4 | Noticed a merfolk impaler
+  1346 | Shoals:4 | Banished a merfolk impaler
+  1412 | Shoals:4 | Noticed a merfolk impaler
+  1414 | Shoals:4 | Noticed a merfolk impaler
+  1414 | Shoals:4 | Noticed a frost giant
+  1415 | Shoals:4 | Noticed a merfolk javelineer
+  1419 | Shoals:4 | Banished a merfolk javelineer
+  1420 | Shoals:4 | Noticed a merfolk javelineer
+  1421 | Shoals:4 | Banished a frost giant
+  1422 | Shoals:4 | Banished a merfolk impaler
+  1424 | Shoals:4 | Banished a merfolk impaler
+  1427 | Shoals:4 | Noticed a merfolk impaler
+  1428 | Shoals:4 | HP: 1/60 [merfolk javelineer/javelin (28)]
+  1429 | Shoals:4 | Banished a merfolk javelineer
+  1430 | Shoals:4 | Banished a merfolk impaler
+  1436 | Shoals:4 | Noticed a merfolk impaler
+  1437 | Shoals:4 | Banished a merfolk impaler
+  1521 | Shoals:4 | Found a deep blue altar of Sif Muna.
+  1524 | Shoals:4 | Shot with an arrow by a centaur (20 damage)
+  1686 | Shoals:4 | Entered Level 4 of the Shoals
+  1693 | Shoals:4 | Noticed a merfolk javelineer
+  1695 | Shoals:4 | Banished a merfolk javelineer
+  1709 | Shoals:4 | Noticed a merfolk javelineer
+  1711 | Shoals:4 | Noticed a merfolk javelineer
+  1713 | Shoals:4 | Hit by a steel javelin thrown by a merfolk javelineer (34
+                  | damage)
+  1715 | Shoals:4 | Banished a merfolk javelineer
+  1715 | Shoals:4 | Hit by a javelin thrown by a merfolk javelineer (22 damage)
+  1720 | Shoals:4 | Banished a merfolk javelineer
+  1785 | Shoals:4 | Noticed a merfolk impaler
+  1787 | Shoals:4 | Banished a merfolk impaler
+  1792 | Shoals:4 | Reached XP level 14. HP: 26/64 MP: 28/28
+  1805 | Shoals:4 | Reached XP level 13. HP: 64/660 MP: 27/27
+  1805 | Shoals:4 | Reached XP level 12. HP: 64/657 MP: 26/26
+  1805 | Shoals:4 | Reached XP level 11. HP: 64/653 MP: 25/25
+  1805 | Shoals:4 | Reached XP level 10. HP: 64/649 MP: 24/24
+  1805 | Shoals:4 | Banished a sea snake
+  1805 | Shoals:4 | Noticed a water nymph
+  1806 | Shoals:4 | Banished a water nymph
+  1807 | Shoals:4 | Noticed a faun
+  1808 | Shoals:4 | Banished a faun
+  1808 | Shoals:4 | Noticed an alligator snapping turtle
+  1809 | Shoals:4 | Banished an alligator snapping turtle
+  1829 | Shoals:4 | Reached XP level 9. HP: 49/645 MP: 23/23
+  1829 | Shoals:4 | Reached XP level 8. HP: 49/642 MP: 22/22
+  1829 | Shoals:4 | Reached XP level 7. HP: 49/638 MP: 20/20
+  1829 | Shoals:4 | Reached XP level 6. HP: 49/634 MP: 19/19
+  1829 | Shoals:4 | Reached XP level 5. HP: 49/631 MP: 17/17
+  1829 | Shoals:4 | Reached XP level 4. HP: 49/627 MP: 16/16
+  1830 | Shoals:4 | Banished a merfolk
+  1830 | Shoals:4 | Reached XP level 5. HP: 31/31 MP: 17/17
+  1839 | Shoals:4 | Noticed a merfolk
+  1845 | Shoals:4 | Banished a merfolk
+  1845 | Shoals:4 | Reached XP level 6. HP: 34/34 MP: 19/19
+  1857 | Shoals:4 | Noticed a faun
+  1858 | Shoals:4 | Banished a faun
+  1865 | Shoals:4 | Noticed a kraken
+  1866 | Shoals:4 | Banished a kraken
+  1866 | Shoals:4 | Reached XP level 7. HP: 38/38 MP: 20/20
+  1866 | Shoals:4 | Reached XP level 8. HP: 42/42 MP: 22/22
+  1871 | Shoals:4 | Noticed a cyclops
+  1872 | Shoals:4 | Banished a cyclops
+  1872 | Shoals:4 | Noticed a faun
+  1873 | Shoals:4 | Banished a faun
+  1874 | Shoals:4 | Noticed a faun
+  1875 | Shoals:4 | Banished a faun
+  1891 | Shoals:4 | Noticed a merfolk
+  1894 | Shoals:4 | Banished a merfolk
+  1895 | Shoals:4 | Noticed a merfolk impaler
+  1895 | Shoals:4 | Noticed a satyr
+  1896 | Shoals:4 | Noticed a merfolk javelineer
+  1897 | Shoals:4 | Noticed a merfolk impaler
+  1899 | Shoals:4 | Noticed a faun
+  1900 | Shoals:4 | Noticed a satyr
+  1901 | Shoals:4 | Banished a merfolk javelineer
+  1901 | Shoals:4 | Reached XP level 9. HP: 20/45 MP: 23/23
+  1901 | Shoals:4 | Shot with an arrow by a satyr (32 damage)
+  1902 | Shoals:4 | Banished a merfolk impaler
+  1903 | Shoals:4 | Banished a merfolk impaler
+  1905 | Shoals:4 | Noticed a satyr
+  1906 | Shoals:4 | Banished a satyr
+  1907 | Shoals:4 | Banished a faun
+  1909 | Shoals:4 | Banished a satyr
+  1909 | Shoals:4 | Reached XP level 10. HP: 49/49 MP: 24/24
+  1909 | Shoals:4 | Reached XP level 9. HP: 49/645 MP: 23/23
+  1909 | Shoals:4 | Reached XP level 8. HP: 49/642 MP: 22/22
+  1909 | Shoals:4 | Reached XP level 7. HP: 49/638 MP: 21/21
+  1909 | Shoals:4 | Reached XP level 6. HP: 49/634 MP: 19/19
+  1909 | Shoals:4 | Reached XP level 5. HP: 49/631 MP: 18/18
+  1922 | Shoals:4 | Noticed a dream sheep
+  1922 | Shoals:4 | Noticed a dream sheep
+  1923 | Shoals:4 | Banished a dream sheep
+  1925 | Shoals:4 | Noticed a cyclops
+  1926 | Shoals:4 | Banished a dream sheep
+  1926 | Shoals:4 | Reached XP level 6. HP: 34/34 MP: 19/19
+  1926 | Shoals:4 | Banished a cyclops
+  1928 | Shoals:4 | Noticed a dream sheep
+  1928 | Shoals:4 | Noticed a dream sheep
+  1934 | Shoals:4 | Banished a dream sheep
+  1934 | Shoals:4 | Reached XP level 7. HP: 38/38 MP: 21/21
+  1934 | Shoals:4 | Banished a dream sheep
+  1962 | Shoals:4 | Noticed a water nymph
+  1964 | Shoals:4 | Banished a water nymph
+  1968 | Shoals:4 | Noticed a sea snake
+  1969 | Shoals:4 | Banished a sea snake
+  1969 | Shoals:4 | Reached XP level 8. HP: 42/42 MP: 22/22
+  1981 | Shoals:4 | Noticed a merfolk avatar
+  1982 | Shoals:4 | Banished a merfolk avatar
+  1983 | Shoals:4 | Identified the ring of Necsason {Int+2 Dex+5 SInv}
+  1983 | Shoals:4 | Noticed a merfolk
+  1985 | Shoals:4 | Noticed a faun
+  1986 | Shoals:4 | Noticed a faun
+  1986 | Shoals:4 | Noticed a merfolk
+  1986 | Shoals:4 | Noticed a manticore
+  1986 | Shoals:4 | Noticed a merfolk javelineer
+  1990 | Shoals:4 | Banished a faun
+  1992 | Shoals:4 | Banished a faun
+  1993 | Shoals:4 | Banished a merfolk javelineer
+  1993 | Shoals:4 | Reached XP level 9. HP: 32/45 MP: 23/23
+  1995 | Shoals:4 | Banished a merfolk
+  1995 | Shoals:4 | Banished a manticore
+  1997 | Shoals:4 | Banished a merfolk
+  2056 | Shoals:4 | Noticed a merfolk
+  2058 | Shoals:4 | Banished a merfolk
+  2090 | Shoals:4 | Banished a satyr
+  2110 | Shoals:4 | Noticed a faun
+  2111 | Shoals:4 | Banished a faun
+  2114 | Shoals:4 | Noticed a merfolk aquamancer
+  2115 | Shoals:4 | Banished a merfolk aquamancer
+  2116 | Shoals:4 | Noticed a water nymph
+  2116 | Shoals:4 | Banished a water nymph
+  2116 | Shoals:4 | Reached XP level 10. HP: 49/49 MP: 24/24
+  2188 | Shoals:4 | Reached XP level 9. HP: 49/645 MP: 23/23
+  2188 | Shoals:4 | Reached XP level 8. HP: 49/642 MP: 22/22
+  2188 | Shoals:4 | Reached XP level 7. HP: 49/638 MP: 21/21
+  2188 | Shoals:4 | Reached XP level 6. HP: 49/634 MP: 19/19
+  2188 | Shoals:4 | Reached XP level 5. HP: 49/631 MP: 18/18
+  2188 | Shoals:4 | Entered Level 4 of the Shoals
+  2188 | Shoals:4 | Noticed a wind drake
+  2188 | Shoals:4 | Noticed a harpy
+  2188 | Shoals:4 | Noticed a harpy
+  2188 | Shoals:4 | Noticed a harpy
+  2188 | Shoals:4 | Banished a harpy
+  2188 | Shoals:4 | Reached XP level 6. HP: 34/34 MP: 19/19
+  2188 | Shoals:4 | Banished a harpy
+  2188 | Shoals:4 | Reached skill level 10 in Spellcasting
+  2188 | Shoals:4 | Reached XP level 7. HP: 38/38 MP: 19/21
+  2188 | Shoals:4 | Banished a harpy
+  2188 | Shoals:4 | Banished a wind drake
+  2204 | Shoals:4 | Noticed a sea snake
+  2205 | Shoals:4 | Noticed a merfolk impaler
+  2205 | Shoals:4 | Noticed a snapping turtle
+  2206 | Shoals:4 | Banished a sea snake
+  2206 | Shoals:4 | Reached XP level 8. HP: 42/42 MP: 23/23
+  2206 | Shoals:4 | Banished a snapping turtle
+  2209 | Shoals:4 | Banished a merfolk impaler
+  2233 | Shoals:4 | Noticed a merfolk impaler
+  2233 | Shoals:4 | Noticed a merfolk
+  2234 | Shoals:4 | Noticed a merfolk
+  2235 | Shoals:4 | Noticed a merfolk
+  2235 | Shoals:4 | Noticed a faun
+  2236 | Shoals:4 | Banished a merfolk impaler
+  2236 | Shoals:4 | Reached XP level 9. HP: 45/45 MP: 24/24
+  2237 | Shoals:4 | Noticed a faun
+  2239 | Shoals:4 | Noticed a satyr
+  2239 | Shoals:4 | Banished a merfolk
+  2240 | Shoals:4 | Banished a merfolk
+  2241 | Shoals:4 | Banished a merfolk
+  2243 | Shoals:4 | Banished a faun
+  2245 | Shoals:4 | Noticed a faun
+  2245 | Shoals:4 | Banished a faun
+  2247 | Shoals:4 | Banished a faun
+  2249 | Shoals:4 | Banished a satyr
+  2264 | Shoals:4 | Noticed a merfolk
+  2264 | Shoals:4 | Noticed a merfolk aquamancer
+  2265 | Shoals:4 | Noticed a merfolk avatar
+  2266 | Shoals:4 | Hit by a tomahawk thrown by a merfolk (16 damage)
+  2269 | Shoals:4 | Banished a merfolk aquamancer
+  2271 | Shoals:4 | Noticed a drowned soul
+  2271 | Shoals:4 | Banished a merfolk avatar
+  2271 | Shoals:4 | Reached XP level 10. HP: 47/49 MP: 25/25
+  2279 | Shoals:4 | Noticed a sea snake
+  2279 | Shoals:4 | Noticed a merfolk impaler
+  2279 | Shoals:4 | Noticed a sea snake
+  2280 | Shoals:4 | Banished a sea snake
+  2280 | Shoals:4 | Banished a merfolk impaler
+  2282 | Shoals:4 | Banished a sea snake
+  2303 | Shoals:4 | Noticed a manticore
+  2305 | Shoals:4 | Banished a manticore
+  2314 | Shoals:4 | Entered Level 4 of the Shoals
+  2317 | Shoals:4 | Noticed a water nymph
+  2318 | Shoals:4 | Banished a water nymph
+  2319 | Shoals:4 | Noticed a manticore
+  2319 | Shoals:4 | Noticed a harpy
+  2319 | Shoals:4 | Noticed a merfolk siren
+  2320 | Shoals:4 | Banished a harpy
+  2322 | Shoals:4 | Killed from afar by a manticore (19 damage)
+                  | ... with a volley of spikes
+  2323 | Shoals:4 | Banished a merfolk siren
+  2324 | Shoals:4 | Banished a manticore
+  2338 | Shoals:4 | Noticed a sea snake
+  2339 | Shoals:4 | Banished a sea snake
+  2347 | Shoals:4 | Noticed a merfolk aquamancer
+  2347 | Shoals:4 | Noticed a sea snake
+  2347 | Shoals:4 | Noticed a manticore
+  2348 | Shoals:4 | Banished a sea snake
+  2348 | Shoals:4 | Banished a merfolk aquamancer
+  2349 | Shoals:4 | Banished a manticore
+  2352 | Shoals:4 | Noticed a merfolk siren
+  2353 | Shoals:4 | Banished a merfolk siren
+  2359 | Shoals:4 | Noticed a merfolk impaler
+  2361 | Shoals:4 | Banished a merfolk impaler
+  2361 | Shoals:4 | Reached XP level 11. HP: 53/53 MP: 26/26
+  2364 | Shoals:4 | Noticed a merfolk javelineer
+  2364 | Shoals:4 | Noticed a merfolk avatar
+  2366 | Shoals:4 | Banished a merfolk avatar
+  2367 | Shoals:4 | Banished a merfolk javelineer
+  2378 | Shoals:4 | Noticed a sea snake
+  2380 | Shoals:4 | Banished a sea snake
+  2392 | Shoals:4 | Noticed a merfolk impaler
+  2392 | Shoals:4 | Noticed a merfolk impaler
+  2392 | Shoals:4 | Noticed a merfolk impaler
+  2392 | Shoals:4 | Noticed a merfolk javelineer
+  2392 | Shoals:4 | Noticed a merfolk javelineer
+  2392 | Shoals:4 | Noticed a merfolk javelineer
+  2394 | Shoals:4 | Banished a merfolk impaler
+  2394 | Shoals:4 | Banished a merfolk impaler
+  2395 | Shoals:4 | Banished a merfolk javelineer
+  2396 | Shoals:4 | Banished a merfolk javelineer
+  2396 | Shoals:4 | Mangled by a merfolk impaler
+                  | ... wielding a +3 trident of flaming
+                  | (10 damage)
+  2397 | Shoals:4 | Banished a merfolk impaler
+  2398 | Shoals:4 | Banished a merfolk javelineer
+  2786 | Shoals:4 | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Fighting       |  2  4  6  7                 9          |  9.1
+Dodging        |  4  7  8  9 10       11    12          |  1.0
+Stealth        |  3           6  9 11  4 13    14     3 |  1.0
+Unarmed Combat |  4  5  7              8                |  8.5
+Spellcasting   |  3        4  5 10             11  8  9 | 11.0
+Transmutations |  3  5  7  8             10             | 10.3
+Ice Magic      |              3                         |  3.0
+Poison Magic   |                    4                   |  4.2
+Throwing       |                               25       |  0.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Throw: Throwing net      |       |       |       |     9 |       ||     9
+ Cast: Spider Form       |       |       |       |     2 |       ||     2
+       Sticks to Snakes  |       |       |       |     1 |       ||     1
+ Abil: End Transformatio |       |       |       |     2 |       ||     2
+  Use: Potion            |     3 |     3 |     3 |     1 |       ||    10
+Dodge: Dodged            |       |       |     8 |   123 |    37 ||   168
+

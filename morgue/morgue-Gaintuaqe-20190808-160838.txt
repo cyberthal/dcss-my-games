@@ -1,0 +1,136 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12959712950467383826
+
+0 Gaintuaqe the Skirmisher (level 1, 17/18 HPs) *WIZ*
+             Began as a Human Abyssal Knight on Aug 8, 2019.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:00 (6 turns).
+
+Gaintuaqe the Skirmisher (Human Abyssal Knight)        Turns: 6, Time: 00:01:01
+
+Health: 17/18      AC:  3    Str: 12    XL:     1   Next: 11%
+Magic:  1/2        EV: 11    Int: 12    God:    Lugonu 25 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 spear (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Polearms
+ + Level 2.0 Armour
+ + Level 1.0 Dodging
+ + Level 2.0 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+A rat comes into view.
+There is a staircase leading out of the dungeon here.
+You closely miss the rat. The rat bites you.
+You hit the rat.
+You kill the rat!
+Lugonu accepts your kill.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+An adder comes into view.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - adder
+Aim: an adder
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.1 |      7 |  47% |   1.5 |   100  |  1.00 |      1.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.7 |      5 |  52% |   0.9 |    76  |  1.32 |      1.2
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ###
+    ...
+     ..
+#  ###.#####
+#. #.......#
+#..#.......#
+#.......%..#
+   #...S...#
+   #...@...#
+   #..........#
+   #.......#..#
+   #.......# .#
+   #####.###  #
+       ...
+       ...
+       ####
+
+
+You could see an adder.
+
+Vanquished Creatures
+  A rat (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Gaintuaqe the Human Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | D:1      | Escaped the Abyss
+     3 | D:1      | Entered wizard mode.
+     6 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||  4002
+Invok: Depart the Abyss  ||     1
+Armor: Leather armour    ||   615
+Dodge: Dodged            ||  1906
+

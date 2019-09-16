@@ -1,0 +1,320 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12549273454195307145
+
+650 Uhyocedd the Changer (level 7, 57/57 HPs) *WIZ*
+             Began as a Demigod Transmuter on Sept 14, 2019.
+             Quit the game on level 4 of the Dungeon on Sept 16, 2019.
+             The game lasted 01:11:24 (8797 turns).
+
+Uhyocedd the Changer (Demigod Transmuter)           Turns: 8797, Time: 01:11:25
+
+Health: 57/57      AC:  4    Str: 17    XL:     7   Next: 6%
+Magic:  12/13      EV: 12    Int: 17    God:    No God 0 (0)
+Gold:   181        SH:  5    Dex: 16    Spells: 4/10 levels left
+
+rFire    . . .     SeeInvis .   J - +2 dagger (venom)
+rCold    . . .     Gourm    +   r - +0 buckler
+rNeg     . . .     Faith    .   h - +0 leather armour
+rPois    .         Spirit   .   y - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (boots currently unavailable)
+Stlth    ++........             z - amulet of the gourmand
+HPRegen  0.19/turn              w - ring of resist corrosion
+MPRegen  0.13/turn              (no ring)
+
+@: appendage
+A: talons 3, high mp 1
+a: End Transformation
+
+
+You were on level 4 of the Dungeon.
+You were completely stuffed.
+
+You had grown temporary talons.
+
+You visited 2 branches of the dungeon, and saw 5 of its levels.
+You also visited: Sewer.
+
+You collected 181 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 blowgun
+ b - a +0 hunting sling
+ e - a +0 short sword
+ g - a +0 morningstar
+ q - a +0 great sword
+ x - a +0 trident
+ A - a +0 dagger of electrocution
+ I - a +0 quarterstaff
+ J - a +2 dagger of venom (weapon)
+Missiles
+ l - 109 stones
+ o - 36 bolts
+ t - 62 arrows
+ D - 4 tomahawks (quivered)
+ H - 14 poisoned needles
+ K - 2 sling bullets
+Armour
+ f - a +1 robe of positive energy
+ h - a +0 leather armour (worn)
+ r - a +0 buckler (worn)
+ s - a +0 ring mail
+ y - a +0 helmet (worn)
+ F - a +0 scale mail
+Jewellery
+ w - a ring of resist corrosion (left hand)
+ z - an amulet of the gourmand (around neck)
+Scrolls
+ i - a scroll of enchant armour {unknown}
+ j - a scroll of blinking
+ m - a scroll of fear
+ n - 6 scrolls of remove curse
+ u - a scroll of identify {unknown}
+ v - a scroll of teleportation {unknown}
+ E - a scroll of noise {unknown}
+ G - a scroll of enchant weapon {unknown}
+Potions
+ c - 2 potions of brilliance
+ k - a potion of flight
+ p - a potion of heal wounds
+ B - a potion of ambrosia {unknown}
+ C - a potion of might
+Comestibles
+ d - 6 rations
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 0.0 Short Blades
+ - Level 2.8(3.0) Slings
+ - Level 1.0(2.1) Throwing
+ - Level 2.2 Armour
+ - Level 2.2 Dodging
+ - Level 1.0 Stealth
+ - Level 3.0 Shields
+ - Level 3.0 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 3.1 Transmutations
+ + Level 0.0 Poison Magic
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           12 (50)      8%          1    16
+b - Sticks to Snakes      Tmut           12 (100)     11%         2    66
+c - Spider Form           Tmut/Pois      7 (200)      38%         3    116
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ice Form                 Ice/Tmut       7 (100)      80%         4    216
+ Blade Hands              Tmut           12 (200)     90%         5    366
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (1/1) D:4         
+
+Annotations:
+D:3 exclusion: upstairs, Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+You have claws for feet.
+
+
+Message History
+
+Casting: Sticks to Snakes (safe; 11% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your feet morph into talons.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      2.6 |     11 |  62% |   1.6 |   120  |  0.83 |      1.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      3.5 |      9 |  44% |   1.6 |   100  |  1.00 |      1.6
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +2 dagger of venom begins to drip with poison!
+J - a +2 dagger of venom (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.2 |     16 |  63% |   2.0 |   101  |  0.99 |      2.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      3.4 |      9 |  43% |   1.5 |   100  |  1.00 |      1.5
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                                       #.............
+                                       #.............
+                                       #.......'#####
+                                       #.......##
+                                       #....####
+                                       #....#
+                                 #######.)..#
+                             #####....##....#
+                             #........''....#
+                             #.###....##...#####
+                             #.# #....##.......#
+                             #.# #....##....>..######
+                             #.# #....####...........
+                             #.# #....+..............
+                             #.# #....#######........
+                             #.####'###     ##.######
+                             #.#.....#       #.#
+                             #.#.....#     ###'###
+                             #.#.....#     #.....#
+   ########                  #.#>....#   ###.}.}.###
+   #......#                  #.#.....#####.'..>..+.#
+   #......#  ############### #.#.....'.....#.}.}.#.#
+(###......####.............###.#.....#######.....#.#
+.(((......'..+@................#.....#    ####'###.#
+ ###......####.............#####.....#    #........#
+   #......#  #...........).#   #.....#    #.......##
+   #......####.............#   #######    #......##
+   #.......................############   ###'####
+   #............................#.....#     #.#
+   #......................).[<..#.....#     #.#
+   ######.........#######.......#.....#     #.#
+        #.....#####     #########.....#     #<#######
+        #.....#                 #.....#     #.#......
+        #.....#                 #.....#     #.#.####.
+        #.....#                 #.....#     ##.......
+                                ###'###     #.#...##.
+                            #######.#       #..#..##.
+                            #...>...#       #...#....
+                            #.#######       #....#..#
+                            #.#             #.##..##.
+                            #.###############.##..##.
+                            #....................#..#
+                            #################...#....
+                                     #.........#..##.
+                                     #.######.#...##.
+                                     #.#....##.......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  3 scorpions (D:4)
+  A hound (D:4)
+  2 orc priests (D:3)
+  An iguana (D:4)
+  3 orc wizards
+  Terence (D:2)
+  A hound skeleton (D:4)
+  Robin (D:2)
+  8 adders
+  3 gnolls
+  4 worms
+  A dart slug (D:4)
+  A leopard gecko (D:2)
+  19 orcs
+  6 ball pythons
+  2 giant cockroaches
+  15 goblins
+  6 hobgoblins
+  7 jackals (Sewer)
+  14 kobolds
+  2 quokkas
+  A ball python skeleton (D:4)
+  6 bats
+  4 frilled lizards
+  9 rats
+  A plant (Sewer)
+122 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An orc wizard (D:4)
+  A worm (D:3)
+2 creatures vanquished.
+
+Grand Total: 124 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Uhyocedd the Demigod Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 5/5
+    52 | D:1      | Reached skill level 1 in Fighting
+   548 | D:1      | Reached skill level 1 in Stealth
+  1021 | D:1      | Reached XP level 2. HP: 23/23 MP: 5/7
+  1097 | D:2      | Noticed Robin
+  1148 | D:1      | Learned a level 2 spell: Sticks to Snakes
+  1259 | D:2      | Noticed Terence
+  1284 | D:2      | Reached skill level 1 in Armour
+  2017 | D:2      | Reached XP level 3. HP: 29/29 MP: 6/8
+  2788 | D:2      | Killed Robin
+  2961 | D:2      | Killed Terence
+  2961 | D:2      | Reached XP level 4. HP: 36/36 MP: 3/9
+  3432 | D:2      | Reached skill level 1 in Slings
+  3432 | D:2      | Reached skill level 1 in Shields
+  3478 | D:2      | Learned a level 3 spell: Spider Form
+  4204 | D:3      | Noticed Sigmund
+  4458 | D:3      | Reached XP level 5. HP: 41/41 MP: 8/10
+  4985 | D:3      | Found a stormy altar of Qazlal.
+  4991 | D:3      | Noticed a water elemental
+  4991 | D:3      | Noticed a fire elemental
+  4991 | D:3      | Noticed an air elemental
+  6291 | D:4      | Found a staircase to the Ecumenical Temple.
+  6670 | D:4      | Reached XP level 6. HP: 42/48 MP: 11/11
+  6671 | D:4      | Found a glowing drain.
+  6705 | Sewer    | Entered a sewer
+  7745 | D:4      | Reached skill level 1 in Throwing
+  8148 | Temple   | Entered the Ecumenical Temple
+  8605 | D:4      | Reached XP level 7. HP: 55/57 MP: 8/13
+  8796 | D:4      | Entered wizard mode.
+  8797 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Fighting       |  1     2        3    |  3.0
+Stealth        |  1                   |  1.0
+Armour         |     1     2          |  2.2
+Transmutations |     2              3 |  3.1
+Dodging        |        2             |  2.2
+Spellcasting   |        2             |  2.0
+Slings         |           1  2       |  2.8
+Shields        |           2     3    |  3.0
+Unarmed Combat |                 3    |  3.0
+Throwing       |                 1    |  1.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    97 |   190 |     4 ||   291
+       Headbutt          |    10 |       |       ||    10
+       Kick              |    11 |    59 |  1590 ||  1660
+       Punch             |     1 |       |       ||     1
+       Dagger            |       |       |  4000 ||  4000
+ Fire: Hunting sling     |    19 |   165 |     8 ||   192
+       Blowgun           |       |    19 |       ||    19
+Throw: Stone             |    29 |     5 |       ||    34
+       Tomahawk          |       |     4 |       ||     4
+ Cast: Beastly Appendage |    35 |    43 |     3 ||    81
+       Sticks to Snakes  |     8 |    11 |     1 ||    20
+  Use: Potion            |       |     5 |       ||     5
+       Scroll            |       |     3 |       ||     3
+ Stab: Distracted        |     1 |       |       ||     1
+  Eat: Chunk             |     7 |    28 |     3 ||    38
+Armor: Robe              |     4 |       |       ||     4
+       Leather armour    |    10 |    39 |   793 ||   842
+       Ring mail         |     4 |     5 |       ||     9
+Dodge: Dodged            |    50 |    83 |  3140 ||  3273
+Block: Buckler           |     1 |    62 |  1320 ||  1383
+

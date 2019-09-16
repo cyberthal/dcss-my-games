@@ -1,0 +1,548 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15973302868569242273
+
+Neeciach the Covert (Felid Conjurer)               Turns: 39145, Time: 07:21:14
+
+Health: 45/45      AC:  6    Str:  5    XL:     11   Next: 98%
+Magic:  20/20      EV: 32    Int: 18    God:    Sif Muna 70 (0)
+Gold:   76         SH:  0    Dex: 18    Spells: 0/20 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   +   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    ++++++....             E - amulet of guardian spirit
+HPRegen  0.15/turn              q - +4 ring of protection
+MPRegen  0.17/turn              L - +4 ring of evasion
+
+@: appendage, divine energy, quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+horns 2, see invisible, carnivore, speed 1, shaggy fur 2, slow metabolism 1,
+sharp paws
+a: End Transformation, Stop Divine Energy, Renounce Religion
+
+
+You are on level 11 of the Dungeon.
+You worship Sif Muna.
+Sif Muna is pleased with you.
+You are completely stuffed.
+
+You have grown temporary horns.
+
+You have visited 3 branches of the dungeon, and seen 13 of its levels.
+You have visited 1 bazaar.
+
+You have collected 1163 gold pieces.
+You have spent 1087 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ N - 247 stones
+ O - 60 arrows
+Jewellery
+ i - the ring of Jefel {+Fly rF- Dex+4 Stlth+}
+   (You acquired it on level 11 of the Dungeon)   
+   
+   [ring of stealth]
+   
+   It affects your dexterity (+4).
+   It makes you vulnerable to fire.
+   It lets you fly.
+   It makes you more stealthy.
+ p - an uncursed ring of fire
+ q - a +4 ring of protection (left paw)
+ t - a +3 ring of dexterity
+ u - an uncursed ring of protection from cold
+ w - the ring "Uhirr" {Fire Int+2}
+   (You found it on level 7 of the Dungeon)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   It affects your intelligence (+2).
+   It protects you from fire.
+   It makes you vulnerable to cold.
+ x - an uncursed ring of wizardry
+ A - an uncursed ring of wizardry
+ E - an amulet of guardian spirit (around neck)
+ G - an uncursed ring of protection from cold
+ H - an uncursed ring of resist corrosion
+ K - an uncursed amulet of faith
+ L - a +4 ring of evasion (right paw)
+ S - a +2 ring of strength
+Wands
+ I - a wand of iceblast (9)
+ M - a wand of polymorph (7)
+ Q - a wand of flame (12)
+ T - a wand of digging (2)
+ U - a wand of enslavement (6)
+ W - a wand of paralysis (7)
+ X - a wand of acid (7)
+Scrolls
+ a - 5 scrolls of teleportation
+ f - 3 scrolls of fear
+ h - a scroll of amnesia
+ n - 2 scrolls of blinking
+ o - 4 scrolls of magic mapping
+ y - a scroll of immolation
+ z - a scroll of vulnerability
+ B - 4 scrolls of fog
+ D - a scroll of noise
+ J - 5 scrolls of remove curse
+ P - a scroll labeled POYCVI FIKK
+Potions
+ c - a potion of haste
+ d - 4 potions of resistance
+ e - 5 potions of might
+ g - 5 potions of flight
+ j - a potion of ambrosia
+ k - a potion of cancellation
+ l - 3 potions of mutation
+ m - 3 potions of berserk rage
+ r - 3 potions of brilliance
+ s - a potion of lignification
+ v - 4 potions of heal wounds
+ C - a potion of agility
+ F - 4 potions of curing
+Miscellaneous
+ R - a crystal ball of energy
+ V - a box of beasts
+ Y - a phial of floods
+Comestibles
+ b - 31 rations
+ Z - 2 chunks of flesh
+
+
+   Skills:
+ - Level 3.2 Fighting
+ - Level 11.4 Dodging
+ - Level 12.1 Stealth
+ - Level 7.0 Unarmed Combat
+ - Level 5.3 Spellcasting
+ - Level 6.1 Conjurations
+ - Level 7.0 Hexes
+   Level 2.1 Translocations
+ - Level 4.2 Transmutations
+ - Level 2.1 Poison Magic
+ + Level 8.8 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      1%          1    0
+b - Beastly Appendage     Tmut           19 (50)      2%          1    0
+c - Searing Ray           Conj           26 (50)      1%          2    4
+d - Sticks to Snakes      Tmut           19 (100)     3%          2    4
+e - Dazzling Spray        Conj/Hex       28 (50)      2%          3    54
+f - Spider Form           Tmut/Pois      16 (200)     11%         3    54
+g - Fulminant Prism       Conj/Hex       28 (200)     9%          4    154
+h - Iskenderun's Mystic   Conj           26 (100)     11%         4    154
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Force Lance              Conj/Tloc      19 (100)     24%         4    154
+ Ice Form                 Ice/Tmut       12 (100)     47%         4    154
+ Blade Hands              Tmut           19 (200)     54%         5    304
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:7            Lair (1/6) D:11
+    Orc (0/2) D:10        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:10 ?*
+
+Annotations:
+D:9 hatch
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+You have a pair of horns on your head.
+
+
+Message History
+
+Here: a yak
+The floor.
+The yak is devoured by a tear in reality.
+Training target 9.0 for Evocations reached!
+Your Evocations skill increases to level 9!
+You need to enable at least one skill for training.
+Enter Wizard Command (? - help): 
+Which skill (by name)? evo
+Evocations
+To what level? 8.8
+Lowered Evocations to skill level 8.8.
+Save game and exit? 
+Welcome back, Neeciach the Felid Conjurer.
+Sif Muna whispers: I know many secrets...
+Press ? for a list of commands and other information.
+Enter Wizard Command (? - help): 
+Healing.
+Enter Wizard Command (? - help): 
+You allow the flow of time to resume.
+Save game and exit? 
+
+                         ###########
+     #####               #.........#       #######
+     #...######### #######.#######.#########.....#       #####
+     #...........###.............................#########...####
+     #...#######.......###.#######.########.......#........#....#
+     ##.####   #####.#.# #.#  #...................#.####...#....###
+     #.....#########.#.# #.#  #.##.########..............#####....#
+     #..###..........#.# #.#  #.##......# ###...##...###...#....#.#
+    ##.## ##...........# #.####.##......#####....)....>....#.##.#.#
+    #.##   ##.######...###......PP....P..P...#####...#####^..##.#.#
+    #.#     #...#  #...............P.P.P...#.#   ##.##   ##.###.#.#
+    #.##   ##.#.#  #...#######..P.P........#.#    #.#######...#.#.#
+    ##.## ##.##.#  #...#     #P..P.....P.....#    #.............#.#
+     #..###<.##.####...#######.....####..PP..#    ###########[###.#
+     #.#...#(##................P...#>.#..PP..#           ####.###.###
+     #.#.).#.#######...#######.....#00#...P..#           #....|..#..#
+     #.#.#.#.# #.>.....#     #.P...##@#..P...#           #.##.###.#.#
+  ####.#.#.#.###.###...#     #..P.P.00.......#           #.##.# #.#.#
+  #....#.#.#.#...#.....##   ###..P.P.0....P#.####        #.##.# #.#.#
+  #.####.#.#....##.#....#   #.....P.P...........#        #.##.###.#.#
+  #.#  #.#........).....#   #.##P.....P.........#        #.#...##.#.##
+  #.#  #.####...######..#   #[####P.....#.......#        #......#....#
+###.####.#####.##    #>.#  ##.## ###.##.###'##..#       ##.......##..#
+#.^........# #.#     #..####...##  #....##...#..#       #.........#..#
+#.#.#......###.#######..........#  ####.##.[.#..#       #............#
+#.#.....................####....#     #.##...#..#       #...........##
+#.###......##...#########  ###..# ### #.#########       ##.......####
+#..........#.....#           #..###.###.# #.#            ##.....##
+########.###.....#           #..##...##.# #.#             #..[..#
+       #.# #.....#           #...#.\.#..# #.#             #.....#
+       #.# #....##           ##.##...#### #.#             #.....#
+       #.# #.####             #.###.##    #.#             #.....#
+       #.# #.#                #.[.#'#     #.#             #.....#
+       #.# #(################ #.#...#     #.#             ##..###
+       #.# #...).....(......# #.#####     #.#              #..#
+       #[##################.# #.#         #.#              #..#
+       #......#           #[# #.#      ####.#              #..#
+       ######.#           #.# #[#     ##....########       #..#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:8)
+  The ghost of Messyblue the Markscentaur, a novice CeHu of Okawaru (D:7)
+  The ghost of Jawiewoz the Ruffian, a novice TrCK of Xom (D:5)
+  Pikel (D:7)
+  A cyclops (D:11)
+  A manticore (D:11)
+  Maurice (D:10)
+  Psyche (D:11)
+  4 spiny frogs (Lair:1)
+  2 trolls
+  A slime creature (D:8)
+  A wyvern (D:9)
+  5 yaks
+  A vampire (D:9)
+  2 hogs (D:7)
+  A human (D:7)
+  A hungry ghost (D:10)
+  5 water moccasins
+  2 black bears (D:11)
+  A porcupine (Lair:1)
+  4 ice beasts (D:7)
+  10 orc warriors
+  3 sky beasts
+  2 slaves (D:6)
+  A hornet zombie (D:9)
+  An eye of draining (D:10)
+  6 ogres
+  3 wolves (Lair:1)
+  2 centaurs
+  A crocodile (Lair:1)
+  13 bullfrogs
+  5 big kobolds
+  3 gnoll sergeants (D:10)
+  4 scorpions
+  9 killer bees
+  5 wights
+  A howler monkey (D:6)
+  10 crimson imps
+  2 centaur zombies
+  A jelly (D:11)
+  2 bullfrog zombies
+  9 hounds
+  2 bullfrog skeletons
+  2 centaur skeletons
+  An orc priest (D:9)
+  6 worker ants
+  5 iguanas
+  5 orc wizards
+  A bullfrog simulacrum (D:7)
+  A hound zombie (D:8)
+  20 gnolls
+  2 howler monkey skeletons
+  12 adders
+  2 white imps (D:7)
+  An ooze (D:2)
+  3 adder skeletons (D:5)
+  2 worms
+  2 dart slugs
+  9 leopard geckos
+  29 orcs
+  7 giant cockroaches
+  8 goblins
+  8 hobgoblins
+  9 jackals
+  5 quokkas
+  10 bats
+  8 frilled lizards
+  9 kobolds
+  A leopard gecko zombie (D:6)
+  5 rats
+306 creatures vanquished.
+
+Vanquished Creatures (others)
+  A spiny frog (D:11)
+  A yak (D:11)
+  A slave (D:7)
+  A jelly (D:7)
+  A worker ant zombie (D:7)
+  4 orcs (D:7)
+  A quokka (D:7)
+  A kobold (D:11)
+  30 fulminant prisms
+  15 fungi (D:11)
+  6 plants
+62 creatures vanquished.
+
+Grand Total: 368 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Neeciach the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+   213 | D:1      | Reached skill level 1 in Unarmed Combat
+   554 | D:1      | Reached skill level 1 in Fighting
+   640 | D:1      | Reached XP level 2. HP: 12/12 MP: 3/6
+   831 | D:1      | Learned a level 2 spell: Searing Ray
+   909 | D:1      | Reached skill level 3 in Stealth
+  1973 | D:1      | Reached XP level 3. HP: 15/15 MP: 2/7
+  2500 | D:1      | Learned a level 3 spell: Dazzling Spray
+  2941 | D:2      | Reached skill level 1 in Hexes
+  3723 | D:3      | Noticed a bullfrog
+  3727 | D:3      | Reached skill level 4 in Stealth
+  4605 | D:3      | Reached XP level 4. HP: 19/19 MP: 4/8
+  4747 | D:3      | Killed a bullfrog
+  4747 | D:3      | Reached XP level 5. HP: 18/24 MP: 1/9
+  6898 | D:4      | Reached skill level 5 in Stealth
+  7649 | D:3      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  7649 | D:3      | Reached XP level 6. HP: 28/28 MP: 2/10
+  8306 | D:5      | Entered Level 5 of the Dungeon
+  8342 | D:4      | Reached skill level 5 in Dodging
+  8459 | D:5      | Found a runed translucent gate.
+  8464 | D:5      | Found a runed translucent gate.
+  8464 | D:5      | Found an opulent altar of Gozag.
+  8465 | D:5      | Found a runed translucent gate.
+  8467 | D:5      | Noticed Jawiewoz's ghost (novice TrCK)
+  9391 | D:5      | Reached skill level 6 in Stealth
+  9731 | D:5      | Noticed an orc warrior
+  9760 | D:5      | Reached XP level 7. HP: 31/31 MP: 11/11
+ 10413 | D:5      | Found a runed translucent gate.
+ 10414 | D:5      | Found a runed translucent gate.
+ 10414 | D:5      | Found an opulent altar of Gozag.
+ 10871 | D:4      | Learned a level 4 spell: Iskenderun's Mystic Blast
+ 11835 | D:5      | Reached skill level 7 in Stealth
+ 11971 | D:5      | Reached skill level 8 in Stealth
+ 12789 | D:6      | Reached XP level 8. HP: 33/34 MP: 4/12
+ 13904 | D:6      | Found a snail-covered altar of Cheibriados.
+ 14015 | D:6      | Reached skill level 9 in Stealth
+ 14315 | D:7      | Noticed Pikel
+ 14551 | D:7      | Found Fintu's Distillery.
+ 14584 | D:7      | Bought a potion of brilliance for 40 gold pieces
+ 14584 | D:7      | Bought a potion of brilliance for 40 gold pieces
+ 14584 | D:7      | Bought a potion of curing for 30 gold pieces
+ 14898 | D:7      | Killed Pikel
+ 15003 | D:7      | Found a sacrificial altar of Ru.
+ 15168 | D:7      | Found a runed translucent gate.
+ 15169 | D:7      | Found a runed translucent gate.
+ 15170 | D:7      | Found a runed translucent gate.
+ 15355 | D:7      | Noticed Messyblue's ghost (novice CeHu)
+ 15943 | D:7      | Found a staircase to the Ecumenical Temple.
+ 15949 | Temple   | Entered the Ecumenical Temple
+ 15956 | Temple   | Became a worshipper of Sif Muna the Loreminder
+ 16180 | D:7      | Reached XP level 9. HP: 38/38 MP: 13/13
+ 16671 | D:6      | Reached skill level 5 in Unarmed Combat
+ 17294 | D:7      | Found a sacrificial altar of Ru.
+ 17425 | D:7      | Found Fintu's Distillery.
+ 17541 | D:7      | Found a staircase to the Ecumenical Temple.
+ 18430 | D:7      | Learned a level 4 spell: Fulminant Prism
+ 19437 | D:8      | Noticed a two-headed ogre
+ 19695 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 20320 | D:8      | Reached skill level 10 in Stealth
+ 20843 | D:8      | Reached * piety under Sif Muna
+ 20986 | D:9      | Reached skill level 5 in Spellcasting
+ 21069 | D:9      | Noticed a troll
+ 21705 | D:9      | Reached XP level 10. HP: 28/42 MP: 12/18
+ 21916 | D:9      | Reached skill level 5 in Hexes
+ 22765 | D:9      | Learned a level 4 spell: Force Lance
+ 22766 | D:10     | Entered Level 10 of the Dungeon
+ 22787 | D:10     | Found Curunyt's Assorted Antiques.
+ 23022 | D:10     | Found Vuitzyi's Magic Scroll Shoppe.
+ 23155 | D:9      | Learned a level 1 spell: Beastly Appendage
+ 23158 | D:10     | Bought a shiny coral ring for 150 gold pieces
+ 23158 | D:10     | Bought an encrusted wooden wand for 120 gold pieces
+ 23158 | D:10     | Bought a scroll labeled BUUHUS REONUIP for 30 gold pieces
+ 23352 | D:10     | Found a staircase to the Orcish Mines.
+ 23390 | D:10     | Reached skill level 1 in Transmutations
+ 25076 | D:10     | Found Curunyt's Assorted Antiques.
+ 25172 | D:10     | Found Vuitzyi's Magic Scroll Shoppe.
+ 25227 | D:10     | Bought a scroll of identify for 24 gold pieces
+ 25655 | D:9      | Learned a level 2 spell: Sticks to Snakes
+ 26192 | D:11     | Found a gateway to a bazaar.
+ 26248 | D:11     | Reached ** piety under Sif Muna
+ 26759 | D:11     | Noticed Psyche
+ 27020 | D:11     | Noticed a manticore
+ 27055 | D:11     | Noticed Maurice
+ 27059 | D:11     | Noticed a cyclops
+ 27293 | D:10     | Killed Maurice
+ 27293 | D:10     | Reached skill level 11 in Stealth
+ 27348 | D:10     | Bought a scroll of identify for 24 gold pieces
+ 27593 | D:11     | Killed a cyclops
+ 27593 | D:11     | Reached skill level 10 in Dodging
+ 27977 | D:11     | Killed a manticore
+ 29066 | D:11     | Reached XP level 11. HP: 40/45 MP: 11/19
+ 29479 | D:11     | Killed Psyche
+ 29479 | D:11     | Reached skill level 12 in Stealth
+ 30009 | D:11     | Found a staircase to the Lair.
+ 30041 | D:11     | Found a staircase to the Lair.
+ 30381 | D:11     | Found a gateway to a bazaar.
+ 30592 | D:6      | Learned a level 3 spell: Spider Form
+ 31226 | D:5      | Killed Jawiewoz's ghost
+ 31337 | D:5      | Found an opulent altar of Gozag.
+ 31901 | D:7      | Found a sacrificial altar of Ru.
+ 32302 | D:7      | Killed Messyblue's ghost
+ 32492 | D:7      | Found a staircase to the Ecumenical Temple.
+ 32590 | D:7      | Got the ring "Uhirr" {Fire}
+ 32596 | D:7      | Identified the ring "Uhirr" {Fire Int+2} (You found it on
+                  | level 7 of the Dungeon)
+ 33129 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 33449 | D:8      | Killed a two-headed ogre
+ 34508 | Bazaar   | Entered a bazaar
+ 34525 | Bazaar   | Found Gageuf's Antique Weapon Shoppe.
+ 34538 | Bazaar   | Found Haugg's Weapon Emporium.
+ 34579 | Bazaar   | Found Honut's Magic Scroll Shoppe.
+ 34668 | Bazaar   | Bought a scroll of identify for 28 gold pieces
+ 34668 | Bazaar   | Bought a scroll of identify for 28 gold pieces
+ 34668 | Bazaar   | Bought a scroll of magic mapping for 49 gold pieces
+ 34668 | Bazaar   | Bought a scroll of fear for 49 gold pieces
+ 34668 | Bazaar   | Bought a scroll of identify for 28 gold pieces
+ 34668 | Bazaar   | Bought a scroll of blinking for 105 gold pieces
+ 34668 | Bazaar   | Bought a scroll of remove curse for 42 gold pieces
+ 34668 | Bazaar   | Bought a scroll of remove curse for 42 gold pieces
+ 34668 | Bazaar   | Bought a scroll of identify for 28 gold pieces
+ 34686 | D:11     | Identified a scroll of acquirement
+ 34691 | D:11     | Got an ancient amber ring
+ 34693 | D:11     | Identified the ring of Jefel {+Fly rF- Dex+4 Stlth+} (You
+                  | acquired it on level 11 of the Dungeon)
+ 34892 | D:7      | Bought a potion of curing for 30 gold pieces
+ 34892 | D:7      | Bought a potion of might for 40 gold pieces
+ 34892 | D:7      | Bought a potion of curing for 30 gold pieces
+ 34892 | D:7      | Bought a potion of might for 40 gold pieces
+ 34892 | D:7      | Bought a potion of brilliance for 40 gold pieces
+ 34892 | D:7      | Bought a potion of berserk rage for 50 gold pieces
+ 35113 | D:10     | Found Vuitzyi's Magic Scroll Shoppe.
+ 35577 | D:10     | Found Curunyt's Assorted Antiques.
+ 35839 | D:10     | Reached skill level 5 in Evocations
+ 36964 | D:10     | Found a staircase to the Orcish Mines.
+ 37222 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 39022 | Lair:1   | Found a blossoming altar of Fedhas.
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Unarmed Combat |  1     2           4     5  7    |  7.0
+Fighting       |  1        3                      |  3.2
+Stealth        |     3  4     5  6  8  9 10 11 12 | 12.1
+Dodging        |     3        4  5  6  8  9 10 11 | 11.4
+Hexes          |        1     2           4  5  7 |  7.0
+Conjurations   |                       6          |  6.1
+Spellcasting   |                          5       |  5.3
+Evocations     |                          2  3  9 |  8.8
+Transmutations |                             4    |  4.2
+Translocations |                             2    |  2.1
+Poison Magic   |                                2 |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           | 16108 | 32080 | 36318 | 28459 ||112965
+       Bite              |  1752 |  3183 |  4333 |  3602 || 12870
+       Punch             |   119 |   270 |   643 |   964 ||  1996
+       Headbutt          |       |       |       |  5073 ||  5073
+ Cast: Magic Dart        |    47 |   111 |   217 |   263 ||   638
+       Searing Ray       |     5 |    10 |     6 |    18 ||    39
+       Dazzling Spray    |     2 |     7 |    69 |    35 ||   113
+       Iskenderun's Myst |       |       |     4 |     2 ||     6
+       Beastly Appendage |       |       |       |    69 ||    69
+       Sticks to Snakes  |       |       |       |    10 ||    10
+       Fulminant Prism   |       |       |       |    30 ||    30
+       Spider Form       |       |       |       |     7 ||     7
+Invok: Divine Energy     |       |       |     1 |       ||     1
+ Abil: End Transformatio |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |     2 ||     2
+  Use: Scroll            |     6 |     1 |     8 |    11 ||    26
+       Potion            |     2 |     1 |     6 |     4 ||    13
+ Stab: Sleeping          |     6 |     2 |     8 |     5 ||    21
+       Invisible         |       |     4 |  1819 |    13 ||  1836
+       Distracted        |       |       |     1 |     4 ||     5
+       Paralysed         |       |       |       |     1 ||     1
+  Eat: Chunk             |    15 |    11 |    34 |    39 ||    99
+       Ration            |       |       |     1 |       ||     1
+Armor: Skin              |   574 |   621 |   631 |  1535 ||  3361
+Dodge: Dodged            | 12333 | 23322 | 27932 | 30493 || 94080
+

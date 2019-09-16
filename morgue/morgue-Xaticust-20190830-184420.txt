@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1071291353457883755
+
+0 Xaticust the Ducker (level 1, 18/18 HPs) *WIZ*
+             Began as a Human Monk on Aug 30, 2019.
+             Was a Believer of Wu Jian.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:19 (0 turns).
+
+Xaticust the Ducker (Human Monk)                       Turns: 0, Time: 00:00:19
+
+Health: 18/18      AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int: 10    God:    Wu Jian 50 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Wall Jump, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 3.0 Dodging
+ + Level 2.0 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Xaticust the Human Monk.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a scroll labeled HIRIWOT IMESUS.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which god (by name)? wu
+The Council welcomes you!
+You can now lightly attack and pin monsters in place by moving around them.
+You can now perform airborne attacks.
+You can now perform damaging attacks by moving towards foes.
+Enter Wizard Command (? - help): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####+#####
+#.........#
+#.........#
+#..}...}?.#
+#.........#
++....@....+
+#.........#
+#..}...}..#
+#.........#
+#.........#
+#####+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xaticust the Human Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of the Wu Jian Council
+     0 | D:1      | Reached * piety under Wu Jian
+     0 | D:1      | Reached ** piety under Wu Jian
+     0 | D:1      | Quit the game
+

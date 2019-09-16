@@ -1,0 +1,142 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8368701000597265246
+
+0 Decuob the Ducker (level 1, 18/18 HPs) *WIZ*
+             Began as a Human Monk on Aug 30, 2019.
+             Quit the game in the Ecumenical Temple.
+             The game lasted 00:00:24 (0 turns).
+
+Decuob the Ducker (Human Monk)                         Turns: 0, Time: 00:00:25
+
+Health: 18/18      AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were in the Ecumenical Temple.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 3.0 Dodging
+ + Level 2.0 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Cheibriados
+Elyvilon
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Message History
+
+Enter Wizard Command (? - help): 
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(A) Shoals         (P) Snake Pit      (N) Spider Nest    (M) Slime Pits     
+(O) Orcish Mines   (E) Elven Halls    (K) Dwarven Hall   (V) Vaults         
+(B) Hall of Blades (F) Forest         (C) Crypt          (W) Tomb           
+(U) Depths         (H) Hell           (I) Dis            (G) Gehenna        
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+Found a glowing golden altar of the Shining One.
+Found a staircase back to the Dungeon.
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#########
+#.......#
+#.......#####
+#...@.......###
+#.............#####
+#........._.......###
+#######......~......#######
+#.....###......._.........#
+#.......#####.............#
+#..._.......###......._...#
+#......~......#####.......#
+#........._.......###.....#
+####~##.............##~####
+#.....###......._.........#
+#.......#####......~......#
+#..._.......###......._...#
+#......~......#####.......#
+#........._.......###.....#
+#######.............#######
+#.....###......._.........#
+#.......#####......~......#
+#..._.......###......._...#
+#.............#####.......#
+#........._.......###.....#
+#######......~......##~####
+      ###......._.........#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Decuob the Human Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | Temple   | Entered the Ecumenical Temple
+     0 | Temple   | Quit the game
+

@@ -1,0 +1,165 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10431151931719774118
+
+0 Enguoplept the Sneak (level 1, 12/12 HPs) *WIZ*
+             Began as a Kobold Assassin on Sept 2, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:55 (4 turns).
+
+Enguoplept the Sneak (Kobold Assassin)                 Turns: 4, Time: 00:00:56
+
+Health: 12/12      AC:  3    Str:  8    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int: 12    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: small, carnivore
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Scrolls
+ h - 11 scrolls of teleportation
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 2.6 Short Blades
+ + Level 2.1 Throwing
+ + Level 1.2 Dodging
+ + Level 5.3 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 30 monsters.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? ?
+What type of item? tele
+Scroll of teleportation
+Something appears at your feet!
+h - 12 scrolls of teleportation
+As you read the scroll of teleportation, it crumbles to dust.
+You feel strangely unstable.
+Your surroundings suddenly seem different.
+Found 17 gold pieces.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.######.#####.#...#...~~..8....~~....#............#.####.#.#
+#.#....#.......+.....#..~~.....~~.........................#.#
+#.#.##.#######?#...#..#..~~~.~~~..[.......####..............#
+#.#.##....#  #.#...#..#.............#.....#..+..............#
+#.#.##....#  #.#...#..#..........#.##.....#.##(............##
+#.#.##....####.#####.............#.##.....#...........######
+#.#.##.#.........# #..............=##.....#...........#
+#.#.##.#.........# #.#.............##.....#...........#
+#.#..............# #.###...######..##.....#...$.......#
+#.####.#.........###.#####.##   #.###.....#...........#
+#.#  #.#...$.#..............#   #.#######.#...........#
+#.#  #.#.#.#?#.#####........##  #.....................#
+#.#  #.#.#.#.#.#   #.........#  #.####..#.##..........#
+#.#  #.#.#.#.#.#   #.......#.#  #.#.#.#.#.##..........#
+#.#  #.#...#.#.#   #.......#.#  #.#)...)...#..........#
+#.#  #.#####.#.#   #.......#.#  #.#.#.#.#.#........####
+#.#  #.$.....#.#   #.......#.#  #.#.........###....#
+#.#  #########.#   #.......#.## #.#.#.#.#.### #....#
+#.#  #.........#####.......#..# #.#........#  #....#
+#.####.....................##.###.#.#.#.#>##  #....#
+#.##.+.....................##..##.#.......#   #....#
+#.##.#....................$###+##.#############....##
+#.##.#......................@........#   #..........#
+#....#.......$.......................#   #..........#
+######..............##...##..........#   #..........#
+     #..............##...##..........#   #..........#
+     #..............##...##..........#   #..........#
+     #..............##...##..........#   #..........#
+     #..............##...##..........#   #.....?.)..#
+     #..............##...##..........#   #..........#
+     #..............#######..........#   #######+#######
+     ################     #..........#         #.......#
+                          #..........#         #######.#
+                  #####################              #.#
+                  #...................#              #.#
+                  #.#################.#              #.#
+                  #.#            ####.##             #.#
+                  #.#            #.....#             #.#
+                  #.#            #.#####             #.#
+                  #.#            #.#                 #.#
+                  #.#            #.###################.#
+                  #.#            #.....................#
+                  #.#            #######################
+                  ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Enguoplept the Kobold Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     4 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Use: Scroll            ||     1
+

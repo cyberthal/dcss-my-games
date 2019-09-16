@@ -1,0 +1,407 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6520994792722522968
+
+2044 Niaprell the Skirmisher (level 9, 68/68 HPs)
+             Began as a Barachi Warper on Aug 26, 2019.
+             Was an Initiate of Vehumet.
+             Quit the game on level 7 of the Dungeon on Sept 13, 2019.
+             The game lasted 02:34:56 (10001 turns).
+
+Niaprell the Skirmisher (Barachi Warper)           Turns: 10001, Time: 02:34:56
+
+Health: 68/68      AC: 10    Str: 13    XL:     9   Next: 24%
+Magic:  15/15      EV: 13    Int: 13    God:    Vehumet [......]
+Gold:   153        SH:  5    Dex: 15    Spells: 2/16 levels left
+
+rFire    . . .     SeeInvis .   g - +0 hunting sling
+rCold    . . .     Gourm    .   I - +0 buckler
+rNeg     . . .     Faith    .   A - +0 ring mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   B - +0 cloak
+rCorr    .         Harm     .   r - +2 pair of gloves
+MR       .....                  (no boots)
+Stlth    +.........             y - amulet of rage (curse)
+HPRegen  0.21/turn              (no ring)
+MPRegen  0.14/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 417 gold pieces.
+You spent 264 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 dagger of venom
+ b - a +1 rapier of holy wrath
+ c - a +0 falchion
+ d - a +0 quarterstaff
+ f - a +0 blowgun
+ g - a +0 hunting sling (weapon)
+ G - a +0 flail
+ H - a +0 hand axe
+ J - a +1 spear of piercing
+Missiles
+ i - 3 tomahawks
+ j - 42 bolts
+ n - 85 stones
+ q - 93 arrows
+ u - 2 poisoned needles
+ w - 105 sling bullets (quivered)
+Armour
+ k - a +0 scale mail
+ r - a +2 pair of gloves (worn)
+ t - a +0 leather armour
+ A - a +0 ring mail (worn)
+ B - a +0 cloak (worn)
+ E - a +0 chain mail
+ I - a +0 buckler (worn)
+Jewellery
+ y - a cursed amulet of rage (around neck)
+Wands
+ C - a wand of digging (4)
+Scrolls
+ h - a scroll of amnesia
+ l - a scroll of teleportation
+ m - 4 scrolls of remove curse
+ p - 2 scrolls of blinking
+ D - a scroll of fear {unknown}
+ O - a scroll of torment {unknown}
+Potions
+ e - a potion of mutation
+ o - 2 potions of lignification
+ v - 2 potions of heal wounds
+ x - 2 potions of curing
+ z - 2 potions of flight
+ F - a potion of haste {unknown}
+ L - a potion of brilliance
+ M - a potion of agility
+ N - a potion of magic
+Comestibles
+ s - 9 rations
+ K - 2 chunks of flesh
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 4.6 Long Blades
+ - Level 1.4 Staves
+ - Level 2.8(3.0) Slings
+   Level 1.4 Bows
+ - Level 1.0(2.0) Throwing
+ + Level 5.0 Armour
+ - Level 4.5 Dodging
+ - Level 1.2 Stealth
+ - Level 4.0 Shields
+ - Level 4.2 Spellcasting
+ - Level 1.1 Hexes
+ - Level 2.4 Charms
+ - Level 5.0 Translocations
+   Level 2.5 Invocations
+ - Level 2.0 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Blink                 Tloc           N/A          8%          2    ##.....
+b - Shroud of Golubria    Chrm/Tloc      ##........   13%         2    ##.....
+c - Teleport Other        Tloc           ###.....     16%         3    ###....
+d - Confusing Touch       Hex            #.....       26%         1    None
+e - Lesser Beckoning      Tloc           ###.......   16%         3    ###....
+f - Gell's Gravitas       Tloc           ###.......   16%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Passage of Golubria      Tloc           N/A          45%         4    ####...
+ Confuse                  Hex            #.......     58%         3    ###....
+ Petrify                  Tmut/Erth      #.......     99%         4    ####...
+ Metabolic Englaciation   Hex/Ice        #.........   100%        5    ######.
+ Yara's Violent Unravell  Hex/Tmut       #.........   100%        5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:7 !
+
+Annotations:
+D:3 2 transporters, Giops's ghost, amateur HOFi
+D:4 crimson imp, gnoll pack
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+You eat one of the 3 chunks of flesh. This raw flesh tastes terrible.
+Found a stone staircase leading down.
+There is a stone staircase leading down here.
+Key pressed, stopping explore.
+Unknown command.
+Done exploring.
+Unknown command.
+Done exploring.
+Search for what [Enter for "."]? .
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+No target in view!
+Okay, then.
+Saving game... please wait.
+Welcome back, Niaprell the Barachi Warper.
+Vehumet says: Let it end in hellfire!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                                ##########
+                                #........###
+                                #.###.......
+                                #.##.......#
+                  ###############.#.........
+                  #.%........)....#......<..
+                  #.###############..<......
+                  #.#             ##.......#
+                  #.#              ##.....##
+                  #.########        #....##
+                  #.#......#        #.####
+                  #.#.####.##########.# ###
+                  #.#.................###.##
+                  #.#.#############.####.#.#
+                  #.%..........####.###.###.
+     ############ ###.########.##......## ##
+     #.@........#####.########.##.#.#.#.###.
+     #.########......#.........##.#.....%#.#
+######.#  #.........###.#####..##.###.###.##
+#......#  #..........#.##   #..##....># ###
+#.######  #..##).###..##    #).########    #
+#.#       #..##..# #..#    ##..#           #
+#.#       #......# #..#   ##.#.##          #
+#.#      ##..##.####..#####.###.#          #
+#.###    #...##....#.........#..#  #########
+#...#    #...#####.#..#######.#.#  #........
+###.#    #...#   #.#....#   ###.#  #.#######
+  #.#    #...#   #.#.##.#     #.#  #%# #####
+  #>#    ##..#####.#.##.#     #.#  #.# #...#
+  #.#     #..........##.#     #.#  #~# #.#..
+  #.#     #.######.#.##.#######.#  #.###...#
+  #.#     #........#..........#.#  #.##.....
+  #.#     #..########.#######.#.#  #........
+  #.#######..#######...######.#.#  ####.....
+  #.............................########...#
+  #########..#######...######...............
+          ##.#     ##.##    #############..#
+           #.#      #.#                 ##.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A spriggan (D:7)
+  A wyvern (D:5)
+  A sky beast (D:7)
+  An orc warrior (D:7)
+  A necrophage (D:7)
+  5 ogres
+  4 bullfrogs
+  A gnoll sergeant (D:4)
+  A scorpion (D:4)
+  A howler monkey (D:5)
+  2 crimson imps
+  A bullfrog zombie (D:6)
+  3 jellies
+  An orc priest (D:5)
+  An iguana (D:7)
+  6 worker ants
+  A howler monkey zombie (D:5)
+  A howler monkey skeleton (D:6)
+  6 gnolls
+  6 adders
+  3 shadow imps
+  An ooze (D:6)
+  An adder skeleton (D:6)
+  4 dart slugs
+  6 leopard geckos
+  11 orcs
+  3 giant cockroaches
+  8 hobgoblins
+  4 jackals (D:1)
+  2 ball pythons
+  7 bats
+  7 frilled lizards
+  6 goblins (D:1)
+  A jackal zombie (D:6)
+  8 kobolds
+  6 rats
+123 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Niaprell the Barachi Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+   262 | D:1      | Reached skill level 1 in Stealth
+   265 | D:1      | Reached XP level 2. HP: 14/23 MP: 5/5
+   437 | D:1      | Learned a level 2 spell: Blink
+   440 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   548 | D:1      | Reached skill level 1 in Charms
+   905 | D:1      | Reached XP level 3. HP: 28/28 MP: 6/6
+  1874 | D:2      | Reached XP level 4. HP: 29/34 MP: 5/7
+  2133 | D:2      | Learned a level 3 spell: Teleport Other
+  2729 | D:2      | Found a white marble altar of Elyvilon.
+  3035 | D:2      | Became a worshipper of Elyvilon the Healer
+  3481 | D:3      | Found a snail-covered altar of Cheibriados.
+  3504 | D:3      | Reached XP level 5. HP: 39/39 MP: 8/8
+  3699 | D:3      | Reached * piety under Elyvilon
+  3704 | D:3      | Found a transporter.
+  3714 | D:3      | Found a transporter.
+  3715 | D:3      | Noticed Giops's ghost (amateur HOFi)
+  3715 | D:3      | Noticed an ogre
+  3715 | D:3      | Noticed an ogre
+  3715 | D:3      | Identified the cursed +0 great mace of a treasure trove
+                  | {crush, Dex+2}
+  3715 | D:3      | Noticed an ogre
+  4035 | D:3      | Found a faded altar of an unknown god.
+  4277 | D:4      | Reached ** piety under Elyvilon
+  4443 | D:4      | Reached skill level 1 in Bows
+  4443 | D:4      | Reached skill level 1 in Invocations
+  5224 | D:5      | Entered Level 5 of the Dungeon
+  5353 | D:5      | Reached skill level 1 in Staves
+  5432 | D:5      | Reached XP level 6. HP: 34/46 MP: 0/9
+  5961 | D:5      | Found a bloodstained altar of Trog.
+  5965 | D:5      | Reached XP level 7. HP: 50/54 MP: 5/10
+  6061 | D:5      | Found an opulent altar of Gozag.
+  6066 | D:5      | Found a glowing silver altar of Zin.
+  6101 | D:5      | Learned a level 1 spell: Confusing Touch
+  6128 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  6292 | D:5      | Reached skill level 1 in Shields
+  6292 | D:5      | Reached skill level 1 in Hexes
+  6478 | D:5      | Noticed a wyvern
+  6615 | D:5      | Found a glowing silver altar of Zin.
+  6757 | D:5      | Killed a wyvern
+  6925 | D:4      | Reached skill level 1 in Slings
+  7173 | D:6      | Reached *** piety under Elyvilon
+  7280 | D:6      | Reached XP level 8. HP: 60/60 MP: 9/12
+  7413 | D:6      | Found a staircase to the Ecumenical Temple.
+  7423 | Temple   | Entered the Ecumenical Temple
+  7983 | D:6      | Found an ornate altar of the Wu Jian Council.
+  7986 | D:6      | Found a hide-covered altar of Uskayaw.
+  8001 | D:6      | Found a hazy altar of Hepliaklqana.
+  8014 | D:6      | Found a shattered altar of Ashenzari.
+  8014 | D:6      | Found a radiant altar of Vehumet.
+  8027 | D:6      | Fell from the grace of Elyvilon
+  8027 | D:6      | Became a worshipper of Vehumet
+  8079 | D:6      | Learned a level 3 spell: Lesser Beckoning
+  8250 | D:6      | Reached skill level 5 in Fighting
+  9056 | D:7      | Found Husiss's Distillery.
+  9064 | D:7      | Bought a potion of brilliance for 48 gold pieces
+  9064 | D:7      | Bought a potion of flight for 36 gold pieces
+  9064 | D:7      | Bought a potion of agility for 48 gold pieces
+  9064 | D:7      | Bought a potion of curing for 36 gold pieces
+  9064 | D:7      | Bought a potion of magic for 96 gold pieces
+  9256 | D:7      | Noticed a spriggan baker
+  9269 | D:7      | Killed a spriggan baker
+  9269 | D:7      | Reached skill level 5 in Translocations
+  9387 | D:7      | Reached XP level 9. HP: 66/68 MP: 10/13
+  9444 | D:6      | Learned a level 3 spell: Gell's Gravitas
+  9559 | D:7      | Reached skill level 5 in Armour
+ 10001 | D:7      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |  1                         |  1.2
+Armour         |     2                 4  5 |  5.0
+Charms         |     1           2          |  2.4
+Long Blades    |        3  4                |  4.6
+Dodging        |        3                 4 |  4.5
+Bows           |              1             |  1.4
+Invocations    |              1  2          |  2.5
+Staves         |              1             |  1.4
+Fighting       |                 4     5    |  5.0
+Shields        |                    3  4    |  4.0
+Hexes          |                    1       |  1.1
+Evocations     |                    2       |  2.0
+Slings         |                    1  2    |  2.8
+Spellcasting   |                       3  4 |  4.2
+Translocations |                       5    |  5.0
+Throwing       |                            |  1.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |   107 |    19 |     6 ||   132
+       Dagger            |     8 |    91 |   114 ||   213
+       Quarterstaff      |       |     6 |     3 ||     9
+       Rapier            |       |     4 |    20 ||    24
+ Fire: Shortbow          |       |    25 |     6 ||    31
+       Hunting sling     |       |     9 |   114 ||   123
+       Blowgun           |       |       |     9 ||     9
+Throw: Tomahawk          |     5 |       |       ||     5
+       Stone             |     6 |    10 |     1 ||    17
+ Cast: Shroud of Golubri |    15 |    13 |    19 ||    47
+       Blink             |       |     4 |    12 ||    16
+       Confusing Touch   |       |       |     4 ||     4
+Invok: Lesser Healing    |       |     2 |       ||     2
+ Abil: Hop               |     8 |     9 |    12 ||    29
+       Evoke Berserk Rag |       |       |     4 ||     4
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Scroll            |     2 |     2 |     9 ||    13
+       Potion            |       |     3 |       ||     3
+ Stab: Sleeping          |     3 |       |     1 ||     4
+       Distracted        |       |       |     1 ||     1
+       Confused          |       |       |     3 ||     3
+  Eat: Chunk             |     5 |    10 |    17 ||    32
+       Ration            |       |     2 |     1 ||     3
+Armor: Leather armour    |    32 |    23 |    20 ||    75
+       Ring mail         |       |       |     3 ||     3
+Dodge: Dodged            |    70 |    80 |    76 ||   226
+Block: Buckler           |       |       |    18 ||    18
+Rpst.: Falchion          |    24 |     2 |     4 ||    30
+

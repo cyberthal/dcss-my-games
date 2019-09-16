@@ -1,0 +1,193 @@
+Miwagil
+
+Level 5 of the Pits of Slime
+(0, 0, Slime:5)
+  a +2 shield
+(0, 1, Slime:5)
+  a +0 large shield
+(0, 8, Slime:5)
+  14 bolts
+(0, 9, Slime:5)
+  a +0 hunting sling
+(1, -1, Slime:5)
+  a wand of random effects (13)
+(1, 0, Slime:5)
+  a +3 hand axe of chopping
+(1, 1, Slime:5)
+  a +0 longbow
+(1, 2, Slime:5)
+  16 gold pieces
+(1, 7, Slime:5)
+  45 gold pieces
+(1, 8, Slime:5)
+  a +2 mace of protection
+(1, 9, Slime:5)
+  a +2 ring mail of fire resistance
+(1, 10, Slime:5)
+  a scroll of noise
+(2, -2, Slime:5)
+  a +0 shortbow
+(2, -1, Slime:5)
+  a +4 blowgun
+(2, 0, Slime:5)
+  a ration
+(2, 1, Slime:5)
+  a +1 glaive of protection
+(2, 2, Slime:5)
+  a +0 chain mail
+(2, 7, Slime:5)
+  17 arrows
+(2, 8, Slime:5)
+  an uncursed ring of resist corrosion
+(2, 9, Slime:5)
+  a slimy rune of Zot
+(2, 10, Slime:5)
+  a +1 hand axe of electrocution
+(2, 11, Slime:5)
+  a potion of degeneration
+(3, -3, Slime:5)
+  a potion of heal wounds
+(3, -2, Slime:5)
+  a +0 dagger
+(3, -1, Slime:5)
+  a scroll of torment
+(3, 0, Slime:5)
+  a +1 dagger of venom
+(3, 1, Slime:5)
+  15 sling bullets
+(3, 8, Slime:5)
+  a +0 scimitar
+(3, 9, Slime:5)
+  an uncursed staff of air
+(3, 10, Slime:5)
+  a scroll of teleportation
+(3, 11, Slime:5)
+  a book of Debilitation
+(3, 12, Slime:5)
+  a ration
+(4, -2, Slime:5)
+  11 stones
+(4, 0, Slime:5)
+  a +0 pair of gloves
+(4, 2, Slime:5)
+  the Tome of Parts Unknown
+    Spells                           Type                      Level
+     a - Pain                         Necromancy                    1
+     b - Mephitic Cloud               Conjuration/Poison/Air        3
+     c - Spider Form                  Transmutation/Poison          3
+     d - Borgnjor's Vile Clutch       Necromancy/Earth              5
+     e - Alistair's Intoxication      Transmutation/Poison          5
+(4, 7, Slime:5)
+  a +0 pair of gloves of archery
+(4, 9, Slime:5)
+  a +0 dire flail
+(4, 11, Slime:5)
+  a scroll of enchant weapon
+(9, -2, Slime:5)
+  10 arrows
+(9, 0, Slime:5)
+  a wand of paralysis (5)
+(9, 2, Slime:5)
+  the +5 demon whip "Spellbinder" {antimagic, MR+}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your resistance to hostile enchantments.
+    
+    Zin disapproves of the use of such an item.
+(9, 7, Slime:5)
+  an uncursed ring of see invisible
+(9, 9, Slime:5)
+  8 needles of confusion
+(9, 11, Slime:5)
+  a potion of flight
+(10, -3, Slime:5)
+  the +8 orange crystal plate armour {Archmagi, Int+3 Clar}
+    It affects your intelligence (+3).
+    It protects you against confusion.
+(10, -2, Slime:5)
+  a potion of heal wounds
+(10, -1, Slime:5)
+  a scroll of teleportation
+(10, 0, Slime:5)
+  a lightning rod (4/4)
+(10, 1, Slime:5)
+  an uncursed ring of protection from magic
+(10, 8, Slime:5)
+  a +2 demon blade of draining
+(10, 9, Slime:5)
+  the Compendium of Unholy Boosts
+    Spells                           Type                      Level
+     a - Corpse Rot                   Necromancy                    2
+     b - Excruciating Wounds          Charms/Necromancy             5
+     c - Agony                        Necromancy                    5
+    
+    
+    Zin disapproves of the use of such an item.
+(10, 10, Slime:5)
+  12 arrows
+(10, 11, Slime:5)
+  41 gold pieces
+(10, 12, Slime:5)
+  a potion of resistance
+(11, -2, Slime:5)
+  a scroll of summoning
+(11, -1, Slime:5)
+  a phantom mirror
+(11, 0, Slime:5)
+  an uncursed staff of poison
+(11, 1, Slime:5)
+  the ring "Givofics" {MR++ Str+2 Dex-3 SInv Stlth+}
+    [ring of see invisible]
+    
+    It affects your strength (+2).
+    It affects your dexterity (-3).
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+    It makes you more stealthy.
+(11, 2, Slime:5)
+  14 gold pieces
+(11, 7, Slime:5)
+  a potion of resistance
+(11, 8, Slime:5)
+  a +2 shortbow of velocity
+(11, 9, Slime:5)
+  34 gold pieces
+(11, 10, Slime:5)
+  a book of Annihilations
+(11, 11, Slime:5)
+  10 gold pieces
+(12, -1, Slime:5)
+  a +0 falchion
+(12, 0, Slime:5)
+  the +9 rapier of Darkness {vamp, +Fly rN+++ Int-4}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your intelligence (-4).
+    It renders you almost immune to negative energy.
+    It lets you fly.
+    
+    Zin disapproves of the use of such an item.
+(12, 1, Slime:5)
+  43 gold pieces
+(12, 2, Slime:5)
+  a +0 robe of magic resistance
+(12, 7, Slime:5)
+  a wand of paralysis (12)
+(12, 8, Slime:5)
+  a potion of heal wounds
+(12, 9, Slime:5)
+  an uncursed amulet of harm
+(12, 10, Slime:5)
+  18 gold pieces
+(13, 0, Slime:5)
+  a scroll of teleportation
+(13, 1, Slime:5)
+  36 gold pieces
+(13, 8, Slime:5)
+  a scroll of immolation
+(13, 9, Slime:5)
+  a +0 leather armour
+

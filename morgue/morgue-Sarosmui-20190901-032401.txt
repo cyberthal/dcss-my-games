@@ -1,0 +1,158 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 644144250023749291
+
+1385 Sarosmui the Destroyer (level 9, 57/57 HPs) *WIZ*
+             Began as a Human Conjurer on Sept 1, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:38 (25 turns).
+
+Sarosmui the Destroyer (Human Conjurer)               Turns: 25, Time: 00:05:39
+
+Health: 57/57      AC:  2    Str:  9    XL:     9   Next: 0%
+Magic:  7/24       EV: 18    Int: 19    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 16/30 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.19/turn              (no ring)
+MPRegen  0.19/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 10.9 Dodging
+ - Level 6.3 Stealth
+ + Level 11.0 Spellcasting
+ + Level 11.0 Conjurations
+ - Level 5.1 Hexes
+ - Level 5.1 Translocations
+
+
+You had 16 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      1%          1    0
+b - Searing Ray           Conj           50 (50)      1%          2    0
+c - Iskenderun's Mystic   Conj           51 (100)     1%          4    41
+d - Dazzling Spray        Conj/Hex       41 (50)      1%          3    0
+e - Force Lance           Conj/Tloc      41 (100)     2%          4    41
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Fulminant Prism          Conj/Hex       41 (200)     2%          4    41
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You have reached level 7!
+You feel more experienced!
+Your Dodging skill increases to level 10!
+Your Spellcasting skill increases to level 9!
+Your Conjurations skill increases to level 10!
+You have reached level 8!
+You feel stronger.
+You feel more experienced!
+Your Spellcasting skill increases to level 10!
+Your Conjurations skill increases to level 11!
+You have reached level 9!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever.
+Enter Wizard Command (? - help): 
+Which skill (by name)? spell
+Spellcasting
+To what level? 11
+Increased Spellcasting to skill level 11.0.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #.
+     .. ##
+   ###8+8###
+  ##~~~.~~~##
+ ##~~~.P.~~~##
+##~~P..8..P~~##
+#~~~.......~~~#
+#~P.8..@..8.P~#
+#~~~.......~~~#
+##~~P..8..P~~##
+ ##~~~.P.~~~##
+  ##~~~~~~~##
+   #########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Sarosmui the Human Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached skill level 5 in Dodging
+     0 | D:1      | Reached skill level 5 in Spellcasting
+     0 | D:1      | Reached XP level 2. HP: 19/19 MP: 4/8
+     1 | D:1      | Reached XP level 3. HP: 24/24 MP: 4/9
+     2 | D:1      | Reached XP level 4. HP: 30/30 MP: 4/12
+     6 | D:1      | Learned a level 2 spell: Searing Ray
+    11 | D:1      | Learned a level 4 spell: Iskenderun's Mystic Blast
+    15 | D:1      | Learned a level 3 spell: Dazzling Spray
+    20 | D:1      | Learned a level 4 spell: Force Lance
+    20 | D:1      | Reached XP level 5. HP: 35/35 MP: 6/15
+    21 | D:1      | Reached XP level 6. HP: 41/41 MP: 6/16
+    22 | D:1      | Reached skill level 5 in Hexes
+    22 | D:1      | Reached skill level 5 in Translocations
+    22 | D:1      | Reached XP level 7. HP: 46/46 MP: 6/18
+    23 | D:1      | Reached skill level 10 in Dodging
+    23 | D:1      | Reached skill level 10 in Conjurations
+    23 | D:1      | Reached XP level 8. HP: 52/52 MP: 7/21
+    24 | D:1      | Reached skill level 10 in Spellcasting
+    24 | D:1      | Reached XP level 9. HP: 57/57 MP: 7/23
+    25 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Dodging        |  5     7  8  9    10    | 10.9
+Spellcasting   |  5     6  7     8  9 10 | 11.0
+Stealth        |     6                   |  6.3
+Conjurations   |     6  8     9    10 11 | 11.0
+Hexes          |           3     5       |  5.1
+Translocations |           3     5       |  5.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+  Use: Potion            |     3 |     3 |     2 ||     8
+

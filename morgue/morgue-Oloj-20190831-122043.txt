@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2557060147809934929
+
+25 Oloj the Carver (level 3, 33/33 HPs) *WIZ*
+             Began as a Barachi Warper on Aug 31, 2019.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:19:18 (377 turns).
+
+Oloj the Carver (Barachi Warper)                     Turns: 377, Time: 00:19:18
+
+Health: 33/33      AC:  7    Str: 12    XL:     3   Next: 6%
+Magic:  6/6        EV: 12    Int: 13    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.11/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Missiles
+ e - 5 tomahawks of dispersal (quivered)
+Armour
+ b - a +0 leather armour
+ c - a +0 scale mail (worn)
+Scrolls
+ d - a scroll of blinking
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 10.0 Long Blades
+ - Level 1.0 Throwing
+ - Level 7.0 Armour
+ - Level 7.0 Dodging
+ - Level 1.2 Stealth
+ + Level 0.0 Unarmed Combat
+ - Level 2.1 Spellcasting
+   Level 3.2 Translocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          38%         2    72
+ Shroud of Golubria       Chrm/Tloc      5 (200)      63%         2    72
+ Gell's Gravitas          Tloc           9 (200)      63%         3    122
+ Lesser Beckoning         Tloc           9 (200)      63%         3    122
+ Teleport Other           Tloc           9 (100)      63%         3    122
+ Passage of Golubria      Tloc           N/A          95%         4    222
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Fighting
+To what level? 5
+Lowered Fighting to skill level 5.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? long
+Long Blades
+To what level? 10
+Increased Long Blades to skill level 10.0.
+Press: ? - help, v - describe, . - travel
+Here: a spiny frog (resting)
+The floor.
+A spiny frog is nearby!
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - spiny frog
+Aim: a spiny frog (resting)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.8 |     10 |  67% |   1.2 |    80  |  1.25 |      1.6
+Attack:   Mons | No hits
+Defend: Player |      3.4 |     10 |   4% |   0.1 |    83  |  1.20 |      0.2
+Defend:   Mons |      9.6 |     23 |  60% |   5.8 |    83  |  1.20 |      7.0
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      #.
+      #.#
+      #.#
+      #.#
+      #.#
+      #.#
+      #.#
+#######.#####
+#..%........#
+#.#####?###<#
+      #.# #.#
+      #F# #.#
+      #@# #.#
+      #...#.#
+      ###.#.#
+         %#.#
+          ..#
+          ###
+
+
+You could see a spiny frog (sleeping).
+
+Vanquished Creatures
+  An ooze (D:1)
+  2 dart slugs
+  A leopard gecko (D:1)
+  4 goblins
+  2 hobgoblins (D:1)
+  4 bats (D:1)
+  A frilled lizard (D:1)
+  A kobold (D:2)
+16 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oloj the Barachi Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+    15 | D:1      | Reached skill level 1 in Stealth
+    30 | D:1      | Reached XP level 2. HP: 23/23 MP: 5/5
+    75 | D:1      | Reached skill level 3 in Long Blades
+   359 | D:2      | Reached XP level 3. HP: 28/28 MP: 6/6
+   365 | D:2      | Noticed an orc warrior
+   374 | D:2      | Noticed an orc warrior
+   377 | D:2      | Noticed a spiny frog
+   377 | D:2      | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  1       |  1.2
+Long Blades    |     3    | 10.0
+Dodging        |        3 |  7.0
+Fighting       |          |  5.0
+Throwing       |          |  1.0
+Armour         |          |  7.0
+Spellcasting   |          |  2.1
+Translocations |          |  3.2
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          || 28000
+Armor: Leather armour    ||  1688
+       Scale mail        ||  1079
+Dodge: Dodged            || 13047
+Rpst.: Falchion          ||  4333
+

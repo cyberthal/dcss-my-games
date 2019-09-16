@@ -1,0 +1,342 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17610685178171509077
+
+Nuzuic the Covert (Felid Conjurer)                 Turns: 14304, Time: 02:27:02
+
+HP:   38/38 (39)    AC:  2    Str:  4    XL:     9   Next: 41%
+MP:   13/13         EV: 24    Int: 18    God:    Ashenzari 26 (0)
+Gold: 34            SH:  0    Dex: 18    Spells: 2/12 levels left
+                                         Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    +         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++++.....             (no amulet)
+HPRegen  0.12/turn              c - ring of poison resistance
+MPRegen  0.13/turn              v - +2 ring of slaying
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 2, slow metabolism 1, sharp paws
+a: Curse Item, Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Ashenzari.
+Ashenzari is noncommittal.
+You are very full.
+
+You have visited 2 branches of the dungeon, and seen 8 of its levels.
+
+You have collected 307 gold pieces.
+You have spent 273 gold pieces at shops.
+
+Inventory:
+
+Jewellery
+ c - a ring of poison resistance (left paw)
+ v - a +2 ring of slaying (right paw)
+ w - an uncursed ring of protection from cold
+ y - an uncursed ring of positive energy
+Wands
+ n - a wand of random effects (16)
+ u - a wand of clouds (5)
+Scrolls
+ a - a scroll labeled QIHACH UMATIM
+ d - a scroll of blinking
+ l - a scroll of fear
+ m - a scroll of teleportation
+ p - a scroll labeled OVAS NISMAA
+ r - a scroll labeled ASEMMOP MOOHEMM
+ t - a scroll labeled TOGEICW CECEUSM
+ x - a scroll labeled IKHAON ATOSIUQ
+Potions
+ e - a potion of flight
+ f - 2 potions of agility
+ g - a sedimented silvery potion
+ h - a potion of ambrosia
+ i - a metallic coppery potion
+ j - 2 potions of lignification
+ k - a silvery potion
+ o - a potion of brilliance
+ q - a brown potion
+Comestibles
+ b - 12 rations
+
+
+   Skills:
+ + Level 4.3 Fighting
+ - Level 8.0 Dodging
+ - Level 9.0 Stealth
+ + Level 4.3 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 4.1 Conjurations
+ - Level 8.9 Hexes
+ - Level 3.2 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           16 (25)      3%          1    14
+b - Searing Ray           Conj           16 (50)      4%          2    64
+c - Dazzling Spray        Conj/Hex       25 (50)      3%          3    114
+d - Fulminant Prism       Conj/Hex       25 (200)     12%         4    214
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Iskenderun's Mystic Bla  Conj           16 (100)     32%         4    214
+ Force Lance              Conj/Tloc      9 (100)      61%         4    214
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Okawaru
+Ru
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 (   D:5 =
+
+Annotations:
+D:5 2 runed translucent doors, exclusions: butterfly, worker ant and 2 more
+exclusions
+D:6 4 runed translucent doors, exclusions: adder, gnoll and manticore, Crazy
+Yiuf, Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Level annotation: 4 runed translucent doors, exclusions: adder, gnoll and
+manticore, Crazy Yiuf, Grinder
+There is a stone staircase leading down here.
+Casting: Dazzling Spray (safe; 3% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Searing Ray (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line
+(Press . to maintain the ray.)
+You finish channeling your searing ray.
+You start resting.
+Magic restored.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a +0 club.
+Things that are here:
+25 arrows; a +0 shortbow
+There is a stone staircase leading down here.
+Okay, then.
+Saving game... please wait.
+
+                                           ######
+                                           #....#
+                                           #.##.#
+   #############                           #.##.#
+   #...........#                  #######  #.##.#
+   #.#########.#                  #.....#  #.##.#
+####.#.........####################.###.#  #.##.#
+.....[.................................@#  #.##.#
+####.#.#....#..########.............#####  #.##.#
+   #.#.#.##.#..#      #.##########.#########.##.#
+#  #.#.#.......#      #.##...................##.#
+#  #.#.#..#.)..#      #.##.#######.############.#
+####......#....########.##.#     #......#     #.#
+....[..[...................#     #..###.#######.##
+.#.#...#.##....########.#..#     #..#............#
+.#.#...#.##..).#      #.##.##    #..#.#.##########
+.#.#...#.#<...[#      #.##..#    #..#.#.#
+.#.#...#..#(...#      #.##..##   #..#.#.#
+.#...).)....#..#      #.##...#####(######
+.###..#(.[.....########.##.........(..###
+.###..#.#.###...........####.####.......##
+.(...##.#.# ###############.....#........##
+........#.#          #......#.#.#..###....###
+######(.#.#          #.#####....#..# ###....####
+     #..#.#          #.#........#..#   ##......##
+     #..#.#          #.#........#..#    ##......#
+     #..#.############.##..###..#..#     ###....#
+     #..................#.......#..#  #########.#
+     #.##.################.####.#..####........)#
+     #.##.#......#................)....########.#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:5)
+  An ice beast (D:5)
+  A phantom (D:6)
+  An orc warrior (D:6)
+  A necrophage (D:5)
+  4 ogres
+  2 centaurs
+  A bullfrog (D:5)
+  A gnoll sergeant (D:6)
+  2 water moccasin skeletons
+  2 howler monkeys
+  2 crimson imps (D:6)
+  2 orc priests (D:6)
+  2 hounds
+  4 orc wizards
+  4 centaur skeletons
+  2 iguanas
+  8 worker ants
+  A hound skeleton (D:6)
+  A worker ant zombie (D:5)
+  5 gnolls
+  8 adders
+  A howler monkey skeleton (D:4)
+  2 shadow imps
+  An adder zombie (D:5)
+  An adder skeleton (D:6)
+  A worm (D:2)
+  2 dart slugs (D:1)
+  3 leopard geckos
+  16 orcs
+  4 ball pythons
+  7 bats
+  7 goblins
+  7 hobgoblins
+  15 jackals
+  4 quokkas
+  14 frilled lizards
+  6 kobolds
+  A leopard gecko skeleton (D:5)
+  3 rats
+151 creatures vanquished.
+
+Vanquished Creatures (others)
+  7 fulminant prisms (D:6)
+7 creatures vanquished.
+
+Grand Total: 158 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nuzuic the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   318 | D:1      | Reached skill level 1 in Fighting
+   318 | D:1      | Reached skill level 1 in Unarmed Combat
+   384 | D:1      | Reached skill level 3 in Stealth
+   384 | D:1      | Reached XP level 2. HP: 12/12 MP: 3/6
+   493 | D:1      | Learned a level 2 spell: Searing Ray
+  1296 | D:1      | Reached skill level 4 in Stealth
+  1307 | D:1      | Reached XP level 3. HP: 15/15 MP: 5/7
+  1551 | D:1      | Learned a level 3 spell: Dazzling Spray
+  1821 | D:2      | Found a snail-covered altar of Cheibriados.
+  1876 | D:2      | Reached skill level 1 in Hexes
+  2355 | D:2      | Reached XP level 4. HP: 19/19 MP: 3/8
+  3334 | D:3      | Reached skill level 1 in Evocations
+  3800 | D:3      | Reached XP level 5. HP: 22/22 MP: 3/9
+  3991 | D:3      | Found an iron altar of Okawaru.
+  4436 | D:4      | Reached skill level 5 in Stealth
+  5302 | D:4      | Reached skill level 5 in Dodging
+  5375 | D:4      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  5375 | D:4      | Reached XP level 6. HP: 14/26 MP: 2/10
+  5619 | D:4      | Found a staircase to the Ecumenical Temple.
+  6387 | D:3      | Entered wizard mode.
+  6664 | Temple   | Entered the Ecumenical Temple
+  6722 | Temple   | Became a worshipper of Ashenzari the Shackled
+  6938 | D:4      | Found Tuitec's Weapon Shop.
+  7077 | D:4      | Found a burning altar of Makhleb.
+  7148 | D:4      | Reached skill level 6 in Stealth
+  7332 | D:5      | Entered Level 5 of the Dungeon
+  7614 | D:5      | Reached XP level 7. HP: 31/31 MP: 3/11
+  7850 | D:5      | Found Oquemioh's Jewellery Boutique.
+  7864 | D:5      | Reached skill level 7 in Stealth
+  8555 | D:5      | Found a glowing golden altar of the Shining One.
+  8909 | D:5      | Found a runed translucent door.
+  8917 | D:5      | Found a runed translucent door.
+  9871 | D:6      | Reached XP level 8. HP: 36/36 MP: 12/12
+  9981 | D:6      | Reached skill level 8 in Stealth
+ 10271 | D:6      | Noticed a two-headed ogre
+ 10429 | D:5      | Killed a two-headed ogre
+ 10930 | D:5      | Reached XP level 9. HP: 21/39 MP: 1/13
+ 11075 | D:6      | Found a runed translucent gate.
+ 11075 | D:6      | Found a runed translucent gate.
+ 11076 | D:6      | Found a runed translucent gate.
+ 11095 | D:6      | Found an opulent altar of Gozag.
+ 11101 | D:6      | Noticed a manticore
+ 11424 | D:6      | Learned a level 4 spell: Fulminant Prism
+ 11717 | D:6      | Reached skill level 9 in Stealth
+ 12103 | D:5      | Bought a +2 ring of slaying for 273 gold pieces
+ 12445 | D:6      | Noticed Grinder
+ 13431 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+ 13431 | D:6      | Found a sacrificial altar of Ru.
+ 13498 | D:6      | Found a shadowy altar of Dithmenos.
+ 13852 | D:6      | Found a runed translucent door.
+ 13853 | D:6      | Noticed Crazy Yiuf
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1        2     3  4       |  4.3
+Unarmed Combat |  1        2     3  4       |  4.3
+Stealth        |  3  4        5  6  7  8  9 |  9.0
+Dodging        |     3     4  5     6  7  8 |  8.0
+Hexes          |        1     2        8    |  8.9
+Evocations     |           1           2  3 |  3.2
+Conjurations   |                          4 |  4.1
+Spellcasting   |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    14 |    94 |   105 ||   213
+       Bite              |       |     9 |     5 ||    14
+       Punch             |       |       |     2 ||     2
+ Cast: Magic Dart        |    56 |   132 |    92 ||   280
+       Searing Ray       |     1 |     8 |    45 ||    54
+       Dazzling Spray    |       |     9 |    12 ||    21
+       Fulminant Prism   |       |       |     8 ||     8
+Evoke: Wand              |       |       |    19 ||    19
+  Use: Scroll            |     2 |     5 |     1 ||     8
+       Potion            |       |     8 |     2 ||    10
+ Stab: Sleeping          |     4 |     2 |     8 ||    14
+       Confused          |       |       |     2 ||     2
+       Invisible         |       |       |     4 ||     4
+  Eat: Chunk             |    10 |    14 |    19 ||    43
+Armor: Skin              |     2 |     7 |     6 ||    15
+Dodge: Dodged            |    15 |   111 |   126 ||   252
+

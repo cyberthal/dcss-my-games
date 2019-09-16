@@ -1,0 +1,431 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6269288730068952822
+
+Walug the Grave Robber (Demonspawn Necromancer)    Turns: 11314, Time: 02:53:53
+
+Health: 74/74      AC: 15    Str:  9    XL:     10   Next: 0%
+Magic:  13/13      EV:  8    Int: 22    God:    Makhleb [......]
+Gold:   99         SH: 11    Dex: 16    Spells: 5/13 levels left
+
+rFire    . . .     SeeInvis .   f - +0 hunting sling
+rCold    + + .     Gourm    .   E - +2 shield
+rNeg     . . .     Faith    .   K - +2 scale mail {rC+}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   n - +2 cloak
+rCorr    .         Harm     .   t - +2 pair of gloves
+MR       .....                  (no boots)
+Stlth    +.........             R - amulet of rage
+HPRegen  0.22/turn              A - +5 ring of intelligence
+MPRegen  0.13/turn              x - ring of protection from cold
+
+@: no status effects
+A: antennae 2, claws 1, talons 1, foul stench 1, rot immunity
+a: Renounce Religion, Evoke Berserk Rage
+
+
+You are on level 8 of the Dungeon.
+You worship Makhleb.
+Makhleb is noncommittal.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 10 of its levels.
+
+You have collected 408 gold pieces.
+You have spent 309 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of venom
+ b - a +6 short sword of freezing
+ c - a +3 spear of venom
+ d - a +4 spear of freezing
+ f - a +0 hunting sling (weapon)
+ v - a +1 dagger of flaming
+ G - a +0 shortbow
+ T - a +3 quarterstaff of chaos
+Missiles
+ l - 45 bolts
+ o - 58 arrows
+ s - 178 stones (quivered)
+ H - 9 tomahawks
+ I - 28 poisoned needles
+ P - 19 sling bullets
+Armour
+ n - a +2 cloak (worn)
+ t - a +2 pair of gloves (worn)
+ C - a +0 ring mail of cold resistance
+ E - a +2 shield (worn)
+ K - a +2 scale mail of cold resistance (worn)
+Jewellery
+ h - an uncursed ring of ice
+ x - a ring of protection from cold (right hand)
+ A - a +5 ring of intelligence (left hand)
+ M - an uncursed amulet of harm
+ R - an amulet of rage (around neck)
+Wands
+ q - a wand of flame (52)
+ S - a wand of random effects (15)
+Scrolls
+ g - a scroll of noise
+ j - 3 scrolls of amnesia
+ m - 2 scrolls of teleportation
+ r - a scroll of magic mapping
+ u - 2 scrolls of fear
+ w - a scroll of remove curse
+ y - a scroll of blinking
+ L - 2 scrolls of fog
+ Q - 2 scrolls of identify
+Potions
+ e - a potion of haste
+ i - a potion of might
+ k - 3 potions of curing
+ p - a potion of cancellation
+ B - a potion of magic
+ F - a potion of heal wounds
+ J - a potion of berserk rage
+ N - a potion of flight
+ O - a potion of invisibility
+Comestibles
+ D - 13 rations
+
+
+   Skills:
+ - Level 5.1 Fighting
+ - Level 2.1 Short Blades
+ - Level 5.8(6.1) Polearms
+ - Level 2.1(4.3) Staves
+ - Level 2.0 Slings
+ - Level 4.0 Armour
+ - Level 4.0 Dodging
+ - Level 2.0 Stealth
+ - Level 5.2 Shields
+ - Level 2.0 Spellcasting
+ + Level 6.7 Necromancy
+ - Level 2.3 Invocations
+ - Level 3.5 Evocations
+
+
+You have 5 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ####         22%         1    #......
+b - Animate Skeleton      Necr           N/A          22%         1    #......
+c - Vampiric Draining     Necr           ####......   54%         3    ###....
+d - Regeneration          Chrm/Necr      ###.......   95%         3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Dead             Necr           N/A          91%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 !*(*   D:7 [
+
+Annotations:
+D:7 Menkaure
+D:8 1 exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of antennae on your head.
+You have sharp fingernails.
+You have sharp toenails.
+You may emit foul miasma when damaged in melee.
+You are immune to rotting.
+
+
+Message History
+
+Okay, then.
+WARNING: ABOUT TO ENTER EXPLORE MODE!
+If you continue, your game will not be scored!
+Do you really want to enter explore mode? (Confirm with "yes".) 
+Okay, then.
+Unknown command.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+f - a +0 hunting sling (weapon)
+Saving game... please wait.
+Level annotation: 1 exclusion
+Welcome back, Walug the Demonspawn Necromancer.
+Blood and souls for Makhleb!
+Press ? for a list of commands and other information.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Saving game... please wait.
+
+######
+#....#
+#....#
+#....#      #########
+#....#####  #......[#             ##.......
+#<.......#  #.......#            ##........
+#%.....>.#  #.......#####        #.........
+#........####...........#        #....8(...
+#...........#@..........       ###....)....
+#........#..........###..       ...........
+#........##.#.......#   ..       #.........
+###.###.###.######..#    #.####   #<.O...[.
+  #.# #..##..    ##.##   #..<.### ##.......
+ #.#.##..####.    #..#   ####...##  ####.##
+ ## #^##..   .#   ##.##     ###..#
+     ## #.#   .    #..#####   ##.######
+   { {   ..   ..   #._#...#   #..P....#..
+         #.#     #..#...#.#####.....#...#
+                 ##..##............##.......
+                  ##..#.#.........P#..####..
+                   ##..........#..##.#...  .
+                    ###.##.##.[..##....#
+                      #..............###
+                      ####...###[)#...##
+                         ##..####......##
+                         #.......>.......
+                        #......##........
+                       #..#.....00.P.0..#
+                       .........0.P00..#.
+                          ##..#0#P00P0...
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:3)
+  A troll (D:9)
+  Prince Ribbit (D:7)
+  A hippogriff (D:8)
+  2 soldier ants (D:8)
+  A water moccasin (D:9)
+  Duvessa (D:4)
+  3 orc warriors
+  3 ice beasts
+  A phantom (D:7)
+  A sky beast (D:9)
+  A black bear (D:9)
+  2 necrophages
+  2 centaurs (D:6)
+  Blork the orc (D:5)
+  2 bullfrogs
+  A gnoll sergeant (D:4)
+  Dowan (D:4)
+  5 wights
+  2 crimson imps (D:5)
+  A centaur zombie (D:8)
+  Crazy Yiuf (D:5)
+  4 hounds
+  2 orc priests
+  An iron imp (D:4)
+  Terence (D:2)
+  2 iguanas (D:6)
+  Ijyb (D:3)
+  4 orc wizards
+  5 worker ants
+  A killer bee zombie (D:5)
+  A hound zombie (D:8)
+  7 gnolls
+  9 adders
+  A shadow imp (D:7)
+  An ooze (D:3)
+  An adder zombie (D:9)
+  3 adder skeletons
+  3 worms
+  A dart slug (D:1)
+  2 leopard geckos
+  19 orcs
+  A ball python (D:2)
+  4 giant cockroaches
+  4 goblins
+  7 hobgoblins (D:1)
+  3 jackals (D:5)
+  2 quokkas
+  7 bats
+  8 frilled lizards
+  7 kobolds
+  A leopard gecko skeleton (D:5)
+  2 quokka skeletons
+  5 rats
+155 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A wight (D:9)
+  2 crimson imps
+  A worker ant (D:6)
+  A gnoll (D:4)
+  A shadow imp (D:6)
+  An orc (D:6)
+  A hobgoblin (D:1)
+8 creatures vanquished.
+
+Grand Total: 163 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Walug the Demonspawn Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+    10 | D:1      | Learned a level 1 spell: Animate Skeleton
+    70 | D:1      | Reached skill level 1 in Fighting
+   359 | D:1      | Reached skill level 1 in Short Blades
+   371 | D:1      | Gained mutation: You have a pair of small antennae on your
+                  | head. [demonic ancestry]
+   371 | D:1      | Reached XP level 2. HP: 21/21 MP: 1/5
+  1075 | D:1      | Reached XP level 3. HP: 26/27 MP: 3/6
+  1167 | D:1      | Learned a level 3 spell: Vampiric Draining
+  1251 | D:2      | Found a shadowy altar of Dithmenos.
+  1498 | D:2      | Reached skill level 1 in Slings
+  1628 | D:2      | Noticed Terence
+  2169 | D:2      | Found a shimmering altar of Xom.
+  2572 | D:2      | Killed Terence
+  2572 | D:2      | Gained mutation: You have sharp fingernails. [demonic
+                  | ancestry]
+  2572 | D:2      | Reached XP level 4. HP: 31/33 MP: 3/7
+  2919 | D:3      | Noticed Ijyb
+  3195 | D:2      | Reached skill level 1 in Staves
+  3346 | D:3      | Gained mutation: You are immune to rotting. [demonic
+                  | ancestry]
+  3346 | D:3      | Reached XP level 5. HP: 37/41 MP: 2/8
+  3358 | D:2      | Learned a level 3 spell: Regeneration
+  3418 | D:3      | Reached skill level 1 in Armour
+  4196 | D:3      | Killed Ijyb
+  4196 | D:3      | Gained mutation: You have a pair of antennae on your head.
+                  | [demonic ancestry]
+  4196 | D:3      | Reached XP level 6. HP: 45/47 MP: 4/9
+  4370 | D:4      | Noticed Duvessa
+  4370 | D:4      | Noticed Dowan
+  4371 | D:4      | Noticed Grinder
+  4607 | D:3      | Paralysed by Grinder for 3 turns
+  4642 | D:3      | Killed Grinder
+  4901 | D:4      | Killed Dowan
+  4901 | D:4      | Reached XP level 7. HP: 41/52 MP: 0/10
+  5008 | D:4      | Killed Duvessa
+  5092 | D:4      | Found a shattered altar of Ashenzari.
+  5308 | D:4      | Found an ornate altar of the Wu Jian Council.
+  5762 | D:5      | Entered Level 5 of the Dungeon
+  5894 | D:5      | Found a runed translucent door.
+  5895 | D:5      | Noticed Crazy Yiuf
+  5929 | D:5      | Found a snail-covered altar of Cheibriados.
+  6110 | D:5      | Reached skill level 1 in Shields
+  6157 | D:5      | Found Ligyrhaisk's General Store.
+  6162 | D:5      | Found Juac's Weapon Shop.
+  6192 | D:5      | Reached skill level 1 in Polearms
+  6381 | D:5      | Gained mutation: You may emit foul miasma when damaged in
+                  | melee. [demonic ancestry]
+  6381 | D:5      | Reached XP level 8. HP: 58/58 MP: 9/11
+  6425 | D:5      | Found Weishro's Distillery.
+  6455 | D:5      | You fall through a shaft for 2 floors!
+  6576 | D:7      | Noticed Prince Ribbit
+  6588 | D:7      | Killed Prince Ribbit
+  6758 | D:7      | Found Gyleh's Antique Armour Shop.
+  7018 | D:7      | Noticed Menkaure
+  7082 | D:5      | Noticed Blork the orc
+  7432 | D:5      | Killed Crazy Yiuf
+  7666 | D:5      | Killed Blork the orc
+  7777 | D:5      | Found a deep blue altar of Sif Muna.
+  7897 | D:5      | Reached skill level 5 in Necromancy
+  7906 | D:5      | Found an opulent altar of Gozag.
+  7987 | D:5      | Found Cixolew's Assorted Antiques.
+  8214 | D:5      | Bought a potion of degeneration for 12 gold pieces
+  8290 | D:5      | Bought a scroll labeled PAUMUWKIEFU for 21 gold pieces
+  8290 | D:5      | Bought a scroll of identify for 42 gold pieces
+  8290 | D:5      | Bought a scroll of identify for 42 gold pieces
+  8367 | D:5      | Bought a potion of magic for 96 gold pieces
+  8942 | D:6      | Gained mutation: You have sharp toenails. [demonic
+                  | ancestry]
+  8942 | D:6      | Reached XP level 9. HP: 65/65 MP: 12/12
+  9253 | D:6      | Found a bloodstained altar of Trog.
+  9286 | D:6      | Reached skill level 5 in Fighting
+  9615 | D:5      | Bought a potion of invisibility for 96 gold pieces
+  9953 | D:7      | Reached skill level 6 in Necromancy
+ 10448 | D:7      | Found a staircase to the Ecumenical Temple.
+ 10452 | Temple   | Entered the Ecumenical Temple
+ 10544 | Temple   | Became a worshipper of Makhleb the Destroyer
+ 10645 | D:8      | Noticed a two-headed ogre
+ 10871 | D:8      | You fall through a shaft!
+ 10871 | D:9      | Found a basalt altar of Yredelemnul.
+ 10884 | D:9      | Reached skill level 5 in Polearms
+ 11048 | D:9      | Noticed a troll
+ 11058 | D:9      | Killed a troll
+ 11058 | D:9      | Reached skill level 5 in Shields
+ 11263 | D:8      | Reached XP level 10. HP: 74/74 MP: 13/13
+ 11286 | D:8      | Found a sacrificial altar of Ru.
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1  2     3           4  5 |  5.1
+Short Blades   |  1     2                   |  2.1
+Stealth        |     2                      |  2.0
+Slings         |        1                 2 |  2.0
+Dodging        |        2           3  4    |  4.0
+Staves         |           1  2             |  2.1
+Armour         |              2     3  4    |  4.0
+Evocations     |                 3          |  3.5
+Shields        |                    2  4  5 |  5.2
+Polearms       |                    2  3  5 |  5.8
+Necromancy     |                       5  6 |  6.7
+Invocations    |                          2 |  2.3
+Spellcasting   |                            |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Club              |     5 |       |       |       ||     5
+       Short sword       |    12 |     5 |       |       ||    17
+       Quarterstaff      |       |    52 |       |       ||    52
+       Dagger            |       |    31 |    11 |       ||    42
+       Spear             |       |       |   340 |       ||   340
+       Kick              |       |       |    36 |       ||    36
+ Fire: Hunting sling     |    22 |    52 |   116 |       ||   190
+Throw: Tomahawk          |       |     2 |     7 |       ||     9
+ Cast: Pain              |    56 |    49 |    51 |       ||   156
+       Animate Skeleton  |    14 |    14 |    27 |       ||    55
+ Abil: Evoke Berserk Rag |       |       |     1 |       ||     1
+Evoke: Wand              |       |     1 |     9 |       ||    10
+  Use: Potion            |     1 |     5 |     1 |       ||     7
+       Scroll            |       |     6 |    15 |       ||    21
+ Stab: Sleeping          |     3 |     1 |     1 |       ||     5
+  Eat: Chunk             |     5 |    10 |    20 |       ||    35
+       Ration            |       |       |     1 |       ||     1
+Armor: Robe              |     3 |       |       |       ||     3
+       Leather armour    |     5 |     5 |       |       ||    10
+       Scale mail        |       |    51 |    10 |       ||    61
+       Skin              |       |    19 |       |       ||    19
+       Ring mail         |       |       |    78 |       ||    78
+Dodge: Dodged            |    20 |    47 |    87 |       ||   154
+Block: Shield            |       |       |   131 |       ||   131
+

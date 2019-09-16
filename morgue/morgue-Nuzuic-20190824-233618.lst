@@ -1,0 +1,280 @@
+Nuzuic
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(3, -6, D:1)
+  18 stones
+(4, -9, D:1)
+  a +2 mace of holy wrath
+(15, -5, D:1)
+  a +0 club
+(17, -32, D:1)
+  14 stones
+(18, -4, D:1)
+  a +0 dagger
+(19, -8, D:1)
+  a stone
+(24, -15, D:1)
+  a stone
+  a +0 short sword
+(42, -14, D:1)
+  a +0 whip
+(47, -29, D:1)
+  a stone
+(47, -8, D:1)
+  a scroll of enchant weapon
+(53, -29, D:1)
+  4 stones
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  a stone
+(4, -10, D:2)
+  a +0 long sword
+(10, -12, D:2)
+  a +0 club
+(11, -22, D:2)
+  28 stones
+(13, -7, D:2)
+  2 stones
+(15, -3, D:2)
+  a +0 club
+(19, -6, D:2)
+  a stone
+(23, -26, D:2)
+  2 stones
+(24, -33, D:2)
+  a stone
+  a +0 dagger
+(28, -6, D:2)
+  a +0 spear
+(31, -19, D:2)
+  a +0 chain mail
+(33, -32, D:2)
+  a scroll of enchant weapon
+(42, 2, D:2)
+  23 stones
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(12, 0, D:3)
+  a +0 club
+(14, -35, D:3)
+  a cursed -3 rapier
+(15, -13, D:3)
+  a +0 falchion
+(22, -12, D:3)
+  a +0 scale mail
+(40, -40, D:3)
+  a +0 dagger
+(46, 5, D:3)
+  4 stones
+(47, 5, D:3)
+  a stone
+(48, -26, D:3)
+  a +0 leather armour
+(48, 5, D:3)
+  a stone
+(49, -1, D:3)
+  5 stones
+(49, 0, D:3)
+  4 stones
+(49, 4, D:3)
+  13 stones
+(49, 5, D:3)
+  a stone
+
+Level 4 of the Dungeon
+[Shop] Tuitec's Weapon Shop
+  a +0 rapier (40 gold)
+  a +0 trident (35 gold)
+  a +0 club (10 gold)
+  a +0 flail (35 gold)
+  a +0 arbalest (45 gold)
+  19 bolts (38 gold)
+  a +0 club (10 gold)
+  a +0 war axe (35 gold)
+  a +0 rapier (40 gold)
+(0, 0, D:4)
+  19 stones
+(9, 19, D:4)
+  a +0 giant club
+(12, -18, D:4)
+  a +0 robe
+(13, -22, D:4)
+  12 stones
+(15, -7, D:4)
+  a +0 quarterstaff
+(16, -6, D:4)
+  24 bolts
+(19, -22, D:4)
+  8 stones
+(29, 1, D:4)
+  a +0 leather armour
+(32, 22, D:4)
+  3 potions of degeneration
+(33, 10, D:4)
+  a +0 mace
+
+Level 5 of the Dungeon
+[Shop] Oquemioh's Jewellery Boutique
+  an uncursed ring of ice (325 gold)
+  an uncursed amulet of harm (390 gold)
+  an uncursed ring of protection from cold (325 gold)
+  an uncursed amulet of harm (390 gold)
+  an uncursed ring of ice (325 gold)
+  an uncursed ring of see invisible (195 gold)
+  an uncursed amulet of magic regeneration (390 gold)
+  a cursed ring of attention (58 gold)
+  a cursed ring of attention (58 gold)
+  a +4 ring of strength (351 gold)
+  an uncursed amulet of regeneration (390 gold)
+(0, 0, D:5)
+  18 stones
+(6, -5, D:5)
+  a scroll of enchant weapon
+(16, 31, D:5)
+  a +0 dagger of venom
+(17, 5, D:5)
+  14 stones
+(17, 24, D:5)
+  a +0 robe
+  a +0 dagger
+(17, 27, D:5)
+  a +0 robe
+  a +0 dagger
+(17, 33, D:5)
+  a +0 dagger
+(17, 45, D:5)
+  a +0 short sword
+(20, 10, D:5)
+  a +0 ring mail
+(41, 54, D:5)
+  a +0 trident
+(45, -1, D:5)
+  15 arrows
+(47, -1, D:5)
+  a +0 giant spiked club
+  a +0 giant spiked club
+(48, -1, D:5)
+  a +0 giant spiked club
+(48, 8, D:5)
+  17 stones
+(50, 23, D:5)
+  4 arrows
+(51, 24, D:5)
+  a +0 robe
+  a +0 dagger
+  3 arrows
+  a cursed +0 shortbow
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a cursed +0 mace
+(9, -29, D:6)
+  2 tomahawks
+  a +0 hand axe
+(9, -28, D:6)
+  a +0 leather armour
+  a +0 short sword
+(12, -2, D:6)
+  11 poisoned needles
+(13, -24, D:6)
+  a tomahawk
+  a +0 club
+(14, -6, D:6)
+  a +0 club
+  a +0 robe
+(16, -32, D:6)
+  a +0 scale mail
+  a +0 spear
+(16, -3, D:6)
+  a +1 war axe of chopping
+(16, -2, D:6)
+  a +0 giant club
+(17, -38, D:6)
+  a +0 leather armour
+  a +0 short sword
+(17, -27, D:6)
+  a +0 flail
+(18, -22, D:6)
+  16 stones
+  a cursed +0 short sword
+(18, 2, D:6)
+  a +0 pair of boots
+(19, -32, D:6)
+  a +0 ring mail
+  a +0 club
+(19, -27, D:6)
+  a +1 short sword of freezing
+(19, -26, D:6)
+  a throwing net
+(21, -26, D:6)
+  a +0 plate armour
+  a cursed -2 halberd
+(22, -29, D:6)
+  an arrow
+  a stone
+(23, -28, D:6)
+  a throwing net
+(24, -34, D:6)
+  a +0 club
+(24, -11, D:6)
+  9 gold pieces
+(25, -30, D:6)
+  a +0 halberd
+(25, -12, D:6)
+  19 gold pieces
+(26, -29, D:6)
+  a +0 leather armour
+(27, -12, D:6)
+  12 gold pieces
+(27, -11, D:6)
+  12 gold pieces
+(28, -11, D:6)
+  19 gold pieces
+(28, 8, D:6)
+  a +0 hand axe
+(38, -7, D:6)
+  5 sling bullets
+(41, -12, D:6)
+  a +0 ring mail
+  a +0 hand axe
+  a +0 flail
+(43, 0, D:6)
+  a +0 robe
+  a +0 dagger
+(45, -6, D:6)
+  an uncursed staff of summoning
+(46, -27, D:6)
+  25 arrows
+  a +0 shortbow
+(46, -16, D:6)
+  a +0 club
+(47, -26, D:6)
+  an arrow
+(56, 3, D:6)
+  a cursed -3 giant club
+(59, -17, D:6)
+  a +0 flail
+  23 stones
+(59, -14, D:6)
+  a +2 vampiric dagger
+(59, -10, D:6)
+  2 stones
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 robe
+(1, 2, D:7)
+  a potion of lignification
+(4, 12, D:7)
+  a scroll of teleportation
+(10, 6, D:7)
+  a +0 plate armour
+
+the Ecumenical Temple
+

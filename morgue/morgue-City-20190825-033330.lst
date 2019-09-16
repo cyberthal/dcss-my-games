@@ -1,0 +1,131 @@
+City
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(8, 15, D:1)
+  5 large rocks
+(9, 11, D:1)
+  a +0 whip
+(17, 37, D:1)
+  a +0 short sword
+  a +0 short sword
+(18, 7, D:1)
+  a +0 hand axe
+
+Level 2 of the Dungeon
+(8, -20, D:2)
+  a +0 club
+(12, 5, D:2)
+  a +0 short sword
+(17, -6, D:2)
+  a +0 short sword
+(26, 27, D:2)
+  a -3 whip
+(31, -7, D:2)
+  a +0 club
+(37, -2, D:2)
+  a +0 club
+(42, 4, D:2)
+  a +0 club
+(45, 17, D:2)
+  a cursed -3 hand axe
+(50, 27, D:2)
+  a +0 club
+(64, -13, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(9, 2, D:3)
+  a +0 dagger
+(10, 33, D:3)
+  7 javelins
+(15, 7, D:3)
+  a +0 whip
+(23, -3, D:3)
+  a +0 club
+(24, 44, D:3)
+  a +0 club
+(28, 31, D:3)
+  a +0 club
+(44, 8, D:3)
+  a +0 dagger
+(63, 10, D:3)
+  a +0 club
+
+Level 4 of the Dungeon
+[Shop] Mistrag's Mass Market
+  2 large rocks (16 gold)
+  a +0 triple sword (120 gold)
+  a +0 giant club (20 gold)
+  a +0 plate armour (276 gold)
+  a +0 giant spiked club (22 gold)
+  a cursed +0 giant spiked club (1 gold)
+(0, 0, D:4)
+  a +0 dagger
+(0, 2, D:4)
+  a +0 dagger
+  a +0 leather armour
+  a +0 dagger
+(10, 8, D:4)
+  a potion of cancellation
+(11, 14, D:4)
+  a stone
+(12, 13, D:4)
+  a stone
+(13, 12, D:4)
+  a stone
+(14, -1, D:4)
+  a sling bullet
+(14, 0, D:4)
+  a sling bullet
+(14, 11, D:4)
+  a stone
+(15, 10, D:4)
+  a stone
+(16, 12, D:4)
+  a potion of degeneration
+(16, 14, D:4)
+  a potion of curing
+(17, 9, D:4)
+  a stone
+(17, 10, D:4)
+  a stone
+(17, 11, D:4)
+  a stone
+(18, 7, D:4)
+  a +0 long sword
+(18, 9, D:4)
+  a stone
+(19, 14, D:4)
+  a stone
+(20, 11, D:4)
+  a sling bullet
+(20, 16, D:4)
+  a sling bullet
+(21, 12, D:4)
+  a stone
+(21, 13, D:4)
+  a sling bullet
+(26, -16, D:4)
+  a +0 dagger
+(26, -14, D:4)
+  a +0 dagger
+  a +0 robe
+  an orc skeleton
+(26, -13, D:4)
+  a +0 mace
+  a +0 chain mail
+  an orc skeleton
+(37, -1, D:4)
+  a stone
+(41, -1, D:4)
+  a +0 dagger (still there?)
+  a stone (still there?)
+(45, -1, D:4)
+  a +0 dagger
+  a +0 robe
+  an orc skeleton
+(55, 14, D:4)
+  13 stones
+

@@ -1,0 +1,159 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7158887953221158796
+
+526951 Ibuschutu the Chopper (level 27, 119/180 HPs) *WIZ*
+             Began as a Hill Orc Gladiator on Sept 4, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:04 (11 turns).
+
+Ibuschutu the Chopper (Hill Orc Gladiator)            Turns: 11, Time: 00:02:04
+
+Health: 119/180    AC:  4    Str: 16    XL:     27
+Magic:  23/23      EV:  9    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.40/turn              (no ring)
+MPRegen  0.18/turn              (no ring)
+
+@: very slightly contaminated, constricted
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Scrolls
+ e - 8 scrolls of blinking
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 4.0 Axes
+ + Level 1.7 Throwing
+ + Level 2.4 Dodging
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The tentacled monstrosity tentacle-slaps you. x2
+The tentacled monstrosity constricts you!
+Blink to where?
+Press: ? - help, Dir - move target cursor
+You escape the tentacled monstrosity's grasp.
+You are very lightly contaminated with residual magic.
+As you read the scroll of blinking, it crumbles to dust.
+The tentacled monstrosity tentacle-slaps you.
+The tentacled monstrosity closely misses you.
+The tentacled monstrosity tentacle-slaps you!
+The tentacled monstrosity grabs you.
+The tentacled monstrosity constricts you!
+Blink to where?
+Press: ? - help, Dir - move target cursor
+The tentacled monstrosity's grasp on you weakens, but your attempt to escape
+fails.
+As you read the scroll of blinking, it crumbles to dust.
+The tentacled monstrosity tentacle-slaps you but does no damage.
+The tentacled monstrosity tentacle-slaps you! x2
+The tentacled monstrosity constricts you!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         ..
+        ..
+## #   #.###
+#.#.# #.#..#
+##.#.#.#.#.#
+#.#.#.#.#..#
+ #.~~~~~.# ###
+#.#~@..~#.....
+ #.~.X<~.#
+#.#~...~#..#
+##.~~~~~.# #
+#.#.#.#.#..
+##.#.#.#.#.#
+#.#.# # #..#
+## #     #.#
+
+
+You could see a tentacled monstrosity.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ibuschutu the Hill Orc Gladiator began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Noticed a tentacled monstrosity
+     5 | D:1      | Mangled by a tentacled monstrosity (19 damage)
+     5 | D:1      | Slain by a tentacled monstrosity (7 damage)
+     6 | D:1      | Slain by a tentacled monstrosity (7 damage)
+     7 | D:1      | Reached XP level 2. HP: 25/25 MP: 2/2
+     7 | D:1      | Reached XP level 3. HP: 30/30 MP: 3/3
+     7 | D:1      | Reached XP level 4. HP: 37/37 MP: 4/4
+     7 | D:1      | Reached XP level 5. HP: 42/42 MP: 5/5
+     7 | D:1      | Reached XP level 6. HP: 50/50 MP: 6/6
+     7 | D:1      | Reached XP level 7. HP: 56/56 MP: 7/7
+     7 | D:1      | Reached XP level 8. HP: 62/62 MP: 8/8
+     7 | D:1      | Reached XP level 9. HP: 68/68 MP: 9/9
+     7 | D:1      | Reached XP level 10. HP: 74/74 MP: 10/10
+     7 | D:1      | Reached XP level 11. HP: 80/80 MP: 11/11
+     7 | D:1      | Reached XP level 12. HP: 88/88 MP: 12/12
+     7 | D:1      | Reached XP level 13. HP: 93/93 MP: 13/13
+     7 | D:1      | Reached XP level 14. HP: 100/100 MP: 14/14
+     7 | D:1      | Reached XP level 15. HP: 105/105 MP: 15/15
+     7 | D:1      | Reached XP level 16. HP: 112/112 MP: 16/16
+     7 | D:1      | Reached XP level 17. HP: 117/117 MP: 17/17
+     7 | D:1      | Reached XP level 18. HP: 125/125 MP: 18/18
+     7 | D:1      | Reached XP level 19. HP: 130/130 MP: 19/19
+     7 | D:1      | Reached XP level 20. HP: 137/137 MP: 20/20
+     7 | D:1      | Reached XP level 21. HP: 143/143 MP: 21/21
+     7 | D:1      | Reached XP level 22. HP: 149/149 MP: 22/22
+     7 | D:1      | Reached XP level 23. HP: 155/155 MP: 23/23
+     7 | D:1      | Reached XP level 24. HP: 162/162 MP: 23/23
+     7 | D:1      | Reached XP level 25. HP: 168/168 MP: 23/23
+     7 | D:1      | Reached XP level 26. HP: 174/174 MP: 23/23
+     7 | D:1      | Reached XP level 27. HP: 180/180 MP: 23/23
+    11 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+  Use: Scroll            |     1 |       |       |       |       |       |       |       |     3 ||     4
+Armor: Leather armour    |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |     4 |       |       |       |       |       |       |       |     2 ||     6
+

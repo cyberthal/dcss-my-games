@@ -1,0 +1,103 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11937635783704992940
+
+0 Jumpuyri the Ducker (level 1, 16/16 HPs)
+             Began as an Octopode Monk on Aug 30, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:18 (0 turns).
+
+Jumpuyri the Ducker (Octopode Monk)                    Turns: 0, Time: 00:00:18
+
+Health: 16/16      AC:  1    Str: 10    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int: 12    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (helmet restricted)
+rPois    .         Spirit   .   (no amulet)
+rElec    .         Reflect  .   (no ring)
+rCorr    .         Harm     .   (no ring)
+MR       .....                  (no ring)
+Stlth    +++.......             (no ring)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+                                (no ring)
+                                (no ring)
+
+@: no status effects
+A: almost no armour, stealthy swim, amphibious, 8 rings, constrict 8, camouflage
+1, gelatinous body 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 3.0 Dodging
+ + Level 2.6 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear most types of armour.
+You are very stealthy in the water. (Stealth+)
+You are amphibious.
+You can wear up to eight rings at the same time.
+You can use your tentacles to constrict eight enemies at once.
+Your skin changes colour to match your surroundings (Stealth+).
+Your rubbery body absorbs attacks. (AC +1, EV +1)
+
+
+Message History
+
+Welcome, Jumpuyri the Octopode Monk.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#
+#P~
+#~~~.####
+#~.~~..@#
+#########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jumpuyri the Octopode Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Quit the game
+

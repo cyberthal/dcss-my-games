@@ -1,0 +1,329 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2120940374730476858
+
+1121 Doshru Soshab the Covered (level 7, 57/57 HPs)
+             Began as a Demigod Skald on Sept 14, 2019.
+             Quit the game on level 5 of the Dungeon.
+             The game lasted 00:53:09 (7996 turns).
+
+Doshru Soshab the Covered (Demigod Skald)           Turns: 7996, Time: 00:53:10
+
+Health: 57/57      AC: 23    Str: 17    XL:     7   Next: 88%
+Magic:  13/13      EV:  6    Int: 19    God:    
+Gold:   19         SH:  5    Dex: 17    Spells: 2/10 levels left
+
+rFire    . . .     SeeInvis .   u - +0 short sword (venom)
+rCold    . . .     Gourm    .   O - +1 buckler {rPois}
+rNeg     . . .     Faith    .   p - +9 plate armour of Action {+Inv}
+rPois    +         Spirit   .   t - +1 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.19/turn              o - +3 ring of strength
+MPRegen  0.13/turn              (no ring)
+
+@: no status effects
+A: high mp 1
+a: Evoke Invisibility
+
+
+You were on level 5 of the Dungeon.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 219 gold pieces.
+You spent 200 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 flail of protection
+ b - a +0 spear
+ c - a +0 trident
+ d - a +0 hunting sling
+ u - a +0 short sword of venom (weapon)
+ M - a +0 blowgun
+Missiles
+ f - 92 stones
+ q - 59 arrows
+ y - 4 javelins
+ A - 13 poisoned needles
+ B - 6 needles of frenzy
+ F - 4 tomahawks (quivered)
+ G - 44 bolts
+ K - 25 sling bullets
+ P - 4 poisoned tomahawks
+Armour
+ e - a +0 chain mail
+ l - the +1 robe of Ycerreim {rC+ rCorr Slay-6, unknown}
+   (You found it on level 4 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (-6).
+   It protects you from cold.
+   It provides partial protection from all sources of acid and corrosion.
+ m - a +0 scale mail
+ n - a +0 ring mail
+ p - the +9 plate armour of Action (worn) {+Inv}
+   (You found it on level 4 of the Dungeon)   
+   
+   It lets you turn invisible.
+ s - a +0 leather armour
+ t - a +1 helmet (worn)
+ O - a +1 buckler of poison resistance (worn)
+Magical Staves
+ N - an uncursed staff of death
+Jewellery
+ o - a +3 ring of strength (left hand)
+Scrolls
+ g - a scroll of noise {unknown}
+ r - a scroll of enchant armour {unknown}
+ v - a scroll of magic mapping {unknown}
+ z - 3 scrolls of teleportation
+ C - a scroll of amnesia {unknown}
+ D - a scroll of blinking {unknown}
+ E - a scroll of enchant weapon {unknown}
+ I - a scroll of immolation {unknown}
+ J - a scroll of remove curse
+Potions
+ h - a potion of resistance
+ j - a potion of might
+ k - a potion of curing
+ w - 2 potions of haste {unknown}
+ x - a potion of ambrosia
+ H - a potion of agility
+ L - a potion of heal wounds {unknown}
+Comestibles
+ i - 7 rations
+
+
+   Skills:
+ + Level 3.1 Fighting
+ + Level 3.0 Polearms
+ + Level 0.0(0.5) Slings
+ - Level 1.1 Throwing
+ - Level 4.5 Armour
+ - Level 4.0 Dodging
+ - Level 1.0 Stealth
+ + Level 0.0 Shields
+ - Level 2.0 Spellcasting
+ - Level 1.0 Hexes
+ - Level 3.0 Charms
+ - Level 1.1 Translocations
+ - Level 4.0 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           ##..         98%         1    #......
+b - Song of Slaying       Chrm           ##......     99%         2    ###....
+c - Shroud of Golubria    Chrm/Tloc      #.........   100%        2    ###....
+d - Spectral Weapon       Hex/Chrm       #.......     100%        3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Regeneration             Chrm/Necr      #.........   100%        3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (0/1) D:5         
+
+Shops:
+D:5 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+There is an open door here.
+There is a stone staircase leading down here.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-handed.
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+Okay, then.
+Okay, then.
+Search for what [Enter for "."]? .
+Search for what [Enter for "."]? D:
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+N - an uncursed staff of death (weapon)
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +0 short sword of venom begins to drip with poison!
+u - a +0 short sword of venom (weapon)
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         #####............##..............................# #.# #.#
+             #...~........##.........###.####............## #.# #.#
+             #............##.........# #.#  #.#########'##  #.# #.#
+             #............##.........###'####....######.#   #.# #.#
+ ################'##########..................##......#.#   #.# #.#
+ #................#      #####'#+###.........###..###.#.#   #.# #.#
+ #.################      #.......###.........'....# #.#.#####.# #.#
+ #.#########             #........##.........####.# #.#.....#.# #.#
+ #.........#             #......#.##.........####.# #.#####.#.# #.#
+ #.###'###.#             #......#.##............#.###.#.....#.# #.#
+ #.#.....#.#######       #......#.##....................#####.# #.#
+ #.#.}.}.#.'.....#       #......#..#.........#...####.#######.###.##
+ #.+..>..'.#####.#       #......##.#.#...........+.................#
+ #.#.}.}.#.#   #.#       #......##.#.#..#........####.#######.######
+ #.#.....#.#   #.#       #......##.#.#...........+............#
+ #.###'###.#####'####  ###.._........#...........####.#########
+ #..................#  #.........##..#...#+##...##  #.#
+ #..................#  #.........##..#...#.##...#   #.#
+ #..................#  #.........##..#...#..'...#   #.#
+ #..................####....##'#.##..#...####...#   #.#
+ #.#####'#######.......'....##.#.##..#..........#   #.#
+ #.#..............######....##.#.##..#..........#   #.#
+ #.#..............'.........##.#.#...#..........#   #.#
+##.#..............####......##.#.#.#@#..........#   #.#
+#..'................####....##.....#.#..........#####.#
+####.............)..#..+....'......#.#................#
+   #..............#.#.##....####.#.#.#.......##################
+   #..............+...##....####.#.#.#.......'%...............#
+   #..............#..............#.#.##......##.#############.#
+   #..............#.#.############.#.##......##.#           #.#
+   ################.#.#          #.#.##......##'##          #.#
+                  #.#.#          #.#.##......#...#          #.#
+                  #.#.#          #.#.#########.\.#          #.#
+                  #.###          #.#[........#...#          #.#
+                  #.#            #.#.##########'##          #.#
+                  #.#            #.#.#       #..#           #.#
+                  #.#            #.###       #.##           #.#
+                  #.#            #.#         #.#            #.#
+                  #.#            #.#         #.#            #.#
+                  #.#            #.#         #.#            #.#
+                  #.#            #.#         #.#            #.#
+                  #.##############.#         #.##############.#
+                  #................#         #................#
+                  ##################         #.################
+                                             #.#
+                                             ###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 water moccasins (D:5)
+  A sky beast (D:4)
+  3 ogres
+  A bullfrog (D:3)
+  2 scorpions (D:4)
+  A crimson imp (D:5)
+  A centaur skeleton (D:4)
+  4 orc wizards
+  A worker ant (D:4)
+  A worker ant zombie (D:3)
+  7 adders
+  A shadow imp (D:5)
+  An ooze (D:2)
+  A worm (D:3)
+  2 dart slugs
+  6 leopard geckos
+  22 orcs
+  3 giant cockroaches
+  11 goblins
+  5 hobgoblins
+  2 jackals (D:1)
+  10 kobolds
+  A quokka (D:3)
+  8 bats
+  4 frilled lizards
+  A quokka skeleton (D:5)
+  7 rats
+109 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Doshru Soshab the Demigod Skald began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 5/5
+   165 | D:1      | Reached skill level 1 in Stealth
+   416 | D:1      | Reached XP level 2. HP: 24/24 MP: 7/7
+   438 | D:1      | Learned a level 2 spell: Song of Slaying
+  1287 | D:1      | Reached XP level 3. HP: 29/29 MP: 8/8
+  1317 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1608 | D:2      | Found a white marble altar of Elyvilon.
+  1608 | D:2      | Found an opulent altar of Gozag.
+  1609 | D:2      | Found a bloodstained altar of Trog.
+  2955 | D:3      | Reached skill level 1 in Translocations
+  3174 | D:3      | Reached XP level 4. HP: 36/37 MP: 6/9
+  3297 | D:3      | Noticed a bullfrog
+  3312 | D:3      | Killed a bullfrog
+  3823 | D:3      | Reached XP level 5. HP: 45/45 MP: 3/10
+  3891 | D:3      | Learned a level 3 spell: Spectral Weapon
+  4472 | D:3      | Reached skill level 1 in Throwing
+  4472 | D:3      | Reached skill level 1 in Hexes
+  4778 | D:4      | Reached skill level 1 in Armour
+  4875 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/11
+  5159 | D:4      | Got a faintly glowing plate armour
+  5422 | D:4      | Identified the +9 plate armour of Action {+Inv} (You found
+                  | it on level 4 of the Dungeon)
+  5485 | D:4      | Found a stormy altar of Qazlal.
+  5568 | D:4      | Noticed a water elemental
+  5569 | D:4      | Noticed a fire elemental
+  5569 | D:4      | Noticed an air elemental
+  5593 | D:4      | Reached skill level 1 in Evocations
+  6001 | D:4      | Got a fine robe
+  6077 | D:4      | Reached XP level 7. HP: 23/57 MP: 13/13
+  6358 | D:5      | Entered Level 5 of the Dungeon
+  6562 | D:5      | Found a staircase to the Ecumenical Temple.
+  7309 | D:5      | Found a hide-covered altar of Uskayaw.
+  7534 | D:5      | Found Udiviw's Serpentskin Sales.
+  7829 | D:5      | Bought a +0 blowgun for 25 gold pieces
+  7829 | D:5      | Bought a +1 buckler of poison resistance for 135 gold
+                  | pieces
+  7829 | D:5      | Bought 4 poisoned tomahawks for 40 gold pieces
+  7996 | D:5      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Stealth        |  1                   |  1.0
+Fighting       |  2        3          |  3.1
+Polearms       |  2        3          |  3.0
+Spellcasting   |     2                |  2.0
+Dodging        |        2     3     4 |  4.0
+Translocations |        1             |  1.1
+Charms         |        3             |  3.0
+Throwing       |              1       |  1.1
+Hexes          |              1       |  1.0
+Armour         |              1  3  4 |  4.5
+Evocations     |                 3  4 |  4.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |   119 |   239 |    68 ||   426
+       Trident           |       |       |   105 ||   105
+Throw: Stone             |    43 |    49 |       ||    92
+       Tomahawk          |       |     6 |    12 ||    18
+       Javelin           |       |     2 |       ||     2
+ Cast: Infusion          |    13 |    14 |       ||    27
+       Song of Slaying   |     5 |     6 |       ||    11
+       Shroud of Golubri |     1 |     8 |       ||     9
+ Abil: Evoke Invisibilit |       |       |     3 ||     3
+  Use: Scroll            |     3 |     4 |     2 ||     9
+ Stab: Invisible         |       |       |     3 ||     3
+  Eat: Chunk             |     4 |    11 |     3 ||    18
+       Ration            |     1 |       |     1 ||     2
+Armor: Leather armour    |     8 |       |       ||     8
+       Ring mail         |    12 |    24 |       ||    36
+       Plate armour      |       |    42 |   113 ||   155
+Dodge: Dodged            |    51 |    85 |    60 ||   196
+

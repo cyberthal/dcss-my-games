@@ -1,0 +1,232 @@
+Osaeclad
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a whip
+(16, 16, D:1)
+  a +0 club
+(16, 18, D:1)
+  a +0 short sword
+(21, 9, D:1)
+  a cursed -2 club
+(30, -13, D:1)
+  a dagger
+(31, -10, D:1)
+  a spear
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+  a +0 dagger
+(0, 16, D:2)
+  a +0 dagger
+(5, 10, D:2)
+  a spear
+(17, -2, D:2)
+  a +0 dagger
+  a +0 club
+(18, 1, D:2)
+  a +0 dagger
+  a +0 club
+(21, -11, D:2)
+  a +0 short sword
+(24, -15, D:2)
+  a hand axe
+(27, -10, D:2)
+  a hand axe
+(35, -3, D:2)
+  a +0 dagger
+(35, -1, D:2)
+  a robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a mace
+(1, 14, D:3)
+  a hunting sling
+(2, 6, D:3)
+  a cursed -2 dagger
+(3, 40, D:3)
+  a leather armour
+(27, 19, D:3)
+  a +0 club
+(27, 20, D:3)
+  a +0 robe
+(28, 19, D:3)
+  a +0 club
+(32, 17, D:3)
+  a leather armour
+(40, 31, D:3)
+  a robe
+(44, 14, D:3)
+  a ring mail
+(46, 33, D:3)
+  a +0 dagger
+(52, 42, D:3)
+  a ring mail
+
+Level 4 of the Dungeon
+(6, 1, D:4)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
+(7, -25, D:4)
+  a +0 animal skin
+(9, -36, D:4)
+  a +0 animal skin
+  a cursed +0 animal skin
+(16, -30, D:4)
+  a +0 leather armour
+  a +0 robe
+(19, -27, D:4)
+  a +0 trident
+(20, -10, D:4)
+  a +0 chain mail
+  a +0 dagger
+(24, -28, D:4)
+  13 stones
+(24, -22, D:4)
+  9 stones (still there?)
+  a cursed -3 dagger (still there?)
+(25, -28, D:4)
+  10 stones
+(25, -22, D:4)
+  15 stones
+(49, -54, D:4)
+  a ring mail
+(50, -26, D:4)
+  a +0 dagger
+  a +0 robe
+(50, -25, D:4)
+  a +0 dagger
+  a cursed +0 robe
+(54, -47, D:4)
+  a rapier
+
+Level 5 of the Dungeon
+(2, -16, D:5)
+  a club
+(8, 4, D:5)
+  a hand axe
+(17, 15, D:5)
+  a +0 halberd
+  a +0 spear
+(25, 9, D:5)
+  a +0 flail
+(28, 17, D:5)
+  a +0 whip
+(35, 11, D:5)
+  a dagger
+(35, 26, D:5)
+  a hand axe
+
+Level 6 of the Dungeon
+(3, -1, D:6)
+  16 arrows
+(13, -20, D:6)
+  a +0 halberd
+  a +0 plate armour
+(14, -44, D:6)
+  a +0 club
+  a +0 robe
+(14, -37, D:6)
+  a +0 whip
+(15, -41, D:6)
+  a +0 dagger
+(25, -11, D:6)
+  a +0 giant club
+
+Level 7 of the Dungeon
+(0, 1, D:7)
+  a dagger
+(8, 4, D:7)
+  a morningstar
+(20, -9, D:7)
+  a +0 giant spiked club
+(24, -8, D:7)
+  a +0 chain mail
+(25, -16, D:7)
+  a +0 leather armour
+  a +0 whip
+  a +0 mace
+  a +0 leather armour
+(25, -15, D:7)
+  a +0 dagger
+(25, -12, D:7)
+  a pair of boots
+(32, -14, D:7)
+  a chain mail
+(34, -7, D:7)
+  a spear
+(39, 5, D:7)
+  an iguana skeleton
+(40, 28, D:7)
+  a trident
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 dagger
+  a +0 robe
+(1, -7, D:9)
+  a +0 flail
+  a +0 war axe
+  a +0 dagger
+  a cursed +0 robe
+  a cursed -3 giant club
+(5, 5, D:9)
+  23 stones
+(6, -5, D:9)
+  a ration
+(6, 5, D:9)
+  a scroll of remove curse
+(7, 5, D:9)
+  a manual of Charms
+(8, 5, D:9)
+  a scroll of identify
+(8, 18, D:9)
+  a +0 whip
+  a kobold corpse (skeletalised by now)
+  a big kobold corpse (skeletalised by now)
+(9, -10, D:9)
+  a +0 mace
+  a +0 scale mail
+(9, 34, D:9)
+  a +0 whip
+(10, -10, D:9)
+  a +0 leather armour
+  a +0 flail
+  a +0 dagger
+  a +0 leather armour
+(10, 34, D:9)
+  a kobold corpse (skeletalised by now)
+(11, -11, D:9)
+  3 stones
+(11, 25, D:9)
+  a buckler
+(11, 35, D:9)
+  a +0 short sword
+(12, -11, D:9)
+  a stone
+(12, 23, D:9)
+  a sling bullet
+(13, -11, D:9)
+  a stone
+(13, 22, D:9)
+  a +0 dagger
+(14, 20, D:9)
+  26 bolts
+(14, 24, D:9)
+  a sling bullet
+(15, -10, D:9)
+  a stone
+(15, 25, D:9)
+  2 sling bullets
+(16, 33, D:9)
+  a kobold corpse (skeletalised by now)
+(17, -8, D:9)
+  a ration
+(19, 13, D:9)
+  a triangular cabochon amulet
+
+the Ecumenical Temple
+

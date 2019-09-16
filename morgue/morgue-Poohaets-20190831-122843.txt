@@ -1,0 +1,127 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6738684199781854156
+
+98 Poohaets the Ducker (level 5, 38/38 HPs) *WIZ*
+             Began as a Human Gladiator on Aug 31, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:14 (23 turns).
+
+Poohaets the Ducker (Human Gladiator)                 Turns: 23, Time: 00:03:15
+
+Health: 38/38      AC:  9    Str: 14    XL:     5   Next: 0%
+Magic:  5/5        EV: 10    Int:  9    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   e - +0 scale mail
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   h - +0 pair of gloves
+MR       .....                  g - +0 pair of boots
+Stlth    ..........             (no amulet)
+HPRegen  0.12/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour
+ c - a +0 helmet (worn)
+ e - a +0 scale mail (worn)
+ g - a +0 pair of boots (worn)
+ h - a +0 pair of gloves (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 2.0 Throwing
+ + Level 0.0 Armour
+ + Level 3.0 Dodging
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Wear which item? (? for menu, Esc to quit)
+You start putting on your armour.
+You continue putting on your +0 pair of boots. x4
+You finish putting on your +0 pair of boots.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? [
+What type of item? gloves
++0 pair of gloves
+What ego type? 
+Something appears at your feet!
+h - a +0 pair of gloves
+Wear which item? (? for menu, Esc to quit)
+You start putting on your armour.
+You continue putting on your +0 pair of gloves. x4
+You finish putting on your +0 pair of gloves.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #.#
+ ...
+ #.#
+ ...
+##.##
+ ...
+##.##
++.@.+
+##.##
+ ...
+##.##
+ ...
+ #.#
+ ...
+ #.#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Poohaets the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+     0 | D:1      | Reached XP level 3. HP: 27/27 MP: 3/3
+     0 | D:1      | Reached XP level 4. HP: 33/33 MP: 4/4
+     0 | D:1      | Reached XP level 5. HP: 38/38 MP: 5/5
+    23 | D:1      | Quit the game
+

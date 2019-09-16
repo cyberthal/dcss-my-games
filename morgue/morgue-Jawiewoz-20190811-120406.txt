@@ -1,0 +1,314 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5085421503027007312
+
+1444 Jawiewoz the Ruffian (level 8, -2/78 HPs)
+             Began as a Troll Chaos Knight on Aug 11, 2019.
+             Was a Plaything of Xom.
+             Succumbed to an orc wizard's poison
+             ... on level 5 of the Dungeon.
+             The game lasted 01:06:04 (3914 turns).
+
+Jawiewoz the Ruffian (Troll Chaos Knight)           Turns: 3914, Time: 01:06:04
+
+Health: -2/78      AC:  9    Str: 21    XL:     8   Next: 46%
+Magic:  7/7        EV:  8    Int:  9    God:    Xom [.*....]
+Gold:   177        SH:  9    Dex: 10    Spells: 7/7 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   F - +0 shield
+rNeg     . . .     Faith    .   i - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   A - +0 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.63/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: lethally poisoned (-2 -> -49), very slightly contaminated, invisible
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Xom.
+You were a plaything of Xom.
+You were full.
+
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+
+You collected 177 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of venom
+ b - a +0 mace of chaos
+ c - a +0 flail of protection
+ d - a +0 trident
+ e - a +0 blowgun
+ z - a +0 morningstar
+ G - a +0 whip of flaming
+Missiles
+ g - 131 stones (quivered)
+ j - 2 throwing nets
+ m - 99 arrows
+ o - 48 bolts
+ x - 31 poisoned needles
+ E - 14 sling bullets
+Armour
+ i - a +2 robe (worn)
+ A - a +0 cloak (worn)
+ F - a +0 shield (worn)
+Jewellery
+ w - an uncursed ring of teleportation
+Scrolls
+ f - a scroll of immolation
+ h - a scroll of remove curse
+ l - 2 scrolls of fog
+ n - a scroll of random uselessness
+ p - a scroll of teleportation {unknown}
+ s - a scroll of amnesia {unknown}
+ t - a scroll of enchant armour {unknown}
+ D - a scroll of enchant weapon {unknown}
+Potions
+ k - a potion of cancellation
+ q - a potion of invisibility
+ r - a potion of degeneration
+ B - a potion of brilliance
+ C - 2 potions of agility
+Miscellaneous
+ u - a lightning rod (4/4)
+Comestibles
+ y - 11 rations
+
+
+   Skills:
+ + Level 4.1 Fighting
+ - Level 2.6 Maces & Flails
+ - Level 2.4 Throwing
+ - Level 1.9 Dodging
+ - Level 5.1 Shields
+ - Level 6.2 Unarmed Combat
+ - Level 1.3 Evocations
+
+
+You had 7 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+You closely miss something.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+Something hits you!
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+Okay, then.
+Okay, then.
+You claw something! You feel a bit more experienced.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+Okay, then.
+* * * LOW HITPOINT WARNING * * *
+You feel very sick.
+Things that are here:
+a +2 dagger of venom; a +0 robe; an orc corpse
+Autopickup is now on.
+You butcher the orc corpse.
+You die...
+Xom bursts into laughter!
+
+                #....
+                #...#
+                #...##
+                #....
+                #....
+           #....#...###+##
+           #....#...##...#
+           #....#...##...#
+ ####      #....#.)....>.#
+ ......    #....#........#
+ ......    #....######...#
+ ......    #.....#..##...##
+ ......    #.....#..#.@...#
+ ......#####.....#..+.....#
+ ................#..##...##
+#######.........##..##...#####
+#....<'%....p...#............#
++.....#.........#............#
+#.....###+##....##..##...##..#
+#......    #....p#o.##...##..#
+#......    #.....'...........+
+#.....## #+#..[..#...........#
+#.....#..........#####...##..#
+#.....+..............######..#
+       .....#####....#    ...#
+       .....    #....#    ...#
+       ....     #....######..#
+       ###      #.........#..#
+                #####.....#..#
+                    #.....#
+                    #.....#
+                    #...>.#
+                    #.....#
+                    #.....#
+                    #.....#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Pikel (D:5)
+  Grinder (D:4)
+  Menkaure (D:4)
+  Duvessa (D:4)
+  A phantom (D:4)
+  Blork the orc (D:4)
+  A bullfrog (D:4)
+  Dowan (D:4)
+  A crimson imp (D:5)
+  A hound (D:4)
+  2 orc priests (D:4)
+  2 orc wizards
+  A centaur skeleton (D:4)
+  8 adders
+  5 worms
+  7 leopard geckos
+  10 orcs
+  A ball python (D:4)
+  6 bats
+  4 giant cockroaches
+  8 goblins
+  10 hobgoblins
+  4 jackals (D:2)
+  2 quokkas (D:4)
+  5 frilled lizards
+  5 kobolds
+  5 rats
+95 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jawiewoz the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+    65 | D:1      | Reached skill level 1 in Unarmed Combat
+   127 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+   133 | D:1      | Reached skill level 1 in Shields
+   273 | D:1      | XOM: silly message
+   378 | D:1      | Reached skill level 2 in Unarmed Combat
+   435 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+   481 | D:1      | XOM: harmless Air miscast
+   841 | D:2      | XOM: stealth player
+   961 | D:2      | XOM: harmless Hex miscast
+  1025 | D:2      | XOM: harmless Conj miscast
+  1072 | D:2      | Reached skill level 1 in Throwing
+  1102 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+  1175 | D:2      | Reached skill level 3 in Unarmed Combat
+  1682 | D:3      | Found a deep blue altar of Sif Muna.
+  1778 | D:3      | XOM: medium Conj miscast
+  1980 | D:3      | Reached XP level 5. HP: 50/50 MP: 4/4
+  2082 | D:3      | Found a basalt altar of Yredelemnul.
+  2155 | D:3      | XOM: scenery: 1 doors close
+  2344 | D:4      | Noticed Grinder
+  2455 | D:4      | Noticed Blork the orc
+  2455 | D:4      | XOM: fog
+  2470 | D:4      | Killed Blork the orc
+  2470 | D:4      | Reached skill level 4 in Unarmed Combat
+  2505 | D:4      | Found a staircase to the Ecumenical Temple.
+  2513 | D:4      | XOM: summons friendly white imp
+  2513 | D:4      | Paralysed by Grinder for 5 turns
+  2522 | D:4      | Killed Grinder
+  2522 | D:4      | Reached XP level 6. HP: 62/62 MP: 5/5
+  2577 | D:4      | Noticed Menkaure
+  2586 | D:4      | Killed Menkaure
+  2586 | D:4      | Reached XP level 7. HP: 55/70 MP: 6/6
+  2785 | D:4      | XOM: 1-stop teleportation journey
+  2799 | D:4      | XOM: mild Hex miscast
+  2844 | D:4      | Reached skill level 5 in Unarmed Combat
+  2869 | D:4      | XOM: 5-stop teleportation journey
+  3143 | D:4      | Noticed Duvessa
+  3149 | D:4      | Noticed Dowan
+  3155 | D:4      | Killed Duvessa
+  3223 | D:4      | Killed Dowan
+  3223 | D:4      | Reached skill level 6 in Unarmed Combat
+  3231 | Temple   | Entered the Ecumenical Temple
+  3270 | Temple   | XOM: god gift: lightning rod (4/4)
+  3560 | Temple   | XOM: scenery: create altars
+  3719 | D:4      | Reached skill level 1 in Evocations
+  3719 | D:4      | Reached XP level 8. HP: 74/78 MP: 7/7
+  3736 | D:5      | Entered Level 5 of the Dungeon
+  3834 | D:5      | Noticed Pikel
+  3841 | D:5      | XOM: confuse monster(s)
+  3848 | D:5      | Killed Pikel
+  3848 | D:5      | Reached skill level 5 in Shields
+  3881 | D:5      | XOM: swap monsters
+  3913 | D:5      | HP: 3/78 [poisoned by an orc wizard]
+  3914 | D:5      | Succumbed to an orc wizard's poison
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Unarmed Combat |  1  2     3  4     6    |  6.2
+Shields        |     1     2     3     5 |  5.1
+Throwing       |        1           2    |  2.4
+Fighting       |              4          |  4.1
+Evocations     |                    1    |  1.3
+Maces & Flails |                         |  2.6
+Dodging        |                         |  1.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    85 |    82 |    64 ||   231
+       Mace              |    21 |    36 |     5 ||    62
+       Dagger            |       |     6 |     3 ||     9
+       Flail             |       |       |     2 ||     2
+ Fire: Blowgun           |       |     7 |    25 ||    32
+Throw: Stone             |     8 |    37 |    27 ||    72
+  Use: Potion            |     1 |     4 |     4 ||     9
+       Scroll            |       |     6 |     3 ||     9
+ Stab: Sleeping          |     2 |       |       ||     2
+       Paralysed         |       |     2 |       ||     2
+  Eat: Chunk             |    16 |    13 |    10 ||    39
+Armor: Robe              |    38 |    46 |    21 ||   105
+       Skin              |       |     6 |       ||     6
+Dodge: Dodged            |    40 |    27 |    19 ||    86
+Block: Shield            |    23 |    39 |    16 ||    78
+

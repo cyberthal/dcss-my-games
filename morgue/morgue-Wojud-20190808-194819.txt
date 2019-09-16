@@ -1,0 +1,120 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1909871542599818117
+
+0 Wojud the Skirmisher (level 1, 17/18 HPs) *WIZ*
+             Began as a Human Abyssal Knight on Aug 8, 2019.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:44 (6 turns).
+
+Wojud the Skirmisher (Human Abyssal Knight)            Turns: 6, Time: 00:00:45
+
+Health: 17/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  1/2        EV: 11    Int: 12    God:    Lugonu 24 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quite poisoned (17 -> 7)
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Long Blades
+ + Level 2.0 Armour
+ + Level 1.0 Dodging
+ + Level 2.0 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Enter monster name (or MONS spec): 
+An adder comes into view.
+The adder hisses angrily.
+You closely miss the adder. The adder bites you.
+You are poisoned.
+The adder poisons you!
+You barely miss the adder. You feel sick. The adder bites you. x2
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You miss the adder. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You hit the adder.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+Die? 
+Thought so.
+You are more poisoned.
+The adder poisons you! The adder bites you.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ##
+##.
+#..   ##
+#.## ..
+#..#.#
+#<@S#
+#####
+
+
+You could see an adder.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Wojud the Human Abyssal Knight began the quest for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | D:1      | Escaped the Abyss
+     1 | D:1      | Entered wizard mode.
+     5 | D:1      | Slain by an adder (3 damage)
+     6 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||     4
+Invok: Depart the Abyss  ||     1
+

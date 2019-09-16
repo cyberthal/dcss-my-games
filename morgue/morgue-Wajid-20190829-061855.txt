@@ -1,0 +1,156 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13479574577637491644
+
+2 Wajid the Conjurer (level 1, 7/7 HPs) *WIZ*
+             Began as a Felid Conjurer on Aug 29, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:35 (356 turns).
+
+Wajid the Conjurer (Felid Conjurer)                  Turns: 356, Time: 00:04:36
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 25%
+Magic:  4/4        EV: 18    Int: 16    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Jewellery
+ a - an uncursed amulet of guardian spirit
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 2.9 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           13 (25)      4%          1    18
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           13 (50)      7%          2    68
+ Dazzling Spray           Conj/Hex       7 (50)       30%         3    118
+ Iskenderun's Mystic Bla  Conj           13 (100)     43%         4    218
+ Force Lance              Conj/Tloc      7 (100)      69%         4    218
+ Fulminant Prism          Conj/Hex       7 (200)      69%         4    218
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+HP restored.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A seven-headed hydra comes into view.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - seven-headed hydra
+Aim: a seven-headed hydra (resting)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      2.0 |      8 |  78% |   1.5 |   100  |  1.00 |      1.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     34.2 |    100 |  99% |  34.1 |   100  |  1.00 |     34.1
+The seven-headed hydra roars!
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - seven-headed hydra
+Aim: a seven-headed hydra
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      2.0 |     10 |  79% |   1.6 |   100  |  1.00 |      1.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     33.9 |     93 |  99% |  33.8 |   100  |  1.00 |     33.8
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+########
+#..(...#
+#(<D.@.#
+#(...".#
+######'#
+      (#
+      ..
+      ...
+      ...#
+      ####
+
+
+You could see a seven-headed hydra.
+
+Vanquished Creatures
+  A goblin (D:1)
+  2 kobolds (D:1)
+3 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wajid the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+   354 | D:1      | Noticed a seven-headed hydra
+   356 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           || 16011
+       Bite              ||  1675
+ Cast: Magic Dart        ||     7
+Armor: Skin              ||  1087
+Dodge: Dodged            || 31943
+

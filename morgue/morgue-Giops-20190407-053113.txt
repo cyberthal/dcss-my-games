@@ -1,0 +1,715 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1576111066552899978
+
+56089 Giops the Protected (level 14, 119/119 HPs)
+             Began as a Hill Orc Fighter on Apr 4, 2019.
+             Was the Champion of Beogh.
+             Quit the game on level 2 of the Orcish Mines on Apr 7, 2019.
+             The game lasted 15:29:11 (40513 turns).
+
+Giops the Protected (Hill Orc Fighter)             Turns: 40513, Time: 15:29:11
+
+Health: 119/119    AC: 23    Str: 22    XL:     14   Next: 80%
+Magic:  22/22      EV: 11    Int: 22    God:    Beogh [******]
+Gold:   2237       SH:  5    Dex: 11    Spells: 1/21 levels left
+
+rFire    . . .     SeeInvis +   X - staff of wizardry
+rCold    + . .     Gourm    .   B - +0 buckler "Tussinn" {+Blink Int+7 Slay+2}
+rNeg     . . .     Faith    .   p - +5 ring mail {rC+}
+rPois    .         Spirit   .   P - +2 helmet
+rElec    .         Reflect  .   w - scarf {cloud immunity}
+rCorr    .         Harm     .   V - +2 pair of gloves
+MR       ++...                  T - +2 pair of boots
+Stlth    +.........             v - amulet of magic regeneration
+HPRegen  0.29/turn              D - +6 ring of intelligence
+MPRegen  0.43/turn              W - ring of protection from magic
+
+@: studying Armour
+A: walk on water, see invisible, wild magic 1
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Resurrection,
+Renounce Religion, Evoke Blink
+
+
+You were on level 2 of the Orcish Mines.
+You worshipped Beogh.
+Beogh was exalted by your worship.
+You were not hungry.
+
+You visited 4 branches of the dungeon, and saw 21 of its levels.
+You also visited: Ossuary and Bailey.
+
+You collected 2401 gold pieces.
+You spent 164 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +5 dagger of venom
+ b - a +7 scimitar of flaming
+ c - a +2 flail of crushing
+ d - a +4 war axe
+ e - a +2 spear of venom
+ f - a +0 blowgun
+ g - a +0 dire flail of crushing
+Missiles
+ j - 6 curare-tipped needles
+ l - 2 poisoned tomahawks
+ n - 11 poisoned needles
+ u - 16 javelins (quivered)
+ A - 253 stones
+ H - 20 tomahawks
+ M - 3 throwing nets
+Armour
+ i - a +2 robe of positive energy
+ p - a +5 ring mail of cold resistance (worn)
+ r - +0 fire dragon scales
+ w - a scarf of cloud immunity (worn)
+ B - the +0 buckler "Tussinn" (worn) {+Blink Int+7 Slay+2}
+   (You acquired it on level 6 of the Dungeon)   
+   
+   It affects your intelligence (+7).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+2).
+   It lets you blink.
+ I - a +0 troll leather armour
+ P - a +2 helmet (worn)
+ T - a +2 pair of boots (worn)
+ V - a +2 pair of gloves (worn)
+Magical Staves
+ h - an uncursed staff of cold
+ X - an uncursed staff of wizardry (weapon)
+Jewellery
+ k - an uncursed ring of fire
+ m - an uncursed ring of flight
+ v - an amulet of magic regeneration (around neck)
+ D - a +6 ring of intelligence (left hand)
+ G - a +4 amulet of reflection
+ R - a +5 ring of strength
+ U - an uncursed ring of resist corrosion
+ W - a ring of protection from magic (right hand)
+Scrolls
+ o - a scroll of immolation
+ q - a scroll of magic mapping
+ Q - 2 scrolls of remove curse
+Books
+ E - a manual of Armour
+Miscellaneous
+ Z - a lightning rod (4/4)
+Comestibles
+ z - 25 rations
+
+
+   Skills:
+ + Level 9.6 Fighting
+ - Level 6.5(8.4) Short Blades
+ - Level 9.0(10.0) Long Blades
+ - Level 6.1(7.3) Axes
+ - Level 5.0(6.0) Polearms
+   Level 2.5(3.3) Slings
+ - Level 3.0(3.5) Throwing
+ - Level 12.0 Armour
+ - Level 2.0 Dodging
+ - Level 2.1 Stealth
+ - Level 6.0 Shields
+ - Level 4.0 Spellcasting
+ - Level 7.0 Conjurations
+ - Level 1.2 Hexes
+ - Level 4.2 Necromancy
+ - Level 9.1 Fire Magic
+ - Level 7.0 Earth Magic
+ - Level 11.0 Invocations
+ - Level 7.0 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      #####        1%          1    None
+b - Pain                  Necr           ####         1%          1    None
+c - Sandblast             Erth           #####.       1%          1    None
+d - Animate Skeleton      Necr           N/A          1%          1    None
+e - Throw Flame           Conj/Fire      ######       1%          2    #......
+f - Passwall              Tmut/Erth      ####....     3%          2    #......
+g - Inner Flame           Hex/Fire       #####...     3%          3    ###....
+h - Stone Arrow           Conj/Erth      #####.       1%          3    ###....
+i - Conjure Flame         Conj/Fire      ######..     1%          3    ###....
+j - Vampiric Draining     Necr           ####......   5%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Beastly Appendage        Tmut           #.....       9%          1    None
+ Sticky Flame             Conj/Fire      ######..     4%          4    ####...
+ Fireball                 Conj/Fire      ######....   9%          5    ######.
+ Ensorcelled Hibernation  Hex/Ice        #.....       11%         2    #......
+ Regeneration             Chrm/Necr      ###.......   12%         3    ###....
+ Sticks to Snakes         Tmut           #.......     13%         2    #......
+ Lee's Rapid Deconstruct  Erth           #####.....   13%         5    ######.
+ Animate Dead             Necr           N/A          14%         4    ####...
+ Leda's Liquefaction      Hex/Erth       ####......   16%         4    ####...
+ Petrify                  Tmut/Erth      ####....     21%         4    ####...
+ Throw Icicle             Conj/Ice       ####....     21%         4    ####...
+ Borgnjor's Vile Clutch   Necr/Erth      #####.....   22%         5    ######.
+ Spider Form              Tmut/Pois      #.........   24%         3    ###....
+ Ice Form                 Ice/Tmut       #.......     56%         4    ####...
+ Silence                  Hex/Air        #.........   82%         5    ######.
+ Blade Hands              Tmut           #.........   87%         5    ######.
+ Bolt of Cold             Conj/Ice       ####......   92%         6    #######
+ Darkness                 Hex            ##........   99%         6    #######
+ Shadow Creatures         Summ           N/A          100%        6    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:4            Lair (6/6) D:8
+  Swamp (0/4) Lair:4       Spider (0/4) Lair:3        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+Orc:1 !   Orc:2 !%(?
+
+Annotations:
+Lair:4 2 transporters. to loot, Tunlugh's ghost, adept GrEE
+Orc:2 3 runed translucent doors, sand's ghost, journeyman HOFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can walk on water.
+You have supernaturally acute eyesight. (SInv)
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+Here: a warg (fire blocked by a runed translucent door)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: sand's ghost, wielding a weapon of protection (hasn't noticed you, fire
+blocked by a runed translucent door)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: sand's ghost, wielding a weapon of protection (hasn't noticed you, fire
+blocked by a runed translucent door)
+The floor.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+You aren't carrying any potions.
+Search for what [Enter for "identif", or ? for help]? rpois
+Can't find anything matching that.
+Okay, then.
+Save game and exit? 
+Level annotation: 3 runed translucent doors, sand's ghost, journeyman HOFi
+Welcome back, Giops the Hill Orc Fighter.
+Beogh says: Drown the unbelievers in a sea of blood!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ##.......##.###  #....##[#.##
+ #...........#.## ##...(....###             #####
+##...#..........###.....(.....##           ##...##
+#...##.......#..#........)#....#           #.....#####
+##.##.......#.................##           #......#..##
+##..#...................#..)...#           #..........#
+#......................#..).#.##           #..........#
+##......................#.##)##            #......\...#
+##.#.....................##.))########     ##.........#
+#.........................##.)..##...##     ##.......##
+##.#.#....................###....)....#     ##........#
+ ####.....................#......#....###   #.........#
+    ##.###.........#..........#...#..##.#####.......\.#
+     ####.........^...........#..........#.#..........#
+     ###.............................#...............##
+    ##................###############.#..#.#.#.......#
+    #................##8...=[_[)...8#)....#.#.......##
+   ##................##.....W...o..)#.........\......#
+   #.................##.#8#..8o.#8#.#.....#.#......\.#
+   ##.................#.###ooo..###.#..#...##........#
+    ##.#.^........##.##...)#####$..[#.....####.....###
+     ####........######....[.ooo..).#....#..###......##
+        ##.......#   #######+++######....)[..###......#
+        ##......######8......@......8......[<.)##....##
+        #.........#.####....................(...#....##
+        ##...........#.....#.#........................#
+      ###.......#...........#............[...#........#
+     ##..#.#.......#.#..##.###........)[......##.....##
+     #........>.....#########.........<))....##....###
+     ##............##    ##.#.........)........#....#
+      ###.#....#.###     #........#.............##.##
+        ###...####       ##.#.#....#...........##...#
+          ##.##           ######..###....#..######.##
+           ###                 #### #########    ###
+
+
+You could see 3 orc knights, 2 orc warriors, an orc priest and sand's ghost
+(wandering).
+
+Vanquished Creatures
+  An orc warlord (D:11)
+  A stone giant (Orc:1)
+  A fire dragon (Lair:6)
+  Erolcha (D:9)
+  4 hydras
+  Erica (D:9)
+  6 two-headed ogres
+  2 ogre magi
+  Sonja (D:11)
+  2 deep trolls (Orc:2)
+  Pikel (D:6)
+  An orc sorcerer (Orc:2)
+  A wolf spider (Lair:6)
+  2 cyclopes
+  5 elephants (Lair:3)
+  5 spiny frogs
+  3 rime drakes
+  6 komodo dragons
+  A jumping spider (Lair:3)
+  9 trolls
+  8 polar bears (Lair:6)
+  A dream sheep (Lair:6)
+  10 blink frogs
+  8 hippogriffs
+  2 raiju (Lair:6)
+  A water elemental (D:11)
+  2 wyverns
+  13 yaks
+  A basilisk (Lair:5)
+  5 wargs (Lair:6)
+  2 steam dragons (Lair:6)
+  Menkaure (D:4)
+  2 acid dragons
+  6 water moccasins
+  2 porcupines
+  9 hell hounds
+  4 slaves
+  8 black bears
+  5 sky beasts
+  12 orc warriors
+  An ice beast (D:5)
+  A phantom (D:4)
+  10 wolves
+  8 crocodiles
+  16 ogres
+  8 centaurs
+  A big kobold (D:8)
+  6 bullfrogs
+  3 scorpions
+  9 killer bees
+  10 electric eels
+  A howler monkey (D:4)
+  A crimson imp (D:6)
+  A lava snake (D:9)
+  3 centaur zombies
+  2 bullfrog zombies
+  5 hounds
+  A human zombie (Ossuary)
+  4 jellies
+  3 orc priests
+  Ijyb (D:4)
+  3 bullfrog skeletons
+  A gnoll shaman (D:6)
+  A centaur skeleton (D:4)
+  5 iguanas
+  5 orc wizards
+  10 worker ants
+  2 mummies (Ossuary)
+  A howler monkey zombie (D:5)
+  A worker ant zombie (D:5)
+  10 gnolls
+  13 adders
+  2 shadow imps
+  7 oozes
+  An adder skeleton (D:4)
+  9 worms
+  A dart slug (D:1)
+  9 leopard geckos
+  51 orcs
+  A ball python (D:3)
+  4 giant cockroaches
+  10 goblins
+  8 hobgoblins
+  11 jackals
+  4 kobolds
+  9 quokkas
+  A ball python zombie (D:5)
+  8 bats
+  5 frilled lizards
+  3 goblin zombies (Ossuary)
+  7 hobgoblin zombies (Ossuary)
+  2 jackal skeletons
+  A jackal zombie (Ossuary)
+  10 kobold zombies (Ossuary)
+  A leopard gecko zombie (D:7)
+  11 orc zombies (Ossuary)
+  8 rats
+  2 rat zombies (Ossuary)
+  5 plants
+494 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 orc knights
+  Fannar (D:11)
+  A hydra (Lair:6)
+  5 two-headed ogres
+  An ogre mage (Orc:1)
+  Urug (D:10)
+  Nergalle (D:11)
+  An unseen horror (D:9)
+  A swamp dragon (Lair:6)
+  An elephant (Lair:3)
+  Psyche (D:11)
+  A centaur skeleton (D:10)
+  4 spiny frogs
+  3 rime drakes (Lair:5)
+  4 komodo dragons
+  4 trolls
+  A jumping spider (Lair:3)
+  Prince Ribbit (D:8)
+  A polar bear (Lair:6)
+  5 hippogriffs
+  2 tyrant leeches (Lair:4)
+  3 blink frogs (Lair:3)
+  30 yaks
+  3 basilisks
+  5 water moccasins
+  4 wargs
+  2 swamp worms (Lair:4)
+  5 hell hounds (Lair:6)
+  3 porcupines
+  A sky beast (D:8)
+  2 swamp drakes (Lair:6)
+  9 orc warriors
+  2 phantoms
+  A hornet zombie (D:8)
+  11 ogres
+  7 black bears
+  11 wolves
+  A centaur (D:8)
+  8 crocodiles
+  9 bullfrogs
+  2 scorpions (D:8)
+  2 jellies
+  7 killer bees
+  A wight (D:8)
+  3 crimson imps
+  2 quasits
+  8 orc priests
+  7 hounds
+  7 orc wizards
+  A bullfrog skeleton (D:10)
+  2 worker ants
+  A killer bee zombie (D:7)
+  A hound skeleton (D:9)
+  3 adders
+  A shadow imp (D:7)
+  3 oozes (D:10)
+  11 orcs
+  A giant cockroach (D:7)
+  4 jackals
+  A quokka (D:8)
+  A frilled lizard (D:11)
+  9 fungi
+  3 plants
+240 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 orc knights
+  4 orc warriors
+  6 centaurs
+  3 orc priests
+  A hound (D:8)
+  8 orc wizards
+  An ooze (D:3)
+  32 orcs
+  A goblin (D:3)
+  2 kobolds (D:3)
+  A rat (D:3)
+  2 bushes (Lair:6)
+  12 fungi
+  19 plants
+94 creatures vanquished.
+
+Grand Total: 828 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Giops the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   130 | D:1      | Reached XP level 2. HP: 23/26 MP: 2/2
+   477 | D:1      | Reached XP level 3. HP: 33/33 MP: 3/3
+  1471 | D:2      | Found a bloodstained altar of Trog.
+  1484 | D:2      | Reached skill level 1 in Throwing
+  1755 | D:2      | Reached XP level 4. HP: 40/40 MP: 4/4
+  2112 | D:2      | Found an iron altar of Okawaru.
+  2186 | D:2      | Reached skill level 4 in Armour
+  2412 | D:2      | Reached XP level 5. HP: 46/46 MP: 5/5
+  3305 | D:3      | Became a worshipper of Beogh the Brigand
+  3329 | D:3      | Reached skill level 5 in Fighting
+  3620 | D:3      | Reached XP level 6. HP: 41/56 MP: 6/6
+  3763 | D:3      | Reached skill level 5 in Shields
+  4117 | D:3      | Reached * piety under Beogh
+  4156 | D:3      | Reached skill level 1 in Short Blades
+  4156 | D:3      | Reached skill level 1 in Evocations
+  4202 | D:3      | Reached skill level 1 in Axes
+  5203 | D:4      | Reached skill level 1 in Slings
+  5223 | D:4      | Reached XP level 7. HP: 55/61 MP: 7/7
+  5481 | D:4      | Found a bloodstained altar of Trog.
+  5676 | D:4      | Reached skill level 1 in Dodging
+  5714 | D:4      | Found a staircase to the Ecumenical Temple.
+  5722 | D:4      | Noticed Menkaure
+  6534 | D:5      | Entered Level 5 of the Dungeon
+  6917 | D:5      | Noticed Ijyb
+  6935 | D:4      | Killed Ijyb
+  7023 | D:5      | Reached skill level 5 in Armour
+  7023 | D:5      | Reached XP level 8. HP: 70/70 MP: 8/8
+  7352 | D:5      | Found a blossoming altar of Fedhas.
+  7383 | D:5      | Reached ** piety under Beogh
+  7564 | D:5      | Found a shadowy altar of Dithmenos.
+  7790 | D:6      | Reached skill level 5 in Long Blades
+  7804 | D:6      | Reached skill level 1 in Invocations
+  7986 | D:6      | Found a shadowy altar of Dithmenos.
+  8066 | D:6      | Reached skill level 5 in Invocations
+  8378 | D:6      | Noticed Pikel
+  8740 | D:6      | Killed Pikel
+  8740 | D:6      | Reached XP level 9. HP: 75/75 MP: 12/15
+  9157 | D:6      | Reached skill level 1 in Stealth
+  9712 | Temple   | Entered the Ecumenical Temple
+ 10096 | D:4      | Killed Menkaure
+ 10261 | D:7      | Found a flagged portal.
+ 10328 | Bailey   | Entered a bailey
+ 10566 | Bailey   | Reached skill level 1 in Polearms
+ 10724 | Bailey   | Reached *** piety under Beogh
+ 11083 | Bailey   | Reached XP level 10. HP: 66/86 MP: 16/16
+ 11215 | Bailey   | Reached skill level 5 in Polearms
+ 12060 | D:7      | Reached skill level 6 in Armour
+ 12073 | D:7      | Reached skill level 7 in Armour
+ 12583 | D:7      | Reached skill level 8 in Armour
+ 12595 | D:7      | Found a basalt altar of Yredelemnul.
+ 12724 | D:7      | Found a stormy altar of Qazlal.
+ 12789 | D:7      | Found an ornate altar of the Wu Jian Council.
+ 12792 | D:7      | Found a snail-covered altar of Cheibriados.
+ 13019 | D:5      | Learned a level 1 spell: Flame Tongue
+ 13022 | D:5      | Learned a level 2 spell: Throw Flame
+ 13139 | D:7      | Found a white marble altar of Elyvilon.
+ 13159 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+ 13649 | D:8      | Reached skill level 1 in Conjurations
+ 13649 | D:8      | Reached skill level 1 in Fire Magic
+ 13656 | D:8      | Found a sand-covered staircase.
+ 13663 | Ossuary  | Entered an ossuary
+ 13808 | Ossuary  | Reached **** piety under Beogh
+ 14265 | D:6      | Identified a scroll of acquirement {acquirement?}
+ 14276 | D:6      | Got a pitted buckler
+ 14419 | D:8      | Reached skill level 9 in Armour
+ 14550 | D:8      | Reached skill level 10 in Armour
+ 14558 | D:8      | Reached ***** piety under Beogh
+ 14915 | D:8      | Found a staircase to the Lair.
+ 14954 | D:8      | Learned a level 1 spell: Animate Skeleton
+ 15059 | D:8      | Reached skill level 1 in Necromancy
+ 15385 | D:8      | Gained Orgrim as an ally
+ 15390 | D:8      | Reached XP level 11. HP: 92/92 MP: 17/17
+ 15709 | D:8      | Reached skill level 5 in Short Blades
+ 15749 | D:8      | Noticed Prince Ribbit
+ 15774 | D:8      | Found a glowing golden altar of the Shining One.
+ 16308 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 16413 | Lair:1   | Noticed an eight-headed hydra
+ 16430 | Lair:1   | Killed an eight-headed hydra
+ 17759 | Lair:1   | Reached skill level 11 in Armour
+ 17952 | D:6      | Identified the +0 buckler "Tussinn" {+Blink Int+7 Slay+2}
+                  | (You acquired it on level 6 of the Dungeon)
+ 18002 | D:6      | Learned a level 3 spell: Conjure Flame
+ 18006 | D:6      | Learned a level 3 spell: Inner Flame
+ 18188 | D:8      | Killed Prince Ribbit
+ 18285 | D:9      | Reached skill level 1 in Spellcasting
+ 18381 | D:9      | Found a hazy altar of Hepliaklqana.
+ 18382 | D:9      | Found a shimmering altar of Xom.
+ 18536 | D:9      | Noticed Erica
+ 18541 | D:9      | Killed Erica
+ 18735 | D:9      | Noticed Erolcha
+ 18744 | D:9      | Killed Erolcha
+ 18900 | D:9      | Learned a level 2 spell: Passwall
+ 18944 | D:9      | Killed an unseen horror
+ 18944 | D:9      | Reached skill level 1 in Earth Magic
+ 18954 | D:9      | Identified the Collected Works on Frigorific Earth
+ 19174 | D:9      | You are sucked into a shaft!
+ 19174 | D:10     | Entered Level 10 of the Dungeon
+ 20293 | D:8      | Learned a level 1 spell: Sandblast
+ 21254 | Lair:2   | Reached skill level 5 in Fire Magic
+ 21266 | Lair:2   | Reached XP level 12. HP: 100/100 MP: 11/18
+ 21785 | Lair:2   | Learned a level 1 spell: Pain
+ 22468 | D:8      | Gained mutation: You have supernaturally acute eyesight.
+                  | (SInv) [potion of mutation]
+ 22468 | D:8      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+ 22623 | Lair:3   | Reached skill level 5 in Evocations
+ 22942 | Lair:3   | Gained Bladwarg as an ally
+ 23007 | Lair:3   | Noticed a six-headed hydra
+ 23013 | Lair:3   | Killed a six-headed hydra
+ 23018 | Lair:3   | Learned a level 3 spell: Stone Arrow
+ 23061 | Lair:3   | Found a hole to the Spider Nest.
+ 23080 | Lair:3   | Reached skill level 1 in Hexes
+ 24303 | Lair:4   | Found a transporter.
+ 24306 | Lair:4   | Noticed Tunlugh's ghost (adept GrEE)
+ 24310 | Lair:4   | Noticed a dire elephant
+ 24313 | Lair:4   | Found a transporter.
+ 24984 | Lair:4   | Found a staircase to the Swamp.
+ 26447 | Lair:5   | Found a staircase to the Slime Pits.
+ 26448 | Lair:5   | Found a viscous altar of Jiyva.
+ 26580 | Lair:5   | Reached XP level 13. HP: 72/111 MP: 14/19
+ 27416 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 27726 | Lair:6   | Reached skill level 12 in Armour
+ 27993 | Lair:6   | Reached skill level 10 in Invocations
+ 28621 | Lair:6   | Reached skill level 5 in Conjurations
+ 28762 | Lair:6   | Your ally Bladwarg died
+ 28809 | Lair:6   | Noticed a fire dragon
+ 28825 | Lair:6   | Killed a fire dragon
+ 28825 | Lair:6   | Reached skill level 5 in Earth Magic
+ 29134 | Lair:6   | Reached ****** piety under Beogh
+ 29497 | Lair:6   | Gained Boghold as an ally
+ 31026 | D:10     | Found an opulent altar of Gozag.
+ 31134 | D:10     | Reached XP level 14. HP: 110/118 MP: 21/21
+ 31214 | D:10     | Learned a level 3 spell: Vampiric Draining
+ 31837 | D:10     | Noticed Urug
+ 31841 | D:10     | Killed Urug
+ 31846 | D:10     | Your ally Boghold died
+ 33151 | D:11     | Noticed Psyche
+ 33153 | D:11     | Noticed Nergalle
+ 33155 | D:11     | Killed Psyche
+ 33159 | D:11     | Killed Nergalle
+ 33234 | D:11     | Reached skill level 5 in Axes
+ 33560 | D:11     | Noticed Sonja
+ 33562 | D:11     | Killed Sonja
+ 34130 | D:11     | You fall through a shaft!
+ 34149 | D:11     | Noticed Fannar
+ 34157 | D:11     | Killed Fannar
+ 34215 | D:11     | Found a staircase to the Orcish Mines.
+ 35368 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 35370 | Orc:1    | Noticed an orc warlord
+ 35970 | Orc:1    | Found Neurhaott's Distillery.
+ 36154 | Orc:1    | Gained Bogwald as an ally
+ 36164 | Orc:1    | Your ally Bogwald died
+ 36354 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 37101 | Orc:1    | Bought a potion of degeneration for 12 gold pieces
+ 37101 | Orc:1    | Bought a potion of invisibility for 96 gold pieces
+ 37117 | Orc:2    | Noticed a stone giant
+ 37229 | Orc:1    | Killed a stone giant
+ 38254 | Orc:1    | Your ally Orgrim died
+ 38572 | Orc:2    | Found a runed translucent gate.
+ 39553 | Orc:2    | Found Luguann's Distillery.
+ 39554 | Orc:2    | Found Hasuna's Food Boutique.
+ 39555 | Orc:2    | Found Ykkirphya's Weapon Boutique.
+ 39703 | Orc:2    | Found a runed translucent gate.
+ 39704 | Orc:2    | Found a runed translucent gate.
+ 39706 | Orc:2    | Noticed sand's ghost (journeyman HOFi)
+ 39709 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 39712 | Orc:2    | Identified the +8 battleaxe "Iraenoum" {freeze, rElec rC+
+                  | Dex+3}
+ 39712 | Orc:2    | Identified the +0 plate armour "Zakeiss" {rC+ Regen+}
+ 39718 | Orc:2    | Found a staircase to the Elven Halls.
+ 39813 | Orc:2    | Found Jipreuma's Magic Scroll Shoppe.
+ 40486 | Orc:2    | Bought a scroll of magic mapping for 56 gold pieces
+ 40513 | Orc:2    | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Long Blades    |     3        4        5        6  7  9    |  9.0
+Fighting       |     4        5     6     7        9       |  9.6
+Throwing       |        1                    2     3       |  3.0
+Shields        |        4        5           6             |  6.0
+Armour         |           4        5       10 11    12    | 12.0
+Short Blades   |                 2  3  4        6          |  6.5
+Evocations     |                 1        2     4  5  7    |  7.0
+Axes           |                 1     2  3        4     6 |  6.1
+Slings         |                 1           2             |  2.5
+Dodging        |                    1                    2 |  2.0
+Invocations    |                       8        9    10 11 | 11.0
+Stealth        |                          1        2       |  2.1
+Polearms       |                          4  5             |  5.0
+Conjurations   |                             2  3  4  5  7 |  7.0
+Fire Magic     |                             2  5  7  8  9 |  9.1
+Necromancy     |                             2           4 |  4.2
+Spellcasting   |                                1  3  4    |  4.0
+Earth Magic    |                                2  4  5  7 |  7.0
+Hexes          |                                   1       |  1.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Long sword        |   206 |   158 |    69 |    80 |       ||   513
+       Dagger            |       |    53 |   167 |   147 |    34 ||   401
+       Spear             |       |       |    33 |    83 |   114 ||   230
+       War axe           |       |       |       |    10 |     3 ||    13
+       Scimitar          |       |       |       |    17 |   104 ||   121
+       Hunting sling     |       |       |       |     1 |       ||     1
+       Staff             |       |       |       |       |     1 ||     1
+ Fire: Hunting sling     |       |    20 |   208 |   290 |       ||   518
+       Blowgun           |       |       |       |       |    14 ||    14
+Throw: Stone             |    29 |    93 |     4 |       |       ||   126
+       Javelin           |     8 |    26 |     2 |    17 |     2 ||    55
+       Tomahawk          |       |     5 |     3 |    21 |       ||    29
+ Cast: Throw Flame       |       |       |       |    27 |    47 ||    74
+       Flame Tongue      |       |       |       |    95 |   196 ||   291
+       Animate Skeleton  |       |       |       |    44 |    93 ||   137
+       Conjure Flame     |       |       |       |    18 |    25 ||    43
+       Sandblast         |       |       |       |    26 |    15 ||    41
+       Pain              |       |       |       |    11 |     6 ||    17
+       Stone Arrow       |       |       |       |     8 |    82 ||    90
+       Inner Flame       |       |       |       |       |     9 ||     9
+       Vampiric Draining |       |       |       |       |    17 ||    17
+Invok: Convert to Beogh  |       |     1 |       |       |       ||     1
+       Smiting           |       |       |     1 |     5 |     1 ||     7
+       Recall Orcish Fol |       |       |       |     4 |    61 ||    65
+       Stop Recall       |       |       |       |     3 |    25 ||    28
+       Give Item to Name |       |       |       |     1 |     3 ||     4
+       Resurrection      |       |       |       |       |     1 ||     1
+ Abil: Evoke Blink       |       |       |       |     5 |    33 ||    38
+       Evoke Flight      |       |       |       |     1 |       ||     1
+Evoke: Wand              |       |       |       |     4 |    28 ||    32
+       Lightning rod     |       |       |       |       |     1 ||     1
+  Use: Scroll            |     3 |     1 |    13 |    18 |    11 ||    46
+       Potion            |       |     1 |     3 |     4 |     1 ||     9
+ Stab: Distracted        |       |       |       |       |     2 ||     2
+       Invisible         |       |       |       |       |     1 ||     1
+  Eat: Chunk             |     3 |    10 |    15 |    30 |    33 ||    91
+       Ration            |       |       |     1 |     8 |     7 ||    16
+Armor: Scale mail        |    26 |    62 |       |       |       ||    88
+       Chain mail        |       |    16 |    24 |       |       ||    40
+       Ring mail         |       |       |    35 |    61 |   137 ||   233
+       Plate armour      |       |       |       |    78 |       ||    78
+       Troll leather arm |       |       |       |       |     4 ||     4
+Dodge: Dodged            |    21 |    38 |    69 |   119 |   134 ||   381
+Block: Shield            |    28 |   110 |   166 |   183 |       ||   487
+       Reflection        |       |    11 |    16 |    35 |       ||    62
+       Buckler           |       |       |       |    40 |    68 ||   108
+Rpst.: Long sword        |     9 |     8 |     4 |     6 |       ||    27
+       Scimitar          |       |       |       |     7 |    15 ||    22
+

@@ -1,0 +1,148 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15827287032181325614
+
+0 Uthriush the Grasshopper (level 1, 15/15 HPs) *WIZ*
+             Began as a Draconian Warper on Sept 15, 2019.
+             Was the Champion of Hepliaklqana.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:23 (2 turns).
+
+Uthriush the Grasshopper (Draconian Warper)            Turns: 2, Time: 00:02:23
+
+Health: 15/15      AC:  4    Str: 13    XL:     1   Next: 0%
+Magic:  1/3        EV: 12    Int: 13    God:    Hepliaklqana 198 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: unfitting armour, reduced essence, cold-blooded, AC +4
+a: Recall Ancestor, Ancestor Identity, Transference, Idealise, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Hepliaklqana.
+Hepliaklqana was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Missiles
+ d - 5 tomahawks of dispersal (quivered)
+Scrolls
+ c - a scroll of blinking
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 2.0 Polearms
+ + Level 0.8 Throwing
+ + Level 2.1 Dodging
+ + Level 2.0 Spellcasting
+   Level 3.0 Translocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          11%         2    74
+ Shroud of Golubria       Chrm/Tloc      5 (200)      21%         2    74
+ Gell's Gravitas          Tloc           9 (200)      22%         3    124
+ Lesser Beckoning         Tloc           9 (200)      22%         3    124
+ Teleport Other           Tloc           9 (100)      22%         3    124
+ Passage of Golubria      Tloc           N/A          58%         4    224
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your plain brown scales are hard. (AC +4)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+
+
+Message History
+
+You can now drain nearby creatures when transferring your ancestor.
+Are you sure you want to remember your ancestor as a knight? 
+[Y]es or [N]o only, please.
+Are you sure you want to remember your ancestor as a knight? 
+It is so.
+Okay, then.
+Select a target.
+Press: ? - help, Dir - move target cursor
+The floor.
+Okay, then.
+Okay, then.
+Select a target.
+Press: ? - help, Dir - move target cursor, f - you
+A staircase leading out of the dungeon.
+You swap with Esmond!
+Press: ? - help, v - describe, . - travel
+Here: Esmond the knight, wielding a +0 flail and wearing a +0 shield (thin
+mist, friendly)
+A staircase leading out of the dungeon.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###     #
+#..    .#
+ #8####.#
+  #....#
+  #.R.#
+  #.@.#
+  ##.##
+   +##
+
+
+You could see the friendly Esmond the knight.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Uthriush the Draconian Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Hepliaklqana the Forgotten
+     0 | D:1      | Reached * piety under Hepliaklqana
+     0 | D:1      | Reached ** piety under Hepliaklqana
+     0 | D:1      | Reached *** piety under Hepliaklqana
+     0 | D:1      | Reached **** piety under Hepliaklqana
+     0 | D:1      | Reached ***** piety under Hepliaklqana
+     0 | D:1      | Reached ****** piety under Hepliaklqana
+     0 | D:1      | Remembered your ancestor Esmond as a knight
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Transference      ||     1
+       Ancestor Life: Kn ||     1
+

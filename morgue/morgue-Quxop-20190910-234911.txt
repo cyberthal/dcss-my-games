@@ -1,0 +1,292 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2293112628828227010
+
+691 Quxop the Changer (level 7, 52/52 HPs) *WIZ*
+             Began as a Merfolk Transmuter on Sept 10, 2019.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 01:13:44 (6285 turns).
+
+Quxop the Changer (Merfolk Transmuter)              Turns: 6285, Time: 01:13:44
+
+Health: 52/52      AC:  4    Str: 10    XL:     7   Next: 63%
+Magic:  16/19      EV: 14    Int: 13    God:    No God 0 (0)
+Gold:   173        SH:  0    Dex: 16    Spells: 3/10 levels left
+
+rFire    . . .     SeeInvis .   c - +1 falchion (slice)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   j - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   m - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.17/turn              e - ring of magical power
+MPRegen  0.16/turn              (no ring)
+
+@: no status effects
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 173 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger
+ b - a +2 short sword of holy wrath
+ c - a +1 falchion of slicing (weapon)
+ q - a +0 trident
+ A - a +0 spear
+Missiles
+ g - 37 sling bullets
+ h - 85 stones
+ i - 5 curare-tipped needles
+ n - 3 arrows
+ u - 4 javelins (quivered)
+ z - 23 poisoned needles
+Armour
+ j - a +0 leather armour (worn)
+ k - a +0 ring mail
+ m - a +0 pair of gloves (worn)
+ s - a +0 robe
+ t - a +0 scale mail
+Magical Staves
+ f - an uncursed staff of death {unknown}
+ B - an uncursed staff of earth {unknown}
+Jewellery
+ e - a ring of magical power (left hand)
+ C - an uncursed ring of poison resistance {unknown}
+Wands
+ x - a wand of digging (5)
+Scrolls
+ r - a scroll of teleportation
+ y - a scroll of remove curse {unknown}
+Potions
+ l - 2 potions of curing
+ o - a potion of flight {unknown}
+ p - a potion of lignification
+ v - 2 potions of cancellation
+ w - a potion of resistance {unknown}
+Comestibles
+ d - 3 rations
+
+
+   Skills:
+ - Level 3.1 Fighting
+ + Level 3.4 Short Blades
+ - Level 1.5 Throwing
+ - Level 1.9 Armour
+ - Level 4.1 Dodging
+ - Level 2.9 Stealth
+ - Level 3.2 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 2.0 Hexes
+ - Level 5.5 Transmutations
+ - Level 1.3 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           15 (50)      3%          1    24
+b - Sticks to Snakes      Tmut           15 (100)     4%          2    74
+c - Spider Form           Tmut/Pois      10 (200)     24%         3    124
+d - Confusing Touch       Hex            6 (50)       14%         1    24
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confuse                  Hex            6 (100)      41%         3    124
+ Gell's Gravitas          Tloc           1 (200)      69%         3    124
+ Blade Hands              Tmut           15 (200)     67%         5    374
+ Ice Form                 Ice/Tmut       8 (100)      71%         4    224
+ Petrify                  Tmut/Erth      8 (100)      71%         4    224
+ Yara's Violent Unravell  Hex/Tmut       11 (200)     89%         5    374
+ Metabolic Englaciation   Hex/Ice        3 (200)      99%         5    374
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:2 hatch
+
+Message History
+
+You turn into a venomous arachnid creature.
+Your +1 falchion of slicing melds into your body.
+Your +0 pair of gloves melds into your body.
+Your +0 leather armour melds into your body.
+Enter Wizard Command (? - help): 
+Which skill (by name)? Dodg
+Dodging
+To what level? 0
+Lowered Dodging to skill level 0.0.
+No target in view!
+Your transformation has ended.
+Your +1 falchion of slicing unmelds from your body.
+Your +0 pair of gloves unmelds from your body.
+Your +0 leather armour unmelds from your body.
+Enter Wizard Command (? - help): 
+Which skill (by name)? dodg
+Dodging
+To what level? 4.1
+Increased Dodging to skill level 4.1.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.......#..............#   ###....#
+.##..##..##...#...#####  ##......#
+.##.....###.....##########..#....#
+.......^.......#####.......##....#
+##..>[#.......##.....########....#
+.................######     #....#
+#.#.###...............##    #....#
+#.#.####......##..###..##   ######
+#.#...........###.# ##..###############
+..#....####....##.#####...>...<)......###
+#...##<........##.....##############....#
+..####..######.######.....##.........####
+#####...........###..........#########
+# #....................##.####
+# ##.########.##.......##....##############
+   #.......................<..............#
+   ################....#####...........>..#
+                  #......##....)..........#
+                  #....#.##.####..........#
+                  #...##'##.#  #..........#
+                  #...#~~~#.#  #.)........#
+                  ###.'~~~'.#  #.[........#
+                    ###~~~#.#  #..........#
+                      ##'##.#  #.......@..#
+                       #....#  ############
+                       ######
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Eustachio (D:3)
+  2 ogres (D:4)
+  A hound (D:4)
+  An orc wizard (D:3)
+  An orc priest (D:4)
+  A bullfrog skeleton (D:4)
+  Jessica (D:3)
+  3 worker ants (D:4)
+  Natasha (twice) (D:2)
+  5 adders
+  A howler monkey skeleton (D:4)
+  2 worms (D:2)
+  A dart slug (D:1)
+  4 orcs
+  A ball python (D:1)
+  4 giant cockroaches
+  5 hobgoblins
+  4 jackals
+  A quokka (D:2)
+  2 bats
+  A frilled lizard (D:1)
+  4 goblins
+  A jackal skeleton (D:4)
+  4 kobolds
+  15 rats
+68 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Natasha (D:2)
+  An adder (D:2)
+  A worm (D:3)
+3 creatures vanquished.
+
+Grand Total: 71 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Quxop the Merfolk Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   150 | D:1      | Reached skill level 1 in Stealth
+   607 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   640 | D:1      | Learned a level 2 spell: Sticks to Snakes
+  1059 | D:2      | Noticed Natasha
+  1575 | D:2      | Reached skill level 3 in Transmutations
+  1649 | D:2      | Reached XP level 3. HP: 27/27 MP: 6/6
+  1725 | D:2      | Killed Natasha
+  2264 | D:2      | Reached XP level 4. HP: 34/34 MP: 7/7
+  2592 | D:2      | Noticed Natasha
+  2723 | D:2      | Killed Natasha
+  2723 | D:2      | Reached skill level 1 in Throwing
+  2803 | D:2      | Noticed Natasha
+  2986 | D:2      | Killed Natasha
+  3186 | D:3      | Reached XP level 5. HP: 39/39 MP: 8/8
+  3198 | D:3      | Noticed Jessica
+  3252 | D:2      | Reached skill level 1 in Short Blades
+  4248 | D:3      | Learned a level 3 spell: Spider Form
+  4272 | D:4      | Noticed an ogre
+  4679 | D:4      | Reached skill level 1 in Poison Magic
+  4858 | D:4      | Reached XP level 6. HP: 30/46 MP: 9/9
+  5097 | D:4      | Noticed Eustachio
+  5141 | D:3      | Killed Eustachio
+  5141 | D:3      | Reached skill level 5 in Transmutations
+  5262 | D:3      | Entered wizard mode.
+  5816 | D:4      | Reached XP level 7. HP: 45/52 MP: 10/10
+  5895 | D:4      | Reached skill level 1 in Armour
+  5939 | D:3      | Learned a level 1 spell: Confusing Touch
+  6192 | D:3      | Killed Jessica
+  6285 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Stealth        |  1  2                |  2.9
+Transmutations |     3           5    |  5.5
+Fighting       |        2        3    |  3.1
+Dodging        |        3           4 |  4.1
+Throwing       |           1          |  1.5
+Short Blades   |              3       |  3.4
+Poison Magic   |              1       |  1.3
+Armour         |                    1 |  1.9
+Hexes          |                    2 |  2.0
+Unarmed Combat |                      |  3.2
+Spellcasting   |                      |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    60 |    25 |    19 ||   104
+       Headbutt          |     7 |    16 |       ||    23
+       Dagger            |       |    42 |       ||    42
+       Punch             |       |   292 |       ||   292
+       Short sword       |       |  8056 |     2 ||  8058
+       Falchion          |       |  8012 |     1 ||  8013
+Throw: Stone             |    42 |    66 |       ||   108
+       Javelin           |       |    14 |     2 ||    16
+ Cast: Beastly Appendage |    20 |    40 |     1 ||    61
+       Sticks to Snakes  |     8 |    17 |       ||    25
+       Spider Form       |       |       |     4 ||     4
+       Confusing Touch   |       |       |     1 ||     1
+ Abil: End Transformatio |       |       |     1 ||     1
+  Use: Scroll            |     4 |     5 |       ||     9
+       Potion            |       |     2 |       ||     2
+ Stab: Sleeping          |     1 |     2 |       ||     3
+       Distracted        |     1 |     2 |       ||     3
+       Confused          |       |       |     1 ||     1
+  Eat: Chunk             |     2 |    10 |     2 ||    14
+       Ration            |     1 |     1 |       ||     2
+Armor: Robe              |     8 |    15 |       ||    23
+       Leather armour    |       |  2627 |     1 ||  2628
+Dodge: Dodged            |    26 |  7992 |    15 ||  8033
+Rpst.: Falchion          |       |  1363 |       ||  1363
+

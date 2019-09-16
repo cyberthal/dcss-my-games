@@ -1,0 +1,203 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10147650498811030821
+
+487839 Gaus the Ninja (level 27, 186/186 HPs) *WIZ*
+             Began as a Kobold Assassin on Sept 1, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:25 (28 turns).
+
+Gaus the Ninja (Kobold Assassin)                      Turns: 28, Time: 00:02:25
+
+Health: 186/186    AC:  3    Str:  8    XL:     27
+Magic:  23/23      EV: 26    Int: 12    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.41/turn              (no ring)
+MPRegen  0.18/turn              (no ring)
+
+@: no status effects
+A: small, carnivore
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+ h - 28 throwing nets (quivered)
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 22.8 Fighting
+ + Level 25.7 Short Blades
+ + Level 22.4 Throwing
+ + Level 13.4 Dodging
+ O Level 27 Stealth
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+You hear a splash.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: a four-headed hydra (entangled in a net)
+A throwing net.
+Some shallow water.
+You hit the four-headed hydra.
+The four-headed hydra is lightly wounded.
+The four-headed hydra struggles against the net.
+You hit the four-headed hydra.
+The four-headed hydra is lightly wounded.
+The four-headed hydra struggles against the net.
+You hit the four-headed hydra.
+The four-headed hydra is lightly wounded.
+You catch the helpless four-headed hydra completely off-guard!
+You perforate the four-headed hydra like a sieve!!!!
+You kill the four-headed hydra!
+You enter the shallow water.
+Moving in this stuff is going to be slow.
+You see here a hydra corpse.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #.####.#####............######  #.###.#
+   #.##?........#########.......#  #.# #.#
+   #.......######     #.......#.#  #.###.##
+   #.##.#.(#          #.#..##.#.#  #..#...##
+   #.).....#          #.#.....#.#  ##.#.#..#
+  ##.##.##.# ##########.#.##..#.#   #......#
+  #..##.##.# #.......##.#.##..#.#   #.#.#..#
+###.###.##.# #.......##.......(.#   #..}...#
+#.....#....# #.......#######.####  ##......#
+###.####.### #.!.....#     #.#     #......##
+#.....##.#   #.......#     #.#    ##.######
+###.####.#   #.......#  ####.######..#
+#.....##.#   #.......#  #...........##
+###.####.########.####  #.#######.###
+#.....##.......##.#     #.#     #..#
+###.####.#####.#..#######.# ######.#####
+ ##.#  #....##.#.###......# #~~~~7~7~~~#
+ #..#  #.##.....>.....##### #~........~#
+##.#####.#####.......##   ###~........~#
+.....[.#.#####......##    #.#~.......(~#
+######.#.......#.##.#    ##.#77.......7########
+     #.#######.#....#    #........<.%.%.......#
+ #####.#     #.#....#    #..#77......@7######.#
+ #.....#     #.#....#    #..#~...%..7.~#    #.#
+ #.#####     #..$...#    ##.#~.....777~#    #.####
+##.######    ###[..########.#~......7.~# ####....#
+#.......####   #.........##.#~~~~7~7~~~# #.......#
+#..###.....#####...####.....######.#######.####..#
+#..###..#.................#.##...#......##.####..#
+..........................#...###.....%.##.#.....#
+#..#.#....................####.#.##.....##.#.##.##
+#..#.......#####...#####)##  ##.###.....##.#.##.#
+#.......(###   #.........#    #.# ########......#
+#....##.##    ##...#######    #.#   ########.####
+#.......#    ##.....#######   #.#####........#
+####.####    #............#   #!#.......###..#
+..##.#       ##.........#.#####..^....#.###..###
+#.##.#        ##...........>.####.##..#.%......#
+#.##.#  #########.#####.#.##.#  #.##.....##..#.#
+.....# ##............##.#.##.#  #.###.#.##..}..#
+#.#### #....#####.##......##.#  #.#..........#.#
+#?#    #.#...#  #.#####.#.##.####...}...####...#
+..#  ###..}.## ##..............###.#.#.##  #####
+###  #...#...# #.............#.# #.....#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  5 hydras (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gaus the Kobold Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached skill level 27 in Stealth
+     0 | D:1      | Reached XP level 2. HP: 44/44 MP: 2/2
+     0 | D:1      | Reached XP level 3. HP: 49/49 MP: 3/3
+     0 | D:1      | Reached XP level 4. HP: 56/56 MP: 4/4
+     0 | D:1      | Reached XP level 5. HP: 61/61 MP: 5/5
+     0 | D:1      | Reached XP level 6. HP: 67/67 MP: 6/6
+     0 | D:1      | Reached XP level 7. HP: 72/72 MP: 7/7
+     0 | D:1      | Reached XP level 8. HP: 79/79 MP: 8/8
+     0 | D:1      | Reached XP level 9. HP: 84/84 MP: 9/9
+     0 | D:1      | Reached XP level 10. HP: 90/90 MP: 10/10
+     0 | D:1      | Reached XP level 11. HP: 95/95 MP: 11/11
+     0 | D:1      | Reached XP level 12. HP: 101/101 MP: 12/12
+     0 | D:1      | Reached XP level 13. HP: 107/107 MP: 13/13
+     0 | D:1      | Reached XP level 14. HP: 112/112 MP: 14/14
+     0 | D:1      | Reached XP level 15. HP: 118/118 MP: 15/15
+     0 | D:1      | Reached XP level 16. HP: 124/124 MP: 16/16
+     0 | D:1      | Reached XP level 17. HP: 129/129 MP: 17/17
+     0 | D:1      | Reached XP level 18. HP: 136/136 MP: 18/18
+     0 | D:1      | Reached XP level 19. HP: 140/140 MP: 19/19
+     0 | D:1      | Reached XP level 20. HP: 147/147 MP: 20/20
+     0 | D:1      | Reached XP level 21. HP: 152/152 MP: 21/21
+     0 | D:1      | Reached XP level 22. HP: 158/158 MP: 22/22
+     0 | D:1      | Reached XP level 23. HP: 164/164 MP: 23/23
+     0 | D:1      | Reached XP level 24. HP: 170/170 MP: 23/23
+     0 | D:1      | Reached XP level 25. HP: 175/175 MP: 23/23
+     0 | D:1      | Reached XP level 26. HP: 181/181 MP: 23/23
+     0 | D:1      | Reached XP level 27. HP: 186/186 MP: 23/23
+    28 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       | 22 | 22.8
+Short Blades   | 25 | 25.7
+Throwing       | 22 | 22.4
+Dodging        | 13 | 13.4
+Stealth        | 27 | 27.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |       |       |       |       |       |       |       |       |    12 ||    12
+Throw: Throwing net      |       |       |       |       |       |       |       |       |     5 ||     5
+ Stab: Held in net/web   |       |       |       |       |       |       |       |       |     5 ||     5
+

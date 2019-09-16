@@ -1,0 +1,402 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3668668813912104718
+
+2042 Cetups the Fighter (level 9, 98/98 HPs) *WIZ*
+             Began as an Ogre Necromancer on Sept 14, 2019.
+             Was a Follower of Okawaru.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 01:46:04 (9379 turns).
+
+Cetups the Fighter (Ogre Necromancer)               Turns: 9379, Time: 01:46:05
+
+Health: 98/98      AC:  4    Str: 17    XL:     9   Next: 24%
+Magic:  18/19      EV: 10    Int: 19    God:    Okawaru 39 (0)
+Gold:   325        SH:  0    Dex:  9    Spells: 10/22 levels left
+
+rFire    . . .     SeeInvis .   J - +2 trident {pain, *Contam Str+3 Stlth+}
+rCold    + + .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   y - +0 robe {rC+}
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   Q - +0 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             A - amulet of rage
+HPRegen  0.26/turn              l - ring of protection from cold
+MPRegen  0.16/turn              r - ring of poison resistance
+
+@: no status effects
+A: large, unfitting armour, tough skin 1
+a: Heroism, Renounce Religion, Evoke Berserk Rage
+
+
+You were on level 6 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was aware of your devotion.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 325 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of electrocution
+ b - a +0 morningstar
+ c - a +1 spear
+ d - a +0 halberd of protection
+ j - a +0 spear of piercing
+ B - a +0 antimagic rapier
+ F - a +0 whip of freezing
+ J - the +2 trident "Itoidoka" (weapon) {pain, *Contam Str+3 Stlth+}
+   (You found it on level 5 of the Dungeon)   
+   
+   In the hands of one skilled in necromantic magic, it inflicts extra damage
+   on living creatures.
+   
+   It affects your strength (+3).
+   It causes magical contamination when unequipped.
+   It makes you more stealthy.
+ O - a +1 flail of holy wrath
+ P - a +0 hunting sling
+Missiles
+ e - 2 needles of frenzy
+ h - 178 stones
+ i - 3 throwing nets
+ k - 57 sling bullets
+ u - 12 bolts
+ v - 106 arrows
+ w - 7 needles of confusion
+ G - 10 tomahawks (quivered)
+Armour
+ y - a +0 robe of cold resistance (worn)
+ Q - a +0 cloak (worn)
+Magical Staves
+ E - an uncursed staff of power
+Jewellery
+ l - a ring of protection from cold (left hand)
+ p - an uncursed ring of resist corrosion
+ r - a ring of poison resistance (right hand)
+ A - an amulet of rage (around neck)
+Wands
+ D - a wand of flame (18)
+Scrolls
+ n - a scroll of blinking
+ q - 3 scrolls of remove curse
+ s - a scroll of fog
+ z - 5 scrolls of teleportation
+ C - a scroll of magic mapping
+ H - a scroll of immolation {unknown}
+ K - a scroll of random uselessness {unknown}
+ L - a scroll of fear {unknown}
+ M - a scroll of brand weapon {unknown}
+Potions
+ f - a potion of cancellation
+ g - a potion of brilliance
+ m - a potion of haste
+ o - a potion of lignification
+ t - a potion of mutation
+ I - a potion of heal wounds {unknown}
+ R - a potion of curing
+Comestibles
+ x - 18 rations
+
+
+   Skills:
+ - Level 9.0 Fighting
+ - Level 1.0 Short Blades
+ - Level 1.0 Maces & Flails
+ + Level 4.0 Polearms
+ - Level 2.0 Throwing
+ - Level 2.0 Dodging
+ - Level 1.4 Stealth
+ - Level 7.1 Spellcasting
+ - Level 5.1 Necromancy
+ - Level 2.1 Invocations
+ - Level 1.1 Evocations
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      1%          1    0
+b - Animate Skeleton      Necr           N/A          1%          1    0
+c - Vampiric Draining     Necr           26 (200)     3%          3    15
+d - Regeneration          Chrm/Necr      16 (200)     11%         3    15
+e - Animate Dead          Necr           N/A          12%         4    115
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 %
+
+Annotations:
+D:2 scorpions
+D:3 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+Key pressed, stopping explore.
+Unknown command.
+Found a shimmering altar of Xom.
+Unknown command.
+Found a deep blue altar of Sif Muna.
+Unknown command.
+Found a shadowy altar of Dithmenos.
+Unknown command.
+Done exploring.
+Unknown command.
+Done exploring.
+Unknown command.
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Save game and exit? 
+Welcome back, Cetups the Ogre Necromancer.
+Okawaru says: Bring me glory in combat!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#########....#...............................#.##....#
+#.........####....###...........##.............##....#
+#.........#  #..#.####..........##............###....#
+#........## ##....##............##.............##....#
+#......<.####......Z..#....................#.........#
+#...!..........##.##.......................#...##....#
+#........#####.##.........[..........###.#.....##....#
+#........#   #.##...............>.[...##.##....#######
+#........#   #.###............^.......#............#
+##############.###................<.......#........#
+          #.........................Z####..........#
+          #..........................#  #..........#
+          #..............>...........#  #.....)....#
+          #.................##.....#.####.....)....#
+          #.......#.......##########......#....)...#
+          ##...############        #...............#
+          ##.#######################.....#.>.......####
+          #...........................................#
+          ##############.###########.....##..##########
+                       #..#        #.....#####
+                       ##.### ### ####...#
+                        #)#_###}###.##...#
+                        #)8.#.#.#.#@_#####
+                        #......Z....##
+                        #...........8#
+                        ##8.#.#.#.#..#
+                         ####.#_#.#_##
+                            #########
+
+
+You could see a friendly ogre skeleton.
+
+Vanquished Creatures
+  Pikel (D:4)
+  2 sky beasts (D:5)
+  A slave (D:4)
+  2 ogres
+  Dowan (D:6)
+  3 scorpions
+  4 hounds
+  A jelly (D:5)
+  3 iguanas (D:4)
+  6 worker ants
+  Natasha (thrice) (D:4)
+  2 orc wizards
+  A killer bee zombie (D:5)
+  8 gnolls
+  A howler monkey skeleton (D:4)
+  8 adders
+  2 shadow imps (D:5)
+  An ooze (D:5)
+  An adder skeleton (D:4)
+  A worm (D:4)
+  2 dart slugs
+  3 leopard geckos
+  12 orcs
+  A bat zombie (D:2)
+  A giant cockroach (D:6)
+  5 goblins
+  6 hobgoblins
+  12 jackals
+  6 kobolds
+  5 quokkas
+  3 ball pythons
+  6 bats
+  2 frilled lizards
+  A leopard gecko skeleton (D:5)
+  2 quokka skeletons (D:4)
+  10 rats
+129 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hungry ghost (D:6)
+  Eustachio (D:4)
+  Duvessa (D:6)
+  A centaur skeleton (D:4)
+  A hound zombie (D:6)
+  An ooze (D:2)
+  A worm (D:2)
+  2 orcs
+  3 jackals
+  A frilled lizard (D:4)
+  3 rats (D:2)
+16 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 slaves (D:4)
+2 creatures vanquished.
+
+Grand Total: 147 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Cetups the Ogre Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     6 | D:1      | Learned a level 1 spell: Animate Skeleton
+   232 | D:1      | Reached skill level 1 in Fighting
+   666 | D:1      | Reached skill level 1 in Maces & Flails
+   666 | D:1      | Reached XP level 2. HP: 26/27 MP: 0/5
+   825 | D:1      | Entered wizard mode.
+   982 | D:1      | Reached skill level 2 in Fighting
+  1331 | D:2      | Reached skill level 3 in Fighting
+  1331 | D:2      | Reached XP level 3. HP: 33/37 MP: 2/6
+  1392 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1431 | D:2      | Noticed a scorpion
+  1623 | D:2      | Noticed a scorpion
+  1758 | D:2      | Reached skill level 1 in Short Blades
+  2186 | D:2      | Reached XP level 4. HP: 45/45 MP: 5/7
+  2258 | D:2      | Learned a level 3 spell: Regeneration
+  2523 | D:3      | Reached skill level 1 in Polearms
+  3187 | D:3      | Noticed Sigmund
+  3314 | D:3      | Reached skill level 4 in Fighting
+  3499 | D:3      | Reached XP level 5. HP: 50/55 MP: 4/9
+  3591 | D:2      | Reached skill level 5 in Fighting
+  3855 | D:2      | Reached XP level 6. HP: 56/67 MP: 9/11
+  4073 | D:3      | Reached skill level 6 in Fighting
+  4450 | D:4      | Found Abrog's Food Shoppe.
+  4858 | D:4      | Learned a level 4 spell: Animate Dead
+  5118 | D:4      | Noticed a slave
+  5143 | D:4      | Killed a slave
+  5544 | D:4      | Reached XP level 7. HP: 76/76 MP: 13/13
+  5550 | D:4      | Noticed Eustachio
+  5772 | D:4      | Noticed Natasha
+  5810 | D:4      | Noticed Pikel
+  5844 | D:4      | Killed Pikel
+  5844 | D:4      | Reached skill level 8 in Fighting
+  5844 | D:4      | Reached XP level 8. HP: 89/89 MP: 14/17
+  5899 | D:4      | Killed Natasha
+  5942 | D:4      | Killed Eustachio
+  5942 | D:4      | Reached skill level 1 in Evocations
+  5944 | D:4      | Noticed Natasha
+  5959 | D:4      | Killed Natasha
+  6241 | D:4      | Noticed Natasha
+  6243 | D:4      | Killed Natasha
+  6269 | D:4      | Reached skill level 1 in Throwing
+  6652 | D:5      | Entered Level 5 of the Dungeon
+  6785 | D:5      | Found a shadowy altar of Dithmenos.
+  6942 | D:5      | Found a staircase to the Ecumenical Temple.
+  6951 | Temple   | Entered the Ecumenical Temple
+  7048 | Temple   | Became a worshipper of Warmaster Okawaru
+  7184 | D:5      | Reached skill level 9 in Fighting
+  7191 | D:5      | Got a crystal trident
+  7336 | D:5      | Identified the +2 trident "Itoidoka" {pain, *Contam Str+3
+                  | Stlth+} (You found it on level 5 of the Dungeon)
+  8465 | D:6      | Noticed Dowan
+  8466 | D:6      | Noticed Duvessa
+  8475 | D:6      | Killed Duvessa
+  8490 | D:6      | Reached * piety under Okawaru
+  8490 | D:6      | Reached XP level 9. HP: 88/98 MP: 12/19
+  8495 | D:6      | Killed Dowan
+  8495 | D:6      | Reached skill level 5 in Necromancy
+  8792 | D:6      | Reached skill level 1 in Invocations
+  9144 | D:6      | Found a bloodstained altar of Trog.
+  9276 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  9368 | D:6      | Found an ornate altar of the Wu Jian Council.
+  9372 | D:6      | Found a shimmering altar of Xom.
+  9373 | D:6      | Found a deep blue altar of Sif Muna.
+  9376 | D:6      | Found a shadowy altar of Dithmenos.
+  9379 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1  3     4  5  6  8  9    |  9.0
+Maces & Flails |  1                         |  1.0
+Short Blades   |        1                   |  1.0
+Polearms       |           1     2     3  4 |  4.0
+Spellcasting   |           3     4  6  7    |  7.1
+Evocations     |                       1    |  1.1
+Necromancy     |                       4  5 |  5.1
+Throwing       |                       2    |  2.0
+Dodging        |                       2    |  2.0
+Invocations    |                          2 |  2.1
+Stealth        |                            |  1.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Whip              |    17 |       |       ||    17
+       Short sword       |     4 |       |       ||     4
+       Spear             |     2 |    14 |    15 ||    31
+       Dagger            |       |    50 |     4 ||    54
+       Halberd           |       |    31 |    29 ||    60
+       Trident           |       |       |    69 ||    69
+Throw: Stone             |    27 |    31 |    12 ||    70
+       Tomahawk          |       |       |    12 ||    12
+ Cast: Pain              |    51 |    71 |    85 ||   207
+       Animate Skeleton  |    24 |    19 |    16 ||    59
+       Regeneration      |       |     2 |     9 ||    11
+       Vampiric Draining |       |       |     5 ||     5
+       Animate Dead      |       |       |     3 ||     3
+ Abil: Evoke Berserk Rag |       |       |     1 ||     1
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Potion            |     1 |     1 |       ||     2
+       Scroll            |     5 |     5 |     7 ||    17
+ Stab: Sleeping          |     1 |     2 |     1 ||     4
+       Distracted        |       |       |     2 ||     2
+  Eat: Chunk             |     4 |    11 |    13 ||    28
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |     9 |    16 |    14 ||    39
+Dodge: Dodged            |    11 |    59 |    52 ||   122
+

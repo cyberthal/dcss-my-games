@@ -1,0 +1,379 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7482298938251039295
+
+535259 Qaedul the Intangible (level 27, 68/249 HPs) *WIZ*
+             Began as a Merfolk Ice Elementalist on Aug 27, 2019.
+             Was a High Priest of Fedhas.
+             Quit the game on level 1 of the Crypt.
+             The game lasted 01:08:41 (4697 turns).
+
+Qaedul the Intangible (Merfolk Ice Elementalist)    Turns: 4697, Time: 01:08:42
+
+Health: 68/249     AC: 32    Str:  8    XL:     27
+Magic:  51/54      EV: 17    Int: 16    God:    Fedhas 144 (0)
+Gold:   15         SH: 24    Dex: 22    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +   u - +12 war axe {chop, +Blink Dex+3}
+rCold    + + .     Gourm    .   h - +0 large shield {reflect}
+rNeg     . . .     Faith    .   f - +4 chain mail {rC+}
+rPois    +         Spirit   .   g - +0 helmet {SInv}
+rElec    .         Reflect  +   k - +0 cloak {rPois}
+rCorr    .         Harm     .   j - +0 pair of gloves {Dex+3}
+MR       +++..                  i - +2 pair of boots {Fly}
+Stlth    +++++++...             l - amulet "Pemoirym" {+Rage rC+ MR+}
+HPRegen  0.51/turn              n - +2 ring of intelligence
+MPRegen  0.34/turn              t - +2 ring of dexterity
+
+@: flying
+A: change form in water, swift swim, stealthy swim
+a: Fungal Bloom, Sunlight, Evolution, Growth, Reproduction, Rain, Renounce
+Religion, Evoke Blink, Evoke Berserk Rage, Stop Flying
+
+
+You were on level 1 of the Crypt.
+You worshipped Fedhas.
+Fedhas was extremely pleased with you.
+You were very full.
+
+You visited 2 branches of the dungeon, and saw 3 of its levels.
+
+You collected 15 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ d - a +1 shortbow of flaming
+ e - the +6 shillelagh "Devastator" {shatter}
+   (Your wizardly powers created it on level 1 of the Crypt)
+ u - the +12 war axe of the Orcish Mines (weapon) {chop, +Blink Dex+3}
+   (Your wizardly powers created it on level 1 of the Crypt)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your dexterity (+3).
+   It lets you blink.
+ v - the +7 war axe "Dackaus" {pain, rC+ Str+2}
+   (Your wizardly powers created it on level 1 of the Crypt)   
+   
+   In the hands of one skilled in necromantic magic, it inflicts extra damage
+   on living creatures.
+   
+   It affects your strength (+2).
+   It protects you from cold.
+Armour
+ a - a +0 robe
+ f - a +4 chain mail of cold resistance (worn)
+ g - a +0 helmet of see invisible (worn)
+ h - a +0 large shield of reflection (worn)
+ i - a +2 pair of boots of flying (worn)
+ j - a +0 pair of gloves of dexterity (worn)
+ k - a +0 cloak of poison resistance (worn)
+Jewellery
+ l - the amulet "Pemoirym" (around neck) {+Rage rC+ MR+}
+   (Your wizardly powers created it on level 1 of the Crypt)   
+   
+   [amulet of rage]
+   
+   It protects you from cold.
+   It affects your resistance to hostile enchantments.
+   It lets you go berserk.
+ m - an uncursed amulet of guardian spirit
+ n - a +2 ring of intelligence (left hand)
+ o - an uncursed amulet of rage {unknown}
+ p - an uncursed amulet of faith {unknown}
+ q - an uncursed amulet of the acrobat {unknown}
+ r - the amulet "Hagenami" {rPois rF+ Regen+ Int+4, unknown}
+   (Your wizardly powers created it on level 1 of the Crypt)   
+   
+   [amulet of regeneration]
+   
+   It affects your intelligence (+4).
+   It protects you from fire.
+   It protects you from poison.
+   It increases your rate of regeneration.
+ s - the amulet "Possuriw" {Reflect rElec SH+2, unknown}
+   (Your wizardly powers created it on level 1 of the Crypt)   
+   
+   [amulet of reflection]
+   
+   It shields you and reflects attacks.
+   It insulates you from electricity.
+   It affects your SH (+2).
+ t - a +2 ring of dexterity (right hand)
+Potions
+ b - 3 potions of curing {unknown}
+Comestibles
+ c - 5 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       50 (50)      0%          2    0
+ Ozocubu's Armour         Chrm/Ice       82 (100)     0%          3    0
+ Summon Ice Beast         Ice/Summ       82 (100)     0%          4    0
+ Throw Icicle             Conj/Ice       82 (100)     0%          4    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+Crypt:1 exclusion: 2 hyperactive ballistomycetes, Khufu
+
+Message History
+
+The emperor scorpion convulses! x2
+You block the emperor scorpion's attack. x2
+The emperor scorpion splashes around in the water. x2
+The emperor scorpion barely misses you.
+The emperor scorpion completely misses you.
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: Khufu
+A +0 trident.
+Some shallow water.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: Khufu
+A +0 trident.
+Some shallow water.
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: Khufu
+A +0 trident.
+Some shallow water.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         z                         ############
+                                   #..........#
+                                   #.~~.......#
+                         #.     ####.@sM)~....#
+                          ..    #.P#.ss))!.>..#
+                   .       .### #...~~~.))....#
+             #..   #.       ..# #.##~~~~~~....#
+             #.#   #.# ###  #.# #.##.~~~~~....#
+          ####.#   #..##..  #.###.##..~~~.....#
+   P.      ..#.#    #..#.####..............P..#
+   #..      ...#    ##............#############
+    #..##.   #.######....P....###.##
+#.   ..#..   #............###.# #..#
+..   #...# ###...##...#...# #.# #..#
+.#   #.#P###...#....#...#.# #.# #..########
+.# ###.#...P.#####P.#P###.###.# #.........#
+.# #.......###  ##[...# #.....# #.#.......#
+P###..P..P.##   #....########.###.#.......#
+PPP..P......#  ##..#...##   #...#.#.......#####
+PPP..P...##..###...###..#####.#...#...........#
+~~P..>...###.##..##.........^.................#
+~~P............>...)#####..##.##.##........####
+()).)..PP..#..##.####   ##..#.##.##.........##
+~~)P..........##.##########.#P##.##.......#..#
+~~PPP$..P........##...........##.####......#.##
+
+
+You could see Khufu and 3 emperor scorpions.
+
+Vanquished Creatures
+  Khufu (Crypt:1)
+  A greater mummy (Crypt:1)
+  3 ancient champions (Crypt:1)
+  A revenant (Crypt:1)
+  An eidolon (Crypt:1)
+  2 jiangshi (Crypt:1)
+  A deep elf death mage (Crypt:1)
+  2 vampire magi (Crypt:1)
+  11 skeletal warriors (Crypt:1)
+  A phantasmal warrior (Crypt:1)
+  A freezing wraith (Crypt:1)
+  A death yak skeleton (Crypt:1)
+  An iron troll skeleton (Crypt:1)
+  A fire dragon skeleton (Crypt:1)
+  A shadow (Crypt:1)
+  A wraith (Crypt:1)
+  A black mamba skeleton (Crypt:1)
+  A swamp dragon skeleton (Crypt:1)
+  5 wights (Crypt:1)
+  2 centaur skeletons (Crypt:1)
+  A naga skeleton (Crypt:1)
+  A big kobold skeleton (Crypt:1)
+  2 mummies (Crypt:1)
+  A howler monkey skeleton (Crypt:1)
+  3 hobgoblins (D:1)
+  10 kobolds
+  A bat (D:1)
+  A quokka zombie (Crypt:1)
+  3 ballistomycetes (Crypt:1)
+  A ballistomycete spore (D:1)
+  3 hyperactive ballistomycetes (Crypt:1)
+  A toadstool (Crypt:1)
+67 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A skeletal warrior (Crypt:1)
+  A centaur skeleton (Crypt:1)
+  5 ballistomycete spores
+  13 hyperactive ballistomycetes
+20 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 oklob plants (Crypt:1)
+  An ancient champion (Crypt:1)
+  4 ghouls (Crypt:1)
+  A vampire knight (Crypt:1)
+  A vampire mage (Crypt:1)
+  A spark wasp zombie (Crypt:1)
+  A phantasmal warrior (Crypt:1)
+  A freezing wraith (Crypt:1)
+  5 wandering mushrooms (Crypt:1)
+  A shadow (Crypt:1)
+  2 wraiths (Crypt:1)
+  A necrophage (Crypt:1)
+  12 ballistomycetes
+  3 ballistomycete spores (Crypt:1)
+  3 hyperactive ballistomycetes (Crypt:1)
+  7 toadstools (Crypt:1)
+46 creatures vanquished.
+
+Grand Total: 133 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qaedul the Merfolk Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Fedhas Madash
+     0 | D:1      | Reached * piety under Fedhas
+     0 | D:1      | Reached ** piety under Fedhas
+     0 | D:1      | Reached *** piety under Fedhas
+     0 | D:1      | Reached **** piety under Fedhas
+     0 | D:1      | Reached ***** piety under Fedhas
+     0 | D:1      | Reached ****** piety under Fedhas
+   878 | D:1      | Reached XP level 2. HP: 44/63 MP: 30/30
+  1169 | D:1      | Reached XP level 3. HP: 70/70 MP: 31/31
+  1169 | D:1      | Reached XP level 4. HP: 78/78 MP: 33/33
+  1169 | D:1      | Reached XP level 5. HP: 85/85 MP: 34/34
+  1169 | D:1      | Reached XP level 6. HP: 93/93 MP: 36/36
+  1169 | D:1      | Reached XP level 7. HP: 100/100 MP: 37/37
+  1169 | D:1      | Reached XP level 8. HP: 108/108 MP: 39/39
+  1169 | D:1      | Reached XP level 9. HP: 115/115 MP: 40/40
+  1169 | D:1      | Reached XP level 10. HP: 123/123 MP: 41/41
+  1169 | D:1      | Reached XP level 11. HP: 130/130 MP: 42/42
+  1169 | D:1      | Reached XP level 12. HP: 138/138 MP: 43/43
+  1169 | D:1      | Reached XP level 13. HP: 145/145 MP: 44/44
+  1169 | D:1      | Reached XP level 14. HP: 153/153 MP: 45/45
+  1169 | D:1      | Reached XP level 15. HP: 159/159 MP: 46/46
+  1169 | D:1      | Reached XP level 16. HP: 167/167 MP: 47/47
+  1169 | D:1      | Reached XP level 17. HP: 174/174 MP: 48/48
+  1169 | D:1      | Reached XP level 18. HP: 182/182 MP: 49/49
+  1169 | D:1      | Reached XP level 19. HP: 189/189 MP: 50/50
+  1169 | D:1      | Reached XP level 20. HP: 197/197 MP: 51/51
+  1169 | D:1      | Reached XP level 21. HP: 204/204 MP: 52/52
+  1169 | D:1      | Reached XP level 22. HP: 212/212 MP: 53/53
+  1169 | D:1      | Reached XP level 23. HP: 219/219 MP: 54/54
+  1169 | D:1      | Reached XP level 24. HP: 227/227 MP: 54/54
+  1169 | D:1      | Reached XP level 25. HP: 234/234 MP: 54/54
+  1169 | D:1      | Reached XP level 26. HP: 242/242 MP: 54/54
+  1169 | D:1      | Reached XP level 27. HP: 249/249 MP: 54/54
+  1169 | Crypt:1  | Entered Level 1 of the Crypt
+  1200 | Crypt:1  | Noticed Khufu
+  1200 | Crypt:1  | Noticed a greater mummy
+  1217 | Crypt:1  | HP: 12/249 [Khufu/divine providence (14)]
+  1217 | Crypt:1  | Annihilated by a greater mummy (34 damage)
+                  | ... led by Khufu
+  1223 | Crypt:1  | HP: 5/249 [emperor scorpion[Khufu] (23)]
+  1223 | Crypt:1  | Mangled by an emperor scorpion (11 damage)
+                  | ... summoned by a greater mummy
+                  | ... led by Khufu
+  1234 | Crypt:1  | Killed Khufu
+  1236 | Crypt:1  | Killed a greater mummy
+  1249 | Crypt:1  | HP: 12/249 [hyperactive ballistomycete (25)]
+  1253 | Crypt:1  | HP: 5/249 [fire dragon skeleton (6)]
+  1254 | Crypt:1  | Killed by an exploding hyperactive ballistomycete (24
+                  | damage)
+  1410 | Crypt:1  | Entered Level 1 of the Crypt
+  1467 | Crypt:1  | Paralysed by a vampire knight for 5 turns
+  1535 | Crypt:1  | Found the +6 shillelagh "Devastator" {shatter}
+  1557 | Crypt:1  | Paralysed by something for 2 turns
+  1559 | Crypt:1  | HP: 4/249 [jiangshi (14)]
+  1560 | Crypt:1  | Entered Level 1 of the Crypt
+  1597 | Crypt:1  | Got a bound jade amulet
+  1598 | Crypt:1  | Identified the amulet "Pemoirym" {+Rage rC+ MR+} (Your
+                  | wizardly powers created it on level 1 of the Crypt)
+  1607 | Crypt:1  | Got a heavily runed emerald amulet
+  1608 | Crypt:1  | Got a coiled golden amulet
+  1611 | Crypt:1  | Got an ancient war axe
+  1612 | Crypt:1  | Identified the +12 war axe of the Orcish Mines {chop,
+                  | +Blink Dex+3} (Your wizardly powers created it on level 1
+                  | of the Crypt)
+  1613 | Crypt:1  | Got a steaming war axe
+  1614 | Crypt:1  | Identified the +7 war axe "Dackaus" {pain, rC+ Str+2} (Your
+                  | wizardly powers created it on level 1 of the Crypt)
+  4682 | Crypt:1  | Noticed Khufu
+  4697 | Crypt:1  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     4 |       |       |       |       |       |       |       |    27 ||    31
+       War axe           |       |       |       |       |       |       |       |       |   167 ||   167
+       Shillelagh        |       |       |       |       |       |       |       |       |    21 ||    21
+       Punch             |       |       |       |       |       |       |       |       |     4 ||     4
+       Tailslap          |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Rain              |     5 |       |       |       |       |       |       |       |     8 ||    13
+       Reproduction      |     3 |       |       |       |       |       |       |       |     4 ||     7
+       Evolution         |     1 |       |       |       |       |       |       |       |    23 ||    24
+       Fungal Bloom      |       |       |       |       |       |       |       |       |    14 ||    14
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |     5 ||     5
+Armor: Robe              |     3 |       |       |       |       |       |       |       |     3 ||     6
+       Chain mail        |       |       |       |       |       |       |       |       |    50 ||    50
+Dodge: Dodged            |   154 |       |       |       |       |       |       |       |   297 ||   451
+Block: Large shield      |       |       |       |       |       |       |       |       |   189 ||   189
+       Reflection        |       |       |       |       |       |       |       |       |    13 ||    13
+

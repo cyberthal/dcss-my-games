@@ -1,0 +1,173 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2510910988388559496
+
+Vuheig the Covert (Naga Venom Mage)                   Turns: 32, Time: 00:02:49
+
+Health: 39/39      AC:  4    Str: 10    XL:     4   Next: 0%
+Magic:  7/10       EV:  9    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 0/12 levels left
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   d - +0 ring mail
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +++.......             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: very slow
+A: large, see invisible, deformed body, poison resistance, slowness 2, slow
+metabolism 1, spit poison 1, AC +1
+a: Spit Poison
+
+
+You are on level 1 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ d - a +0 ring mail (worn)
+Potions
+ b - 9 potions of experience
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 2.2 Fighting
+ - Level 1.7 Armour
+ + Level 4.4 Dodging
+ + Level 8.4 Stealth
+ - Level 2.2 Unarmed Combat
+ + Level 4.9 Spellcasting
+ + Level 5.1 Conjurations
+ + Level 5.0 Transmutations
+ + Level 2.2 Air Magic
+ + Level 7.9 Poison Magic
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      25 (25)      2%          1    0
+b - Beastly Appendage     Tmut           21 (50)      4%          1    0
+c - Poisonous Vapours     Pois/Air       21 (50)      7%          2    16
+d - Sticks to Snakes      Tmut           21 (100)     7%          2    16
+e - Spider Form           Tmut/Pois      26 (200)     8%          3    66
+f - Mephitic Cloud        Conj/Pois/Air  21 (100)     13%         3    66
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Olgreb's Toxic Radiance  Pois           31 (100)     14%         4    166
+ Venom Bolt               Conj/Pois      26 (200)     56%         5    316
+ Blade Hands              Tmut           21 (200)     77%         5    316
+ Ice Form                 Ice/Tmut       12 (100)     78%         4    166
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear boots.
+Your serpentine skin is tough. (AC +1)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You have a slow metabolism.
+You can spit poison.
+
+
+Message History
+
+Okay, then.
+Okay, then.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? [
+What type of item? ring mail
++0 ring mail
+What ego type? 
+Something appears before you!
+d - a +0 ring mail
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 robe. x4
+You finish taking off your +0 robe.
+You start putting on your armour.
+You continue putting on your +0 ring mail. x5
+You finish putting on your +0 ring mail.
+You have 0 gold pieces.
+
+    #####
+   ##%%.###
+   #...@..#
+#..........[.#
+..%.%%....%...#
+...........!...
+.%%..%.%.%.%...
+#.........%....
+##....###......
+ #####   ##..##
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Vuheig the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     3 | D:1      | Learned a level 1 spell: Beastly Appendage
+     4 | D:1      | Reached skill level 5 in Stealth
+     4 | D:1      | Reached skill level 5 in Poison Magic
+     4 | D:1      | Reached XP level 2. HP: 22/22 MP: 4/6
+     8 | D:1      | Learned a level 2 spell: Poisonous Vapours
+    11 | D:1      | Learned a level 2 spell: Sticks to Snakes
+    11 | D:1      | Reached skill level 7 in Stealth
+    11 | D:1      | Reached XP level 3. HP: 28/28 MP: 4/8
+    16 | D:1      | Learned a level 3 spell: Spider Form
+    16 | D:1      | Reached skill level 1 in Armour
+    16 | D:1      | Reached skill level 8 in Stealth
+    16 | D:1      | Reached skill level 5 in Conjurations
+    16 | D:1      | Reached skill level 5 in Transmutations
+    16 | D:1      | Reached XP level 4. HP: 39/39 MP: 5/10
+    21 | D:1      | Learned a level 3 spell: Mephitic Cloud
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Dodging        |  2  3  4 |  4.4
+Stealth        |  5  7  8 |  8.4
+Spellcasting   |  3  4    |  4.9
+Conjurations   |  2  4  5 |  5.1
+Transmutations |  2  4  5 |  5.0
+Poison Magic   |  5  7    |  7.9
+Fighting       |        2 |  2.2
+Armour         |        1 |  1.7
+Unarmed Combat |        2 |  2.2
+Air Magic      |        2 |  2.2
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+  Use: Potion            |     3 |       ||     3
+

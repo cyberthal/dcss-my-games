@@ -1,0 +1,454 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7055062585526688684
+
+Tuenorch the Fighter (Ogre Necromancer)            Turns: 14038, Time: 02:16:18
+
+Health: 107/107    AC:  5    Str: 14    XL:     10   Next: 51%
+Magic:  20/20      EV: 10    Int: 22    God:    Okawaru 69 (0)
+Gold:   582        SH:  0    Dex:  9    Spells: 11/23 levels left
+
+rFire    . . .     SeeInvis .   g - +5 blowgun
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   Q - +0 troll leather armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    ++........             W - amulet of magic regeneration
+HPRegen  0.67/turn              n - ring of stealth
+MPRegen  0.42/turn              K - +3 ring of intelligence
+
+@: no status effects
+A: large, unfitting armour, tough skin 1
+a: Heroism, Renounce Religion
+
+
+You are on level 9 of the Dungeon.
+You worship Okawaru.
+Okawaru is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 10 of its levels.
+You have also visited: Sewer.
+
+You have collected 582 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of draining
+ b - a +0 spear
+ c - a +0 trident
+ d - a +2 hand axe
+ e - a +0 dire flail of protection
+ f - a +0 quarterstaff
+ g - a +5 blowgun (weapon)
+ h - a +0 hunting sling
+ s - a runed morningstar
+ t - a +1 dagger of venom
+ H - a cursed +2 flail
+Missiles
+ j - 10 javelins
+ p - 172 stones
+ r - 39 poisoned needles
+ v - 98 arrows
+ I - 8 large rocks (quivered)
+ J - 4 tomahawks
+ L - 92 sling bullets
+Armour
+ Q - a +0 troll leather armour (worn)
+Jewellery
+ n - a ring of stealth (left hand)
+ E - an uncursed ring of fire
+ F - an uncursed ring of positive energy
+ K - a +3 ring of intelligence (right hand)
+ N - a +2 ring of strength
+ W - an amulet of magic regeneration (around neck)
+ Z - a ring of fire
+Wands
+ y - a wand of random effects (19)
+ D - a wand of iceblast (11)
+ O - a wand of digging (5)
+ P - a wand of polymorph (4)
+Scrolls
+ k - a scroll of amnesia
+ m - 6 scrolls of teleportation
+ o - 4 scrolls of immolation
+ z - a scroll labeled ZONIZX BAICH
+ A - 4 scrolls of remove curse
+ S - a scroll labeled CIGOECW MOYGOF
+ V - a scroll labeled KODEASCHYEST
+ X - a scroll labeled BIHYAT PAUPP
+ Y - a scroll labeled ZAOMIU ZODDU
+Potions
+ i - a potion of flight
+ l - a potion of cancellation
+ u - 3 potions of curing
+ w - a potion of resistance
+ x - a potion of berserk rage
+ B - 2 potions of heal wounds
+ C - a potion of brilliance
+ G - a potion of agility
+ M - a glowing brown potion
+ T - a glowing sapphire potion
+ U - a potion of ambrosia
+Comestibles
+ q - 3 chunks of flesh
+ R - 11 rations
+
+
+   Skills:
+ - Level 9.0 Fighting
+ - Level 2.4 Short Blades
+ - Level 2.3(3.0) Maces & Flails
+ - Level 5.0(5.4) Polearms
+ - Level 3.1(4.9) Staves
+ - Level 1.7(2.6) Slings
+ + Level 3.9(4.3) Throwing
+ + Level 0.2 Armour
+ - Level 2.6 Dodging
+ - Level 1.4 Stealth
+ - Level 7.0 Spellcasting
+ - Level 2.0 Charms
+ - Level 5.0 Necromancy
+ + Level 5.6 Invocations
+ - Level 2.3 Evocations
+
+
+You have 11 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      1%          1    0
+b - Animate Skeleton      Necr           N/A          1%          1    0
+c - Vampiric Draining     Necr           29 (200)     4%          3    0
+d - Regeneration          Chrm/Necr      23 (200)     8%          3    0
+e - Animate Dead          Necr           N/A          13%         4    96
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7             Orc (0/2) D:9
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:8 (
+
+Annotations:
+D:3 exclusion: goblin, Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+You now have 582 gold pieces (gained 8).
+Autopickup is now off.
+Done exploring.
+Search for what [Enter for "d:7", or ? for help]? .
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Search for what [Enter for "."]? .
+You swap places.
+Your deep elf mage skeleton crumbles into dust!
+Things that are here:
+a +1 dagger of venom; a +0 robe
+t - a +1 dagger of venom
+Save game and exit? 
+Welcome back, Tuenorch the Ogre Necromancer.
+Okawaru says: Bring me glory in combat!
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+                      ###                #####
+                      #.#                #.#.######
+                      #.##################.........
+                      #.##...................######
+ ###################  #.##.###############.#.#
+ #.................#  #.##.#             #.#.#   ##
+ #.########......#.#  #.##.#             #.#.#   #.
+ #.########......#.####.##.###############.#.#####.
+ #..[..........................<...................
+ #.#.######......#.####.##.####.##########..######.
+ #Z#.#    #......#.#  #.##.#  #[#        #.........
+ #.#.######......#.#  #.##.#  #.#        #...#####.
+ #.#.............#.####.##.####.##########.........
+ #.#.........###.#.##....................#...#####.
+ #.#Z.......@# #.#.##.#.##.####.#####.####...#   #.
+ #.#.........# #.#.##.#....#  #.#   #.#  #...#   #.
+ #.#.#######.# #.#.##.#....#  #.#   #.# ##...#   #.
+ #.#.#######.###.#.##.#....####.#####.###....#####.
+ #.#...............................................
+ #.#######.#.##########...###.#.##.##.........####.
+ #.#######.#.###.....########.#.##.................
+ #>............#.....#...........#.######.#..#####.
+ #.#######.....#)._..########.#....######.#..##....
+##?#######.....#.....# ######..........^...........
+#........#....##.....# #...........................
+#........#.#######'### #...##.#....#.###...........
+#........#.#   #8..[8# #...##.#....#.# #..#.###.##.
+##########.#   #.....###....#.#....#.###..#.###.##.
+         #.#   #..>..)<.....#.#...##.##............
+         #.#   #....).##........................##.
+         #.#   #..............#..#.#.##............
+         #.#   #..............#..#.#.##.........##.
+         #.#   #...).[..##....#..#...##............
+         #.#####....)...##....#.###..##.........##.
+         #.##...........#####'####........#..##.##.
+       ###.##...........##.......#.#.##)..#..##.##.
+    ####.............##.##.#...#.#.....[..#..##.##.
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A deep elf mage (D:9)
+  2 cyclopes
+  A troll (D:9)
+  A wyvern (D:8)
+  A hungry ghost (D:7)
+  Menkaure (D:4)
+  Edmund (D:6)
+  2 ice beasts
+  4 ogres
+  A sky beast (D:5)
+  2 centaurs
+  A big kobold (Sewer)
+  4 bullfrogs
+  3 scorpions
+  3 wights (D:9)
+  5 killer bees (D:9)
+  2 howler monkeys (D:4)
+  6 crimson imps
+  4 orc priests
+  4 hounds
+  5 orc wizards
+  A bullfrog skeleton (D:5)
+  An iguana (D:7)
+  7 worker ants
+  A hound zombie (D:6)
+  2 hound skeletons
+  A gnoll (D:1)
+  8 adders
+  3 river rats (Sewer)
+  3 shadow imps
+  An ooze (D:1)
+  An adder skeleton (D:4)
+  4 worms
+  3 dart slugs (D:4)
+  5 leopard geckos
+  27 orcs
+  A ball python (D:1)
+  7 giant cockroaches
+  4 goblins
+  11 hobgoblins
+  5 jackals
+  9 kobolds
+  3 quokkas
+  12 bats
+  9 frilled lizards
+  A jackal zombie (D:5)
+  A quokka skeleton (D:9)
+  11 rats
+196 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hungry ghost (D:9)
+  An ogre (D:9)
+  A water moccasin zombie (D:6)
+  A wyvern skeleton (D:9)
+  A water moccasin skeleton (D:7)
+  A wight (D:9)
+  An orc priest (D:4)
+  A bullfrog skeleton (D:9)
+  A centaur skeleton (D:4)
+  An iguana (D:9)
+  An orc wizard (D:9)
+  A shadow imp (D:7)
+  3 adder skeletons
+  A leopard gecko (D:6)
+  4 orcs
+  A giant cockroach (D:6)
+  2 goblins (D:1)
+  A jackal (D:9)
+  2 frilled lizards
+  A kobold (D:1)
+  A leopard gecko zombie (D:6)
+  A rat (D:1)
+29 creatures vanquished.
+
+Grand Total: 225 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tuenorch the Ogre Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+    44 | D:1      | Learned a level 1 spell: Animate Skeleton
+   272 | D:1      | Reached skill level 1 in Fighting
+   279 | D:1      | Reached XP level 2. HP: 19/27 MP: 0/5
+   507 | D:1      | Reached skill level 1 in Maces & Flails
+   738 | D:1      | Reached XP level 3. HP: 29/35 MP: 0/7
+   764 | D:1      | Learned a level 3 spell: Vampiric Draining
+   891 | D:1      | Reached skill level 2 in Fighting
+  1266 | D:1      | Reached skill level 1 in Polearms
+  1279 | D:1      | Reached XP level 4. HP: 33/42 MP: 4/9
+  1289 | D:1      | Learned a level 3 spell: Regeneration
+  1478 | D:2      | Found a glowing golden altar of the Shining One.
+  2234 | D:2      | Reached skill level 1 in Charms
+  2568 | D:2      | Reached XP level 5. HP: 52/52 MP: 11/11
+  2850 | D:2      | Found a deep blue altar of Sif Muna.
+  2888 | D:3      | Reached skill level 3 in Fighting
+  3206 | D:3      | Found a glowing drain.
+  3274 | D:3      | Learned a level 4 spell: Animate Dead
+  3275 | Sewer    | Entered a sewer
+  3579 | Sewer    | Noticed a big kobold
+  3618 | Sewer    | Killed a big kobold
+  3618 | Sewer    | Reached skill level 4 in Fighting
+  3618 | Sewer    | Reached XP level 6. HP: 58/63 MP: 5/12
+  3733 | Sewer    | Found a glowing silver altar of Zin.
+  4505 | D:3      | Noticed Sigmund
+  4683 | D:4      | Noticed Menkaure
+  4846 | D:4      | Reached skill level 1 in Throwing
+  5019 | D:4      | Reached skill level 5 in Fighting
+  5139 | D:4      | Killed Menkaure
+  5139 | D:4      | Reached skill level 5 in Spellcasting
+  5139 | D:4      | Reached XP level 7. HP: 45/72 MP: 9/15
+  5674 | D:4      | Reached skill level 1 in Short Blades
+  5709 | D:4      | Reached skill level 6 in Fighting
+  6265 | D:5      | Entered Level 5 of the Dungeon
+  6907 | D:5      | Reached XP level 8. HP: 58/84 MP: 11/16
+  7865 | D:5      | Reached skill level 7 in Fighting
+  7865 | D:5      | Reached skill level 1 in Evocations
+  8762 | D:6      | Noticed Edmund
+  8780 | D:6      | Killed Edmund
+  8880 | D:6      | Reached skill level 8 in Fighting
+  9660 | D:7      | Found a shimmering altar of Xom.
+  9661 | D:7      | Found a shimmering altar of Xom.
+  9661 | D:7      | Found a shimmering altar of Xom.
+  9661 | D:7      | Found a shimmering altar of Xom.
+  9661 | D:7      | Found a shimmering altar of Xom.
+  9661 | D:7      | Found a shimmering altar of Xom.
+  9714 | D:7      | Found a shimmering altar of Xom.
+  9779 | D:7      | Noticed a meliai
+  9779 | D:7      | a hog changed into a meliai
+  9814 | D:7      | Noticed a hippogriff
+  9814 | D:7      | a meliai changed into a hippogriff
+  9849 | D:7      | Noticed a cyclops
+  9869 | D:7      | Killed a cyclops
+  9869 | D:7      | Reached XP level 9. HP: 69/96 MP: 15/17
+ 10193 | D:7      | Noticed a merfolk
+ 10311 | D:7      | Found a staircase to the Ecumenical Temple.
+ 10317 | Temple   | Entered the Ecumenical Temple
+ 10370 | Temple   | Became a worshipper of Warmaster Okawaru
+ 10694 | D:7      | Noticed a death drake
+ 10805 | D:7      | Reached skill level 5 in Polearms
+ 11051 | D:7      | Noticed a water nymph
+ 11147 | D:7      | Entered wizard mode.
+ 11212 | D:7      | a water nymph changed into a slime creature
+ 11265 | D:8      | Reached skill level 1 in Staves
+ 11346 | D:8      | Reached skill level 9 in Fighting
+ 11435 | D:7      | Noticed a tyrant leech
+ 11572 | D:8      | Found a burning altar of Makhleb.
+ 11614 | D:8      | Noticed a cyclops
+ 11722 | D:8      | Found Ohelakki's Antique Weapon Shoppe.
+ 11794 | D:8      | Reached * piety under Okawaru
+ 11876 | D:8      | Found a shattered altar of Ashenzari.
+ 11894 | D:8      | Found a white marble altar of Elyvilon.
+ 12113 | D:8      | Killed a cyclops
+ 12113 | D:8      | Reached skill level 1 in Slings
+ 12113 | D:8      | Reached XP level 10. HP: 85/107 MP: 13/20
+ 12251 | D:9      | Found a staircase to the Orcish Mines.
+ 12391 | D:9      | Reached skill level 1 in Invocations
+ 12703 | D:9      | Noticed a deep elf mage
+ 12799 | D:9      | Reached ** piety under Okawaru
+ 12799 | D:9      | Reached skill level 5 in Necromancy
+ 13316 | D:9      | Found a roughly hewn altar of Beogh.
+ 13804 | D:9      | Killed a deep elf mage
+ 13804 | D:9      | Reached skill level 5 in Invocations
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  1     2     4  5  6  8  9    |  9.0
+Maces & Flails |     1                    2    |  2.3
+Spellcasting   |     3     4     5        6  7 |  7.0
+Polearms       |        1     2  3     4  5    |  5.0
+Charms         |           1           2       |  2.0
+Throwing       |                 1     2  3    |  3.9
+Short Blades   |                    1  2       |  2.4
+Evocations     |                       2       |  2.3
+Necromancy     |                       4     5 |  5.0
+Dodging        |                       2       |  2.6
+Staves         |                          3    |  3.1
+Slings         |                          1    |  1.7
+Invocations    |                             5 |  5.6
+Armour         |                               |  0.2
+Stealth        |                               |  1.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Club              |     6 |       |       |       ||     6
+       Spear             |    33 |   142 |  4138 |     2 ||  4315
+       Trident           |       |    12 |     2 |    23 ||    37
+       Dagger            |       |       |    22 |    10 ||    32
+       Quarterstaff      |       |       |  8000 |    26 ||  8026
+       Dire flail        |       |       |  4014 |    25 ||  4039
+       War axe           |       |       |  4000 |       ||  4000
+ Fire: Hunting sling     |       |    60 |    67 |    23 ||   150
+       Blowgun           |       |    20 |   172 |    38 ||   230
+Throw: Stone             |       |     2 |     3 |       ||     5
+       Large rock        |       |       |       |     4 ||     4
+       Javelin           |       |       |       |     1 ||     1
+ Cast: Pain              |    51 |    70 |    96 |    76 ||   293
+       Animate Skeleton  |    11 |    21 |    21 |    10 ||    63
+       Vampiric Draining |       |     5 |     3 |     5 ||    13
+       Regeneration      |       |     3 |     5 |    11 ||    19
+       Animate Dead      |       |       |       |     1 ||     1
+Invok: Heroism           |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     8 |       ||     8
+  Use: Potion            |       |     5 |       |     4 ||     9
+       Scroll            |       |     3 |    13 |     4 ||    20
+ Stab: Sleeping          |     1 |     1 |     2 |       ||     4
+       Distracted        |       |       |     1 |     1 ||     2
+  Eat: Chunk             |     1 |    13 |    15 |     7 ||    36
+       Ration            |       |       |     3 |       ||     3
+Armor: Robe              |    16 |    24 |   551 |    15 ||   606
+       Skin              |       |     7 |       |   211 ||   218
+       Troll leather arm |       |       |       |     6 ||     6
+Dodge: Dodged            |    23 |    66 |  9883 |    59 || 10031
+

@@ -1,0 +1,134 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17654814885722913052
+
+0 Gakaewul the Grand Master (level 1, 11/11 HPs) *WIZ*
+             Began as a Vine Stalker Assassin on Sept 11, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:14 (9 turns).
+
+Gakaewul the Grand Master (Vine Stalker Assassin)      Turns: 9, Time: 00:00:15
+
+Health: 11/11      AC:  3    Str: 13    XL:     1   Next: 0%
+Magic:  2/2        EV: 11    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: fangs 2, magic shield, antimagic bite, no potion heal 3, rot immunity
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 1.7 Fighting
+ + Level 1.7 Short Blades
+ + Level 1.7 Throwing
+ + Level 0.7 Dodging
+ + Level 4.8 Stealth
+ O Level 27 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which skill (by name)? unarm
+Unarmed Combat
+To what level? 27
+Increased Unarmed Combat to skill level 27.0.
+You swing at nothing.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-handed.
+You swing at nothing.
+You swing at nothing.
+You swing at nothing.
+You swing at nothing.
+You swing at nothing.
+You swing at nothing.
+You swing at nothing.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..
+...
+ ..777777777
+  7..PP..PP7
+  7...P..PP7
+  7P...PP..7
+  7PP...P..7
+  7..P.@.PP7
+  7.)PP...P7
+  7PP..P...7
+  7PP..PP..7
+  777777777..
+           ...
+            ..#
+             ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gakaewul the Vine Stalker Assassin began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 11/11 MP: 2/2
+     0 | D:1      | Entered wizard mode.
+     9 | D:1      | Quit the game
+

@@ -1,0 +1,335 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12310858674110516113
+
+4774 Anolun the Martial Artist (level 10, 49/49 HPs) *WIZ*
+             Began as a Vine Stalker Transmuter on Sept 1, 2019.
+             Quit the game on level 4 of the Shoals.
+             The game lasted 00:14:14 (678 turns).
+
+Anolun the Martial Artist (Vine Stalker Transmuter)  Turns: 678, Time: 00:14:14
+
+Health: 49/49      AC:  5    Str: 13    XL:     10   Next: 47%
+Magic:  18/18      EV: 12    Int: 16    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 13/19 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   e - +0 ring mail
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.56/turn              (no ring)
+MPRegen  0.16/turn              (no ring)
+
+@: no status effects
+A: fangs 3, regeneration 1, magic shield, antimagic bite, no potion heal 3, rot
+immunity
+a: no special abilities
+
+
+You were on level 4 of the Shoals.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Missiles
+ a - 12 arrows
+Armour
+ b - a +0 robe
+ e - a +0 ring mail (worn)
+Potions
+ c - 9 potions of experience
+Comestibles
+ d - a ration
+
+
+   Skills:
+ - Level 3.8 Fighting
+ - Level 3.7 Armour
+ - Level 3.8 Dodging
+ - Level 1.0 Stealth
+ + Level 14.0 Unarmed Combat
+ - Level 5.0 Spellcasting
+ - Level 4.9 Transmutations
+ - Level 4.5 Poison Magic
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           19 (50)      4%          1    0
+b - Sticks to Snakes      Tmut           19 (100)     6%          2    19
+c - Spider Form           Tmut/Pois      19 (200)     14%         3    69
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ice Form                 Ice/Tmut       11 (100)     75%         4    169
+ Blade Hands              Tmut           19 (200)     75%         5    319
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Shops:
+Shoals:4 =!(
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+Your natural rate of healing is unusually fast.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+The merfolk is devoured by a tear in reality.
+Your Unarmed Combat skill increases to level 14!
+A merfolk siren comes into view. It is wielding a +0 spear.
+A water elemental comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a merfolk, wielding a +0 trident (translocational energy)
+The floor.
+The merfolk is devoured by a tear in reality.
+The merfolk siren shouts!
+The merfolk throws a throwing net. The throwing net hits you. You become
+entangled in the net!
+The merfolk siren chants a haunting song.
+You resist with almost no effort.
+You hear a shout!
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 168 monsters.
+You struggle against the net.
+You tear a large gash into the net.
+You shred the net and break free!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+~~~~~~~..##...~~~~~~~~~~~~~~
+~~~~~~~.####..~~~~~~~~~~~~~~~
+~~~~~~~~.# #.%.~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~.#####....~~~~~~~~~~~~~~~~~
+~~~~~~~~..#  ###....~~~~~~~~~~~~~~#
+~~~~~~~~~.#    ##.....~~~~~~~~~~~~#
+~~~~~~~~~.##    ####..~~~~~~~~~~~~#
+~~~~~~~~~..#      #..~.~~~~~~~~~~~#
+~~~~~~~~~~.########.~..~~~~~~~~~..#
+ ~~~~~~~~~.........~~~..~~~~~~~...#
+ ~~~~~~~~~~.......~~~...~~..~~..###
+ ~~~#######~.........<..........#
+  ~#      ##.####...............#
+           ### ###......%.......#
+            ####...~.........####
+            #....~~~..........####
+            #.~...~~~~...#..~~...#      ....
+            #.~....~....##...~~..#      ....
+            #~~~.......##......<.#     ....
+            #~~~~~............~~.##    ...
+           #~~~~~~...........~~~..#   ..#
+           ~~~~~~~......~~~~.~~~..####.#
+          ~~~~~~~~~~....~~~~~~~~~...(.#
+                   ~....~~~~~~~~....@##
+                   ~~~~~~~~~~~~.#####.#
+                         ~~~~~~.     .0.
+                         ~~~~~~~     .0.(.
+                          ~~~~~~     .0.....
+                          ~~~..      .......
+                                     .......
+                                     .......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (others)
+  A kraken (Shoals:4)
+  2 merfolk javelineers (Shoals:4)
+  A merfolk aquamancer (Shoals:4)
+  A satyr (Shoals:4)
+  7 sea snakes (Shoals:4)
+  3 harpies (Shoals:4)
+  3 fauns (Shoals:4)
+  A cyclops (Shoals:4)
+  2 manticores (Shoals:4)
+  A merfolk siren (Shoals:4)
+  5 water nymphs (Shoals:4)
+  8 merfolk (Shoals:4)
+  A wind drake (Shoals:4)
+  2 snapping turtles (Shoals:4)
+  3 water elementals (Shoals:4)
+  A centaur (Shoals:4)
+  46 gnolls (D:1)
+88 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Anolun the Vine Stalker Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Stealth
+     1 | D:1      | Reached XP level 2. HP: 17/17 MP: 6/6
+     5 | D:1      | Learned a level 2 spell: Sticks to Snakes
+     5 | D:1      | Reached skill level 5 in Spellcasting
+     5 | D:1      | Reached XP level 3. HP: 21/21 MP: 6/10
+    10 | D:1      | Learned a level 3 spell: Spider Form
+    10 | D:1      | Reached skill level 5 in Unarmed Combat
+    10 | D:1      | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [Vine Stalker growth]
+    10 | D:1      | Reached XP level 4. HP: 25/25 MP: 7/12
+   106 | D:1      | Reached XP level 5. HP: 29/29 MP: 13/13
+   149 | D:1      | HP: 1/29 [gnoll/+0 spear (2)]
+   150 | D:1      | Reached XP level 6. HP: 1/33 MP: 0/14
+   150 | D:1      | Reached skill level 6 in Unarmed Combat
+   151 | D:1      | Slain by a gnoll
+                  | ... wielding a +0 spear
+                  | (7 damage)
+   178 | Shoals:4 | Entered Level 4 of the Shoals
+   178 | Shoals:4 | Noticed a sea snake
+   178 | Shoals:4 | Noticed a faun
+   178 | Shoals:4 | Noticed a faun
+   178 | Shoals:4 | Banished a sea snake
+   178 | Shoals:4 | Reached XP level 7. HP: 26/37 MP: 3/15
+   178 | Shoals:4 | Banished a faun
+   178 | Shoals:4 | Reached skill level 7 in Unarmed Combat
+   178 | Shoals:4 | Banished a faun
+   178 | Shoals:4 | Gained mutation: You have razor-sharp teeth. [Vine Stalker
+                  | growth]
+   178 | Shoals:4 | Reached XP level 8. HP: 30/42 MP: 3/16
+   178 | Shoals:4 | Noticed a faun
+   179 | Shoals:4 | Reached XP level 7. HP: 42/737 MP: 3/15
+   179 | Shoals:4 | Reached XP level 6. HP: 42/733 MP: 3/14
+   179 | Shoals:4 | Reached XP level 5. HP: 42/729 MP: 3/13
+   179 | Shoals:4 | Banished a faun
+   179 | Shoals:4 | Reached XP level 6. HP: 33/33 MP: 3/14
+   182 | Shoals:4 | Noticed a sea snake
+   182 | Shoals:4 | Noticed a harpy
+   182 | Shoals:4 | Noticed a harpy
+   183 | Shoals:4 | Banished a harpy
+   183 | Shoals:4 | Reached skill level 8 in Unarmed Combat
+   183 | Shoals:4 | Reached XP level 7. HP: 37/37 MP: 4/15
+   183 | Shoals:4 | Banished a sea snake
+   183 | Shoals:4 | Noticed a cyclops
+   183 | Shoals:4 | Noticed a merfolk javelineer
+   183 | Shoals:4 | Noticed a water elemental
+   184 | Shoals:4 | Noticed a satyr
+   184 | Shoals:4 | Banished a water elemental
+   184 | Shoals:4 | Reached XP level 8. HP: 32/42 MP: 3/16
+   184 | Shoals:4 | Banished a satyr
+   184 | Shoals:4 | Reached skill level 9 in Unarmed Combat
+   186 | Shoals:4 | Banished a harpy
+   187 | Shoals:4 | Banished a cyclops
+   188 | Shoals:4 | Banished a merfolk javelineer
+   188 | Shoals:4 | Reached skill level 10 in Unarmed Combat
+   188 | Shoals:4 | Reached XP level 9. HP: 36/45 MP: 4/17
+   199 | Shoals:4 | Found Leygg's Armour Shop.
+   213 | Shoals:4 | Noticed a merfolk impaler
+   215 | Shoals:4 | Banished a merfolk impaler
+   216 | Shoals:4 | Noticed a manticore
+   217 | Shoals:4 | Banished a manticore
+   217 | Shoals:4 | Noticed a merfolk javelineer
+   219 | Shoals:4 | Banished a merfolk javelineer
+   219 | Shoals:4 | Reached skill level 11 in Unarmed Combat
+   230 | Shoals:4 | Noticed a kraken
+   231 | Shoals:4 | Banished a kraken
+   231 | Shoals:4 | Reached XP level 10. HP: 48/49 MP: 9/18
+   270 | Shoals:4 | Noticed a water nymph
+   270 | Shoals:4 | Noticed a water nymph
+   270 | Shoals:4 | Noticed an alligator snapping turtle
+   271 | Shoals:4 | Reached XP level 9. HP: 49/745 MP: 13/17
+   271 | Shoals:4 | Reached XP level 8. HP: 49/742 MP: 13/16
+   271 | Shoals:4 | Reached XP level 7. HP: 49/737 MP: 13/15
+   271 | Shoals:4 | Reached XP level 6. HP: 49/733 MP: 13/14
+   271 | Shoals:4 | Reached XP level 5. HP: 49/729 MP: 13/13
+   271 | Shoals:4 | Banished a centaur
+   271 | Shoals:4 | Banished an alligator snapping turtle
+   271 | Shoals:4 | Reached skill level 12 in Unarmed Combat
+   271 | Shoals:4 | Reached XP level 6. HP: 33/33 MP: 14/14
+   271 | Shoals:4 | Reached XP level 7. HP: 37/37 MP: 15/15
+   271 | Shoals:4 | Noticed a sea snake
+   272 | Shoals:4 | Banished a water nymph
+   272 | Shoals:4 | Banished a sea snake
+   272 | Shoals:4 | Reached XP level 8. HP: 42/42 MP: 16/16
+   272 | Shoals:4 | Banished a water nymph
+   283 | Shoals:4 | Found Enaadose's Distillery.
+   284 | Shoals:4 | Noticed a merfolk
+   285 | Shoals:4 | Noticed a sea snake
+   286 | Shoals:4 | Noticed a merfolk
+   287 | Shoals:4 | Banished a merfolk
+   288 | Shoals:4 | Banished a sea snake
+   290 | Shoals:4 | Noticed a water nymph
+   291 | Shoals:4 | Banished a water nymph
+   292 | Shoals:4 | Banished a merfolk
+   292 | Shoals:4 | Reached XP level 9. HP: 22/45 MP: 7/17
+   294 | Shoals:4 | Noticed a water nymph
+   295 | Shoals:4 | Banished a water nymph
+   297 | Shoals:4 | Noticed a merfolk
+   300 | Shoals:4 | Banished a merfolk
+   304 | Shoals:4 | Noticed a merfolk
+   306 | Shoals:4 | Banished a merfolk
+   312 | Shoals:4 | Found Zysk's Jewellery Shop.
+   314 | Shoals:4 | Noticed a wind drake
+   315 | Shoals:4 | Banished a wind drake
+   317 | Shoals:4 | Noticed a sea snake
+   318 | Shoals:4 | Banished a sea snake
+   318 | Shoals:4 | Reached skill level 13 in Unarmed Combat
+   318 | Shoals:4 | Noticed a merfolk
+   320 | Shoals:4 | Banished a merfolk
+   327 | Shoals:4 | Noticed a merfolk siren
+   329 | Shoals:4 | Banished a merfolk siren
+   339 | Shoals:4 | Noticed a merfolk
+   339 | Shoals:4 | Noticed a manticore
+   340 | Shoals:4 | Noticed a harpy
+   341 | Shoals:4 | Banished a harpy
+   341 | Shoals:4 | Noticed a merfolk
+   342 | Shoals:4 | Banished a manticore
+   344 | Shoals:4 | Banished a merfolk
+   344 | Shoals:4 | Reached XP level 10. HP: 40/49 MP: 11/18
+   473 | Shoals:4 | Found Perydusm's Weapon Shoppe.
+   595 | Shoals:4 | Entered Level 4 of the Shoals
+   595 | Shoals:4 | Noticed a sea snake
+   595 | Shoals:4 | Banished a sea snake
+   634 | Shoals:4 | Noticed a sea snake
+   635 | Shoals:4 | Banished a sea snake
+   638 | Shoals:4 | Noticed a water nymph
+   639 | Shoals:4 | Banished a water nymph
+   663 | Shoals:4 | Noticed a merfolk aquamancer
+   669 | Shoals:4 | Banished a merfolk aquamancer
+   670 | Shoals:4 | Noticed a merfolk impaler
+   672 | Shoals:4 | Reached skill level 14 in Unarmed Combat
+   673 | Shoals:4 | Noticed a merfolk siren
+   678 | Shoals:4 | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  3                            |  3.8
+Dodging        |  3                            |  3.8
+Stealth        |  5  8                         |  1.0
+Spellcasting   |     5                         |  5.0
+Transmutations |     4                         |  4.9
+Armour         |        3                      |  3.7
+Unarmed Combat |        5    12  8  7 10 13 14 | 14.0
+Poison Magic   |        4                      |  4.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+  Use: Potion            |     3 |       |       |       ||     3
+Armor: Ring mail         |       |     4 |       |       ||     4
+Dodge: Dodged            |       |    15 |     7 |     1 ||    23
+

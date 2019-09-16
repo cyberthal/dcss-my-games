@@ -1,0 +1,126 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5476456176124290010
+
+18 Kofieppe the Ducker (level 2, 22/22 HPs) *WIZ*
+             Began as a Human Gladiator on Aug 8, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:42 (16 turns).
+
+Kofieppe the Ducker (Human Gladiator)                 Turns: 16, Time: 00:00:43
+
+Health: 22/22      AC:  4    Str: 14    XL:     2   Next: 90%
+Magic:  2/2        EV: 13    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quite poisoned (22 -> 12)
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 3.3 Long Blades
+ + Level 2.1 Throwing
+ + Level 3.3 Dodging
+
+
+You had one spell level left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You feel sick.
+The adder hisses angrily.
+The adder bites you but does no damage.
+You barely miss the adder.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder closely misses you.
+You miss the adder. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+The adder completely misses you.
+You hit the adder but do no damage.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder closely misses you.
+You slash the adder!
+The adder is heavily wounded.
+The adder misses you. The adder bites you.
+Die? 
+Thought so.
+You are more poisoned.
+The adder poisons you!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#######   ######
+#K#....   ...?#K
+###..8.###.8..##
+#0.............0
+#~...."........~
+#~~...%S......~~
+#~~~~.0@00..~~~~
+#~~~~~0~.00~~~~~
+#~~~~~00000~0~~~
+################
+
+
+You could see an adder and a kobold.
+
+Vanquished Creatures
+  2 adders (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kofieppe the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+    15 | D:1      | Slain by an adder (2 damage)
+    16 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Long sword        ||     9
+Armor: Leather armour    ||     1
+Dodge: Dodged            ||     5
+Rpst.: Long sword        ||     1
+

@@ -1,0 +1,240 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18369809732788401307
+
+56 Nuhidgh Liopp the Gusty (level 3, 20/20 HPs)
+             Began as a Tengu Air Elementalist on Aug 25, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:22:46 (2879 turns).
+
+Nuhidgh Liopp the Gusty (Tengu Air Elementalist)    Turns: 2879, Time: 00:22:47
+
+Health: 20/20      AC:  2    Str:  8    XL:     3   Next: 97%
+Magic:  7/7        EV: 13    Int: 15    God:    
+Gold:   24         SH:  0    Dex: 15    Spells: 0/6 levels left
+
+rFire    . . .     SeeInvis .   a - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   f - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 24 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger (weapon)
+ b - a +0 hunting sling
+Missiles
+ e - 49 stones
+ l - 10 javelins (quivered)
+Armour
+ f - a +0 robe (worn)
+ r - a +0 scale mail
+Jewellery
+ g - an uncursed ring of ice {unknown}
+Scrolls
+ d - a scroll of blinking
+ h - a scroll of noise {unknown}
+ i - 2 scrolls of remove curse {unknown}
+ j - a scroll of fear {unknown}
+ k - a scroll of teleportation {unknown}
+ m - a scroll of enchant armour {unknown}
+ q - a scroll of amnesia {unknown}
+Potions
+ n - a potion of agility {unknown}
+ o - a potion of ambrosia
+Comestibles
+ c - 3 rations
+ p - 3 chunks of flesh
+
+
+   Skills:
+ - Level 1.1 Fighting
+ - Level 2.1 Short Blades
+ + Level 0.5 Slings
+ - Level 3.0 Dodging
+ - Level 2.0 Stealth
+ - Level 2.0 Spellcasting
+ - Level 2.2 Conjurations
+ - Level 4.0 Air Magic
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       ##..         6%          1    #......
+b - Swiftness             Chrm/Air       #.......     14%         2    ###....
+c - Static Discharge      Conj/Air       ##......     19%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Airstrike                Air            ##........   38%         4    #####..
+ Lightning Bolt           Conj/Air       ##........   86%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 exclusion: adder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Things that are here:
+a +0 scale mail; an orc corpse
+Autopickup is now on.
+Autopickup is now off.
+Autopickup is now on.
+You butcher the orc corpse.
+p - 4 chunks of flesh
+Things that are here:
+a +0 scale mail; an orc skeleton
+r - a +0 scale mail
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Eating one of 4 chunks of flesh. You eat one of the 4
+chunks of flesh. This raw flesh tastes terrible.
+Your magical contamination has completely faded away.
+There is a stone staircase leading down here.
+You start resting.
+HP restored.
+Saving game... please wait.
+Welcome back, Nuhidgh Liopp the Tengu Air Elementalist.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+####...>......................# ##..)............#  #.###.#   #.#
+#........####.#######.........###..##'###'###+##.#  #.#...#   #.#
+#........#  #)####............#...##...#...#...#.#  #.#.#.#   #.#
+#........#  #.##...#.####..##...####...#~.~#..~#.#  #...#.#   #.#
+#........#  #....###..####....###  #...#~.~#.~~#.#  #.#####   #.#
+#........#  ###### ##.......###    #...#~.~#~~~#.#  #.#       #.#
+#........#          #######.##     #...#~.~#0~.#.#########    #.#
+####)#####    #############..#     #...#~.~#0..#........>######.#
+   #.###      #..............#     #...#...#...#.####...........#
+   #.#.########..............##    #...........#......###########
+   #.#........'...............######...........#.######
+   #.#.########.............#......#...........#......#
+   #.#.#      #.............#......#...........#.####.#
+   #.#.#      #.....).......#......#.....<.....#.#  #.#
+   #.#.#      #.............#......#...........#.#  #.#
+   #.#.#      #.............#......#############.####.#
+   #.#.#      #.............#......#...........)......#
+   #.#.#      #.............#......#.###############..#
+   #...#      ##'##############..###.#   #.#       #..#
+   #############.#            ##.###.#   #.#   #####..#
+      #........%.#             #..##.#   #.#####......#
+      #.##############         ##.##.#   #.##)........#
+      #.#    #.......#          #..#.#####.##.##)####.#
+      #.#    #.......#          ##@#.......##.##.#  ###
+      #.#    #.......#           #...########.##.#
+      #.######.......#           #.#.#      #.##.#
+      #..............#           #.#.#      #.##.#
+      ########.......#           #.#.########.##.#
+             #.......#           #.#..........##.#
+             #.......#           #.#############.########
+             #.......#           #......................#
+             #.......#           ###############........#
+             #.......#                         #........#
+             ######.##                         #........#
+                  #.#                          #........#
+                  #.#                          #........#
+                  #.#                          #........#
+                  #.#                          #........#
+                  #.#                          #........#
+ ###########      #.#                          #........#
+ #.........#      #.#                          #........#
+ #.#######.#      #.#                          #........#
+ #.#     #.#      #.#                          ##########
+ #.#     #.########.#
+ #.#     #..........#
+ #.#     ############
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder (D:2)
+  An ooze (D:1)
+  A dart slug (D:2)
+  3 leopard geckos
+  2 orcs
+  2 bats
+  A giant cockroach (D:1)
+  5 goblins
+  6 hobgoblins
+  2 frilled lizards (D:1)
+  6 kobolds
+  5 rats (D:1)
+35 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nuhidgh Liopp the Tengu Air Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   107 | D:1      | Reached skill level 1 in Fighting
+   398 | D:1      | Reached XP level 2. HP: 16/16 MP: 4/6
+   441 | D:1      | Reached skill level 1 in Short Blades
+   875 | D:1      | Learned a level 2 spell: Swiftness
+  1027 | D:1      | Reached XP level 3. HP: 20/20 MP: 7/7
+  1473 | D:1      | Learned a level 3 spell: Static Discharge
+  2879 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Fighting       |  1       |  1.1
+Short Blades   |     2    |  2.1
+Dodging        |        3 |  3.0
+Conjurations   |        2 |  2.2
+Slings         |          |  0.5
+Stealth        |          |  2.0
+Spellcasting   |          |  2.0
+Air Magic      |          |  4.0
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||     8
+       Kick              ||     2
+ Fire: Hunting sling     ||    13
+Throw: Stone             ||     8
+       Javelin           ||     2
+ Cast: Shock             ||    56
+       Swiftness         ||     1
+  Use: Scroll            ||     2
+ Stab: Sleeping          ||     1
+  Eat: Chunk             ||     7
+Armor: Robe              ||     3
+Dodge: Dodged            ||    18
+

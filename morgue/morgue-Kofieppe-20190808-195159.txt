@@ -1,0 +1,131 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5196231166912148253
+
+46 Kofieppe the Poker (level 3, 27/27 HPs) *WIZ*
+             Began as a Human Gladiator on Aug 8, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:00 (28 turns).
+
+Kofieppe the Poker (Human Gladiator)                  Turns: 28, Time: 00:01:01
+
+Health: 27/27      AC:  4    Str: 14    XL:     3   Next: 92%
+Magic:  3/3        EV: 13    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   a - +0 trident
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quite poisoned (27 -> 17)
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 3.9 Polearms
+ + Level 2.1 Throwing
+ + Level 3.4 Dodging
+ + Level 0.3 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The adder is heavily wounded.
+The adder misses you. The adder bites you but does no damage.
+You closely miss the adder.
+The adder is heavily wounded.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you!
+You puncture the adder!
+You kill the adder!
+* * * LOW HITPOINT WARNING * * *
+You feel sick.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+Thought so.
+Found an inedible chunk of flesh.
+You see here an adder corpse.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #############
+##0000#.#~~~~##
+#00000#.#~~~~~#
+   #00#.#~0#
+      #@#
+      #<#
+      #.#
+      #.#
+     0#.#0
+    0~#.#~~
+   ~00#+#~~~
+  ####   ####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  5 adders (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kofieppe the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+    13 | D:1      | Reached XP level 3. HP: 17/27 MP: 3/3
+    26 | D:1      | HP: 1/27 [poisoned by an adder]
+    27 | D:1      | Succumbed to an adder's poison
+    28 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Trident           ||    27
+ Stab: Sleeping          ||     5
+Armor: Leather armour    ||     4
+Dodge: Dodged            ||    11
+

@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18286736404326165368
+
+3869 Cushrid the Unseen (level 10, 43/43 HPs) *WIZ*
+             Began as a Felid Conjurer on Sept 1, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:15:23 (35 turns).
+
+Cushrid the Unseen (Felid Conjurer)                   Turns: 35, Time: 00:15:23
+
+Health: 43/43      AC:  2    Str:  4    XL:     10   Next: 0%
+Magic:  19/20      EV: 29    Int: 19    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 18    Spells: 2/21 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++++++...             (no amulet)
+HPRegen  0.14/turn              (no ring)
+MPRegen  0.17/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 2, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Potions
+ a - 3 potions of experience
+Comestibles
+ b - a ration
+
+
+   Skills:
+ - Level 4.5 Fighting
+ + Level 12.8 Dodging
+ - Level 15.2 Stealth
+ - Level 4.7 Unarmed Combat
+ - Level 6.2 Spellcasting
+ - Level 8.7 Conjurations
+ - Level 10.1 Hexes
+ + Level 8.9 Translocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      1%          1    0
+b - Searing Ray           Conj           38 (50)      1%          2    0
+c - Iskenderun's Mystic   Conj           38 (100)     3%          4    133
+d - Dazzling Spray        Conj/Hex       41 (50)      1%          3    33
+e - Fulminant Prism       Conj/Hex       41 (200)     2%          4    133
+f - Force Lance           Conj/Tloc      39 (100)     3%          4    133
+g - Beastly Appendage     Tmut           5 (50)       11%         1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Cast which spell? (? or * to list) 
+Okay, then.
+Enter Wizard Command (? - help): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Memorise which spell? 
+Memorise Beastly Appendage, consuming 1 spell level and leaving 2? 
+Spell assigned to 'g'.
+Cast which spell? (? or * to list) 
+Okay, then.
+Enter Wizard Command (? - help): 
+Healing.
+Cast which spell? (? or * to list) 
+You grow a pair of large bovine horns.
+Your transformation is almost over.
+Your horns disappear.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #####
+##...##
+#...@.###
+#..<....#
+##...###...#
+ #####   ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Cushrid the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Dodging
+     1 | D:1      | Reached skill level 5 in Stealth
+     1 | D:1      | Reached XP level 2. HP: 11/11 MP: 4/7
+     5 | D:1      | Learned a level 2 spell: Searing Ray
+     5 | D:1      | Reached skill level 8 in Stealth
+     5 | D:1      | Reached XP level 3. HP: 18/18 MP: 5/9
+     6 | D:1      | Reached skill level 10 in Dodging
+     6 | D:1      | Reached skill level 11 in Stealth
+     6 | D:1      | Reached XP level 4. HP: 22/22 MP: 5/10
+     7 | D:1      | Reached XP level 5. HP: 25/25 MP: 5/14
+    13 | D:1      | Learned a level 4 spell: Iskenderun's Mystic Blast
+    17 | D:1      | Learned a level 3 spell: Dazzling Spray
+    22 | D:1      | Learned a level 4 spell: Fulminant Prism
+    22 | D:1      | Reached skill level 12 in Stealth
+    22 | D:1      | Reached skill level 5 in Hexes
+    22 | D:1      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+    22 | D:1      | Reached XP level 6. HP: 28/28 MP: 8/16
+    23 | D:1      | Reached skill level 13 in Stealth
+    23 | D:1      | Reached XP level 7. HP: 33/33 MP: 8/17
+    29 | D:1      | Learned a level 4 spell: Force Lance
+    29 | D:1      | Reached XP level 8. HP: 36/36 MP: 9/18
+    30 | D:1      | Reached skill level 14 in Stealth
+    30 | D:1      | Reached skill level 10 in Hexes
+    30 | D:1      | Reached XP level 9. HP: 39/39 MP: 9/19
+    31 | D:1      | Reached skill level 15 in Stealth
+    31 | D:1      | Reached XP level 10. HP: 43/43 MP: 10/20
+    33 | D:1      | Learned a level 1 spell: Beastly Appendage
+    35 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Dodging        |  5  7 10    11 12          | 12.8
+Stealth        |  5  8 11    12 13    14 15 | 15.2
+Spellcasting   |  3        6                |  6.2
+Conjurations   |  4        6     7  8       |  8.7
+Fighting       |     3           4          |  4.5
+Unarmed Combat |     3           4          |  4.7
+Hexes          |              5  6  8 10    | 10.1
+Translocations |                    4  7  8 |  8.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+ Cast: Beastly Appendage |       |       |       |     1 ||     1
+ Abil: End Transformatio |       |       |       |     1 ||     1
+  Use: Potion            |     3 |     3 |     3 |       ||     9
+

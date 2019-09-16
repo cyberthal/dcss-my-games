@@ -1,0 +1,307 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6625113192693541395
+
+0 Juagg the Conjurer (level 1, 7/7 HPs) *WIZ*
+             Began as a Felid Conjurer on Aug 29, 2019.
+             Was an Initiate of Ashenzari.
+             Quit the game on level 5 of the Pits of Slime.
+             The game lasted 00:14:03 (10729 turns).
+
+Juagg the Conjurer (Felid Conjurer)                Turns: 10729, Time: 00:14:03
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 0%
+Magic:  4/4        EV: 18    Int: 16    God:    Ashenzari 7 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: Curse Item, Renounce Religion
+
+
+You were on level 5 of the Pits of Slime.
+You worshipped Ashenzari.
+Ashenzari was noncommittal.
+You were very full.
+
+You visited 5 branches of the dungeon, and saw 25 of its levels.
+You visited Pandemonium 1 time, and saw 1 of its levels.
+
+You aren't carrying anything.
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           13 (25)      4%          1    18
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           13 (50)      7%          2    68
+ Dazzling Spray           Conj/Hex       7 (50)       30%         3    118
+ Iskenderun's Mystic Bla  Conj           13 (100)     43%         4    218
+ Force Lance              Conj/Tloc      7 (100)      69%         4    218
+ Fulminant Prism          Conj/Hex       7 (200)      69%         4    218
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)              Lair (0/6) D:11            Orc (0/2) D:11
+ Vaults (0/5) D:14         Depths (5/5) D:15            Zot (5/5) Depths:5
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Dithmenos
+
+Shops:
+D:11 [   Depths:3 }
+
+Portals:
+Hell: Depths:1 Depths:3 Depths:4 Depths:5
+Abyss: Depths:3 Depths:4
+Pandemonium: Depths:3
+Ziggurat: Depths:3
+
+Annotations:
+D:13 2 transporters
+Zot:1 3 runed translucent doors
+Zot:2 2 transporters
+Zot:3 3 runed translucent doors
+Zot:5 3 runed translucent doors
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+You see here a scroll labeled FOUSAI UGIABB.
+You see here an emerald potion.
+You see here an uncursed staff of power.
+You see here the +7 longbow "Piercer" {penet, EV-2}.
+You see here a ration.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Unknown command.
+There is a stone staircase leading up here.
+Key pressed, stopping explore.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.....................##%"|[?....)|$)$###..........^.......#
+##....................###(|!##..##?:(##....................#
+ ##....................###(!?##.#?($###...................##
+  ###...................###[##..##(##.....................#
+   #.....................#####.#####.....................##
+   ###....................####..####......................
+     #...........................................<........#
+   ###.....................................................
+   #..............................................#.#####..
+   ###............................................###
+     ##........................................####
+      ##........................................##
+       ##........................................#
+        #.......................................##
+        ###......................................##
+          #.......................................#
+          ###.....................................#
+            ##...................................##
+             ###................................##
+               #..............................#.#
+               ##.............................###
+                ##......................##....#
+                 #.#.##........<...@...####..##
+                 ########..............#  ##.#
+                        ###.....#....###   ###
+                          #.##.#...#.#
+                          #####.#.####
+                              #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Juagg the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:10     | Entered Level 10 of the Dungeon
+     3 | D:10     | Noticed a worker ant
+   682 | D:11     | Found a staircase to the Lair.
+   842 | D:11     | Found a staircase to the Orcish Mines.
+  1104 | D:11     | Found Qackesed's Antique Armour Shop.
+  1975 | D:13     | Found a transporter.
+  2012 | D:13     | Found a transporter.
+  2283 | D:14     | Found a gate to the Vaults.
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a two-headed ogre
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a centaur warrior
+  2283 | D:14     | Noticed Urug
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a deep elf mage
+  2283 | D:14     | Noticed a human
+  2283 | D:14     | Noticed a centaur
+  2283 | D:14     | Noticed a centaur
+  2283 | D:14     | Noticed a centaur
+  2283 | D:14     | Noticed a centaur
+  3003 | D:15     | Entered Level 15 of the Dungeon
+  3003 | D:15     | Noticed a freezing wraith
+  3377 | D:15     | Found a staircase to the Depths.
+  3589 | Depths:1 | Entered Level 1 of the Depths
+  3589 | Depths:1 | Noticed an iron imp
+  3589 | Depths:1 | Noticed an obsidian statue
+  3589 | Depths:1 | Noticed an orange demon
+  3589 | Depths:1 | Noticed a crimson imp
+  3589 | Depths:1 | Noticed a neqoxec
+  3805 | Depths:1 | Found a gateway to Hell.
+  4134 | Depths:2 | Noticed Saint Roka
+  4134 | Depths:2 | Noticed an orc warrior
+  4134 | Depths:2 | Noticed a warg
+  4134 | Depths:2 | Noticed an orc warrior
+  4134 | Depths:2 | Noticed an orc warrior
+  4134 | Depths:2 | Noticed an orc wizard
+  4134 | Depths:2 | Noticed an ogre
+  4134 | Depths:2 | You fall through a shaft!
+  4134 | Depths:3 | Found a shadowy altar of Dithmenos.
+  4134 | Depths:3 | Found the +5 robe of Night {Dark MR+ SInv}
+  4135 | Depths:3 | Noticed a rakshasa
+  4135 | Depths:3 | Noticed a shadow
+  4135 | Depths:3 | Noticed a shadow
+  4135 | Depths:3 | Noticed a shadow
+  4135 | Depths:3 | Noticed a Tzitzimitl
+  4135 | Depths:3 | Became a worshipper of Ashenzari the Shackled
+  4135 | Depths:3 | Identified the ring of Nucwoeha {Dex+2 Stlth+}
+  4227 | Depths:3 | Found Moj Soaf's Gadget Emporium.
+  4242 | Depths:3 | Found a one-way gate to the infinite horrors of the Abyss.
+  4286 | Depths:3 | Found a one-way gate leading to the halls of Pandemonium.
+  4420 | Depths:3 | Found a gateway to a ziggurat.
+  4615 | Depths:3 | Found a shattered altar of Ashenzari.
+  4968 | Depths:4 | Reached * piety under Ashenzari
+  5100 | Depths:4 | Found the +3 giant club "Skullcrusher" {speed, Str+7}
+  5318 | Depths:5 | Entered Level 5 of the Depths
+  5318 | Depths:5 | Noticed a frost giant
+  5318 | Depths:5 | Noticed a deep troll shaman
+  5653 | Depths:5 | Found a gate to the Realm of Zot.
+  5833 | Zot:1    | Entered Level 1 of the Realm of Zot
+  6091 | Zot:1    | Found a runed translucent gate.
+  6092 | Zot:1    | Found a runed translucent gate.
+  6100 | Zot:1    | Found a runed translucent gate.
+  6102 | Zot:1    | Identified the amulet "Tilasock" {Faith rPois rF+}
+  6659 | Zot:2    | Noticed a red draconian
+  6802 | Zot:2    | Found a transporter.
+  6831 | Zot:2    | Found a transporter.
+  7148 | Zot:3    | Noticed a moth of wrath
+  7568 | Zot:3    | Found a runed translucent gate.
+  7568 | Zot:3    | Found a runed translucent gate.
+  7568 | Zot:3    | Found a runed translucent gate.
+  7997 | Zot:5    | Entered Level 5 of the Realm of Zot
+  7997 | Zot:5    | Noticed a shadow dragon
+  8108 | Zot:5    | Found a runed translucent gate.
+  8108 | Zot:5    | Found a runed translucent gate.
+  8108 | Zot:5    | Found a runed translucent gate.
+  8529 | Pan      | Entered Pandemonium
+  8529 | Pan      | Noticed an angel
+  8529 | Pan      | Noticed a demonic crawler
+  8572 | Pan      | Noticed a chaos spawn
+  8602 | Pan      | Noticed a soul eater
+  8603 | Tomb:1   | Entered Level 1 of the Tomb of the Ancients
+  8603 | Tomb:1   | Noticed an ushabti
+  9118 | Tomb:2   | Noticed a mummy priest
+  9278 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+  9278 | Tomb:3   | Noticed Boris
+  9278 | Tomb:3   | Noticed Jory
+  9278 | Tomb:3   | Noticed a flying skull
+  9278 | Tomb:3   | Noticed a flying skull
+  9278 | Tomb:3   | Noticed a flying skull
+  9278 | Tomb:3   | Noticed a flying skull
+  9393 | Tomb:3   | Found the +5 scythe "Finisher" {speed, eviscerate}
+  9397 | Tomb:3   | Identified the ring of Wu Jian's Approval {Ice MP+9}
+  9400 | Tomb:3   | Identified the ring of the Falcon {+Fly rElec Str+3 Dex+2}
+  9429 | Slime:1  | Entered Level 1 of the Pits of Slime
+  9429 | Slime:1  | Noticed a slime creature
+  9429 | Slime:1  | Noticed a slime creature
+  9652 | Slime:2  | Noticed an acid blob
+  9652 | Slime:2  | Noticed an azure jelly
+  9652 | Slime:2  | Noticed a death ooze
+  9652 | Slime:2  | Noticed a slime creature
+  9652 | Slime:2  | Noticed an acid blob
+  9652 | Slime:2  | Noticed a slime creature
+  9652 | Slime:2  | Noticed a slime creature
+  9652 | Slime:2  | Noticed a slime creature
+  9652 | Slime:2  | Noticed an acid blob
+  9908 | Slime:3  | Noticed a death ooze
+ 10246 | Slime:4  | Noticed a glowing orange brain
+ 10439 | Slime:5  | Entered Level 5 of the Pits of Slime
+ 10439 | Slime:5  | Noticed a slime creature
+ 10439 | Slime:5  | Noticed a slime creature
+ 10439 | Slime:5  | Noticed a slime creature
+ 10439 | Slime:5  | Noticed a slime creature
+ 10439 | Slime:5  | Noticed a slime creature
+ 10439 | Slime:5  | Noticed an azure jelly
+ 10473 | Slime:5  | Found the +7 longbow "Piercer" {penet, EV-2}
+ 10729 | Slime:5  | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Eat: Ration            ||     1
+

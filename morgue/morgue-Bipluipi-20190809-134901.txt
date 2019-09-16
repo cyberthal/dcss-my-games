@@ -1,0 +1,159 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8913003591683717844
+
+0 Bipluipi the Skirmisher (level 1, 17/18 HPs) *WIZ*
+             Began as a Human Abyssal Knight on Aug 9, 2019.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:07 (4 turns).
+
+Bipluipi the Skirmisher (Human Abyssal Knight)         Turns: 4, Time: 00:06:07
+
+Health: 17/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  1/2        EV: 11    Int: 12    God:    Lugonu 26 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 spear
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Polearms
+ + Level 2.0 Armour
+ + Level 1.0 Dodging
+ + Level 2.0 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+A gnoll comes into view. It is wielding a +1 halberd.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Enter Wizard Command (? - help): 
+Detected 37 monsters.
+Enter Wizard Command (? - help): 
+You climb downwards.
+There is a stone staircase leading up here.
+Enter Wizard Command (? - help): 
+A mysterious force pulls you upwards. The hatch slams shut behind you. Found a
+hand axe.
+Enter Wizard Command (? - help): 
+Okay, then.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 37 monsters.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A gnoll comes into view. It is wielding a +0 halberd.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                    l   r
+                                             g
+
+
+
+
+                                                b
+
+
+
+
+             b
+               r   l
+                            .#
+                            ..              b
+                            .#
+                            .#
+                            )#
+                       r    .#
+                         ###.#
+                         #.@.#
+                         #g###
+                    r    #.
+                         .. g
+                        ##.
+                         #.
+                         #.                g
+                         #.    g
+
+                                                      l
+
+                      s                   b
+
+       s    g
+
+
+                        r
+                    g
+              l   r              K
+
+r             g                       gr
+               g
+            g                   b
+
+
+You could see a gnoll (sleeping).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Bipluipi the Human Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | D:1      | Escaped the Abyss
+     1 | D:1      | Entered wizard mode.
+     4 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||  4000
+Invok: Depart the Abyss  ||     1
+Armor: Leather armour    ||   590
+Dodge: Dodged            ||  1929
+
