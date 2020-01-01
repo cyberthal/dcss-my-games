@@ -1,2 +1,12 @@
 default_manual_training = true
 explore_delay = 60
+
+# https://www.reddit.com/r/dcss/comments/ei8wzi/zoom_in/
+tile_cell_pixels = 48
+tile_font_crt_size = 20
+tile_font_stat_size = 20
+tile_font_msg_size = 20
+tile_font_tip_size = 20
+tile_font_lbl_size = 20
+tile_map_pixels = 0
+tile_filter_scaling = true 
