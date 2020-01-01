@@ -1,0 +1,287 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16982731690313365731
+
+224 Yptooxt the Caller (level 6, 44/44 HPs)
+             Began as a Barachi Summoner on Dec 12, 2019.
+             Quit the game on level 3 of the Dungeon on Dec 13, 2019.
+             The game lasted 01:05:22 (5686 turns).
+
+Yptooxt the Caller (Barachi Summoner)               Turns: 5686, Time: 01:05:22
+
+Health: 44/44      AC:  4    Str: 11    XL:     6   Next: 0%
+Magic:  10/10      EV: 12    Int: 16    God:    
+Gold:   125        SH:  0    Dex: 12    Spells: 1/11 levels left
+
+rFire    . . .     SeeInvis .   b - +0 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   u - +0 leather armour
+rPois    .         Spirit   .   i - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.14/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop
+
+
+You were on level 3 of the Dungeon.
+You were hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 125 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 falchion of electrocution
+ b - a +0 hunting sling (weapon)
+ c - a +0 dagger
+Missiles
+ d - 6 curare-tipped needles
+ e - 127 stones (quivered)
+ n - 37 bolts
+ o - 5 tomahawks
+ p - 2 javelins
+ q - 5 javelins of penetration {!f}
+ r - 19 arrows
+Armour
+ f - a +0 hat
+ i - a +0 helmet (worn)
+ l - a +0 chain mail
+ s - a +0 ring mail
+ u - a +0 leather armour (worn)
+Jewellery
+ k - an uncursed amulet of harm {unknown}
+ y - an uncursed ring of protection from magic {unknown}
+Scrolls
+ g - a scroll of identify {unknown}
+ j - a scroll of random uselessness {unknown}
+ t - 4 scrolls of teleportation {unknown}
+Potions
+ h - a potion of curing {unknown}
+ m - a potion of degeneration {unknown}
+ v - a potion of might {unknown}
+Comestibles
+ w - 6 rations
+ x - 6 chunks of flesh
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 1.9(2.6) Short Blades
+ + Level 3.1(3.4) Long Blades
+ + Level 0.0 Slings
+ + Level 1.4 Armour
+ - Level 2.1 Dodging
+ - Level 1.7 Stealth
+ - Level 1.2 Unarmed Combat
+ - Level 3.0 Spellcasting
+ - Level 2.0 Hexes
+ - Level 5.0 Summonings
+ + Level 0.9 Necromancy
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         3%          1    #......
+b - Animate Skeleton      Necr           N/A          17%         1    #......
+c - Call Imp              Summ           ###.....     4%          2    ##.....
+d - Call Canine Familiar  Summ           ###.....     10%         3    ###....
+e - Summon Guardian Gole  Hex/Summ       ##......     17%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confusing Touch          Hex            #.....       11%         1    #......
+ Apportation              Tloc           #.....       24%         1    #......
+ Summon Ice Beast         Ice/Summ       ##......     65%         4    #####..
+ Summon Lightning Spire   Summ/Air       ##......     65%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Uskayaw
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - worm
+Aim: a worm (severely wounded)
+You shoot a stone. The stone barely misses the worm.
+You hear the crackle of electricity.
+a - a +4 falchion of electrocution (weapon)
+You hit the worm.
+The worm is almost dead.
+The worm closely misses you.
+You hit the worm. Lightning courses through the worm!
+You kill the worm!
+You have reached level 6!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Your +4 falchion of electrocution stops crackling.
+b - a +0 hunting sling (weapon)
+Saving game... please wait.
+Welcome back, Yptooxt the Barachi Summoner.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    #.........#.#########........#    #Z#   #.#
+ ........##.....)Z5Z..# #.######.#    #Z#   #.#
+......>#.##.#######.#.###.#           #.#   #.#
+######.#.##.#     #.......#           #.#   #.#
+     #.#.##.#     #..~~...#           #Z#####.#
+     #.#.##.#     #...~~..#           #[....#.#
+     # #.##.#     #....~~.#           #####.#
+       #.##.#     #...~~..#               #.#
+       #. #.#     #....~~.#               #.#
+          #.. ............#               #.#
+              #.##.....####               #.#
+                 #.....#                  #.#
+                #.##.###   ###            #Z#
+                ## ..#     #..            #.#
+                  ####     #.#            #.#
+                           #.#            #Z#
+                         ###.########## ###.#
+                     ##.##............###...#
+                     #..........Z.......#.###
+                     #..##Z#.########.#.#.#
+                   ..#..##Z#.#      #.#.#.#
+                   (((((((.@Z#..#####Z#.#.#
+                   ####.##.###.......Z.Z..#
+                         #.  #.######....###
+                         #.        #.......#######
+                         ..        #..............
+                         #.     ...........#######
+                         ##     ######...###
+                                     #...#
+                                     #####
+
+
+You could see a friendly frilled lizard skeleton, a friendly goblin skeleton and
+a friendly hobgoblin skeleton.
+
+Vanquished Creatures
+  An orc wizard (D:3)
+  3 adders
+  An ooze (D:1)
+  4 dart slugs
+  4 worms
+  3 leopard geckos
+  5 orcs (D:3)
+  3 ball pythons (D:3)
+  8 giant cockroaches
+  8 goblins
+  5 hobgoblins
+  2 jackals (D:1)
+  8 kobolds
+  6 bats
+  8 frilled lizards
+  5 rats
+74 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An orc wizard (D:3)
+  An orc priest (D:3)
+  Robin (D:2)
+  2 adders (D:2)
+  A worm (D:2)
+  A dart slug (D:1)
+  2 leopard geckos
+  A bat (D:1)
+  6 goblins
+  4 hobgoblins
+  7 jackals
+  A frilled lizard (D:2)
+  4 kobolds
+  A rat (D:2)
+33 creatures vanquished.
+
+Grand Total: 107 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Yptooxt the Barachi Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   321 | D:1      | Reached skill level 1 in Fighting
+   413 | D:1      | Reached skill level 1 in Unarmed Combat
+   413 | D:1      | Reached XP level 2. HP: 18/21 MP: 1/5
+   417 | D:1      | Learned a level 2 spell: Call Imp
+  1386 | D:1      | Reached XP level 3. HP: 26/26 MP: 7/7
+  1394 | D:1      | Learned a level 3 spell: Call Canine Familiar
+  1911 | D:1      | Reached skill level 1 in Short Blades
+  2701 | D:2      | Found a hide-covered altar of Uskayaw.
+  2701 | D:2      | Noticed a +0 hand axe
+  2701 | D:2      | Noticed a +0 hand axe
+  2932 | D:2      | Reached skill level 5 in Summonings
+  2932 | D:2      | Reached XP level 4. HP: 27/33 MP: 5/8
+  2990 | D:2      | Learned a level 3 spell: Summon Guardian Golem
+  3394 | D:2      | Noticed Robin
+  3404 | D:2      | Killed Robin
+  3409 | D:2      | Reached skill level 1 in Hexes
+  3886 | D:2      | Reached skill level 1 in Long Blades
+  4150 | D:2      | Reached XP level 5. HP: 29/38 MP: 4/9
+  4153 | D:2      | Learned a level 1 spell: Animate Skeleton
+  5040 | D:3      | Reached skill level 1 in Armour
+  5684 | D:3      | Reached XP level 6. HP: 44/44 MP: 10/10
+  5686 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Fighting       |  1     2       |  2.0
+Unarmed Combat |  1             |  1.2
+Spellcasting   |        3       |  3.0
+Short Blades   |        1       |  1.9
+Summonings     |        5       |  5.0
+Hexes          |           1  2 |  2.0
+Long Blades    |           1  3 |  3.1
+Armour         |              1 |  1.4
+Dodging        |                |  2.1
+Stealth        |                |  1.7
+Necromancy     |                |  0.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    77 |       ||    77
+       Dagger            |   129 |    24 ||   153
+       Punch             |     1 |       ||     1
+       Falchion          |       |    81 ||    81
+ Fire: Hunting sling     |       |     9 ||     9
+Throw: Stone             |    15 |    36 ||    51
+ Cast: Summon Small Mamm |    18 |       ||    18
+       Call Imp          |    20 |    27 ||    47
+       Summon Guardian G |       |     6 ||     6
+       Animate Skeleton  |       |    12 ||    12
+       Call Canine Famil |       |     1 ||     1
+ Abil: Hop               |     1 |     3 ||     4
+  Use: Scroll            |       |     2 ||     2
+ Stab: Distracted        |     1 |       ||     1
+       Sleeping          |     3 |     4 ||     7
+  Eat: Chunk             |     9 |    11 ||    20
+Armor: Robe              |    47 |    11 ||    58
+       Ring mail         |       |     7 ||     7
+Dodge: Dodged            |   138 |    78 ||   216
+Rpst.: Falchion          |       |    22 ||    22
+

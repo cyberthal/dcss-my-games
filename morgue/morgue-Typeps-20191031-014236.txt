@@ -1,0 +1,247 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4204938015615512313
+
+0 Typeps the Shield-Bearer (level 1, 18/18 HPs) *WIZ*
+             Began as a Human Fighter on Oct 31, 2019.
+             Quit the game in the Vestibule of Hell.
+             The game lasted 00:08:42 (0 turns).
+
+Typeps the Shield-Bearer (Human Fighter)               Turns: 0, Time: 00:08:43
+
+Health: 18/18      AC:  6    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV:  6    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  8    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 rapier
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were in the Vestibule of Hell.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 rapier (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Wands
+ e - a wand of digging (4)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Short Blades
+ + Level 3.0 Armour
+ + Level 3.0 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (0/7) Hell
+    Coc (0/7) Hell            Tar (0/7) Hell        
+
+Altars:
+
+Annotations:
+Hell Geryon
+
+Message History
+
+Geryon, Gatekeeper of Hell comes into view.
+Enter Wizard Command (? - help): 
+Mapping level.
+A red devil comes into view. It is wielding a +2 trident of protection.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Aiming: Dig
+Press: ? - help, Shift-Dir - straight line
+A rock wall.
+The rock shatters into small pieces.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Aiming: Dig
+Press: ? - help, Shift-Dir - straight line
+A rock wall.
+The rock shatters into small pieces.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Aiming: Dig
+Press: ? - help, Shift-Dir - straight line
+A rock wall.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+        ################# #################
+        #.............#.###.#.............#
+        ##...##....#...##.##...#....##...##
+         ##...#.....##.#.\.#.##.....#...##
+          ##.....^.#...##.##...#.......##
+           ##...##....#.#+#.#....##...##
+            ##...#...............#...##
+             ##.....................##
+###           ##...##...#.#...##...##
+#~##           ##...#.........#...##           #
+#~~##           ##...............##           ##
+#~~~##           ##...##...##...##           ##.
+#~~~.##           ##...#...#...##           ##..
+#~~~~~##           ##.........##           ##...
+#~~#~~.##           ##.......##           ##....
+#~~##~~.############ ##.....##           ##.....
+#~~###~~.##@.......#  ##...##           ##......
+#~~#.##~~.########.#  ##...##          ##.......
+#~~#..##~~~##    #.# ##.....##        ##..~~~~~.
+#~~#...##~~.##   #.###...#...##      ##..~~~~~~~
+#~~#....##~~~##  #.##.........##    ##..~~~~~~~~
+#~~#.....##~~.## #.#...........##  ##...~~~.~~~~
+#~~#...}..##~~~###...#&......#..####...~~.....~~
+#~~#......##.~~~##...............##....~.......~
+#~~#......+...~~~........................}.}...~
+#~~#.\....+.4............\...................\..
+#~~#......+...~~~........................}.}...~
+#~~#......##.~~~##...............##....~.......~
+#~~#...}..##~~~####..#......^#..####...~~.....~~
+#~~#.....##~~.##  ##...........##  ##...~~~.~~~~
+#~~#....##~~.##    ##.......^.##    ##..~~~~~~~~
+#~~#...##~~~##      ##...#...##      ##..~~~~~~~
+#~~#..##~~.##        ##.....##        ##..~~~~~.
+#~~#.##~~~##          ##...##          ##.......
+#~~###~~~##           ##...##           ##......
+#~~##~~.##           ##.#.#.##           ##.....
+#~~#~~~##           ##..#+#..##           ##....
+#~~~~~##           ##.#.#.#.#.##           ##...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Typeps the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed a balrug
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a red devil
+     0 | Hell     | Noticed a sun demon
+     0 | Hell     | Noticed a red devil
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a tormentor
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a sun demon
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed a reaper
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed Murray
+     0 | Hell     | Noticed a blizzard demon
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a hell rat
+     0 | Hell     | Noticed a sun demon
+     0 | Hell     | Noticed a sun demon
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Noticed a reaper
+     0 | Hell     | Noticed a reaper
+     0 | Hell     | Noticed a reaper
+     0 | Hell     | Noticed a soul eater
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Noticed a hell hog
+     0 | Hell     | Noticed a red devil
+     0 | Hell     | Noticed a fire elemental
+     0 | Hell     | Noticed a reaper
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Noticed a hell hound
+     0 | Hell     | Noticed a hell hound
+     0 | Hell     | Noticed a skeletal warrior
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Noticed a red devil
+     0 | Hell     | Quit the game
+
+Action                   || total
+-------------------------++-------
+Evoke: Wand              ||     5
+

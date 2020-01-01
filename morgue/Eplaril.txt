@@ -1,0 +1,119 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5511241833748788687
+
+Eplaril the Skirmisher (Human Abyssal Knight)          Turns: 0, Time: 00:00:34
+
+Health: 18/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  2/2        EV: 11    Int: 12    God:    Lugonu 38 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You are on level 1 of the Abyss.
+You worship Lugonu.
+Lugonu is aware of your devotion.
+You are not hungry.
+
+You have visited 0 branches of the dungeon, and seen 0 of its levels.
+You have visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Long Blades
+ + Level 2.0 Armour
+ + Level 1.0 Dodging
+ + Level 2.0 Invocations
+
+
+You cannot memorise any spells.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Message History
+
+Welcome, Eplaril the Human Abyssal Knight.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Lugonu says: Depart the Abyss and spread corruption, my servant!
+(use the ability menu to exit the Abyss)
+Press ? for a list of commands and other information.
+Found two corrupted altars of Lugonu.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.5 |      8 |  42% |   1.5 |   120  |  0.83 |      1.3
+Attack:   Mons | No hits
+Defend: Player |      4.1 |      8 |   5% |   0.2 |    76  |  1.32 |      0.3
+Defend:   Mons |      1.7 |      5 |  52% |   0.9 |    76  |  1.32 |      1.2
+
+    ..     #
+  ## .    .#
+   .#.#   .#
+    .#.  ..  #
+    #.. #. #.#
+    #..#. ...#
+     #_.#..#
+     #.@0#
+   #...##0#
+   #..#   #
+  #...
+ ..#.
+.# .#
+  .#
+ ..
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Eplaril the Human Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | Abyss:1  | Entered wizard mode.
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||  4000
+Armor: Leather armour    ||   584
+Dodge: Dodged            ||  1917
+Rpst.: Falchion          ||   616
+

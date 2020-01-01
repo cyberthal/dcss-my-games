@@ -1,0 +1,441 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12829172770309885362
+
+Wexoge the Chucker (Troll Chaos Knight)             Turns: 5659, Time: 01:43:51
+
+Health: 89/89      AC: 13    Str: 28    XL:     9   Next: 20%
+Magic:  9/9        EV:  9    Int:  6    God:    Xom 190 (0)
+Gold:   139        SH: 11    Dex: 14    Spells: 8/8 levels left
+
+rFire    + . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    +   l - +1 shield
+rNeg     . . .     Faith    .   N - +2 robe {rF+}
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   m - +2 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.64/turn              M - ring of see invisible
+MPRegen  0.11/turn              O - ring of Qangy {*Contam rPois MR+ Str+6 Int-2} (curse)
+
+@: no status effects
+A: large, unfitting armour, claws 3, thin metallic scales 1, camouflage 1, agile
+1, fast metabolism 3, gourmand, regeneration 1, shaggy fur 1, tough skin 3
+a: Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Xom.
+You are Xom's teddy bear.
+You are completely stuffed.
+
+You have visited 1 branch of the dungeon, and seen 8 of its levels.
+You have also visited: Sewer.
+
+You have collected 655 gold pieces.
+You have spent 516 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 dagger of venom
+ b - a +0 mace of chaos
+ c - a +0 flail
+ d - a +0 hand axe
+ e - a +4 blowgun
+ k - a hunting sling
+ L - a runed flail
+ S - a dazzling hunting sling
+ T - a +2 hand axe of freezing
+ U - a +6 dagger
+Missiles
+ g - 11 tomahawks
+ i - 134 stones
+ o - 4 needles of paralysis {!f}
+ q - 66 sling bullets
+ t - 6 curare-tipped needles {!f}
+ v - 3 javelins of returning (quivered)
+ x - 113 arrows
+ y - 3 large rocks {!f}
+ H - 8 poisoned needles
+ J - 40 bolts
+Armour
+ l - a +1 shield (worn)
+ m - a +2 cloak (worn)
+ N - a +2 robe of fire resistance (worn)
+Jewellery
+ f - a notched bronze ring
+ z - an uncursed ring of fire
+ M - a ring of see invisible (left claw)
+ O - the cursed ring of Qangy (right claw) {*Contam rPois MR+ Str+6 Int-2}
+   (You bought it in a shop on level 4 of the Dungeon)   
+   
+   [ring of intelligence]
+   
+   It affects your strength (+6).
+   It affects your intelligence (-2).
+   It protects you from poison.
+   It affects your resistance to hostile enchantments.
+   It causes magical contamination when unequipped.
+   It has a curse placed upon it.
+ P - a scratched silver ring
+Wands
+ r - a wand of flame (19)
+ u - a wand of enslavement (4)
+ V - a wand of random effects (15)
+Scrolls
+ j - 6 scrolls of teleportation
+ s - 2 scrolls of blinking
+ w - a scroll of fear
+ G - a scroll of immolation
+ K - 2 scrolls of fog
+ Q - a scroll of amnesia
+ R - a scroll labeled ECLEZX HUOSTO
+Potions
+ n - a potion of degeneration
+ p - 2 potions of haste
+ A - a potion of might
+ B - 5 potions of heal wounds
+ C - 4 potions of curing
+ D - 2 potions of flight
+ E - a potion of agility
+ F - a potion of brilliance
+Comestibles
+ I - 8 rations
+ W - 2 chunks of flesh
+
+
+   Skills:
+ + Level 5.7 Fighting
+ - Level 1.0 Short Blades
+ - Level 3.0 Maces & Flails
+ - Level 6.0 Throwing
+ - Level 2.4 Dodging
+ - Level 5.0 Shields
+ - Level 3.0 Unarmed Combat
+ - Level 2.0 Evocations
+
+
+You have 8 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           0 (25)       75%         1    50
+ Blink                    Tloc           N/A          87%         2    100
+ Call Imp                 Summ           0 (100)      87%         2    100
+ Slow                     Hex            0 (100)      87%         2    100
+ Conjure Flame            Conj/Fire      0 (100)      98%         3    150
+ Mephitic Cloud           Conj/Pois/Air  0 (100)      98%         3    150
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)            
+Temple: D:4-7         Lair: D:8-11      
+
+Altars:
+Ashenzari
+Qazlal
+Ru
+Trog
+Xom
+
+Shops:
+D:4 =*
+
+Annotations:
+D:2 hatch
+D:3 !glowing shapeshifter
+D:4 hatch
+D:5 Menkaure
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You are partially covered in thin metallic scales. (AC +2)
+Your skin changes colour to match your surroundings (Stealth+).
+You are agile. (Dex +2)
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a +0 scale mail.
+Things that are here:
+a +0 dagger; an orc skeleton x2
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +2 robe. x4
+You finish taking off your +2 robe.
+You start putting on your armour.
+You continue putting on your +2 robe of fire resistance. x5
+You finish putting on your +2 robe of fire resistance.
+You feel resistant to fire.
+Drop what? 49/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +2 robe.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Save game and exit? 
+
+  ############
+  #..........#
+  #..........#
+  #..........#
+  #..........#
+  #..........#       ########
+  #####...####       #......#         #######
+     ##....##        #......#         #.....#
+     #......#        #......#        ##.....#
+     #.#..#.#        #......#    #####......#
+     #.#..#.##       #......#    #.O..O..<..#
+    ##.#..#..#       #......######.####..c..#
+    #..#.....#########......(((.((.#  #.....#
+    #.##.##.................########  ##.####
+#####.##.#...#....###.##.####       ###0.#
+...........#.####.....##.#         ##000##
+.........###.#  ####.....# #########c0###
+..##.##..# #.####........###.......00##
+..##.##...##..........).....)############
+#....###..............._.########[.....[#
+###..#  .#.....##..........[.)..[......@#
+  #..###.#.##...#........#.######....#####
+  #........##.#.#.........##...##...##...#####
+  #.......................#.....##'##.....#..##
+  #...###.#.##.#.....####.#..#.........#..#...##
+  #..## #.#.##.#.....#  #.#.....#####.....#..>.#
+  #..####.#.##.....###  #)##...##...##...##....#
+  #...........#....######).##.##.....##.##...<.#
+  #...........#.#...........#.#.......#.#.....##
+  #..................###.<..#.#.......#.#......#
+###....>.......##.##.....##.#^#.......#.#......#
+..........<..>........#######.##.....##.##.....#
+...............#..........##...##...##...##...##
+..............##.#........#.....##'##.%...#..##
+............#.##.#........#..#...%.....#..####
+.........###.....#........#.....#####.....#
+.........# #.#####........##...##...##...##
+.......### #.#   ########..########..#####
+########   #.#          ##....%..........##
+           ###           ##########.......#
+                                  #...)...#
+                                  #.......#
+                                  ##.....##
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Eustachio (D:4)
+  2 orc warriors
+  A sky beast (D:5)
+  A phantom (D:5)
+  3 ogres
+  A centaur (D:6)
+  Blork the orc (D:4)
+  A bullfrog (D:6)
+  A wyvern zombie (D:6)
+  A scorpion (D:4)
+  2 jellies
+  A killer bee (D:6)
+  3 electric eels (D:5)
+  3 crimson imps
+  2 howler monkeys (D:5)
+  3 hounds
+  A bullfrog skeleton (D:4)
+  An orc priest (D:7)
+  4 worker ants
+  2 iguanas
+  9 orc wizards
+  A hound skeleton (D:6)
+  A howler monkey zombie (D:6)
+  6 gnolls
+  A howler monkey skeleton (D:6)
+  9 adders
+  4 river rats
+  2 shadow imps (D:6)
+  3 oozes
+  2 adder zombies
+  2 adder skeletons
+  2 worms
+  3 dart slugs (D:2)
+  6 leopard geckos
+  16 orcs
+  4 ball pythons
+  6 bats
+  7 giant cockroaches
+  5 goblins
+  2 hobgoblins
+  4 jackals (D:5)
+  24 kobolds
+  3 quokkas
+  9 frilled lizards
+  34 rats
+200 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A bullfrog skeleton (D:4)
+  A kobold (Sewer)
+2 creatures vanquished.
+
+Grand Total: 202 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wexoge the Troll Chaos Knight began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+    57 | D:1      | Reached skill level 1 in Unarmed Combat
+    69 | D:1      | Reached XP level 2. HP: 27/29 MP: 1/1
+   356 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+   540 | D:1      | XOM: mild Conj miscast
+   688 | D:2      | Reached skill level 1 in Shields
+   815 | D:2      | Found a faded altar of an unknown god.
+   908 | D:2      | XOM: harmless Tloc miscast
+   948 | D:2      | XOM: blink monster(s)
+   948 | D:2      | Noticed an ogre
+   953 | D:2      | Reached XP level 4. HP: 40/44 MP: 3/3
+   982 | D:2      | Killed an ogre
+   982 | D:2      | Reached XP level 5. HP: 29/52 MP: 4/4
+  1003 | D:2      | XOM is BORED!
+  1003 | D:2      | XOM: stat loss: -2 Str (18/20)
+  1040 | D:2      | Found a bloodstained altar of Trog.
+  1167 | D:2      | Entered wizard mode.
+  1324 | D:2      | XOM: god gift: book of Minor Magic
+  1675 | D:4      | XOM: smoke on damage
+  1706 | D:4      | Found a shattered altar of Ashenzari.
+  1712 | D:4      | Noticed Blork the orc
+  1759 | D:4      | Killed Blork the orc
+  1759 | D:4      | Reached skill level 1 in Evocations
+  1759 | D:4      | Reached XP level 6. HP: 59/61 MP: 5/5
+  1797 | D:4      | Found Syoff's Jewellery Shoppe.
+  1815 | D:4      | Found a glowing drain.
+  1870 | D:4      | XOM: snakes to sticks
+  1888 | Sewer    | Entered a sewer
+  2266 | Sewer    | XOM: smoke on damage
+  2270 | Sewer    | XOM: snakes to sticks
+  2306 | Sewer    | XOM: harmless Necr miscast
+  2341 | Sewer    | XOM: confuse monster(s)
+  2461 | D:4      | Found Aguh's General Store.
+  2482 | D:5      | Entered Level 5 of the Dungeon
+  2496 | D:4      | Bought a scroll of fog for 26 gold pieces
+  2524 | D:4      | XOM: give mutations
+  2524 | D:4      | Gained mutation: You are agile. (Dex +2) [Xom's grace]
+  2524 | D:4      | Gained mutation: Your skin changes colour to match your
+                  | surroundings (Stealth+). [Xom's grace]
+  2524 | D:4      | Gained mutation: You are partially covered in thin metallic
+                  | scales. (AC +2) [Xom's grace]
+  2571 | D:4      | Noticed Eustachio
+  2580 | D:4      | XOM: cast spell 'Alistair's Intoxication'
+  2581 | D:4      | XOM: summons 3 friendly demons
+  2587 | D:4      | Killed Eustachio
+  2587 | D:4      | Reached skill level 2 in Throwing
+  2587 | D:4      | Reached XP level 7. HP: 66/70 MP: 6/6
+  2787 | D:3      | Noticed a glowing shapeshifter
+  2787 | D:3      | a rat changed into a glowing shapeshifter
+  2787 | D:3      | a glowing shapeshifter changed into a swamp worm
+  2788 | D:3      | Noticed a lindwurm
+  2788 | D:3      | a swamp worm changed into a lindwurm
+  2791 | D:3      | Noticed a glowing shapeshifter
+  2791 | D:3      | a lindwurm changed into a glowing shapeshifter
+  2791 | D:3      | XOM: polymorph lindwurm -> glowing shapeshifter
+  2791 | D:3      | Noticed a wolf spider
+  2791 | D:3      | a glowing shapeshifter changed into a wolf spider
+  2792 | D:3      | Noticed a merfolk
+  2792 | D:3      | a wolf spider changed into a merfolk
+  2796 | D:3      | Noticed a mana viper
+  2796 | D:3      | a merfolk changed into a mana viper
+  2799 | D:3      | Noticed a salamander
+  2799 | D:3      | a mana viper changed into a salamander
+  2800 | D:3      | a salamander changed into something unseen
+  2806 | D:3      | Found a stormy altar of Qazlal.
+  2806 | D:3      | Found a sacrificial altar of Ru.
+  2914 | D:2      | XOM: god gift: 380 gold pieces
+  3341 | D:4      | XOM: god gift: 22 stones
+  3388 | D:4      | Reached skill level 3 in Throwing
+  3513 | D:4      | Bought a cursed -2 ring of dexterity for 20 gold pieces
+  3513 | D:4      | Bought an uncursed ring of see invisible for 150 gold
+                  | pieces
+  3513 | D:4      | Bought a cursed -3 ring of strength for 20 gold pieces
+  3513 | D:4      | Bought the cursed ring of Qangy {*Contam rPois MR+ Str+6
+                  | Int-2} for 203 gold pieces
+  3521 | D:4      | Bought a scroll of enchant armour for 97 gold pieces
+  3579 | D:5      | XOM: harmless Erth miscast
+  3663 | D:4      | XOM: divination: detect creatures
+  3710 | D:5      | XOM: divination: magic mapping
+  3765 | D:5      | Reached skill level 4 in Throwing
+  3798 | D:5      | Found a transporter.
+  3805 | D:5      | XOM: medium Summ miscast
+  3806 | D:5      | Noticed a small abomination
+  3868 | D:5      | Reached XP level 8. HP: 78/78 MP: 7/7
+  4013 | D:5      | Reached skill level 5 in Throwing
+  4107 | D:6      | Reached skill level 1 in Short Blades
+  4139 | D:6      | XOM: cleaving
+  4147 | D:6      | XOM: enchant monster (good)
+  4361 | D:5      | Noticed Menkaure
+  4370 | D:5      | Found a transporter.
+  4398 | D:5      | Reached skill level 5 in Fighting
+  4441 | D:5      | XOM: cast spell 'Summon Butterflies'
+  4570 | D:5      | XOM: mild Fire miscast
+  4757 | D:6      | XOM: cloud trail
+  4847 | D:6      | Got a dazzling hunting sling
+  4902 | D:6      | XOM: polymorph orc wizard -> ooze
+  4925 | D:6      | Reached skill level 6 in Throwing
+  4958 | D:6      | XOM: polymorph iguana -> killer bee
+  5081 | D:6      | XOM: fog
+  5090 | D:6      | XOM: scenery: create altars
+  5096 | D:6      | Reached XP level 9. HP: 82/88 MP: 9/9
+  5134 | D:6      | Reached skill level 5 in Shields
+  5200 | D:6      | XOM: mild Ice miscast
+  5424 | D:7      | XOM: harmless Fire miscast
+  5551 | D:7      | XOM: summons 5 friendly demons
+  5576 | D:7      | XOM: divination: detect creatures
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Unarmed Combat |  1  2              3       |  3.0
+Shields        |        1  3     4        5 |  5.0
+Fighting       |              3  4     5    |  5.7
+Evocations     |              1        2    |  2.0
+Throwing       |                 2  4  6    |  6.0
+Dodging        |                    2       |  2.4
+Short Blades   |                       1    |  1.0
+Maces & Flails |                          3 |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    86 |    73 |    70 ||   229
+       Punch             |     1 |       |       ||     1
+       Mace              |     6 |   165 |   141 ||   312
+       Dagger            |       |     8 |    91 ||    99
+       Flail             |       |       |  4002 ||  4002
+ Fire: Blowgun           |       |     1 |     8 ||     9
+Throw: Stone             |    12 |    26 |    77 ||   115
+       Tomahawk          |       |     4 |    23 ||    27
+       Large rock        |       |       |     1 ||     1
+       Javelin           |       |       |     2 ||     2
+Evoke: Wand              |       |     1 |     4 ||     5
+  Use: Scroll            |     3 |       |    11 ||    14
+       Potion            |       |     1 |     6 ||     7
+ Stab: Sleeping          |     1 |       |     4 ||     5
+       Confused          |       |     3 |       ||     3
+       Petrified         |       |       |     7 ||     7
+       Paralysed         |       |       |     2 ||     2
+       Distracted        |       |       |     1 ||     1
+  Eat: Chunk             |    14 |    15 |    30 ||    59
+Armor: Robe              |    24 |    87 |  1905 ||  2016
+Dodge: Dodged            |    33 |    92 |  1758 ||  1883
+Block: Shield            |    17 |    91 |  3197 ||  3305
+

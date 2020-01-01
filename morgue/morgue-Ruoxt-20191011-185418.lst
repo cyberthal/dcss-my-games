@@ -1,0 +1,278 @@
+Ruoxt
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 robe
+(29, 6, D:1)
+  a +0 club
+(30, 17, D:1)
+  a +0 short sword
+(40, 12, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+(2, -2, D:2)
+  a +0 dagger
+(7, -2, D:2)
+  a +0 short sword
+(12, -14, D:2)
+  a +0 club
+(26, 32, D:2)
+  a +0 whip
+(34, 5, D:2)
+  a +0 club
+(43, -18, D:2)
+  a +0 club
+(54, -12, D:2)
+  a +0 ring mail
+(56, 14, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+(5, 13, D:3)
+  a +2 flail of holy wrath
+(6, -6, D:3)
+  a +0 leather armour
+(6, 3, D:3)
+  a +0 dagger
+  a +0 robe
+  a +0 whip
+  a +0 chain mail
+(18, -19, D:3)
+  a +0 morningstar
+  a +0 rapier
+(19, -15, D:3)
+  a +0 short sword
+(22, -14, D:3)
+  a +0 club
+(26, -18, D:3)
+  a cursed +0 chain mail
+  a +0 club
+(29, 0, D:3)
+  a +0 chain mail
+(31, 15, D:3)
+  a +0 club
+(59, -2, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 spear
+(3, 0, D:4)
+  a +0 spear
+(4, -5, D:4)
+  a +0 hand axe
+(4, 4, D:4)
+  a +0 club
+(18, -4, D:4)
+  an uncursed ring of flight
+(22, 14, D:4)
+  a cursed +0 leather armour
+  a cursed -2 short sword
+(23, 14, D:4)
+  a +0 club
+(24, -4, D:4)
+  a +0 short sword
+(26, 14, D:4)
+  a +0 dagger
+(27, 14, D:4)
+  a +0 hunting sling
+(37, 15, D:4)
+  a +0 robe
+
+Level 5 of the Dungeon
+[Shop] Ixzuasok's Magic Scroll Emporium
+  a scroll of remove curse (30 gold)
+  a scroll of blinking (75 gold)
+  a scroll of blinking (75 gold)
+[Shop] Enkod's Antique Weapon Shop
+  a +2 spear of flaming (400 gold)
+  a +0 trident (80 gold)
+  a cursed -3 war axe (2 gold)
+  a +0 quarterstaff (92 gold)
+  a +0 rapier (92 gold)
+  a +0 blowgun (57 gold)
+  a +1 mace of crushing (264 gold)
+  a +0 shortbow (69 gold)
+[Shop] Dukos's Antique Weapon Shop
+  a +0 falchion (72 gold)
+  a +0 lajatang of venom (480 gold)
+  a +0 dagger (48 gold)
+  the +9 whip of Ehaliyng {freeze, rN+} (1456 gold)
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It protects you from negative energy.
+  a +3 war axe of freezing (559 gold)
+  a +0 flail (84 gold)
+  a +3 war axe of flaming (559 gold)
+  a +0 morningstar (96 gold)
+  a +0 long sword (84 gold)
+  a cursed -2 hunting sling (2 gold)
+  a +0 spear (72 gold)
+  a +0 long sword (84 gold)
+  a +0 whip (60 gold)
+[Shop] Vetagig's Jewellery Emporium
+  an uncursed ring of wizardry (330 gold)
+  a cursed ring of teleportation (49 gold)
+  an uncursed amulet of rage (440 gold)
+  the ring of Kyum {rElec Str+4 Dex+5 Stlth+} (597 gold)
+    [ring of strength]
+    
+    It affects your strength (+4).
+    It affects your dexterity (+5).
+    It insulates you from electricity.
+    It makes you more stealthy.
+  the amulet "Vudiluih" {Reflect *Drain rElec rN+++ Str-3 SH+3} (426 gold)
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your strength (-3).
+    It insulates you from electricity.
+    It renders you almost immune to negative energy.
+    It causes draining when unequipped.
+    It affects your SH (+3).
+  an uncursed ring of see invisible (165 gold)
+  an uncursed ring of positive energy (220 gold)
+  an uncursed ring of see invisible (165 gold)
+  the brooch of Shielding {Reflect SH+8} (1169 gold)
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your SH (+8).
+  a cursed ring of protection from magic (242 gold)
+  an uncursed amulet of regeneration (330 gold)
+  an uncursed ring of resist corrosion (220 gold)
+[Shop] Deebal's General Store
+  a +0 great mace (97 gold)
+  a +0 leather armour (30 gold)
+  18 arrows (54 gold)
+  a ration (75 gold)
+  2 potions of heal wounds (150 gold)
+  a scroll of remove curse (45 gold)
+  a potion of resistance (150 gold)
+  a potion of haste (150 gold)
+(9, 6, D:5)
+  a +0 giant club
+(10, -31, D:5)
+  a +0 robe
+  a +0 ring mail
+  a +0 scale mail
+  a +0 chain mail
+  a +0 plate armour
+  a +0 ring mail
+  a +0 dagger
+(12, -18, D:5)
+  a +0 dagger
+  a cursed +0 robe
+  a +0 dagger
+  a +0 robe
+(14, -2, D:5)
+  a cursed amulet of inaccuracy
+(17, -26, D:5)
+  a +0 robe
+  a +0 dagger
+(17, 28, D:5)
+  a +0 ring mail
+(20, 8, D:5)
+  a potion of heal wounds
+(23, 23, D:5)
+  a +0 robe
+  a +0 dagger
+(28, -31, D:5)
+  a +0 dagger
+  a +0 robe
+(31, -17, D:5)
+  a +0 war axe
+(31, 14, D:5)
+  a +0 club
+(33, -4, D:5)
+  a +0 giant spiked club
+(33, -2, D:5)
+  a +0 robe
+  a cursed -2 dagger
+  a cursed +0 robe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(45, 6, D:5)
+  a +0 giant club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 giant club
+(16, 2, D:6)
+  a +0 chain mail
+  a +0 mace
+  a +0 short sword
+  a +0 short sword
+(17, 7, D:6)
+  a +0 flail
+(18, 10, D:6)
+  a +0 leather armour
+  a +0 flail
+(19, -5, D:6)
+  a +0 mace
+(20, -2, D:6)
+  a +0 club
+(20, 4, D:6)
+  a +0 flail
+(21, 18, D:6)
+  a +0 robe
+  a +0 dagger
+(22, -8, D:6)
+  a +0 robe
+(23, 8, D:6)
+  a +0 plate armour
+  a +0 scimitar
+(26, -19, D:6)
+  a +0 robe
+  a +0 dagger
+(26, -9, D:6)
+  a +0 scale mail
+(35, 13, D:6)
+  a cursed +0 robe
+  a +0 dagger
+(37, -3, D:6)
+  a +0 ring mail
+(43, 2, D:6)
+  a +0 whip
+  a +0 leather armour
+(43, 8, D:6)
+  a +0 leather armour
+(43, 12, D:6)
+  a +0 short sword
+(44, -35, D:6)
+  a +0 falchion
+  a +0 leather armour
+(49, 11, D:6)
+  a +0 robe
+(51, 20, D:6)
+  a +0 battleaxe
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 giant club
+(1, -4, D:7)
+  a scroll of identify
+(13, -10, D:7)
+  a scroll of identify
+(31, -9, D:7)
+  a +0 hand axe
+  a +0 chain mail
+(32, -10, D:7)
+  a +0 club
+(33, -15, D:7)
+  a +0 dagger
+(33, -14, D:7)
+  a +0 whip
+(33, -12, D:7)
+  a +0 short sword
+  a +0 whip
+  an inedible chunk of flesh
+(37, -45, D:7)
+  2 potions of might
+
+the Ecumenical Temple
+

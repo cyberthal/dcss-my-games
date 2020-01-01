@@ -1,0 +1,118 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11124651098133684020
+
+0 Hafrocw the Ducker (level 1, 16/16 HPs) *WIZ*
+             Began as a Human Gladiator on Oct 24, 2019.
+             Was an Initiate of Fedhas.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:24 (1 turns).
+
+Hafrocw the Ducker (Human Gladiator)                   Turns: 1, Time: 00:00:25
+
+Health: 16/16      AC:  4    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  8    God:    Fedhas 15 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 quarterstaff
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Fungal Bloom, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Staves
+ + Level 2.0 Throwing
+ + Level 3.0 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Hafrocw the Human Gladiator.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which god (by name)? fedh
+Fedhas welcomes you!
+The plants of the dungeon cease their hostilities.
+You can now turn corpses into toadstools.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A shambling mangrove comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a shambling mangrove (peaceful)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#...
+ .}.
+ ...
+ #.#
+ #.#   #
+##.## .##
+#f..#...#
+#.<@..}.#
+#...#...#
+##### ###
+
+
+You could see a neutral shambling mangrove.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hafrocw the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Fedhas Madash
+     0 | D:1      | Noticed a shambling mangrove
+     1 | D:1      | Quit the game
+

@@ -1,0 +1,125 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5881063146545011308
+
+0 Madip the Charlatan (level 1, 16/16 HPs)
+             Began as a Deep Dwarf Artificer on Oct 20, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:39 (0 turns).
+
+Madip the Charlatan (Deep Dwarf Artificer)             Turns: 0, Time: 00:00:40
+
+Health: 16/16      AC:  3    Str: 15    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 11    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 0.8 Fighting
+ + Level 0.8 Short Blades
+ + Level 2.1 Dodging
+ + Level 1.2 Stealth
+ + Level 4.0 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+
+Message History
+
+Welcome, Madip the Deep Dwarf Artificer.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found an amethyst potion.
+Found a staircase leading out of the dungeon and a stone staircase leading
+down.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ,
+
+   ,                     *
+,,   ,                    ,
+  ,
+                    *
+   , ,                , ,
+  *  *              *
+        #############
+        ...P..~~~~~~# *
+        .~~~~~~~....+
+     ,  ~~PPP~~.....#       *
+       ~PPP~~~.@.!.7*
+      ~ PP~~.....>77      ,
+,       ~~~.P..7777
+        #######
+
+
+
+     ,
+
+
+
+  *   *
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Madip the Deep Dwarf Artificer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Quit the game
+

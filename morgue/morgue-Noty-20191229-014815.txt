@@ -1,0 +1,226 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13408990658422165772
+
+27499 Noty the Eclecticist (level 13, 46/61 HPs) *WIZ*
+             Began as a Spriggan Arcane Marksman on Dec 29, 2019.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:29 (93 turns).
+
+Noty the Eclecticist (Spriggan Arcane Marksman)       Turns: 93, Time: 00:06:30
+
+Health: 46/61      AC:  2    Str:  6    XL:     13   Next: 4%
+Magic:  19/34      EV: 23    Int: 20    God:    Kikubaaqudgha 199 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 33/44 levels left
+
+rFire    . . .     SeeInvis +   a - +0 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.20/turn              (no ring)
+MPRegen  0.24/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Receive Corpses, Torment, Brand Weapon With Pain, Receive Necronomicon,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+Missiles
+ b - 14 sling bullets (quivered)
+Armour
+ e - a +0 robe (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 3.9 Fighting
+ - Level 6.2 Slings
+ - Level 7.5 Dodging
+ + Level 0.0 Unarmed Combat
+ - Level 16.0 Spellcasting
+ - Level 6.8 Hexes
+ - Level 12.1 Necromancy
+ - Level 9.2 Ice Magic
+
+
+You had 33 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            43 (90)      1%          1    0
+b - Simulacrum            Ice/Necr       56 (200)     7%          6    230
+c - Animate Dead          Necr           N/A          1%          4    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           25 (25)      1%          1    0
+ Corpse Rot               Necr           N/A          1%          2    0
+ Slow                     Hex            43 (100)     1%          2    0
+ Sublimation of Blood     Necr           59 (200)     1%          2    0
+ Regeneration             Chrm/Necr      40 (200)     1%          3    0
+ Agony                    Necr           59 (100)     1%          5    80
+ Dispel Undead            Necr           59 (100)     1%          5    80
+ Inner Flame              Hex/Fire       29 (100)     2%          3    0
+ Portal Projectile        Hex/Tloc       29 (50)      2%          3    0
+ Cause Fear               Hex            43 (200)     2%          4    0
+ Leda's Liquefaction      Hex/Erth       29 (200)     9%          4    0
+ Borgnjor's Vile Clutch   Necr/Erth      40 (200)     9%          5    80
+ Excruciating Wounds      Chrm/Necr      40 (200)     9%          5    80
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Firing (i - inventory) b - 16 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - ogre mage skeleton
+Aim: an ogre mage skeleton (almost destroyed)
+You shoot a sling bullet.
+The sling bullet hits the ogre mage skeleton.
+The ogre mage skeleton is almost destroyed.
+Firing (i - inventory) b - 15 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - ogre mage skeleton
+Aim: an ogre mage skeleton (almost destroyed)
+You shoot a sling bullet.
+The sling bullet hits the ogre mage skeleton.
+You destroy the ogre mage skeleton!
+Firing (i - inventory) b - 14 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f - you
+Really target yourself? 
+[Y]es or [N]o only, please.
+Really target yourself? 
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#######
+#...(.#
+#(((.(#
+#.(@<(#
++.(.(.#
+#..P..#
+####+##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An adder simulacrum (D:1)
+  A bat zombie (D:1)
+  A bat simulacrum (D:1)
+  A jackal zombie (D:1)
+  A quokka simulacrum (D:1)
+  A rat (D:1)
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Noty the Spriggan Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Dodging
+     1 | D:1      | Reached skill level 4 in Spellcasting
+     1 | D:1      | Reached skill level 5 in Hexes
+     1 | D:1      | Reached XP level 2. HP: 16/16 MP: 4/8
+     2 | D:1      | Reached skill level 5 in Spellcasting
+     2 | D:1      | Reached XP level 3. HP: 21/21 MP: 4/11
+     8 | D:1      | Became a worshipper of Kikubaaqudgha
+     8 | D:1      | Reached * piety under Kikubaaqudgha
+     8 | D:1      | Identified Kikubaaqudgha's Compendium of Darkness
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     8 | D:1      | Received a gift from Kikubaaqudgha
+     8 | D:1      | Reached ** piety under Kikubaaqudgha
+     8 | D:1      | Reached *** piety under Kikubaaqudgha
+     8 | D:1      | Identified Kikubaaqudgha's Volume of Sinister Secrets
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     8 | D:1      | Received a gift from Kikubaaqudgha
+     8 | D:1      | Reached **** piety under Kikubaaqudgha
+     8 | D:1      | Reached ***** piety under Kikubaaqudgha
+     8 | D:1      | Reached ****** piety under Kikubaaqudgha
+     9 | D:1      | Reached skill level 9 in Spellcasting
+     9 | D:1      | Reached skill level 5 in Necromancy
+     9 | D:1      | Reached XP level 4. HP: 25/25 MP: 12/16
+    10 | D:1      | Reached skill level 10 in Spellcasting
+    10 | D:1      | Reached XP level 5. HP: 29/29 MP: 13/19
+    11 | D:1      | Reached skill level 11 in Spellcasting
+    11 | D:1      | Reached XP level 6. HP: 33/33 MP: 13/21
+    19 | D:1      | Learned a level 6 spell: Simulacrum
+    19 | D:1      | Reached skill level 12 in Spellcasting
+    19 | D:1      | Reached XP level 7. HP: 37/37 MP: 15/24
+    20 | D:1      | Reached skill level 13 in Spellcasting
+    20 | D:1      | Reached skill level 5 in Ice Magic
+    20 | D:1      | Reached XP level 8. HP: 42/42 MP: 17/26
+    21 | D:1      | Reached skill level 10 in Necromancy
+    21 | D:1      | Reached XP level 9. HP: 45/45 MP: 17/27
+    22 | D:1      | Reached skill level 14 in Spellcasting
+    22 | D:1      | Reached XP level 10. HP: 49/49 MP: 17/29
+    23 | D:1      | Reached skill level 15 in Spellcasting
+    23 | D:1      | Reached XP level 11. HP: 53/53 MP: 17/31
+    24 | D:1      | Reached XP level 12. HP: 58/58 MP: 17/32
+    25 | D:1      | Reached skill level 16 in Spellcasting
+    25 | D:1      | Reached XP level 13. HP: 61/61 MP: 18/34
+    50 | D:1      | Learned a level 4 spell: Animate Dead
+    65 | D:1      | HP: 2/61 [manticore zombie[the player character] (6)]
+    79 | D:1      | Slain by an ogre mage skeleton (5 damage)
+                  | ... animated by the player character
+    93 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |  2  3                               |  3.9
+Slings         |  4  6                               |  6.2
+Dodging        |  5  7                               |  7.5
+Spellcasting   |  4  5  9 10 11 12 13    14 15    16 | 16.0
+Hexes          |  5  6                               |  6.8
+Necromancy     |        5  7  8     9 10    11    12 | 12.1
+Ice Magic      |              3  4  5  6  7  8     9 |  9.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+ Fire: Hunting sling     |     5 |       |       |       |    61 ||    66
+ Cast: Animate Dead      |       |       |       |       |     1 ||     1
+       Simulacrum        |       |       |       |       |     1 ||     1
+Invok: Receive Corpses   |       |       |       |       |     1 ||     1
+  Use: Potion            |     3 |     3 |     3 |     3 |       ||    12
+Armor: Robe              |       |       |       |       |     3 ||     3
+Dodge: Dodged            |     2 |       |       |       |    36 ||    38
+

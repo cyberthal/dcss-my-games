@@ -1,0 +1,234 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6377743841828816888
+
+574622 Biunaneu the Conqueror (level 27, 157/174 HPs) *WIZ*
+             Began as a Spriggan Arcane Marksman on Dec 29, 2019.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:25 (71 turns).
+
+Biunaneu the Conqueror (Spriggan Arcane Marksman)     Turns: 71, Time: 00:05:26
+
+Health: 157/174    AC:  4    Str:  6    XL:     27
+Magic:  55/55      EV: 39    Int: 14    God:    Kikubaaqudgha 199 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 74/80 levels left
+
+rFire    . . .     SeeInvis +   b - +0 dagger (vamp)
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++++.                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.39/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Receive Corpses, Torment, Brand Weapon With Pain, Receive Necronomicon,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling
+ b - a +0 vampiric dagger (weapon)
+ c - a +0 quick blade of electrocution
+ f - a +0 longbow
+Missiles
+ d - 20 sling bullets
+Armour
+ e - a +0 robe (worn)
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 74 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            76 (90)      0%          1    0
+b - Animate Dead          Necr           N/A          19%         4    0
+c - Pain                  Necr           18 (25)      1%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            76 (100)     0%          2    0
+ Inner Flame              Hex/Fire       76 (100)     0%          3    0
+ Portal Projectile        Hex/Tloc       50 (50)      0%          3    0
+ Cause Fear               Hex            76 (200)     0%          4    0
+ Leda's Liquefaction      Hex/Erth       76 (200)     0%          4    0
+ Regeneration             Chrm/Necr      54 (200)     1%          3    0
+ Borgnjor's Vile Clutch   Necr/Erth      54 (200)     1%          5    22
+ Simulacrum               Ice/Necr       54 (200)     1%          6    172
+ Corpse Rot               Necr           N/A          2%          2    0
+ Sublimation of Blood     Necr           18 (200)     2%          2    0
+ Dispel Undead            Necr           18 (100)     45%         5    22
+ Death Channel            Necr           18 (200)     95%         6    172
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Lowered Stealth to skill level 0.0.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A giant cockroach zombie comes into view.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+You hit the giant cockroach zombie but do no damage.
+You hit the giant cockroach zombie but do no damage.
+You hit the giant cockroach zombie.
+The giant cockroach zombie is lightly damaged.
+The giant cockroach zombie completely misses you.
+You puncture the giant cockroach zombie!
+You destroy the giant cockroach zombie!
+Kikubaaqudgha accepts your kill.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #+#
+     #.#
+     #.#
+     #.#
+    ##.##
+#####...#####
++.....<.....+
+##....@....##
+ ##.......##
+  ##.....##
+   ##...##
+    ##.##
+     ###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A giant cockroach zombie (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Biunaneu the Spriggan Arcane Marksman began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+     4 | D:1      | Entered wizard mode.
+     4 | D:1      | Became a worshipper of Kikubaaqudgha
+     4 | D:1      | Reached * piety under Kikubaaqudgha
+     4 | D:1      | Identified Kikubaaqudgha's Papyrus of Stolen Souls
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     4 | D:1      | Received a gift from Kikubaaqudgha
+     4 | D:1      | Reached ** piety under Kikubaaqudgha
+     4 | D:1      | Reached *** piety under Kikubaaqudgha
+     4 | D:1      | Identified Kikubaaqudgha's Volume of Darkness
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     4 | D:1      | Received a gift from Kikubaaqudgha
+     4 | D:1      | Reached **** piety under Kikubaaqudgha
+     4 | D:1      | Reached ***** piety under Kikubaaqudgha
+     4 | D:1      | Reached ****** piety under Kikubaaqudgha
+     5 | D:1      | Reached XP level 2. HP: 44/44 MP: 3/31
+     5 | D:1      | Reached XP level 3. HP: 49/49 MP: 3/32
+     5 | D:1      | Reached XP level 4. HP: 54/54 MP: 3/34
+     5 | D:1      | Reached XP level 5. HP: 59/59 MP: 3/35
+     5 | D:1      | Reached XP level 6. HP: 65/65 MP: 3/37
+     5 | D:1      | Reached XP level 7. HP: 70/70 MP: 3/38
+     5 | D:1      | Reached XP level 8. HP: 75/75 MP: 3/40
+     5 | D:1      | Reached XP level 9. HP: 80/80 MP: 3/41
+     5 | D:1      | Reached XP level 10. HP: 86/86 MP: 3/42
+     5 | D:1      | Reached XP level 11. HP: 91/91 MP: 3/43
+     5 | D:1      | Reached XP level 12. HP: 96/96 MP: 3/44
+     5 | D:1      | Reached XP level 13. HP: 101/101 MP: 3/45
+     5 | D:1      | Reached XP level 14. HP: 107/107 MP: 3/46
+     5 | D:1      | Reached XP level 15. HP: 111/111 MP: 3/47
+     5 | D:1      | Reached XP level 16. HP: 116/116 MP: 3/48
+     5 | D:1      | Reached XP level 17. HP: 121/121 MP: 3/49
+     5 | D:1      | Reached XP level 18. HP: 127/127 MP: 3/50
+     5 | D:1      | Reached XP level 19. HP: 132/132 MP: 3/51
+     5 | D:1      | Reached XP level 20. HP: 137/137 MP: 3/52
+     5 | D:1      | Reached XP level 21. HP: 142/142 MP: 3/53
+     5 | D:1      | Reached XP level 22. HP: 148/148 MP: 3/54
+     5 | D:1      | Reached XP level 23. HP: 153/153 MP: 3/55
+     5 | D:1      | Reached XP level 24. HP: 158/158 MP: 3/55
+     5 | D:1      | Reached XP level 25. HP: 163/163 MP: 3/55
+     5 | D:1      | Reached XP level 26. HP: 169/169 MP: 3/55
+     5 | D:1      | Reached XP level 27. HP: 174/174 MP: 3/55
+    11 | D:1      | Learned a level 4 spell: Animate Dead
+    17 | D:1      | Learned a level 1 spell: Pain
+    71 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |       |       |       |       |       |       |       |       |    48 ||    48
+       Punch             |       |       |       |       |       |       |       |       |     4 ||     4
+ Cast: Animate Dead      |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Receive Corpses   |       |       |       |       |       |       |       |       |     1 ||     1
+ Stab: Betrayed ally     |       |       |       |       |       |       |       |       |     2 ||     2
+       Distracted        |       |       |       |       |       |       |       |       |     1 ||     1
+  Eat: Ration            |     1 |       |       |       |       |       |       |       |       ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    37 ||    37
+

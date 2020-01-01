@@ -2,47 +2,44 @@
 
 Game seed: 17599227631540131146
 
-Iholopp the Cutter (Demigod Transmuter)             Turns: 9935, Time: 01:53:17
+Iholopp the Skirmisher (Demigod Transmuter)        Turns: 24242, Time: 05:29:57
 
-Health: 66/66      AC: 10    Str: 18    XL:     8   Next: 70%
-Magic:  13/14      EV: 14    Int: 17    God:    No God 0 (0)
-Gold:   112        SH:  5    Dex: 18    Spells: 5/11 levels left
+Health: 97/97      AC: 12    Str: 20    XL:     12   Next: 30%
+Magic:  23/23      EV: 15    Int: 19    God:    No God 0 (0)
+Gold:   161        SH:  5    Dex: 18    Spells: 1/20 levels left
 
-rFire    + . .     SeeInvis .   g - +6 hand crossbow {elec, MR+ Str+3}
-rCold    + + .     Gourm    .   r - +0 buckler
-rNeg     . . .     Faith    .   D - +2 robe {rC+ rF+}
+rFire    . . .     SeeInvis .   g - +6 hand crossbow {elec, MR+ Str+3}
+rCold    + . .     Gourm    .   r - +0 buckler
+rNeg     . . .     Faith    .   y - +0 ring mail
 rPois    .         Spirit   .   x - +2 helmet
 rElec    .         Reflect  .   P - +0 cloak
 rCorr    .         Harm     .   M - +1 pair of gloves
-MR       +....                  (boots currently unavailable)
-Stlth    ++........             (no amulet)
-HPRegen  0.21/turn              t - ring of protection from cold
-MPRegen  0.14/turn              (no ring)
+MR       ++...                  (no boots)
+Stlth    ++........             e - amulet of rage
+HPRegen  0.26/turn              t - ring of protection from cold
+MPRegen  0.18/turn              V - ring of wizardry
 
-@: appendage
-A: talons 3, high mp 1
-a: End Transformation
+@: no status effects
+A: high mp 1
+a: Evoke Berserk Rage
 
 
-You are on level 8 of the Dungeon.
+You are on level 3 of the Lair of Beasts.
 You are not hungry.
 
-You have grown temporary talons.
+You have visited 3 branches of the dungeon, and seen 14 of its levels.
+You have also visited: Sewer and Ice Cave.
 
-You have visited 2 branches of the dungeon, and seen 9 of its levels.
-You have also visited: Sewer.
-
-You have collected 467 gold pieces.
-You have spent 355 gold pieces at shops.
+You have collected 925 gold pieces.
+You have spent 764 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
- a - a +4 dagger
- b - a +1 dagger of speed
+ a - a +1 dagger of speed
+ b - a +4 dagger of freezing
  c - a +3 short sword of venom
  d - a +2 flail of holy wrath
- e - a +0 trident
  f - a +3 quarterstaff of chaos
  g - the +6 hand crossbow of Nackuiff (weapon) {elec, MR+ Str+3}
    (You bought it in a shop on level 6 of the Dungeon)   
@@ -52,212 +49,271 @@ Hand Weapons
    
    It affects your strength (+3).
    It affects your resistance to hostile enchantments.
- h - a +0 hunting sling
- L - a glowing flail
+ h - a +3 blowgun
+ i - a +0 hunting sling
 Missiles
- j - 187 stones
- k - 79 sling bullets
- p - 153 arrows
- w - 11 tomahawks
- y - 37 poisoned needles
- C - 89 bolts (quivered)
+ j - 272 stones
+ k - 117 sling bullets
+ p - 229 arrows
+ w - 27 tomahawks
+ C - 45 bolts (quivered)
+ K - 8 needles of confusion
+ R - 55 poisoned needles
 Armour
  r - a +0 buckler (worn)
  x - a +2 helmet (worn)
- D - a +2 robe of resistance (worn)
- J - a +0 ring mail
+ y - a +0 ring mail (worn)
+ D - a +2 robe of resistance
  M - a +1 pair of gloves (worn)
  P - a +0 cloak (worn)
+ T - the cursed +1 robe of Polish {rN+ MR- rCorr}
+   (You found it on level 9 of the Dungeon)   
+   
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It provides partial protection from all sources of acid and corrosion.
+   It has a curse placed upon it.
+Magical Staves
+ Y - an uncursed staff of wizardry
 Jewellery
+ e - an amulet of rage (around neck)
  t - a ring of protection from cold (left hand)
+ V - a ring of wizardry (right hand)
+ Z - an uncursed ring of protection from cold
 Wands
- v - a wand of random effects (23)
- E - a wand of flame (9)
+ l - a wand of iceblast (19)
+ v - a wand of random effects (10)
+ E - a wand of flame (20)
+ J - a wand of digging (4)
+ L - a wand of paralysis (14)
+ X - a wand of enslavement (17)
 Scrolls
- i - a scroll of remove curse
- l - a scroll labeled XOBROI ZIBOET
- n - 3 scrolls of blinking
+ n - 6 scrolls of blinking
+ q - 2 scrolls of fog
  s - 2 scrolls of teleportation
- z - a scroll of fog
- B - a scroll of amnesia
- F - 5 scrolls of fear
- H - a scroll labeled YRAUMEOCIRPH
+ z - 3 scrolls of remove curse
+ F - 6 scrolls of fear
  I - a scroll of magic mapping
 Potions
- m - 7 potions of curing
- o - 2 potions of lignification
- q - a potion of resistance
- u - a cyan potion
- A - a potion of heal wounds
- K - a potion of agility
- O - a potion of brilliance
- Q - a potion of flight
+ m - 13 potions of curing
+ o - 3 potions of lignification
+ u - a potion of magic
+ A - 4 potions of heal wounds
+ O - 3 potions of brilliance
+ Q - 5 potions of flight
 Comestibles
- G - 13 rations
- N - 5 chunks of flesh
+ B - 12 chunks of flesh
+ G - 21 rations
 
 
    Skills:
- - Level 4.0 Fighting
- + Level 4.0 Short Blades
- - Level 1.1 Maces & Flails
- - Level 1.1(1.4) Slings
- - Level 4.0 Crossbows
- - Level 1.2(1.4) Throwing
- - Level 4.0 Dodging
- - Level 2.1 Stealth
+ - Level 6.6 Fighting
+ - Level 6.0 Short Blades
+ - Level 2.0 Maces & Flails
+ - Level 2.3(4.0) Slings
+ - Level 6.0 Crossbows
+ - Level 5.0(5.3) Throwing
+ + Level 4.3 Armour
+ - Level 6.2 Dodging
+ - Level 3.3 Stealth
  - Level 4.0 Shields
- - Level 2.6 Unarmed Combat
- - Level 2.0 Spellcasting
- - Level 4.0 Transmutations
- - Level 1.0 Poison Magic
- - Level 1.0 Evocations
+ - Level 6.0 Unarmed Combat
+ - Level 4.8 Spellcasting
+ - Level 1.0 Charms
+ - Level 2.2 Translocations
+ - Level 6.0 Transmutations
+ - Level 2.4 Ice Magic
+ - Level 2.4 Poison Magic
+ - Level 5.5 Evocations
 
 
-You have 5 spell levels left.
+You have one spell level left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
-a - Beastly Appendage     Tmut           15 (50)      3%          1    15
-b - Sticks to Snakes      Tmut           15 (100)     5%          2    65
-c - Spider Form           Tmut/Pois      10 (200)     21%         3    115
+a - Beastly Appendage     Tmut           27 (50)      1%          1    0
+b - Sticks to Snakes      Tmut           27 (100)     1%          2    9
+c - Shroud of Golubria    Chrm/Tloc      10 (200)     6%          2    9
+d - Blink                 Tloc           N/A          4%          2    9
+e - Spider Form           Tmut/Pois      20 (200)     4%          3    59
+f - Ice Form              Ice/Tmut       20 (100)     14%         4    159
+g - Blade Hands           Tmut           27 (200)     19%         5    309
 
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
- Ice Form                 Ice/Tmut       8 (100)      63%         4    215
- Blade Hands              Tmut           15 (200)     71%         5    365
+ Gell's Gravitas          Tloc           13 (200)     10%         3    59
+ Lesser Beckoning         Tloc           13 (200)     10%         3    59
+ Teleport Other           Tloc           13 (100)     10%         3    59
+ Passage of Golubria      Tloc           N/A          32%         4    159
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (8/15)             Temple (1/1) D:7         
-  Lair: D:8-11      
+Dungeon (10/15)            Temple (1/1) D:7            Lair (3/6) D:10
+ Spider (0/4) Lair:2      
+ Swamp: Lair:2-4    Shoals: Lair:2-4       Orc: D:9-12      
 
 Shops:
-D:6 ((
+D:6 ((   D:8 }
 
 Annotations:
 D:6 3 runed translucent doors, Erywin's ghost, novice SpEn
-D:8 exclusion: scorpion
 
 
 Innate Abilities, Weirdness & Mutations
 
 You have an increased reservoir of magic. (+10% MP)
-You have claws for feet.
 
 
 Message History
 
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-Magic restored.
-Your transformation is almost over.
-Your talons disappear.
-Some of the chunks of flesh in your inventory have rotted away.
-There is a stone staircase leading down here.
-Casting: Beastly Appendage (safe; 3% risk of failure)
-Confirm with . or Enter, or press ? or * to list all spells.
-Your feet morph into talons.
-You climb downwards.
-Level annotation: exclusion: scorpion
-Found 38 gold pieces. Found an escape hatch in the floor.
-Found two stone staircases leading down.
-There is a stone staircase leading up here.
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found a scroll of teleportation.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found 20 bolts.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found 20 bolts.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found a ruby potion.
+Save game and exit? 
 Okay, then.
-Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
-Soup/morgue/Iholopp.txt'.
 Save game and exit? 
 
- ########
-##......##
-#.>.$....##
-.......@..#
-..........#
->.........#
-............
-..........#..
-#........#.....
-.........#.#...
->......$...# ..
-
-
-
-
-
-
-
- ##.#..
- ......######  .
- .#.#.......  ..
- ..........##...
- ...............
- ...............
- ...............
- .......<.......
+.....................###.............>...#..#
+.......#.............# #....................#
+........#........P...# ##............#PP....##
+.#..#####......P#.....##...............P.....##
+####    #......##.............................#
+       ........#.............................P#
+      #.........##............................#
+      ##........  .............#...>.<..<...###
+                   ##...##.....#...........##
+                    ...#.#....######.##P...#
+                    ?.........##   #####...#
+                    #..........#       ##.##
+                    ..........##         ##
+                    ...........#
+                    P...#...####
+                    .....^..#.#
+                    .........#
+                    .........#######
+                    ..........#....#
+                    ............#..##
+                    .........#.#....#
+                    .........##....#### ###
+                    ................#.##..#
+                    ...................@.#
+                    .......(...............#
+                     ....................(.#
+                      .....#P...............#
+                         #.#......##.........#
+                           .#..... ..........#
+                            ................!#
+                             ................#
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
+  A frost giant (IceCv)
+  A hydra (Lair:2)
+  Erolcha (D:10)
+  2 death yaks (IceCv)
+  An elephant (D:9)
+  An ice statue (IceCv)
+  2 centaur skeletons (D:10)
+  A gargoyle (D:9)
+  4 spiny frogs
+  2 rime drakes
+  A freezing wraith (D:10)
+  2 komodo dragons
+  8 polar bears (IceCv)
+  3 blink frogs
   Grinder (D:4)
-  A phantom (D:4)
-  An orc warrior (D:6)
+  A hippogriff (Lair:2)
+  25 yaks
+  3 basilisks
+  A hungry ghost (D:9)
+  3 water moccasins
+  4 porcupines
+  4 phantoms
+  8 ice beasts (Lair:2)
+  A black bear (D:10)
+  5 orc warriors
   2 ogres
-  A sky beast (D:6)
-  A centaur (D:8)
-  3 bullfrogs (D:6)
-  2 scorpions
+  3 sky beasts
+  A necrophage (D:10)
+  24 wolves
+  2 centaurs
+  5 crocodiles
+  6 bullfrogs
+  3 scorpions
   A water moccasin skeleton (D:6)
-  3 killer bees (D:7)
-  A howler monkey (D:4)
+  8 killer bees
+  3 howler monkeys
   2 crimson imps
   2 hounds
-  2 jellies
+  3 jellies
   Crazy Yiuf (D:7)
-  2 orc priests
-  A bullfrog skeleton (D:4)
+  5 orc priests
+  2 bullfrog skeletons
   Jessica (D:2)
-  5 orc wizards
-  5 worker ants
-  A worker ant zombie (D:8)
-  A howler monkey skeleton (D:4)
-  9 adders
+  10 orc wizards
+  7 worker ants
+  2 hound skeletons (D:10)
+  2 worker ant zombies
+  2 howler monkey skeletons
+  12 adders
   A river rat (Sewer)
   A shadow imp (D:6)
   An ooze (D:4)
-  2 adder skeletons (D:4)
+  3 adder skeletons
   5 worms
   2 dart slugs (D:3)
-  2 leopard geckos (D:1)
-  16 orcs
+  3 leopard geckos
+  35 orcs
   10 giant cockroaches
   5 hobgoblins
-  14 jackals
+  18 jackals
   7 kobolds
-  2 quokkas
+  3 quokkas
   7 ball pythons
   6 bats
   6 frilled lizards
   7 goblins
   A jackal skeleton (D:4)
   15 rats
-159 creatures vanquished.
+331 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
+  4 yaks (IceCv)
+  A wolf (IceCv)
   An adder (D:2)
   A shadow imp (D:6)
   2 orcs
   A hobgoblin (D:2)
   A jackal (D:3)
   A kobold (D:2)
-7 creatures vanquished.
+12 creatures vanquished.
 
-Grand Total: 166 creatures vanquished
+Vanquished Creatures (others)
+  4 polar bears (IceCv)
+  3 fungi (D:10)
+  13 plants
+20 creatures vanquished.
+
+Grand Total: 363 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -310,45 +366,114 @@ Turn   | Place    | Note
   9643 | D:7      | Noticed Crazy Yiuf
   9663 | D:7      | Killed Crazy Yiuf
   9714 | D:6      | Bought a +1 dagger of speed for 143 gold pieces
+ 10276 | D:8      | Found Tubrulo's Gadget Shoppe.
+ 10286 | D:8      | Bought a wand of flame (11) for 84 gold pieces
+ 10430 | D:9      | Reached skill level 5 in Short Blades
+ 10430 | D:9      | Reached XP level 9. HP: 71/71 MP: 13/15
+ 10438 | D:8      | Learned a level 4 spell: Ice Form
+ 10726 | D:9      | Reached skill level 5 in Transmutations
+ 10865 | D:9      | Reached skill level 1 in Ice Magic
+ 11025 | D:9      | Noticed a gargoyle
+ 11065 | D:8      | Bought a wand of enslavement (9) for 143 gold pieces
+ 11258 | D:8      | Reached skill level 1 in Armour
+ 11329 | D:9      | Killed a gargoyle
+ 11493 | D:9      | Got a dull robe
+ 11494 | D:9      | Identified the cursed +1 robe of Polish {rN+ MR- rCorr}
+                  | (You found it on level 9 of the Dungeon)
+ 11979 | D:10     | Entered Level 10 of the Dungeon
+ 11997 | D:10     | Noticed an elephant
+ 12171 | D:9      | Killed an elephant
+ 12171 | D:9      | Reached skill level 5 in Fighting
+ 12424 | D:10     | Noticed a freezing wraith
+ 12429 | D:10     | Killed a freezing wraith
+ 12513 | D:10     | Reached skill level 5 in Crossbows
+ 12513 | D:10     | Reached XP level 10. HP: 78/81 MP: 19/19
+ 12852 | D:10     | Reached skill level 5 in Dodging
+ 13098 | D:10     | Noticed Erolcha
+ 13106 | D:10     | Killed Erolcha
+ 13165 | D:10     | Found a staircase to the Lair.
+ 13783 | D:9      | Learned a level 5 spell: Blade Hands
+ 13960 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14863 | Lair:1   | Found a sparkling altar of Nemelex Xobeh.
+ 14933 | Lair:1   | You fall through a shaft!
+ 14934 | Lair:2   | Noticed a four-headed hydra
+ 14945 | Lair:2   | Killed a four-headed hydra
+ 15301 | Lair:2   | Found a frozen archway.
+ 15303 | Lair:2   | Reached XP level 11. HP: 82/86 MP: 20/20
+ 15357 | Lair:2   | Found a glowing silver altar of Zin.
+ 15390 | IceCv    | Entered an ice cave
+ 15459 | IceCv    | Reached skill level 5 in Unarmed Combat
+ 15862 | IceCv    | Noticed a death yak
+ 15908 | IceCv    | Killed a death yak
+ 18131 | IceCv    | Noticed a death yak
+ 18367 | IceCv    | Killed a death yak
+ 18804 | IceCv    | Learned a level 2 spell: Blink
+ 18831 | IceCv    | Noticed a frost giant
+ 19486 | IceCv    | Reached skill level 1 in Translocations
+ 19965 | IceCv    | Learned a level 2 spell: Shroud of Golubria
+ 20802 | IceCv    | Killed a frost giant
+ 21596 | D:8      | Bought a wand of iceblast (10) for 182 gold pieces
+ 21779 | Lair:1   | Reached XP level 12. HP: 97/97 MP: 23/23
+ 22508 | Lair:2   | Found a hole to the Spider Nest.
+ 22533 | Lair:2   | Reached skill level 5 in Throwing
+ 22567 | Lair:2   | Reached skill level 1 in Charms
+ 22839 | Lair:1   | Reached skill level 5 in Evocations
 
-Skill      XL: |  1  2  3  4  5  6  7  8 |
----------------+-------------------------+-----
-Fighting       |  1  2           3     4 |  4.0
-Stealth        |  1                 2    |  2.1
-Transmutations |  2              3  4    |  4.0
-Short Blades   |        2     3     4    |  4.0
-Shields        |        1  3           4 |  4.0
-Dodging        |              2     3  4 |  4.0
-Spellcasting   |              2          |  2.0
-Evocations     |              1          |  1.0
-Poison Magic   |                    1    |  1.0
-Maces & Flails |                    1    |  1.1
-Slings         |                    1    |  1.1
-Crossbows      |                    2  4 |  4.0
-Throwing       |                       1 |  1.2
-Unarmed Combat |                         |  2.6
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |  1  2           3     4  5     6    |  6.6
+Stealth        |  1                 2        3       |  3.3
+Transmutations |  2              3  4     5     6    |  6.0
+Short Blades   |        2     3     4  5        6    |  6.0
+Shields        |        1  3           4             |  4.0
+Dodging        |              2     3  4     5  6    |  6.2
+Spellcasting   |              2           4          |  4.8
+Evocations     |              1           3  4     5 |  5.5
+Poison Magic   |                    1        2       |  2.4
+Maces & Flails |                    1     2          |  2.0
+Slings         |                    1        2       |  2.3
+Crossbows      |                    2  4  5     6    |  6.0
+Throwing       |                       1        4  5 |  5.0
+Ice Magic      |                          1  2       |  2.4
+Armour         |                          1  2     4 |  4.3
+Unarmed Combat |                             4  6    |  6.0
+Translocations |                                1  2 |  2.2
+Charms         |                                   1 |  1.0
 
-Action                   |  1- 3 |  4- 6 |  7- 9 || total
--------------------------+-------+-------+-------++-------
-Melee: Unarmed           |    51 |       |     8 ||    59
-       Kick              |  1530 |    38 | 12688 || 14256
-       Headbutt          |  1023 |     4 |       ||  1027
-       Dagger            | 16003 |       | 16007 || 32010
-       Punch             |   303 |       |       ||   303
-       Short sword       |    30 |   151 | 24096 || 24277
-       Flail             |       |       |  4005 ||  4005
- Fire: Hunting sling     |       |       |    61 ||    61
-       Hand crossbow     |       |       |    36 ||    36
-Throw: Stone             |    34 |    47 |     9 ||    90
- Cast: Beastly Appendage |    31 |    25 |    46 ||   102
-       Sticks to Snakes  |     6 |    14 |    19 ||    39
-Evoke: Wand              |       |     2 |       ||     2
-  Use: Scroll            |     5 |     4 |     7 ||    16
-       Potion            |       |     2 |     4 ||     6
- Stab: Paralysed         |       |     4 |       ||     4
-  Eat: Chunk             |     4 |    10 |    15 ||    29
-       Ration            |       |       |     1 ||     1
-Armor: Robe              |  1524 |    29 |  2199 ||  3752
-Dodge: Dodged            | 12394 |    62 | 20867 || 33323
-Block: Buckler           |     3 |    23 |  8723 ||  8749
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    51 |       |     8 |    48 ||   107
+       Kick              |  1530 |    38 | 23057 |   124 || 24749
+       Headbutt          |  1023 |     4 |       |       ||  1027
+       Dagger            | 16003 |       | 28013 |    12 || 44028
+       Punch             |   303 |       |       |       ||   303
+       Short sword       |    30 |   151 | 28151 |  4338 || 32670
+       Flail             |       |       | 12027 |     5 || 12032
+       Scimitar          |       |       |       |  4000 ||  4000
+ Fire: Hunting sling     |       |       |    94 |     5 ||    99
+       Hand crossbow     |       |       |   124 |   202 ||   326
+Throw: Stone             |    34 |    47 |     9 |       ||    90
+       Tomahawk          |       |       |       |     1 ||     1
+ Cast: Beastly Appendage |    31 |    25 |    72 |    55 ||   183
+       Sticks to Snakes  |     6 |    14 |    19 |    44 ||    83
+       Spider Form       |       |       |       |     4 ||     4
+       Ice Form          |       |       |       |     9 ||     9
+       Shroud of Golubri |       |       |       |     7 ||     7
+       Blink             |       |       |       |     1 ||     1
+ Abil: End Transformatio |       |       |       |     1 ||     1
+Evoke: Wand              |       |     2 |     4 |    14 ||    20
+  Use: Scroll            |     5 |     4 |     8 |     8 ||    25
+       Potion            |       |     2 |     4 |     2 ||     8
+ Stab: Paralysed         |       |     4 |       |       ||     4
+       Sleeping          |       |       |     2 |     2 ||     4
+       Distracted        |       |       |       |     3 ||     3
+       Held in net/web   |       |       |       |     1 ||     1
+  Eat: Chunk             |     4 |    10 |    25 |    22 ||    61
+       Ration            |       |       |     1 |     5 ||     6
+Armor: Robe              |  1524 |    29 |  9756 |   753 || 12062
+       Skin              |       |       |       |     4 ||     4
+       Ring mail         |       |       |       |     8 ||     8
+Dodge: Dodged            | 12394 |    62 | 33571 |  3023 || 49050
+Block: Buckler           |     3 |    23 | 14078 |  1188 || 15292
+Rpst.: Scimitar          |       |       |       |   436 ||   436
 

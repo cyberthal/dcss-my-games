@@ -1,0 +1,147 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4568628862302746718
+
+0 Iptozesexa the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Dec 12, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:16 (35 turns).
+
+Iptozesexa the Skirmisher (Hill Orc Fighter)          Turns: 35, Time: 00:04:17
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 1 runed translucent door
+
+Message History
+
+Press: ? - help, v - describe, . - travel
+Here: a gnoll, wielding a +0 halberd
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a gnoll, wielding a +0 halberd
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+           #.......#                ###+###
+           #.......#                #.....#
+           #.......#                #.....#
+           ##......#                #.....#
+            #.....##                #?..[.##
+       ######.#####                 #......#
+       #......#                     #......######
+       #......#         #####       #...........#
+       #......#         #...###################.#
+     ###...##.#         #...............)..#  #.#
+     #......#.######    #..###############.#  #.#
+     #......#......#    #..#...?.........#.####.##
+     #......#......######..#.............#......>#
+     #.>.......?...........#........?....#..###..#
+     #........%.........#..#######+#######..# #..#
+     #...###............#..#.............#.(# #..#
+#######.......#.........#..'}....###....}+..###..########
+#.....#.......#....)....#.g#.....$<......#..##.....$.....
+#.............#........##..#..}...>...}..#..###.#########
+#.............#...####...@.###+#######+###..# #.....#....
+#.............#####  ###....................# #...#.#.##.
+#....(............#######...................####..#.#....
+#.....#######................................)....#.#.#..
+#.....#    #......########.....####...#....######.#.#.#?.
+#######    #.............#.....#  #...##...##...#.#.#.#..
+           #.......#####.#.....#  #...##...##.#.#.#.#.#..
+           #.......#.....#.....#  #...###..##.#.#.#.#.#..
+           ###.....#.......#####  ###......##.#.#.#.#.#..
+             #.....#.......#        #......##.#.#.#.#.#..
+             ##.##+####....#        #......##.#.#.#.#.#..
+              #.......#....#        ###....##.#.#.#.#.#.$
+              #.........)..#      #####...###.#.#.#.#.#..
+              #............#      #.......# #.#.#.#.#.#.!
+     ######## #....?.......#      #.......###.#.#.#.#.#..
+     #......# #..........###      #.........#.#.#.#.#.#..
+######....$.###..........#        #.........#.#.#.#.#.#..
+#............##.#........#        #.........#.....#.#.###
+#......##....##.#####....#        #.........###$###.#.#
+
+
+You could see a gnoll.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Iptozesexa the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     1 | D:1      | Entered wizard mode.
+     9 | D:1      | Found a runed translucent door.
+     9 | D:1      | Mangled by a gnoll
+                  | ... wielding a +0 halberd
+                  | (12 damage)
+    32 | D:1      | Slain by a gnoll
+                  | ... wielding a +0 halberd
+                  | (2 damage)
+    35 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||  4000
+Armor: Scale mail        ||   244
+Dodge: Dodged            ||   995
+Block: Shield            ||  1347
+

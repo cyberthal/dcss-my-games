@@ -1,0 +1,364 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4052239169617257235
+
+Zownu the Skirmisher (Human Gladiator)             Turns: 15170, Time: 03:17:43
+
+Health: 79/79      AC: 20    Str: 14 (16) XL:     10   Next: 48%
+Magic:  14/14      EV:  8    Int:  8 (9)  God:    Zin 53 (0)
+Gold:   164        SH:  0    Dex: 13 (16) Spells: 8/9 levels left
+
+rFire    . . .     SeeInvis .   a - +0 shortbow
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   r - +0 chain mail
+rPois    .         Spirit   +   u - +0 helmet
+rElec    .         Reflect  .   I - +1 cloak
+rCorr    .         Harm     .   j - +0 pair of gloves
+MR       .....                  R - +2 pair of boots
+Stlth    ..........             m - amulet of guardian spirit
+HPRegen  0.23/turn              J - ring of protection from cold
+MPRegen  0.14/turn              p - +3 ring of protection
+
+@: no status effects
+A: no striking features
+a: Recite, Vitalisation, Donate Gold, Renounce Religion
+
+
+You are on level 8 of the Dungeon.
+You worship Zin.
+Zin is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 9 of its levels.
+
+You have collected 322 gold pieces.
+You have donated 158 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ b - a +3 dire flail
+ d - a +2 whip of freezing
+ e - a +0 hunting sling
+ h - a +0 war axe
+ C - a +0 halberd
+Missiles
+ k - 186 stones
+ s - 169 arrows (quivered)
+ v - 8 tomahawks
+ K - a throwing net {!f}
+Armour
+ j - a +0 pair of gloves (worn)
+ r - a +0 chain mail (worn)
+ u - a +0 helmet (worn)
+ I - a +1 cloak (worn)
+ R - a +2 pair of boots (worn)
+Jewellery
+ m - an amulet of guardian spirit (around neck)
+ p - a +3 ring of protection (right hand)
+ J - a ring of protection from cold (left hand)
+ T - an uncursed ring of protection from cold
+Wands
+ F - a wand of enslavement (6)
+ L - a wand of iceblast (6)
+ W - a wand of paralysis (6)
+Scrolls
+ q - a scroll of fog
+ t - 3 scrolls of teleportation
+ x - 2 scrolls of magic mapping
+ Q - 2 scrolls of noise
+Potions
+ l - 7 potions of curing
+ o - a potion of cancellation
+ E - 2 potions of flight
+Comestibles
+ f - 10 rations
+
+
+   Skills:
+ - Level 7.0 Fighting
+ + Level 3.2(5.4) Maces & Flails
+   Level 6.8(7.2) Staves
+ - Level 1.5(2.0) Slings
+ - Level 3.1 Bows
+ - Level 2.0(2.2) Throwing
+ - Level 4.3 Armour
+ - Level 4.0 Dodging
+ - Level 1.0 Stealth
+ + Level 0.0 Ice Magic
+ * Level 6.0 Invocations
+ - Level 6.0 Evocations
+
+
+You have 8 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            0 (25)       100%        1    50
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       0 (50)       100%        2    100
+ Ozocubu's Armour         Chrm/Ice       0 (100)      100%        3    150
+ Summon Ice Beast         Ice/Summ       0 (100)      100%        4    250
+ Throw Icicle             Conj/Ice       0 (100)      100%        4    250
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:6 3 runed translucent doors, Mausisaf's ghost, novice SpEn; melllvar's ghost,
+novice DsFE; quaternion's ghost, novice TeAE
+D:7  Yiuf
+
+Message History
+
+As you read the scroll labeled MOVYEL JISKEON, it crumbles to dust.
+It is a scroll of enchant armour.
+Your +1 pair of boots glows green for a moment.
+As you read the scroll of enchant armour, it crumbles to dust.
+Your +0 cloak glows green for a moment.
+You climb downwards.
+There is a stone staircase leading up here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+a - a +0 shortbow (weapon)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You open the door.
+There is an open door here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You open the door.
+There is an open door here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+
+##+##.....##
+...........#
+...........#
+...........+
+...........#
+...........#
+...........#####.
+#######'##.......
+.........#.......
+.......<.@.......
+.........#.......
+.........#.......
+##+#######.......
+          .#####.
+          .#
+          .#
+          .#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Joseph (D:7)
+  Prince Ribbit (D:7)
+  A basilisk (D:4)
+  Duvessa (D:3)
+  A sky beast (D:4)
+  2 ice beasts (D:5)
+  2 orc warriors
+  3 phantoms
+  4 slaves
+  8 ogres
+  4 centaurs
+  2 bullfrogs
+  2 scorpions
+  4 wights (D:6)
+  3 howler monkeys
+  3 crimson imps
+  A quasit (D:7)
+  3 hounds
+  2 jellies
+  2 orc priests
+  Jessica (D:2)
+  Natasha (twice) (D:4)
+  8 orc wizards
+  5 iguanas
+  2 worker ants
+  Crazy Yiuf (D:7)
+  7 gnolls
+  9 adders
+  A howler monkey skeleton (D:4)
+  2 shadow imps
+  3 oozes
+  An adder zombie (D:7)
+  An adder skeleton (D:7)
+  2 dart slugs
+  8 leopard geckos
+  19 orcs
+  9 giant cockroaches
+  8 goblins
+  12 hobgoblins
+  5 jackals
+  7 kobolds
+  3 quokkas
+  A ball python (D:1)
+  9 bats
+  4 frilled lizards
+  A jackal skeleton (D:4)
+  A leopard gecko skeleton (D:6)
+  9 rats
+191 creatures vanquished.
+
+Vanquished Creatures (others)
+  Dowan (D:4)
+  Natasha (D:4)
+  4 withered plants (D:6)
+6 creatures vanquished.
+
+Grand Total: 197 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zownu the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   195 | D:1      | Reached skill level 1 in Stealth
+   395 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+  1061 | D:1      | Reached skill level 3 in Fighting
+  1061 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/3
+  2267 | D:2      | Reached XP level 4. HP: 35/35 MP: 4/4
+  3282 | D:2      | Noticed Jessica
+  3294 | D:2      | Killed Jessica
+  3294 | D:2      | Reached skill level 1 in Armour
+  3294 | D:2      | Reached XP level 5. HP: 41/41 MP: 5/5
+  3530 | D:3      | Reached skill level 1 in Slings
+  3591 | D:3      | Found a faded altar of an unknown god.
+  4236 | D:3      | Reached skill level 4 in Fighting
+  4236 | D:3      | Reached XP level 6. HP: 48/48 MP: 6/6
+  4436 | D:3      | Found a shattered altar of Ashenzari.
+  4709 | D:3      | Found a stormy altar of Qazlal.
+  5076 | D:4      | Noticed Duvessa
+  5080 | D:4      | Noticed Dowan
+  5264 | D:4      | Reached XP level 7. HP: 53/55 MP: 7/7
+  5281 | D:3      | Reached skill level 5 in Fighting
+  5281 | D:3      | Reached skill level 5 in Staves
+  5281 | D:3      | Reached skill level 1 in Bows
+  5916 | D:4      | Got a steaming robe
+  5961 | D:4      | Noticed Natasha
+  5970 | D:4      | Killed Natasha
+  5987 | D:4      | Noticed Natasha
+  5999 | D:4      | Killed Natasha
+  5999 | D:4      | Reached skill level 1 in Evocations
+  6127 | D:4      | Noticed Natasha
+  6192 | D:4      | Noticed Pikel
+  6330 | D:4      | Noticed Pikel
+  6332 | D:4      | Noticed Pikel
+  6332 | D:4      | Pikel the black mamba changed into Pikel the basilisk
+  6578 | D:4      | Your ally  died
+  6580 | D:4      | Your ally  died
+  6841 | D:3      | Killed Duvessa
+  6841 | D:3      | Reached skill level 6 in Fighting
+  6841 | D:3      | Reached XP level 8. HP: 50/64 MP: 6/9
+  6939 | D:4      | Killed Pikel the basilisk
+  7341 | D:5      | Entered Level 5 of the Dungeon
+  8633 | D:5      | Reached XP level 9. HP: 69/69 MP: 10/12
+  8806 | D:5      | Found a sacrificial altar of Ru.
+ 10050 | D:6      | Reached skill level 7 in Fighting
+ 10297 | D:6      | Found a glowing silver altar of Zin.
+ 10297 | D:6      | Found a glowing golden altar of the Shining One.
+ 10298 | D:6      | Found a shadowy altar of Dithmenos.
+ 10305 | D:6      | Became a worshipper of Zin the Law-Giver
+ 10305 | D:6      | Reached * piety under Zin
+ 10312 | D:6      | Donated 126 gold pieces to Zin
+ 10637 | D:6      | Found a runed translucent gate.
+ 10638 | D:6      | Found a runed translucent gate.
+ 10638 | D:6      | Found a runed translucent gate.
+ 10641 | D:6      | Noticed quaternion's ghost (novice TeAE)
+ 10641 | D:6      | Noticed melllvar's ghost (novice DsFE)
+ 10641 | D:6      | Noticed Mausisaf's ghost (novice SpEn)
+ 10670 | D:6      | Found a staircase to the Ecumenical Temple.
+ 10698 | D:6      | Reached skill level 1 in Invocations
+ 10776 | Temple   | Entered the Ecumenical Temple
+ 10952 | D:6      | Reached ** piety under Zin
+ 11596 | D:6      | Entered wizard mode.
+ 11794 | D:7      | Reached skill level 5 in Evocations
+ 11884 | D:7      | Found a sparkling altar of Nemelex Xobeh.
+ 12447 | D:7      | Noticed Prince Ribbit
+ 12456 | D:7      | Reached XP level 10. HP: 76/79 MP: 11/13
+ 12652 | D:7      | Found a runed translucent door.
+ 13508 | D:7      | Noticed Joseph
+ 13673 | D:7      | Killed Joseph
+ 13673 | D:7      | Reached skill level 1 in Maces & Flails
+ 14001 | D:7      | Reached skill level 5 in Invocations
+ 14017 | D:7      | Killed Prince Ribbit
+ 14593 | D:7      | Learned a level 1 spell: Freeze
+ 14727 | D:7      | Noticed Crazy Yiuf
+ 14929 | D:7      | Killed Crazy Yiuf
+ 15102 | D:6      | Identified the cursed +0 robe of Ding {Str+4} (You found it
+                  | on level 4 of the Dungeon)
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Stealth        |  1                            |  1.0
+Fighting       |     3        4     6     7    |  7.0
+Armour         |           1        2  3  4    |  4.3
+Slings         |              1                |  1.5
+Staves         |              4     5  6       |  6.8
+Bows           |                    1  3       |  3.1
+Evocations     |                    2  4  5  6 |  6.0
+Dodging        |                          4    |  4.0
+Invocations    |                          2  6 |  6.0
+Maces & Flails |                             3 |  3.2
+Throwing       |                               |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Quarterstaff      |    89 |   175 |  4324 |       ||  4588
+       Dire flail        |       |       |  4033 |  4063 ||  8096
+       Whip              |       |       |       |  4027 ||  4027
+ Fire: Hunting sling     |       |    38 |    64 |       ||   102
+       Shortbow          |       |       |   127 |    85 ||   212
+Throw: Stone             |    26 |    14 |       |       ||    40
+       Tomahawk          |       |     1 |    13 |     6 ||    20
+       Throwing net      |       |       |     3 |       ||     3
+Invok: Recite            |       |       |    16 |    28 ||    44
+       Donate Gold       |       |       |     1 |       ||     1
+Evoke: Wand              |       |       |     4 |     1 ||     5
+  Use: Scroll            |     3 |     4 |     6 |     4 ||    17
+       Potion            |       |       |     2 |     1 ||     3
+ Stab: Held in net/web   |       |       |     3 |       ||     3
+       Paralysed         |       |       |       |     3 ||     3
+  Eat: Chunk             |     4 |     8 |    15 |     2 ||    29
+       Ration            |       |       |     3 |     2 ||     5
+Armor: Leather armour    |    14 |       |       |       ||    14
+       Scale mail        |       |    24 |       |       ||    24
+       Chain mail        |       |    60 |  4788 |  4202 ||  9050
+Dodge: Dodged            |    37 |    75 |  2576 |  2490 ||  5178
+

@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 31976367923020065
+
+0 Bewk the Grasshopper (level 1, 16/16 HPs)
+             Began as a Human Warper on Oct 20, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:12 (0 turns).
+
+Bewk the Grasshopper (Human Warper)                    Turns: 0, Time: 00:00:12
+
+Health: 16/16      AC:  3    Str: 11    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 13    God:    
+Gold:   0          SH:  0    Dex: 12    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Missiles
+ e - 5 tomahawks of dispersal (quivered)
+Armour
+ b - a +0 leather armour (worn)
+Scrolls
+ d - a scroll of blinking
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 2.0 Polearms
+ + Level 1.0 Throwing
+ + Level 1.0 Armour
+ + Level 2.0 Dodging
+ + Level 2.0 Spellcasting
+   Level 3.0 Translocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          14%         2    ###....
+ Shroud of Golubria       Chrm/Tloc      #.........   26%         2    ###....
+ Gell's Gravitas          Tloc           #.........   28%         3    ####...
+ Lesser Beckoning         Tloc           #.........   28%         3    ####...
+ Teleport Other           Tloc           #.......     28%         3    ####...
+ Passage of Golubria      Tloc           N/A          67%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Bewk the Human Warper.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found 68 stones. Found an escape hatch in the floor.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#>.............
+#.(............
+#.(....~~~~~~~~
+#.~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~
+#~~~~~~........
+#~~~~..(.......
+ #~~...@.......
+ ####.......~~~
+    ####~~~~~~~
+        ~~~~~..
+        #####..
+              #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bewk the Human Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Quit the game
+

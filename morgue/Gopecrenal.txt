@@ -2,11 +2,11 @@
 
 Game seed: 538878823546100671
 
-Gopecrenal the Slasher (VSIE)                       Turns: 3313, Time: 00:38:40
+Gopecrenal the Slasher (VSIE)                       Turns: 3851, Time: 00:56:40
 
-Health: 30/30      AC:  5    Str: 13    XL:     6   Next: 53%
-Magic:  10/10      EV: 12    Int: 15    God:    No God 0 (0)
-Gold:   185        SH:  0    Dex: 14    Spells: 4/10 levels left
+Health: 30/30      AC:  5    Str: 13    XL:     6   Next: 86%
+Magic:  11/11      EV: 12    Int: 15    God:    No God 0 (0)
+Gold:   192        SH:  0    Dex: 14    Spells: 1/11 levels left
 
 rFire    . . .     SeeInvis .   c - +0 hunting sling
 rCold    + . .     Gourm    .   (no shield)
@@ -25,12 +25,12 @@ immunity
 a: no special abilities
 
 
-You are on level 3 of the Dungeon.
+You are on level 4 of the Dungeon.
 You are not hungry.
 
-You have visited 1 branch of the dungeon, and seen 3 of its levels.
+You have visited 1 branch of the dungeon, and seen 4 of its levels.
 
-You have collected 185 gold pieces.
+You have collected 192 gold pieces.
 
 Inventory:
 
@@ -38,18 +38,23 @@ Hand Weapons
  a - a +0 dagger
  b - a +0 falchion
  c - a +0 hunting sling (weapon)
+ n - a +0 halberd
  v - a runed mace
  x - a spear
+ D - a +0 hand axe
 Missiles
- h - 66 stones (quivered)
- r - 16 sling bullets
+ h - 65 stones (quivered)
+ r - 9 sling bullets
  t - 29 bolts
+ B - 5 tomahawks
+ G - 37 arrows
 Armour
+ f - a +0 leather armour
  g - a +2 robe of cold resistance (worn)
- i - a ring mail
+ i - a +0 ring mail
  m - a cursed +0 pair of boots (worn)
  o - storm dragon scales
- q - a scale mail
+ q - a +0 scale mail
 Scrolls
  d - 2 scrolls of immolation
  e - 3 scrolls of amnesia
@@ -58,14 +63,15 @@ Scrolls
  p - a scroll labeled HAIH SON IDD
  y - a scroll labeled DUMEROPROMP
  z - a scroll labeled IROETAOMEE
+ F - 2 scrolls labeled PEH HEFOAT
 Potions
- l - 3 potions of curing
+ l - 2 potions of curing
  s - a potion of haste
- w - a potion of might
+ w - 3 potions of might
  A - a black potion
+ E - a potion of lignification
 Comestibles
- f - 6 chunks of flesh
- u - 4 rations
+ u - 5 rations
 
 
    Skills:
@@ -74,35 +80,37 @@ Comestibles
  - Level 3.8(4.1) Long Blades
  - Level 1.1 Slings
  - Level 1.5 Dodging
- - Level 3.0 Stealth
- - Level 2.5 Spellcasting
+ + Level 3.6 Stealth
+ - Level 3.0 Spellcasting
  - Level 1.0 Conjurations
- + Level 1.0 Charms
+ - Level 1.0 Charms
  - Level 3.0 Ice Magic
 
 
-You have 4 spell levels left.
+You have one spell level left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
-a - Freeze                Ice            10 (25)      6%          1    12
-b - Throw Frost           Conj/Ice       7 (50)       14%         2    62
-c - Ozocubu's Armour      Chrm/Ice       7 (100)      28%         3    112
+a - Freeze                Ice            11 (25)      6%          1    5
+b - Throw Frost           Conj/Ice       8 (50)       13%         2    55
+c - Ozocubu's Armour      Chrm/Ice       8 (100)      26%         3    105
+d - Throw Icicle          Conj/Ice       8 (100)      65%         4    205
 
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
- Throw Icicle             Conj/Ice       7 (100)      67%         4    212
- Summon Ice Beast         Ice/Summ       6 (100)      75%         4    212
+ Summon Ice Beast         Ice/Summ       6 (100)      71%         4    205
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (3/15)            
+Dungeon (4/15)            
+Temple: D:4-7       
 
 Altars:
 Ashenzari
+Kikubaaqudgha
 Yredelemnul
 
 Annotations:
@@ -121,55 +129,52 @@ You are immune to rotting.
 
 Message History
 
-Some of the chunks of flesh in your inventory have rotted away.
-Key pressed, stopping explore.
-Unknown command.
-You enter the shallow water.
-Moving in this stuff is going to be slow.
-You enter the shallow water.
-Moving in this stuff is going to be slow.
-Key pressed, stopping explore.
-Unknown command.
-Some of the chunks of flesh in your inventory have rotted away.
-Key pressed, stopping explore.
-Unknown command.
-Done exploring.
-Unknown command.
-Okay, then.
-Search for what [Enter for "."]? .
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-Search for what [Enter for "."]? .
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found a stone staircase leading down.
+Press: ? - help, v - describe, . - travel
+The floor.
+All of the chunks of flesh in your inventory have rotted away.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found 19 arrows.
+Press: ? - help, v - describe, . - travel, g - get item
+19 arrows.
+The floor.
+G - 37 arrows (gained 19)
 Save game and exit? 
 
-           #.......#      #~.#                  #.#
-        ####.......#      #~.#                  #.#
-   ######>......####     ##~~#                  #.#
-   #...##########        #~~.########           #.#
-   #._.# ######          #~#........# ###########.##
-####...###....#          #~####.....# #........)...#
-#..#####......############### #.....# #............#
-#......................##...# #.....# #............#
-#...#+#.....%.######.####...# #.....# #............#
-#...#p#.......#    #.#  #...###.....# #....%.......#
-#...###.......#    #.####...##......# #............#
-#.............#    #........##......# #............#
-####..........#    #####............# #............#
-   ############        #....)#......# #..........<.#
-                       #.....#......# #............#
-                       #.....#......# ######..#.#.###
-                       ##..<##.#.#.##      #....#...#
-                        #....#.#.#.#       ##.###.#.#
-                        #....#.#.#.#        #.#####.#
-                        #.##.......#        #.......#
-                        #.##.###.###        #########
-                        #..#.# #.#
-                        ##.#.###.#
-                         #.#...@.#
-                         #%#######
-                         #.#
-                         #<#
-                         ###
+#.#.#####.......#
+#..#......#####.#
+#.#..##...#
+#.##.##...#
+#.##..#._.#
+#.##.##...#
+#.##.######
+#.....##Z##
+####.######
+   #.######
+   #.#.#
+   #...#
+   ###.#
+     #.#
+     #.#
+     #.#
+     #.#
+     #.#######
+     #.>......
+     #.######.
+     #.#
+     #.#
+     #.######.#
+     #..@.....#
+     ##########
 
 
 There are no monsters in sight!
@@ -177,13 +182,15 @@ There are no monsters in sight!
 Vanquished Creatures
   Sigmund (D:3)
   Jessica (D:3)
-  A worker ant (D:2)
+  An orc wizard (D:4)
+  2 worker ants
   3 gnolls (D:3)
-  2 adders (D:3)
+  3 adders
   An ooze (D:3)
   2 worms (D:3)
   2 dart slugs (D:1)
   3 leopard geckos
+  6 orcs
   2 giant cockroaches (D:2)
   9 goblins
   8 hobgoblins
@@ -195,7 +202,13 @@ Vanquished Creatures
   A kobold skeleton (D:3)
   A leopard gecko skeleton (D:2)
   13 rats
-70 creatures vanquished.
+79 creatures vanquished.
+
+Vanquished Creatures (others)
+  A human (D:4)
+1 creature vanquished.
+
+Grand Total: 80 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -226,35 +239,42 @@ Turn   | Place    | Note
   3035 | D:3      | Noticed Sigmund
   3061 | D:3      | Killed Sigmund
   3061 | D:3      | Reached XP level 6. HP: 28/30 MP: 7/10
+  3318 | D:3      | Learned a level 4 spell: Throw Icicle
+  3792 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  3798 | D:4      | Noticed a human
+  3799 | D:4      | Killed a human
 
-Skill      XL: |  1  2  3  4  5 |
----------------+----------------+-----
-Slings         |     1          |  1.1
-Fighting       |     1        2 |  2.2
-Stealth        |     3          |  3.0
-Charms         |        1       |  1.0
-Short Blades   |        1       |  1.7
-Long Blades    |           1  3 |  3.8
-Dodging        |                |  1.5
-Spellcasting   |                |  2.5
-Conjurations   |                |  1.0
-Ice Magic      |                |  3.0
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Slings         |     1             |  1.1
+Fighting       |     1        2    |  2.2
+Stealth        |     3             |  3.6
+Charms         |        1          |  1.0
+Short Blades   |        1          |  1.7
+Long Blades    |           1  3    |  3.8
+Spellcasting   |                 3 |  3.0
+Dodging        |                   |  1.5
+Conjurations   |                   |  1.0
+Ice Magic      |                   |  3.0
 
 Action                   |  1- 3 |  4- 6 || total
 -------------------------+-------+-------++-------
-Melee: Dagger            |     8 |  4007 ||  4015
+Melee: Dagger            |     8 |  8013 ||  8021
        Unarmed           |     3 |       ||     3
-       Bite              |     1 |  4026 ||  4027
-       Falchion          |       |  8029 ||  8029
- Fire: Hunting sling     |    70 |    75 ||   145
- Cast: Freeze            |    26 |    12 ||    38
-       Ozocubu's Armour  |     1 |     2 ||     3
+       Bite              |     1 | 10920 || 10921
+       Falchion          |       | 12051 || 12051
+       Halberd           |       |  4000 ||  4000
+       Scythe            |       |  4000 ||  4000
+ Fire: Hunting sling     |    70 |    91 ||   161
+ Cast: Freeze            |    26 |    22 ||    48
+       Ozocubu's Armour  |     1 |     4 ||     5
+       Throw Frost       |       |     1 ||     1
   Use: Scroll            |     6 |     1 ||     7
-       Potion            |     1 |     2 ||     3
+       Potion            |     1 |     3 ||     4
  Stab: Invisible         |       |     2 ||     2
-  Eat: Chunk             |     4 |     4 ||     8
+  Eat: Chunk             |     4 |     6 ||    10
 Armor: Skin              |     6 |       ||     6
-       Robe              |     2 |  1060 ||  1062
-Dodge: Dodged            |    18 |  6095 ||  6113
-Rpst.: Falchion          |       |  1359 ||  1359
+       Robe              |     2 |  1307 ||  1309
+Dodge: Dodged            |    18 | 15305 || 15323
+Rpst.: Falchion          |       |  2148 ||  2148
 

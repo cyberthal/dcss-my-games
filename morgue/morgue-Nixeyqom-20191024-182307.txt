@@ -1,0 +1,159 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3899556922545142812
+
+486864 Nixeyqom the Unseen (level 27, 222/222 HPs) *WIZ*
+             Began as a Human Artificer on Oct 24, 2019.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:03:20 (344 turns).
+
+Nixeyqom the Unseen (Human Artificer)                Turns: 344, Time: 00:03:20
+
+Health: 222/222    AC:  3    Str: 12    XL:     27
+Magic:  36/36      EV: 23    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++...             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.25/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 19.5 Fighting
+ + Level 19.5 Short Blades
+ + Level 19.5 Dodging
+ + Level 20.9 Stealth
+ + Level 19.6 Evocations
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+The mark upon you grows brighter.
+The vault sentinel hits you with a cursed -2 war axe.
+The vault sentinel gestures at you while chanting.
+The mark upon you grows brighter.
+The vault sentinel gestures at you while chanting.
+The mark upon you grows brighter.
+The vault sentinel gestures at you while chanting.
+The mark upon you grows brighter.
+The vault sentinel blows a loud note on a signal horn!
+The vault sentinel shoots a bolt. The bolt completely misses you.
+Enter Wizard Command (? - help): 
+You climb downwards.
+There is a stone staircase leading up here.
+Enter Wizard Command (? - help): 
+Super healing.
+You start waiting.
+Done waiting.
+You start waiting.
+The sentinel's mark upon you fades away.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #   ##
+ ..###.
+   ...$#
+.    ...##
+<..   #..####.#
+#....###......#
+   #...@##....#
+   ####.#  ....#
+      #..   .#.#
+      ##..   # .
+        .#.
+        ...#
+        ## #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nixeyqom the Human Artificer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a vault sentinel
+     0 | D:1      | Reached skill level 20 in Stealth
+     0 | D:1      | Reached XP level 2. HP: 50/50 MP: 3/12
+     0 | D:1      | Reached XP level 3. HP: 57/57 MP: 3/14
+     0 | D:1      | Reached XP level 4. HP: 64/64 MP: 3/15
+     0 | D:1      | Reached XP level 5. HP: 70/70 MP: 3/17
+     0 | D:1      | Reached XP level 6. HP: 78/78 MP: 3/18
+     0 | D:1      | Reached XP level 7. HP: 84/84 MP: 3/20
+     0 | D:1      | Reached XP level 8. HP: 92/92 MP: 3/21
+     0 | D:1      | Reached XP level 9. HP: 98/98 MP: 3/22
+     0 | D:1      | Reached XP level 10. HP: 105/105 MP: 3/23
+     0 | D:1      | Reached XP level 11. HP: 112/112 MP: 3/24
+     0 | D:1      | Reached XP level 12. HP: 119/119 MP: 3/25
+     0 | D:1      | Reached XP level 13. HP: 126/126 MP: 3/26
+     0 | D:1      | Reached XP level 14. HP: 133/133 MP: 3/27
+     0 | D:1      | Reached XP level 15. HP: 139/139 MP: 3/28
+     0 | D:1      | Reached XP level 16. HP: 147/147 MP: 3/29
+     0 | D:1      | Reached XP level 17. HP: 153/153 MP: 3/30
+     0 | D:1      | Reached XP level 18. HP: 160/160 MP: 3/31
+     0 | D:1      | Reached XP level 19. HP: 167/167 MP: 3/32
+     0 | D:1      | Reached XP level 20. HP: 174/174 MP: 3/33
+     0 | D:1      | Reached XP level 21. HP: 181/181 MP: 3/34
+     0 | D:1      | Reached XP level 22. HP: 188/188 MP: 3/35
+     0 | D:1      | Reached XP level 23. HP: 194/194 MP: 3/36
+     0 | D:1      | Reached XP level 24. HP: 202/202 MP: 3/36
+     0 | D:1      | Reached XP level 25. HP: 208/208 MP: 3/36
+     0 | D:1      | Reached XP level 26. HP: 216/216 MP: 3/36
+     0 | D:1      | Reached XP level 27. HP: 222/222 MP: 3/36
+   344 | D:2      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       | 19 | 19.5
+Short Blades   | 19 | 19.5
+Dodging        | 19 | 19.5
+Stealth        | 20 | 20.9
+Evocations     | 19 | 19.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    16 ||    16
+

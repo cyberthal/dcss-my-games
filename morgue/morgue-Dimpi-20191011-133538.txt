@@ -1,0 +1,150 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15641402987025229645
+
+28 Dimpi the Skirmisher (level 3, 38/38 HPs) *WIZ*
+             Began as a Minotaur Abyssal Knight on Oct 11, 2019.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:28 (4 turns).
+
+Dimpi the Skirmisher (Minotaur Abyssal Knight)         Turns: 4, Time: 00:04:28
+
+Health: 38/38      AC:  3    Str: 15    XL:     3   Next: 0%
+Magic:  0/5        EV: 14    Int:  9    God:    Lugonu 25 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.12/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Potions
+ d - 10 potions of experience
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 6.8 Fighting
+ + Level 6.2 Long Blades
+ + Level 6.2 Armour
+ + Level 5.2 Dodging
+ + Level 5.1 Invocations
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      6.2 |     25 |  75% |   4.7 |    99  |  1.01 |      4.7
+Attack:   Mons | No hits
+Defend: Player |      7.0 |     32 |  25% |   1.8 |   100  |  1.00 |      1.8
+Defend:   Mons |     14.8 |     34 |  38% |   5.7 |   100  |  1.00 |      5.7
+Enter Wizard Command (? - help): 
+Enter values for Str, Int, Dex (space separated): 
+Setting attributes (Str, Int, Dex) to: 16, 9, 10
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      6.0 |     24 |  77% |   4.6 |    99  |  1.01 |      4.7
+Attack:   Mons | No hits
+Defend: Player |      6.9 |     28 |  26% |   1.8 |   100  |  1.00 |      1.8
+Defend:   Mons |     15.7 |     35 |  35% |   5.6 |   100  |  1.00 |      5.6
+Enter Wizard Command (? - help): 
+Enter values for Str, Int, Dex (space separated): 
+Setting attributes (Str, Int, Dex) to: 15, 9, 11
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.7 |     21 |  77% |   4.4 |    99  |  1.01 |      4.5
+Attack:   Mons | No hits
+Defend: Player |      6.6 |     28 |  27% |   1.8 |   100  |  1.00 |      1.8
+Defend:   Mons |     14.9 |     34 |  34% |   5.2 |   100  |  1.00 |      5.2
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #######
+   #@....#
+#.....#?.#
+#######  #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Dimpi the Minotaur Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | Abyss:1  | Entered wizard mode.
+     0 | D:1      | Escaped the Abyss
+     2 | D:1      | Reached skill level 5 in Fighting
+     2 | D:1      | Reached XP level 2. HP: 29/29 MP: 0/3
+     3 | D:1      | Reached skill level 5 in Dodging
+     3 | D:1      | Reached skill level 5 in Invocations
+     3 | D:1      | Reached XP level 3. HP: 38/38 MP: 0/5
+     4 | D:1      | Quit the game
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fighting       |  5  6 |  6.8
+Long Blades    |  4  6 |  6.2
+Armour         |  4  6 |  6.2
+Dodging        |  3  5 |  5.2
+Invocations    |  3  5 |  5.1
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          || 16000
+       Headbutt          ||  4030
+Invok: Depart the Abyss  ||     1
+  Use: Potion            ||     2
+Armor: Leather armour    ||   691
+Dodge: Dodged            ||  9530
+Rpst.: Falchion          ||  3097
+

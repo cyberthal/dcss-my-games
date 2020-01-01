@@ -1,0 +1,151 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2155727728435139888
+
+57 Zatot the Skirmisher (level 4, 47/47 HPs) *WIZ*
+             Began as a Hill Orc Skald on Oct 7, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:25 (7 turns).
+
+Zatot the Skirmisher (Hill Orc Skald)                  Turns: 7, Time: 00:02:25
+
+Health: 47/47      AC:  3    Str: 14    XL:     4   Next: 0%
+Magic:  4/10       EV: 13    Int: 13    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 11/12 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.15/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+ c - a +0 trident
+Armour
+ b - a +0 leather armour (worn)
+Potions
+ e - 9 potions of experience
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 7.1 Fighting
+ + Level 6.3 Polearms
+ + Level 6.0 Armour
+ + Level 4.8 Dodging
+ + Level 4.5 Spellcasting
+ + Level 5.6 Charms
+
+
+You had 11 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           17 (25)      2%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Song of Slaying          Chrm           17 (100)     3%          2    42
+ Shroud of Golubria       Chrm/Tloc      10 (200)     12%         2    42
+ Regeneration             Chrm/Necr      10 (200)     22%         3    92
+ Spectral Weapon          Hex/Chrm       10 (100)     22%         3    92
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Your Fighting skill gained 2 levels and is now at level 7!
+Your Polearms skill increases to level 6!
+Your Armour skill gained 2 levels and is now at level 6!
+Your Dodging skill increases to level 4!
+Your Spellcasting skill increases to level 4!
+Your Charms skill increases to level 5!
+You have reached level 4!
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.7 |     14 |  45% |   2.1 |    99  |  1.01 |      2.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.8 |      5 |  43% |   0.8 |    76  |  1.32 |      1.0
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+a - a +0 spear (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      2.9 |      9 |  50% |   1.5 |    78  |  1.28 |      1.9
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.7 |      5 |  43% |   0.7 |    76  |  1.32 |      1.0
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####+#####
+#.........#
+  7..@..7
+#.........#
+###########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zatot the Hill Orc Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     3 | D:1      | Reached skill level 4 in Fighting
+     3 | D:1      | Reached XP level 2. HP: 27/27 MP: 3/5
+     4 | D:1      | Reached skill level 5 in Fighting
+     4 | D:1      | Reached skill level 5 in Polearms
+     4 | D:1      | Reached XP level 3. HP: 37/37 MP: 4/8
+     5 | D:1      | Reached skill level 7 in Fighting
+     5 | D:1      | Reached skill level 5 in Charms
+     5 | D:1      | Reached XP level 4. HP: 47/47 MP: 4/10
+     7 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Fighting       |  4  5  7 |  7.1
+Polearms       |  4  5  6 |  6.3
+Armour         |  3  4  6 |  6.0
+Dodging        |  2  3  4 |  4.8
+Spellcasting   |  2  3  4 |  4.5
+Charms         |  3  4  5 |  5.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Trident           |  4000 |  4000 ||  8000
+       Spear             |       |  4000 ||  4000
+  Use: Potion            |     3 |       ||     3
+Armor: Leather armour    |   633 |  1027 ||  1660
+Dodge: Dodged            |  1926 |  4511 ||  6437
+

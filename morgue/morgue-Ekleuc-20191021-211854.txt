@@ -1,0 +1,216 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16670616467285805204
+
+10 Ekleuc the Digger (level 2, 26/26 HPs)
+             Began as a Gnoll Wanderer on Oct 21, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:13 (637 turns).
+
+Ekleuc the Digger (Gnoll Wanderer)                   Turns: 637, Time: 00:07:14
+
+Health: 26/26      AC:  2    Str: 11    XL:     2   Next: 20%
+Magic:  7/7        EV: 13    Int: 15    God:    
+Gold:   46         SH:  0    Dex: 16    Spells: 9/10 levels left
+
+rFire    . . .     SeeInvis .   a - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 46 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger (weapon)
+Missiles
+ e - 34 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+Scrolls
+ b - 2 scrolls of teleportation
+ h - 2 scrolls of enchant armour {unknown}
+ i - a scroll of immolation {unknown}
+ k - a scroll of remove curse {unknown}
+ m - a scroll of blinking {unknown}
+Potions
+ d - 2 potions of agility {unknown}
+ j - a potion of flight {unknown}
+ l - a potion of curing {unknown}
+Comestibles
+ f - 2 rations
+
+
+   Skills:
+ + Level 4.4 Fighting
+ + Level 0.3 Short Blades
+ + Level 0.3 Long Blades
+ + Level 0.3 Axes
+ + Level 0.3 Maces & Flails
+ + Level 0.3 Polearms
+ + Level 0.3 Staves
+ + Level 0.3 Slings
+ + Level 0.3 Bows
+ + Level 0.3 Crossbows
+ + Level 0.3 Throwing
+ + Level 0.3 Armour
+ + Level 2.4 Dodging
+ + Level 4.0 Stealth
+ + Level 0.3 Shields
+ + Level 0.3 Unarmed Combat
+ + Level 4.9 Spellcasting
+ + Level 0.2 Conjurations
+ + Level 0.2 Hexes
+ + Level 0.2 Charms
+ + Level 0.2 Summonings
+ + Level 0.2 Necromancy
+ + Level 0.2 Translocations
+ + Level 0.2 Transmutations
+ + Level 0.2 Fire Magic
+ + Level 0.2 Ice Magic
+ + Level 0.2 Air Magic
+ + Level 5.3 Earth Magic
+ + Level 0.2 Poison Magic
+ + Level 0.4 Invocations
+ + Level 0.3 Evocations
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           ###...       1%          1    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Passwall                 Tmut/Erth      ##......     8%          2    ##.....
+ Stone Arrow              Conj/Erth      ##....       16%         3    ###....
+ Petrify                  Tmut/Erth      ##......     45%         4    ####...
+ Lee's Rapid Deconstruct  Erth           ###.......   45%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Autopickup is now off.
+There is an escape hatch in the floor here.
+Key pressed, stopping explore.
+Unknown command.
+You see here a +0 dagger.
+There is an open door here.
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+Autopickup is now off.
+A goblin comes into view.
+The goblin shouts!
+All of the chunks of flesh in your inventory have rotted away.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ######
+     ....#
+      ...#
+      #..#
+      #..#
+  #.###.(#####################################
+  #.....................................>.....
+  #####.........########################......
+  #......######.##  #####              #.#####
+  #.###..#    #..####...###            #.#
+      #..#    ##.##.......##    #####  #.#
+      #@##     #.#.........######...####.#
+......g.#      #.#....8......##.......##.#
+###.#####      #.#.........##..........#.#
+               #.##.......####....<....#.#####
+               #..###...###  #.........#.....#
+               ##...####.### ##.......##.###.#
+                ###.####...######...####.# #.#
+                  #.##.......######### #.# #.#
+                  #.#...........##...###.# #.#
+                  #.#....8....##....#.##.# #.#
+                  #.#.........###.###..#.# #..
+            #######'##.......##....#...#.# ###
+            #........###...###..##..#.##.#
+            #........'.#######.########..#
+            #........#.).........>...##'##
+            #........#######...#.........#
+            #........#     #...#.........#
+            #........#     #...#.........#
+            #........#     #...#.........#
+            #........#     #...#.........#
+            #........#     #...#.........#####
+            #........#     #...#.......>.'....
+            ##########     #...#.........#####
+
+
+You could see a goblin.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  2 giant cockroaches (D:1)
+  A frilled lizard (D:1)
+  2 goblins (D:1)
+  3 rats (D:1)
+9 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ekleuc the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Ekleuc set off with the following items: a +0 dagger, 2
+                  | scrolls of teleportation, a +0 robe, a ration; and the
+                  | following spell memorised: Sandblast; and the following
+                  | spells available to memorise: Passwall, Stone Arrow, Lee's
+                  | Rapid Deconstruction, Petrify
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 6/6
+   275 | D:1      | Reached XP level 2. HP: 23/26 MP: 7/7
+   637 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    33
+       Bite              ||     1
+Throw: Stone             ||     1
+ Cast: Sandblast         ||     1
+Armor: Robe              ||     1
+Dodge: Dodged            ||    16
+

@@ -1,0 +1,394 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1545757595775908493
+
+2385 Mice the Ducker (level 9, 54/54 HPs) *WIZ*
+             Began as a Kobold Fire Elementalist on Sept 18, 2019.
+             Was an Initiate of Fedhas.
+             Quit the game on level 7 of the Dungeon on Sept 19, 2019.
+             The game lasted 02:59:41 (14678 turns).
+
+Mice the Ducker (Kobold Fire Elementalist)         Turns: 14678, Time: 02:59:41
+
+Health: 54/54      AC:  6    Str:  8    XL:     9   Next: 74%
+Magic:  15/15      EV: 19    Int: 18    God:    Fedhas 21 (0)
+Gold:   32         SH:  0    Dex: 17    Spells: 2/16 levels left
+
+rFire    . . .     SeeInvis .   a - +1 dagger (venom)
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +1 steam dragon scales
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.18/turn              q - +3 ring of strength
+MPRegen  0.14/turn              t - ring of poison resistance (curse)
+
+@: no status effects
+A: small, carnivore
+a: Fungal Bloom, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was noncommittal.
+You were completely stuffed.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 421 gold pieces.
+You spent 389 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of venom (weapon)
+ b - a +3 dagger of flaming
+ d - a +0 rapier
+ e - a +1 flail of protection
+Missiles
+ f - 320 stones (quivered)
+ g - 8 tomahawks
+ k - 50 arrows
+ m - 10 curare-tipped needles
+ v - 41 bolts
+ A - 18 sling bullets
+Armour
+ c - +1 steam dragon scales (worn)
+Jewellery
+ q - a +3 ring of strength (left hand)
+ t - a cursed ring of poison resistance (right hand)
+Wands
+ D - a wand of iceblast (10)
+Scrolls
+ h - 2 scrolls of magic mapping
+ j - 3 scrolls of blinking
+ l - 2 scrolls of teleportation
+ n - a scroll of fear
+ w - a scroll of fog
+ y - 3 scrolls of noise
+ z - 2 scrolls of immolation
+ C - a scroll of remove curse
+ G - a scroll of summoning
+Potions
+ i - a potion of lignification
+ o - a potion of ambrosia {unknown}
+ p - a potion of flight
+ r - a potion of might {unknown}
+ s - 2 potions of curing
+ x - a potion of magic
+ B - a potion of mutation {unknown}
+ E - a potion of invisibility
+ F - a potion of degeneration {unknown}
+Comestibles
+ u - 16 rations
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 6.0 Short Blades
+ - Level 1.2 Maces & Flails
+ - Level 6.5 Dodging
+ - Level 4.1 Stealth
+ + Level 4.4 Spellcasting
+ - Level 5.0 Conjurations
+ - Level 2.0 Hexes
+ - Level 1.4 Translocations
+ - Level 5.0 Fire Magic
+ - Level 3.0 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           22 (25)      1%          1    0
+b - Flame Tongue          Conj/Fire      22 (40)      1%          1    0
+c - Slow                  Hex            11 (100)     10%         2    21
+d - Throw Flame           Conj/Fire      22 (50)      2%          2    21
+e - Blink                 Tloc           N/A          12%         2    21
+f - Conjure Flame         Conj/Fire      22 (100)     5%          3    71
+g - Inner Flame           Hex/Fire       16 (100)     10%         3    71
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          14%         1    0
+ Pain                     Necr           3 (25)       14%         1    0
+ Call Imp                 Summ           3 (100)      22%         2    21
+ Sticky Flame             Conj/Fire      22 (100)     19%         4    171
+ Mephitic Cloud           Conj/Pois/Air  10 (100)     22%         3    71
+ Regeneration             Chrm/Necr      3 (200)      38%         3    71
+ Vampiric Draining        Necr           3 (200)      38%         3    71
+ Fireball                 Conj/Fire      22 (200)     45%         5    321
+ Animate Dead             Necr           N/A          80%         4    171
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 ?
+
+Annotations:
+D:5 hatch
+D:6 dig for loot, exclusions: centaur, orc warrior and orc wizard
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+There is a stone staircase leading up here.
+There is a stone staircase leading down here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 21, Enter for 0): 
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                #......##.###
+      ###########.#######...#
+    ###...........#########.##
+    #...###########....# #...#
+#   #.###         #....###...##
+#   #.#           #...........##
+#   #.#           #....###.....##
+##  #.#           #....##.......#
+.## #.# ####################....#
+..# #.# #.......................#
+#.# #.# #..#...#...#...#...#...##
+#.# #.# #_.....................##
+#.# #.# #..#...#...#...#...#....##
+#.###.# #.........[..............#
+...##.######################.....#
+...##.#..#               #)....#.#
+#...#...##               ##...##.#
+#.#.##.##                 ###.##.#
+#.#....########             #.##.#
+#.###..>......#             #.##.#
+..........###.##            #.##.#
+#.#.###.#..##..###          #.##.#
+#.#.# #.##...#...###        #.##.#########
+#.#.# #.####...#...####     #...[<.....@.#
+#.#.###.#  ###.###....#     ####.........#
+#....##.#    #..#####.##########.........#
+#.......#######....#.......<)))..........#
+#.####>...............##########.........#
+..#####.#####.........#####    #.#########
+.###.......#..###.........###  #.##
+####.........## #...........#  #).#
+#..........###  #.........#.#  ##.#
+..##.......#    #.........#.##  #.#
+####.......#    ###########..####.#
+   #......<#              ##......#
+   #########               ########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A hornet (D:8)
+  2 ice beasts
+  3 sky beasts
+  A phantom (D:7)
+  3 ogres
+  3 bullfrogs
+  4 scorpions
+  3 howler monkeys
+  3 crimson imps
+  A bullfrog zombie (D:6)
+  3 hounds
+  2 orc priests
+  2 orc wizards
+  A centaur skeleton (D:6)
+  Jessica (D:3)
+  A bullfrog skeleton (D:4)
+  An iguana (D:7)
+  5 worker ants
+  Terence (D:3)
+  A worker ant zombie (D:6)
+  15 adders
+  A shadow imp (D:7)
+  2 oozes
+  2 adder zombies
+  3 worms
+  A dart slug (D:1)
+  5 leopard geckos
+  20 orcs
+  A ball python (D:3)
+  11 bats
+  8 giant cockroaches
+  6 goblins
+  9 hobgoblins
+  8 jackals
+  3 quokkas
+  4 frilled lizards (D:1)
+  A giant cockroach zombie (D:6)
+  10 kobolds
+  6 rats
+  3 rat zombies (D:5)
+161 creatures vanquished.
+
+Vanquished Creatures (others)
+  18 toadstools
+18 creatures vanquished.
+
+Grand Total: 179 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mice the Kobold Fire Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   131 | D:1      | Reached skill level 1 in Fighting
+   287 | D:1      | Reached XP level 2. HP: 16/16 MP: 0/5
+   344 | D:1      | Learned a level 2 spell: Throw Flame
+   901 | D:1      | Reached XP level 3. HP: 20/20 MP: 1/6
+  2092 | D:1      | Reached skill level 1 in Short Blades
+  2217 | D:1      | Learned a level 3 spell: Conjure Flame
+  2465 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2561 | D:2      | Reached XP level 4. HP: 25/25 MP: 5/7
+  2710 | D:2      | Found a blossoming altar of Fedhas.
+  3076 | D:2      | Found a shimmering altar of Xom.
+  3659 | D:2      | Noticed an oklob plant
+  3667 | D:2      | Became a worshipper of Fedhas Madash
+  3840 | D:3      | Noticed Jessica
+  3842 | D:3      | Killed Jessica
+  3842 | D:3      | Reached XP level 5. HP: 29/29 MP: 6/9
+  4262 | D:3      | Noticed a bullfrog
+  4315 | D:3      | Killed a bullfrog
+  4455 | D:3      | Found an ornate altar of the Wu Jian Council.
+  4568 | D:2      | Learned a level 3 spell: Inner Flame
+  4568 | D:2      | Entered wizard mode.
+  4686 | D:3      | Noticed Terence
+  4995 | D:3      | Reached XP level 6. HP: 34/34 MP: 7/10
+  5271 | D:3      | Found a faded altar of an unknown god.
+  5899 | D:3      | Killed Terence
+  6012 | D:3      | Found a faded altar of an unknown god.
+  6021 | D:3      | Reached skill level 5 in Dodging
+  6312 | D:4      | Found Ijob Nydgh's Magic Scroll Shoppe.
+  6324 | D:4      | Bought a scroll of identify for 22 gold pieces
+  6324 | D:4      | Bought a scroll of identify for 22 gold pieces
+  6324 | D:4      | Bought a scroll of noise for 11 gold pieces
+  6324 | D:4      | Bought a scroll of random uselessness for 11 gold pieces
+  6324 | D:4      | Bought a scroll of remove curse for 33 gold pieces
+  6324 | D:4      | Bought a scroll of identify for 22 gold pieces
+  6324 | D:4      | Bought a scroll of identify for 22 gold pieces
+  6324 | D:4      | Bought a scroll of identify for 22 gold pieces
+  6869 | D:4      | Reached XP level 7. HP: 40/40 MP: 4/11
+  6992 | D:4      | Found a burning altar of Makhleb.
+  6992 | D:4      | Found a white marble altar of Elyvilon.
+  7187 | D:4      | Reached skill level 1 in Hexes
+  7834 | D:3      | Learned a level 1 spell: Magic Dart
+  7837 | D:3      | Learned a level 2 spell: Slow
+  8038 | D:4      | Found a staircase to the Ecumenical Temple.
+  8049 | Temple   | Entered the Ecumenical Temple
+  8254 | D:4      | Bought a scroll of magic mapping for 38 gold pieces
+  8362 | D:5      | Entered Level 5 of the Dungeon
+  9075 | D:5      | Reached skill level 1 in Maces & Flails
+  9075 | D:5      | Reached XP level 8. HP: 48/48 MP: 1/12
+  9675 | D:5      | Reached skill level 5 in Short Blades
+  9946 | D:5      | Found a hazy altar of Hepliaklqana.
+  9946 | D:5      | Found a shattered altar of Ashenzari.
+ 10901 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+ 11101 | D:4      | Learned a level 2 spell: Blink
+ 11662 | D:5      | Reached skill level 1 in Translocations
+ 12584 | D:4      | Bought a scroll of enchant armour for 82 gold pieces
+ 12638 | D:6      | Found a deep blue altar of Sif Muna.
+ 12891 | D:7      | Reached XP level 9. HP: 52/52 MP: 10/15
+ 12978 | D:7      | Reached skill level 1 in Evocations
+ 13760 | D:7      | Found an opulent altar of Gozag.
+ 13820 | D:7      | Reached skill level 5 in Fighting
+ 14097 | D:7      | Found a sacrificial altar of Ru.
+ 14190 | D:8      | Found a basalt altar of Yredelemnul.
+ 14265 | D:4      | Bought a scroll of summoning for 104 gold pieces
+ 14323 | D:8      | Noticed a hornet
+ 14324 | D:8      | Killed a hornet
+ 14324 | D:8      | Reached skill level 5 in Conjurations
+ 14324 | D:8      | Reached skill level 5 in Fire Magic
+ 14678 | D:7      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1              2  3  4  5 |  5.0
+Conjurations   |     2     3           4  5 |  5.0
+Short Blades   |        1  2     3  4  6    |  6.0
+Spellcasting   |           3           4    |  4.4
+Dodging        |              4  5        6 |  6.5
+Stealth        |                 3        4 |  4.1
+Hexes          |                    2       |  2.0
+Maces & Flails |                    1       |  1.2
+Translocations |                       1    |  1.4
+Fire Magic     |                       4  5 |  5.0
+Evocations     |                          3 |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |     4 |  8008 |  8102 || 16114
+       Rapier            |       | 12012 |       || 12012
+       Short sword       |       |  4000 |       ||  4000
+       Flail             |       |       |  4087 ||  4087
+Throw: Stone             |     8 |    45 |    48 ||   101
+ Cast: Flame Tongue      |    56 |    84 |   168 ||   308
+       Conjure Flame     |       |     3 |     5 ||     8
+       Throw Flame       |       |    10 |    18 ||    28
+       Magic Dart        |       |       |    46 ||    46
+       Slow              |       |       |    17 ||    17
+Invok: Fungal Bloom      |       |     1 |     3 ||     4
+  Use: Scroll            |     1 |    12 |     5 ||    18
+       Potion            |       |     2 |     1 ||     3
+ Stab: Sleeping          |     3 |     1 |     2 ||     6
+  Eat: Chunk             |    14 |    14 |    26 ||    54
+Armor: Robe              |     2 |   789 |       ||   791
+       Leather armour    |       |   589 |       ||   589
+       Steam dragon scal |       |       |  1505 ||  1505
+Dodge: Dodged            |    10 | 15341 |  8990 || 24341
+

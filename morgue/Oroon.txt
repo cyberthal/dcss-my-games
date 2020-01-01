@@ -2,7 +2,7 @@
 
 Game seed: 7365227865216511008
 
-Oroon the Severer (Hill Orc Fighter)          Turns: 190814, Time: 3 , 04:01:43
+Oroon the Severer (Hill Orc Fighter)          Turns: 190814, Time: 3 , 04:01:47
 
 Health: 242/242    AC: 32    Str: 23    XL:     27
 Magic:  36/46      EV: 21    Int: 11    God:    the Shining One [******]
@@ -418,11 +418,6 @@ Your flesh is heat resistant. (rF+)
 
 Message History
 
-Press: ? - help, Dir - move target cursor
-Apport: a sling bullet
-Yoink! You pull the item towards yourself.
-Y - 225 sling bullets (gained 3)
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
 Your +2 fustibalus of holy wrath stops glowing.
 e - the +8 trident of Agony (weapon) {pierce, MP+9}
 You are feeling hungry.
@@ -439,6 +434,12 @@ Okay, then.
 Are you sure you want to abandon this character and return to the main menu?
 (Confirm with "yes".) 
 Okay, then.
+Welcome back, Oroon the Hill Orc Fighter.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
+Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Oroon.txt'.
+Saving game... please wait.
 
 .......
 ...7...7

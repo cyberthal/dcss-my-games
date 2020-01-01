@@ -1,0 +1,134 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14520230152725026112
+
+0 Hoeczum the Charmwright (level 1, 18/18 HPs) *WIZ*
+             Began as a Hill Orc Skald on Oct 7, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:20 (2 turns).
+
+Hoeczum the Charmwright (Hill Orc Skald)               Turns: 2, Time: 00:01:21
+
+Health: 18/18      AC:  3    Str: 13    XL:     1   Next: 0%
+Magic:  3/3        EV: 11    Int: 13    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 2/3 levels left
+
+rFire    . . .     SeeInvis .   c - +0 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear
+ c - a +0 dagger (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.1 Polearms
+ + Level 1.1 Armour
+ + Level 1.5 Dodging
+ + Level 1.5 Spellcasting
+ + Level 2.6 Charms
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           8 (25)       12%         1    30
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Song of Slaying          Chrm           8 (100)      17%         2    80
+ Shroud of Golubria       Chrm/Tloc      4 (200)      30%         2    80
+ Regeneration             Chrm/Necr      4 (200)      52%         3    130
+ Spectral Weapon          Hex/Chrm       4 (100)      52%         3    130
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? dagger
++0 dagger
+What ego type? 
+Something appears at your feet!
+c - a +0 dagger
+The rat moves out of view.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+c - a +0 dagger (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.6 |      4 |  44% |   0.7 |   100  |  1.00 |      0.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.7 |      5 |  51% |   0.9 |    76  |  1.32 |      1.2
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.....#
+#.....#
+#.....#
+#.###.#
+#.#%#.#
+#.###.#
+#.....#
+#..@..#
+#.....#
+#######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hoeczum the Hill Orc Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||  4000
+       Spear             ||  4000
+Armor: Leather armour    ||  1272
+Dodge: Dodged            ||  3804
+

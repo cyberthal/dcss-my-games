@@ -1,0 +1,364 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1270535018968603998
+
+Ciaq the Magician (Mummy Wizard)                   Turns: 10756, Time: 02:35:41
+
+Health: 58/58      AC:  6    Str: 11    XL:     8   Next: 31%
+Magic:  16/16      EV: 11    Int: 19    God:    No God 0 (0)
+Gold:   333        SH:  0    Dex: 10    Spells: 5/18 levels left
+
+rFire    x . .     SeeInvis .   d - +3 war axe
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   t - +0 leather armour
+rPois    ?          Spirit   .   B - +0 helmet
+rElec    .         Reflect  .   y - scarf {repulsion}
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.19/turn              x - +2 ring of protection
+MPRegen  0.15/turn              (no ring)
+
+@: repel missiles
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: no special abilities
+
+
+You are on level 6 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 6 of its levels.
+You have also visited: Sewer.
+
+You have collected 333 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger
+ b - a +0 flail of protection
+ c - a +2 hand axe of pain
+ d - a +3 war axe (weapon)
+ e - a +0 trident
+ f - a +0 quarterstaff
+ g - a +3 quarterstaff of chaos
+ h - a +0 blowgun
+ i - a +0 hunting sling
+Missiles
+ k - 47 sling bullets
+ l - a throwing net (quivered) {!f}
+ n - 11 tomahawks
+ o - 51 bolts
+ z - 30 arrows
+ C - 91 stones
+ D - 15 poisoned needles
+Armour
+ p - a +0 ring mail
+ s - a +0 cloak
+ t - a +0 leather armour (worn)
+ w - a +0 scale mail
+ y - a scarf of repulsion (worn)
+ A - a +0 ring mail of cold resistance
+ B - a +0 helmet (worn)
+ E - a +0 robe
+Jewellery
+ j - an uncursed ring of ice
+ q - an uncursed amulet of faith
+ x - a +2 ring of protection (left hand)
+Wands
+ v - a wand of paralysis (8)
+Scrolls
+ m - a scroll of fear
+ r - a scroll of remove curse
+ u - 2 scrolls of teleportation
+ F - a scroll of identify
+
+
+   Skills:
+ - Level 3.0 Fighting
+ - Level 0.8 Short Blades
+ - Level 1.8(2.2) Axes
+ + Level 1.1(2.1) Maces & Flails
+ - Level 1.1(2.0) Polearms
+ - Level 1.7(2.1) Staves
+ - Level 2.5(3.0) Slings
+ - Level 2.2(2.8) Throwing
+ - Level 2.1 Armour
+ - Level 1.5 Dodging
+ - Level 1.5 Stealth
+ + Level 5.7 Spellcasting
+ - Level 2.0 Conjurations
+ - Level 1.0 Hexes
+ - Level 1.0 Summonings
+ - Level 1.0 Translocations
+ - Level 1.0 Fire Magic
+ - Level 1.5 Air Magic
+ - Level 1.5 Poison Magic
+ - Level 1.3 Evocations
+
+
+You have 5 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           13 (25)      7%          1    N/A
+b - Slow                  Hex            9 (100)      14%         2    N/A
+c - Call Imp              Summ           9 (100)      14%         2    N/A
+d - Blink                 Tloc           N/A          16%         2    N/A
+e - Conjure Flame         Conj/Fire      11 (100)     24%         3    N/A
+f - Mephitic Cloud        Conj/Pois/Air  12 (100)     22%         3    N/A
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+
+Annotations:
+D:4 1 runed translucent door, Dureava's ghost, amateur HaHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Returning to the game...
+There is an open door here.
+Move the cursor to view the level map, or type ? for a list of commands.
+(Key replay ran out of keys)
+Returning to the game...
+Search for what [Enter for "sewer", or ? for help]? .
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You have 333 gold pieces.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+You open the door.
+There is an open door here.
+There is a stone staircase leading down here.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+d - a +3 war axe (weapon)
+You climb downwards.
+There is a stone staircase leading up here.
+Saving game... please wait.
+
+#.# ..#
+#.##..#
+#.....
+#....
+#...
+#..#
+#..#.####
+#@.......
+##.#.###.
+  .#
+  .#
+  ..
+  .#
+  ..
+  ##
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:4)
+  Edmund (D:5)
+  A phantom (D:4)
+  An orc warrior (D:5)
+  A big kobold (Sewer)
+  Blork the orc (D:5)
+  A scorpion (D:5)
+  An orc priest (D:5)
+  2 hounds
+  A jelly (D:5)
+  An orc wizard (D:5)
+  An iguana (D:3)
+  Natasha (D:4)
+  2 worker ants
+  4 gnolls
+  2 adders (D:5)
+  A river rat (Sewer)
+  2 oozes
+  An adder zombie (D:5)
+  2 adder skeletons
+  4 worms
+  A dart slug (D:3)
+  2 leopard geckos
+  19 orcs
+  4 bats
+  5 giant cockroaches
+  12 goblins
+  8 hobgoblins
+  8 jackals
+  8 kobolds
+  3 quokkas
+  6 frilled lizards
+  A giant cockroach zombie (D:5)
+  A jackal skeleton (D:5)
+  10 rats
+  A plant (D:1)
+121 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A scorpion (D:4)
+  Crazy Yiuf (D:2)
+  3 orc priests
+  Natasha (twice) (D:4)
+  An orc wizard (D:4)
+  Robin (D:2)
+  5 gnolls
+  An adder (D:2)
+  2 leopard geckos (D:4)
+  An orc (D:3)
+  A bat (D:2)
+  A giant cockroach (D:5)
+  5 goblins (D:2)
+  2 hobgoblins (D:2)
+  A jackal (D:4)
+  A ball python (D:5)
+  A kobold (D:2)
+  A rat (D:2)
+31 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 withered plants (D:4)
+2 creatures vanquished.
+
+Grand Total: 154 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ciaq the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+    74 | D:1      | Reached skill level 1 in Conjurations
+   730 | D:1      | Reached XP level 2. HP: 15/20 MP: 4/7
+   735 | D:1      | Learned a level 2 spell: Blink
+   738 | D:1      | Learned a level 2 spell: Call Imp
+   741 | D:1      | Learned a level 2 spell: Slow
+   969 | D:1      | Entered wizard mode.
+  2063 | D:2      | Reached skill level 1 in Fighting
+  2063 | D:2      | Reached skill level 1 in Summonings
+  2063 | D:2      | Reached skill level 1 in Translocations
+  2241 | D:2      | Reached XP level 3. HP: 19/26 MP: 1/8
+  3033 | D:2      | Reached skill level 1 in Hexes
+  3216 | D:2      | Found a runed translucent door.
+  3217 | D:2      | Noticed Crazy Yiuf
+  3328 | D:2      | Reached skill level 1 in Polearms
+  3366 | D:2      | Reached XP level 4. HP: 18/32 MP: 5/10
+  3501 | D:1      | Learned a level 3 spell: Conjure Flame
+  3602 | D:2      | Noticed Robin
+  3713 | D:2      | Killed Robin
+  4032 | D:2      | Killed Crazy Yiuf
+  4404 | D:3      | Found a shattered altar of Ashenzari.
+  4550 | D:3      | Reached skill level 1 in Fire Magic
+  4797 | D:3      | Reached XP level 5. HP: 37/37 MP: 11/11
+  5205 | D:3      | Reached skill level 1 in Slings
+  5560 | D:4      | Noticed Grinder
+  5561 | D:4      | Paralysed by Grinder for 2 turns
+  5809 | D:4      | Noticed a phantom
+  5833 | D:3      | Reached skill level 1 in Armour
+  6346 | D:4      | Killed a phantom
+  6346 | D:4      | Reached skill level 5 in Spellcasting
+  6346 | D:4      | Reached XP level 6. HP: 36/44 MP: 12/14
+  6355 | D:3      | Learned a level 3 spell: Mephitic Cloud
+  6822 | D:4      | Killed Grinder
+  6822 | D:4      | Reached skill level 1 in Air Magic
+  6822 | D:4      | Reached skill level 1 in Poison Magic
+  6822 | D:4      | Reached skill level 1 in Evocations
+  6822 | D:4      | Reached XP level 7. HP: 50/50 MP: 4/15
+  7121 | D:4      | Noticed Natasha
+  7714 | D:4      | Reached skill level 1 in Staves
+  7903 | D:4      | Found a runed translucent door.
+  7907 | D:4      | Noticed Dureava's ghost (amateur HaHu)
+  7959 | D:4      | Killed Natasha
+  8414 | D:4      | Noticed Natasha
+  8438 | D:4      | Killed Natasha
+  8632 | D:4      | Noticed Natasha
+  8685 | D:4      | Killed Natasha
+  8762 | D:5      | Entered Level 5 of the Dungeon
+  8790 | D:5      | Noticed Blork the orc
+  8798 | D:5      | Killed Blork the orc
+  8798 | D:5      | Reached skill level 1 in Axes
+  9032 | D:5      | Noticed Edmund
+  9045 | D:5      | Killed Edmund
+  9213 | D:5      | Found a glowing drain.
+  9222 | D:5      | Reached XP level 8. HP: 52/58 MP: 7/16
+  9254 | Sewer    | Entered a sewer
+  9524 | Sewer    | Found a white marble altar of Elyvilon.
+  9792 | D:5      | Reached skill level 1 in Throwing
+ 10611 | D:5      | Reached skill level 1 in Maces & Flails
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |  1                 2    |  2.0
+Fighting       |     1        2     3    |  3.0
+Summonings     |     1                   |  1.0
+Translocations |     1                   |  1.0
+Hexes          |        1                |  1.0
+Polearms       |        1                |  1.1
+Fire Magic     |           1             |  1.0
+Slings         |              1     2    |  2.5
+Armour         |              1        2 |  2.1
+Spellcasting   |              5          |  5.7
+Air Magic      |                 1       |  1.5
+Poison Magic   |                 1       |  1.5
+Evocations     |                 1       |  1.3
+Staves         |                    1    |  1.7
+Axes           |                    1    |  1.8
+Throwing       |                       2 |  2.2
+Maces & Flails |                       1 |  1.1
+Short Blades   |                         |  0.8
+Dodging        |                         |  1.5
+Stealth        |                         |  1.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Club              |  4042 |       |       ||  4042
+       Dagger            |  4073 |     8 |     1 ||  4082
+       Spear             |    36 |  4078 |    15 ||  4129
+       War axe           |       |  4049 |     2 ||  4051
+       Quarterstaff      |       |     4 |    46 ||    50
+       Flail             |       |       |    39 ||    39
+       Trident           |       |       |    19 ||    19
+ Fire: Hunting sling     |       |   110 |    65 ||   175
+       Blowgun           |       |       |    12 ||    12
+Throw: Stone             |     1 |     5 |       ||     6
+       Tomahawk          |       |     1 |     2 ||     3
+ Cast: Magic Dart        |    59 |    10 |     1 ||    70
+       Call Imp          |    24 |    34 |    22 ||    80
+       Slow              |     2 |     3 |       ||     5
+       Conjure Flame     |       |     4 |     8 ||    12
+       Blink             |       |     1 |     2 ||     3
+       Mephitic Cloud    |       |       |    13 ||    13
+Evoke: Wand              |       |     1 |     1 ||     2
+  Use: Scroll            |     1 |     4 |     1 ||     6
+ Stab: Sleeping          |     2 |     1 |     1 ||     4
+       Distracted        |       |     2 |       ||     2
+       Paralysed         |       |     7 |     4 ||    11
+       Confused          |       |       |     1 ||     1
+Armor: Robe              |   910 |     3 |       ||   913
+       Leather armour    |       |  1940 |    32 ||  1972
+Dodge: Dodged            |  3556 |  4314 |    46 ||  7916
+       Deflected         |       |       |     1 ||     1
+

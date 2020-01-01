@@ -1,0 +1,285 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7079426608464651185
+
+493065 Ycantyav the Politician (level 27, 230/249 HPs) *WIZ*
+             Began as a Human Fighter on Oct 29, 2019.
+             Was the Champion of Elyvilon.
+             Quit the game on level 2 of the Vaults on Oct 30, 2019.
+             The game lasted 00:13:44 (1937 turns).
+
+Ycantyav the Politician (Human Fighter)             Turns: 1937, Time: 00:13:44
+
+Health: 230/249    AC: 13    Str: 16    XL:     27
+Magic:  54/54      EV: 24    Int:  8    God:    Elyvilon 200 (0)
+Gold:   181        SH: 18    Dex: 12    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis +   a - +0 rapier
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.51/turn              l - ring of see invisible
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Vigour,
+Divine Protection, Renounce Religion
+
+
+You were on level 2 of the Vaults.
+You worshipped Elyvilon.
+Elyvilon was exalted by your worship.
+You were very full.
+
+You visited 4 branches of the dungeon, and saw 6 of its levels.
+
+You collected 201 gold pieces.
+You donated 20 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 rapier (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Jewellery
+ i - an uncursed ring of protection from cold {unknown}
+ l - a ring of see invisible (left hand)
+Scrolls
+ e - 2 scrolls of identify {unknown}
+ h - 2 scrolls of enchant armour {unknown}
+ j - a scroll of teleportation {unknown}
+ k - a scroll of random uselessness {unknown}
+Potions
+ d - 2 potions of might
+ g - a potion of cancellation {unknown}
+Comestibles
+ f - 4 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+ Crypt: Vaults:2-3  
+
+Altars:
+Ru
+
+Message History
+
+You shout for attention! The naga warrior shouts!
+The shock serpent closely misses you.
+The guardian serpent coils itself and waves its upper body at you.
+The bolt of poison misses you. You block the shock serpent's attack. You block
+the naga's attack. x2
+Enter Wizard Command (? - help): 
+Okay, then.
+Press: ? - help, Dir - move target cursor, f - guardian serpent
+Heal: a guardian serpent (translocational energy, chance to pacify: 83%)
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a guardian serpent (translocational energy)
+An open door.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #..........#                 ##....###..
+   #..........#                ##......#...
+   #..........#                #...........
+   #..........#                #...........
+   #########'###########       #..#....#...
+         #.............#       #.###..###..
+         #.............#       #..#....#...
+         #.............#       #...........
+         #.............#       #...........
+         #.............#       ##......#...
+         #........<....#        ##....###..
+         ######'########         ##....#...
+            ###..##..#            ##.......
+            #..##.0###           ####'#####
+            ###..##0.#           #.........
+            #..##..###           #.........
+            ###..##..#           #.........
+            #..##..###           #.........
+########    ###.!##..#           #.........
+#......#    #.0##..###           #.?.......
+#.....N#    ###..##..#           #.........
+#.....N#############'#           #.........
+#.....@#.0.....#.....#######+#####.........
+#.....SS0......#.....#.#.#...#.#.#.........
+#......#.0.....#.....##.#.#.#.#.##.........
+#......#00.....#.....#.#.#.#.#.#.#.........
+#......#.......#.....##.#.#.#.#.##.........
+#......#######'#.....'.#.#.#.#.#.'.........
+#......#.....'.'.....#..#.#.#.#..'.........
+#......'.....#'#######.#.#.#.#.#.#.........
+#.?....#.....#..0....##.#.#.#.#.##.........
+########.....#.000...#.#.#.#.#.#.#.........
+       #.....#..000..##.#.#.#.#.##.........
+       #.....#..00...#.#.#...#.#.#....(.../
+       #.....#..0....#############.........
+       #####'#####+###           #.........
+          #........#             #.........
+          #........#             #...[.....
+          #........#             #.........
+          #........#              .........
+          #........#               ........
+          #........#               ........
+          #........#               ........
+          #..(.....#                .......
+
+
+You could see a naga warrior, a shock serpent, a guardian serpent and a naga.
+
+Vanquished Creatures
+  A human (shapeshifter) (Vaults:1)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  2 vault wardens (Vaults:2)
+  An ironheart preserver (Vaults:2)
+  A vault guard (Vaults:2)
+  3 yaktaur captains (Vaults:1)
+  5 centaur warriors
+  7 two-headed ogres
+  2 ogre magi
+  A deep elf knight (Vaults:2)
+  2 shadow wraiths
+  An unseen horror (Vaults:1)
+  2 deep trolls (Vaults:1)
+  3 ironbrand convokers
+  An orc knight (Vaults:2)
+  7 ugly things (Vaults:1)
+  An orb spider (shapeshifter) (Vaults:2)
+  An oklob plant (Vaults:2)
+  A vault sentinel (Vaults:1)
+  17 yaktaurs
+  A komodo dragon (shapeshifter) (Vaults:1)
+  2 wandering mushrooms (Vaults:2)
+  A jumping spider (shapeshifter) (Vaults:1)
+  8 slime creatures
+  A wraith (Vaults:1)
+  A yaktaur simulacrum (Vaults:1)
+  An acid dragon (Vaults:1)
+  8 ogres
+  An ogre (shapeshifter) (Vaults:2)
+  4 centaurs (Vaults:2)
+  4 boggarts (Vaults:2)
+90 creatures vanquished.
+
+Grand Total: 91 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ycantyav the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Fedhas Madash
+     0 | Swamp:1  | Entered Level 1 of the Swamp
+     0 | Swamp:1  | Noticed a swamp dragon
+     0 | Swamp:1  | Noticed a tyrant leech
+     0 | Swamp:1  | Noticed an alligator
+     0 | Swamp:1  | Noticed a spriggan druid
+     1 | Swamp:1  | Reached XP level 2. HP: 63/63 MP: 1/30
+     1 | Swamp:1  | Reached XP level 3. HP: 70/70 MP: 1/31
+     1 | Swamp:1  | Reached XP level 4. HP: 78/78 MP: 1/33
+     1 | Swamp:1  | Reached XP level 5. HP: 85/85 MP: 1/34
+     1 | Swamp:1  | Reached XP level 6. HP: 93/93 MP: 1/36
+     1 | Swamp:1  | Reached XP level 7. HP: 100/100 MP: 1/37
+     1 | Swamp:1  | Reached XP level 8. HP: 108/108 MP: 1/39
+     1 | Swamp:1  | Reached XP level 9. HP: 115/115 MP: 1/40
+     1 | Swamp:1  | Reached XP level 10. HP: 123/123 MP: 1/41
+     1 | Swamp:1  | Reached XP level 11. HP: 130/130 MP: 1/42
+     1 | Swamp:1  | Reached XP level 12. HP: 138/138 MP: 1/43
+     1 | Swamp:1  | Reached XP level 13. HP: 145/145 MP: 1/44
+     1 | Swamp:1  | Reached XP level 14. HP: 153/153 MP: 1/45
+     1 | Swamp:1  | Reached XP level 15. HP: 159/159 MP: 1/46
+     1 | Swamp:1  | Reached XP level 16. HP: 167/167 MP: 1/47
+     1 | Swamp:1  | Reached XP level 17. HP: 174/174 MP: 1/48
+     1 | Swamp:1  | Reached XP level 18. HP: 182/182 MP: 1/49
+     1 | Swamp:1  | Reached XP level 19. HP: 189/189 MP: 1/50
+     1 | Swamp:1  | Reached XP level 20. HP: 197/197 MP: 1/51
+     1 | Swamp:1  | Reached XP level 21. HP: 204/204 MP: 1/52
+     1 | Swamp:1  | Reached XP level 22. HP: 212/212 MP: 1/53
+     1 | Swamp:1  | Reached XP level 23. HP: 219/219 MP: 1/54
+     1 | Swamp:1  | Reached XP level 24. HP: 227/227 MP: 1/54
+     1 | Swamp:1  | Reached XP level 25. HP: 234/234 MP: 1/54
+     1 | Swamp:1  | Reached XP level 26. HP: 242/242 MP: 1/54
+     1 | Swamp:1  | Reached XP level 27. HP: 249/249 MP: 1/54
+    91 | Snake:1  | Entered Level 1 of the Snake Pit
+    91 | Snake:1  | Noticed Aizul
+   442 | Snake:2  | Found a sacrificial altar of Ru.
+   559 | Snake:2  | Found a sacrificial altar of Ru.
+   829 | Vaults:1 | Entered Level 1 of the Vaults
+   942 | Vaults:1 | Fell from the grace of Fedhas
+   942 | Vaults:1 | Became a worshipper of Zin the Law-Giver
+   942 | Vaults:1 | Reached * piety under Zin
+  1304 | Vaults:1 | Reached ** piety under Zin
+  1304 | Vaults:1 | Reached *** piety under Zin
+  1304 | Vaults:1 | Reached **** piety under Zin
+  1304 | Vaults:1 | Reached ***** piety under Zin
+  1304 | Vaults:1 | Reached ****** piety under Zin
+  1932 | Vaults:2 | Fell from the grace of Zin
+  1932 | Vaults:2 | Became a worshipper of Elyvilon the Healer
+  1932 | Vaults:2 | Reached * piety under Elyvilon
+  1932 | Vaults:2 | Reached ** piety under Elyvilon
+  1932 | Vaults:2 | Reached *** piety under Elyvilon
+  1932 | Vaults:2 | Reached **** piety under Elyvilon
+  1932 | Vaults:2 | Reached ***** piety under Elyvilon
+  1932 | Vaults:2 | Reached ****** piety under Elyvilon
+  1937 | Vaults:2 | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Rapier            |       |       |       |       |       |       |       |       |     8 ||     8
+Armor: Scale mail        |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    28 ||    28
+Block: Shield            |       |       |       |       |       |       |       |       |    24 ||    24
+

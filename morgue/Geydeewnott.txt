@@ -1,0 +1,499 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13036510052719354626
+
+Geydeewnott the Thaumaturge (Mummy Necromancer)    Turns: 12637, Time: 03:45:03
+
+Health: 79/79      AC: 11    Str: 11    XL:     10   Next: 67%
+Magic:  23/23      EV: 12    Int: 17    God:    Kikubaaqudgha 19 (0)
+Gold:   147        SH:  0    Dex: 14    Spells: 6/27 levels left
+
+rFire    x . .     SeeInvis .   l - +3 hunting sling (freeze)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   L - +0 troll leather armour
+rPois    ?          Spirit   .   B - +0 helmet
+rElec    .         Reflect  .   y - +0 cloak
+rCorr    .         Harm     .   I - +2 pair of gloves
+MR       +....                  C - +0 pair of boots
+Stlth    +++.......             r - amulet of regeneration
+HPRegen  1.03/turn              M - ring of stealth
+MPRegen  0.18/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Renounce Religion
+
+
+You are on level 1 of the Lair of Beasts.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is noncommittal.
+You are not hungry.
+
+You have visited 3 branches of the dungeon, and seen 10 of its levels.
+
+You have collected 543 gold pieces.
+You have spent 396 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger of venom
+ b - a +1 dagger of flaming
+ c - a +1 dagger of draining
+ d - a +2 dagger of speed
+ e - a +1 falchion of draining
+ f - a +3 flail of protection
+ g - a +2 hand axe of flaming
+ h - a +2 hand axe of draining
+ i - a +6 trident of flaming
+ j - a +5 halberd of freezing
+ k - a +3 quarterstaff of chaos
+ l - a +3 hunting sling of freezing (weapon)
+ F - a +0 blowgun
+ H - a +0 spear of freezing
+ N - a +0 arbalest of velocity
+ S - a +0 short sword of distortion
+Missiles
+ p - 237 stones (quivered)
+ A - 39 sling bullets
+ D - 70 arrows
+ U - 10 curare-tipped needles
+ V - a throwing net
+Armour
+ q - the +0 pair of gloves of Wuexot {rN+ rCorr MP-9 Str+7}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your strength (+7).
+   It protects you from negative energy.
+   It affects your magic capacity (-9).
+   It provides partial protection from all sources of acid and corrosion.
+ s - a +0 scale mail
+ x - a +0 shield
+ y - a +0 cloak (worn)
+ B - a +0 helmet (worn)
+ C - a +0 pair of boots (worn)
+ I - a +2 pair of gloves (worn)
+ L - a +0 troll leather armour (worn)
+ P - a +0 plate armour
+Magical Staves
+ O - an uncursed staff of fire
+Jewellery
+ r - an amulet of regeneration (around neck)
+ J - an uncursed amulet of guardian spirit
+ M - a ring of stealth (left hand)
+ T - a +4 amulet of reflection
+Wands
+ v - a wand of random effects (42)
+ w - a wand of digging (1)
+ E - a wand of acid (8)
+ Q - a wand of flame (14)
+ R - a wand of iceblast (7)
+Scrolls
+ m - a scroll of noise
+ n - 3 scrolls of immolation
+ o - 2 scrolls of amnesia
+ t - 3 scrolls of teleportation
+ u - a scroll of brand weapon
+ z - 2 scrolls of magic mapping
+ G - 4 scrolls of fog
+ K - a scroll of blinking
+
+
+   Skills:
+ - Level 7.0 Fighting
+ - Level 2.1(2.5) Short Blades
+ - Level 1.8(2.3) Long Blades
+ + Level 1.9(2.7) Axes
+ - Level 1.4(2.0) Maces & Flails
+ - Level 2.4(2.8) Polearms
+ - Level 3.3(3.5) Slings
+ - Level 1.2(2.4) Throwing
+ - Level 4.0 Armour
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ - Level 2.1 Shields
+ - Level 9.0 Spellcasting
+ - Level 2.1 Conjurations
+ - Level 1.0 Hexes
+ - Level 1.0 Summonings
+ - Level 6.2 Necromancy
+ - Level 1.0 Translocations
+ + Level 0.0 Fire Magic
+ - Level 4.0 Evocations
+
+
+You have 6 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           14 (25)      4%          1    N/A
+b - Pain                  Necr           25 (25)      1%          1    N/A
+c - Animate Skeleton      Necr           N/A          1%          1    N/A
+d - Slow                  Hex            11 (100)     12%         2    N/A
+e - Searing Ray           Conj           14 (50)      8%          2    N/A
+f - Call Imp              Summ           11 (100)     12%         2    N/A
+g - Blink                 Tloc           N/A          12%         2    N/A
+h - Conjure Flame         Conj/Fire      11 (100)     22%         3    N/A
+i - Vampiric Draining     Necr           28 (200)     2%          3    N/A
+j - Animate Dead          Necr           N/A          10%         4    N/A
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Dazzling Spray           Conj/Hex       13 (50)      19%         3    N/A
+ Mephitic Cloud           Conj/Pois/Air  10 (100)     26%         3    N/A
+ Iskenderun's Mystic Bla  Conj           14 (100)     45%         4    N/A
+ Force Lance              Conj/Tloc      13 (100)     52%         4    N/A
+ Fulminant Prism          Conj/Hex       13 (200)     52%         4    N/A
+ Regeneration             Chrm/Necr      Unusable     N/A         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6            Lair (1/6) D:8
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 *   D:7 !}(
+
+Annotations:
+D:2 loot
+D:4 hatch
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+V - a throwing net
+Press: ? - help, v - describe, . - travel, g - get item
+3 sling bullets.
+The floor.
+A - 36 sling bullets (gained 1)
+A - 39 sling bullets (gained 3)
+Okay, then.
+Okay, then.
+You swap places.
+You swap places.
+You swap places.
+There are no items here.
+You swap places.
+You swap places.
+Save game and exit? 
+Welcome back, Geydeewnott the Mummy Necromancer.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Geydeewnott.txt'.
+Saving game... please wait.
+
+ ###   ###     ### ###   #####         #####      ###
+ #.#####.#######.###.#####.#.###########.#.########.##
+ #.............@Z...............%.....................
+ #...............................(....................
+ #...........#####................((..............#.##
+##...........#   ##........#.##.####.P###........####
+#............#    #.......#######  #.(...#.......#
+##...#####...#    #.......#        #.#...........#
+ #....#  P...#    #.......#        #.#...........#
+ #...## ##...#    #........        ..#.#.#.......#
+ #...##  #...#
+ #....#   ....
+ #...##     ...
+ #...##
+ #....#
+##...##    .
+#....#    ..
+#....####P..
+##..........
+#.....(.....
+##..........
+ #...#.#P.##
+ #.(.####.#
+ #...#                                 ....   ..P
+ #...#                                  ...  ...#
+
+
+You can see a friendly porcupine skeleton.
+
+Vanquished Creatures
+  A hydra (D:8)
+  A troll (D:7)
+  A hippogriff (D:8)
+  2 yaks
+  A basilisk (D:8)
+  Eustachio (D:4)
+  Menkaure (D:4)
+  Edmund (D:5)
+  3 water moccasins (Lair:1)
+  4 porcupines
+  Duvessa (D:6)
+  2 orc warriors
+  An ice beast (D:5)
+  2 sky beasts
+  A black bear (D:8)
+  A phantom (D:8)
+  A necrophage (D:7)
+  3 ogres
+  2 crocodiles
+  4 bullfrogs
+  A gnoll sergeant (D:6)
+  Dowan (D:6)
+  A scorpion (D:4)
+  5 killer bees
+  4 wights (D:6)
+  A vampire bat (D:8)
+  3 crimson imps
+  2 jellies (D:8)
+  3 hounds
+  8 orc wizards
+  3 orc priests
+  Crazy Yiuf (D:4)
+  Natasha (thrice) (D:4)
+  2 iguanas
+  5 worker ants
+  A killer bee zombie (D:8)
+  2 hound zombies
+  A worker ant zombie (D:6)
+  3 gnolls (D:6)
+  6 adders
+  3 shadow imps
+  An ooze (D:1)
+  2 worms (D:3)
+  2 dart slugs (D:1)
+  2 leopard geckos
+  37 orcs
+  5 bat skeletons (D:8)
+  2 bat zombies (D:8)
+  2 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  2 jackals (D:1)
+  4 kobolds
+  2 quokkas
+  3 bats
+  3 frilled lizards
+  A giant cockroach zombie (D:3)
+  A jackal skeleton (D:6)
+  A leopard gecko zombie (D:5)
+  4 rats
+182 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Sonja (Lair:1)
+  Grinder (D:5)
+  A porcupine (Lair:1)
+  An ogre (D:7)
+  A crocodile (Lair:1)
+  Robin (D:4)
+  An adder (D:2)
+  3 goblins (D:4)
+  2 hobgoblins
+  2 rats (D:2)
+14 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 fungi (Lair:1)
+2 creatures vanquished.
+
+Grand Total: 198 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Geydeewnott the Mummy Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 4/4
+     2 | D:1      | Learned a level 1 spell: Animate Skeleton
+   607 | D:1      | Reached skill level 3 in Spellcasting
+   657 | D:1      | Reached XP level 2. HP: 13/19 MP: 0/6
+  1395 | D:2      | Reached skill level 4 in Spellcasting
+  1523 | D:2      | Reached XP level 3. HP: 24/24 MP: 4/8
+  1696 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1812 | D:2      | Found a blossoming altar of Fedhas.
+  1837 | D:2      | Entered wizard mode.
+  2398 | D:3      | Reached XP level 4. HP: 31/31 MP: 7/10
+  2404 | D:3      | Learned a level 4 spell: Animate Dead
+  2636 | D:3      | Reached skill level 1 in Fighting
+  2732 | D:3      | Reached skill level 1 in Short Blades
+  3063 | D:3      | Reached skill level 1 in Slings
+  3063 | D:3      | Reached XP level 5. HP: 38/38 MP: 12/12
+  3401 | D:4      | Noticed Natasha
+  3401 | D:4      | Noticed Robin
+  3565 | D:4      | Found a radiant altar of Vehumet.
+  3632 | D:4      | Found a runed translucent door.
+  3633 | D:4      | Noticed Crazy Yiuf
+  3671 | D:4      | Found a burning altar of Makhleb.
+  3683 | D:4      | Noticed Menkaure
+  3696 | D:4      | Killed Menkaure
+  3696 | D:4      | Reached XP level 6. HP: 44/44 MP: 13/13
+  3709 | D:4      | Reached skill level 5 in Necromancy
+  3822 | D:4      | Killed Robin
+  3934 | D:4      | Killed Natasha
+  4070 | D:4      | Found a radiant altar of Vehumet.
+  4120 | D:4      | Found a burning altar of Makhleb.
+  4120 | D:4      | Noticed Natasha
+  4126 | D:4      | Killed Natasha
+  4131 | D:4      | Noticed Natasha
+  4143 | D:4      | Killed Natasha
+  4255 | D:5      | Entered Level 5 of the Dungeon
+  4255 | D:5      | Noticed Edmund
+  4273 | D:5      | Reached skill level 1 in Armour
+  4292 | D:5      | Noticed an ice beast
+  4309 | D:5      | Killed an ice beast
+  4309 | D:5      | Reached XP level 7. HP: 50/50 MP: 7/14
+  4475 | D:5      | Noticed Eustachio
+  4499 | D:5      | Reached skill level 1 in Long Blades
+  4685 | D:5      | Got a pair of ancient gloves
+  4732 | D:5      | Found Niaruc's Assorted Antiques.
+  4740 | D:5      | Bought a scroll of identify for 32 gold pieces
+  4740 | D:5      | Identified the +0 pair of gloves of Wuexot {rN+ rCorr MP-9
+                  | Str+7} (You found it on level 5 of the Dungeon)
+  4741 | D:5      | Bought a scroll of fear for 56 gold pieces
+  4741 | D:5      | Bought a twisted brass wand for 64 gold pieces
+  4741 | D:5      | Bought a wand of random effects (18) for 16 gold pieces
+  5010 | D:5      | Reached skill level 1 in Evocations
+  5359 | D:4      | Killed Eustachio
+  5521 | D:4      | Killed Crazy Yiuf
+  5651 | D:5      | Found Niaruc's Assorted Antiques.
+  5989 | D:5      | Killed Edmund
+  6051 | D:6      | Noticed Duvessa
+  6051 | D:6      | Noticed Dowan
+  6145 | D:6      | Noticed Grinder
+  6148 | D:6      | Reached XP level 8. HP: 57/57 MP: 15/15
+  6169 | D:5      | Killed Grinder
+  6286 | D:6      | Found a staircase to the Ecumenical Temple.
+  6385 | Temple   | Entered the Ecumenical Temple
+  6522 | D:6      | Reached skill level 1 in Maces & Flails
+  6522 | D:6      | Reached skill level 1 in Polearms
+  6910 | D:6      | Killed Dowan
+  7023 | D:6      | Killed Duvessa
+  7023 | D:6      | Reached skill level 1 in Axes
+  7547 | D:6      | Found a shattered altar of Ashenzari.
+  7646 | D:6      | Found a white marble altar of Elyvilon.
+  8309 | D:7      | Found Edasoxeu's Weapon Shop.
+  8330 | D:7      | Found Emeaqoifi's Distillery.
+  8446 | D:7      | Reached skill level 5 in Fighting
+  8535 | D:7      | Reached XP level 9. HP: 68/68 MP: 6/16
+  8760 | D:7      | Noticed a troll
+  8776 | D:7      | Killed a troll
+  9006 | D:7      | Found a bloodstained altar of Trog.
+  9211 | D:7      | Found Botops's Gadget Shop.
+  9216 | D:7      | Bought a wand of flame (14) for 96 gold pieces
+  9216 | D:7      | Bought a wand of iceblast (7) for 132 gold pieces
+  9461 | D:7      | Learned a level 1 spell: Magic Dart
+  9464 | D:7      | Learned a level 2 spell: Blink
+  9467 | D:7      | Learned a level 2 spell: Call Imp
+  9470 | D:7      | Learned a level 2 spell: Slow
+  9695 | D:8      | Found a shimmering altar of Xom.
+  9917 | D:8      | Reached skill level 5 in Spellcasting
+ 10236 | D:8      | Reached skill level 1 in Shields
+ 10433 | D:8      | Reached skill level 1 in Hexes
+ 10501 | D:8      | Reached skill level 1 in Summonings
+ 10501 | D:8      | Reached skill level 1 in Translocations
+ 10714 | D:8      | Reached XP level 10. HP: 55/76 MP: 9/18
+ 10945 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+ 10954 | D:8      | Reached skill level 6 in Spellcasting
+ 10963 | D:8      | Learned a level 2 spell: Searing Ray
+ 10967 | D:8      | Learned a level 3 spell: Conjure Flame
+ 10976 | D:8      | Became a worshipper of Kikubaaqudgha
+ 11109 | D:8      | Found a shattered altar of Ashenzari.
+ 11146 | D:8      | Found a staircase to the Lair.
+ 11362 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 11369 | Lair:1   | Reached skill level 1 in Throwing
+ 11562 | Lair:1   | Noticed Sonja
+ 11866 | Lair:1   | Reached skill level 7 in Spellcasting
+ 11870 | Lair:1   | Noticed a five-headed hydra
+ 12056 | D:8      | Killed a one-headed hydra
+ 12056 | D:8      | Reached skill level 8 in Spellcasting
+ 12250 | Lair:1   | Reached skill level 1 in Conjurations
+ 12303 | Lair:1   | Reached skill level 9 in Spellcasting
+ 12563 | Lair:1   | Killed Sonja
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Spellcasting   |  3  4                    5  9 |  9.0
+Fighting       |           1  2        5  6  7 |  7.0
+Short Blades   |           1              2    |  2.1
+Slings         |           1  2  3             |  3.3
+Necromancy     |                 5  6          |  6.2
+Stealth        |                 2             |  2.0
+Armour         |                 1     2  4    |  4.0
+Long Blades    |                    1          |  1.8
+Evocations     |                    1  3  4    |  4.0
+Maces & Flails |                       1       |  1.4
+Polearms       |                       1  2    |  2.4
+Axes           |                       1       |  1.9
+Dodging        |                       2       |  2.0
+Shields        |                          2    |  2.1
+Hexes          |                          1    |  1.0
+Summonings     |                          1    |  1.0
+Translocations |                          1    |  1.0
+Throwing       |                             1 |  1.2
+Conjurations   |                             2 |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     4 |       |       |       ||     4
+       Short sword       |  4003 |       |       |       ||  4003
+       Dagger            |  4000 |  4009 |    50 |     1 ||  8060
+       Falchion          |       |       |  8067 |  4014 || 12081
+       Quarterstaff      |       |       |     1 |       ||     1
+       Halberd           |       |       |  4020 |       ||  4020
+       Flail             |       |       |  4103 |  4024 ||  8127
+       Trident           |       |       |    15 |  4018 ||  4033
+       Hand axe          |       |       |       |     6 ||     6
+ Fire: Hunting sling     |       |    81 |   251 |    66 ||   398
+Throw: Throwing net      |       |       |       |     1 ||     1
+ Cast: Pain              |    76 |    29 |    58 |    12 ||   175
+       Animate Skeleton  |     8 |    16 |     9 |     6 ||    39
+       Vampiric Draining |       |     3 |     7 |     3 ||    13
+       Animate Dead      |       |     2 |    10 |     1 ||    13
+       Magic Dart        |       |       |       |    15 ||    15
+       Call Imp          |       |       |       |     5 ||     5
+Evoke: Wand              |       |       |    15 |       ||    15
+  Use: Scroll            |     4 |     4 |    11 |     5 ||    24
+ Stab: Sleeping          |       |       |     1 |     1 ||     2
+Armor: Robe              |   297 |     9 |       |       ||   306
+       Leather armour    |       |  1440 |  2368 |       ||  3808
+       Ring mail         |       |       |  5667 |       ||  5667
+       Plate armour      |       |       |   165 |  7692 ||  7857
+       Troll leather arm |       |       |     5 |    11 ||    16
+Dodge: Dodged            |  3956 |  3394 | 11424 |  1394 || 20168
+Block: Shield            |       |       |    91 |  4879 ||  4970
+Rpst.: Falchion          |       |       |  1114 |   136 ||  1250
+

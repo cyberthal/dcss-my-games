@@ -1,0 +1,179 @@
+Zatot
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(9, -41, D:1)
+  a potion of curing
+(9, -28, D:1)
+  a potion of flight
+(11, -3, D:1)
+  a +0 dagger
+(18, -23, D:1)
+  a potion of heal wounds
+(31, -20, D:1)
+  a ration
+(32, -8, D:1)
+  a +0 dagger
+(36, -25, D:1)
+  a +0 dagger
+(58, -26, D:1)
+  a potion of heal wounds
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a ration
+(4, -6, D:2)
+  a +0 robe
+(7, -18, D:2)
+  a +0 club
+(11, 31, D:2)
+  a +0 dagger
+(19, 20, D:2)
+  a +0 leather armour
+(23, 9, D:2)
+  a +0 dagger
+(28, -11, D:2)
+  a +0 robe
+(28, -2, D:2)
+  a ration
+(29, -4, D:2)
+  a +0 club
+(47, -5, D:2)
+  a ration
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a potion of ambrosia
+(3, 7, D:3)
+  a ration
+(4, 3, D:3)
+  a +0 plate armour
+  a +0 scimitar
+(5, 16, D:3)
+  a +0 flail
+  a +0 short sword
+(7, 20, D:3)
+  a +0 club
+(9, 21, D:3)
+  a +0 giant spiked club
+(12, 21, D:3)
+  a ration
+(13, -5, D:3)
+  a +0 leather armour
+(26, -6, D:3)
+  a +0 ring mail
+(34, 14, D:3)
+  2 potions of berserk rage
+(35, 18, D:3)
+  a +0 hand axe
+(41, 32, D:3)
+  a +0 dagger
+(44, 18, D:3)
+  a ration
+(49, 3, D:3)
+  a +0 mace
+(51, 32, D:3)
+  a cursed +0 mace
+  a +0 hand axe
+  a +0 mace
+  a +0 club
+  a +0 ring mail
+(56, 17, D:3)
+  a +0 chain mail
+  a +0 leather armour
+(56, 18, D:3)
+  a +0 club
+(57, 17, D:3)
+  a +0 robe
+  a +0 short sword
+  a +0 ring mail
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 rapier
+  a +2 leather armour
+(3, 29, D:4)
+  a cursed +0 ring mail
+(7, 14, D:4)
+  a +0 falchion
+(17, 6, D:4)
+  a potion of agility
+(20, 24, D:4)
+  a +0 falchion
+(22, 27, D:4)
+  a +0 club
+(29, 23, D:4)
+  a potion of heal wounds
+(33, -2, D:4)
+  a +0 dagger
+(33, 6, D:4)
+  a +0 club
+(33, 23, D:4)
+  a +0 robe
+(36, 10, D:4)
+  a +0 giant club
+(37, 16, D:4)
+  a ration
+(52, 7, D:4)
+  a +0 robe
+  a +0 dagger
+(53, 9, D:4)
+  a +0 leather armour
+(53, 10, D:4)
+  a +0 dagger
+(54, 32, D:4)
+  a +0 club
+(57, 26, D:4)
+  a +0 club
+(61, 20, D:4)
+  2 sling bullets (still there?)
+  a +0 hunting sling (still there?)
+(62, 26, D:4)
+  a +0 hunting sling
+(63, 33, D:4)
+  a potion of heal wounds
+(67, -7, D:4)
+  a +0 hunting sling
+
+Level 5 of the Dungeon
+[Shop] Yremaj's Distillery
+  2 potions of haste (260 gold)
+  a potion of invisibility (104 gold)
+  a potion of lignification (39 gold)
+  a potion of haste (130 gold)
+  a potion of mutation (104 gold)
+  a potion of agility (52 gold)
+  a potion of curing (39 gold)
+  a potion of brilliance (52 gold)
+[Shop] Peotsasch's Antique Armour Shoppe
+  a +0 chain mail (121 gold)
+  the cursed +1 robe "Satie" {Str+4 Int+9 Dex+5} (1282 gold)
+    It affects your strength (+4).
+    It affects your intelligence (+9).
+    It affects your dexterity (+5).
+    It has a curse placed upon it.
+  a +2 robe (342 gold)
+  the +3 leather armour of the Wild Haggis {rC+} (837 gold)
+    It protects you from cold.
+  a +0 chain mail (121 gold)
+  +2 gold dragon scales (2484 gold)
+  a +0 leather armour (54 gold)
+  a +0 robe (18 gold)
+  a +0 ring mail of poison resistance (216 gold)
+  a +0 chain mail (121 gold)
+  a +0 leather armour (54 gold)
+(0, 0, D:5)
+  a +0 dagger
+(2, 16, D:5)
+  a stone
+(2, 17, D:5)
+  a stone
+  (unseen)
+(21, 24, D:5)
+  a ration
+(23, 15, D:5)
+  a chunk of flesh
+
+the Ecumenical Temple
+

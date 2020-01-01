@@ -1,0 +1,273 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14990239334668553435
+
+430 Wapnulos the Ruffian (level 6, 62/62 HPs) *WIZ*
+             Began as a Troll Chaos Knight on Sept 19, 2019.
+             Was a Plaything of Xom.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:30:39 (1946 turns).
+
+Wapnulos the Ruffian (Troll Chaos Knight)           Turns: 1946, Time: 00:30:39
+
+Health: 62/62      AC: 10    Str: 21    XL:     6   Next: 66%
+Magic:  5/5        EV: 10    Int:  8    God:    Xom 96 (0)
+Gold:   283        SH:  0    Dex: 11    Spells: 5/5 levels left
+
+rFire    + . .     SeeInvis .   c - +0 blowgun
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   g - +2 robe {rF+}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   H - +1 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             o - amulet of regeneration
+HPRegen  1.00/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Xom.
+You were a toy of Xom.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 283 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos
+ b - a +0 flail
+ c - a +0 blowgun (weapon)
+ p - a +0 spear
+ t - a +0 hunting sling
+ G - a +4 quarterstaff of chaos
+Missiles
+ e - 10 tomahawks
+ j - 69 sling bullets
+ l - 110 stones
+ s - 15 arrows
+ y - 20 poisoned needles (quivered)
+ B - 6 needles of sleeping
+ C - a throwing net
+Armour
+ g - a +2 robe of fire resistance (worn)
+ H - a +1 cloak (worn)
+Jewellery
+ m - an uncursed ring of poison resistance {unknown}
+ o - an amulet of regeneration (around neck)
+ q - an uncursed amulet of magic regeneration {unknown}
+ x - a +4 ring of dexterity {unknown}
+ A - a cursed ring of attention {unknown}
+Scrolls
+ d - a scroll of fog {unknown}
+ i - a scroll of blinking {unknown}
+ k - a scroll of random uselessness {unknown}
+ u - a scroll of remove curse {unknown}
+ F - a scroll of enchant weapon {unknown}
+Potions
+ f - a potion of haste
+ h - 2 potions of might
+ n - 2 potions of curing
+ w - a potion of degeneration {unknown}
+ z - a potion of lignification {unknown}
+ E - a potion of heal wounds {unknown}
+Comestibles
+ r - 3 chunks of flesh
+ D - 7 rations
+
+
+   Skills:
+ - Level 4.0 Fighting
+ - Level 2.6 Maces & Flails
+ + Level 2.0 Throwing
+ - Level 2.0 Dodging
+ - Level 5.0 Unarmed Combat
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Yredelemnul
+
+Annotations:
+D:3 1 runed translucent door, Terence
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Aim: Terence, wielding a +0 trident and wearing a +0 scale mail (poisoned)
+You shoot a poisoned needle. The poisoned needle hits Terence. Terence looks
+even sicker.
+Firing (i - inventory. (/) - cycle) y - 21 poisoned needles (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - Terence
+Aim: Terence, wielding a +0 trident and wearing a +0 scale mail (lightly
+wounded, poisoned)
+You shoot a poisoned needle.
+The poisoned needle closely misses Terence.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Level annotation: 1 runed translucent door, Terence
+Welcome back, Wapnulos the Troll Chaos Knight.
+Xom snickers.
+Press ? for a list of commands and other information.
+A hobgoblin and a kobold come into view.
+Save game and exit? 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#................#
+#................#
+#................#
+#................#
+#.........<......#
+#................#                  #######..
+##..%............#                  #<.......
+ ##.....##.....#..>.            #......######
+  ###...#####.###...          .........#        #..........
+    #)###    .... ..          ##..#.####        #.........#
+    #.#      ..##  .           ## ..            #.........#
+    #)###   #..##                ..#             .........#
+    #...####....#               #..               ........
+    ##........#                 #..                .....
+     #........#                              ####.##..##
+     #........#                     ...   ##......).<..#
+     #........##[                   ...   ..............#
+     #...........                   ...  ... ............#
+     #........##.                   #.##...  ............#
+     #........#                     ...#.#   ............#
+     ##.#######               #.#   #...K#   ............#
+      ...                     .....##....#...............#
+     #....                       #...@...................#
+     #.#.#.                      ####.....#.g
+     #. ....                        #......#
+     #. ## #.                       #....#..#
+     #.     #.                      .....# .#
+                                    .....#  #
+                                    ..####
+                                   ..##
+
+
+You could see a hobgoblin (wandering) and a kobold (wandering).
+
+Vanquished Creatures
+  Sigmund (D:3)
+  A sky beast (D:3)
+  An orc wizard (D:3)
+  Crazy Yiuf (D:3)
+  A gnoll (D:1)
+  4 adders
+  2 dart slugs
+  4 leopard geckos
+  4 orcs (D:3)
+  9 giant cockroaches
+  4 goblins
+  9 hobgoblins
+  9 kobolds
+  5 bats
+  5 frilled lizards
+  A goblin zombie (D:3)
+  A rat (D:2)
+62 creatures vanquished.
+
+Vanquished Creatures (others)
+  5 toadstools (D:3)
+5 creatures vanquished.
+
+Grand Total: 67 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wapnulos the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   196 | D:1      | Reached skill level 1 in Unarmed Combat
+   252 | D:1      | XOM: harmless Erth miscast
+   255 | D:1      | XOM: potion effect (haste)
+   270 | D:1      | XOM: potion effect (heal wounds)
+   280 | D:1      | Reached skill level 1 in Throwing
+   280 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+   322 | D:1      | XOM: divination: detect items
+   472 | D:1      | XOM: divination: magic mapping
+   590 | D:2      | Reached XP level 3. HP: 36/36 MP: 2/2
+   591 | D:2      | Reached skill level 2 in Unarmed Combat
+   897 | D:2      | XOM: harmless Tmut miscast
+   909 | D:3      | XOM: noise
+   919 | D:3      | Noticed Sigmund
+   942 | D:3      | Reached skill level 3 in Unarmed Combat
+   946 | D:2      | Reached XP level 4. HP: 27/44 MP: 3/3
+  1154 | D:2      | XOM: harmless Tloc miscast
+  1189 | D:2      | XOM: divination: magic mapping
+  1264 | D:3      | Noticed a sky beast
+  1299 | D:3      | Killed a sky beast
+  1299 | D:3      | Reached XP level 5. HP: 48/54 MP: 4/4
+  1304 | D:3      | Killed Sigmund
+  1304 | D:3      | Reached skill level 4 in Unarmed Combat
+  1304 | D:3      | Reached XP level 6. HP: 54/62 MP: 5/5
+  1396 | D:3      | Found a runed translucent door.
+  1396 | D:3      | Noticed a human
+  1401 | D:3      | Found a basalt altar of Yredelemnul.
+  1500 | D:3      | XOM: silly message
+  1647 | D:3      | Reached skill level 5 in Unarmed Combat
+  1759 | D:3      | Found a runed translucent door.
+  1760 | D:3      | Noticed Crazy Yiuf
+  1782 | D:3      | XOM: harmless Summ miscast
+  1794 | D:3      | Killed Crazy Yiuf
+  1930 | D:3      | XOM: harmless Pois miscast
+  1942 | D:3      | Noticed Terence
+  1946 | D:3      | Entered wizard mode.
+  1946 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Unarmed Combat |  1     3     4  5 |  5.0
+Throwing       |  1              2 |  2.0
+Dodging        |           2       |  2.0
+Fighting       |           3     4 |  4.0
+Maces & Flails |                   |  2.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    77 |    55 ||   132
+       Mace              |       |    26 ||    26
+ Fire: Blowgun           |       |    10 ||    10
+Throw: Stone             |    27 |    41 ||    68
+       Tomahawk          |     8 |     5 ||    13
+       Throwing net      |       |     1 ||     1
+  Use: Potion            |     2 |     3 ||     5
+       Scroll            |     1 |     3 ||     4
+ Stab: Confused          |       |     1 ||     1
+  Eat: Chunk             |    13 |    10 ||    23
+Armor: Robe              |    51 |    27 ||    78
+Dodge: Dodged            |    59 |    24 ||    83
+

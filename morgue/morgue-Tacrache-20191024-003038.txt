@@ -1,0 +1,624 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5896672675243176639
+
+38019 Tacrache the Bringer of Law (level 14, 105/105 HPs) *WIZ*
+             Began as a Human Gladiator on Oct 14, 2019.
+             Was the Champion of Zin.
+             Quit the game on level 12 of the Dungeon on Oct 24, 2019.
+             The game lasted 07:00:01 (27814 turns).
+
+Tacrache the Bringer of Law (Human Gladiator)      Turns: 27814, Time: 07:00:01
+
+Health: 105/105    AC: 30    Str: 15    XL:     14   Next: 32%
+Magic:  29/29      EV:  8    Int: 14    God:    Zin 171 (0)
+Gold:   2262       SH: 16    Dex: 20    Spells: 13/19 levels left
+
+rFire    . . .     SeeInvis +   j - +0 hunting sling
+rCold    + . .     Gourm    .   c - +0 large shield
+rNeg     . . .     Faith    .   K - +3 chain mail
+rPois    .         Spirit   .   o - +1 helmet {SInv}
+rElec    .         Reflect  .   C - +2 cloak
+rCorr    .         Harm     .   h - +2 pair of gloves {Dex+3}
+MR       +....                  n - +2 pair of boots
+Stlth    +.........             (no amulet)
+HPRegen  0.27/turn              E - ring "Conouz" {+Fly rC+ MP+9 Int+3}
+MPRegen  0.21/turn              p - +4 ring of protection
+
+@: no status effects
+A: no striking features
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion,
+Evoke Flight
+
+
+You were on level 12 of the Dungeon.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were hungry.
+
+You visited 3 branches of the dungeon, and saw 15 of its levels.
+You visited the Abyss 1 time.
+You also visited: Sewer and Bailey.
+
+You collected 3686 gold pieces.
+You spent 1032 gold pieces at shops.
+You donated 392 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of venom
+ b - a +1 flail of protection
+ d - a +2 hand axe of flaming
+ e - a +2 war axe of freezing
+ f - a +6 war axe
+ g - a +2 trident of protection
+ i - a +0 blowgun
+ j - a +0 hunting sling (weapon)
+Missiles
+ k - 213 stones (quivered)
+ m - 82 sling bullets
+ q - 16 javelins of returning
+ P - 6 steel javelins
+ U - 22 tomahawks
+ W - 5 curare-tipped needles {!f}
+ X - 55 poisoned needles
+ Z - 2 throwing nets {!f}
+Armour
+ c - a +0 large shield (worn)
+ h - a +2 pair of gloves of dexterity (worn)
+ n - a +2 pair of boots (worn)
+ o - a +1 helmet of see invisible (worn)
+ r - a +0 troll leather armour
+ C - a +2 cloak (worn)
+ D - a +3 scale mail of fire resistance
+ K - a +3 chain mail (worn)
+Magical Staves
+ s - an uncursed staff of energy
+Jewellery
+ p - a +4 ring of protection (right hand)
+ E - the ring "Conouz" (left hand) {+Fly rC+ MP+9 Int+3}
+   (You found it in a bailey)   
+   
+   [ring of magical power]
+   
+   It affects your intelligence (+3).
+   It protects you from cold.
+   It affects your magic capacity (+9).
+   It lets you fly.
+Wands
+ t - a wand of enslavement (7)
+ y - a wand of acid (17)
+ A - a wand of disintegration (8)
+ L - a wand of flame (10)
+ T - a wand of paralysis (16)
+Scrolls
+ u - 7 scrolls of fear
+ v - a scroll of magic mapping
+ x - 5 scrolls of remove curse
+ z - 2 scrolls of identify
+ B - a scroll of blinking
+ H - 2 scrolls of teleportation
+ I - 2 scrolls of fog
+Potions
+ w - a potion of berserk rage
+ F - a potion of brilliance
+ G - 3 potions of curing
+ J - 2 potions of cancellation
+ M - 4 potions of flight
+ N - 2 potions of haste
+ O - a potion of heal wounds
+ Q - a potion of ambrosia
+ R - a potion of might
+ V - a potion of invisibility
+ Y - 3 potions of resistance
+Miscellaneous
+ l - a lightning rod (4/4)
+Comestibles
+ S - 11 rations
+
+
+   Skills:
+ - Level 8.0 Fighting
+ + Level 2.4 Short Blades
+ + Level 3.9(5.3) Axes
+ - Level 3.9(5.4) Maces & Flails
+ - Level 3.5(5.1) Polearms
+ - Level 4.0(5.3) Staves
+ - Level 3.4(4.1) Slings
+   Level 3.2 Bows
+ - Level 3.2(4.0) Throwing
+ - Level 8.7 Armour
+ - Level 8.0 Dodging
+ - Level 9.1 Stealth
+ - Level 8.0 Shields
+ - Level 3.0 Spellcasting
+ - Level 3.1 Summonings
+ - Level 9.1 Invocations
+ - Level 8.0 Evocations
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           11 (25)      100%        1    8
+b - Call Imp              Summ           11 (100)     100%        2    58
+c - Call Canine Familiar  Summ           11 (100)     100%        3    108
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          100%        1    8
+ Confusing Touch          Hex            2 (50)       100%        1    8
+ Pain                     Necr           2 (25)       100%        1    8
+ Summon Butterflies       Summ           11 (100)     100%        1    8
+ Poisonous Vapours        Pois/Air       2 (50)       100%        2    58
+ Searing Ray              Conj           2 (50)       100%        2    58
+ Song of Slaying          Chrm           2 (100)      100%        2    58
+ Throw Frost              Conj/Ice       2 (50)       100%        2    58
+ Confuse                  Hex            2 (100)      100%        3    108
+ Conjure Flame            Conj/Fire      2 (100)      100%        3    108
+ Dazzling Spray           Conj/Hex       2 (50)       100%        3    108
+ Gell's Gravitas          Tloc           2 (200)      100%        3    108
+ Inner Flame              Hex/Fire       2 (100)      100%        3    108
+ Mephitic Cloud           Conj/Pois/Air  2 (100)      100%        3    108
+ Regeneration             Chrm/Necr      2 (200)      100%        3    108
+ Summon Guardian Golem    Hex/Summ       6 (100)      100%        3    108
+ Teleport Other           Tloc           2 (100)      100%        3    108
+ Vampiric Draining        Necr           2 (200)      100%        3    108
+ Airstrike                Air            2 (200)      100%        4    208
+ Animate Dead             Necr           N/A          100%        4    208
+ Force Lance              Conj/Tloc      2 (100)      100%        4    208
+ Leda's Liquefaction      Hex/Erth       2 (200)      100%        4    208
+ Petrify                  Tmut/Erth      2 (100)      100%        4    208
+ Summon Ice Beast         Ice/Summ       6 (100)      100%        4    208
+ Summon Lightning Spire   Summ/Air       6 (100)      100%        4    208
+ Iskenderun's Battlesphe  Conj/Chrm      2 (100)      100%        5    358
+ Metabolic Englaciation   Hex/Ice        2 (200)      100%        5    358
+ Summon Demon             Summ           11 (200)     100%        5    358
+ Summon Mana Viper        Hex/Summ       6 (100)      100%        5    358
+ Yara's Violent Unravell  Hex/Tmut       2 (200)      100%        5    358
+ Freezing Cloud           Conj/Ice/Air   2 (200)      100%        6    508
+ Shadow Creatures         Summ           N/A          100%        6    508
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:4            Lair (0/6) D:10
+    Orc (2/2) D:11        
+   Elf: Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 [   D:10 [   D:11 %[   Orc:1 (
+
+Annotations:
+D:6 dig for gold
+D:11 loot
+D:12 1 runed translucent door, tiocybot's ghost, journeyman GnTm
+Orc:1 loot
+Orc:2 Saint Roka
+
+Message History
+
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+You are feeling hungry.
+Unknown command.
+There is an open door here.
+k - 213 stones (gained 27)
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+Okay, then.
+Done exploring.
+Unknown command.
+Done exploring.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #############
+  #~.#.....#|~#
+  #~.#..#..#.~#
+  #~.'.#}#.'.~#
+  #~.#..#..#.~#                  #####
+  #~|#.....#.~#  #########       #...#
+  ######'######  #}.....}#       #...##
+       #.#       #.......#       ##...#
+  ######'######  #.##.##.#        #...#
+  #~~~~~~~~~~~#  #.......##       ##..####
+  #~##.....##~####.......~#        #...#.#####
+  #~#...}...#~#~~#.##.##.~#        #......#..######
+  #~..}...}..~'.|'......@~#       ###.#...#...#...##
+  #~.......).~'..'.......~#       #...#...##.......##  #######
+  #~.}.._..}.~#~~#.##.##.~#     ###...#.............####.....#
+  #~.........~####.......~#    ##....##..............##......#
+  #~..}...}..~#  #.......##    #.[..###..............###)....##
+  #~#...}...#~#  #.##.##.# ### ##..##.................)).......
+  #~##.)...##~#  #.......# #.#####..#).....##...).)..[.####'###
+  #~~~~~[~~~~~#  #}.....}# #.........<...#.###........##.......
+  ######'######  ###'#'### ##......#...#....###..##...#.7#####7
+    #....[..#     #~...~#  #..#........#.....###......#.##...##
+#####.......##### #~)))~#  #..#.............##.#.....[#.#.7.7.#
+#.}.#.#.#.#.#...# #######  #.................#........#.#..<..#
+#...#.#.#.#.#.#.#  ###########................>.#.....#.#.7.7.#
+##'##.#.#.#.#.#.#  #......## ####..............###....#.##...##
+#...'.#.#.#.'...#  #.......###  ###......).....# ###..#.7##'##7
+#.#.#.).....#####  #.........##  #.............## #...##..!....
+#.#.#.......#####  #..........#  #.........##...###....########
+#...'.#.#[#.'...#  #..........####..........##.###......[.##...
+##'##.#.#.#.#.#.#  #.....##.#...#.........#.....).........##..(
+#...#.#.#[#.#.#.#  #.....##...............##.....###.....#####.
+#.}.#.#.#[#.#...#  ####.###.......^....#.##.....##W#.......###(
+#####.......#####    ##.###...##.......######.[.#.(+.......##..
+    #..[[)..#      ###....#...###.......#####...##)#.......##..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A deep elf sorcerer (D:12)
+  An orc warlord (Orc:1)
+  Harold (D:8)
+  2 hydras
+  3 two-headed ogres
+  4 thrashing horrors (Abyss:2)
+  2 vampire magi
+  An orc high priest (Orc:2)
+  A wretched star (Abyss:2)
+  A sixfirhy (Abyss:2)
+  A death drake (Abyss:2)
+  An unseen horror (D:12)
+  An orc knight (D:12)
+  2 large abominations (Abyss:2)
+  4 orc sorcerers
+  6 deep elf magi (D:12)
+  A cyclops (D:12)
+  4 naga magi (D:12)
+  A smoke demon (Abyss:2)
+  2 gargoyles
+  Psyche (D:12)
+  A centaur skeleton (D:12)
+  An ancient zyme (Abyss:2)
+  A hellwing (Abyss:2)
+  4 trolls
+  2 raiju (Abyss:2)
+  A hornet (D:10)
+  4 hippogriffs
+  An ice dragon zombie (Abyss:2)
+  2 dream sheep (D:10)
+  A meliai zombie (D:10)
+  2 wraiths
+  A wyvern (D:11)
+  8 yaks (D:10)
+  2 vampires
+  Eustachio (D:5)
+  A hungry ghost (D:12)
+  A golden eye (Abyss:2)
+  2 chaos spawn (Abyss:2)
+  A neqoxec (Abyss:2)
+  Edmund (D:6)
+  4 wargs
+  Menkaure (D:6)
+  Duvessa (D:5)
+  2 sky beasts
+  3 ice beasts
+  2 eyes of draining
+  38 orc warriors
+  2 phantoms
+  2 black bears
+  A necrophage (D:8)
+  4 ogres
+  12 centaurs
+  A crocodile (Sewer)
+  7 big kobolds
+  11 bullfrogs
+  Dowan (D:5)
+  4 scorpions
+  2 small abominations (Abyss:2)
+  6 killer bees (D:9)
+  9 howler monkeys
+  9 wights
+  4 crimson imps
+  A bullfrog zombie (D:6)
+  A quasit (D:12)
+  A gnoll shaman (D:5)
+  3 jellies
+  20 orc priests
+  3 hounds
+  27 orc wizards
+  An iguana (D:5)
+  Ijyb (D:5)
+  13 worker ants
+  A hound skeleton (D:9)
+  A howler monkey zombie (D:7)
+  14 adders
+  9 gnolls
+  5 shadow imps
+  A white imp (Abyss:2)
+  3 oozes (D:2)
+  An adder skeleton (D:4)
+  4 worms
+  A dart slug (D:4)
+  2 leopard geckos
+  117 orcs
+  8 giant cockroaches
+  6 goblins
+  3 hobgoblins (D:1)
+  6 jackals
+  A quokka (D:12)
+  5 bats
+  2 frilled lizards
+  A jackal skeleton (D:6)
+  26 kobolds
+  A leopard gecko skeleton (D:5)
+  A quokka skeleton (D:6)
+  8 rats
+503 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An orc wizard (D:10)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:12)
+  A plant (D:10)
+  23 starspawn tentacles (Abyss:2)
+25 creatures vanquished.
+
+Grand Total: 529 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tacrache the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+    62 | D:1      | Reached skill level 1 in Stealth
+   125 | D:1      | Found a snail-covered altar of Cheibriados.
+   190 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+   856 | D:2      | Reached XP level 3. HP: 27/29 MP: 3/3
+   932 | D:2      | Reached skill level 1 in Armour
+  1206 | D:2      | Reached XP level 4. HP: 29/35 MP: 4/4
+  1368 | D:2      | Found a deep blue altar of Sif Muna.
+  2253 | D:2      | Reached skill level 1 in Slings
+  2253 | D:2      | Reached XP level 5. HP: 39/41 MP: 5/5
+  2519 | D:3      | Found a sacrificial altar of Ru.
+  3041 | D:3      | Found an opulent altar of Gozag.
+  3528 | D:4      | Reached XP level 6. HP: 39/47 MP: 6/6
+  4038 | D:3      | Learned a level 1 spell: Summon Small Mammal
+  4041 | D:3      | Learned a level 2 spell: Call Imp
+  4425 | D:4      | Found a staircase to the Ecumenical Temple.
+  4559 | D:4      | Reached skill level 1 in Maces & Flails
+  4833 | Temple   | Entered the Ecumenical Temple
+  4927 | Temple   | Became a worshipper of Elyvilon the Healer
+  4961 | D:5      | Entered Level 5 of the Dungeon
+  5091 | D:5      | Reached XP level 7. HP: 52/52 MP: 7/7
+  5135 | D:5      | Reached skill level 1 in Polearms
+  5135 | D:5      | Reached skill level 1 in Summonings
+  5135 | D:5      | Reached skill level 1 in Evocations
+  5312 | D:4      | Reached skill level 1 in Axes
+  5453 | D:5      | Found a glowing drain.
+  5466 | Sewer    | Entered a sewer
+  5955 | D:5      | Reached XP level 8. HP: 57/59 MP: 9/9
+  6119 | D:5      | Reached * piety under Elyvilon
+  6233 | D:5      | Noticed Duvessa
+  6244 | D:5      | Noticed Dowan
+  6301 | D:4      | Reached skill level 1 in Invocations
+  6333 | D:5      | Noticed Ijyb
+  6338 | D:5      | Killed Ijyb
+  6782 | D:5      | Killed Duvessa
+  6932 | D:5      | Killed Dowan
+  7840 | D:6      | Found a radiant altar of Vehumet.
+  8169 | D:6      | Noticed Edmund
+  8496 | D:6      | Found a glowing silver altar of Zin.
+  8500 | D:6      | Fell from the grace of Elyvilon
+  8500 | D:6      | Became a worshipper of Zin the Law-Giver
+  8500 | D:6      | Reached * piety under Zin
+  8500 | D:6      | Reached ** piety under Zin
+  8501 | D:6      | Donated 152 gold pieces to Zin
+  8568 | D:6      | Killed Edmund
+  8568 | D:6      | Reached XP level 9. HP: 57/67 MP: 12/12
+  8825 | D:6      | Noticed Eustachio
+  8854 | D:5      | Killed Eustachio
+  8854 | D:5      | Reached skill level 5 in Invocations
+  8898 | D:6      | Noticed Menkaure
+  8904 | D:6      | Killed Menkaure
+  8904 | D:6      | Reached skill level 5 in Fighting
+  9041 | D:6      | Found Buawk's Antique Armour Shoppe.
+  9094 | D:6      | Found a bloodstained altar of Trog.
+  9392 | D:7      | Found a blossoming altar of Fedhas.
+  9457 | D:7      | Found a shadowy altar of Dithmenos.
+  9899 | D:7      | Found a flagged portal.
+  9980 | Bailey   | Entered a bailey
+  9996 | Bailey   | Reached skill level 5 in Armour
+ 10173 | Bailey   | Reached *** piety under Zin
+ 10473 | Bailey   | Reached XP level 10. HP: 61/74 MP: 14/14
+ 10569 | Bailey   | Reached skill level 1 in Bows
+ 11560 | Bailey   | Reached skill level 5 in Dodging
+ 11601 | Bailey   | Reached skill level 5 in Evocations
+ 11914 | Bailey   | Got a twitching wooden ring
+ 12257 | D:7      | Found a hazy altar of Hepliaklqana.
+ 12291 | D:7      | Found a glowing golden altar of the Shining One.
+ 13124 | D:6      | Identified the ring "Conouz" {+Fly rC+ MP+9 Int+3} (You
+                  | found it in a bailey)
+ 13396 | D:8      | Reached **** piety under Zin
+ 13397 | D:8      | Noticed Harold
+ 13577 | D:7      | Learned a level 3 spell: Call Canine Familiar
+ 13635 | D:8      | Reached skill level 1 in Spellcasting
+ 13686 | D:8      | Killed Harold
+ 14396 | D:9      | Reached XP level 11. HP: 81/81 MP: 16/16
+ 14579 | D:9      | Found a stormy altar of Qazlal.
+ 14739 | D:9      | Found an ornate altar of the Wu Jian Council.
+ 15608 | D:10     | Entered Level 10 of the Dungeon
+ 16055 | D:10     | Noticed a two-headed ogre
+ 16099 | D:10     | Killed a two-headed ogre
+ 16387 | D:10     | Got a jewelled quarterstaff
+ 16403 | D:10     | Noticed a three-headed hydra
+ 16408 | D:10     | Killed a one-headed hydra
+ 16558 | D:10     | Found Otepsuj's Armour Boutique.
+ 16636 | D:10     | Found a staircase to the Lair.
+ 16971 | D:10     | Noticed a two-headed ogre
+ 16993 | D:10     | Killed a two-headed ogre
+ 17087 | D:10     | Reached XP level 12. HP: 77/89 MP: 18/18
+ 18003 | D:10     | Got an iridescent war axe
+ 18288 | D:6      | Bought a pair of embroidered gloves for 172 gold pieces
+ 18293 | D:6      | Bought a runed helmet for 172 gold pieces
+ 18946 | D:11     | Found Tenuyf's Armour Boutique.
+ 18947 | D:11     | Found a staircase to the Orcish Mines.
+ 18954 | D:11     | Bought a +0 buckler for 63 gold pieces
+ 18980 | D:11     | Found Tuzej's Food Emporium.
+ 19023 | D:11     | Reached skill level 1 in Shields
+ 19434 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 19651 | Orc:1    | Reached ***** piety under Zin
+ 19686 | Orc:1    | Found Qaankaqig's Weapon Emporium.
+ 20030 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 20068 | Orc:2    | Noticed an orc high priest
+ 20071 | Orc:2    | Noticed a sixfirhy
+ 20074 | Orc:2    | Noticed a sun demon
+ 20600 | Orc:2    | Killed an orc high priest
+ 20600 | Orc:2    | Reached skill level 1 in Short Blades
+ 20746 | Orc:2    | Noticed a two-headed ogre
+ 21175 | Orc:2    | Killed a two-headed ogre
+ 21207 | Orc:2    | Reached ****** piety under Zin
+ 21681 | Orc:1    | Noticed an orc warlord
+ 22409 | Orc:1    | Killed an orc warlord
+ 22471 | D:11     | Bought a +0 large shield for 63 gold pieces
+ 22882 | Orc:1    | Reached XP level 13. HP: 96/96 MP: 19/19
+ 23312 | D:10     | Bought a +1 pair of gloves of dexterity for 198 gold pieces
+ 23381 | D:11     | Bought a +3 scale mail of fire resistance for 364 gold
+                  | pieces
+ 23491 | Orc:2    | Noticed Saint Roka
+ 23630 | D:12     | Found a runed translucent door.
+ 23675 | D:12     | Reached skill level 5 in Shields
+ 23689 | D:12     | Noticed a four-headed hydra
+ 23689 | D:12     | Noticed Psyche
+ 23692 | D:12     | Killed Psyche
+ 23708 | D:11     | Killed a one-headed hydra
+ 24094 | D:12     | Found a shimmering altar of Xom.
+ 24094 | D:12     | Noticed tiocybot's ghost (journeyman GnTm)
+ 25286 | D:12     | Identified the Tome of Boosts and Calling
+ 25301 | D:12     | Found a deep blue altar of Sif Muna.
+ 26038 | D:12     | Noticed a deep elf sorcerer
+ 26058 | D:12     | Cast into level 2 of the Abyss (a deep elf sorcerer)
+ 26101 | Abyss:2  | Noticed a bone dragon
+ 26186 | Abyss:2  | Noticed a tentacled starspawn
+ 26317 | Abyss:2  | Killed from afar by a wretched star (35 damage)
+                  | ... with an orb of energy
+ 26334 | Abyss:2  | Noticed a purple draconian
+ 26382 | Abyss:2  | Noticed a starcursed mass
+ 26465 | Abyss:2  | Identified a scroll of acquirement
+ 26552 | Abyss:2  | Reached skill level 5 in Stealth
+ 26640 | Abyss:2  | Noticed a tentacled starspawn
+ 26701 | Abyss:2  | Noticed a jiangshi
+ 26716 | Abyss:2  | Noticed a jiangshi
+ 26724 | Abyss:2  | Reached XP level 14. HP: 98/105 MP: 20/20
+ 26762 | Abyss:2  | Noticed a starcursed mass
+ 26799 | Abyss:2  | Noticed a green draconian
+ 26960 | Abyss:2  | Noticed a starcursed mass
+ 27105 | Abyss:2  | Noticed a purple very ugly thing
+ 27157 | Abyss:2  | Noticed a starcursed mass
+ 27233 | Abyss:2  | Found a corrupted altar of Lugonu.
+ 27446 | Abyss:2  | Noticed a starcursed mass
+ 27509 | Abyss:2  | Noticed a red very ugly thing
+ 27546 | D:12     | Escaped the Abyss
+ 27551 | D:12     | Killed a deep elf sorcerer
+ 27667 | D:12     | Identified the Grimoire of Spatial Air
+ 27669 | D:12     | Identified the Handbook of the Damaging Oath
+ 27679 | D:12     | Identified the Catalogue of Scorching Arcane Weapons
+ 27681 | D:12     | Identified the Handbook of the Aerial Entourage
+ 27814 | D:12     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Stealth        |  1     2                       3     6  9 |  9.1
+Fighting       |     3                 4  5     6  7  8    |  8.0
+Armour         |        1  2     3  4     5     6  8       |  8.7
+Slings         |           1           2        3          |  3.4
+Staves         |              4                            |  4.0
+Maces & Flails |                 1     2  3                |  3.9
+Polearms       |                    1     2     3          |  3.5
+Summonings     |                    1  2     3             |  3.1
+Evocations     |                    2     4  5  6  7  8    |  8.0
+Axes           |                    2           3          |  3.9
+Invocations    |                       4  5  7  8  9       |  9.1
+Dodging        |                          4  5  6  7  8    |  8.0
+Bows           |                             2  3          |  3.2
+Spellcasting   |                             3             |  3.0
+Throwing       |                                3          |  3.2
+Shields        |                                   4  8    |  8.0
+Short Blades   |                                   2       |  2.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Quarterstaff      | 12079 | 12134 |    37 |       |       || 24250
+       Flail             |       |  8023 |   289 | 16077 |   243 || 24632
+       Hand axe          |       |       |  4007 |     3 |     7 ||  4017
+       Trident           |       |       |     7 | 36300 |  4153 || 40460
+       War axe           |       |       |  4008 |  4036 | 16111 || 24155
+       Dire flail        |       |       |    52 |  8319 |       ||  8371
+       Executioner's axe |       |       |       |  4000 |       ||  4000
+       Glaive            |       |       |       |  4000 |       ||  4000
+       Dagger            |       |       |       |    10 |    30 ||    40
+ Fire: Hunting sling     |       |   104 |   276 |   434 |   144 ||   958
+       Shortbow          |       |       |       |   143 |       ||   143
+       Blowgun           |       |       |       |    42 |    11 ||    53
+Throw: Stone             |    32 |    14 |       |       |       ||    46
+       Tomahawk          |       |       |     3 |     9 |       ||    12
+       Javelin           |       |       |       |     2 |       ||     2
+       Throwing net      |       |       |       |       |     7 ||     7
+ Cast: Call Canine Famil |       |       |       |     6 |       ||     6
+Invok: Recite            |       |       |    11 |    50 |    43 ||   104
+       Donate Gold       |       |       |     1 |       |       ||     1
+       Lesser Healing    |       |       |     1 |       |       ||     1
+       Vitalisation      |       |       |       |     4 |    14 ||    18
+Evoke: Wand              |       |       |    13 |     6 |    40 ||    59
+  Use: Scroll            |     1 |     3 |    10 |    14 |    15 ||    43
+       Potion            |       |     3 |     8 |     4 |     1 ||    16
+ Stab: Sleeping          |     1 |       |       |       |       ||     1
+       Paralysed         |       |       |    15 |     7 |    16 ||    38
+       Invisible         |       |       |     3 |    32 |     9 ||    44
+       Confused          |       |       |       |     4 |     6 ||    10
+  Eat: Chunk             |     1 |    12 |    13 |    13 |     1 ||    40
+       Ration            |       |       |     1 |     8 |     5 ||    14
+Armor: Leather armour    |  2122 |     8 |       |       |       ||  2130
+       Chain mail        |       |  6986 |  7425 |  6198 |  2407 || 23016
+       Skin              |       |       |    38 |       |       ||    38
+       Robe              |       |       |    10 |       |       ||    10
+       Scale mail        |       |       |     4 | 30021 |       || 30025
+       Troll leather arm |       |       |       |       |  1731 ||  1731
+Dodge: Dodged            |  6829 |  6044 |  5002 | 38755 |  4754 || 61384
+Block: Buckler           |       |       |       |  2848 |       ||  2848
+       Large shield      |       |       |       |     9 | 10942 || 10951
+

@@ -1,0 +1,134 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17002893776004190280
+
+0 Nesit the Ducker (level 1, 16/16 HPs) *WIZ*
+             Began as a Human Gladiator on Oct 14, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:52 (0 turns).
+
+Nesit the Ducker (Human Gladiator)                     Turns: 0, Time: 00:00:53
+
+Health: 16/16      AC:  4    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Long Blades
+ + Level 2.0 Throwing
+ + Level 3.0 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Attack: Player |      4.2 |     11 |  41% |   1.8 |   125  |  0.80 |      1.4
+Attack:   Mons | No hits
+Defend: Player |      5.1 |     10 |   6% |   0.3 |    76  |  1.32 |      0.4
+Defend:   Mons |      1.4 |      5 |  43% |   0.6 |    76  |  1.32 |      0.8
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.2 |     11 |  40% |   1.7 |   125  |  0.80 |      1.3
+Attack:   Mons | No hits
+Defend: Player |      5.1 |     11 |   7% |   0.4 |    76  |  1.32 |      0.5
+Defend:   Mons |      1.4 |      5 |  44% |   0.6 |    76  |  1.32 |      0.8
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.2 |     11 |  41% |   1.7 |   125  |  0.80 |      1.4
+Attack:   Mons | No hits
+Defend: Player |      4.9 |     11 |   6% |   0.3 |    76  |  1.32 |      0.4
+Defend:   Mons |      1.4 |      5 |  42% |   0.6 |    76  |  1.32 |      0.8
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.3 |     11 |  40% |   1.8 |   125  |  0.80 |      1.4
+Attack:   Mons | No hits
+Defend: Player |      5.0 |     11 |   6% |   0.3 |    76  |  1.32 |      0.4
+Defend:   Mons |      1.4 |      5 |  43% |   0.6 |    76  |  1.32 |      0.8
+Enter Wizard Command (? - help): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #.
+     #.
+    ##.####
+ ####.....#
+ #......8.####
+.#........~~~#
+.........~~~~#
+...8..8@.~~~>#
+.#.......~~~~#
+..........~~~#
+.#.#....8.####
+ # ##.....#
+    #..##.#
+    ...  .#
+   ##.#  ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nesit the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Long sword        || 16000
+Armor: Leather armour    ||  2776
+Dodge: Dodged            ||  9036
+Rpst.: Long sword        ||  3036
+

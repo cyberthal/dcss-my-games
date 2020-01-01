@@ -1,0 +1,122 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2959528122196457189
+
+0 Macweh Lujel the Stinger (level 1, 13/13 HPs) *WIZ*
+             Began as a Human Venom Mage on Dec 19, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:08 (1703 turns).
+
+Macweh Lujel the Stinger (Human Venom Mage)         Turns: 1703, Time: 00:01:09
+
+Health: 13/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - 11 rations
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.0 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      7 (25)       10%         1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       6 (50)       19%         2    70
+ Mephitic Cloud           Conj/Pois/Air  5 (100)      36%         3    120
+ Olgreb's Toxic Radiance  Pois           10 (100)     54%         4    220
+ Venom Bolt               Conj/Pois      7 (200)      95%         5    370
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###+###
+#.....#
+#.....#
+#.8@8.#
+#.....#
+#######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Macweh Lujel the Human Venom Mage began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+  1703 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Eat: Ration            ||     2
+

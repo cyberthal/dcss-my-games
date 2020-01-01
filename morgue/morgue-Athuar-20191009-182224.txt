@@ -1,0 +1,110 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17968795993247171475
+
+0 Athuar the Chopper (level 1, 18/18 HPs) *WIZ*
+             Began as a Hill Orc Gladiator on Oct 9, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:24 (0 turns).
+
+Athuar the Chopper (Hill Orc Gladiator)                Turns: 0, Time: 00:00:24
+
+Health: 18/18      AC:  4    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV: 12    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 4.0 Axes
+ + Level 1.7 Throwing
+ + Level 2.4 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Athuar the Hill Orc Gladiator.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.7 |     16 |  37% |   2.1 |   130  |  0.77 |      1.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.5 |      5 |  47% |   0.7 |    76  |  1.32 |      0.9
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###########
+#.........#
+  7..@..7
+#.........#
+#####+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Athuar the Hill Orc Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||  4000
+Armor: Leather armour    ||   747
+Dodge: Dodged            ||  2089
+

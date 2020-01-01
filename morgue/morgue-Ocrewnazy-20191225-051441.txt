@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9150916095232137286
+
+0 Ocrewnazy the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Dec 25, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:21 (1 turns).
+
+Ocrewnazy the Skirmisher (Hill Orc Fighter)            Turns: 1, Time: 00:02:21
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   e - +0 blowgun
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ e - a +0 blowgun (weapon)
+Missiles
+ g - 30 tomahawks
+ h - 30 javelins (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+What type of item? jav
+Javelin
+What ego type? 
+Something appears at your feet!
+h - 30 javelins
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - seven-headed hydra
+Aim: a seven-headed hydra
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.4 |      8 |  77% |   2.6 |   138  |  0.72 |      1.9
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     27.0 |     69 | 100% |  27.0 |   100  |  1.00 |     27.0
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - seven-headed hydra
+Aim: a seven-headed hydra
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      6.0 |     15 |  75% |   4.6 |   158  |  0.63 |      2.9
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     27.2 |     77 |  99% |  27.2 |   100  |  1.00 |     27.2
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##########
+#~~~~~~D<#
+#~~~~..###
+#@~~~~.~#
+#.~~~~~.#
+#~~~~~.~#
+#~~~~~.##
+#.~~~~~.#
+#~..~~~~.
+#~.~~~~[~
+#~~~~~~~.
+
+
+You could see a seven-headed hydra.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ocrewnazy the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a seven-headed hydra
+     1 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Armor: Scale mail        || 15376
+Dodge: Dodged            || 16702
+Block: Shield            || 23046
+

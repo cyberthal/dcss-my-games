@@ -1,0 +1,137 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14749000998180169331
+
+0 Nateph the Skirmisher (level 1, 18/18 HPs)
+             Began as a Demonspawn Abyssal Knight on Oct 13, 2019.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:02 (98 turns).
+
+Nateph the Skirmisher (Demonspawn Abyssal Knight)     Turns: 98, Time: 00:02:02
+
+Health: 18/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  1/2        EV: 11    Int: 13    God:    Lugonu [......]
+Gold:   24         SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+You collected 24 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Scrolls
+ d - a scroll of enchant weapon {unknown}
+ g - a scroll of immolation {unknown}
+Potions
+ e - a potion of degeneration {unknown}
+ f - a potion of curing {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ + Level 1.7 Armour
+ + Level 0.8 Dodging
+ + Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Here: a sky beast (hasn't noticed you)
+The floor.
+The sky beast flickers out of sight!
+Deactivating autopickup; reactivate with Ctrl-A.
+A sky beast appears from thin air!
+Reactivating autopickup.
+A chaos spawn comes into view.
+The chaos spawn croaks.
+Press: ? - help, v - describe, . - travel
+Here: a chaos spawn
+The floor.
+The sky beast flickers out of sight!
+Deactivating autopickup; reactivate with Ctrl-A.
+A small abomination comes into view.
+You pass through the gate.
+Reactivating autopickup.
+You can no longer depart the Abyss at will.
+Found a hand axe and a cyan potion.
+There is a staircase leading out of the dungeon here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+####
+#..###
+#....#
+#....
+#.).
+#..#
+#..#
+#@.#
+#..#
+#..#
+#...
+#....
+#..!.#
+#..###
+####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Nateph the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+    70 | Abyss:1  | Noticed a sky beast
+    84 | Abyss:1  | Noticed a chaos spawn
+    94 | Abyss:1  | Noticed a small abomination
+    97 | D:1      | Escaped the Abyss
+    98 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Depart the Abyss  ||     1
+

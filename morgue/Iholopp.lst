@@ -1,17 +1,17 @@
 Iholopp
 
 Level 1 of the Dungeon
-(7, 12, D:1)
+(0, 0, D:1)
   a chain mail
-(18, -18, D:1)
+(11, -30, D:1)
   a robe
-(27, -9, D:1)
+(20, -21, D:1)
   a +0 dagger
-(38, -8, D:1)
+(31, -20, D:1)
   a cursed -1 club
-(41, -24, D:1)
+(34, -36, D:1)
   a dagger
-(52, 15, D:1)
+(45, 3, D:1)
   a +0 club
   a +0 club
 
@@ -37,17 +37,17 @@ Level 2 of the Dungeon
   a chain mail
 
 Level 3 of the Dungeon
-(9, 9, D:3)
+(0, 0, D:3)
   a club
-(12, 24, D:3)
+(3, 15, D:3)
   a +0 dagger
-(13, 7, D:3)
+(4, -2, D:3)
   a ring mail
-(30, -4, D:3)
+(21, -13, D:3)
   a +0 robe
-(30, 20, D:3)
+(21, 11, D:3)
   a robe
-(42, 7, D:3)
+(33, -2, D:3)
   a ring mail
 
 Level 4 of the Dungeon
@@ -71,7 +71,6 @@ Level 4 of the Dungeon
 (23, 9, D:4)
   a +0 dagger
 (23, 10, D:4)
-  a +0 scale mail
   a +0 scale mail
   a +0 club
   a +0 mace
@@ -179,38 +178,223 @@ Level 7 of the Dungeon
   a cursed +0 flail
 
 Level 8 of the Dungeon
+[Shop] Tubrulo's Gadget Shoppe
+  a wand of digging (7) (286 gold)
+  a lightning rod (4/4) (520 gold)
+  a fan of gales (520 gold)
+  a lamp of fire (520 gold)
+  a phantom mirror (390 gold)
+  a sack of spiders (260 gold)
+  a wand of disintegration (16) (unknown) (260 gold)
+  a wand of clouds (4) (unknown) (312 gold)
+  a box of beasts (260 gold)
+  a crystal ball of energy (260 gold)
+  a phantom mirror (390 gold)
+  a wand of polymorph (15) (unknown) (221 gold)
 (0, 0, D:8)
-  an arrow
-(2, -1, D:8)
-  a bolt
-(2, 3, D:8)
-  13 gold pieces
-(5, 3, D:8)
-  2 arrows
-(6, 2, D:8)
-  a bolt
-(7, 4, D:8)
   a +0 shortbow
-  a centaur skeleton
-(8, 1, D:8)
-  a bolt
-(9, 0, D:8)
-  a bolt (still there?)
-  16 gold pieces (still there?)
-(10, -1, D:8)
-  a bolt
-(10, 2, D:8)
-  a potion of curing
-(12, 1, D:8)
-  21 stones
-(12, 6, D:8)
-  15 arrows
-(30, -34, D:8)
-  18 gold pieces
-(33, -26, D:8)
-  20 gold pieces
-(35, -8, D:8)
+(11, -21, D:8)
+  a robe
+(28, -12, D:8)
   a falchion
+(28, -7, D:8)
+  a chain mail
+(37, -13, D:8)
+  a +0 leather armour
+  a +0 flail
+(50, -23, D:8)
+  a scale mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 ring mail
+  a +0 hand axe
+(0, 1, D:9)
+  a +0 hand axe
+(2, -1, D:9)
+  a +0 robe
+  a +0 dagger
+(8, 13, D:9)
+  a +0 dagger
+(12, 14, D:9)
+  a +0 flail
+(14, 1, D:9)
+  a robe
+(21, 8, D:9)
+  a scale mail
+(22, -25, D:9)
+  a +0 shortbow
+(25, -26, D:9)
+  a +0 flail
+(26, -27, D:9)
+  a +0 leather armour
+  a cursed +0 hand axe
+(26, -18, D:9)
+  a ring mail
+(26, 15, D:9)
+  a +0 hand axe
+(27, -27, D:9)
+  a +0 war axe
+  a +0 chain mail
+  a +0 club
+  a +0 robe
+  a +0 dagger
+(34, -17, D:9)
+  a rapier
+(46, -20, D:9)
+  a scale mail
+(46, -14, D:9)
+  a +0 leather armour
+(49, -14, D:9)
+  a +0 leather armour
+  a +0 flail
+(51, -15, D:9)
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(51, -14, D:9)
+  a +0 flail
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a hand axe
+(17, 15, D:10)
+  a +0 war axe
+  a +0 robe
+(18, 18, D:10)
+  a +0 dagger
+  a +0 robe
+(18, 22, D:10)
+  a +0 ring mail
+(19, -18, D:10)
+  a dagger
+(23, 19, D:10)
+  a +0 halberd
+  a +0 chain mail
+(26, 24, D:10)
+  a spear
+(27, -14, D:10)
+  a +0 ring mail
+  a cursed -3 war axe
+(29, -11, D:10)
+  a +0 robe
+  a +0 dagger
+(29, -9, D:10)
+  a +0 mace
+(30, 35, D:10)
+  a trident
+(32, -18, D:10)
+  a +0 ring mail
+  a +0 dagger
+(34, -18, D:10)
+  a +0 chain mail
+  a +0 robe
+  a +0 giant club
+(34, 2, D:10)
+  a +1 pair of boots
+  a +0 scale mail
+  a +0 chain mail
+  a +1 hat
+(35, 2, D:10)
+  a +2 flail of holy wrath
+  a +0 flail of protection
+  a +0 scimitar
+  a +3 arbalest of freezing
+(37, 1, D:10)
+  a scroll labeled VANADGH GENYZO
+  a scroll labeled WIRALA OCKI
+  a scroll labeled QUSASHR RO JAA
+  a scroll labeled XEAGAU OCUSA
+(37, 2, D:10)
+  3 scrolls of amnesia
+  an uncursed staff of conjuration
+  an uncursed ring of ice
+(37, 3, D:10)
+  a scroll of random uselessness
+(42, 29, D:10)
+  a chain mail
+(47, 24, D:10)
+  a +0 club
+  a +0 chain mail
+  a cursed -3 hand axe
+(50, -21, D:10)
+  a dagger
+(55, 0, D:10)
+  a cursed +0 plate armour
+  a +0 dire flail
+(60, -3, D:10)
+  a +0 ring mail
+  a +0 short sword
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(14, -15, Lair:1)
+  a spear
+(17, -34, Lair:1)
+  a quarterstaff
+(30, -32, Lair:1)
+  4 large rocks
+(32, -12, Lair:1)
+  a scimitar
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a leather armour
+(15, 13, Lair:2)
+  a hunting sling
+(28, -19, Lair:2)
+  a trident
+(38, -12, Lair:2)
+  a staff of wizardry
+(41, 14, Lair:2)
+  a robe
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a tomahawk
+(2, 0, Lair:3)
+  a bolt
+(2, 1, Lair:3)
+  a bolt
+(3, -5, Lair:3)
+  a bolt
+(3, 21, Lair:3)
+  a bolt
+(4, 19, Lair:3)
+  a bolt
+(4, 20, Lair:3)
+  a bolt
+(4, 21, Lair:3)
+  a bolt
+  (unseen)
+(4, 22, Lair:3)
+  a bolt
+(5, -8, Lair:3)
+  a leather armour
+(5, 5, Lair:3)
+  a ration
+(5, 24, Lair:3)
+  a ration
+(7, -9, Lair:3)
+  a yak skeleton
+  a yak skeleton
+(7, 14, Lair:3)
+  a yak skeleton
+(8, -8, Lair:3)
+  a water moccasin corpse
+(8, 21, Lair:3)
+  a ration
+(10, 6, Lair:3)
+  a whip
+(39, 10, Lair:3)
+  a scroll of teleportation
+(46, 24, Lair:3)
+  20 bolts
+(58, -8, Lair:3)
+  a water moccasin corpse (skeletalised by now)
+(60, 25, Lair:3)
+  20 bolts
+(63, 29, Lair:3)
+  a ruby potion
 

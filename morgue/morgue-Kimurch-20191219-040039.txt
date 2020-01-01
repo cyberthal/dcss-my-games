@@ -1,0 +1,136 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15640901538925118883
+
+0 Kimurch the Sneak (level 1, 7/7 HPs) *WIZ*
+             Began as a Felid Venom Mage on Dec 19, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:14 (2404 turns).
+
+Kimurch the Sneak (Felid Venom Mage)                Turns: 2404, Time: 00:01:14
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 0%
+Magic:  4/4        EV: 18    Int: 16    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Comestibles
+ b - 10 rations
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 0.8 Conjurations
+ + Level 2.6 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      7 (25)       10%         1    18
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       5 (50)       19%         2    68
+ Mephitic Cloud           Conj/Pois/Air  5 (100)      36%         3    118
+ Olgreb's Toxic Radiance  Pois           10 (100)     56%         4    218
+ Venom Bolt               Conj/Pois      7 (200)      95%         5    368
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+You start waiting.
+Done waiting.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+7777
+7@.7
+77..7
+  .77
+  77
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kimurch the Felid Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+  2404 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Eat: Ration            ||     3
+

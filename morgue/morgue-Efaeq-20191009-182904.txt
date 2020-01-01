@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11949233269011297925
+
+0 Efaeq the Slasher (level 1, 18/18 HPs) *WIZ*
+             Began as a Hill Orc Gladiator on Oct 9, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:33 (0 turns).
+
+Efaeq the Slasher (Hill Orc Gladiator)                 Turns: 0, Time: 00:00:33
+
+Health: 18/18      AC:  4    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV: 12    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 3.2 Long Blades
+ + Level 1.7 Throwing
+ + Level 2.4 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Efaeq the Hill Orc Gladiator.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - you
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.7 |     12 |  39% |   1.9 |   124  |  0.81 |      1.5
+Attack:   Mons | No hits
+Defend: Player |      5.4 |     11 |   6% |   0.4 |    76  |  1.32 |      0.5
+Defend:   Mons |      1.4 |      5 |  48% |   0.7 |    76  |  1.32 |      0.9
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ##   #
+## #P7 ...
+7.#P7..~~~
+ 7@....8~#
+7.#P7..~~~
+## #P7 ...
+    ##   #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Efaeq the Hill Orc Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Long sword        ||  4000
+Armor: Leather armour    ||   760
+Dodge: Dodged            ||  2055
+Rpst.: Long sword        ||   681
+

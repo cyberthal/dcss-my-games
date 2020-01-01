@@ -1,0 +1,1026 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12478012563212907264
+
+Goimij the Fighter (Gnoll Wanderer)                Turns: 54708, Time: 17:53:47
+
+Health: 147/147    AC: 26    Str: 18    XL:     18   Next: 86%
+Magic:  29/34      EV: 20    Int: 28    God:    Fedhas 73 (0)
+Gold:   59         SH: 14    Dex: 28    Spells: 0/41 levels left
+
+rFire    + . .     SeeInvis .   d - +7 war axe {freeze, *Slow Int+7 Dex+6}
+rCold    + . .     Gourm    .   k - +0 shield {reflect}
+rNeg     . . .     Faith    +   D - +6 chain mail of Starshine {*Drain rPois Int+6 Slay+6}
+rPois    +         Spirit   .   s - +2 hat {MR+}
+rElec    .         Reflect  +   t - scarf {rC+ rF+}
+rCorr    .         Harm     .   r - +0 pair of fencer's gloves {Riposte Dex+3}
+MR       ++...                  K - +2 pair of boots
+Stlth    +++.......             z - amulet of faith
+HPRegen  0.34/turn              q - ring of flight
+MPRegen  0.24/turn              y - +3 ring of evasion
+
+@: appendage, shrouded (expiring), studying Transmutations
+A: distributed training, fangs 1, horns 2, evolution 1, subdued magic 1,
+MP-powered wands, strong nose
+}: 1/15 runes: barnacled
+a: End Transformation, Fungal Bloom, Sunlight, Evolution, Renounce Religion,
+Evoke Flight
+
+
+You are on level 4 of the Shoals.
+You worship Fedhas.
+Fedhas is pleased with you.
+You are not hungry.
+
+You have grown temporary horns.
+
+You have visited 6 branches of the dungeon, and seen 32 of its levels.
+You have also visited: Gauntlet.
+
+You have collected 3114 gold pieces.
+You have spent 2867 gold pieces at shops.
+You have donated 188 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 dagger of pain
+ b - a +6 scimitar of electrocution
+ c - a +2 hand axe of electrocution
+ d - the +7 war axe of Lotaevih (weapon) {freeze, *Slow Int+7 Dex+6}
+   (You took it off a minotaur in a Gauntlet)   
+   
+   It has been specially enchanted to freeze those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. It can also slow down cold-blooded creatures.
+   
+   It affects your intelligence (+7).
+   It affects your dexterity (+6).
+   It may slow you when you take damage.
+ e - a +5 trident of protection
+ f - a +9 blowgun
+ g - a +2 hunting sling of flaming
+Missiles
+ l - 998 stones
+ m - 79 poisoned needles
+ o - 12 curare-tipped needles {!f}
+ x - 88 tomahawks (quivered)
+ H - 518 arrows
+ J - 223 sling bullets
+Armour
+ k - a +0 shield of reflection (worn)
+ r - the +0 pair of fencer's gloves (worn) {Riposte Dex+3}
+   (You found it in a Gauntlet)   
+   
+   It affects your dexterity (+3).
+ s - a +2 hat of magic resistance (worn)
+ t - a scarf of resistance (worn)
+ D - the +6 chain mail of Starshine (worn) {*Drain rPois Int+6 Slay+6}
+   (You found it on level 13 of the Dungeon)   
+   
+   It affects your intelligence (+6).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+6).
+   It protects you from poison.
+   It causes draining when unequipped.
+ K - a +2 pair of boots (worn)
+Magical Staves
+ v - an uncursed staff of poison
+Jewellery
+ i - an uncursed ring of resist corrosion
+ p - an uncursed ring of see invisible
+ q - a ring of flight (left hand)
+ y - a +3 ring of evasion (right hand)
+ z - an amulet of faith (around neck)
+ I - a +4 ring of dexterity
+Wands
+ h - a wand of flame (66)
+ w - a wand of polymorph (17)
+ A - a wand of enslavement (31)
+ L - a wand of iceblast (26)
+ P - a wand of disintegration (49)
+ R - a wand of random effects (54)
+Scrolls
+ j - 18 scrolls of remove curse
+ n - 7 scrolls of identify
+ C - 7 scrolls of fear
+ E - 7 scrolls of fog
+ F - 21 scrolls of teleportation
+ V - 14 scrolls of magic mapping
+Potions
+ M - 6 potions of agility
+ N - 4 potions of berserk rage
+ O - 4 potions of cancellation
+ S - 11 potions of curing
+ W - 5 potions of flight
+ X - 4 potions of haste
+ Y - 6 potions of might
+ Z - 4 potions of resistance
+Books
+ U - a manual of Transmutations
+Miscellaneous
+ B - 2 boxes of beasts
+ Q - a phial of floods
+ T - a lightning rod (4/4)
+Comestibles
+ u - 48 rations
+ G - a chunk of flesh
+
+
+   Skills:
+ + Level 14.4 Fighting
+ + Level 12.2 Short Blades
+ + Level 12.2 Long Blades
+ + Level 12.2 Axes
+ + Level 12.2 Maces & Flails
+ + Level 12.2 Polearms
+ + Level 12.2 Staves
+ + Level 12.2 Slings
+ + Level 12.5 Bows
+ + Level 12.2 Crossbows
+ + Level 12.2 Throwing
+ + Level 13.6 Armour
+ + Level 12.2 Dodging
+ + Level 12.4 Stealth
+ + Level 12.5 Shields
+ + Level 12.2 Unarmed Combat
+ + Level 12.2 Spellcasting
+ + Level 10.5 Conjurations
+ + Level 10.5 Hexes
+ + Level 10.5 Charms
+ + Level 10.5 Summonings
+ + Level 10.5 Necromancy
+ + Level 10.5 Translocations
+ + Level 12.4 Transmutations
+ + Level 10.5 Fire Magic
+ + Level 10.5 Ice Magic
+ + Level 10.5 Air Magic
+ + Level 10.5 Earth Magic
+ + Level 10.5 Poison Magic
+ + Level 13.2 Invocations
+ + Level 12.2 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            55 (90)      1%          1    0
+b - Beastly Appendage     Tmut           50 (50)      1%          1    0
+c - Slow                  Hex            55 (100)     1%          2    0
+d - Sticks to Snakes      Tmut           61 (100)     1%          2    0
+e - Shroud of Golubria    Chrm/Tloc      55 (200)     1%          2    0
+f - Call Imp              Summ           55 (100)     1%          2    0
+g - Corpse Rot            Necr           N/A          1%          2    0
+h - Blink                 Tloc           N/A          1%          2    0
+i - Sublimation of Blood  Necr           55 (200)     1%          2    0
+j - Lesser Beckoning      Tloc           55 (200)     1%          3    0
+k - Inner Flame           Hex/Fire       55 (100)     1%          3    0
+l - Call Canine Familiar  Summ           55 (100)     1%          3    0
+m - Portal Projectile     Hex/Tloc       50 (50)      1%          3    0
+n - Gell's Gravitas       Tloc           55 (200)     1%          3    0
+o - Ignite Poison         Fire/Tmut/Pois 57 (100)     1%          3    0
+p - Teleport Other        Tloc           55 (100)     1%          3    0
+q - Cause Fear            Hex            55 (200)     3%          4    0
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    0
+ Apportation              Tloc           50 (50)      1%          1    0
+ Pain                     Necr           25 (25)      1%          1    0
+ Sting                    Conj/Pois      25 (25)      1%          1    0
+ Summon Butterflies       Summ           55 (100)     1%          1    0
+ Summon Small Mammal      Summ           25 (25)      1%          1    0
+ Ozocubu's Armour         Chrm/Ice       55 (100)     1%          3    0
+ Regeneration             Chrm/Necr      55 (200)     1%          3    0
+ Spider Form              Tmut/Pois      58 (200)     1%          3    0
+ Static Discharge         Conj/Air       55 (100)     1%          3    0
+ Tukima's Dance           Hex            55 (100)     1%          3    0
+ Vampiric Draining        Necr           55 (200)     1%          3    0
+ Ice Form                 Ice/Tmut       58 (100)     1%          4    0
+ Animate Dead             Necr           N/A          3%          4    0
+ Leda's Liquefaction      Hex/Erth       55 (200)     3%          4    0
+ Passage of Golubria      Tloc           N/A          3%          4    0
+ Blade Hands              Tmut           61 (200)     4%          5    57
+ Alistair's Intoxication  Tmut/Pois      58 (100)     6%          5    57
+ Irradiate                Conj/Tmut      58 (200)     6%          5    57
+ Dispel Undead            Necr           55 (100)     10%         5    57
+ Fireball                 Conj/Fire      55 (200)     10%         5    57
+ Lightning Bolt           Conj/Air       55 (200)     10%         5    57
+ Summon Demon             Summ           55 (200)     10%         5    57
+ Hydra Form               Tmut           61 (200)     24%         6    207
+ Statue Form              Tmut/Erth      58 (150)     34%         6    207
+ Bolt of Fire             Conj/Fire      55 (200)     50%         6    207
+ Deflect Missiles         Chrm/Air       55 (200)     50%         6    207
+ Invisibility             Hex            55 (100)     50%         6    207
+ Dragon Form              Tmut           61 (200)     82%         7    357
+ Ring of Flames           Chrm/Fire      55 (200)     97%         7    357
+ Ignition                 Fire           55 (200)     100%        8    507
+ Shatter                  Erth           55 (200)     100%        9    657
+ Tornado                  Air            55 (200)     100%        9    657
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:6            Lair (6/6) D:11
+ Shoals (4/4) Lair:2       Spider (4/4) Lair:4        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (0/3) Orc:2        Vaults (0/5) D:14
+ Depths (0/5) D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+D:9 *!**   D:13 **((?   D:14 }   Orc:1 ?   Orc:2 **%[   Shoals:3 }
+Shoals:4 (
+
+Annotations:
+Lair:6 3 runed translucent doors, Rexfelis's ghost, journeyman MiBe
+Shoals:2 loot
+Shoals:3 loot
+Shoals:4 loot
+Spider:1 pressure plate
+Spider:2 2 transporters with loot.
+Spider:4 exclusion: upstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+You have a pair of horns on your head.
+You evolve.
+Your spells are a little easier to cast, but a little less powerful.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+Autopickup is now on.
+Key pressed, stopping explore.
+Unknown command.
+Your shroud begins to fray at the edges.
+You pick up a book of Party Tricks and begin reading...
+You add the spells Summon Butterflies, Apportation, Tukima's Dance, Alistair's
+Intoxication and Invisibility to your library.
+You float gracefully downwards.
+Unknown command.
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Autopickup is now off.
+Partly explored, can't reach some places.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+New annotation for Shoals:4 (include '!' for warning): loot
+Saving game... please wait.
+
+##############
+~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~               ~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~.......~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~........~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~................~~~~~~~~~~~~~~~~~~~~~~~~#
+~~...~~~~~~......~8~..................~~~~~~~.....~~~~~~~~~~~#
+~~.~~...~..........................######~~~~.###..~~~~~~~~~~#
+~~~~............8.\.8.............#...~~##~~~.# #..~~~~~~~~~~#
+~~...###.......................)~#.#~.~~~##~..# ##..~~~~~~~~~#
+~...####..........8.............#~#~~~#~.~#...###....~~~~~~~~#
+..~.............................#%~~~#~~.~#..~.#####..~~~~~~~#
+..........(.....................#~~~##~~.~#..~..#  ##.%~~~~~~#
+...........................~~~~~#~f#~~~..~#..~..##  ##.~~~~~~#
+......(.................~~~~~~~~#~~~~~.@#~#...~~.####..~~~~~~#
+.....<..................~~~~~~..##~.f..#~##...~~...#..~~~~~~~#
+....(~~...#######...~~~~~~~~~~~~~##~~~~~####..~~~~....~~~~~~~#
+..~~~~~~.##~~~~~##..~~~~~~~~~~(~~~#########....~~~~~~~~~~~~~~#
+~~~~~~~~##~...^#~##~~~~~~~~~~~~~~~~~~~~...#.<..~~~..~~~~~~~~~#
+~~~~~~~~#~..~~.)#~#~~~~~~~~~~~~~~~~~~~~.~...~...~~~~~~~~~~~~~#
+~~~~~~~~#~~#~~~..~#~~~~~~~~~~~~~~~~~~~<....~~~....~~~~~~~~~~~#
+~~~~~~~~#~~~##~~.~#~~~~~~~~~~~~...~~~~~.....~~....~~~~~~~~~~~
+~~~~~~~~#~~~~#~~.~#..~~~~~~~~~.###.~~~~[....~~~...~~~~~~~~~~
+~~~~~~~~#~#~~~#~.~##...~~~~~~~.# #.~~~~..#...~..~~P~~~~~~~~
+~~~~~~~~~#~#~~~.~#####..~~~~...###.~~~~..#........~~P~~~~
+~~~~~~~~~~#~~~~~#######..~~..P...~~~~~~~..........~~P~~~
+~~~~~~~~~)~######...###...~...~~~~~~~~~........#..~P~~~~
+~~~~~~~~~~~~~~~~~.......~~~~~~~~~~~~~~~..#........~~~~~~
+~~~~~~~~~~~~~~~~~~....~~~~~~~~~~~~~~~~..####.....P~P~~~~
+~~~~#######~~~~~~..##~~~~~~~~~~~~~~~~~..#  #.~~~.~P~~~~~
+~~~##~~~~~##~~~~~..#.~~~~~~~~~~~~~~~~~#######.~~.~P~~~~~
+~~##~#....~##~~~~~...~~~~~~~~~~~~~~~~##~~~~~##P~~~PP~~~~
+PP#~#..~~..~#~~~)~..)...~~~~~~~~~~~~##~#~~~~~##~~~~~~~~~
+P~#~..~~~#..#~~~~~)).#(.~)~~~~~~~~~~#~#.~~~~~~#~~~~~~~~~
+..#~.~~##~..#~~~~~.....)~~~~~(~~~~~P#~~~~#~#~~#~~~P~~~~~
+P.#~.~~#~...#~)~~~~~~.~)~~~~~~~)PP~~#~~~##~~~~#~~~~~~~~~
+~~#~..#~..#.#.~~~~~.~~~~~~~~~~~~P~P~#~~~~~~~~~#~~P~P~~~~
+
+
+You can see 2 friendly wandering mushrooms.
+
+Vanquished Creatures
+  Arachne (Spider:1)
+  A kraken (Shoals:4)
+  Polyphemus (Shoals:3)
+  Kirke (Lair:5)
+  Agnes (D:14)
+  Donald (Spider:1)
+  An emperor scorpion (Spider:2)
+  3 entropy weavers
+  Azrael (Spider:2)
+  A minotaur (Gauntlet)
+  3 merfolk javelineers
+  A wandering mushroom (Shoals:4)
+  4 merfolk impalers
+  Josephine (Lair:4)
+  A yaktaur captain (D:14)
+  6 hydras
+  A catoblepas (Shoals:3)
+  An alligator snapping turtle (Shoals:4)
+  7 two-headed ogres
+  4 merfolk avatars
+  The ghost of Plazmod the Destroyer, a journeyman DECj of Vehumet (D:12)
+  An anaconda (Lair:6)
+  8 merfolk aquamancers
+  3 satyrs
+  2 centaur warriors
+  14 death yaks
+  A queen ant (Spider:2)
+  2 ogre magi
+  Urug (Lair:2)
+  A tengu warrior (D:13)
+  Sonja (Lair:4)
+  A deep elf knight (D:14)
+  A fire crab (Lair:5)
+  14 sea snakes
+  5 unseen horrors
+  8 orb spiders
+  23 harpies
+  20 wolf spiders
+  An orc knight (Orc:1)
+  A wizard (D:15)
+  A mana viper (shapeshifter) (D:9)
+  7 orc sorcerers
+  18 fauns
+  8 cyclopes
+  3 ugly things
+  4 moths of wrath
+  7 elephants
+  3 deep elf magi (D:15)
+  13 manticores
+  A guardian serpent (Lair:6)
+  10 black mambas
+  11 merfolk sirens
+  5 water nymphs
+  2 torpor snails
+  A gargoyle (D:13)
+  9 spiny frogs
+  2 rime drakes
+  3 kobold demonologists (D:13)
+  4 komodo dragons
+  3 freezing wraiths
+  A redback zombie (D:15)
+  A komodo dragon (shapeshifter) (Gauntlet)
+  8 demonic crawlers
+  3 efreet
+  2 yaktaurs (D:14)
+  13 jumping spiders
+  A meliai (D:12)
+  11 tyrant leeches
+  9 trolls
+  10 polar bears (Lair:6)
+  A polar bear (shapeshifter) (D:14)
+  25 merfolk
+  4 slime creatures
+  9 hornets
+  6 dream sheep
+  3 wind drakes
+  A raiju (Lair:6)
+  13 blink frogs
+  A meliai zombie (D:14)
+  5 snapping turtles
+  8 hippogriffs
+  13 tarantellas
+  50 redbacks
+  10 wyverns
+  5 fire elementals
+  7 wraiths
+  14 water elementals
+  A human (D:7)
+  2 basilisks
+  19 yaks
+  8 hogs
+  A human (shapeshifter) (D:14)
+  4 hungry ghosts
+  3 chaos spawn (Gauntlet)
+  A neqoxec (Gauntlet)
+  A steam dragon (D:12)
+  3 large abominations (Gauntlet)
+  A redback simulacrum (D:15)
+  21 soldier ants (Spider:2)
+  5 swamp worms (Lair:6)
+  2 acid dragons
+  22 water moccasins
+  17 wargs
+  18 hell hounds
+  11 porcupines
+  A meliai simulacrum (D:15)
+  5 sky beasts
+  19 orc warriors
+  2 necrophages
+  An eye of draining (D:13)
+  5 ice beasts
+  12 ogres
+  3 phantoms (D:7)
+  14 black bears
+  19 wolves
+  7 centaurs
+  12 crocodiles
+  2 big kobolds
+  27 bullfrogs
+  A wyvern skeleton (D:10)
+  3 scorpions
+  6 killer bees (D:12)
+  7 wights
+  A howler monkey (D:7)
+  An electric eel (Orc:1)
+  8 crimson imps
+  3 small abominations (Gauntlet)
+  4 centaur zombies
+  4 hounds
+  4 jellies
+  A quasit (D:9)
+  13 orc priests
+  49 orc wizards
+  5 bullfrog skeletons
+  8 centaur skeletons
+  4 iguanas
+  31 worker ants
+  A hound zombie (D:6)
+  A worker ant zombie (D:8)
+  6 gnolls
+  A howler monkey skeleton (D:9)
+  12 adders
+  2 shadow imps
+  11 oozes
+  2 adder skeletons
+  An adder zombie (D:5)
+  3 worms
+  3 dart slugs
+  5 leopard geckos
+  108 orcs
+  8 giant cockroaches
+  3 goblins
+  10 hobgoblins
+  2 jackals (D:3)
+  4 quokkas
+  2 ball pythons
+  8 bats
+  4 frilled lizards
+  24 kobolds
+  7 rats
+  A fungus (Lair:4)
+  A plant (Lair:6)
+  A toadstool (Shoals:4)
+1152 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Louise (D:15)
+  3 merfolk impalers (Shoals:4)
+  2 merfolk avatars (Shoals:4)
+  A satyr (Shoals:4)
+  2 sea snakes
+  2 harpies (Shoals:4)
+  2 fauns (Shoals:3)
+  2 manticores (Shoals:4)
+  A cyclops (Shoals:4)
+  3 water nymphs
+  5 merfolk
+  A wind drake (Shoals:1)
+  3 dream sheep
+  A hippogriff (Shoals:2)
+  3 water elementals (Shoals:3)
+  A tarantella (Spider:1)
+  A killer bee (D:12)
+34 creatures vanquished.
+
+Vanquished Creatures (others)
+  An oklob plant (Shoals:4)
+  2 wandering mushrooms (Shoals:4)
+  A merfolk javelineer (Shoals:4)
+  An orc sorcerer (Orc:2)
+  A harpy (shapeshifter) (Gauntlet)
+  3 fauns
+  A cyclops (Shoals:4)
+  A queen bee (D:12)
+  A redback (Spider:2)
+  A tarantella (Spider:1)
+  A soldier ant (Spider:2)
+  A bush (Lair:6)
+  29 fungi
+  71 plants
+  12 tentacles (Shoals:4)
+  25 toadstools
+152 creatures vanquished.
+
+Grand Total: 1338 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Goimij the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Goimij set off with the following items: a +2 shortbow, 21
+                  | arrows, a +0 ring mail, a scroll of teleportation, a ration
+     0 | D:1      | Reached XP level 1. HP: 26/26 MP: 1/1
+   141 | D:1      | Reached XP level 2. HP: 33/33 MP: 2/2
+   382 | D:1      | Reached XP level 3. HP: 37/38 MP: 3/3
+  1382 | D:2      | Reached skill level 1 in Invocations
+  1598 | D:2      | Reached skill level 1 in Short Blades
+  1598 | D:2      | Reached skill level 1 in Long Blades
+  1598 | D:2      | Reached skill level 1 in Axes
+  1598 | D:2      | Reached skill level 1 in Maces & Flails
+  1598 | D:2      | Reached skill level 1 in Polearms
+  1598 | D:2      | Reached skill level 1 in Staves
+  1598 | D:2      | Reached skill level 1 in Slings
+  1598 | D:2      | Reached skill level 1 in Crossbows
+  1598 | D:2      | Reached skill level 1 in Throwing
+  1598 | D:2      | Reached skill level 1 in Dodging
+  1598 | D:2      | Reached skill level 1 in Unarmed Combat
+  1598 | D:2      | Reached skill level 1 in Spellcasting
+  1598 | D:2      | Reached skill level 1 in Evocations
+  1711 | D:2      | Reached XP level 4. HP: 45/45 MP: 5/5
+  1718 | D:2      | Found a deep blue altar of Sif Muna.
+  1941 | D:2      | Noticed a +0 hand axe
+  1941 | D:2      | Noticed a +0 hand axe
+  2086 | D:2      | Found a hide-covered altar of Uskayaw.
+  2164 | D:2      | Reached skill level 1 in Conjurations
+  2164 | D:2      | Reached skill level 1 in Hexes
+  2164 | D:2      | Reached skill level 1 in Charms
+  2164 | D:2      | Reached skill level 1 in Summonings
+  2164 | D:2      | Reached skill level 1 in Necromancy
+  2164 | D:2      | Reached skill level 1 in Translocations
+  2164 | D:2      | Reached skill level 1 in Transmutations
+  2164 | D:2      | Reached skill level 1 in Fire Magic
+  2164 | D:2      | Reached skill level 1 in Ice Magic
+  2164 | D:2      | Reached skill level 1 in Air Magic
+  2164 | D:2      | Reached skill level 1 in Earth Magic
+  2164 | D:2      | Reached skill level 1 in Poison Magic
+  2243 | D:2      | Found a glowing silver altar of Zin.
+  2261 | D:2      | Became a worshipper of Zin the Law-Giver
+  2377 | D:2      | Found a bloodstained altar of Trog.
+  2871 | D:2      | Reached XP level 5. HP: 51/51 MP: 6/6
+  3099 | D:3      | Found a glowing golden altar of the Shining One.
+  3189 | D:2      | Entered wizard mode.
+  3544 | D:3      | Found an ornate altar of the Wu Jian Council.
+  3777 | D:3      | Reached XP level 6. HP: 55/57 MP: 8/8
+  5259 | D:5      | Entered Level 5 of the Dungeon
+  5404 | D:5      | Reached * piety under Zin
+  5592 | D:5      | Reached XP level 7. HP: 63/63 MP: 10/10
+  6085 | D:6      | Reached skill level 9 in Fighting
+  6144 | D:6      | Identified the Handbook of Stolen Souls and Arcane Weapons
+  6167 | D:5      | Learned a level 1 spell: Sting
+  6217 | D:6      | Reached XP level 8. HP: 65/71 MP: 12/12
+  6437 | D:6      | Found a staircase to the Ecumenical Temple.
+  6697 | D:6      | Reached ** piety under Zin
+  6726 | Temple   | Entered the Ecumenical Temple
+  7276 | D:7      | Found a sacrificial altar of Ru.
+  7454 | D:7      | Found an opulent altar of Gozag.
+  7644 | D:7      | Found a stormy altar of Qazlal.
+  7992 | D:7      | Found an iron altar of Okawaru.
+  7992 | D:7      | Found a bloodstained altar of Trog.
+  8253 | D:7      | Reached XP level 9. HP: 53/74 MP: 14/14
+  9143 | D:7      | Reached skill level 5 in Bows
+  9143 | D:7      | Reached skill level 5 in Shields
+  9338 | D:7      | Learned a level 1 spell: Corona
+  9341 | D:7      | Learned a level 2 spell: Slow
+  9345 | D:7      | Learned a level 3 spell: Inner Flame
+  9349 | D:7      | Learned a level 3 spell: Portal Projectile
+  9385 | D:8      | Reached skill level 5 in Stealth
+  9907 | D:8      | Reached *** piety under Zin
+  9974 | D:8      | Noticed a two-headed ogre
+ 10348 | D:8      | Killed a two-headed ogre
+ 10348 | D:8      | Reached skill level 5 in Invocations
+ 10348 | D:8      | Reached XP level 10. HP: 83/83 MP: 15/17
+ 10429 | D:9      | Found Jinenise's Assorted Antiques.
+ 10455 | D:9      | Found Yduckog's General Store.
+ 10653 | D:9      | Bought a potion of cancellation for 96 gold pieces
+ 10653 | D:9      | Bought a scroll of summoning for 114 gold pieces
+ 10716 | D:9      | Found a snail-covered altar of Cheibriados.
+ 10729 | D:9      | Found Qithriy's General Store.
+ 10780 | D:9      | Reached skill level 5 in Short Blades
+ 10780 | D:9      | Reached skill level 5 in Long Blades
+ 10780 | D:9      | Reached skill level 5 in Axes
+ 10780 | D:9      | Reached skill level 5 in Maces & Flails
+ 10780 | D:9      | Reached skill level 5 in Polearms
+ 10780 | D:9      | Reached skill level 5 in Staves
+ 10780 | D:9      | Reached skill level 5 in Slings
+ 10780 | D:9      | Reached skill level 5 in Crossbows
+ 10780 | D:9      | Reached skill level 5 in Throwing
+ 10780 | D:9      | Reached skill level 5 in Dodging
+ 10780 | D:9      | Reached skill level 5 in Unarmed Combat
+ 10780 | D:9      | Reached skill level 5 in Spellcasting
+ 10780 | D:9      | Reached skill level 5 in Evocations
+ 11010 | D:9      | Found a radiant altar of Vehumet.
+ 11235 | D:9      | Reached **** piety under Zin
+ 11266 | D:9      | Reached skill level 10 in Fighting
+ 11304 | D:9      | Found Tias's Distillery.
+ 11312 | D:9      | Bought a potion of degeneration for 17 gold pieces
+ 11498 | D:9      | Noticed a five-headed hydra
+ 11506 | D:9      | Killed a five-headed hydra
+ 11629 | D:9      | Noticed a brown ugly thing
+ 11694 | D:9      | Reached ***** piety under Zin
+ 11743 | D:9      | Noticed a mana viper
+ 11756 | D:9      | Killed a mana viper
+ 11756 | D:9      | Reached XP level 11. HP: 89/89 MP: 19/19
+ 11848 | D:9      | Killed a brown ugly thing
+ 12301 | D:9      | Bought a potion of lignification for 51 gold pieces
+ 12329 | D:9      | Bought a potion of might for 64 gold pieces
+ 12357 | D:9      | Bought a potion of might for 68 gold pieces
+ 12357 | D:9      | Bought a potion of might for 68 gold pieces
+ 12358 | D:9      | Bought 2 potions of curing for 102 gold pieces
+ 12407 | D:10     | Entered Level 10 of the Dungeon
+ 12808 | D:10     | Found the +10 Black Knight's horse barding {ponderous,
+                  | rPois rN+}
+ 13207 | D:10     | Reached skill level 5 in Conjurations
+ 13207 | D:10     | Reached skill level 5 in Hexes
+ 13207 | D:10     | Reached skill level 5 in Charms
+ 13207 | D:10     | Reached skill level 5 in Summonings
+ 13207 | D:10     | Reached skill level 5 in Necromancy
+ 13207 | D:10     | Reached skill level 5 in Translocations
+ 13207 | D:10     | Reached skill level 5 in Transmutations
+ 13207 | D:10     | Reached skill level 5 in Fire Magic
+ 13207 | D:10     | Reached skill level 5 in Ice Magic
+ 13207 | D:10     | Reached skill level 5 in Air Magic
+ 13207 | D:10     | Reached skill level 5 in Earth Magic
+ 13207 | D:10     | Reached skill level 5 in Poison Magic
+ 14296 | D:11     | Found a staircase to the Orcish Mines.
+ 14302 | D:11     | Noticed an unseen horror
+ 14678 | D:11     | Killed an unseen horror
+ 14849 | D:11     | Noticed a four-headed hydra
+ 15382 | D:11     | Killed a four-headed hydra
+ 15583 | D:11     | Found a staircase to the Lair.
+ 16243 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 16255 | Orc:1    | Noticed an orc knight
+ 16340 | Orc:1    | Killed an orc knight
+ 16562 | D:12     | Reached XP level 12. HP: 97/97 MP: 22/22
+ 16819 | D:12     | Noticed Plazmod's ghost (journeyman DECj)
+ 16820 | D:12     | Found a transporter.
+ 16824 | D:12     | Found a transporter.
+ 16949 | D:12     | Reached ****** piety under Zin
+ 17084 | D:12     | Noticed a two-headed ogre
+ 17158 | D:12     | Killed a two-headed ogre
+ 17754 | Orc:1    | Found Siofoki's Magic Scroll Shoppe.
+ 17916 | Orc:1    | Bought a scroll of identify for 34 gold pieces
+ 17916 | Orc:1    | Bought a scroll of identify for 34 gold pieces
+ 18208 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 18217 | Orc:1    | Learned a level 4 spell: Cause Fear
+ 18225 | Orc:1    | Bought a scroll of teleportation for 51 gold pieces
+ 18297 | D:9      | Bought a potion of flight for 51 gold pieces
+ 18297 | D:9      | Bought a potion of flight for 51 gold pieces
+ 18346 | Orc:1    | Bought a scroll of immolation for 59 gold pieces
+ 18346 | Orc:1    | Bought a scroll of fear for 59 gold pieces
+ 18346 | Orc:1    | Bought a scroll of enchant weapon for 127 gold pieces
+ 19009 | Orc:2    | Reached skill level 11 in Fighting
+ 19347 | Orc:2    | Found Zurar's Antique Armour Boutique.
+ 19347 | Orc:2    | Found Xuvug's Food Shoppe.
+ 19523 | D:10     | Identified a scroll of acquirement
+ 19581 | D:9      | Bought a potion of curing for 111 gold pieces
+ 19581 | D:9      | Bought a scroll of magic mapping for 129 gold pieces
+ 19664 | D:13     | Found Oreq's Antique Weapon Boutique.
+ 19664 | D:13     | Noticed a centaur warrior
+ 19669 | D:13     | Noticed a four-headed hydra
+ 19733 | D:13     | Found Jainkeibay's Magic Scroll Emporium.
+ 19926 | D:13     | Identified the +6 chain mail of Starshine {*Drain rPois
+                  | Int+6 Slay+6} (You found it on level 13 of the Dungeon)
+ 20076 | D:13     | Killed a four-headed hydra
+ 20091 | D:13     | Killed a centaur warrior
+ 20091 | D:13     | Reached skill level 10 in Armour
+ 20260 | D:13     | Found Neniuhik's General Store.
+ 20260 | D:13     | Found Naciskue's Antique Weapon Shoppe.
+ 20279 | D:13     | Reached XP level 13. HP: 65/104 MP: 9/24
+ 21120 | D:13     | Found Tugguf's Assorted Antiques.
+ 21562 | D:13     | Bought a scroll of noise for 15 gold pieces
+ 21610 | D:13     | Bought 3 curare-tipped needles for 28 gold pieces
+ 21658 | D:13     | Bought a scroll of fog for 30 gold pieces
+ 21658 | D:13     | Bought a scroll of teleportation for 45 gold pieces
+ 21814 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 22012 | Orc:2    | Found a staircase to the Elven Halls.
+ 22264 | Orc:2    | Found Cuany's Assorted Antiques.
+ 22264 | Orc:2    | Found Woppof's Assorted Antiques.
+ 22694 | Orc:2    | Bought a sapphire potion for 22 gold pieces
+ 22799 | D:13     | Bought a scroll of teleportation for 45 gold pieces
+ 22847 | D:13     | Bought a scroll of teleportation for 48 gold pieces
+ 23582 | D:14     | Found Effy's Gadget Shop.
+ 24117 | D:14     | Found a gate to the Vaults.
+ 24304 | D:14     | Noticed Agnes
+ 24316 | D:14     | Killed Agnes
+ 24986 | D:14     | Noticed a yaktaur captain
+ 25006 | D:14     | Killed a yaktaur captain
+ 25158 | D:13     | Bought a scroll of identify for 30 gold pieces
+ 25158 | D:13     | Bought a scroll of identify for 30 gold pieces
+ 25158 | D:13     | Bought a scroll of amnesia for 52 gold pieces
+ 25345 | D:15     | Entered Level 15 of the Dungeon
+ 25459 | D:15     | Reached XP level 14. HP: 111/114 MP: 24/26
+ 25933 | D:15     | Reached skill level 12 in Fighting
+ 26601 | D:15     | Noticed Louise
+ 26609 | D:15     | Killed Louise
+ 26613 | D:15     | Found a shadowy altar of Dithmenos.
+ 26767 | D:15     | Found a staircase to the Depths.
+ 27416 | D:13     | Bought a scroll of identify for 30 gold pieces
+ 27591 | Temple   | Fell from the grace of Zin
+ 27591 | Temple   | Became a worshipper of Elyvilon the Healer
+ 27591 | Temple   | Reached * piety under Elyvilon
+ 27591 | Temple   | Reached ** piety under Elyvilon
+ 27591 | Temple   | Reached *** piety under Elyvilon
+ 27739 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 28166 | Lair:1   | Reached skill level 10 in Invocations
+ 29107 | D:13     | Bought a scroll of identify for 30 gold pieces
+ 29156 | D:13     | Bought a scroll of teleportation for 48 gold pieces
+ 29360 | Lair:2   | Found a gate leading to a gauntlet.
+ 29380 | Gauntlet | Entered a Gauntlet
+ 29380 | Gauntlet | Found a transporter.
+ 29380 | Gauntlet | Found a transporter.
+ 29380 | Gauntlet | Found a transporter.
+ 29389 | Gauntlet | Reached **** piety under Elyvilon
+ 29393 | Gauntlet | Found a transporter.
+ 29395 | Gauntlet | Found a transporter.
+ 29401 | Gauntlet | Found a transporter.
+ 29404 | Gauntlet | Found the +0 pair of fencer's gloves {Riposte Dex+3}
+ 29404 | Gauntlet | Found a transporter.
+ 29413 | Gauntlet | Found a transporter.
+ 29430 | Gauntlet | Found a transporter.
+ 29447 | Gauntlet | Found a transporter.
+ 29450 | Gauntlet | Found a transporter.
+ 29460 | Gauntlet | Found a transporter.
+ 29730 | Gauntlet | Got a heavily runed brass amulet
+ 29731 | Gauntlet | Identified the amulet "Yfeqim" {*Slow +Blink +Rage rPois
+                  | Int+5} (You found it in a Gauntlet)
+ 29870 | Gauntlet | Identified the +7 war axe of Lotaevih {freeze, *Slow Int+7
+                  | Dex+6}
+ 29951 | Gauntlet | Learned a level 2 spell: Blink
+ 29954 | Gauntlet | Learned a level 2 spell: Shroud of Golubria
+ 29958 | Gauntlet | Learned a level 3 spell: Gell's Gravitas
+ 29962 | Gauntlet | Learned a level 3 spell: Lesser Beckoning
+ 29966 | Gauntlet | Learned a level 3 spell: Teleport Other
+ 29970 | Gauntlet | Identified Najaucat's Handbook of Aid
+ 29997 | Lair:2   | Noticed Urug
+ 30227 | Lair:2   | Found a staircase to the Shoals.
+ 30521 | Lair:2   | Killed Urug
+ 31302 | D:13     | Bought a scroll of fear for 52 gold pieces
+ 31513 | D:13     | Bought a runed blowgun for 93 gold pieces
+ 31747 | Lair:3   | Reached ***** piety under Elyvilon
+ 33072 | Lair:4   | Noticed Sonja
+ 33078 | Lair:4   | Killed Sonja
+ 33269 | Lair:4   | Found a hole to the Spider Nest.
+ 33424 | Lair:4   | Reached XP level 15. HP: 122/122 MP: 23/28
+ 33543 | Lair:4   | Noticed Josephine
+ 33848 | Lair:4   | Reached skill level 10 in Bows
+ 33848 | Lair:4   | Reached skill level 10 in Shields
+ 34021 | Lair:4   | Killed Josephine
+ 34296 | Lair:5   | Reached skill level 10 in Stealth
+ 35339 | Lair:5   | Reached ****** piety under Elyvilon
+ 35381 | Lair:5   | Noticed Kirke
+ 35439 | Lair:5   | Killed Kirke
+ 35585 | Lair:5   | Found a staircase to the Slime Pits.
+ 35675 | Lair:5   | Reached skill level 10 in Short Blades
+ 35675 | Lair:5   | Reached skill level 10 in Long Blades
+ 35675 | Lair:5   | Reached skill level 10 in Axes
+ 35675 | Lair:5   | Reached skill level 10 in Maces & Flails
+ 35675 | Lair:5   | Reached skill level 10 in Polearms
+ 35675 | Lair:5   | Reached skill level 10 in Staves
+ 35675 | Lair:5   | Reached skill level 10 in Slings
+ 35675 | Lair:5   | Reached skill level 10 in Crossbows
+ 35675 | Lair:5   | Reached skill level 10 in Throwing
+ 35675 | Lair:5   | Reached skill level 10 in Dodging
+ 35675 | Lair:5   | Reached skill level 10 in Unarmed Combat
+ 35675 | Lair:5   | Reached skill level 10 in Spellcasting
+ 35675 | Lair:5   | Reached skill level 10 in Evocations
+ 36035 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 37291 | Lair:6   | Found a runed translucent gate.
+ 37291 | Lair:6   | Found a runed translucent gate.
+ 37291 | Lair:6   | Found a runed translucent gate.
+ 37294 | Lair:6   | Found a viscous altar of Jiyva.
+ 37294 | Lair:6   | Noticed Rexfelis's ghost (journeyman MiBe)
+ 37552 | Lair:6   | Identified the Almanac of Calling
+ 37560 | Lair:6   | Learned a level 3 spell: Call Canine Familiar
+ 37564 | Lair:6   | Learned a level 3 spell: Ignite Poison
+ 37714 | Lair:6   | Reached XP level 16. HP: 100/129 MP: 14/30
+ 38173 | Lair:6   | Reached skill level 13 in Fighting
+ 39648 | Lair:6   | Got a fine halberd
+ 39923 | D:12     | Identified the +7 halberd "Hoirisub" {venom, rF+ Str+5}
+                  | (You found it on level 6 of the Lair of Beasts)
+ 39983 | D:9      | Bought 5 poisoned needles for 24 gold pieces
+ 39983 | D:9      | Bought a book of Changes for 300 gold pieces
+ 39985 | D:9      | Learned a level 1 spell: Beastly Appendage
+ 39988 | D:9      | Learned a level 2 spell: Sticks to Snakes
+ 40104 | Orc:2    | Bought a potion of lignification for 75 gold pieces
+ 40104 | Orc:2    | Bought a potion of curing for 75 gold pieces
+ 40539 | Orc:2    | Bought a scroll of teleportation for 78 gold pieces
+ 40813 | D:12     | Killed Plazmod's ghost
+ 40877 | D:12     | Got a coiled iron ring
+ 41206 | D:12     | Identified the ring "Pefy" {*Tele +Blink Str+2} (You found
+                  | it on level 12 of the Dungeon)
+ 41339 | Temple   | Fell from the grace of Elyvilon
+ 41339 | Temple   | Became a worshipper of Fedhas Madash
+ 41612 | Spider:1 | Entered Level 1 of the Spider Nest
+ 41629 | Spider:1 | Reached skill level 10 in Transmutations
+ 42369 | Spider:1 | Noticed Donald
+ 42390 | Spider:1 | Killed Donald
+ 42689 | Spider:2 | Noticed Arachne
+ 42720 | Spider:1 | Killed Arachne
+ 43055 | Spider:2 | Noticed Azrael
+ 43064 | Spider:2 | Killed Azrael
+ 43579 | Spider:2 | Found a transporter.
+ 43880 | Spider:2 | Reached XP level 17. HP: 123/137 MP: 26/32
+ 44027 | Spider:2 | Found a transporter.
+ 44092 | Spider:2 | Learned a level 2 spell: Corpse Rot
+ 45534 | Spider:2 | Reached * piety under Fedhas
+ 46628 | Spider:4 | Entered Level 4 of the Spider Nest
+ 47573 | Orc:1    | Bought a scroll of enchant weapon for 127 gold pieces
+ 47679 | D:14     | Bought a wand of flame (12) for 84 gold pieces
+ 47795 | Shoals:1 | Entered Level 1 of the Shoals
+ 48642 | Shoals:1 | Reached ** piety under Fedhas
+ 50628 | Shoals:2 | Reached skill level 10 in Conjurations
+ 50628 | Shoals:2 | Reached skill level 10 in Hexes
+ 50628 | Shoals:2 | Reached skill level 10 in Charms
+ 50628 | Shoals:2 | Reached skill level 10 in Summonings
+ 50628 | Shoals:2 | Reached skill level 10 in Necromancy
+ 50628 | Shoals:2 | Reached skill level 10 in Translocations
+ 50628 | Shoals:2 | Reached skill level 10 in Fire Magic
+ 50628 | Shoals:2 | Reached skill level 10 in Ice Magic
+ 50628 | Shoals:2 | Reached skill level 10 in Air Magic
+ 50628 | Shoals:2 | Reached skill level 10 in Earth Magic
+ 50628 | Shoals:2 | Reached skill level 10 in Poison Magic
+ 50784 | Shoals:3 | Noticed Polyphemus
+ 50796 | Shoals:3 | Reached skill level 14 in Fighting
+ 50796 | Shoals:3 | Reached XP level 18. HP: 140/146 MP: 17/33
+ 50812 | Shoals:3 | Killed Polyphemus
+ 51184 | Shoals:3 | Found Cureugh's Gadget Shoppe.
+ 51526 | Shoals:3 | Reached *** piety under Fedhas
+ 52006 | Shoals:3 | Learned a level 2 spell: Call Imp
+ 52040 | Shoals:3 | Bought a wand of polymorph (5) for 84 gold pieces
+ 52180 | D:9      | Bought a potion of mutation for 136 gold pieces
+ 52240 | D:12     | Gained mutation: You evolve. [potion of mutation]
+ 52240 | D:12     | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [potion of mutation]
+ 52329 | Shoals:4 | Entered Level 4 of the Shoals
+ 52927 | Shoals:4 | Got a barnacled rune of Zot
+ 53302 | Shoals:3 | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [evolution]
+ 53306 | Shoals:3 | Learned a level 2 spell: Sublimation of Blood
+ 54253 | Shoals:4 | Found Kuitwuq's Weapon Shoppe.
+ 54442 | Shoals:4 | Got a fine wooden ring
+ 54443 | Shoals:4 | Identified the ring of the Gloaming {*Corrode rPois rF+
+                  | rC+} (You found it on level 4 of the Shoals)
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 |
+---------------+-------------------------------------------------------+-----
+Invocations    |        1        2  3  4  5  6  7  8  9 10 11    12 13 | 13.2
+Short Blades   |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Long Blades    |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Axes           |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Maces & Flails |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Polearms       |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Staves         |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Slings         |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Crossbows      |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Throwing       |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Dodging        |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Unarmed Combat |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Spellcasting   |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Evocations     |        1        2     3  4  5  6  7  8  9 10 11    12 | 12.2
+Conjurations   |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Hexes          |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Charms         |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Summonings     |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Necromancy     |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Translocations |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Transmutations |           1        2  3  4     5  6  7  8  9 10 11 12 | 12.4
+Fire Magic     |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Ice Magic      |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Air Magic      |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Earth Magic    |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Poison Magic   |           1        2  3  4     5  6  7  8     9 10    | 10.5
+Bows           |              3        4  5  6  7  8  9    10 11 12    | 12.5
+Shields        |              3        4  5  6  7  8  9    10 11 12    | 12.5
+Stealth        |                 3     4  5  6  7  8  9    10 11    12 | 12.4
+Armour         |                    7     8     9 10    11 12    13    | 13.6
+Fighting       |                    9       10    11    12    13 14    | 14.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+-------------------------+-------+-------+-------+-------+-------+-------++-------
+Melee: Club              |    43 |       |       |       |       |       ||    43
+       Unarmed           |     4 |       |       |       |       |       ||     4
+       Bite              |    10 |  5136 |  1578 |  7365 |  7564 |  7715 || 29368
+       Short sword       |    50 |  8138 |  4038 |  8010 |       |       || 20236
+       War axe           |       | 12071 |     6 |       |    13 |    20 || 12110
+       Flail             |       |  4007 |       | 12104 |  4030 |       || 20141
+       Spear             |       |  4001 |       |       |       |       ||  4001
+       Punch             |       |   381 |   253 |   347 |       |     2 ||   983
+       Dagger            |       |     1 |     1 |     7 |    17 |    10 ||    36
+       Scimitar          |       |       |  4088 |  4185 | 12388 | 16385 || 37046
+       Trident           |       |       |     3 |    78 |    38 |   100 ||   219
+       Broad axe         |       |       |     3 |    46 |       |  4000 ||  4049
+       Dire flail        |       |       |       |     4 |       |       ||     4
+       Hand axe          |       |       |       |  8077 |  8125 |  4042 || 20244
+       Mace              |       |       |       |  4009 |  4013 |       ||  8022
+       Headbutt          |       |       |       |       |       |   104 ||   104
+       Demon blade       |       |       |       |       |       |    12 ||    12
+       Staff             |       |       |       |       |       |     2 ||     2
+ Fire: Shortbow          |    15 |    41 |    94 |    74 |       |       ||   224
+       Hunting sling     |       |     7 |    22 |       |       |   334 ||   363
+       Fustibalus        |       |       |    20 |   259 |   477 |   222 ||   978
+       Blowgun           |       |       |     5 |    64 |   194 |   243 ||   506
+Throw: Tomahawk          |       |       |     2 |    17 |    35 |    38 ||    92
+ Cast: Slow              |       |       |     1 |   142 |   202 |   228 ||   573
+       Sting             |       |       |       |    17 |    23 |     1 ||    41
+       Corona            |       |       |       |    78 |   163 |   149 ||   390
+       Inner Flame       |       |       |       |     3 |       |    19 ||    22
+       Shroud of Golubri |       |       |       |       |    44 |    98 ||   142
+       Beastly Appendage |       |       |       |       |       |    62 ||    62
+       Sticks to Snakes  |       |       |       |       |       |    36 ||    36
+       Blink             |       |       |       |       |       |     7 ||     7
+       Ignite Poison     |       |       |       |       |       |    30 ||    30
+       Call Canine Famil |       |       |       |       |       |     3 ||     3
+       Cause Fear        |       |       |       |       |       |     5 ||     5
+       Lesser Beckoning  |       |       |       |       |       |     1 ||     1
+       Portal Projectile |       |       |       |       |       |    10 ||    10
+       Corpse Rot        |       |       |       |       |       |     1 ||     1
+       Sublimation of Bl |       |       |       |       |       |     5 ||     5
+       Call Imp          |       |       |       |       |       |     3 ||     3
+       Teleport Other    |       |       |       |       |       |     1 ||     1
+       Gell's Gravitas   |       |       |       |       |       |     1 ||     1
+Invok: Recite            |       |       |     4 |    55 |    40 |       ||    99
+       Vitalisation      |       |       |       |     3 |     8 |       ||    11
+       Sanctuary         |       |       |       |     1 |       |       ||     1
+       Purification      |       |       |       |       |     3 |       ||     3
+       Lesser Healing    |       |       |       |       |     1 |     2 ||     3
+       Divine Protection |       |       |       |       |     1 |       ||     1
+       Imprison          |       |       |       |       |     1 |       ||     1
+       Greater Healing   |       |       |       |       |     1 |       ||     1
+       Heal Other        |       |       |       |       |     1 |       ||     1
+       Divine Vigour     |       |       |       |       |       |     1 ||     1
+       Sunlight          |       |       |       |       |       |     4 ||     4
+       Evolution         |       |       |       |       |       |     8 ||     8
+       Fungal Bloom      |       |       |       |       |       |     6 ||     6
+ Abil: Evoke Flight      |       |       |       |       |       |    28 ||    28
+       End Transformatio |       |       |       |       |       |     1 ||     1
+       Stop Flying       |       |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |    28 |    14 |    47 ||    89
+       Crystal ball of e |       |       |       |       |    12 |     6 ||    18
+       Lightning rod     |       |       |       |       |     2 |       ||     2
+  Use: Scroll            |       |    17 |     3 |     9 |    16 |     8 ||    53
+       Potion            |       |       |       |     3 |     5 |     2 ||    10
+ Stab: Sleeping          |       |     1 |     5 |     1 |       |     3 ||    10
+       Distracted        |       |     1 |       |       |     1 |     7 ||     9
+       Confused          |       |       |     1 |     9 |     7 |       ||    17
+       Invisible         |       |       |       |  2268 |     1 |       ||  2269
+       Paralysed         |       |       |       |     6 |     5 |       ||    11
+  Eat: Chunk             |     3 |     8 |     7 |    15 |    26 |    35 ||    94
+       Ration            |       |     1 |     2 |     6 |     9 |     7 ||    25
+Armor: Ring mail         |    31 |  4717 |  2382 |  7803 |       |       || 14933
+       Chain mail        |       |       |       |    32 |  7061 | 11570 || 18663
+Dodge: Dodged            |    55 | 12055 |  3386 | 15577 |  7412 | 15611 || 54096
+Block: Shield            |       |       |       | 10621 | 12091 | 24122 || 46834
+       Reflection        |       |       |       |       |       |    60 ||    60
+Rpst.: Scimitar          |       |       |   596 |   733 |   988 |  2902 ||  5219
+       Hand axe          |       |       |       |       |     5 |   317 ||   322
+       War axe           |       |       |       |       |     2 |     2 ||     4
+       Demon blade       |       |       |       |       |       |     2 ||     2
+       Fustibalus        |       |       |       |       |       |     1 ||     1
+       Hunting sling     |       |       |       |       |       |   729 ||   729
+       Broad axe         |       |       |       |       |       |   325 ||   325
+       Staff             |       |       |       |       |       |     1 ||     1
+       Trident           |       |       |       |       |       |     2 ||     2
+

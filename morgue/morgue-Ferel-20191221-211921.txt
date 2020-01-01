@@ -1,0 +1,205 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15703391715219334715
+
+526951 Ferel the Shatterer (level 27, 244/300 HPs) *WIZ*
+             Began as an Ogre Necromancer on Dec 21, 2019.
+             Was the Champion of Zin.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:19 (32 turns).
+
+Ferel the Shatterer (Ogre Necromancer)                Turns: 32, Time: 00:07:20
+
+Health: 244/300    AC:  3    Str: 23    XL:     27
+Magic:  44/44      EV: 16    Int: 21    God:    Zin 200 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 59/60 levels left
+
+rFire    . . .     SeeInvis .   e - +0 giant spiked club
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++.....             (no amulet)
+HPRegen  0.60/turn              (no ring)
+MPRegen  0.29/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, tough skin 1
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ d - a +0 lajatang
+ e - a +0 giant spiked club (weapon)
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - 10 potions of experience
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 22.0 Fighting
+ - Level 23.0(24.0) Maces & Flails
+ - Level 15.0(21.3) Staves
+ + Level 14.8 Dodging
+ + Level 13.7 Stealth
+ + Level 17.2 Spellcasting
+ + Level 15.0 Necromancy
+
+
+You had 59 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Regeneration             Chrm/Necr      49 (200)     1%          3    0
+ Vampiric Draining        Necr           69 (200)     1%          3    0
+ Animate Dead             Necr           N/A          1%          4    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orb of fire
+Aim: an orb of fire
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     19.2 |    103 |  40% |   7.9 |    70  |  1.43 |     11.2
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons | No hits
+Enter Wizard Command (? - help): 
+Which skill (by name)? mac
+Maces & Flails
+To what level? 23
+Increased Maces & Flails to skill level 23.0.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orb of fire
+Aim: an orb of fire
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     20.0 |    104 |  41% |   8.2 |    70  |  1.43 |     11.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons | No hits
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###
+...##########
+..8.~~~~~~~~##
+ #.~~~.....~~#
+ #.~~..~~~..~#
+ #.~..~~~~~(.#
+ +.~.~0...~~.#
+ +.~..0@0..~.+
+ #.~~...0~.~.+
+ #..~*~~~..~.#
+ #~..~~~..~~.#
+ #~~.....~~~.#
+ ##~~~~~~~~.8..
+  ##########...
+            ...
+
+
+You could see an orb of fire.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ferel the Ogre Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 24/24 MP: 3/7
+     2 | D:1      | Reached skill level 5 in Dodging
+     2 | D:1      | Reached XP level 3. HP: 31/31 MP: 3/10
+     3 | D:1      | Reached skill level 5 in Stealth
+     3 | D:1      | Reached XP level 4. HP: 39/39 MP: 3/13
+     4 | D:1      | Reached XP level 5. HP: 45/45 MP: 3/16
+     5 | D:1      | Reached XP level 6. HP: 53/53 MP: 3/18
+     6 | D:1      | Reached skill level 10 in Spellcasting
+     6 | D:1      | Reached XP level 7. HP: 59/59 MP: 3/20
+     7 | D:1      | Reached XP level 8. HP: 67/67 MP: 3/22
+     8 | D:1      | Reached skill level 10 in Necromancy
+     8 | D:1      | Reached XP level 9. HP: 74/74 MP: 4/24
+     9 | D:1      | Reached skill level 10 in Dodging
+     9 | D:1      | Reached XP level 10. HP: 81/81 MP: 4/26
+    10 | D:1      | Reached XP level 11. HP: 88/88 MP: 4/27
+    11 | D:1      | Reached skill level 10 in Stealth
+    11 | D:1      | Reached XP level 12. HP: 96/96 MP: 4/28
+    12 | D:1      | Reached XP level 13. HP: 102/102 MP: 4/30
+    13 | D:1      | Reached XP level 14. HP: 110/110 MP: 5/31
+    14 | D:1      | Reached XP level 15. HP: 117/117 MP: 5/32
+    15 | D:1      | Reached XP level 16. HP: 124/124 MP: 5/34
+    16 | D:1      | Reached XP level 17. HP: 131/131 MP: 5/35
+    17 | D:1      | Reached XP level 18. HP: 139/139 MP: 5/36
+    18 | D:1      | Reached skill level 15 in Spellcasting
+    18 | D:1      | Reached XP level 19. HP: 145/145 MP: 6/38
+    19 | D:1      | Reached XP level 20. HP: 153/153 MP: 6/39
+    20 | D:1      | Reached XP level 21. HP: 159/159 MP: 6/40
+    21 | D:1      | Reached XP level 22. HP: 167/167 MP: 7/41
+    22 | D:1      | Reached XP level 23. HP: 174/174 MP: 7/43
+    23 | D:1      | Reached XP level 24. HP: 182/182 MP: 7/43
+    24 | D:1      | Reached XP level 25. HP: 188/188 MP: 7/43
+    25 | D:1      | Reached XP level 26. HP: 196/196 MP: 8/43
+    26 | D:1      | Reached skill level 15 in Necromancy
+    26 | D:1      | Reached XP level 27. HP: 202/202 MP: 8/44
+    29 | D:1      | Noticed an orb of fire
+    30 | D:1      | Became a worshipper of Zin the Law-Giver
+    30 | D:1      | Reached * piety under Zin
+    30 | D:1      | Reached ** piety under Zin
+    30 | D:1      | Reached *** piety under Zin
+    30 | D:1      | Reached **** piety under Zin
+    30 | D:1      | Reached ***** piety under Zin
+    30 | D:1      | Reached ****** piety under Zin
+    32 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 |
+---------------+-------------------------------------------------------------------------------+-----
+Dodging        |  3  5  6  7  8     9    10       11       12          13          14          | 14.8
+Stealth        |  3  4  5  6  7     8     9    10          11       12             13          | 13.7
+Spellcasting   |  4  6  7  8  9 10    11 12       13       14       15          16          17 | 17.2
+Necromancy     |  4  6  7  8     9    10    11          12       13             14          15 | 15.0
+Fighting       |                                                                               | 22.0
+Maces & Flails |                                                                               | 23.0
+Staves         |                                                                               | 15.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Giant spiked club |       |       |       |       |       |       |       |       | 16000 || 16000
+       Lajatang          |       |       |       |       |       |       |       |       | 16000 || 16000
+  Use: Potion            |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     2 ||    26
+

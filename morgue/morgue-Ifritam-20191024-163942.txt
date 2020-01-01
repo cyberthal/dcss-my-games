@@ -1,0 +1,208 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15736539433465584818
+
+574622 Ifritam the Evocator (level 27, 189/268 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 24, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:00 (123 turns).
+
+Ifritam the Evocator (Deep Dwarf Artificer)          Turns: 123, Time: 00:01:00
+
+Health: 189/268    AC:  3    Str: 15    XL:     27
+Magic:  36/40      EV: 26    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++++.                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.27/turn              (no ring)
+
+@: marked, non-regenerating
+A: damage resistance, heal wounds, negative energy resistance 1, sense
+surroundings 3, no regeneration
+a: Heal Wounds
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 19.9 Fighting
+ + Level 19.9 Short Blades
+ + Level 22.9 Dodging
+ + Level 26.2 Stealth
+ + Level 26.4 Evocations
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You resist negative energy. (rN+)
+You passively map a large area around you.
+You do not regenerate.
+
+
+Message History
+
+The vault sentinel points at you and mumbles some strange words.
+You resist with almost no effort.
+The vault sentinel hits you with a cursed -2 war axe!
+The vault sentinel hits you with a cursed -2 war axe!
+The vault sentinel hits you with a cursed -2 war axe.
+The vault sentinel gestures at you while chanting.
+You resist with almost no effort.
+The vault sentinel blows a loud note on a signal horn!
+The vault sentinel casts a spell at you.
+You resist with almost no effort.
+The vault sentinel hits you with a cursed -2 war axe!
+The vault sentinel hits you with a cursed -2 war axe!
+The vault sentinel blows a loud note on a signal horn!
+The vault sentinel misses you.
+The vault sentinel casts a spell at you.
+A sentinel's mark forms upon you.
+The vault sentinel closely misses you.
+The vault sentinel blows a loud note on a signal horn!
+The vault sentinel hits you with a cursed -2 war axe!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                      *        ,         *
+       *        ,   ,       ,       *,    ,
+                ,              , ,           ,
+      ,  *          ,     ,    *        ,  ,
+          ,     ,,         *        *,,       *
+       * * *      *                  ,
+  * **       *     , ,       *,    ,   ,       ,
+   , ,,  *           , ,,,   *   *   ,,,     ,
+ ,  ** *** *     ,          ,   ,,     ,  ,
+*       *        ,   ,     *      ,  ,     ,
+        *      ,,,   ,, ,      ,,,         ,
+           ,              , , ,,     ,*   , ,
+              ,,     ,        ,    ,, ,    ,
+         ,,  ,     * ,    **,         ,   ,
+  *     *    *        *    *  , ,,        ,
+         ,,,,* , ***,*   *,   ,  ,*,   ,
+    ** **    *,* *         *,   ,       ,     ,
+      ,      *       *    ,             ,
+ , ,  ,    *  ,     *  * * *  ,   *    ,,
+       ,        ***, *  *  ,      * **
+         ,  *   *  #+#+#*      ,
+     *   ,   , ,*  #...# ,        *
+       , ,   ,    ,+p@.+ ,   ,*,  *
+            *   * *#...# *    *
+         ,*, ,    *#+#+#        *,
+         ,    *, , *     **   **
+             ,  *  *     , ,   *
+          ,+       , * ,        ,
+          , *  * *      * *  **, ,*
+             *  ,*  ,*         , ,*
+      *,     **        *
+   **    ,     *    *   *      ,  *
+               ,         *     *
+           ,      *        ,,  ,,
+ *        , ,  ,    ,,    , ,    ,*
+        *,***  *    *       * *
+           ,    ,,    , ,  ,,
+        *        **       *  * **
+ *             ** *  *
+  ,       ,            *
+  ,                    *
+          *
+       *
+          *
+
+
+You could see a vault sentinel.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ifritam the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a vault sentinel
+     0 | D:1      | Reached XP level 2. HP: 61/61 MP: 3/16
+     0 | D:1      | Reached XP level 3. HP: 69/69 MP: 3/17
+     0 | D:1      | Reached XP level 4. HP: 78/78 MP: 3/19
+     0 | D:1      | Reached XP level 5. HP: 86/86 MP: 3/20
+     0 | D:1      | Reached XP level 6. HP: 94/94 MP: 3/22
+     0 | D:1      | Reached XP level 7. HP: 102/102 MP: 3/23
+     0 | D:1      | Reached XP level 8. HP: 111/111 MP: 3/25
+     0 | D:1      | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+     0 | D:1      | Reached XP level 9. HP: 118/118 MP: 3/26
+     0 | D:1      | Reached XP level 10. HP: 128/128 MP: 3/27
+     0 | D:1      | Reached XP level 11. HP: 135/135 MP: 3/28
+     0 | D:1      | Reached XP level 12. HP: 144/144 MP: 3/29
+     0 | D:1      | Reached XP level 13. HP: 152/152 MP: 3/30
+     0 | D:1      | Gained mutation: You resist negative energy. (rN+) [Deep
+                  | Dwarf growth]
+     0 | D:1      | Reached XP level 14. HP: 160/160 MP: 3/31
+     0 | D:1      | Reached XP level 15. HP: 169/169 MP: 3/32
+     0 | D:1      | Reached XP level 16. HP: 177/177 MP: 3/33
+     0 | D:1      | Reached XP level 17. HP: 186/186 MP: 3/34
+     0 | D:1      | Gained mutation: You passively map a large area around you.
+                  | [Deep Dwarf growth]
+     0 | D:1      | Reached XP level 18. HP: 194/194 MP: 3/35
+     0 | D:1      | Reached XP level 19. HP: 201/201 MP: 3/36
+     0 | D:1      | Reached XP level 20. HP: 211/211 MP: 3/37
+     0 | D:1      | Reached XP level 21. HP: 218/218 MP: 3/38
+     0 | D:1      | Reached XP level 22. HP: 228/228 MP: 3/39
+     0 | D:1      | Reached XP level 23. HP: 235/235 MP: 3/40
+     0 | D:1      | Reached XP level 24. HP: 243/243 MP: 3/40
+     0 | D:1      | Reached XP level 25. HP: 252/252 MP: 3/40
+     0 | D:1      | Reached XP level 26. HP: 260/260 MP: 3/40
+     0 | D:1      | Reached XP level 27. HP: 268/268 MP: 3/40
+   123 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       | 19 | 19.9
+Short Blades   | 19 | 19.9
+Dodging        | 22 | 22.9
+Stealth        | 26 | 26.2
+Evocations     | 26 | 26.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Leather armour    |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    46 ||    46
+

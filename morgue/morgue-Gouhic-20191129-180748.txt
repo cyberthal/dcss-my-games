@@ -1,0 +1,93 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11478229381835209760
+
+0 Gouhic the Skirmisher (level 1, 18/18 HPs)
+             Began as a Demonspawn Fighter on Nov 29, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:27 (0 turns).
+
+Gouhic the Skirmisher (Demonspawn Fighter)             Turns: 0, Time: 00:00:27
+
+Health: 18/18      AC:  6    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV:  6    Int:  9    God:    
+Gold:   0          SH:  8    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ + Level 2.6 Armour
+ + Level 2.6 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Gouhic the Demonspawn Fighter.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found an escape hatch in the floor.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#+#
+#@#
+#>#
+#+#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gouhic the Demonspawn Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Quit the game
+

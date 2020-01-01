@@ -1,0 +1,160 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 680813825513292277
+
+0 Asy Jed the Vexing (level 1, 9/9 HPs) *WIZ*
+             Began as a Spriggan Arcane Marksman on Dec 27, 2019.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:54 (3 turns).
+
+Asy Jed the Vexing (Spriggan Arcane Marksman)          Turns: 3, Time: 00:02:55
+
+Health: 9/9        AC:  2    Str:  6    XL:     1   Next: 0%
+Magic:  3/3        EV: 18    Int: 14    God:    Kikubaaqudgha 200 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 1/2 levels left
+
+rFire    . . .     SeeInvis +   a - +0 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Receive Corpses, Torment, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ e - a +0 robe (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 0.7 Fighting
+ + Level 2.4 Slings
+ + Level 3.0 Dodging
+ + Level 1.3 Spellcasting
+ + Level 3.6 Hexes
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            11 (90)      6%          1    32
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            11 (100)     9%          2    82
+ Inner Flame              Hex/Fire       6 (100)      36%         3    132
+ Portal Projectile        Hex/Tloc       6 (50)       36%         3    132
+ Cause Fear               Hex            11 (200)     50%         4    232
+ Leda's Liquefaction      Hex/Erth       6 (200)      77%         4    232
+ Haunt                    Necr/Summ      0 (200)      100%        7    682
+ Borgnjor's Revivificati  Necr           0 (200)      100%        8    832
+ Death's Door             Chrm/Necr      0 (200)      100%        8    832
+ Infestation              Necr           0 (200)      100%        8    832
+ Necromutation            Tmut/Necr      0 (200)      100%        8    832
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Kikubaaqudgha will grant you a Necronomicon or bloody your weapon with pain...
+once.
+Kikubaaqudgha will bloody one of your weapons with pain.
+You aren't carrying any weapons that can be blessed.
+Okay, then.
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Okay, then.
+Do you wish to receive a Necronomicon? 
+Kikubaaqudgha grants you a gift!
+Press: ? - help, v - describe, . - travel, g - get item
+A Necronomicon.
+The floor.
+You pick up a Necronomicon and begin reading...
+You add the spells Haunt, Borgnjor's Revivification, Death's Door, Infestation
+and Necromutation to your library.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###.######
+.......@<#
+###.######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Asy Jed the Spriggan Arcane Marksman began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Reached * piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Papyrus of Stolen Souls
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached ** piety under Kikubaaqudgha
+     0 | D:1      | Reached *** piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Grimoire of Necromancy
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached **** piety under Kikubaaqudgha
+     0 | D:1      | Reached ***** piety under Kikubaaqudgha
+     0 | D:1      | Reached ****** piety under Kikubaaqudgha
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     3 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Receive Necronomi ||     1
+

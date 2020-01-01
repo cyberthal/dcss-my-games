@@ -1,0 +1,317 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5065666364101160999
+
+Acoipn the Digger (Formicid Earth Elementalist)     Turns: 6774, Time: 01:06:05
+
+Health: 50/50      AC:  5    Str: 13    XL:     7   Next: 38%
+Magic:  29/29      EV: 11    Int: 16    God:    the Shining One 42 (0)
+Gold:   248        SH:  0    Dex: 11    Spells: 3/12 levels left
+
+rFire    . . .     SeeInvis +   e - +0 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   z - +0 ring mail
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.16/turn              r - ring of magical power
+MPRegen  0.21/turn              y - ring of magical power
+
+@: glowing
+A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
+a: Dig, Shaft Self, Renounce Religion
+
+
+You are on level 4 of the Dungeon.
+You worship the Shining One.
+The Shining One is aware of your devotion.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 4 of its levels.
+
+You have collected 248 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger
+ b - a +0 falchion
+ c - a +0 hand axe
+ d - a +2 trident of freezing
+ e - a +0 hunting sling (weapon)
+ j - a runed whip
+Missiles
+ h - 129 stones (quivered)
+ p - 24 arrows
+ t - 3 tomahawks
+ x - 18 bolts
+ A - 21 poisoned needles
+Armour
+ f - a +0 shield
+ g - a +0 leather armour
+ z - a +0 ring mail (worn)
+Jewellery
+ r - a ring of magical power (left hand)
+ y - a ring of magical power (right hand)
+Wands
+ o - a wand of random effects (27)
+Scrolls
+ k - a scroll of noise
+ l - 2 scrolls of remove curse
+ m - 2 scrolls of amnesia
+ q - 2 scrolls labeled QUOBAP LENUXT
+ C - a scroll of identify
+Potions
+ i - a potion of curing
+ n - a potion of resistance
+ s - a potion of agility
+ u - a potion of lignification
+ w - a potion of flight
+ B - a glowing golden potion
+Comestibles
+ v - 9 rations
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 1.0(1.2) Short Blades
+ - Level 0.9(1.1) Long Blades
+ - Level 1.0(1.7) Axes
+ + Level 2.1(2.3) Polearms
+ - Level 1.2 Slings
+ + Level 3.4 Armour
+ - Level 1.7 Dodging
+ - Level 3.1 Stealth
+ - Level 3.0 Spellcasting
+ - Level 2.0 Conjurations
+ - Level 1.1 Transmutations
+ - Level 5.0 Earth Magic
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           9 (25)       17%         1    2
+b - Sandblast             Erth           18 (50)      4%          1    2
+c - Searing Ray           Conj           9 (50)       26%         2    52
+d - Passwall              Tmut/Erth      12 (120)     16%         2    52
+e - Stone Arrow           Conj/Erth      13 (50)      26%         3    102
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Dazzling Spray           Conj/Hex       5 (50)       58%         3    102
+ Petrify                  Tmut/Erth      12 (100)     71%         4    202
+ Lee's Rapid Deconstruct  Erth           18 (200)     80%         5    352
+ Iskenderun's Mystic Bla  Conj           9 (100)      86%         4    202
+ Force Lance              Conj/Tloc      5 (100)      94%         4    202
+ Fulminant Prism          Conj/Hex       5 (200)      94%         4    202
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Gozag
+Kikubaaqudgha
+Makhleb
+Ru
+Wu Jian
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+Your four strong arms can wield two-handed weapons with a shield.
+You have a pair of large antennae on your head. (SInv)
+
+
+Message History
+
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+Magic restored.
+Key pressed, stopping explore.
+Unknown command.
+You open the door.
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+Things that are here:
+a +0 dagger; a +0 robe
+Things that are here:
+a +0 club; a +0 dagger; a +0 robe
+Key pressed, stopping explore.
+Unknown command.
+Done exploring.
+Unknown command.
+Done exploring.
+Saving game... please wait.
+
+.....'.......................)).............>#
+.....####.#.#....##########.#.######.#########
+..........#.#....#        #.#.#    #.#.).#
+.....###..#.#....#        #.#.#    #.#.#.#
+.....###..#.#.#'###########.#.#    #.#.#.#
+...........<.............##.#.#    #.#.#)#
+##+#####..#.#.#.###.........#.#    #.#.#.#
+....#  #..#.#.#.# #.........#.#    #.#.#)#
+....#  #..#.#.#.# #.........#.#    #.#.#.#
+....#  #..#.#+#+###.........#.#    #.#.#.#
+....#  #..#.................#.#    #.#.#.#
+.#'##  #..#.................#.#    #.#.#.#
+.#.#####..#.................#'######.#.#.#
+'#........#........######+#........#.#.#.################
+..........#...........# #.....%....#.#.#................#
+.......###########....# ##.........#......############.##
+.......#       ###....#  #.........###.##.#          #.#
+.......#       #......#  ##........# #.##.#          #.#
+.......#########......#####........# #.##.#          #.#
+..........................#...###### #.##.#          #.#
+.####.....................#...#      #.##.#          #)#
+..........................#...#      #.##.#          #.#
+..........................#...#      #.##.#          #.#
+............#########.......#.#      #.@..#          #.#
+............#     ###########.##     ############### #.#
+............#     #..........>.####  #.............# #.#
+............#     #.#.......[.....#  #.###########.# #.#
+............#######.#..........##.## #.#         #<# #.#
+#####...............##########.....# #.#         ### #.#
+    #...............#........#..#..# #.#             #.#
+    #...............#.###+#..#..#..###.#             #.#
+    #........................#..#......######        #.#
+ ####...............#.......<#..#..#........#        #.#
+ #..................#.......###.#...........#        #.#
+ #..................#.............#.........##########.#
+ #..................#...........#.#.........#..........#
+ #..................#####+#.###.#.##........#.##########
+ #........................#.................#.#
+ #.........###'################.#.....#.......#
+ #.........# #.#      #.........####################
+ ########### #.#      #.##########.................#
+             #.#      #.#        #.###############.#
+             #.#      #.#        #.#             #.#
+             #.#      #.#        #.#             #.#
+             #.#      #.#        #.#             #.#
+             #.#      #.#        #.#             #.#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A scorpion (D:4)
+  2 orc priests
+  A hound (D:4)
+  An iguana (D:4)
+  4 orc wizards (D:4)
+  2 worker ants (D:4)
+  6 adders
+  An ooze (D:4)
+  An adder skeleton (D:4)
+  2 worms (D:3)
+  3 dart slugs
+  4 leopard geckos
+  11 orcs
+  8 bats
+  2 giant cockroaches
+  8 goblins
+  8 hobgoblins
+  3 jackals (D:3)
+  10 kobolds
+  2 quokkas (D:2)
+  2 ball pythons (D:1)
+  3 frilled lizards
+  2 quokka skeletons (D:4)
+  12 rats
+99 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Acoipn the Formicid Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   382 | D:1      | Reached skill level 4 in Earth Magic
+   453 | D:1      | Reached XP level 2. HP: 20/20 MP: 5/5
+   457 | D:1      | Learned a level 2 spell: Passwall
+   506 | D:1      | Found a glowing golden altar of the Shining One.
+   553 | D:1      | Became a worshipper of the Shining One
+   681 | D:1      | Reached skill level 1 in Fighting
+   773 | D:1      | Reached skill level 1 in Short Blades
+  1138 | D:1      | Reached XP level 3. HP: 26/26 MP: 6/6
+  1806 | D:1      | Entered wizard mode.
+  1939 | D:2      | Found a sacrificial altar of Ru.
+  2559 | D:2      | Reached XP level 4. HP: 33/33 MP: 5/8
+  2569 | D:1      | Learned a level 3 spell: Stone Arrow
+  3195 | D:2      | Reached skill level 1 in Axes
+  3246 | D:2      | Found a burning altar of Makhleb.
+  3246 | D:2      | Noticed a balrug
+  3249 | D:2      | Noticed a smoke demon
+  3249 | D:2      | Noticed a smoke demon
+  3771 | D:3      | Reached skill level 1 in Conjurations
+  4019 | D:3      | Reached XP level 5. HP: 25/38 MP: 2/9
+  4165 | D:3      | Found a shattered altar of Ashenzari.
+  4165 | D:3      | Found an opulent altar of Gozag.
+  4166 | D:3      | Found a white marble altar of Elyvilon.
+  5122 | D:3      | Learned a level 1 spell: Magic Dart
+  5125 | D:3      | Learned a level 2 spell: Searing Ray
+  5151 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  5153 | D:3      | Found an ornate altar of the Wu Jian Council.
+  5153 | D:3      | Found a snail-covered altar of Cheibriados.
+  5218 | D:3      | Reached * piety under the Shining One
+  5486 | D:4      | Reached XP level 6. HP: 44/44 MP: 10/10
+  5647 | D:4      | Reached skill level 1 in Slings
+  5647 | D:4      | Reached skill level 5 in Earth Magic
+  5910 | D:4      | Reached skill level 1 in Polearms
+  5924 | D:4      | Reached skill level 1 in Armour
+  6023 | D:4      | Reached XP level 7. HP: 43/50 MP: 11/11
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Earth Magic    |  4              5    |  5.0
+Fighting       |     1  2             |  2.0
+Short Blades   |     1                |  1.0
+Axes           |           1          |  1.0
+Spellcasting   |           3          |  3.0
+Conjurations   |           1     2    |  2.0
+Stealth        |           3          |  3.1
+Slings         |                 1    |  1.2
+Polearms       |                 1  2 |  2.1
+Armour         |                 2  3 |  3.4
+Long Blades    |                      |  0.9
+Dodging        |                      |  1.7
+Transmutations |                      |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |  4118 |       |       ||  4118
+       Hand axe          |  4033 |  8082 |       || 12115
+       Falchion          |       |  8036 |       ||  8036
+       Short sword       |       |  4000 |       ||  4000
+       Trident           |       |  8030 |    13 ||  8043
+ Fire: Hunting sling     |       |    40 |    18 ||    58
+ Cast: Sandblast         |     9 |    13 |     1 ||    23
+       Stone Arrow       |       |     3 |     3 ||     6
+       Magic Dart        |       |     1 |       ||     1
+  Use: Potion            |     2 |       |       ||     2
+       Scroll            |     1 |     9 |       ||    10
+ Stab: Sleeping          |     1 |       |       ||     1
+  Eat: Chunk             |     5 |     8 |     3 ||    16
+       Ration            |       |     1 |       ||     1
+Armor: Leather armour    |   575 |  1746 |       ||  2321
+       Ring mail         |       |     4 |     2 ||     6
+Dodge: Dodged            |  3774 | 12234 |     4 || 16012
+Rpst.: Falchion          |       |  1139 |       ||  1139
+

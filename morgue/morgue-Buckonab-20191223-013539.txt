@@ -1,0 +1,285 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14346224762444468597
+
+487773 Buckonab the Fencer (level 27, 214/224 HPs) *WIZ*
+             Began as a Human Gladiator on Dec 21, 2019.
+             Was the Champion of Zin.
+             Quit the game on level 1 of the Dungeon on Dec 23, 2019.
+             The game lasted 00:58:25 (83 turns).
+
+Buckonab the Fencer (Human Gladiator)                 Turns: 83, Time: 00:58:25
+
+Health: 214/224    AC: 20    Str: 17    XL:     27
+Magic:  23/23      EV: 16    Int: 17    God:    Zin 200 (0)
+Gold:   0          SH:  0    Dex: 17    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   q - +0 great mace
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   i - +0 shadow dragon scales
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.18/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff
+ g - a +0 lajatang
+ h - a +0 triple sword
+ j - a +0 executioner's axe
+ k - a +0 battleaxe
+ l - a +0 bardiche
+ m - a +0 demon trident
+ n - a +0 double sword
+ o - a +0 glaive
+ p - a +0 dire flail
+ q - a +0 great mace (weapon)
+Missiles
+ d - 2 throwing nets (quivered)
+Armour
+ b - a +0 leather armour
+ c - a +0 helmet (worn)
+ i - +0 shadow dragon scales (worn)
+Potions
+ e - 7 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 20.0 Fighting
+ - Level 20.0 Long Blades
+ - Level 20.0 Maces & Flails
+ + Level 16.6 Throwing
+ - Level 20.0 Armour
+ + Level 15.0 Dodging
+ + Level 0.0 Spellcasting
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Defend: Player | No hits
+Defend:   Mons |      3.0 |     14 |  55% |   1.7 |   100  |  1.00 |      1.7
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - slime creature
+Aim: a slime creature
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     16.8 |     58 |  87% |  14.7 |    70  |  1.43 |     21.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      3.1 |     14 |  55% |   1.7 |   100  |  1.00 |      1.7
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - slime creature
+Aim: a slime creature
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     16.6 |     61 |  86% |  14.3 |    70  |  1.43 |     20.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      3.1 |     14 |  56% |   1.7 |   100  |  1.00 |      1.7
+You have 0 gold pieces.
+Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Buckonab.txt'.
+Your movement speed is average (10).
+Your attack speed is quite fast (and cannot be improved with additional weapon
+skill) (70).
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #.....      .
+   .#.#.#+# #.#
+    ....#.#.#.#.
+     .....#....#.#
+    ##......7..#..#
+    #...........#.#
+  ##7..............
+  #...J.@........7.
+  #.............7..
+  #.7..............
+  #.......[........
+  #.......<........
+  #................
+ ....7.............
+.#.7.7.............
+ #...........7.7.7#
+ #.#......7..7.7 #
+   ##....77....7
+   ..#..7......#
+   #.### ......#
+
+
+You could see a slime creature.
+
+Vanquished Creatures
+  A golden dragon (D:1)
+  An Orb Guardian (D:1)
+  2 slime creatures (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buckonab the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Reached XP level 2. HP: 25/25 MP: 2/2
+     3 | D:1      | Reached skill level 5 in Fighting
+     3 | D:1      | Reached skill level 5 in Throwing
+     3 | D:1      | Reached XP level 3. HP: 34/34 MP: 3/3
+     4 | D:1      | Reached XP level 4. HP: 43/43 MP: 4/4
+     5 | D:1      | Reached XP level 5. HP: 49/49 MP: 5/5
+     6 | D:1      | Reached XP level 6. HP: 57/57 MP: 6/6
+     7 | D:1      | Reached XP level 7. HP: 64/64 MP: 7/7
+     8 | D:1      | Reached skill level 10 in Fighting
+     8 | D:1      | Reached skill level 10 in Staves
+     8 | D:1      | Reached skill level 10 in Throwing
+     8 | D:1      | Reached skill level 10 in Dodging
+     8 | D:1      | Reached XP level 8. HP: 72/72 MP: 8/8
+     9 | D:1      | Reached XP level 9. HP: 79/79 MP: 9/9
+    10 | D:1      | Reached XP level 10. HP: 87/87 MP: 10/10
+    11 | D:1      | Reached XP level 11. HP: 93/93 MP: 11/11
+    12 | D:1      | Reached XP level 12. HP: 102/102 MP: 12/12
+    13 | D:1      | Reached XP level 13. HP: 108/108 MP: 13/13
+    14 | D:1      | Reached XP level 14. HP: 116/116 MP: 14/14
+    15 | D:1      | Reached XP level 15. HP: 122/122 MP: 15/15
+    16 | D:1      | Reached XP level 16. HP: 130/130 MP: 16/16
+    17 | D:1      | Reached XP level 17. HP: 137/137 MP: 17/17
+    18 | D:1      | Reached XP level 18. HP: 145/145 MP: 18/18
+    19 | D:1      | Reached XP level 19. HP: 151/151 MP: 19/19
+    20 | D:1      | Reached XP level 20. HP: 159/159 MP: 20/20
+    21 | D:1      | Reached XP level 21. HP: 166/166 MP: 21/21
+    22 | D:1      | Reached XP level 22. HP: 173/173 MP: 22/22
+    23 | D:1      | Reached skill level 15 in Fighting
+    23 | D:1      | Reached skill level 15 in Staves
+    23 | D:1      | Reached skill level 15 in Throwing
+    23 | D:1      | Reached skill level 15 in Dodging
+    23 | D:1      | Reached XP level 23. HP: 181/181 MP: 23/23
+    24 | D:1      | Reached XP level 24. HP: 189/189 MP: 23/23
+    25 | D:1      | Reached XP level 25. HP: 195/195 MP: 23/23
+    26 | D:1      | Reached XP level 26. HP: 203/203 MP: 23/23
+    27 | D:1      | Reached XP level 27. HP: 210/210 MP: 23/23
+    58 | D:1      | Reached XP level 26. HP: 242/1235 MP: 23/23
+    58 | D:1      | Reached XP level 25. HP: 242/1227 MP: 23/23
+    58 | D:1      | Reached XP level 24. HP: 242/1220 MP: 23/23
+    58 | D:1      | Reached XP level 23. HP: 242/1213 MP: 23/23
+    58 | D:1      | Reached XP level 22. HP: 242/1206 MP: 22/22
+    58 | D:1      | Reached XP level 21. HP: 242/1198 MP: 21/21
+    58 | D:1      | Reached XP level 20. HP: 242/1191 MP: 20/20
+    58 | D:1      | Reached XP level 19. HP: 242/1183 MP: 19/19
+    58 | D:1      | Reached XP level 18. HP: 242/1177 MP: 18/18
+    58 | D:1      | Reached XP level 17. HP: 242/1169 MP: 17/17
+    58 | D:1      | Reached XP level 16. HP: 242/1162 MP: 16/16
+    58 | D:1      | Reached XP level 15. HP: 242/1154 MP: 15/15
+    58 | D:1      | Reached XP level 14. HP: 242/1148 MP: 14/14
+    58 | D:1      | Reached XP level 13. HP: 242/1140 MP: 13/13
+    58 | D:1      | Reached XP level 12. HP: 242/1133 MP: 12/12
+    58 | D:1      | Reached XP level 11. HP: 242/1125 MP: 11/11
+    58 | D:1      | Reached XP level 10. HP: 242/1118 MP: 10/10
+    58 | D:1      | Reached XP level 9. HP: 242/1111 MP: 9/9
+    58 | D:1      | Reached XP level 8. HP: 242/1104 MP: 8/8
+    58 | D:1      | Reached XP level 7. HP: 242/1096 MP: 7/7
+    58 | D:1      | Reached XP level 6. HP: 242/1089 MP: 6/6
+    58 | D:1      | Reached XP level 5. HP: 242/1081 MP: 5/5
+    58 | D:1      | Reached XP level 4. HP: 242/1075 MP: 4/4
+    58 | D:1      | Reached XP level 3. HP: 242/1067 MP: 3/3
+    58 | D:1      | Reached XP level 2. HP: 242/1060 MP: 2/2
+    58 | D:1      | Reached XP level 1. HP: 242/1052 MP: 1/1
+    61 | D:1      | Killed a slime creature
+    61 | D:1      | Reached XP level 2. HP: 44/44 MP: 2/2
+    61 | D:1      | Reached XP level 3. HP: 50/50 MP: 3/3
+    61 | D:1      | Reached XP level 4. HP: 57/57 MP: 4/4
+    61 | D:1      | Reached XP level 5. HP: 63/63 MP: 5/5
+    61 | D:1      | Noticed an Orb Guardian
+    63 | D:1      | Killed an Orb Guardian
+    63 | D:1      | Reached XP level 6. HP: 70/70 MP: 6/6
+    63 | D:1      | Reached XP level 7. HP: 76/76 MP: 7/7
+    63 | D:1      | Reached XP level 8. HP: 83/83 MP: 8/8
+    63 | D:1      | Reached XP level 9. HP: 89/89 MP: 9/9
+    63 | D:1      | Reached XP level 10. HP: 88/96 MP: 10/10
+    63 | D:1      | Reached XP level 11. HP: 93/102 MP: 11/11
+    63 | D:1      | Reached XP level 12. HP: 100/109 MP: 12/12
+    63 | D:1      | Reached XP level 13. HP: 105/115 MP: 13/13
+    63 | D:1      | Reached XP level 14. HP: 113/123 MP: 14/14
+    63 | D:1      | Reached XP level 15. HP: 118/129 MP: 15/15
+    63 | D:1      | Reached XP level 16. HP: 124/136 MP: 16/16
+    63 | D:1      | Reached XP level 17. HP: 130/142 MP: 17/17
+    63 | D:1      | Reached XP level 18. HP: 136/149 MP: 18/18
+    63 | D:1      | Reached XP level 19. HP: 142/155 MP: 19/19
+    63 | D:1      | Reached XP level 20. HP: 148/162 MP: 20/20
+    63 | D:1      | Reached XP level 21. HP: 154/168 MP: 21/21
+    63 | D:1      | Reached XP level 22. HP: 160/175 MP: 22/22
+    63 | D:1      | Reached XP level 23. HP: 166/181 MP: 23/23
+    63 | D:1      | Reached XP level 24. HP: 172/188 MP: 23/23
+    63 | D:1      | Reached XP level 25. HP: 178/194 MP: 23/23
+    63 | D:1      | Reached XP level 26. HP: 184/201 MP: 23/23
+    63 | D:1      | Reached XP level 27. HP: 190/207 MP: 23/23
+    63 | D:1      | Noticed a juggernaut
+    78 | D:1      | Noticed an orb of fire
+    78 | D:1      | Became a worshipper of Zin the Law-Giver
+    78 | D:1      | Reached * piety under Zin
+    78 | D:1      | Reached ** piety under Zin
+    78 | D:1      | Reached *** piety under Zin
+    78 | D:1      | Reached **** piety under Zin
+    78 | D:1      | Reached ***** piety under Zin
+    78 | D:1      | Reached ****** piety under Zin
+    83 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 |
+---------------+----------------------------------------------------------------------------------+-----
+Fighting       |  4  5  7  8     9 10    11       12       13          14       15             16 | 20.0
+Staves         |  4  6  7  8  9    10    11    12          13       14          15          16    |  0.0
+Throwing       |  4  5  7  8     9 10    11       12       13          14       15             16 | 16.6
+Dodging        |  4  6  7  8  9    10    11    12          13       14          15          16    | 15.0
+Long Blades    |                                                                                  | 20.0
+Maces & Flails |                                                                                  | 20.0
+Armour         |                                                                                  | 20.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Triple sword      |  4000 |       |       |       |       |       |       |       |172000 ||176000
+       Battleaxe         |    10 |  4013 |  3977 |       |       |       |       |       | 84000 || 92000
+       Great mace        |       |       |       |       |       |       |       |       |340000 ||340000
+       Lajatang          |       |       |       |       |       |       |       |       | 96000 || 96000
+       Glaive            |       |       |       |       |       |       |       |       | 72000 || 72000
+       Bardiche          |       |       |       |       |       |       |       |       | 68000 || 68000
+       Executioner's axe |       |       |       |       |       |       |       |       | 60000 || 60000
+       Demon trident     |       |       |       |       |       |       |       |       | 60000 || 60000
+       Double sword      |       |       |       |       |       |       |       |       | 52000 || 52000
+       Dire flail        |       |       |       |       |       |       |       |       | 24000 || 24000
+Throw: Throwing net      |       |       |       |       |       |       |       |       |     1 ||     1
+  Use: Potion            |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     5 ||    29
+Armor: Shadow dragon sca |  1037 |  1069 |   840 |       |       |       |       |       |550116 ||553062
+       Leather armour    |       |       |       |       |       |       |       |       |   625 ||   625
+Dodge: Dodged            |  2234 |  2201 |  1394 |       |       |       |       |       |675763 ||681592
+Rpst.: Triple sword      |   707 |       |       |       |       |       |       |       | 25423 || 26130
+       Double sword      |       |       |       |       |       |       |       |       |  5773 ||  5773
+

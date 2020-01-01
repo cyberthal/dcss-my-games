@@ -1,0 +1,111 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7201551023964124500
+
+0 timer test the Grave Robber (level 1, 13/13 HPs)
+             Began as a Merfolk Necromancer on Nov 1, 2019.
+             Quit the game on level 1 of the Dungeon on Nov 2, 2019.
+             The game lasted 00:01:43 (0 turns).
+
+timer test the Grave Robber (Merfolk Necromancer)      Turns: 0, Time: 00:01:44
+
+Health: 13/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 13    Int: 14    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.1 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.2 Necromancy
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ##..         6%          1    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          6%          1    ##.....
+ Vampiric Draining        Necr           ##........   19%         3    ####...
+ Regeneration             Chrm/Necr      #.........   36%         3    ####...
+ Animate Dead             Necr           N/A          52%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, timer test the Merfolk Necromancer.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Saving game... please wait.
+Welcome back, timer test the Merfolk Necromancer.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###############
+PPPPPPPPPPPPPPP
+PPPPP..@..PPPPP
+PPP..PPPPP..PPP
+PP.PPP...PPP.PP
+PP.PP.PPP.PP.PP
+P.PP.PP.PP.PP.P
+P.P.PP.P.PP.P.P
+P.P.P.PPP.P.P.P
+P.P.PP.P.PP.P.P
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | timer test the Merfolk Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Quit the game
+

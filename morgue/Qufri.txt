@@ -1,0 +1,524 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8451418720386098360
+
+Qufri the Covert (Spriggan Arcane Marksman)        Turns: 20676, Time: 04:51:05
+
+Health: 52/52      AC: 10    Str:  6    XL:     11   Next: 44%
+Magic:  20/22      EV: 24    Int: 18    God:    Kikubaaqudgha 87 (0)
+Gold:   14         SH:  6    Dex: 17    Spells: 2/24 levels left
+
+rFire    . . .     SeeInvis +   a - +2 dagger (venom)
+rCold    + . .     Gourm    .   y - +0 buckler
+rNeg     . . .     Faith    .   A - +0 steam dragon scales
+rPois    .         Spirit   .   R - +2 hat
+rElec    .         Reflect  .   l - +2 cloak {+Inv}
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++.....             (no amulet)
+HPRegen  0.17/turn              r - ring of protection from cold
+MPRegen  0.18/turn              P - ring of protection from magic
+
+@: very slightly contaminated, invisible, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Receive Corpses, Renounce Religion
+
+
+You are on level 1 of the Lair of Beasts.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is most pleased with you.
+You are not hungry.
+
+You have visited 3 branches of the dungeon, and seen 13 of its levels.
+You have also visited: Sewer and Ossuary.
+
+You have collected 898 gold pieces.
+You have spent 884 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of venom (weapon)
+ b - a +2 short sword of electrocution
+ c - a +2 rapier of venom
+ d - a +3 falchion of flaming
+ e - a +4 long sword of pain
+ f - a +0 mace of protection
+ g - a +2 hand axe of chopping
+ h - a +0 spear
+ i - a +0 blowgun
+ j - a +4 hunting sling
+Missiles
+ m - 7 curare-tipped needles
+ n - 236 stones
+ o - 5 throwing nets (quivered) {!f}
+ q - 121 arrows
+ s - 113 poisoned needles
+ Q - 60 sling bullets
+ T - 14 tomahawks
+ W - 4 needles of sleeping
+Armour
+ l - a +2 cloak of invisibility (worn)
+ y - a +0 buckler (worn)
+ A - +0 steam dragon scales (worn)
+ R - a +2 hat (worn)
+Jewellery
+ r - a ring of protection from cold (left hand)
+ P - a ring of protection from magic (right hand)
+Wands
+ p - a wand of random effects (46)
+ H - a wand of flame (40)
+ I - a wand of clouds (3)
+ K - a wand of iceblast (18)
+Scrolls
+ E - 5 scrolls of remove curse
+ F - a scroll of silence
+ L - 3 scrolls of blinking
+ Y - 2 scrolls of teleportation
+Potions
+ k - 2 white potions
+ t - 10 potions of curing
+ u - 3 potions of might
+ w - a potion of invisibility
+ x - a potion of berserk rage
+ z - 3 potions of flight
+ B - a potion of heal wounds
+ C - 2 potions of haste
+ D - a potion of resistance
+ J - a potion of ambrosia
+ O - a potion of magic
+ S - a potion of lignification
+ U - a potion of agility
+ V - a potion of cancellation
+Miscellaneous
+ v - a box of beasts
+Comestibles
+ G - 13 rations
+
+
+   Skills:
+ - Level 3.1 Fighting
+ - Level 5.2 Short Blades
+ - Level 1.2(1.7) Axes
+ - Level 1.0(1.3) Maces & Flails
+ - Level 1.0(1.3) Polearms
+ - Level 7.2 Slings
+ - Level 1.0 Armour
+ - Level 9.3 Dodging
+ - Level 10.0 Stealth
+ - Level 2.0 Shields
+ - Level 1.2 Unarmed Combat
+ - Level 7.1 Spellcasting
+ + Level 6.6 Hexes
+ + Level 3.5 Charms
+ - Level 5.4 Necromancy
+ - Level 4.7 Translocations
+ - Level 1.0 Fire Magic
+ - Level 8.1 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            30 (90)      1%          1    0
+b - Pain                  Necr           25 (25)      1%          1    0
+c - Animate Skeleton      Necr           N/A          1%          1    0
+d - Slow                  Hex            30 (100)     1%          2    0
+e - Song of Slaying       Chrm           19 (100)     5%          2    0
+f - Corpse Rot            Necr           N/A          2%          2    0
+g - Shroud of Golubria    Chrm/Tloc      21 (200)     4%          2    0
+h - Sublimation of Blood  Necr           26 (200)     2%          2    0
+i - Inner Flame           Hex/Fire       20 (100)     10%         3    22
+j - Portal Projectile     Hex/Tloc       26 (50)      4%          3    22
+k - Confuse               Hex            30 (100)     3%          3    22
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Infusion                 Chrm           19 (25)      3%          1    0
+ Ensorcelled Hibernation  Hex/Ice        18 (50)      6%          2    0
+ Sting                    Conj/Pois      6 (25)       16%         1    0
+ Summon Small Mammal      Summ           6 (25)       16%         1    0
+ Call Imp                 Summ           6 (100)      24%         2    0
+ Poisonous Vapours        Pois/Air       6 (50)       24%         2    0
+ Tukima's Dance           Hex            30 (100)     3%          3    22
+ Vampiric Draining        Necr           26 (200)     4%          3    22
+ Spectral Weapon          Hex/Chrm       24 (100)     6%          3    22
+ Regeneration             Chrm/Necr      22 (200)     8%          3    22
+ Cause Fear               Hex            30 (200)     10%         4    122
+ Dazzling Spray           Conj/Hex       18 (50)      12%         3    22
+ Summon Guardian Golem    Hex/Summ       18 (100)     12%         3    22
+ Animate Dead             Necr           N/A          16%         4    122
+ Leda's Liquefaction      Hex/Erth       18 (200)     36%         4    122
+ Agony                    Necr           26 (100)     41%         5    272
+ Dispel Undead            Necr           26 (100)     41%         5    272
+ Call Canine Familiar     Summ           6 (100)      43%         3    22
+ Mephitic Cloud           Conj/Pois/Air  6 (100)      43%         3    22
+ Excruciating Wounds      Chrm/Necr      22 (200)     56%         5    272
+ Bolt of Draining         Conj/Necr      16 (200)     80%         5    272
+ Olgreb's Toxic Radiance  Pois           6 (100)      83%         4    122
+ Summon Ice Beast         Ice/Summ       6 (100)      83%         4    122
+ Summon Lightning Spire   Summ/Air       6 (100)      83%         4    122
+ Venom Bolt               Conj/Pois      6 (200)      99%         5    272
+ Simulacrum               Ice/Necr       16 (200)     100%        6    422
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:7            Lair (1/6) D:11
+    Orc (0/2) D:10        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:5 }[}   D:6 [
+
+Annotations:
+D:5 dig for loot
+Temple dig for electric eels
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+There is an open door here.
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+There is an open door here.
+You see here a robe.
+There is a staircase to the Lair here.
+Annotate level on other end of current stairs? 
+New annotation for D:11 (include '!' for warning): 
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +2 dagger of venom begins to drip with poison!
+a - a +2 dagger of venom (weapon)
+You fade into invisibility!
+You are very lightly contaminated with residual magic.
+You feel quite a bit more hungry.
+Okay, then.
+You climb downwards. Welcome to the Lair of Beasts!
+There is a staircase back to the Dungeon here.
+Saving game... please wait.
+
+ ###
+ ..#
+ #.#
+##.# ##
+#..#~~####
+ #@.~~...#
+#...~~~...
+##..~.~.##
+ ...~.~..#
+ #..~~...#
+ #~~~~...#
+ #..~~...#
+ #..~~~..#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A hydra (D:8)
+  Harold (D:7)
+  The ghost of Uummannaq the Cleaver, a novice HOFi of Okawaru (D:8)
+  An unseen horror (D:11)
+  Pikel (D:6)
+  2 cyclopes
+  A komodo dragon (D:11)
+  2 dream sheep (D:8)
+  3 hippogriffs
+  A wraith (D:10)
+  7 yaks
+  A steam dragon (D:11)
+  A hungry ghost (D:9)
+  3 orc warriors
+  A sky beast (D:7)
+  An ice beast (D:8)
+  4 phantoms
+  2 black bears (D:8)
+  2 ogres
+  3 centaurs
+  Blork the orc (D:6)
+  4 bullfrogs
+  5 big kobolds
+  A wyvern skeleton (D:8)
+  3 scorpions
+  6 killer bees (D:7)
+  10 wights
+  An oklob sapling (D:7)
+  A howler monkey (D:11)
+  A bullfrog zombie (D:5)
+  3 crimson imps
+  A centaur zombie (D:10)
+  6 hounds
+  5 jellies
+  2 orc priests
+  2 orc wizards
+  2 gnoll shamans
+  4 bullfrog skeletons
+  3 iguanas
+  9 worker ants
+  5 big kobold zombies (Ossuary)
+  3 hound skeletons
+  A mummy (Ossuary)
+  A howler monkey zombie (D:8)
+  A killer bee simulacrum (D:8)
+  9 gnolls
+  8 adders
+  2 adder zombies
+  3 adder skeletons
+  2 worms
+  3 dart slugs
+  4 leopard geckos
+  44 orcs
+  2 spectral bats (Ossuary)
+  A ball python (D:2)
+  5 giant cockroaches
+  5 goblins
+  9 hobgoblins
+  6 jackals
+  3 quokkas (D:2)
+  11 bats
+  5 bat simulacra (Ossuary)
+  6 frilled lizards
+  5 gnoll zombies (Ossuary)
+  A goblin simulacrum (Ossuary)
+  3 goblin zombies (Ossuary)
+  5 hobgoblin zombies (Ossuary)
+  23 kobolds
+  A kobold simulacrum (Ossuary)
+  7 kobold zombies (Ossuary)
+  3 orc zombies (Ossuary)
+  5 rats
+  5 rat simulacra (Ossuary)
+  4 spectral goblins (Ossuary)
+  4 spectral kobolds (Ossuary)
+  A spectral rat (Ossuary)
+  7 plants (D:7)
+322 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A water moccasin (D:11)
+  A sky beast (D:10)
+  An orc warrior (D:11)
+  A necrophage (D:10)
+  A big kobold (D:8)
+  2 bullfrogs
+  A scorpion (D:11)
+  A wyvern skeleton (D:10)
+  A howler monkey (D:11)
+  An orc priest (D:9)
+  2 orc wizards
+  2 adders (D:11)
+  A howler monkey simulacrum (D:8)
+  A spectral adder (D:8)
+  12 orcs
+29 creatures vanquished.
+
+Vanquished Creatures (others)
+  A slave (D:6)
+  A bullfrog (D:6)
+  5 plants (D:11)
+7 creatures vanquished.
+
+Grand Total: 358 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qufri the Spriggan Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+    26 | D:1      | Reached skill level 1 in Stealth
+    73 | D:1      | Reached skill level 2 in Stealth
+   195 | D:1      | Reached XP level 2. HP: 14/14 MP: 1/5
+   207 | D:1      | Learned a level 2 spell: Slow
+   306 | D:1      | Reached skill level 3 in Stealth
+   815 | D:1      | Reached skill level 1 in Short Blades
+   977 | D:1      | Reached XP level 3. HP: 17/17 MP: 6/6
+  1169 | D:1      | Reached skill level 4 in Stealth
+  2392 | D:2      | Learned a level 3 spell: Inner Flame
+  3271 | D:3      | Reached XP level 4. HP: 21/21 MP: 8/8
+  3499 | D:3      | Found a glowing drain.
+  3511 | Sewer    | Entered a sewer
+  3771 | D:3      | Reached skill level 1 in Evocations
+  4965 | D:3      | Reached skill level 5 in Stealth
+  4965 | D:3      | Reached XP level 5. HP: 25/25 MP: 8/10
+  5250 | D:4      | Reached skill level 1 in Fighting
+  5257 | D:4      | Learned a level 3 spell: Portal Projectile
+  5333 | D:4      | Reached skill level 1 in Shields
+  5496 | D:4      | Reached skill level 1 in Translocations
+  5496 | D:4      | Reached XP level 6. HP: 30/30 MP: 8/11
+  5795 | D:4      | Found a sand-covered staircase.
+  5801 | Ossuary  | Entered an ossuary
+  6864 | Ossuary  | Reached skill level 5 in Dodging
+  7746 | D:4      | Reached skill level 6 in Stealth
+  7971 | D:4      | Reached XP level 7. HP: 33/33 MP: 11/13
+  8091 | D:5      | Entered Level 5 of the Dungeon
+  8128 | D:5      | Found Coveir's Gadget Boutique.
+  8144 | D:5      | Found Peerist Dipp's Armour Emporium.
+  8173 | D:5      | Found Vapiotu's Gadget Shoppe.
+  8390 | D:5      | Found a hazy altar of Hepliaklqana.
+  8852 | D:5      | Bought a wand of random effects (10) for 78 gold pieces
+  8875 | D:5      | Bought a wand of random effects (11) for 84 gold pieces
+  8896 | D:6      | Found Ceal's Antique Armour Boutique.
+  9027 | D:6      | Reached skill level 7 in Stealth
+  9186 | D:5      | Entered wizard mode.
+  9774 | D:6      | Noticed Pikel
+  9821 | D:6      | Killed Pikel
+  9821 | D:6      | Reached XP level 8. HP: 37/37 MP: 15/15
+ 10401 | D:6      | Noticed Blork the orc
+ 10708 | D:6      | Killed Blork the orc
+ 10832 | D:7      | Noticed a hippogriff
+ 10855 | D:7      | Killed a hippogriff
+ 10945 | D:7      | Noticed Harold
+ 11081 | D:7      | Reached skill level 5 in Evocations
+ 11589 | D:7      | Reached skill level 5 in Hexes
+ 11589 | D:7      | Reached XP level 9. HP: 42/42 MP: 14/16
+ 11856 | D:7      | Reached skill level 8 in Stealth
+ 12175 | D:7      | Reached skill level 5 in Spellcasting
+ 12297 | D:7      | Found a staircase to the Ecumenical Temple.
+ 12449 | D:7      | Reached skill level 1 in Fire Magic
+ 12502 | Temple   | Entered the Ecumenical Temple
+ 12517 | Temple   | Became a worshipper of Kikubaaqudgha
+ 12936 | D:7      | Killed Harold
+ 12936 | D:7      | Reached skill level 9 in Stealth
+ 13083 | D:6      | Bought a hat for 120 gold pieces
+ 13450 | D:7      | Learned a level 1 spell: Animate Skeleton
+ 13452 | D:7      | Learned a level 1 spell: Pain
+ 13788 | D:5      | Bought a wand of iceblast (5) for 117 gold pieces
+ 14054 | D:8      | Reached skill level 1 in Necromancy
+ 14136 | D:8      | Reached XP level 10. HP: 46/46 MP: 16/18
+ 14138 | D:8      | Found a runed translucent gate.
+ 14138 | D:8      | Found a runed translucent gate.
+ 14138 | D:8      | Found a runed translucent gate.
+ 14139 | D:8      | Noticed Uummannaq's ghost (novice HOFi)
+ 14871 | D:8      | Reached skill level 1 in Axes
+ 14871 | D:8      | Reached skill level 1 in Unarmed Combat
+ 14875 | D:8      | Reached skill level 1 in Maces & Flails
+ 14875 | D:8      | Reached skill level 1 in Polearms
+ 14875 | D:8      | Reached skill level 1 in Armour
+ 14896 | D:8      | Reached * piety under Kikubaaqudgha
+ 14896 | D:8      | Identified Kikubaaqudgha's Collected Works on Darkness
+                  | (Kikubaaqudgha gifted it to you on level 8 of the Dungeon)
+ 14896 | D:8      | Received a gift from Kikubaaqudgha
+ 15034 | D:8      | Noticed a three-headed hydra
+ 15095 | D:8      | Killed a one-headed hydra
+ 15401 | D:8      | Killed Uummannaq's ghost
+ 15401 | D:8      | Reached skill level 5 in Necromancy
+ 15602 | D:8      | Learned a level 2 spell: Corpse Rot
+ 15605 | D:8      | Learned a level 2 spell: Sublimation of Blood
+ 15609 | D:8      | Learned a level 3 spell: Vampiric Draining
+ 16320 | D:9      | Reached ** piety under Kikubaaqudgha
+ 16333 | D:9      | Found a roughly hewn altar of Beogh.
+ 16959 | D:6      | Bought a runed cloak for 225 gold pieces
+ 17042 | D:10     | Entered Level 10 of the Dungeon
+ 17640 | D:10     | Found a staircase to the Orcish Mines.
+ 17676 | D:10     | Reached XP level 11. HP: 52/52 MP: 4/21
+ 17762 | D:10     | Reached skill level 5 in Short Blades
+ 18970 | D:11     | Learned a level 2 spell: Shroud of Golubria
+ 19022 | D:11     | Reached skill level 1 in Charms
+ 19102 | D:11     | Learned a level 2 spell: Song of Slaying
+ 19179 | D:11     | Reached skill level 10 in Stealth
+ 19328 | D:11     | Reached *** piety under Kikubaaqudgha
+ 19328 | D:11     | Identified Kikubaaqudgha's Volume of Black Rites
+                  | (Kikubaaqudgha gifted it to you on level 11 of the Dungeon)
+ 19328 | D:11     | Received a gift from Kikubaaqudgha
+ 19510 | D:11     | Found a staircase to the Lair.
+ 19773 | D:11     | Noticed an unseen horror
+ 19790 | D:11     | Killed an unseen horror
+ 20432 | D:10     | Learned a level 3 spell: Confuse
+ 20555 | D:5      | Bought a box of beasts for 260 gold pieces
+ 20675 | Lair:1   | Entered Level 1 of the Lair of Beasts
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  2  3  4  5     6  7     9    10 | 10.0
+Short Blades   |     1        2  3        4     5 |  5.2
+Spellcasting   |        2  3        4     5  6  7 |  7.1
+Dodging        |           4     5     6  9       |  9.3
+Evocations     |           1        4  5  6  7  8 |  8.1
+Fighting       |              1        2     3    |  3.1
+Shields        |              1        2          |  2.0
+Translocations |              1        2  3     4 |  4.7
+Hexes          |                 4     5     6    |  6.6
+Slings         |                    7             |  7.2
+Fire Magic     |                          1       |  1.0
+Necromancy     |                          1  5    |  5.4
+Axes           |                             1    |  1.2
+Unarmed Combat |                             1    |  1.2
+Maces & Flails |                             1    |  1.0
+Polearms       |                             1    |  1.0
+Armour         |                             1    |  1.0
+Charms         |                                3 |  3.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |    15 |   153 |   101 |    56 ||   325
+       Short sword       |       |     4 |     7 |    41 ||    52
+       Spear             |       |       |       |    11 ||    11
+       Rapier            |       |       |       |    33 ||    33
+       Falchion          |       |       |       |     6 ||     6
+       Hand axe          |       |       |       |     4 ||     4
+ Fire: Hunting sling     |   150 |   377 |   277 |   324 ||  1128
+Throw: Stone             |       |     7 |       |       ||     7
+ Cast: Corona            |    49 |    60 |    77 |    57 ||   243
+       Slow              |     6 |    12 |    29 |    42 ||    89
+       Pain              |       |       |     5 |    11 ||    16
+       Animate Skeleton  |       |       |       |    51 ||    51
+       Inner Flame       |       |       |       |    27 ||    27
+       Corpse Rot        |       |       |       |     4 ||     4
+       Portal Projectile |       |       |       |     2 ||     2
+       Sublimation of Bl |       |       |       |     2 ||     2
+ Abil: Evoke Invisibilit |       |       |       |     4 ||     4
+       Cancel Portal Pro |       |       |       |     2 ||     2
+Evoke: Wand              |       |     1 |    10 |     3 ||    14
+  Use: Scroll            |     4 |     6 |    18 |     6 ||    34
+       Potion            |     1 |     1 |     3 |       ||     5
+ Stab: Sleeping          |    11 |    12 |     6 |     7 ||    36
+       Invisible         |       |       |       |     3 ||     3
+       Distracted        |       |       |       |     1 ||     1
+  Eat: Ration            |     1 |     3 |     2 |     5 ||    11
+Armor: Robe              |     2 |     7 |   310 |     4 ||   323
+       Skin              |       |       |    32 |       ||    32
+Dodge: Dodged            |    41 |    93 |  5200 |   113 ||  5447
+Block: Buckler           |       |    37 |   871 |    45 ||   953
+Rpst.: Falchion          |       |       |       |     3 ||     3
+

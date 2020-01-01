@@ -1,0 +1,142 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12343770716866723228
+
+0 Xiodeata the Sneak (level 1, 20/20 HPs)
+             Began as a Gnoll Wanderer on Oct 21, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:11 (0 turns).
+
+Xiodeata the Sneak (Gnoll Wanderer)                    Turns: 0, Time: 00:00:11
+
+Health: 20/20      AC:  2    Str: 13    XL:     1   Next: 0%
+Magic:  2/2        EV: 11    Int: 16    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +2 hand crossbow
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   f - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hand crossbow (weapon)
+ c - a +0 shortbow
+ g - a +0 dagger
+Missiles
+ b - 23 bolts (quivered)
+ d - 22 arrows
+Armour
+ f - a +0 robe (worn)
+Wands
+ e - a wand of random effects (15)
+Comestibles
+ h - a ration
+
+
+   Skills:
+ + Level 4.4 Fighting
+ + Level 0.0 Short Blades
+ + Level 0.0 Long Blades
+ + Level 0.0 Axes
+ + Level 0.0 Maces & Flails
+ + Level 0.0 Polearms
+ + Level 2.3 Staves
+ + Level 0.0 Slings
+ + Level 0.0 Bows
+ + Level 4.4 Crossbows
+ + Level 0.0 Throwing
+ + Level 2.3 Armour
+ + Level 0.0 Dodging
+ + Level 5.8 Stealth
+ + Level 0.0 Shields
+ + Level 0.0 Unarmed Combat
+ + Level 0.0 Spellcasting
+ + Level 0.0 Conjurations
+ + Level 0.0 Hexes
+ + Level 0.0 Charms
+ + Level 0.0 Summonings
+ + Level 0.0 Necromancy
+ + Level 0.0 Translocations
+ + Level 0.0 Transmutations
+ + Level 0.0 Fire Magic
+ + Level 0.0 Ice Magic
+ + Level 0.0 Air Magic
+ + Level 0.0 Earth Magic
+ + Level 0.0 Poison Magic
+ + Level 0.0 Invocations
+ + Level 2.3 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Welcome, Xiodeata the Gnoll Wanderer.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+You begin with the following items: a +2 hand crossbow, 23 bolts, a +0
+shortbow, 22 arrows, a wand of random effects (15), a +0 robe, a +0 dagger, a
+ration.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+####
+....##
+......#
+.......##
+........#
+........#
+   #....#
+     #.@#
+     ####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xiodeata the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Xiodeata set off with the following items: a +2 hand
+                  | crossbow, 23 bolts, a +0 shortbow, 22 arrows, a wand of
+                  | random effects (15), a +0 robe, a +0 dagger, a ration
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 2/2
+     0 | D:1      | Quit the game
+

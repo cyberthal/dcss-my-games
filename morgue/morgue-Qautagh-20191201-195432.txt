@@ -1,0 +1,116 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18272949562004731326
+
+0 Qautagh the Ducker (level 1, 16/16 HPs) *WIZ*
+             Began as a Human Gladiator on Dec 1, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:40 (1 turns).
+
+Qautagh the Ducker (Human Gladiator)                   Turns: 1, Time: 00:00:40
+
+Health: 16/16      AC:  4    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 rapier
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 rapier (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Short Blades
+ + Level 2.0 Throwing
+ + Level 3.0 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Qautagh the Human Gladiator.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+An adder comes into view.
+The adder hisses angrily.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - adder
+Aim: an adder
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.8 |     10 |  47% |   1.8 |   105  |  0.95 |      1.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.4 |      5 |  45% |   0.6 |    76  |  1.32 |      0.8
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####
+#S..#
+#.<.+
+#..@#
+#####
+
+
+You could see an adder.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qautagh the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Rapier            ||  4000
+Armor: Leather armour    ||   719
+Dodge: Dodged            ||  2200
+

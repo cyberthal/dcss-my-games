@@ -1,1 +1,2 @@
 default_manual_training = true
+explore_delay = 60

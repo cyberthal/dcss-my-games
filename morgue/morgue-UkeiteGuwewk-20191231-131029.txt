@@ -1,0 +1,482 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 869300887042375167
+
+4397 Ukeite Guwewk the Gusty (level 10, 58/58 HPs) *WIZ*
+             Began as a Tengu Air Elementalist on Oct 18, 2019.
+             Was a Believer of Vehumet.
+             Quit the game on level 7 of the Dungeon on Dec 31, 2019.
+             The game lasted 03:57:53 (13391 turns).
+
+Ukeite Guwewk the Gusty (Tengu Air Elementalist)   Turns: 13391, Time: 03:57:54
+
+Health: 58/58      AC: 11    Str:  9    XL:     10   Next: 35%
+Magic:  16/16      EV: 16    Int: 18    God:    Vehumet 67 (0)
+Gold:   42         SH:  6    Dex: 19    Spells: 2/16 levels left
+
+rFire    + . .     SeeInvis .   J - staff of energy
+rCold    . . .     Gourm    .   w - +0 buckler
+rNeg     . . .     Faith    .   X - +0 ring mail {rF+}
+rPois    .         Spirit   .   O - +0 hat
+rElec    .         Reflect  .   D - +1 cloak
+rCorr    .         Harm     .   K - +2 pair of gloves
+MR       +....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.19/turn              N - +4 ring of dexterity
+MPRegen  0.15/turn              (no ring)
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, magic resistance 1, sense surroundings 1, able to fly
+a: Stop Flying, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was pleased with you.
+You were near starving.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 334 gold pieces.
+You spent 292 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 short sword of speed
+ c - a +2 flail of protection
+ d - the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}
+   (You found it on level 6 of the Dungeon)   
+   
+   It affects your AC (+3).
+   It protects you from fire.
+   It protects you from cold.
+   It protects you from poison.
+ e - a +1 antimagic hand axe
+ f - a +0 hunting sling
+ g - a +0 hand crossbow
+Missiles
+ x - 302 stones
+ C - 40 sling bullets
+ L - 14 bolts
+ Q - 2 throwing nets
+ V - 3 tomahawks (quivered)
+ Z - 3 javelins
+Armour
+ r - a +2 leather armour of magic resistance
+ w - a +0 buckler (worn)
+ D - a +1 cloak (worn)
+ K - a +2 pair of gloves (worn)
+ O - a +0 hat (worn)
+ X - a +0 ring mail of fire resistance (worn)
+Magical Staves
+ J - an uncursed staff of energy (weapon)
+Jewellery
+ N - a +4 ring of dexterity (left hand)
+Wands
+ h - a wand of paralysis (22)
+ s - a wand of iceblast (7)
+ P - a wand of scattershot (4)
+ T - a wand of flame (12)
+Scrolls
+ j - a scroll of silence
+ z - a scroll of fear
+ E - 2 scrolls of remove curse
+ F - 3 scrolls of immolation
+ R - 7 scrolls of teleportation
+ W - a scroll of blinking
+Potions
+ k - 3 potions of might
+ l - a potion of ambrosia
+ n - a potion of haste
+ q - 2 potions of agility
+ t - 2 potions of invisibility
+ B - 2 potions of curing
+ G - a potion of resistance
+ H - a potion of lignification
+ M - a potion of heal wounds
+Comestibles
+ u - 17 rations
+
+
+   Skills:
+ - Level 4.4 Fighting
+ - Level 2.1 Short Blades
+ - Level 1.2(4.1) Axes
+ - Level 5.4(5.5) Maces & Flails
+ - Level 2.9(3.1) Polearms
+ - Level 0.6(4.0) Staves
+ + Level 1.7(1.8) Slings
+ - Level 1.0 Crossbows
+ + Level 0.4(1.2) Throwing
+ - Level 5.1 Armour
+ - Level 5.1 Dodging
+ - Level 3.4 Stealth
+ - Level 4.1 Shields
+ + Level 3.6 Spellcasting
+ + Level 6.1 Conjurations
+ - Level 1.1 Hexes
+ - Level 1.0 Charms
+ - Level 1.2 Summonings
+ - Level 2.0 Necromancy
+ * Level 0.7 Fire Magic
+ - Level 7.4 Air Magic
+ + Level 2.3 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       25 (25)      2%          1    0
+b - Flame Tongue          Conj/Fire      15 (40)      10%         1    0
+c - Confusing Touch       Hex            7 (50)       24%         1    0
+d - Summon Small Mammal   Summ           7 (25)       24%         1    0
+e - Animate Skeleton      Necr           N/A          16%         1    0
+f - Throw Flame           Conj/Fire      15 (50)      14%         2    0
+g - Swiftness             Chrm/Air       18 (100)     10%         2    0
+h - Static Discharge      Conj/Air       27 (100)     7%          3    0
+i - Searing Ray           Conj           25 (50)      4%          2    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Mephitic Cloud           Conj/Pois/Air  19 (100)     19%         3    0
+ Apportation              Tloc           3 (50)       36%         1    0
+ Airstrike                Air            30 (200)     19%         4    0
+ Conjure Flame            Conj/Fire      15 (100)     28%         3    0
+ Lightning Bolt           Conj/Air       27 (200)     54%         5    0
+ Inner Flame              Hex/Fire       6 (100)      61%         3    0
+ Sticky Flame             Conj/Fire      15 (100)     67%         4    0
+ Fireball                 Conj/Fire      15 (200)     95%         5    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 *(:   D:7 [(*(
+
+Annotations:
+D:6 make stash
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly continuously.
+You are resistant to hostile enchantments. (MR+)
+You passively map a small area around you.
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+Okay, then.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Autopickup is now off.
+Autopickup is now on.
+Saving game... please wait.
+Welcome back, Ukeite Guwewk the Tengu Air Elementalist.
+Vehumet says: Let it end in hellfire!
+Press ? for a list of commands and other information.
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ###
+ #.#
+ #.#
+ #.###########           #######
+ #...........#           #.....#
+ #.########)##           #.###.#
+ #.#      #.#            #.###.#
+ #.#      #.#            #.....#                      #
+ #.#      #.#            #.....#                   #7##
+ #.#      #.##############.....#####################...
+ #.#      #.##...........[.........................7\7.
+ #.#      #.##.######.####....[####.##.#######........#
+ #.#      #.##.......@....#.....[..[.#.#............7..
+ #o#      #....#####...##)#.#..####..)\...............#
+ #.#      #....'.......##.#.#.<......#.#......#.......#
+##.#########...####..#.........####.##.#Z###....".....#
+#..............................#  #.##...###...########
+############....###..#..#.#....#  #.####.##...........#
+           #....#.......#.#....####.####.##...........#
+           #..............#........).....##...........#
+          ##....#......#..#.#######.#########'#########
+          #.....#.#....#..#..............[....#
+          #.....'......#..#########.###########
+        ###[....#.#.#..#..#       #.#       ###########
+        #...........#).##.##      #.#########..........
+        #.###.###.#.<..##..########'##......#..........
+        #.{.#.# #.#.#..##..##........#......#..........
+    #######.#.# #.#.#..##...#........#......'..........
+    #.....#.#.# #...#..##.#.#..}.}...#......#..........
+    #.###.#.#.#######..##.#.....\....#......#..........
+    #.#<#.#............##.##...}.}...#......###########
+    #.#.#.###.######...##.##.........#......#
+    #.#.#.....#...))...##.##.........#......#    ######
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:6)
+  An ugly thing (D:6)
+  A sky beast (D:6)
+  5 orc warriors
+  An ice beast (D:6)
+  5 ogres
+  A gnoll sergeant (D:4)
+  4 bullfrogs
+  4 scorpions
+  A wight (D:6)
+  5 crimson imps
+  5 orc wizards
+  4 orc priests
+  Crazy Yiuf (D:2)
+  4 hounds
+  2 jellies
+  2 bullfrog skeletons
+  4 gnoll shamans (D:4)
+  2 iguanas
+  A statue (D:4)
+  5 worker ants
+  2 hound zombies
+  3 hound skeletons
+  Robin (D:2)
+  31 gnolls (D:4)
+  10 adders
+  A shadow imp (D:5)
+  3 oozes
+  An adder zombie (D:5)
+  2 worms (D:2)
+  4 dart slugs
+  5 leopard geckos
+  23 orcs
+  11 giant cockroaches
+  11 goblins
+  9 hobgoblins
+  19 jackals
+  A quokka (D:7)
+  A ball python (D:6)
+  10 bats
+  3 frilled lizards
+  5 kobolds
+  A leopard gecko skeleton (D:4)
+  6 rats
+222 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A bullfrog (D:6)
+  A jelly (D:6)
+  An orc priest (D:3)
+  11 gnolls (D:4)
+  An orc (D:3)
+  A jackal (D:4)
+16 creatures vanquished.
+
+Grand Total: 238 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ukeite Guwewk the Tengu Air Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+   270 | D:1      | Reached XP level 2. HP: 16/16 MP: 6/6
+   341 | D:1      | Reached skill level 1 in Fighting
+   346 | D:1      | Learned a level 2 spell: Swiftness
+   390 | D:1      | Reached skill level 1 in Short Blades
+   781 | D:1      | Reached XP level 3. HP: 20/20 MP: 5/7
+  1175 | D:2      | Learned a level 3 spell: Static Discharge
+  1485 | D:2      | Found a shimmering altar of Xom.
+  1672 | D:2      | Entered wizard mode.
+  1730 | D:2      | Reached XP level 4. HP: 23/25 MP: 4/8
+  1800 | D:2      | Noticed Robin
+  1826 | D:2      | Found a glowing silver altar of Zin.
+  1826 | D:2      | Noticed an angel
+  2125 | D:2      | Found a runed translucent door.
+  2237 | D:2      | Killed Robin
+  2414 | D:2      | Reached skill level 1 in Evocations
+  2423 | D:2      | Reached skill level 1 in Maces & Flails
+  2586 | D:2      | Learned a level 1 spell: Animate Skeleton
+  2710 | D:2      | Noticed Crazy Yiuf
+  2740 | D:2      | Killed Crazy Yiuf
+  2740 | D:2      | Gained mutation: You can fly continuously. [Tengu growth]
+  2740 | D:2      | Reached XP level 5. HP: 30/30 MP: 3/9
+  2757 | D:2      | Learned a level 1 spell: Confusing Touch
+  2875 | D:3      | Found a faded altar of an unknown god.
+  4158 | D:3      | Found a faded altar of an unknown god.
+  4708 | D:4      | Reached XP level 6. HP: 32/35 MP: 10/10
+  4730 | D:4      | Found Desykuk's General Store.
+  4732 | D:4      | Bought a potion of agility for 44 gold pieces
+  4732 | D:4      | Bought a scroll of remove curse for 33 gold pieces
+  4734 | D:4      | Found Iday's Weapon Boutique.
+  5147 | D:4      | Reached skill level 1 in Armour
+  5286 | D:4      | Found a radiant altar of Vehumet.
+  5390 | D:4      | Reached skill level 1 in Necromancy
+  5669 | D:4      | Found a staircase to the Ecumenical Temple.
+  5728 | D:4      | Reached skill level 1 in Hexes
+  5768 | Temple   | Entered the Ecumenical Temple
+  5915 | D:4      | Found Olusief's Book Boutique.
+  6046 | D:4      | Reached skill level 1 in Charms
+  6046 | D:4      | Reached XP level 7. HP: 31/40 MP: 8/11
+  6129 | D:4      | Reached skill level 5 in Conjurations
+  6129 | D:4      | Reached skill level 5 in Air Magic
+  7036 | D:4      | Reached skill level 6 in Air Magic
+  7186 | D:4      | Reached XP level 8. HP: 45/46 MP: 8/12
+  7346 | D:4      | Reached skill level 1 in Crossbows
+  7657 | D:4      | Became a worshipper of Vehumet
+  7860 | D:4      | Bought a wand of flame (12) for 77 gold pieces
+  7910 | D:5      | Entered Level 5 of the Dungeon
+  8176 | D:5      | Found a blossoming altar of Fedhas.
+  8692 | D:5      | Reached skill level 1 in Shields
+  9208 | D:5      | Learned a level 1 spell: Summon Small Mammal
+  9356 | D:6      | Reached skill level 5 in Dodging
+  9356 | D:6      | Reached skill level 1 in Summonings
+  9449 | D:6      | Reached * piety under Vehumet
+  9449 | D:6      | Offered knowledge of Sandblast by Vehumet.
+  9559 | D:6      | Reached skill level 1 in Polearms
+  9559 | D:6      | Reached XP level 9. HP: 50/50 MP: 10/14
+ 10775 | D:6      | Noticed a green ugly thing
+ 10994 | D:6      | Noticed a two-headed ogre
+ 10995 | D:6      | Found the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+
+                  | AC+3}
+ 11014 | D:6      | Killed a two-headed ogre
+ 11014 | D:6      | Reached skill level 5 in Maces & Flails
+ 11014 | D:6      | Reached skill level 7 in Air Magic
+ 11015 | D:6      | Killed a green ugly thing
+ 11015 | D:6      | Reached skill level 5 in Armour
+ 11015 | D:6      | Reached XP level 10. HP: 58/58 MP: 11/15
+ 11283 | D:6      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+ 11283 | D:6      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+ 11283 | D:6      | Gained mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+ 11283 | D:6      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [potion of mutation]
+ 11284 | D:6      | Lost mutation: You are weak. (Str -2) [potion of mutation]
+ 11284 | D:6      | Lost mutation: Your spells are a little harder to cast, but
+                  | a little more powerful. [potion of mutation]
+ 11284 | D:6      | Lost mutation: Your system is resistant to poisons. (rPois)
+                  | [potion of mutation]
+ 11284 | D:6      | Lost mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+ 11284 | D:6      | Gained mutation: You are resistant to hostile enchantments.
+                  | (MR+) [potion of mutation]
+ 11284 | D:6      | Gained mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+ 11284 | D:6      | Gained mutation: You passively map a small area around you.
+                  | [potion of mutation]
+ 11284 | D:6      | Lost mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+ 11396 | D:7      | Found Bedirghong's Assorted Antiques.
+ 11570 | D:7      | Offered knowledge of Searing Ray by Vehumet.
+ 11614 | D:7      | Reached ** piety under Vehumet
+ 11659 | D:7      | Reached skill level 1 in Slings
+ 11844 | D:7      | Found Utsufa's General Store.
+ 11848 | D:7      | Bought a scroll of identify for 30 gold pieces
+ 11850 | D:7      | Bought a scroll of fear for 52 gold pieces
+ 11993 | D:7      | Found Nearoagg's Antique Weapon Emporium.
+ 12172 | D:7      | Found Mics's Weapon Shop.
+ 12333 | D:6      | Learned a level 2 spell: Searing Ray
+ 12335 | D:6      | Learned a level 1 spell: Flame Tongue
+ 12338 | D:6      | Learned a level 2 spell: Throw Flame
+ 12424 | D:7      | Found Jeexzian's Armour Boutique.
+ 12711 | D:6      | Reached skill level 1 in Axes
+ 12824 | D:7      | Offered knowledge of Mephitic Cloud by Vehumet.
+ 13312 | D:7      | Bought a +0 hat for 56 gold pieces
+ 13391 | D:7      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Conjurations   |     3     4        5  6       |  6.1
+Fighting       |     1     2        3     4    |  4.4
+Short Blades   |     1                    2    |  2.1
+Evocations     |           1           2       |  2.3
+Maces & Flails |           1        2     5    |  5.4
+Dodging        |              3        5       |  5.1
+Armour         |                 1  2  3  5    |  5.1
+Necromancy     |                 1        2    |  2.0
+Hexes          |                 1             |  1.1
+Charms         |                 1             |  1.0
+Air Magic      |                    6     7    |  7.4
+Crossbows      |                       1       |  1.0
+Spellcasting   |                       3       |  3.6
+Shields        |                       2  4    |  4.1
+Summonings     |                       1       |  1.2
+Polearms       |                       1  2    |  2.9
+Stealth        |                          3    |  3.4
+Slings         |                             1 |  1.7
+Axes           |                             1 |  1.2
+Staves         |                               |  0.6
+Throwing       |                               |  0.4
+Fire Magic     |                               |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |     8 |       |     1 |       ||     9
+       Kick              |  4844 |  4669 |    34 |     7 ||  9554
+       Short sword       |  8002 |  8015 |     7 |     5 || 16029
+       Flail             |  8000 |  8003 |    78 |     3 || 16084
+       Peck              |  3181 |  3011 |    17 |     9 ||  6218
+       Mace              |       |    19 |    45 |       ||    64
+       Lance             |       |       |       |    48 ||    48
+       Hand axe          |       |       |       |    12 ||    12
+ Fire: Hand crossbow     |       |       |    27 |       ||    27
+       Hunting sling     |       |       |       |    32 ||    32
+Throw: Stone             |    38 |    27 |    67 |       ||   132
+ Cast: Shock             |    48 |   103 |   225 |    44 ||   420
+       Swiftness         |     1 |     2 |     1 |     2 ||     6
+       Animate Skeleton  |       |     5 |    42 |     7 ||    54
+       Confusing Touch   |       |       |     2 |     3 ||     5
+ Abil: Fly               |       |     1 |       |       ||     1
+Evoke: Wand              |       |     1 |     2 |       ||     3
+  Use: Potion            |     1 |     5 |       |     2 ||     8
+       Scroll            |       |     4 |     6 |     8 ||    18
+ Stab: Sleeping          |     2 |       |       |       ||     2
+       Confused          |       |       |     1 |     3 ||     4
+       Distracted        |       |       |     1 |       ||     1
+  Eat: Chunk             |     3 |    11 |    17 |     5 ||    36
+       Ration            |       |     1 |       |       ||     1
+Armor: Robe              |     6 |       |       |       ||     6
+       Leather armour    |   792 |  2857 |    26 |       ||  3675
+       Ring mail         |       |       |    29 |     9 ||    38
+Dodge: Dodged            |  7695 |  8731 |   117 |    27 || 16570
+Block: Buckler           |       |       |    15 |    17 ||    32
+

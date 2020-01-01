@@ -1,0 +1,181 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4315762926654215781
+
+486864 Qaxza the Unseen (level 27, 222/222 HPs) *WIZ*
+             Began as a Human Artificer on Oct 24, 2019.
+             Was the Champion of Zin.
+             Quit the game on level 1 of the Dungeon on Oct 25, 2019.
+             The game lasted 00:08:45 (658 turns).
+
+Qaxza the Unseen (Human Artificer)                   Turns: 658, Time: 00:08:45
+
+Health: 222/222    AC:  3    Str: 13    XL:     27
+Magic:  26/26      EV: 24    Int: 12    God:    Zin 185 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 26/26 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    ?          Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++...             h - amulet of guardian spirit
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: vitalised
+A: no striking features
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Jewellery
+ h - an amulet of guardian spirit (around neck)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Miscellaneous
+ g - a crystal ball of energy
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 19.5 Fighting
+ + Level 19.5 Short Blades
+ + Level 19.5 Dodging
+ + Level 20.9 Stealth
+ + Level 5.0 Evocations
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+You gaze into the crystal ball. You are suffused with power!
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+You see a puff of smoke. Failed to create monster.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.6 |     16 |  86% |   4.0 |    50  |  2.00 |      8.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     19.6 |     82 |  94% |  18.6 |   100  |  1.00 |     18.6
+You start resting.
+Your divine stamina fades away.
+You start resting.
+Unknown command.
+Zin grants you divine stamina.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+You gaze into the crystal ball. You are suffused with power!
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+You gaze into the crystal ball. You are suffused with power!
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #####.....#####
+##...#.....#...#
+##.8.#.....#.8.#
+##...#.....#...#
+.#####.....#####
+................
+................
+........<.......
+#......@........
+....!...........
+.#####.....#####
+.#...#.....#..[#
+.#.8.#.....#.8.#
+.#...#.....#...#
+######.....#####
+#####.####.###[
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qaxza the Human Artificer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Zin the Law-Giver
+     0 | D:1      | Reached * piety under Zin
+     0 | D:1      | Reached ** piety under Zin
+     0 | D:1      | Reached *** piety under Zin
+     0 | D:1      | Reached **** piety under Zin
+     0 | D:1      | Reached ***** piety under Zin
+     0 | D:1      | Reached ****** piety under Zin
+     1 | D:1      | Reached skill level 20 in Stealth
+     1 | D:1      | Reached XP level 2. HP: 50/50 MP: 3/12
+     1 | D:1      | Reached XP level 3. HP: 57/57 MP: 3/14
+     1 | D:1      | Reached XP level 4. HP: 64/64 MP: 3/15
+     1 | D:1      | Reached XP level 5. HP: 70/70 MP: 3/17
+     1 | D:1      | Reached XP level 6. HP: 78/78 MP: 3/18
+     1 | D:1      | Reached XP level 7. HP: 84/84 MP: 3/20
+     1 | D:1      | Reached XP level 8. HP: 92/92 MP: 3/21
+     1 | D:1      | Reached XP level 9. HP: 98/98 MP: 3/22
+     1 | D:1      | Reached XP level 10. HP: 105/105 MP: 3/23
+     1 | D:1      | Reached XP level 11. HP: 112/112 MP: 3/24
+     1 | D:1      | Reached XP level 12. HP: 119/119 MP: 3/25
+     1 | D:1      | Reached XP level 13. HP: 126/126 MP: 3/26
+     1 | D:1      | Reached XP level 14. HP: 133/133 MP: 3/27
+     1 | D:1      | Reached XP level 15. HP: 139/139 MP: 3/28
+     1 | D:1      | Reached XP level 16. HP: 147/147 MP: 3/29
+     1 | D:1      | Reached XP level 17. HP: 153/153 MP: 3/30
+     1 | D:1      | Reached XP level 18. HP: 160/160 MP: 3/31
+     1 | D:1      | Reached XP level 19. HP: 167/167 MP: 3/32
+     1 | D:1      | Reached XP level 20. HP: 174/174 MP: 3/33
+     1 | D:1      | Reached XP level 21. HP: 181/181 MP: 3/34
+     1 | D:1      | Reached XP level 22. HP: 188/188 MP: 3/35
+     1 | D:1      | Reached XP level 23. HP: 194/194 MP: 3/36
+     1 | D:1      | Reached XP level 24. HP: 202/202 MP: 3/36
+     1 | D:1      | Reached XP level 25. HP: 208/208 MP: 3/36
+     1 | D:1      | Reached XP level 26. HP: 216/216 MP: 3/36
+     1 | D:1      | Reached XP level 27. HP: 222/222 MP: 3/36
+   658 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       | 19 | 19.5
+Short Blades   | 19 | 19.5
+Dodging        | 19 | 19.5
+Stealth        | 20 | 20.9
+Evocations     | 19 |  5.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Short sword       |       |       |       |       |       |       |       |       | 24000 || 24000
+Invok: Vitalisation      |       |       |       |       |       |       |       |       |     9 ||     9
+Evoke: Crystal ball of e |       |       |       |       |       |       |       |       |    32 ||    32
+Armor: Leather armour    |       |       |       |       |       |       |       |       |  5854 ||  5854
+Dodge: Dodged            |       |       |       |       |       |       |       |       | 94495 || 94495
+

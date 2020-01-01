@@ -1,0 +1,140 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15623212018114390683
+
+19 Emomm the Shield-Bearer (level 2, 19/19 (27) HPs) *WIZ*
+             Began as a Minotaur Fighter on Dec 12, 2019.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:20 (13 turns).
+
+Emomm the Shield-Bearer (Minotaur Fighter)            Turns: 13, Time: 00:02:21
+
+Health: 19/19      AC:  7    Str: 20    XL:     2   Next: 55%
+Magic:  1/1        EV:  7    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex:  9    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.9 Fighting
+ + Level 2.8 Axes
+ + Level 3.9 Armour
+ + Level 3.9 Shields
+
+
+You had one spell level left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? 
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: a gnoll
+The floor.
+Give which item to monster? (? for menu, Esc to quit)
+The gnoll wields a +0 halberd.
+The gnoll hits you but does no damage.
+The gnoll barely misses you.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - gnoll
+Aim: a gnoll, wielding a +0 halberd
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      7.8 |     29 |  56% |   4.4 |   144  |  0.69 |      3.1
+Attack:   Mons | No hits
+Defend: Player |      6.0 |     15 |   5% |   0.3 |   100  |  1.00 |      0.3
+Defend:   Mons |      5.1 |     17 |  43% |   2.3 |   100  |  1.00 |      2.3
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+            ..
+           #.
+          ..  .
+          .# ..
+         ..#.#.
+#########......
+...............
+.......@)......
+.......).......
+###############
+7.......7...7
+...7........7
+.. ........7..
+. ....... ....7
+ ...........7..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 gnolls (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Emomm the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+    13 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||  8000
+       Headbutt          ||  1752
+Armor: Scale mail        ||   615
+Dodge: Dodged            ||  1819
+Block: Shield            ||  2759
+
