@@ -1,0 +1,178 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8937589885509047013
+
+0 Souvath the Magician (level 1, 13/13 HPs) *WIZ*
+             Began as a Gnoll Wizard on Jan 6, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:59 (4 turns).
+
+Souvath the Magician (Gnoll Wizard)                    Turns: 4, Time: 00:01:59
+
+Health: 13/13      AC:  2    Str:  9    XL:     1   Next: 0%
+Magic:  8/8        EV: 14    Int: 20    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 13/14 levels left
+
+rFire    . . .     SeeInvis .   c - +0 club
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 club (weapon)
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 0.0 Fighting
+ + Level 0.0 Short Blades
+ + Level 0.0 Long Blades
+ + Level 0.0 Axes
+ + Level 0.0 Maces & Flails
+ + Level 0.0 Polearms
+ + Level 0.0 Staves
+ + Level 0.0 Slings
+ + Level 0.0 Bows
+ + Level 0.0 Crossbows
+ + Level 0.0 Throwing
+ + Level 0.0 Armour
+ + Level 4.4 Dodging
+ + Level 4.0 Stealth
+ + Level 0.0 Shields
+ + Level 0.0 Unarmed Combat
+ + Level 7.0 Spellcasting
+ + Level 1.9 Conjurations
+ + Level 0.0 Hexes
+ + Level 0.0 Charms
+ + Level 1.9 Summonings
+ + Level 0.0 Necromancy
+ + Level 1.9 Translocations
+ + Level 0.0 Transmutations
+ + Level 0.0 Fire Magic
+ + Level 0.0 Ice Magic
+ + Level 0.0 Air Magic
+ + Level 0.0 Earth Magic
+ + Level 0.0 Poison Magic
+ + Level 0.0 Invocations
+ + Level 0.0 Evocations
+
+
+You had 13 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           14 (25)      4%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          6%          2    0
+ Call Imp                 Summ           14 (100)     6%          2    0
+ Slow                     Hex            7 (100)      14%         2    0
+ Conjure Flame            Conj/Fire      10 (100)     19%         3    9
+ Mephitic Cloud           Conj/Pois/Air  9 (100)      22%         3    9
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.9 |      6 |  38% |   0.8 |   130  |  0.77 |      0.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.1 |      5 |  41% |   0.8 |    76  |  1.32 |      1.1
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.9 |      6 |  39% |   0.7 |   130  |  0.77 |      0.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.0 |      5 |  39% |   0.8 |    76  |  1.32 |      1.1
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.9 |      5 |  38% |   0.7 |   130  |  0.77 |      0.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.0 |      5 |  38% |   0.8 |    76  |  1.32 |      1.0
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      1.9 |      6 |  36% |   0.7 |   130  |  0.77 |      0.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.0 |      5 |  40% |   0.8 |    76  |  1.32 |      1.1
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##+##
+#...#
+#...#
+#...#
+#...#
+#...#
++.@.+
+#...#
+#..$#
+#...#
+#...#
+#...#
+##+##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Souvath the Gnoll Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 8/8
+     0 | D:1      | Entered wizard mode.
+     4 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Club              || 32000
+       Unarmed           || 32000
+       Bite              ||  3929
+Armor: Robe              ||  6254
+Dodge: Dodged            || 40195
+

@@ -1,0 +1,179 @@
+Waetogro
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 short sword
+(7, 27, D:1)
+  a +0 whip
+(9, 20, D:1)
+  a +0 dagger
+(10, -9, D:1)
+  a +0 whip
+(15, -18, D:1)
+  a +0 short sword
+(15, -15, D:1)
+  a +0 dagger
+(39, -11, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(1, -6, D:2)
+  a +0 club
+(8, 4, D:2)
+  a +0 robe
+  a +0 club
+(21, 22, D:2)
+  a +0 whip
+(30, 4, D:2)
+  a +0 robe
+(33, 7, D:2)
+  a +0 mace
+(36, 29, D:2)
+  a +0 dagger
+(39, -3, D:2)
+  a +0 whip
+(44, 23, D:2)
+  a +0 club
+(52, 19, D:2)
+  a +0 club
+(53, 29, D:2)
+  a +0 robe
+(54, 14, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 mace
+(12, 6, D:3)
+  a +0 hand axe
+(15, -3, D:3)
+  a +0 club
+(20, -18, D:3)
+  a cursed -1 falchion
+(23, -13, D:3)
+  a +0 club
+(29, -4, D:3)
+  a +0 robe
+(39, -21, D:3)
+  a +0 short sword
+(40, -29, D:3)
+  a +0 dagger
+(40, 17, D:3)
+  17 gold pieces
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 short sword
+(8, -46, D:4)
+  a +0 leather armour
+(9, -48, D:4)
+  a +0 dagger
+  a +0 leather armour
+(9, -47, D:4)
+  a +0 dagger
+  a +0 dagger
+  a cursed +0 chain mail
+(9, -35, D:4)
+  a +0 mace
+  a +0 whip
+(10, -21, D:4)
+  a cursed -3 giant spiked club
+(11, -35, D:4)
+  a +0 dagger
+(42, -41, D:4)
+  a +0 mace
+(48, -45, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 hand axe
+(15, -27, D:5)
+  a +0 spear
+(19, -31, D:5)
+  a +0 ring mail
+(32, -28, D:5)
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 battleaxe
+(3, 17, D:6)
+  a +0 robe
+(7, 17, D:6)
+  a +0 giant club
+(12, -32, D:6)
+  a +0 dagger
+(13, -25, D:6)
+  a +0 club
+(14, -1, D:6)
+  a cursed +0 flail
+(17, -28, D:6)
+  a +0 chain mail
+  a +0 robe
+  a +0 dagger
+  a +0 club
+(20, -22, D:6)
+  a +0 hand axe
+(23, -26, D:6)
+  a +0 leather armour
+  a +0 club
+(30, -10, D:6)
+  a +0 hunting sling
+
+Level 7 of the Dungeon
+[Shop] Imit Emet's Distillery
+  a potion of heal wounds (60 gold)
+  a potion of curing (36 gold)
+  a potion of curing (36 gold)
+  a potion of curing (36 gold)
+  a potion of flight (36 gold)
+  a potion of magic (96 gold)
+  a potion of lignification (36 gold)
+  a potion of might (48 gold)
+  a potion of cancellation (96 gold)
+  a potion of lignification (36 gold)
+  a potion of haste (120 gold)
+  a potion of might (48 gold)
+(0, 0, D:7)
+  a +0 hand axe
+(1, 7, D:7)
+  14 gold pieces
+(2, 7, D:7)
+  a +0 robe
+(3, 3, D:7)
+  a +0 leather armour
+(25, 4, D:7)
+  a sky beast corpse
+(42, 8, D:7)
+  a +0 animal skin
+(42, 34, D:7)
+  a +0 hand axe
+(42, 36, D:7)
+  a +0 club
+  a +0 ring mail
+  a +0 club
+  a +0 flail
+  a +0 ring mail
+(42, 38, D:7)
+  a +0 ring mail
+(44, 33, D:7)
+  a +0 dagger of chaos
+(48, 2, D:7)
+  a +0 dagger
+  a cursed +0 robe
+(49, 8, D:7)
+  a +0 hand axe
+  a +0 leather armour
+  a +0 falchion
+  a cursed +0 chain mail
+  an orc corpse (skeletalised by now)
+  an orc corpse (skeletalised by now)
+(52, 37, D:7)
+  the +6 lightning scales {run, rElec}
+    It insulates you from electricity.
+
+the Ecumenical Temple
+

@@ -1,0 +1,137 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12461750258414871179
+
+0 Wecawk the Ducker (level 1, 16/16 HPs) *WIZ*
+             Began as a Human Gladiator on Jan 1, 2020.
+             Was a Follower of the Shining One.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:42 (2 turns).
+
+Wecawk the Ducker (Human Gladiator)                    Turns: 2, Time: 00:03:42
+
+Health: 16/16      AC:  4    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  8    God:    the Shining One 40 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 quarterstaff
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: glowing
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Staves
+ + Level 2.0 Throwing
+ + Level 3.0 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - yak
+Aim: a yak
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.7 |     13 |  90% |   3.4 |   115  |  0.87 |      2.9
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      7.0 |     16 |  56% |   4.0 |   100  |  1.00 |      4.0
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - yak
+Aim: a yak
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.7 |     13 |  91% |   3.4 |   115  |  0.87 |      2.9
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      7.0 |     16 |  56% |   3.9 |   100  |  1.00 |      3.9
+Press: ? - help, v - describe, . - travel
+Here: a yak
+The floor.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 210 monsters.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.........#
+..........
+.........#  # #
+.........# .#.#
+.........#.....
+.........#..#.#
+..............#
+.......@.#
+.......<.#
+.........#
+.........#
+.........#
+..........
+.........#.
+.........#.
+PPPPPPPPP# #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wecawk the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Noticed a yak
+     2 | D:1      | Became a worshipper of the Shining One
+     2 | D:1      | Reached * piety under the Shining One
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Quarterstaff      || 40000
+Armor: Leather armour    ||  3256
+Dodge: Dodged            || 17507
+
