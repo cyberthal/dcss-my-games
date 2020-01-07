@@ -74,10 +74,6 @@ Level 3 of the Dungeon
   a +0 club
 
 Level 4 of the Dungeon
-[Shop] Wezaluan's Magic Scroll Shop
-  a scroll of silence (unknown) (97 gold)
-  a scroll of teleportation (39 gold)
-  a scroll of teleportation (39 gold)
 (0, 0, D:4)
   a cursed +0 robe
 (3, 7, D:4)
@@ -182,13 +178,6 @@ Level 5 of the Dungeon
 
 Level 6 of the Dungeon
 [Shop] Eshaec's General Store
-  the ring "Abo Una" {+Fly rPois Int-3 Dex+2} (319 gold)
-    [ring of flight]
-    
-    It affects your intelligence (-3).
-    It affects your dexterity (+2).
-    It protects you from poison.
-    It lets you fly.
   a scroll of amnesia (42 gold)
   a +2 ring mail of cold resistance (252 gold)
   a +1 robe of the Archmagi (392 gold)
@@ -221,12 +210,9 @@ Level 6 of the Dungeon
 [Shop] Ozesm's Magic Scroll Boutique
   a scroll of acquirement (728 gold)
   a scroll of magic mapping (49 gold)
-  a scroll of teleportation (42 gold)
-  a scroll of magic mapping (49 gold)
   a scroll of vulnerability (unknown) (105 gold)
   2 scrolls of immolation (98 gold)
   a scroll of acquirement (728 gold)
-  a scroll of fog (28 gold)
   a scroll of random uselessness (unknown) (14 gold)
   a scroll of blinking (105 gold)
 (0, 0, D:6)
@@ -303,67 +289,121 @@ Level 7 of the Dungeon
 
 Level 8 of the Dungeon
 (0, 0, D:8)
-  a glaive
-(8, 9, D:8)
-  a stone
-(14, 17, D:8)
-  a +0 spear
-  a +1 animal skin
-(15, -5, D:8)
-  a +0 club
-(18, -5, D:8)
-  a +0 flail
-(19, -4, D:8)
-  a +0 flail
-(19, -1, D:8)
-  a ring mail
-(23, 2, D:8)
-  a +0 spear
   a +0 ring mail
+  a +0 flail
+(10, -1, D:8)
+  a +0 falchion
+  a +0 scale mail
+(12, -25, D:8)
+  a +0 leather armour
+(13, 2, D:8)
+  a +0 animal skin
+(14, 3, D:8)
+  a +0 short sword
+(15, -25, D:8)
+  a +0 flail
+(25, -33, D:8)
+  a +0 chain mail
+  a +0 falchion
+(28, -24, D:8)
+  a +0 dagger
+  a potion of flight
+  a +0 shortbow
+(28, -9, D:8)
+  a giant club
+(30, 3, D:8)
+  a glaive
+(40, -13, D:8)
+  a chain mail
+(44, 20, D:8)
+  a +1 animal skin
+  a +0 spear
+(45, -2, D:8)
+  a +0 club
+(48, -19, D:8)
+  a +0 animal skin
+(48, -2, D:8)
+  a +0 flail
+(49, -1, D:8)
+  a +0 flail
+(49, 2, D:8)
+  a ring mail
+(53, 5, D:8)
   a +0 buckler
-(23, 4, D:8)
+  a +0 ring mail
+  a +0 spear
+(53, 7, D:8)
   a dagger
-(23, 5, D:8)
+(53, 8, D:8)
   a +0 halberd
-(26, -1, D:8)
+(54, -20, D:8)
+  a quarterstaff
+(56, 2, D:8)
   a cursed -3 hand axe
-(26, 15, D:8)
-  a stone
-(27, -14, D:8)
-  7 gold pieces
-(27, 9, D:8)
+(57, 12, D:8)
   a +2 robe of cold resistance
   a +1 whip of freezing
-(28, -21, D:8)
-  7 gold pieces
-(28, 18, D:8)
-  a stone
-(28, 20, D:8)
+(57, 16, D:8)
+  a cursed -2 animal skin
+(58, 23, D:8)
   a leather armour
+(59, -13, D:8)
+  a +0 animal skin
+(68, -20, D:8)
+  an uncursed ring of flight
 
 Level 9 of the Dungeon
 (0, 0, D:9)
-  17 gold pieces
-(5, 6, D:9)
-  21 gold pieces
-(12, 30, D:9)
-  9 gold pieces
-(21, 16, D:9)
-  21 gold pieces
-(33, 2, D:9)
-  a copper ring
-(36, -2, D:9)
-  a potion of haste
-(47, 14, D:9)
-  14 gold pieces
-(48, 8, D:9)
-  11 gold pieces
-(50, -3, D:9)
-  a +3 dagger
+  15 arrows
+(12, 3, D:9)
+  a +0 dire flail
+  a cursed +0 robe
+(13, 13, D:9)
+  a falchion
+(13, 33, D:9)
+  a leather armour
+(16, 13, D:9)
+  a +0 scimitar
+  a +0 robe
+(17, 3, D:9)
+  46 arrows
+(21, 18, D:9)
+  a hand axe
+(24, 5, D:9)
+  a +0 long sword
+  a +0 robe
+  a +0 falchion
+  a +0 robe
+(27, 6, D:9)
+  a dagger
+(31, 14, D:9)
+  20 bolts
+  a +0 morningstar
+  a +1 robe of cold resistance
+(31, 33, D:9)
+  a hand crossbow
+(32, 6, D:9)
+  a +0 ring mail
+(34, 15, D:9)
+  a dagger
+(36, 15, D:9)
+  a +0 hand axe of holy wrath
+(39, 19, D:9)
+  a +0 club
+(43, 28, D:9)
+  a +0 giant club
+(43, 30, D:9)
+  a +0 club
+(46, 31, D:9)
+  a +0 club
+(48, 0, D:9)
+  an uncursed staff of summoning
+(49, 0, D:9)
   a +0 robe of magic resistance
-(51, -4, D:9)
-  a +0 hand axe
+  a +0 dagger
+(50, -1, D:9)
   a +0 plate armour
+  a +0 hand axe
 
 Level 10 of the Dungeon
 (0, 0, D:10)
@@ -381,4 +421,16 @@ Level 10 of the Dungeon
   18 gold pieces
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a stone
+(1, 8, Lair:1)
+  a cloak
+(2, 0, Lair:1)
+  a stone
+(3, -18, Lair:1)
+  16 gold pieces
+(29, 3, Lair:1)
+  29 arrows
 

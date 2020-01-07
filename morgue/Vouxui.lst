@@ -1,9 +1,9 @@
 Vouxui
 
 Level 1 of the Dungeon
-(41, 9, D:1)
+(0, 0, D:1)
   a dagger
-(46, -38, D:1)
+(5, -47, D:1)
   a helmet
 
 Level 2 of the Dungeon
@@ -35,32 +35,32 @@ Level 3 of the Dungeon
   a +0 animal skin
 
 Level 4 of the Dungeon
-(4, -47, D:4)
+(0, 0, D:4)
   a +0 dagger
-(17, -19, D:4)
+(13, 28, D:4)
   a club
-(20, 8, D:4)
+(16, 55, D:4)
   a +0 whip
-(21, 9, D:4)
+(17, 56, D:4)
   a +0 leather armour
   a +0 club
-(22, 9, D:4)
+(18, 56, D:4)
   a +0 whip
-(44, -49, D:4)
+(40, -2, D:4)
   a club
-(47, 11, D:4)
+(43, 58, D:4)
   a robe
-(48, -12, D:4)
+(44, 35, D:4)
   a centaur barding
 
 Level 5 of the Dungeon
 [Shop] Irawnick's Distillery
-  a potion of berserk rage (unknown) (65 gold)
+  a potion of berserk rage (65 gold)
   a potion of magic (unknown) (104 gold)
   a potion of magic (unknown) (104 gold)
   a potion of heal wounds (65 gold)
   a potion of degeneration (13 gold)
-  a potion of mutation (unknown) (104 gold)
+  a potion of mutation (104 gold)
 (0, 0, D:5)
   a hand axe
 (9, 0, D:5)
@@ -86,45 +86,45 @@ Level 5 of the Dungeon
   a +0 club
 
 Level 6 of the Dungeon
-(0, 1, D:6)
+(0, 0, D:6)
   a +0 giant club
-(0, 10, D:6)
+(0, 9, D:6)
   a hand axe
-(6, -11, D:6)
+(6, -12, D:6)
   2 potions of degeneration
-(14, -11, D:6)
+(14, -12, D:6)
   a falchion
-(16, 9, D:6)
+(16, 8, D:6)
   a short sword
-(16, 23, D:6)
+(16, 22, D:6)
   a +0 club
-(16, 28, D:6)
+(16, 27, D:6)
   a leather armour
-(17, 28, D:6)
+(17, 27, D:6)
   a cursed -3 flail
   a +0 leather armour
   a +0 mace
   a +0 leather armour
   a +0 whip
-(18, 28, D:6)
+(18, 27, D:6)
   a +0 hand axe
-(26, -6, D:6)
+(26, -7, D:6)
   a +0 dagger
   a +0 robe
-(28, -21, D:6)
+(28, -22, D:6)
   a whip
-(29, 22, D:6)
+(29, 21, D:6)
   a +0 shortbow
   a mace
   a hand axe
   a +0 short sword
   a +0 dagger
-(32, 13, D:6)
+(32, 12, D:6)
   a helmet
-(34, 2, D:6)
+(34, 1, D:6)
   a +0 falchion
   a +0 ring mail
-(37, -26, D:6)
+(37, -27, D:6)
   a dagger
 
 Level 7 of the Dungeon
@@ -154,16 +154,453 @@ Level 7 of the Dungeon
   a +0 dagger
   a +0 morningstar
   a cursed +0 plate armour
+(38, -23, D:7)
+  a +0 flail
+(40, -24, D:7)
+  3 scrolls of amnesia
 (41, -15, D:7)
   a long sword
 
 Level 8 of the Dungeon
 (0, 0, D:8)
-  a tomahawk
-(4, -5, D:8)
-  a sling bullet
-(4, -4, D:8)
-  a sling bullet
+  a leather armour
+(1, 38, D:8)
+  a +0 war axe
+(1, 46, D:8)
+  a ring mail
+(2, -3, D:8)
+  a +0 club
+(2, 32, D:8)
+  a +0 dagger
+(5, -9, D:8)
+  a large rock
+(9, 21, D:8)
+  a +0 war axe
+(10, 10, D:8)
+  a large rock
+(10, 13, D:8)
+  a large rock
+(10, 14, D:8)
+  a large rock
+(10, 16, D:8)
+  a large rock
+(11, 23, D:8)
+  a +0 robe
+  a +0 dagger
+(11, 26, D:8)
+  a cursed +0 chain mail
+(12, 24, D:8)
+  a +0 dagger
+(20, 7, D:8)
+  a +0 falchion
+(27, 8, D:8)
+  a robe
+(34, 33, D:8)
+  a +0 robe
+  a +0 dagger
+(34, 35, D:8)
+  a +0 ring mail
+  a +0 hand axe
+  a +0 robe
+  a +0 dagger
+  a +0 plate armour
+  a +0 mace
+(34, 36, D:8)
+  a +0 chain mail
+  a +0 mace
+(35, -1, D:8)
+  a potion of degeneration
+(35, 0, D:8)
+  a potion of degeneration
+(39, -2, D:8)
+  a +0 short sword
+(43, -1, D:8)
+  a potion of degeneration
+(44, 0, D:8)
+  a potion of degeneration
+(55, 25, D:8)
+  a +0 chain mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a shortbow
+(0, 11, D:9)
+  5 large rocks
+(20, 5, D:9)
+  a +0 chain mail
+  a +0 mace
+  a +0 plate armour
+  a +0 dire flail
+(20, 7, D:9)
+  a +0 robe
+  a +0 dagger
+(21, 6, D:9)
+  a +0 robe
+  a +0 dagger
+(21, 7, D:9)
+  a +0 robe
+  a +0 dagger
+(25, 4, D:9)
+  a +0 giant spiked club
+  a +0 giant club
+(28, 2, D:9)
+  a war axe
+(28, 27, D:9)
+  a robe
+(29, 28, D:9)
+  a morningstar
+(31, 1, D:9)
+  a +0 great sword
+(35, 9, D:9)
+  a +0 flail
+(36, 7, D:9)
+  a +0 robe
+  a cursed -2 dagger
+(37, -1, D:9)
+  a +0 short sword
+(40, -2, D:9)
+  a +0 giant club
+  a +0 giant club
+(43, -4, D:9)
+  a +0 giant spiked club
+(43, -3, D:9)
+  a +0 short sword
+(44, -6, D:9)
+  a +0 dagger
+(44, -5, D:9)
+  a +0 dagger
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 giant spiked club
+  a +0 giant club
+(0, 1, D:10)
+  a +0 robe
+  a +0 dagger
+(1, 1, D:10)
+  a +0 chain mail
+  a +0 dire flail
+(3, 3, D:10)
+  a +0 plate armour
+  an arbalest
+(7, 9, D:10)
+  a +0 mace
+(9, 9, D:10)
+  a +0 morningstar
+(11, -2, D:10)
+  a +0 robe
+  a +0 dagger
+(12, 22, D:10)
+  a cursed +0 giant spiked club
+(20, 8, D:10)
+  a cursed -1 short sword
+  a +0 robe
+  a +0 dagger
+(22, 8, D:10)
+  a +0 chain mail
+  a +0 hand axe
+(22, 47, D:10)
+  a +0 chain mail
+  a +0 battleaxe
+(33, 50, D:10)
+  a +0 robe
+  a +0 dagger
+(35, -2, D:10)
+  a falchion
+(39, -2, D:10)
+  a glaive
+(44, 17, D:10)
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(46, 17, D:10)
+  a +0 ring mail
+(47, 20, D:10)
+  a +0 ring mail
+  a +0 club
+(50, 34, D:10)
+  a +1 plate armour
+(58, 37, D:10)
+  a +0 leather armour
+  a +0 club
+(58, 40, D:10)
+  a +0 plate armour
+  a +0 trident
+(60, 38, D:10)
+  a +0 robe
+  a +0 dagger
+(60, 39, D:10)
+  a +0 ring mail
+  a +0 trident
+(63, 20, D:10)
+  a ring mail
+
+Level 11 of the Dungeon
+[Shop] Loec Qape's Antique Weapon Boutique
+  a hand axe (96 gold)
+  a falchion (96 gold)
+  a glowing flail (208 gold)
+  a dagger (64 gold)
+  a rapier (128 gold)
+  a falchion (96 gold)
+  a mace (96 gold)
+  the +7 captain's cutlass {speed, disarm} (1728 gold)
+    Attacks with this weapon are significantly faster.
+  a dagger (64 gold)
+  a runed hand crossbow (208 gold)
+  a quarterstaff (128 gold)
+(0, 0, D:11)
+  a +2 robe of cold resistance
+(2, -2, D:11)
+  a +0 robe
+  a +0 dagger
+(3, -2, D:11)
+  a +1 plate armour of fire resistance
+  a +0 long sword
+(4, -26, D:11)
+  a plate armour
+(5, -2, D:11)
+  a +0 chain mail
+  a +0 flail
+(6, -3, D:11)
+  a +0 leather armour
+  a +0 club
+(13, 6, D:11)
+  a large rock
+(13, 7, D:11)
+  a large rock
+(18, -14, D:11)
+  6 scrolls of teleportation
+  3 scrolls of silence
+  2 scrolls of immolation
+  a wand of random effects (19)
+  a wand of clouds (4)
+  a wand of paralysis (25)
+  a wand of flame (36)
+  a wand of scattershot (7)
+  a wand of disintegration (20)
+  a wand of polymorph (13)
+  a wand of enslavement (6)
+  2 scrolls of magic mapping
+(18, -12, D:11)
+  a +2 ring mail of fire resistance
+(19, -13, D:11)
+  a smoking trident
+  a runed mace
+(19, -12, D:11)
+  a +0 morningstar
+  a +3 dagger
+  7 poisoned needles
+  4 curare-tipped needles
+  a throwing net
+  105 sling bullets
+  a +2 hand axe of freezing
+  a +2 flail of protection
+(19, -11, D:11)
+  a +0 dagger
+  a trident
+  a +0 whip of venom
+(20, -12, D:11)
+  a +3 halberd
+  a +0 quarterstaff of freezing
+  421 arrows
+  a +0 shortbow
+(20, -11, D:11)
+  a +0 quarterstaff
+  a +0 dire flail
+(21, -20, D:11)
+  a helmet
+(21, -13, D:11)
+  a scroll labeled NIUBBETTYKH
+  a scroll labeled HIUPTO WUREMI
+(21, -12, D:11)
+  a potion of lignification
+  a scroll of fog
+  a +3 ring of intelligence
+  2 scrolls of noise
+  an uncursed ring of ice
+  a scroll of holy word
+  2 potions of mutation
+  2 potions of might
+  a potion of invisibility
+  an uncursed ring of wizardry
+  a wand of digging (2)
+  a scroll of blinking
+  a scroll of remove curse
+  a potion of brilliance
+  a potion of berserk rage
+(28, 22, D:11)
+  a +0 club
+  a +0 club
+  a +0 short sword
+  a +0 dagger
+(29, 22, D:11)
+  a +0 dagger
+(35, 2, D:11)
+  a chain mail
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a trident
+(1, -46, D:12)
+  a quarterstaff
+(3, -39, D:12)
+  a +0 shortbow
+(10, -12, D:12)
+  a +0 dire flail
+  a +0 giant spiked club
+(11, -30, D:12)
+  a helmet
+(14, -35, D:12)
+  a flail
+(29, -37, D:12)
+  a +0 robe
+  a +0 dagger
+  a +0 scale mail
+  a +0 dire flail
+  a +0 plate armour
+(31, -7, D:12)
+  a glowing helmet
+(34, -15, D:12)
+  a plate armour
+(36, -40, D:12)
+  a +1 dagger of protection
+  a +0 robe
+  a +0 leather armour
+  a +0 morningstar
+  a +0 plate armour
+(48, -8, D:12)
+  a robe
+(49, -25, D:12)
+  a +0 giant club
+(51, -13, D:12)
+  a halberd
+
+Level 13 of the Dungeon
+[Shop] Tadgh's Distillery
+  a potion of berserk rage (85 gold)
+  a potion of curing (51 gold)
+  a potion of curing (51 gold)
+  2 potions of invisibility (272 gold)
+  2 potions of might (136 gold)
+  2 potions of haste (340 gold)
+  a potion of resistance (170 gold)
+  a potion of might (68 gold)
+  a potion of lignification (51 gold)
+(0, 0, D:13)
+  a quarterstaff
+(0, 9, D:13)
+  a club
+(11, -7, D:13)
+  a staff of air
+(11, 5, D:13)
+  a +0 shortbow
+(22, -9, D:13)
+  a +0 flail
+(22, -7, D:13)
+  a +0 ring mail
+  a +0 club
+(36, -25, D:13)
+  a +0 club
+
+Level 14 of the Dungeon
+(0, 0, D:14)
+  26 gold pieces
+(8, -5, D:14)
+  a war axe
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a robe
+(24, 3, Lair:1)
+  a hunting sling
+(25, 4, Lair:1)
+  a glowing scythe
+(27, 26, Lair:1)
+  a robe
+(30, 26, Lair:1)
+  a runed falchion
+(32, 35, Lair:1)
+  a +0 scale mail
+(55, 29, Lair:1)
+  a hand axe
+(59, 37, Lair:1)
+  a potion of degeneration
+
+Level 2 of the Lair of Beasts
+(12, -13, Lair:2)
+  a flail
+(23, 6, Lair:2)
+  a +0 shortbow
+(25, 5, Lair:2)
+  a +0 shortbow
+(28, 34, Lair:2)
+  a +0 shortbow
+(36, -9, Lair:2)
+  a robe
+(36, 20, Lair:2)
+  a +0 shortbow
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a spear
+(3, 28, Lair:3)
+  a club
+(5, 11, Lair:3)
+  a club
+(32, 1, Lair:3)
+  a great mace
+(32, 15, Lair:3)
+  an embroidered robe
+(44, 48, Lair:3)
+  a hunting sling
+(49, 37, Lair:3)
+  a ring mail
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a leather armour
+(1, 2, Lair:4)
+  a club
+(39, 4, Lair:4)
+  a scale mail
+(43, -1, Lair:4)
+  a glowing robe
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a war axe
+(7, -7, Lair:5)
+  a whip
+(20, 42, Lair:5)
+  a glowing flail
+(35, 37, Lair:5)
+  a scroll of random uselessness
+(39, 36, Lair:5)
+  a +0 robe
+(42, 33, Lair:5)
+  a hunting sling
+(56, 16, Lair:5)
+  a great mace
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  a glowing leather armour
+(1, -33, Lair:6)
+  a flail
+(8, -9, Lair:6)
+  a war axe
+(39, 15, Lair:6)
+  a rapier
+(40, 14, Lair:6)
+  a morningstar
+(41, 14, Lair:6)
+  a chain mail
+(42, 2, Lair:6)
+  a hand axe
+(42, 13, Lair:6)
+  a falchion
 

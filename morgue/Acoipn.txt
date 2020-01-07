@@ -2,119 +2,139 @@
 
 Game seed: 5065666364101160999
 
-Acoipn the Digger (Formicid Earth Elementalist)     Turns: 6774, Time: 01:06:05
+Acoipn the Shield-Bearer (FoEE)                     Turns: 8240, Time: 01:59:17
 
-Health: 50/50      AC:  5    Str: 13    XL:     7   Next: 38%
-Magic:  29/29      EV: 11    Int: 16    God:    the Shining One 42 (0)
-Gold:   248        SH:  0    Dex: 11    Spells: 3/12 levels left
+Health: 65/65      AC:  9    Str: 14    XL:     9   Next: 4%
+Magic:  22/22      EV: 10    Int: 22    God:    the Shining One 63 (0)
+Gold:   184        SH: 10    Dex: 15    Spells: 2/14 levels left
 
-rFire    . . .     SeeInvis +   e - +0 hunting sling
-rCold    . . .     Gourm    .   (no shield)
-rNeg     . . .     Faith    .   z - +0 ring mail
+rFire    . . .     SeeInvis +   c - +0 shortbow
+rCold    . . .     Gourm    .   e - +1 shield
+rNeg     + . .     Faith    .   F - +4 ring mail of Totoppi {-Tele rElec Int+5 Dex+4}
 rPois    .         Spirit   .   (helmet unavailable)
-rElec    .         Reflect  .   (no cloak)
+rElec    +         Reflect  .   (no cloak)
 rCorr    .         Harm     .   (no gloves)
 MR       .....                  (no boots)
 Stlth    +.........             (no amulet)
-HPRegen  0.16/turn              r - ring of magical power
-MPRegen  0.21/turn              y - ring of magical power
+HPRegen  0.20/turn              r - ring of magical power
+MPRegen  0.18/turn              g - +3 ring of slaying
 
-@: glowing
+@: glowing, studying Necromancy
 A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
-a: Dig, Shaft Self, Renounce Religion
+a: Dig, Shaft Self, Divine Shield, Renounce Religion
 
 
-You are on level 4 of the Dungeon.
+You are on level 5 of the Dungeon.
 You worship the Shining One.
-The Shining One is aware of your devotion.
+The Shining One is pleased with you.
 You are not hungry.
 
-You have visited 1 branch of the dungeon, and seen 4 of its levels.
+You have visited 1 branch of the dungeon, and seen 7 of its levels.
+You have also visited: Sewer.
 
-You have collected 248 gold pieces.
+You have collected 373 gold pieces.
+You have spent 189 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
- a - a +0 dagger
- b - a +0 falchion
- c - a +0 hand axe
- d - a +2 trident of freezing
- e - a +0 hunting sling (weapon)
- j - a runed whip
+ a - a +5 short sword of electrocution
+ b - a +2 trident of freezing
+ c - a +0 shortbow (weapon)
+ d - a +0 hunting sling
+ j - a +4 whip
 Missiles
- h - 129 stones (quivered)
- p - 24 arrows
+ h - 114 stones
+ p - 69 arrows (quivered)
  t - 3 tomahawks
  x - 18 bolts
- A - 21 poisoned needles
+ A - 34 poisoned needles
+ J - 7 javelins
 Armour
- f - a +0 shield
- g - a +0 leather armour
- z - a +0 ring mail (worn)
+ e - a +1 shield (worn)
+ F - the +4 ring mail of Totoppi (worn) {-Tele rElec Int+5 Dex+4}
+   (You bought it in a shop on level 5 of the Dungeon)   
+   
+   It affects your intelligence (+5).
+   It affects your dexterity (+4).
+   It insulates you from electricity.
+   It prevents most forms of teleportation.
 Jewellery
+ g - a +3 ring of slaying (right hand)
  r - a ring of magical power (left hand)
- y - a ring of magical power (right hand)
+ y - an uncursed ring of magical power
+ H - an uncursed ring of wizardry
 Wands
  o - a wand of random effects (27)
+ E - a wand of acid (4)
 Scrolls
  k - a scroll of noise
- l - 2 scrolls of remove curse
+ l - 3 scrolls of remove curse
  m - 2 scrolls of amnesia
- q - 2 scrolls labeled QUOBAP LENUXT
- C - a scroll of identify
+ n - a scroll of fear
+ z - a scroll of magic mapping
+ I - 2 scrolls of identify
 Potions
+ f - 2 potions of brilliance
  i - a potion of curing
- n - a potion of resistance
  s - a potion of agility
- u - a potion of lignification
- w - a potion of flight
- B - a glowing golden potion
+ u - 2 potions of lignification
+ w - 2 potions of might
+ C - 2 potions of ambrosia
+ D - a potion of flight
+ G - 2 potions of magic
+Books
+ B - a manual of Necromancy
 Comestibles
- v - 9 rations
+ v - 12 rations
 
 
    Skills:
- - Level 2.0 Fighting
- - Level 1.0(1.2) Short Blades
- - Level 0.9(1.1) Long Blades
- - Level 1.0(1.7) Axes
- + Level 2.1(2.3) Polearms
- - Level 1.2 Slings
- + Level 3.4 Armour
+ - Level 4.1 Fighting
+ - Level 2.3(2.5) Short Blades
+   Level 1.3(2.0) Long Blades
+   Level 1.0(1.8) Axes
+ - Level 2.4(2.5) Polearms
+ - Level 1.2(1.7) Slings
+ - Level 1.1 Bows
+ - Level 1.7(1.9) Throwing
+ - Level 3.7 Armour
  - Level 1.7 Dodging
  - Level 3.1 Stealth
- - Level 3.0 Spellcasting
+ - Level 5.3 Shields
+ + Level 3.0 Spellcasting
  - Level 2.0 Conjurations
+ - Level 2.0 Hexes
  - Level 1.1 Transmutations
  - Level 5.0 Earth Magic
+ * Level 1.6 Evocations
 
 
-You have 3 spell levels left.
+You have 2 spell levels left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
-a - Magic Dart            Conj           9 (25)       17%         1    2
-b - Sandblast             Erth           18 (50)      4%          1    2
-c - Searing Ray           Conj           9 (50)       26%         2    52
-d - Passwall              Tmut/Erth      12 (120)     16%         2    52
-e - Stone Arrow           Conj/Erth      13 (50)      26%         3    102
+a - Magic Dart            Conj           12 (25)      24%         1    0
+b - Sandblast             Erth           25 (50)      7%          1    0
+c - Searing Ray           Conj           12 (50)      34%         2    34
+d - Passwall              Tmut/Erth      16 (120)     22%         2    34
+e - Stone Arrow           Conj/Erth      18 (50)      36%         3    84
+f - Dazzling Spray        Conj/Hex       12 (50)      56%         3    84
 
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
- Dazzling Spray           Conj/Hex       5 (50)       58%         3    102
- Petrify                  Tmut/Erth      12 (100)     71%         4    202
- Lee's Rapid Deconstruct  Erth           18 (200)     80%         5    352
- Iskenderun's Mystic Bla  Conj           9 (100)      86%         4    202
- Force Lance              Conj/Tloc      5 (100)      94%         4    202
- Fulminant Prism          Conj/Hex       5 (200)      94%         4    202
+ Petrify                  Tmut/Erth      16 (100)     83%         4    184
+ Lee's Rapid Deconstruct  Erth           25 (200)     88%         5    334
+ Fulminant Prism          Conj/Hex       12 (200)     93%         4    184
+ Iskenderun's Mystic Bla  Conj           12 (100)     93%         4    184
+ Force Lance              Conj/Tloc      7 (100)      98%         4    184
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (4/15)            
+Dungeon (7/15)            
 Temple: D:4-7       
 
 Altars:
@@ -124,9 +144,13 @@ Elyvilon
 Gozag
 Kikubaaqudgha
 Makhleb
+Okawaru
 Ru
 Wu Jian
 The Shining One
+
+Shops:
+D:5 =[
 
 
 Innate Abilities, Weirdness & Mutations
@@ -139,103 +163,94 @@ You have a pair of large antennae on your head. (SInv)
 
 Message History
 
-Key pressed, stopping explore.
-Unknown command.
-Autopickup is now off.
-Magic restored.
-Key pressed, stopping explore.
-Unknown command.
-You open the door.
-There is an open door here.
-Key pressed, stopping explore.
-Unknown command.
-Things that are here:
-a +0 dagger; a +0 robe
-Things that are here:
-a +0 club; a +0 dagger; a +0 robe
-Key pressed, stopping explore.
-Unknown command.
-Done exploring.
-Unknown command.
-Done exploring.
+G - 2 potions of magic
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Annotate level on other end of current stairs? 
+Current level annotation: get to the sewer
+New annotation for D:5 (include '!' for warning): 
+Cleared annotation.
+Move the cursor to view the level map, or type ? for a list of commands.
+New annotation for D:5 (include '!' for warning): 
+Okay, then.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Current level annotation: get back to Ely
+New annotation for D:6 (include '!' for warning): 
+Cleared annotation. Returning to the game...
+Saving game... please wait.
+Welcome back, Acoipn the Formicid Earth Elementalist.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
 Saving game... please wait.
 
-.....'.......................)).............>#
-.....####.#.#....##########.#.######.#########
-..........#.#....#        #.#.#    #.#.).#
-.....###..#.#....#        #.#.#    #.#.#.#
-.....###..#.#.#'###########.#.#    #.#.#.#
-...........<.............##.#.#    #.#.#)#
-##+#####..#.#.#.###.........#.#    #.#.#.#
-....#  #..#.#.#.# #.........#.#    #.#.#)#
-....#  #..#.#.#.# #.........#.#    #.#.#.#
-....#  #..#.#+#+###.........#.#    #.#.#.#
-....#  #..#.................#.#    #.#.#.#
-.#'##  #..#.................#.#    #.#.#.#
-.#.#####..#.................#'######.#.#.#
-'#........#........######+#........#.#.#.################
-..........#...........# #.....%....#.#.#................#
-.......###########....# ##.........#......############.##
-.......#       ###....#  #.........###.##.#          #.#
-.......#       #......#  ##........# #.##.#          #.#
-.......#########......#####........# #.##.#          #.#
-..........................#...###### #.##.#          #.#
-.####.....................#...#      #.##.#          #)#
-..........................#...#      #.##.#          #.#
-..........................#...#      #.##.#          #.#
-............#########.......#.#      #.@..#          #.#
-............#     ###########.##     ############### #.#
-............#     #..........>.####  #.............# #.#
-............#     #.#.......[.....#  #.###########.# #.#
-............#######.#..........##.## #.#         #<# #.#
-#####...............##########.....# #.#         ### #.#
-    #...............#........#..#..# #.#             #.#
-    #...............#.###+#..#..#..###.#             #.#
-    #........................#..#......######        #.#
- ####...............#.......<#..#..#........#        #.#
- #..................#.......###.#...........#        #.#
- #..................#.............#.........##########.#
- #..................#...........#.#.........#..........#
- #..................#####+#.###.#.##........#.##########
- #........................#.................#.#
- #.........###'################.#.....#.......#
- #.........# #.#      #.........####################
- ########### #.#      #.##########.................#
-             #.#      #.#        #.###############.#
-             #.#      #.#        #.#             #.#
-             #.#      #.#        #.#             #.#
-             #.#      #.#        #.#             #.#
-             #.#      #.#        #.#             #.#
+*,,,*#.,,*#....#...,*      #.......
+*,,,*#.,,##....#...,*      #.......
+****##..,,.....*,...*      #.......
+    #....*#...#**#.##########...##.
+    #....##...####.#..#....##...##.
+    #..............[...............
+    #..............................
+    #######........................
+    ##...##....########....####.##.
+    #....##....###...##....########
+    #................#........#
+    #................#........#
+    ##...#...........'........#
+     #####...@.###...##...##.##
+         #.....###'####...####
+         #......#..........#
+         #......'..........#
+*********##.....#..........#
+*,,,**,,,*#.....#..........#
+*,,,,,,,,.......#..........#
+*,,,,,,,........#..........#
+*,,,,,,,........#..........#
+***+***,.######+####.####.##**
+*,,,*********,,,****.#***+*,,*
+*,,,,,*,<,,*,,,,,,*,,,,,,,,,,*
+*,,,,,*,,,,*,,,,,,+,,,,,,,,,,*
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
-  A scorpion (D:4)
-  2 orc priests
+  Duvessa (D:6)
+  Purgy (Sewer)
+  An ice beast (D:6)
+  An ogre (D:6)
+  2 centaurs
+  Dowan (D:6)
+  2 scorpions
+  A howler monkey (D:5)
+  2 bullfrog zombies
+  5 orc priests
   A hound (D:4)
   An iguana (D:4)
-  4 orc wizards (D:4)
-  2 worker ants (D:4)
+  6 orc wizards
+  4 worker ants
+  2 worker ant zombies
   6 adders
   An ooze (D:4)
   An adder skeleton (D:4)
-  2 worms (D:3)
+  4 worms
   3 dart slugs
-  4 leopard geckos
-  11 orcs
+  5 leopard geckos
+  15 orcs
   8 bats
-  2 giant cockroaches
+  4 giant cockroaches
   8 goblins
   8 hobgoblins
   3 jackals (D:3)
   10 kobolds
-  2 quokkas (D:2)
-  2 ball pythons (D:1)
-  3 frilled lizards
+  3 quokkas
+  5 ball pythons
+  8 frilled lizards
+  A jackal skeleton (D:5)
+  2 jackal zombies (D:5)
   2 quokka skeletons (D:4)
-  12 rats
-99 creatures vanquished.
+  13 rats
+141 creatures vanquished.
 
 Notes
 Turn   | Place    | Note
@@ -243,7 +258,6 @@ Turn   | Place    | Note
      0 | D:1      | Acoipn the Formicid Earth Elementalist began the quest for
                   | the Orb.
      0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
-   382 | D:1      | Reached skill level 4 in Earth Magic
    453 | D:1      | Reached XP level 2. HP: 20/20 MP: 5/5
    457 | D:1      | Learned a level 2 spell: Passwall
    506 | D:1      | Found a glowing golden altar of the Shining One.
@@ -277,41 +291,82 @@ Turn   | Place    | Note
   5910 | D:4      | Reached skill level 1 in Polearms
   5924 | D:4      | Reached skill level 1 in Armour
   6023 | D:4      | Reached XP level 7. HP: 43/50 MP: 11/11
+  6774 | D:4      | You fall through a shaft for 2 floors!
+  6777 | D:6      | Reached skill level 1 in Long Blades
+  6888 | D:6      | Reached skill level 1 in Evocations
+  6896 | D:6      | Learned a level 3 spell: Dazzling Spray
+  6925 | D:5      | Entered Level 5 of the Dungeon
+  6939 | D:5      | Reached skill level 1 in Hexes
+  6939 | D:5      | Reached XP level 8. HP: 46/58 MP: 12/12
+  7028 | D:5      | Reached ** piety under the Shining One
+  7039 | D:5      | Found Jaseff's Antique Armour Shop.
+  7077 | D:5      | Reached skill level 1 in Bows
+  7227 | D:5      | Bought a steaming ring mail for 189 gold pieces
+  7227 | D:5      | Identified the +4 ring mail of Totoppi {-Tele rElec Int+5
+                  | Dex+4} (You bought it in a shop on level 5 of the Dungeon)
+  7247 | D:5      | You fall through a shaft for 2 floors!
+  7333 | D:7      | Found an iron altar of Okawaru.
+  7441 | D:6      | Found a glowing drain.
+  7441 | D:6      | Noticed Duvessa
+  7441 | D:6      | Noticed Dowan
+  7447 | D:6      | Killed Dowan
+  7447 | D:6      | Reached skill level 1 in Shields
+  7453 | D:6      | Killed Duvessa
+  7453 | D:6      | Reached skill level 1 in Throwing
+  7484 | Sewer    | Entered a sewer
+  7570 | Sewer    | Noticed Purgy
+  7573 | Sewer    | Killed Purgy
+  7786 | D:5      | Found Umnumom's Jewellery Shoppe.
+  7874 | D:5      | Reached XP level 9. HP: 65/65 MP: 13/13
+  7911 | D:5      | Reached skill level 5 in Shields
+  8240 | D:5      | Identified the +4 ring mail of Totoppi {-Tele rElec Int+5
+                  | Dex+4} (You bought it in a shop on level 5 of the Dungeon)
 
-Skill      XL: |  1  2  3  4  5  6  7 |
----------------+----------------------+-----
-Earth Magic    |  4              5    |  5.0
-Fighting       |     1  2             |  2.0
-Short Blades   |     1                |  1.0
-Axes           |           1          |  1.0
-Spellcasting   |           3          |  3.0
-Conjurations   |           1     2    |  2.0
-Stealth        |           3          |  3.1
-Slings         |                 1    |  1.2
-Polearms       |                 1  2 |  2.1
-Armour         |                 2  3 |  3.4
-Long Blades    |                      |  0.9
-Dodging        |                      |  1.7
-Transmutations |                      |  1.1
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Earth Magic    |  4              5          |  5.0
+Fighting       |     1  2           3  4    |  4.1
+Short Blades   |     1                 2    |  2.3
+Axes           |           1                |  1.0
+Spellcasting   |           3                |  3.0
+Conjurations   |           1     2          |  2.0
+Stealth        |           3                |  3.1
+Slings         |                 1          |  1.2
+Polearms       |                 1  2       |  2.4
+Armour         |                 2  3       |  3.7
+Long Blades    |                    1       |  1.3
+Evocations     |                    1       |  1.6
+Hexes          |                    1  2    |  2.0
+Bows           |                       1    |  1.1
+Shields        |                       4  5 |  5.3
+Throwing       |                       1    |  1.7
+Dodging        |                            |  1.7
+Transmutations |                            |  1.1
 
 Action                   |  1- 3 |  4- 6 |  7- 9 || total
 -------------------------+-------+-------+-------++-------
 Melee: Dagger            |  4118 |       |       ||  4118
        Hand axe          |  4033 |  8082 |       || 12115
-       Falchion          |       |  8036 |       ||  8036
-       Short sword       |       |  4000 |       ||  4000
-       Trident           |       |  8030 |    13 ||  8043
- Fire: Hunting sling     |       |    40 |    18 ||    58
- Cast: Sandblast         |     9 |    13 |     1 ||    23
-       Stone Arrow       |       |     3 |     3 ||     6
-       Magic Dart        |       |     1 |       ||     1
-  Use: Potion            |     2 |       |       ||     2
-       Scroll            |     1 |     9 |       ||    10
+       Falchion          |       |  8036 |     7 ||  8043
+       Short sword       |       |  4000 |    30 ||  4030
+       Trident           |       |  8030 |    42 ||  8072
+ Fire: Hunting sling     |       |    40 |    21 ||    61
+       Shortbow          |       |       |    23 ||    23
+ Cast: Sandblast         |     9 |    13 |    24 ||    46
+       Stone Arrow       |       |     3 |    11 ||    14
+       Magic Dart        |       |     1 |     3 ||     4
+       Dazzling Spray    |       |       |     1 ||     1
+Invok: Divine Shield     |       |       |     1 ||     1
+ Abil: Dig               |       |       |    14 ||    14
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Potion            |     2 |       |     3 ||     5
+       Scroll            |     1 |     9 |     4 ||    14
  Stab: Sleeping          |     1 |       |       ||     1
-  Eat: Chunk             |     5 |     8 |     3 ||    16
+  Eat: Chunk             |     5 |     8 |    10 ||    23
        Ration            |       |     1 |       ||     1
 Armor: Leather armour    |   575 |  1746 |       ||  2321
-       Ring mail         |       |     4 |     2 ||     6
-Dodge: Dodged            |  3774 | 12234 |     4 || 16012
-Rpst.: Falchion          |       |  1139 |       ||  1139
+       Ring mail         |       |     4 |    28 ||    32
+Dodge: Dodged            |  3774 | 12234 |    34 || 16042
+Block: Shield            |       |       |    19 ||    19
+Rpst.: Falchion          |       |  1139 |     2 ||  1141
 

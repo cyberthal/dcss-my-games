@@ -2,7 +2,7 @@
 
 Game seed: 8594636675823150020
 
-Poukhle the Vexing (Deep Elf Wizard)               Turns: 14824, Time: 03:29:39
+Poukhle the Vexing (Deep Elf Wizard)               Turns: 14824, Time: 03:30:19
 
 Health: 48/48      AC:  9    Str:  6    XL:     9   Next: 32%
 Magic:  20/20      EV: 14    Int: 24    God:    Kikubaaqudgha [*.....]
@@ -201,17 +201,6 @@ You expend magic power (3 MP) to strengthen your wands.
 
 Message History
 
-You're wearing all the rings you can. Remove which one?
-(? for menu, Esc to cancel)
-< or F - a ring of resist corrosion; > or D - a ring of poison resistance
-You remove your ring of poison resistance.
-x - a ring of positive energy (right hand)
-Put on which piece of jewellery? (? for menu, Esc to quit)
-You're wearing all the rings you can. Remove which one?
-(? for menu, Esc to cancel)
-< or F - a ring of resist corrosion; > or x - a ring of positive energy
-You remove your ring of positive energy.
-D - a ring of poison resistance (right hand)
 Move the cursor to view the level map, or type ? for a list of commands.
 Returning to the game...
 Move the cursor to view the level map, or type ? for a list of commands.
@@ -222,37 +211,37 @@ Annotate level on other end of current stairs?
 New annotation for D:8 (include '!' for warning): make stash
 You swap places.
 Saving game... please wait.
+Level annotation: make stash
+Welcome back, Poukhle the Deep Elf Wizard.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+WARNING: ABOUT TO ENTER EXPLORE MODE!
+If you continue, your game will not be scored!
+Do you really want to enter explore mode? (Confirm with "yes".) 
+Okay, then.
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Okay, then.
+Saving game... please wait.
 
-######################      ########################
-#........:...........#      #.......5...........[...
-#.##################.#      #.######################
-#.#      #####     #.#      #.#           #####    #
-#.#      #...#######.###### #.#     #######...##   #
-#.#      #........#.......###.#######<..[..###.##  #
-#.#      #..Z####......................>#.## ##.####
-#.###    #...@5...#..#.........######.#...#   #...##
-#...#    #..#####....#.#####...#    #.###.## ##.#.##
-###.#    #<.#####..............#    #.# ##.###.##.##
-  #.#    #.............#####.###    #.#  ##...###.##
-  #.#   ##..#####.#.##.#   #.########.######.###...#
-  #.#   #....#  #.#.##.#   #^.........#.............
-  #.#   #.#..#  #..)...#   #.##########.####.###...#
-  #.#   #.#..#  #.#....#   #.#        #.###...###.##
-  #.#  ##.#..####......#   #.#        #.##.###.##.##
-  #.#  #.........\##...#   #.#        #.##.# #.##.##
-  #.####..#..#######...#   #.#        #.##.###.##.##
-  #.......#..#######...#####.#        #.##....###.##
-  #######....................#        #.##....# #.##
-        ####Z##.####..########        #.#####.# #.##
-           #.##.#  #..#               #.#   #.###.#.
-           #.##.####..#               #.##  #.#.....
-           #..........#               #..#  ###...#.
-           ####.####..#               #.'#######'.#.
-              #.#  #..#               #.#...#...###.
-             ##.####..#               ###.>.#...##..
-  ############........##                #...#...###.
-  #..............####..##               ##########..
-  #.##########...# #....####            #...#...###.
+######################      ######
+#........:...........#      #.....
+#.##################.#      #.####
+#.#      #####     #.#      #.#
+#.#      #...#######.###### #.#
+#.#      #........#.......###.####
+#.#      #..Z####.................
+#.###    #...@5...#..#.........###
+#...#    #..#####....#.#####...#
+###.#    #<.#####..............#
+  #.#    #.............#####.###
+  #.#   ##..#####.#.##.#   #.#####
+  #.#   #....#  #.#.##.#   #^.....
+  #.#   #.#..#  #..)...#   #.#####
+  #.#   #.#..#  #.#....#   #.#
+  #.#  ##.#..####......#   #.#
+  #.#  #.........\##...#   #.#
+  #.####..#..#######...#   #.#
+  #.......#..#######...#####.#
 
 
 You can see a friendly crimson imp and a friendly centaur skeleton.

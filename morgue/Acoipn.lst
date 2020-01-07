@@ -96,8 +96,6 @@ Level 4 of the Dungeon
   a +0 club
   a +0 dagger
   a +0 robe
-(7, -32, D:4)
-  a scorpion corpse
 (16, -44, D:4)
   a +0 dagger
 (17, -41, D:4)
@@ -108,4 +106,101 @@ Level 4 of the Dungeon
 (31, -26, D:4)
   a +0 dagger
   a +0 robe
+
+Level 5 of the Dungeon
+[Shop] Jaseff's Antique Armour Shop
+  a glowing robe (77 gold)
+  a cloak (94 gold)
+  a ring mail (84 gold)
+  a ring mail (84 gold)
+  a scale mail (84 gold)
+  a pair of gloves (94 gold)
+  a spiked scale mail (189 gold)
+  a ring mail (84 gold)
+  a robe (14 gold)
+[Shop] Umnumom's Jewellery Shoppe
+  an uncursed ring of fire (275 gold)
+  an uncursed amulet of faith (440 gold)
+  the ring "Ustretic" {rPois Str+2 Int+5 Stlth-} (443 gold)
+    [ring of poison resistance]
+    
+    It affects your strength (+2).
+    It affects your intelligence (+5).
+    It protects you from poison.
+    It makes you less stealthy.
+  the ring "Ygeira" {rF++ rC+ MR+ MP+9 Str+3} (898 gold)
+    [ring of protection from magic]
+    
+    It affects your strength (+3).
+    It greatly protects you from fire.
+    It protects you from cold.
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+  an uncursed ring of resist corrosion (220 gold)
+  an uncursed ring of see invisible (165 gold)
+  a cursed -4 ring of strength (22 gold)
+  an uncursed ring of stealth (192 gold)
+  the ring "Fetwud" {Fire rPois Str+2} (444 gold)
+    [ring of fire]
+    
+    It enhances your fire magic.
+    It affects your strength (+2).
+    It protects you from fire.
+    It makes you vulnerable to cold.
+    It protects you from poison.
+  the ring of Inylath {rC+ rN+ Str+4} (466 gold)
+    [ring of positive energy]
+    
+    It affects your strength (+4).
+    It protects you from cold.
+    It protects you from negative energy.
+  an uncursed ring of stealth (192 gold)
+(0, 0, D:5)
+  a +0 ring mail
+  a +0 leather armour
+(20, 9, D:5)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
+  10 gold pieces
+  an orc corpse (skeletalised by now)
+(23, -1, D:5)
+  a leather armour
+(27, 7, D:5)
+  a +0 hand axe
+(27, 14, D:5)
+  a +0 leather armour
+  a +0 dagger
+(28, 8, D:5)
+  a cursed -3 club
+  a +0 flail
+(31, 20, D:5)
+  a +0 flail
+  an orc skeleton
+(32, -18, D:5)
+  2 potions of degeneration
+(32, 19, D:5)
+  a +0 dagger
+  a +0 robe
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a scroll of teleportation
+(2, -4, D:6)
+  a +0 giant club
+(38, -25, D:6)
+  a ring mail
+(41, -21, D:6)
+  a +0 ring mail
+(42, -31, D:6)
+  a +0 shortbow
+(42, -27, D:6)
+  a hunting sling
+(42, -21, D:6)
+  a +0 robe
+  a +0 dagger
+(47, -18, D:6)
+  a runed hand crossbow
+
+Level 7 of the Dungeon
 
