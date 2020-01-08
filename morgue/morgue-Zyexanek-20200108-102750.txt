@@ -1,0 +1,344 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11106395071056693481
+
+1920 Zyexanek the Cleaver (level 9, 65/87 (88) HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 8, 2020.
+             Was an Initiate of Beogh.
+             Quit the game on level 4 of the Dungeon.
+             The game lasted 01:48:49 (8675 turns).
+
+Zyexanek the Cleaver (Hill Orc Fighter)             Turns: 8675, Time: 01:48:49
+
+HP:   65/87 (88)    AC: 12    Str: 19    XL:     9   Next: 17%
+MP:   9/11          EV:  5    Int:  6    God:    Beogh 16 (0)
+Gold: 223           SH:  9    Dex: 11    Spells: 8/8 levels left
+
+rFire    . . .     SeeInvis .   a - +2 long sword (elec)
+rCold    . . .     Gourm    .   z - +0 shield
+rNeg     . . .     Faith    .   r - +0 chain mail
+rPois    +         Spirit   .   n - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   s - +1 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.24/turn              A - ring of flight
+MPRegen  0.12/turn              p - ring of poison resistance
+
+@: no status effects
+A: dopey 2, robust 1
+a: Renounce Religion, Evoke Flight
+
+
+You were on level 4 of the Dungeon.
+You worshipped Beogh.
+Beogh was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 6 of its levels.
+
+You collected 223 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 long sword of electrocution (weapon)
+ b - a +0 war axe
+ c - a +0 hunting sling
+ e - a +0 scimitar
+ h - a +1 whip of electrocution
+ i - a +0 spear
+ l - a +0 flail
+ u - a cursed +0 flail
+ y - a +2 dagger of electrocution
+Missiles
+ g - 145 stones (quivered)
+ j - 37 bolts
+ k - 95 arrows
+ t - 18 poisoned needles
+ x - 13 sling bullets
+Armour
+ n - a +0 helmet (worn)
+ r - a +0 chain mail (worn)
+ s - a +1 pair of gloves (worn)
+ z - a +0 shield (worn)
+Jewellery
+ p - a ring of poison resistance (right hand)
+ A - a ring of flight (left hand)
+Wands
+ v - a wand of disintegration (13)
+ C - a wand of acid (12)
+ D - a wand of scattershot (2)
+Scrolls
+ d - 2 scrolls of remove curse
+ q - a scroll of blinking
+ w - a scroll of fog {unknown}
+ B - a scroll of noise {unknown}
+Potions
+ m - 4 potions of flight
+ o - a potion of brilliance
+Comestibles
+ f - 5 rations
+
+
+   Skills:
+ - Level 7.7 Fighting
+ - Level 4.1 Long Blades
+ - Level 8.8(9.2) Axes
+ - Level 3.5(5.9) Maces & Flails
+ - Level 3.5(3.6) Slings
+ - Level 1.0(2.4) Throwing
+ - Level 3.2 Armour
+ - Level 3.2 Shields
+ * Level 3.3 Evocations
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Zin
+The Shining One
+
+Annotations:
+D:3 exclusion: downstairs, Grinder
+D:4 1 runed translucent door, 1 exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very dopey. (Int -4)
+You are robust. (+10% HP)
+
+
+Message History
+
+Pikel is blasted!
+You blow up Pikel!
+Beogh accepts your kill.
+Your Long Blades skill gained 3 levels and is now at level 4!
+Your Evocations skill gained 2 levels and is now at level 3!
+You have reached level 9!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 19, Int 10, Dex 10.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel agile.
+With Pikel's spell broken, the former slave thanks you for its freedom.
+As you read the scroll of identify, it crumbles to dust.
+o - a potion of brilliance
+You are starving!
+You eat one of the 6 rations. That ration really hit the spot!
+You see here a +0 giant spiked club.
+Things that are here:
+a +1 whip of electrocution; a +0 robe
+h - a +1 whip of electrocution
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..........#.###.#####.....############
+..........#.# #.#...).................
+....##.##.#.# #.#..<#[................
+....##.##.#.###.#####.#'######.##...#.
+......................................
+####......#.###.#######.######.####.#.
+####.##.#...# #.......<........## #.#.
+.....##.#...# #########)..p.....# #.#.
+....###.#...#     #...'.........# #...
+......#.....#     #.###.........# ###.
+....#.###...###   #.# #.........#####.
+......# #.....#####)###########.......
+#########.....##...@.....)%# #...#.##.
+     #.....................# #...#.##.
+     #.....................###.....##.
+     #............p.....%..##......##.
+     #.....................##.....##..
+     #.....................###.....###
+     #................%....# ##.....#.
+     #.....................#  ##......
+     #.....................#  ###.....
+     #.....................####.......
+##################........###.....#...
+......#          #......###.....####..
+
+
+You could see a neutral freed slave (wandering).
+
+Vanquished Creatures
+  Pikel (D:4)
+  Menkaure (D:4)
+  Duvessa (D:4)
+  A slave (D:5)
+  2 sky beasts (D:4)
+  A necrophage (D:5)
+  3 ogres (D:4)
+  A centaur (D:5)
+  Blork the orc (D:5)
+  Dowan (D:4)
+  A scorpion (D:5)
+  An orc priest (D:4)
+  A bullfrog skeleton (D:4)
+  A centaur skeleton (D:4)
+  Natasha (thrice) (D:2)
+  2 iguanas
+  4 orc wizards
+  2 worker ants (D:4)
+  A worker ant zombie (D:5)
+  4 adders
+  An ooze (D:3)
+  An adder skeleton (D:4)
+  2 worms
+  A dart slug (D:1)
+  5 leopard geckos
+  7 orcs
+  A ball python (D:5)
+  6 giant cockroaches
+  6 hobgoblins
+  3 jackals (D:3)
+  A quokka (D:2)
+  6 bats
+  6 frilled lizards
+  5 goblins
+  5 kobolds (D:1)
+  5 rats
+  A bush (D:3)
+  2 plants (D:3)
+97 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:3)
+1 creature vanquished.
+
+Grand Total: 98 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zyexanek the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+    22 | D:1      | Reached skill level 3 in Axes
+   436 | D:1      | Reached XP level 2. HP: 25/26 MP: 2/2
+   539 | D:1      | Reached skill level 4 in Axes
+  1002 | D:2      | Reached XP level 3. HP: 33/33 MP: 3/3
+  1537 | D:2      | Noticed Natasha
+  1545 | D:2      | Killed Natasha
+  1545 | D:2      | Reached skill level 5 in Axes
+  1545 | D:2      | Reached XP level 4. HP: 40/40 MP: 4/4
+  1736 | D:2      | Noticed Natasha
+  1751 | D:2      | Killed Natasha
+  1751 | D:2      | Reached skill level 1 in Throwing
+  1903 | D:2      | Noticed Natasha
+  1927 | D:2      | Killed Natasha
+  1927 | D:2      | Reached XP level 5. HP: 42/47 MP: 5/5
+  2205 | D:3      | Found a shadowy altar of Dithmenos.
+  3159 | D:3      | Noticed Grinder
+  3164 | D:3      | Paralysed by Grinder for 5 turns
+  3179 | D:4      | Reached skill level 5 in Fighting
+  3233 | D:4      | Noticed an ogre
+  3322 | D:4      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+  3322 | D:4      | Gained mutation: You possess an exceptional clarity of
+                  | mind. [potion of mutation]
+  3328 | D:4      | Killed an ogre
+  3328 | D:4      | Reached skill level 6 in Axes
+  3328 | D:4      | Reached XP level 6. HP: 41/56 MP: 6/6
+  3502 | D:4      | Noticed Menkaure
+  3605 | D:4      | Reached skill level 7 in Axes
+  3669 | D:4      | Became a worshipper of Beogh the Brigand
+  4197 | D:5      | Entered Level 5 of the Dungeon
+  4197 | D:5      | Noticed a sky beast
+  4220 | D:4      | Reached skill level 1 in Slings
+  4220 | D:4      | Reached XP level 7. HP: 64/64 MP: 7/7
+  4226 | D:4      | Killed Menkaure
+  4226 | D:4      | Reached skill level 1 in Long Blades
+  4640 | D:4      | Found a runed translucent door.
+  5330 | D:4      | Noticed Dowan
+  5361 | D:4      | Killed Dowan
+  5489 | D:5      | Noticed Pikel
+  5626 | D:4      | Noticed Duvessa
+  5645 | D:4      | Lost mutation: You are weak. (Str -2) [potion of mutation]
+  5645 | D:4      | Lost mutation: You possess an exceptional clarity of mind.
+                  | [potion of mutation]
+  5645 | D:4      | Gained mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+  5645 | D:4      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  5646 | D:4      | Lost mutation: You are clumsy. (Dex -2) [potion of
+                  | mutation]
+  5646 | D:4      | Lost mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  5646 | D:4      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  5646 | D:4      | Gained mutation: You are very dopey. (Int -4) [potion of
+                  | mutation]
+  5646 | D:4      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  6001 | D:4      | Killed Duvessa
+  6001 | D:4      | Reached skill level 8 in Axes
+  6001 | D:4      | Reached XP level 8. HP: 76/80 MP: 8/8
+  6535 | D:5      | Noticed Blork the orc
+  6641 | D:4      | Reached skill level 1 in Maces & Flails
+  7017 | D:5      | Found a glowing silver altar of Zin.
+  7413 | D:5      | Reached skill level 1 in Evocations
+  7742 | D:5      | Killed Blork the orc
+  8220 | D:5      | Found a burning altar of Makhleb.
+  8238 | D:5      | Found a staircase to the Ecumenical Temple.
+  8267 | Temple   | Entered the Ecumenical Temple
+  8665 | D:4      | Killed Pikel
+  8665 | D:4      | Reached XP level 9. HP: 62/87 MP: 8/11
+  8675 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Axes           |  3  4  5     6  7  8    |  8.8
+Fighting       |        4     5  6  7    |  7.7
+Throwing       |           1             |  1.0
+Slings         |                 1  2  3 |  3.5
+Long Blades    |                    1  4 |  4.1
+Maces & Flails |                       3 |  3.5
+Evocations     |                       3 |  3.3
+Armour         |                         |  3.2
+Shields        |                         |  3.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: War axe           |    67 |  4224 |  8156 || 12447
+       Scimitar          |       |  4000 |  4000 ||  8000
+       Long sword        |       |       |  4000 ||  4000
+ Fire: Hunting sling     |       |     5 |    64 ||    69
+Throw: Stone             |    20 |    51 |     1 ||    72
+Invok: Convert to Beogh  |       |     1 |       ||     1
+Evoke: Wand              |       |       |     3 ||     3
+  Use: Potion            |     1 |     5 |     5 ||    11
+       Scroll            |       |     6 |     6 ||    12
+  Eat: Chunk             |     2 |     9 |     5 ||    16
+       Ration            |       |       |     3 ||     3
+Armor: Scale mail        |    19 |       |       ||    19
+       Chain mail        |     3 |  1897 |  3781 ||  5681
+       Skin              |       |    10 |       ||    10
+Dodge: Dodged            |    14 |   827 |  1893 ||  2734
+Block: Shield            |    32 |  2165 |  4559 ||  6756
+Rpst.: Scimitar          |       |   129 |   133 ||   262
+       Long sword        |       |       |   164 ||   164
+
