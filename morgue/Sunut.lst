@@ -395,20 +395,35 @@ Level 11 of the Dungeon
 the Ecumenical Temple
 
 Level 1 of the Lair of Beasts
-(30, -4, Lair:1)
+(0, 0, Lair:1)
   15 gold pieces
-(40, -9, Lair:1)
+(10, -5, Lair:1)
   a war axe
-(45, -29, Lair:1)
-  a spiny frog skeleton
 
 Level 2 of the Lair of Beasts
-(0, 0, Lair:2)
-  a basilisk skeleton
-(3, -1, Lair:2)
-  a spiny frog skeleton
 (4, -33, Lair:2)
   a rapier
+(14, 13, Lair:2)
+  an arrow
+  (unseen)
 (24, -26, Lair:2)
   a book of Ice
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a sling bullet
+(0, 14, Lair:3)
+  23 stones
+(0, 32, Lair:3)
+  a battleaxe
+(1, 0, Lair:3)
+  a sling bullet
+(2, 1, Lair:3)
+  a sling bullet
+(2, 4, Lair:3)
+  a ration
+(3, 1, Lair:3)
+  a sling bullet
+(5, 41, Lair:3)
+  8 gold pieces
 
