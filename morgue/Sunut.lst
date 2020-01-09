@@ -201,8 +201,6 @@ Level 7 of the Dungeon
   a ring mail
 (3, 1, D:7)
   a scroll of remove curse
-(6, 13, D:7)
-  a shortbow
 (12, -5, D:7)
   a falchion
 (12, 11, D:7)
@@ -241,8 +239,6 @@ Level 8 of the Dungeon
 (8, -9, D:8)
   a +0 leather armour
   a cursed -3 trident
-  19 bolts
-  a tomahawk of returning
 (8, 0, D:8)
   a scroll of random uselessness
 (9, -9, D:8)
@@ -252,36 +248,31 @@ Level 8 of the Dungeon
   a falchion
 (17, -8, D:8)
   a +0 chain mail
-  a +0 glaive
-  an orc corpse (skeletalised by now)
 (26, -11, D:8)
   a book of Necromancy
-(26, 4, D:8)
-  a runed quarterstaff
 (27, -10, D:8)
   a +0 leather armour
   a +0 mace
-(35, -12, D:8)
-  107 arrows
 (36, -12, D:8)
   a +0 scale mail
   a +0 whip
-(40, -7, D:8)
-  a trident
 (40, 10, D:8)
   a cursed -3 dagger
+(41, -23, D:8)
+  a +0 robe
 
 Level 9 of the Dungeon
 (0, 0, D:9)
   a +0 whip
-(1, -34, D:9)
-  20 bolts
-(1, 0, D:9)
-  a +3 halberd
+(1, -22, D:9)
+  a +0 giant club
+  a +0 giant club
 (2, 1, D:9)
   a +0 club
 (4, -43, D:9)
   a pair of boots
+(13, -39, D:9)
+  a +0 club
 (24, -21, D:9)
   a +0 giant spiked club
 (24, -17, D:9)
@@ -291,10 +282,6 @@ Level 9 of the Dungeon
   a +0 giant club
 (26, -17, D:9)
   a +0 giant club
-(30, -43, D:9)
-  12 gold pieces
-(30, -42, D:9)
-  13 gold pieces
 (37, -9, D:9)
   a +0 dagger
 (38, 0, D:9)
@@ -304,6 +291,11 @@ Level 9 of the Dungeon
   a +0 quarterstaff
 (39, 0, D:9)
   a +0 dagger
+(40, -43, D:9)
+  a +0 dire flail
+  a +0 robe
+(40, -42, D:9)
+  a +0 robe
 (40, -1, D:9)
   a +0 chain mail
   a +0 long sword
@@ -311,15 +303,112 @@ Level 9 of the Dungeon
   a +0 dagger
 (43, -12, D:9)
   a +0 short sword
-  (unseen)
-(45, -11, D:9)
-  9 gold pieces
+(51, -36, D:9)
+  a +0 robe
 
 Level 10 of the Dungeon
 (0, 0, D:10)
-  9 gold pieces
-(2, -16, D:10)
   a +0 flail
+(0, 6, D:10)
+  a +0 giant club
+(16, 29, D:10)
+  a potion of mutation
+(16, 30, D:10)
+  a glowing hat
+(16, 31, D:10)
+  10 gold pieces
+(16, 38, D:10)
+  a +0 giant club
+(17, 30, D:10)
+  a ring of dexterity
+
+Level 11 of the Dungeon
+[Shop] Enousk's Gadget Emporium
+  a phial of floods (520 gold)
+  a box of beasts (260 gold)
+  a fan of gales (520 gold)
+  a lamp of fire (520 gold)
+  a crystal ball of energy (260 gold)
+  a fan of gales (520 gold)
+  a lightning rod (4/4) (520 gold)
+  a fan of gales (520 gold)
+  a sack of spiders (260 gold)
+(0, 0, D:11)
+  a large rock
+(11, 11, D:11)
+  a flail
+(16, 11, D:11)
+  a +0 flail
+(17, 11, D:11)
+  a plate armour
+(18, 6, D:11)
+  a large rock
+(18, 10, D:11)
+  a runed flail
+(18, 11, D:11)
+  a +2 dagger of freezing
+  a +0 dagger of draining
+  a tomahawk of returning
+  79 bolts
+  a +0 falchion of protection
+  a +0 blowgun
+(18, 12, D:11)
+  a +0 scimitar
+  a +0 dagger of draining
+(19, 4, D:11)
+  a +0 whip
+  a +0 hand crossbow
+(19, 5, D:11)
+  a +0 dagger
+(19, 10, D:11)
+  a runed quarterstaff
+(19, 11, D:11)
+  107 arrows
+  a +0 glaive
+  a +3 halberd
+(20, 6, D:11)
+  a cursed -1 leather armour
+  a +0 hand axe
+(20, 9, D:11)
+  a +0 short sword
+(20, 10, D:11)
+  a scroll labeled IMICUA QEIMA
+  a scroll labeled QIUWNA ABUESOL
+  a scroll labeled AFI ITWYBITIU
+(20, 11, D:11)
+  a potion of brilliance
+  an uncursed ring of wizardry
+  a potion of mutation
+  a scroll of amnesia
+  a +2 ring of intelligence
+  12 scrolls of remove curse
+(29, 24, D:11)
+  a +0 leather armour
+(47, 10, D:11)
+  a large rock
+  a +0 hand axe
+(47, 11, D:11)
+  a large rock
+(59, 16, D:11)
+  a +0 robe
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(30, -4, Lair:1)
+  15 gold pieces
+(40, -9, Lair:1)
+  a war axe
+(45, -29, Lair:1)
+  a spiny frog skeleton
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a basilisk skeleton
+(3, -1, Lair:2)
+  a spiny frog skeleton
+(4, -33, Lair:2)
+  a rapier
+(24, -26, Lair:2)
+  a book of Ice
 
