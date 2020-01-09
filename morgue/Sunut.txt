@@ -2,107 +2,129 @@
 
 Game seed: 9393068684836910037
 
-Sunut the Chopper (Hill Orc Fighter)                Turns: 5868, Time: 00:55:41
+Sunut the Apostle (Hill Orc Fighter)               Turns: 15185, Time: 03:06:59
 
-Health: 71/71      AC: 12    Str: 23    XL:     8   Next: 9%
-Magic:  8/8        EV:  5    Int:  8    God:    Beogh 34 (0)
-Gold:   114        SH:  9    Dex: 12    Spells: 6/7 levels left
+Health: 97/97      AC: 17    Str: 24    XL:     11   Next: 20%
+Magic:  18/18      EV:  6    Int:  8    God:    Beogh 133 (0)
+Gold:   356        SH: 11    Dex: 13    Spells: 8/10 levels left
 
-rFire    . . .     SeeInvis .   e - +0 war axe
+rFire    . . .     SeeInvis .   j - +0 hunting sling
 rCold    . . .     Gourm    .   v - +0 shield
-rNeg     . . .     Faith    .   t - +0 chain mail
-rPois    .         Spirit   .   x - +0 helmet
+rNeg     . . .     Faith    .   R - +0 plate armour
+rPois    .         Spirit   .   x - +1 helmet
 rElec    .         Reflect  .   C - scarf {cloud immunity}
-rCorr    .         Harm     .   (no gloves)
-MR       .....                  z - +1 pair of boots
+rCorr    .         Harm     .   P - +0 pair of gloves
+MR       .....                  J - +2 pair of boots
 Stlth    ..........             (no amulet)
-HPRegen  0.21/turn              m - +4 ring of strength
-MPRegen  0.11/turn              (no ring)
+HPRegen  0.26/turn              r - ring of wizardry
+MPRegen  0.16/turn              m - +4 ring of strength
 
 @: no status effects
-A: no striking features
-a: Renounce Religion
+A: walk on water
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Renounce
+Religion
 
 
-You are on level 4 of the Dungeon.
+You are on level 8 of the Dungeon.
 You worship Beogh.
-Beogh is aware of your devotion.
-You are not hungry.
+Beogh is extremely pleased with you.
+You are hungry.
 
-You have visited 1 branch of the dungeon, and seen 4 of its levels.
+You have visited 2 branches of the dungeon, and seen 11 of its levels.
+You have also visited: Sewer.
 
-You have collected 272 gold pieces.
+You have collected 514 gold pieces.
 You have spent 158 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
  a - a +0 dagger of draining
- b - a +2 dagger of venom
- c - a +2 whip of electrocution
- d - a +1 hand axe of holy wrath
- e - a +0 war axe (weapon)
- f - a +0 hunting sling
+ b - a +1 dagger of protection
+ c - a +2 dagger of freezing
+ d - a +2 dagger of venom
+ e - a +2 whip of electrocution
+ f - a +1 hand axe of holy wrath
+ g - a +0 war axe
+ h - a +0 trident
+ i - a +0 blowgun
+ j - a +0 hunting sling (weapon)
 Missiles
- i - 41 stones (quivered)
- l - 20 bolts
- r - 79 arrows
- A - a throwing net {!f}
- B - 30 sling bullets
+ A - 164 stones (quivered)
+ B - 96 sling bullets
  D - 5 tomahawks
- G - 22 poisoned needles
+ G - 28 poisoned needles
+ U - a throwing net {!f}
+ Y - 5 needles of confusion
 Armour
- t - a +0 chain mail (worn)
+ s - a large shield
+ t - a +0 chain mail
  v - a +0 shield (worn)
- x - a +0 helmet (worn)
- z - a +1 pair of boots (worn)
+ x - a +1 helmet (worn)
  C - a scarf of cloud immunity (worn)
+ J - a +2 pair of boots (worn)
+ P - a +0 pair of gloves (worn)
+ R - a +0 plate armour (worn)
 Jewellery
- m - a +4 ring of strength (left hand)
+ m - a +4 ring of strength (right hand)
+ r - a ring of wizardry (left hand)
+ V - an uncursed ring of resist corrosion
+ W - a +2 ring of protection
 Wands
- y - a wand of random effects (14)
+ l - a wand of polymorph (4)
+ y - a wand of random effects (19)
+ T - a wand of disintegration (14)
+ X - a wand of iceblast (7)
 Scrolls
- h - 5 scrolls of remove curse
- k - 3 scrolls of teleportation
- p - a scroll of magic mapping
- s - a scroll labeled ISIYTTUFRE
+ k - 11 scrolls of teleportation
+ p - 5 scrolls of remove curse
  w - a scroll labeled VICKOTHRAUGI
+ E - a scroll labeled NEATYTHR TEUSI
+ O - a scroll labeled AFI ITWYBITIU
+ S - 2 scrolls of magic mapping
+ Z - a scroll labeled QIUWNA ABUESOL
 Potions
- g - a potion of haste
- j - 2 potions of magic
- n - a potion of curing
+ n - 2 potions of curing
  o - a potion of mutation
- q - 2 potions of cancellation
- E - a potion of berserk rage
- H - a potion of might
+ q - 3 potions of cancellation
+ u - a potion of haste
+ z - 2 potions of magic
+ H - 4 potions of might
+ K - 2 potions of flight
+ L - 8 potions of heal wounds
+ M - a potion of agility
+ N - a potion of brilliance
+ Q - a potion of lignification
 Comestibles
- u - 2 chunks of flesh
- F - 5 rations
+ F - 14 rations
 
 
    Skills:
- + Level 6.7 Fighting
- + Level 1.1 Short Blades
- - Level 7.1(7.4) Axes
- - Level 2.3(4.4) Maces & Flails
-   Level 1.0(3.8) Polearms
- - Level 3.2 Slings
- - Level 3.2 Armour
- - Level 3.2 Shields
- - Level 2.0 Necromancy
- - Level 1.0 Evocations
+ - Level 9.3 Fighting
+ + Level 2.1 Short Blades
+ - Level 7.1(8.5) Axes
+ - Level 3.8(5.4) Maces & Flails
+ - Level 4.3(5.8) Polearms
+ - Level 4.0(4.9) Slings
+ - Level 4.1(5.0) Throwing
+ * Level 3.4 Armour
+ - Level 2.0 Dodging
+ - Level 6.7 Shields
+ * Level 2.2 Necromancy
+ - Level 10.1 Invocations
+ - Level 5.0 Evocations
 
 
-You have 6 spell levels left.
+You have 8 spell levels left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
-a - Animate Skeleton      Necr           N/A          100%        1    50
+a - Animate Skeleton      Necr           N/A          97%         1    50
+b - Pain                  Necr           3 (25)       97%         1    50
 
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
- Pain                     Necr           3 (25)       100%        1    50
  Regeneration             Chrm/Necr      1 (200)      100%        3    150
  Vampiric Draining        Necr           3 (200)      100%        3    150
  Animate Dead             Necr           N/A          100%        4    250
@@ -111,116 +133,197 @@ Your spell library contains the following spells:
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (4/15)            
-Temple: D:4-7       
+Dungeon (10/15)            Temple (1/1) D:5             Orc (0/2) D:9
+  Lair: D:8-11      
 
 Altars:
 Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
 Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
 Okawaru
+Qazlal
+Ru
 Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
 
 Shops:
 D:4 (
 
+Annotations:
+D:7 2 runed translucent doors insect vault
+D:8 make a stash, give items
+
 Message History
 
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-There is a stone staircase leading up here.
-You see here a +0 club.
-You see here a +0 dagger.
-Things that are here:
-a +0 spear; a +0 short sword
-Things that are here:
-a +0 spear; a +0 robe; a +0 dagger
-There is a stone staircase leading up here.
-Items here: ))) [[
-a +0 leather armour; a cursed -2 club; a +0 scale mail; a +0 war axe; a +0 mace
-Things that are here:
-a +0 robe; a +0 dagger
-There is a stone staircase leading down here.
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
-e - a +0 war axe (weapon)
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
 Okay, then.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Done exploring.
+Unknown command.
+Done exploring.
+Search for what [Enter for "."]? .
+New annotation for D:8 (include '!' for warning): make a stash
+Okay, then.
+Current level annotation: make a stash
+New annotation for D:8 (include '!' for warning): make a stash, give items
+Saving game... please wait.
+Level annotation: make a stash, give items
+Welcome back, Sunut the Hill Orc Fighter.
+Beogh says: Drown the unbelievers in a sea of blood!
+Press ? for a list of commands and other information.
+Char dumped to '/Users/demo/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Sunut.txt'.
 Saving game... please wait.
 
-..#.....##  #.........#  #............
-.........## #.......#.####............
-..........# #.........................
-..........###<......#.................
-..........##.)........................
-..........##.#############......).....
-......)......#           #............
-..........####           #..........<.
-.........##              #.........###
-........#########        ##...........
-......##......[.#         ##..........
-......##........#######   #.)##.......
-.................##@..##  #.###.......
-.>....#................## #)# #.......
-########................###.# #.......
-       #..............[.##))# #.......
-       #................##)## #.......
-       #...............)[<.#  #.......
-       #..####...##...######  #.......
-     ###..#  ########.#       #.......
-    ##....#     ##....#       #.......
-    #..#.##     #..####       ##......
-    #....#      #.##           ##.....
-#####..###      #.#             #..##.
+....##....#####..#.#..#.........#.
+##...##.###.......................
+ #.############.....##............
+ #.........#  #..#.###.......:....
+ #.........####......##.......[.#.
+ #.........[[..................##.
+ #..[......####.###.[<..###.#####.
+ #..........###.# ##....#...#  #..
+###.......#..##.#  #...##.#.#  #..
+.##..##...##.##### #..<...#.# ##..
+.##..#..#..#.....####....##.###...
+.##.....#.##..#..@..##............
+.#...#....##..#.###..###........~~
+.....###..###.#...##..##........~~
+...).......?#.##...##..#..#.~.~~~~
+...##.......#..#....##.#...~~.~...
+...####.....##.##....#.##.~~~~~...
+....##.......#..##...#..#..~~~~~~.
+.....#.......##..###....#...~)..~~
+..............##...####.#..#~..~.~
+...............###).....#.....~~~.
+.....##..........####.....###..#..
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
-  A phantom (D:4)
-  2 scorpions
+  Pikel (D:6)
+  2 polar bears
+  A hippogriff (D:7)
+  A wraith (D:6)
+  Menkaure (D:7)
+  2 phantoms
+  5 ice beasts
+  4 slaves
+  An orc warrior (D:8)
+  3 sky beasts
+  2 ogres
+  3 wolves
+  2 big kobolds (Sewer)
+  2 bullfrogs (D:8)
+  4 scorpions
+  7 killer bees
+  4 electric eels (D:8)
   2 howler monkeys (D:3)
-  A hound (D:4)
-  2 orc priests (D:4)
-  3 orc wizards
+  2 crimson imps
+  A quasit (D:5)
+  4 hounds
+  5 orc priests
+  A centaur skeleton (D:6)
+  7 orc wizards
   2 gnoll shamans (D:3)
   2 iguanas
   Jessica (D:3)
+  5 worker ants
+  A killer bee zombie (D:8)
+  A centaur simulacrum (D:8)
   2 hound skeletons (D:4)
   Robin (D:2)
-  13 gnolls
-  3 adders
-  6 worms
+  17 gnolls
+  7 adders
+  5 river rats (Sewer)
+  A shadow imp (D:5)
+  A white imp (D:8)
+  A worker ant simulacrum (D:8)
+  3 oozes
+  2 adder skeletons
+  7 worms
+  An adder simulacrum (D:8)
   4 leopard geckos
-  21 orcs
-  3 ball pythons
-  3 giant cockroaches
+  28 orcs
+  5 ball pythons
+  5 giant cockroaches
   16 goblins
   10 hobgoblins
-  9 jackals
-  3 quokkas
+  12 jackals
+  5 quokkas
   9 bats
-  6 kobolds
+  5 goblin skeletons (D:5)
+  5 hobgoblin zombies (D:5)
+  21 kobolds
+  A kobold skeleton (D:5)
   A leopard gecko skeleton (D:4)
-  9 rats
-135 creatures vanquished.
+  An orc skeleton (D:5)
+  An orc zombie (D:5)
+  25 rats
+281 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Snorg (D:10)
+  A two-headed ogre (D:9)
+  A death yak (D:7)
+  Joseph (D:9)
+  A troll (D:9)
+  3 yaks (D:7)
+  2 orc warriors
+  5 ice beasts
+  3 ogres (D:9)
+  A big kobold (D:9)
+  8 killer bees
+  2 howler monkeys (D:7)
+  A hound (D:9)
+  An orc priest (D:5)
+  2 worker ants
+  3 adders
+  A river rat (Sewer)
+  A shadow imp (D:7)
+  A white imp (D:8)
+  An orc (D:9)
+  A quokka (D:7)
+  2 ball pythons
+  A frilled lizard (Sewer)
+  4 kobolds
+  3 rats (Sewer)
+51 creatures vanquished.
 
 Vanquished Creatures (others)
-  An orc priest (D:4)
-1 creature vanquished.
+  4 orc priests
+  5 orcs
+9 creatures vanquished.
 
-Grand Total: 136 creatures vanquished
+Grand Total: 341 creatures vanquished
 
 Notes
 Turn   | Place    | Note
 -------+----------+-------------------------------------------
      0 | D:1      | Sunut the Hill Orc Fighter began the quest for the Orb.
      0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
-   371 | D:1      | Reached skill level 3 in Axes
    371 | D:1      | Reached XP level 2. HP: 27/27 MP: 2/2
    412 | D:1      | Entered wizard mode.
    949 | D:1      | Reached XP level 3. HP: 33/33 MP: 3/3
    955 | D:1      | Found a shattered altar of Ashenzari.
   1088 | D:1      | Reached skill level 1 in Maces & Flails
-  1622 | D:2      | Reached skill level 4 in Axes
   1927 | D:2      | Reached XP level 4. HP: 41/41 MP: 4/4
   2774 | D:2      | Reached skill level 1 in Slings
   2816 | D:2      | Reached skill level 1 in Polearms
@@ -240,45 +343,112 @@ Turn   | Place    | Note
   4104 | D:3      | Reached skill level 1 in Necromancy
   4193 | D:4      | Noticed a phantom
   4265 | D:4      | Killed a phantom
-  4265 | D:4      | Reached skill level 6 in Axes
   4302 | D:4      | Reached XP level 7. HP: 58/60 MP: 7/7
   4388 | D:3      | Reached skill level 5 in Fighting
   4485 | D:4      | Became a worshipper of Beogh the Brigand
-  5250 | D:4      | Reached skill level 7 in Axes
   5408 | D:4      | Reached XP level 8. HP: 69/70 MP: 8/8
   5462 | D:4      | Reached * piety under Beogh
   5559 | D:4      | Found Xipu's Weapon Shoppe.
   5568 | D:4      | Bought a +2 dagger of venom for 158 gold pieces
+  5919 | D:5      | Entered Level 5 of the Dungeon
+  6004 | D:5      | Found a staircase to the Ecumenical Temple.
+  6235 | D:5      | Found a glowing drain.
+  6252 | Sewer    | Entered a sewer
+  6365 | Sewer    | Reached ** piety under Beogh
+  6746 | Sewer    | Reached skill level 1 in Invocations
+  6860 | Sewer    | Reached skill level 5 in Shields
+  7347 | D:5      | Reached *** piety under Beogh
+  7347 | D:5      | Reached skill level 2 in Invocations
+  7590 | D:5      | Reached skill level 1 in Throwing
+  7608 | D:5      | Found a glowing golden altar of the Shining One.
+  8068 | Temple   | Entered the Ecumenical Temple
+  8298 | D:5      | Reached skill level 3 in Invocations
+  8472 | D:5      | Reached skill level 4 in Invocations
+  8472 | D:5      | Reached XP level 9. HP: 76/78 MP: 10/12
+  9057 | D:6      | Reached skill level 5 in Invocations
+  9325 | D:6      | Reached skill level 6 in Invocations
+  9897 | D:6      | Noticed Blork the orc
+ 10072 | D:6      | Found a glowing golden altar of the Shining One.
+ 10582 | D:7      | Noticed Pikel
+ 10595 | D:6      | Killed Pikel
+ 10595 | D:6      | Reached skill level 7 in Invocations
+ 10946 | D:7      | Found a runed translucent door.
+ 10950 | D:7      | Found a runed translucent door.
+ 10982 | D:7      | Reached skill level 8 in Invocations
+ 11133 | D:7      | Reached **** piety under Beogh
+ 11276 | D:7      | Found a shadowy altar of Dithmenos.
+ 11280 | D:7      | Noticed Menkaure
+ 11282 | D:7      | Killed Menkaure
+ 11372 | D:7      | Found a burning altar of Makhleb.
+ 11374 | D:7      | Found a glowing silver altar of Zin.
+ 11374 | D:7      | Noticed a green death
+ 11374 | D:7      | Noticed an angel
+ 11381 | D:7      | You fall through a shaft for 3 floors!
+ 11381 | D:10     | Entered Level 10 of the Dungeon
+ 11720 | D:10     | Gained Bolgrim as an ally
+ 11740 | D:10     | Reached XP level 10. HP: 88/88 MP: 16/16
+ 11795 | D:10     | Noticed Snorg
+ 11805 | D:10     | Your ally Bolgrim died
+ 11805 | D:10     | Killed Snorg
+ 11805 | D:10     | Reached skill level 10 in Invocations
+ 11806 | D:10     | His name was Bolgrim Snorg-bane, Priest of Beogh!
+ 11806 | D:10     | or Snorg-distracter, whatever.
+ 12160 | D:8      | Noticed Joseph
+ 12165 | D:9      | Killed Joseph
+ 12544 | D:8      | Gained Bogbrand as an ally
+ 12741 | D:9      | Gained Orkrul as an ally
+ 13023 | D:8      | Reached ***** piety under Beogh
+ 13607 | D:8      | Noticed a two-headed ogre
+ 13617 | D:9      | Killed a two-headed ogre
+ 14182 | D:7      | Reached XP level 11. HP: 95/95 MP: 18/18
+ 14200 | D:8      | Noticed a death yak
+ 14314 | D:7      | Killed a death yak
+ 14504 | D:8      | Reached skill level 5 in Evocations
+ 14838 | D:8      | Learned a level 1 spell: Pain
 
-Skill      XL: |  1  2  3  4  5  6  7 |
----------------+----------------------+-----
-Axes           |  3     4        6  7 |  7.1
-Fighting       |     4              6 |  6.7
-Maces & Flails |        1           2 |  2.3
-Slings         |           1  2     3 |  3.2
-Polearms       |           1          |  1.0
-Short Blades   |              1       |  1.1
-Evocations     |                 1    |  1.0
-Necromancy     |                 1  2 |  2.0
-Armour         |                      |  3.2
-Shields        |                      |  3.2
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Axes           |  3     4        6  7             |  7.1
+Fighting       |     4              6     7  8  9 |  9.3
+Maces & Flails |        1           2        3    |  3.8
+Slings         |           1  2     3        4    |  4.0
+Polearms       |           1           2     4    |  4.3
+Short Blades   |              1        2          |  2.1
+Evocations     |                 1        2  4  5 |  5.0
+Necromancy     |                 1  2             |  2.2
+Shields        |                       5     6    |  6.7
+Invocations    |                       4  8 10    | 10.1
+Throwing       |                       2  3  4    |  4.1
+Dodging        |                          2       |  2.0
+Armour         |                                  |  3.4
 
-Action                   |  1- 3 |  4- 6 |  7- 9 || total
--------------------------+-------+-------+-------++-------
-Melee: War axe           |  8071 | 12160 |  8102 || 28333
-       Flail             |  8000 |       |       ||  8000
-       Hand axe          |       |  4011 |  4005 ||  8016
-       Whip              |       |       |  4058 ||  4058
-       Dagger            |       |       |     1 ||     1
- Fire: Hunting sling     |       |    98 |    60 ||   158
-Throw: Throwing net      |       |     1 |       ||     1
-Invok: Convert to Beogh  |       |       |     1 ||     1
-Evoke: Wand              |       |     2 |       ||     2
-  Use: Potion            |     1 |       |       ||     1
-       Scroll            |       |     5 |     5 ||    10
-  Eat: Chunk             |     3 |     7 |     6 ||    16
-Armor: Scale mail        |  2453 |       |       ||  2453
-       Chain mail        |       |  4885 |  5246 || 10131
-Dodge: Dodged            |  2784 |  1661 |  1940 ||  6385
-Block: Shield            |  4641 |  5441 |  5042 || 15124
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |  8071 | 12160 |  8122 |    17 || 28370
+       Flail             |  8000 |       |       |       ||  8000
+       Hand axe          |       |  4011 |  8043 |    12 || 12066
+       Whip              |       |       |  8194 |    68 ||  8262
+       Dagger            |       |       |    54 |    34 ||    88
+       Spear             |       |       |     8 |       ||     8
+       Trident           |       |       |     1 |       ||     1
+ Fire: Hunting sling     |       |    98 |   214 |    45 ||   357
+       Blowgun           |       |       |    26 |    38 ||    64
+Throw: Throwing net      |       |     1 |       |       ||     1
+       Tomahawk          |       |       |     5 |     7 ||    12
+       Stone             |       |       |     3 |       ||     3
+ Cast: Animate Skeleton  |       |       |    21 |     2 ||    23
+Invok: Convert to Beogh  |       |       |     1 |       ||     1
+       Recall Orcish Fol |       |       |     1 |    20 ||    21
+       Stop Recall       |       |       |     1 |     1 ||     2
+Evoke: Wand              |       |     2 |     2 |     7 ||    11
+  Use: Potion            |     1 |       |     4 |     1 ||     6
+       Scroll            |       |     5 |     8 |     5 ||    18
+ Stab: Distracted        |       |       |     1 |     3 ||     4
+  Eat: Chunk             |     3 |     7 |    13 |    11 ||    34
+       Ration            |       |       |     4 |       ||     4
+Armor: Scale mail        |  2453 |       |       |       ||  2453
+       Chain mail        |       |  4885 |  7635 |       || 12520
+       Plate armour      |       |       |    45 |   105 ||   150
+Dodge: Dodged            |  2784 |  1661 |  3105 |    58 ||  7608
+Block: Shield            |  4641 |  5441 |  7858 |   111 || 18051
 
