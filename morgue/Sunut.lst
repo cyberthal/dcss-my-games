@@ -332,7 +332,6 @@ Level 11 of the Dungeon
   a fan of gales (520 gold)
   a lightning rod (4/4) (520 gold)
   a fan of gales (520 gold)
-  a sack of spiders (260 gold)
 (0, 0, D:11)
   a large rock
 (11, 11, D:11)
@@ -340,6 +339,7 @@ Level 11 of the Dungeon
 (16, 11, D:11)
   a +0 flail
 (17, 11, D:11)
+  a shield
   a +1 cloak of cold resistance
   a plate armour
 (18, 6, D:11)
@@ -351,7 +351,7 @@ Level 11 of the Dungeon
   a tomahawk of returning
   a throwing net {!f}
   a +2 dagger of freezing
-  98 bolts
+  119 bolts
   a +0 falchion of protection
   a +0 blowgun
   a +0 dagger of draining
@@ -360,7 +360,6 @@ Level 11 of the Dungeon
   a +0 dagger of draining
 (19, 4, D:11)
   a +0 whip
-  a +0 hand crossbow
 (19, 5, D:11)
   a +0 dagger
 (19, 10, D:11)
@@ -374,21 +373,18 @@ Level 11 of the Dungeon
   a +0 hand axe
 (20, 9, D:11)
   a +0 short sword
-(20, 10, D:11)
-  a scroll labeled QIUWNA ABUESOL
-  a scroll labeled AFI ITWYBITIU
-  a scroll labeled IMICUA QEIMA
 (20, 11, D:11)
   a ring of ice
-  an uncursed ring of wizardry
   an uncursed ring of wizardry
   a potion of mutation
   a scroll of amnesia
   a +2 ring of intelligence
-  14 scrolls of remove curse
+  15 scrolls of remove curse
+  a scroll of torment
   a scroll of summoning
   2 scrolls of noise
   a potion of brilliance
+  an uncursed ring of wizardry
 (29, 24, D:11)
   a +0 leather armour
 (47, 10, D:11)
@@ -428,30 +424,48 @@ Level 3 of the Lair of Beasts
   a battleaxe
 
 Level 4 of the Lair of Beasts
-(0, 9, Lair:4)
+(0, 0, Lair:4)
+  a +0 flail
+(2, 8, Lair:4)
   a chain mail
-(8, 1, Lair:4)
+(10, 0, Lair:4)
   a +0 war axe
-(11, -11, Lair:4)
+(13, -12, Lair:4)
   a trident
-(19, 15, Lair:4)
+(21, 14, Lair:4)
   a ring mail
-(20, 44, Lair:4)
+(22, 43, Lair:4)
   a chain mail
-(24, 40, Lair:4)
+(26, 39, Lair:4)
   a rapier
-(24, 45, Lair:4)
+(26, 44, Lair:4)
   a morningstar
-(42, 11, Lair:4)
+(44, 10, Lair:4)
   a falchion
 
 Level 5 of the Lair of Beasts
-(0, 0, Lair:5)
+(1, -43, Lair:5)
+  a dagger
+(6, -54, Lair:5)
+  a blink frog skeleton
+(10, -57, Lair:5)
   a leather armour
-(35, 17, Lair:5)
-  a sling bullet
-(35, 18, Lair:5)
-  a sling bullet
-(43, 12, Lair:5)
-  19 gold pieces
+(13, -33, Lair:5)
+  a +0 dagger
+(35, -37, Lair:5)
+  a long sword
+(48, -56, Lair:5)
+  a +0 dagger
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  2 poisoned needles
+(0, 2, Lair:6)
+  2 poisoned needles
+(0, 3, Lair:6)
+  a poisoned needle
+(1, 9, Lair:6)
+  9 gold pieces
+(8, 8, Lair:6)
+  15 gold pieces
 
