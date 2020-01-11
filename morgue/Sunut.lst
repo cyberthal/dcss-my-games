@@ -337,6 +337,7 @@ Level 11 of the Dungeon
 (11, 11, D:11)
   a flail
 (16, 11, D:11)
+  +0 acid dragon scales
   a +0 flail
 (17, 11, D:11)
   a shield
@@ -347,11 +348,12 @@ Level 11 of the Dungeon
 (18, 10, D:11)
   a runed flail
   a runed flail
+  a runed flail
 (18, 11, D:11)
   a tomahawk of returning
   a throwing net {!f}
   a +2 dagger of freezing
-  119 bolts
+  134 bolts
   a +0 falchion of protection
   a +0 blowgun
   a +0 dagger of draining
@@ -365,7 +367,7 @@ Level 11 of the Dungeon
 (19, 10, D:11)
   a runed quarterstaff
 (19, 11, D:11)
-  135 arrows
+  151 arrows
   a +0 glaive
   a +3 halberd
 (20, 6, D:11)
@@ -373,6 +375,8 @@ Level 11 of the Dungeon
   a +0 hand axe
 (20, 9, D:11)
   a +0 short sword
+(20, 10, D:11)
+  a triangular zirconium amulet
 (20, 11, D:11)
   a ring of ice
   an uncursed ring of wizardry
@@ -394,6 +398,27 @@ Level 11 of the Dungeon
   a large rock
 (59, 16, D:11)
   a +0 robe
+
+Level 12 of the Dungeon
+(7, 15, D:12)
+  a whip
+(10, 18, D:12)
+  a +0 short sword
+(17, 8, D:12)
+  a +0 short sword
+(20, 6, D:12)
+  a club
+(21, 11, D:12)
+  a +0 trident
+(26, 30, D:12)
+  a +0 chain mail
+  a +0 hand axe
+(36, 18, D:12)
+  a ring mail
+(50, -5, D:12)
+  a short sword
+(65, 13, D:12)
+  a hippogriff skeleton
 
 the Ecumenical Temple
 
@@ -444,28 +469,30 @@ Level 4 of the Lair of Beasts
   a falchion
 
 Level 5 of the Lair of Beasts
-(1, -43, Lair:5)
+(0, 0, Lair:5)
   a dagger
-(6, -54, Lair:5)
-  a blink frog skeleton
-(10, -57, Lair:5)
+(9, -14, Lair:5)
   a leather armour
-(13, -33, Lair:5)
+(12, 10, Lair:5)
   a +0 dagger
-(35, -37, Lair:5)
+(34, 6, Lair:5)
   a long sword
-(48, -56, Lair:5)
+(47, -13, Lair:5)
   a +0 dagger
 
 Level 6 of the Lair of Beasts
 (0, 0, Lair:6)
-  2 poisoned needles
-(0, 2, Lair:6)
-  2 poisoned needles
-(0, 3, Lair:6)
-  a poisoned needle
-(1, 9, Lair:6)
-  9 gold pieces
-(8, 8, Lair:6)
+  a plate armour
+(18, -2, Lair:6)
+  a scroll of random uselessness
+(35, 18, Lair:6)
+  a stone
+(36, 17, Lair:6)
+  a stone
+(37, 1, Lair:6)
+  a scroll labeled FANASO CA OHADGH
+(40, 13, Lair:6)
+  a stone
+(52, 12, Lair:6)
   15 gold pieces
 
