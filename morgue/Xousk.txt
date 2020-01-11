@@ -1,0 +1,376 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13965250206695313955
+
+Xousk the Fighter (Hill Orc Fighter)                Turns: 9187, Time: 01:31:59
+
+Health: 93/93      AC: 15    Str: 23    XL:     10   Next: 19%
+Magic:  11/11      EV:  3    Int:  8    God:    Beogh 53 (0)
+Gold:   338        SH: 15    Dex: 10    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   g - +0 hunting sling
+rCold    . . .     Gourm    .   h - +0 large shield
+rNeg     . . .     Faith    .   V - +0 plate armour
+rPois    .         Spirit   .   t - +1 helmet
+rElec    .         Reflect  .   S - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.25/turn              w - ring of attention (curse)
+MPRegen  0.12/turn              N - ring of flight
+
+@: no status effects
+A: no striking features
+a: Smiting, Renounce Religion, Evoke Flight
+
+
+You are on level 7 of the Dungeon.
+You worship Beogh.
+Beogh is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 8 of its levels.
+
+You have collected 338 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger of protection
+ b - a +1 whip of electrocution
+ c - a +0 flail of protection
+ d - a +0 flail of draining
+ e - a +0 war axe
+ f - a +0 spear
+ g - a +0 hunting sling (weapon)
+ j - a glowing flail
+ z - a runed dagger
+ C - a runed dagger
+ L - a +2 scythe of venom
+ R - a runed whip
+ W - a +1 whip of flaming
+Missiles
+ p - 163 stones
+ q - 72 sling bullets (quivered)
+ D - 10 poisoned needles
+ F - 24 bolts
+ H - 8 javelins
+ O - 4 tomahawks
+Armour
+ h - a +0 large shield (worn)
+ t - a +1 helmet (worn)
+ x - a +0 shield
+ S - a +0 cloak (worn)
+ V - a +0 plate armour (worn)
+ Y - a +0 troll leather armour
+Magical Staves
+ K - an uncursed staff of conjuration
+Jewellery
+ w - a cursed ring of attention (left hand)
+ J - an uncursed ring of magical power
+ N - a ring of flight (right hand)
+Wands
+ r - a wand of acid (6)
+ s - a wand of flame (14)
+ P - a wand of iceblast (6)
+ Z - a wand of paralysis (3)
+Scrolls
+ k - a scroll labeled YCHEUMUGHE
+ l - a scroll labeled BUALIRYOPS
+ m - a scroll of immolation
+ n - 3 scrolls of remove curse
+ v - a scroll labeled EXASUZX EK KINT
+ I - a scroll of amnesia
+ M - a scroll of teleportation
+Potions
+ i - 2 potions of curing
+ o - a potion of flight
+ u - a potion of magic
+ y - 3 potions of might
+ A - a potion of brilliance
+ B - a potion of haste
+ E - a glowing golden potion
+ G - a silvery potion
+ Q - 3 potions of cancellation
+ T - a sedimented brown potion
+ X - an amethyst potion
+Comestibles
+ U - 9 rations
+
+
+   Skills:
+ - Level 10.3 Fighting
+ - Level 1.0 Short Blades
+ - Level 7.7(9.5) Axes
+ - Level 5.5(6.9) Maces & Flails
+ - Level 4.4(6.1) Polearms
+ - Level 3.2(3.5) Slings
+ - Level 2.1(3.0) Throwing
+ - Level 5.1 Armour
+ * Level 0.9 Dodging
+ - Level 5.7 Shields
+ * Level 0.9 Invocations
+ + Level 2.1 Evocations
+
+
+You have 9 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Beastly Appendage        Tmut           0 (50)       100%        1    50
+ Magic Dart               Conj           0 (25)       100%        1    50
+ Blink                    Tloc           N/A          100%        2    100
+ Call Imp                 Summ           0 (100)      100%        2    100
+ Slow                     Hex            0 (100)      100%        2    100
+ Sticks to Snakes         Tmut           0 (100)      100%        2    100
+ Conjure Flame            Conj/Fire      0 (100)      100%        3    150
+ Mephitic Cloud           Conj/Pois/Air  0 (100)      100%        3    150
+ Spider Form              Tmut/Pois      0 (200)      100%        3    150
+ Ice Form                 Ice/Tmut       0 (100)      100%        4    250
+ Blade Hands              Tmut           0 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+
+Annotations:
+D:3 grinder!, 1 exclusion, Grinder
+D:6 1 runed translucent door: yiuf. make stash, exclusion: door
+D:7 loot
+
+Message History
+
+a +0 halberd; a +0 chain mail
+q - 72 sling bullets (gained 1)
+Things that are here:
+a +0 halberd; a +0 chain mail
+Key pressed, stopping explore.
+Autopickup is now off.
+Done exploring.
+Done exploring.
+Autopickup is now on.
+Done exploring.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Current level annotation: loot
+New annotation for D:7 (include '!' for warning): loot
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Current level annotation: 1 runed translucent door
+New annotation for D:6 (include '!' for warning): 1 runed translucent door:
+yiuf. make stash
+Returning to the game...
+Saving game... please wait.
+
+ ###
+ #.##          ###
+ #..#          #.#
+ #..#          #.#
+ #..#          #.#
+ #..#          #.##
+ #..#          #..##
+##@.#      ######..##
+#...##    ##..###...#
+##...#   ##..........
+ #...### #...........
+ ##....###...........
+  ##....###.........#
+   ##...# ###...)...#
+    ##..#   ##.......
+     #..#    #...###.
+     #..#    ##..# ##
+     #..#     #..#  #
+     #).#     #..#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Pikel (D:5)
+  A cyclops (D:7)
+  A troll (D:6)
+  Sigmund (D:5)
+  Eustachio (D:5)
+  Edmund (D:5)
+  2 orc warriors
+  A slave (D:4)
+  2 phantoms
+  An ogre (D:6)
+  3 centaurs
+  3 bullfrogs
+  A water moccasin zombie (D:7)
+  4 killer bees (D:7)
+  2 scorpions
+  2 howler monkeys
+  5 crimson imps
+  2 centaur zombies
+  A bullfrog skeleton (D:4)
+  A jelly (D:5)
+  2 orc priests
+  4 hounds
+  Natasha (twice) (D:3)
+  Terence (D:2)
+  5 iguanas
+  4 worker ants
+  A killer bee zombie (D:6)
+  A hound skeleton (D:6)
+  Robin (D:2)
+  A howler monkey skeleton (D:7)
+  8 gnolls
+  12 adders
+  A shadow imp (D:6)
+  An ooze (D:1)
+  2 adder skeletons
+  2 worms (D:2)
+  2 dart slugs
+  2 leopard geckos
+  8 orcs
+  4 giant cockroaches
+  15 goblins
+  7 hobgoblins
+  10 jackals
+  3 kobolds
+  4 quokkas
+  2 ball pythons
+  A ball python skeleton (D:5)
+  5 bats
+  2 frilled lizards (D:3)
+  A jackal skeleton (D:5)
+  A leopard gecko zombie (D:5)
+  3 rats
+154 creatures vanquished.
+
+Vanquished Creatures (others)
+  A howler monkey (D:5)
+  A bullfrog zombie (D:5)
+  An ooze (D:5)
+  3 orcs (D:4)
+  A ball python skeleton (D:4)
+7 creatures vanquished.
+
+Grand Total: 161 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xousk the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   206 | D:1      | Reached XP level 2. HP: 27/27 MP: 2/2
+   455 | D:1      | Reached skill level 4 in Fighting
+   750 | D:1      | Entered wizard mode.
+   827 | D:2      | Reached XP level 3. HP: 30/33 MP: 3/3
+  1207 | D:2      | Reached XP level 4. HP: 41/41 MP: 4/4
+  1299 | D:2      | Reached skill level 5 in Axes
+  1382 | D:2      | Noticed Robin
+  1407 | D:2      | Killed Robin
+  1738 | D:3      | Noticed Terence
+  2223 | D:2      | Killed Terence
+  2223 | D:2      | Reached XP level 5. HP: 39/47 MP: 5/5
+  2310 | D:2      | Reached skill level 1 in Maces & Flails
+  2310 | D:2      | Reached skill level 1 in Slings
+  2319 | D:3      | Noticed Natasha
+  2326 | D:3      | Killed Natasha
+  2326 | D:3      | Reached skill level 1 in Short Blades
+  2326 | D:3      | Reached skill level 1 in Evocations
+  2875 | D:3      | Noticed Natasha
+  2877 | D:3      | Killed Natasha
+  2877 | D:3      | Reached skill level 5 in Fighting
+  2877 | D:3      | Reached XP level 6. HP: 46/56 MP: 6/6
+  2991 | D:3      | Noticed Grinder
+  3052 | D:4      | Became a worshipper of Beogh the Brigand
+  3190 | D:4      | Reached skill level 6 in Fighting
+  3226 | D:4      | Found a staircase to the Ecumenical Temple.
+  3238 | Temple   | Entered the Ecumenical Temple
+  3560 | Temple   | Reached XP level 7. HP: 55/64 MP: 7/7
+  4314 | D:5      | Entered Level 5 of the Dungeon
+  4410 | D:5      | Noticed Edmund
+  4592 | D:5      | Noticed Sigmund
+  4605 | D:5      | Reached skill level 1 in Throwing
+  4644 | D:5      | Killed Sigmund
+  4793 | D:5      | Reached skill level 7 in Fighting
+  4892 | D:5      | Found a bloodstained altar of Trog.
+  5235 | D:5      | Reached XP level 8. HP: 73/73 MP: 8/8
+  5455 | D:5      | Killed Edmund
+  5455 | D:5      | Reached * piety under Beogh
+  5455 | D:5      | Reached skill level 8 in Fighting
+  5791 | D:5      | Noticed Pikel
+  5820 | D:5      | Killed Pikel
+  5820 | D:5      | Reached skill level 10 in Fighting
+  6124 | D:5      | Reached XP level 9. HP: 85/85 MP: 10/10
+  6202 | D:5      | Reached skill level 1 in Polearms
+  6447 | D:6      | Noticed Eustachio
+  6476 | D:5      | Killed Eustachio
+  6492 | D:6      | Found a deep blue altar of Sif Muna.
+  7053 | D:6      | Found a runed translucent door.
+  8168 | D:7      | Noticed a troll
+  8201 | D:6      | Killed a troll
+  8201 | D:6      | Reached skill level 5 in Armour
+  8292 | D:7      | Reached skill level 5 in Shields
+  8292 | D:7      | Noticed a cyclops
+  8335 | D:7      | Reached skill level 5 in Maces & Flails
+  8612 | D:7      | Reached XP level 10. HP: 93/93 MP: 11/11
+  8633 | D:7      | Killed a cyclops
+  9040 | D:7      | Reached ** piety under Beogh
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Axes           |  3  4     5              7    |  7.7
+Fighting       |     4        5  6  7 10       | 10.3
+Maces & Flails |              2     3     5    |  5.5
+Slings         |              1     3          |  3.2
+Short Blades   |              1                |  1.0
+Evocations     |              1           2    |  2.1
+Throwing       |                    2          |  2.1
+Polearms       |                          3  4 |  4.4
+Armour         |                          5    |  5.1
+Shields        |                          5    |  5.7
+Dodging        |                               |  0.9
+Invocations    |                               |  0.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |  4077 |    50 |    11 |       ||  4138
+       Whip              |       |   133 |  4276 |    26 ||  4435
+       Flail             |       |       |  4011 |     2 ||  4013
+ Fire: Hunting sling     |       |    33 |   166 |    30 ||   229
+Throw: Throwing net      |       |       |     1 |       ||     1
+       Tomahawk          |       |       |     1 |       ||     1
+       Javelin           |       |       |     1 |       ||     1
+Invok: Convert to Beogh  |       |     1 |       |       ||     1
+Evoke: Wand              |       |     3 |     1 |       ||     4
+  Use: Potion            |       |       |     6 |       ||     6
+       Scroll            |       |       |     8 |       ||     8
+ Stab: Held in net/web   |       |       |     1 |       ||     1
+  Eat: Chunk             |     1 |     7 |    13 |       ||    21
+       Ration            |       |       |     1 |     1 ||     2
+Armor: Scale mail        |   819 |    68 |    69 |       ||   956
+       Plate armour      |       |       |  2708 |     5 ||  2713
+Dodge: Dodged            |   355 |    22 |   341 |     1 ||   719
+Block: Shield            |     4 |       |       |       ||     4
+       Large shield      |  2270 |   142 |  4563 |    12 ||  6987
+

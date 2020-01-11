@@ -1,0 +1,498 @@
+Sunut
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 mace
+(16, -24, D:1)
+  a +0 flail
+(18, -42, D:1)
+  a +0 dagger
+(27, 2, D:1)
+  a +0 robe
+(40, -24, D:1)
+  a +0 scale mail
+(40, -7, D:1)
+  a +0 ring mail
+(42, 1, D:1)
+  a +0 club
+(63, 3, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 animal skin
+  a +0 club
+(0, 3, D:2)
+  a +0 club
+(4, 28, D:2)
+  a +0 dagger
+(7, -5, D:2)
+  a +0 club
+(8, 12, D:2)
+  a +0 dagger
+(8, 13, D:2)
+  a cursed +0 club
+(8, 14, D:2)
+  a +0 whip
+(8, 16, D:2)
+  a +0 leather armour
+(26, 15, D:2)
+  a +0 club
+(27, 17, D:2)
+  a +0 club
+(37, -2, D:2)
+  a cursed -2 club
+(41, 13, D:2)
+  a +0 club
+(52, 11, D:2)
+  a +0 halberd
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 spear
+  a +0 robe
+  a +0 dagger
+(1, -1, D:3)
+  a +0 robe of positive energy
+  a +0 whip
+  a +0 halberd
+(2, -26, D:3)
+  a +0 hand axe
+  a +0 ring mail
+(2, -1, D:3)
+  a cursed +0 leather armour
+  a +0 club
+(2, 0, D:3)
+  a +0 flail
+  a +0 flail
+  a +0 spear
+(11, 5, D:3)
+  a +0 club
+(17, -2, D:3)
+  a +0 club
+(19, 12, D:3)
+  a +0 club
+(20, 12, D:3)
+  a +0 dagger
+(22, 16, D:3)
+  a +0 dagger
+(22, 17, D:3)
+  a +0 dagger
+  a +0 dagger
+(22, 18, D:3)
+  a +0 club
+(23, 15, D:3)
+  a +0 dagger
+(23, 16, D:3)
+  a +0 whip
+  a +0 leather armour
+  a +0 whip
+(24, 16, D:3)
+  a +0 leather armour
+  a cursed -3 mace
+(26, -5, D:3)
+  a +0 robe
+(26, 1, D:3)
+  a cursed +0 robe
+  a +0 club
+(27, -12, D:3)
+  a +0 mace
+(30, -16, D:3)
+  a +0 hunting sling
+  a +0 club
+  a +0 ring mail
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Xipu's Weapon Shoppe
+  14 sling bullets (77 gold)
+  a +0 dagger (22 gold)
+  a +0 club (11 gold)
+  a +1 great sword of flaming (205 gold)
+  18 arrows (39 gold)
+  18 arrows (39 gold)
+  a +0 spear (33 gold)
+  14 bolts (30 gold)
+  a +0 short sword (33 gold)
+  a +0 quarterstaff (44 gold)
+(0, 0, D:4)
+  a +0 short sword
+(7, -2, D:4)
+  a +0 dagger
+(8, 4, D:4)
+  a +0 leather armour
+(16, 9, D:4)
+  a +0 robe
+  a +0 dagger
+(17, 11, D:4)
+  a +0 falchion
+(18, 11, D:4)
+  a +0 leather armour
+  a cursed -2 club
+  a +0 war axe
+  a +0 mace
+(20, 9, D:4)
+  a +0 spear
+  a +0 short sword
+(20, 10, D:4)
+  a +0 robe
+  a +0 dagger
+(21, 7, D:4)
+  a +0 dagger
+(21, 9, D:4)
+  a +0 spear
+(22, 5, D:4)
+  a +0 club
+(26, -1, D:4)
+  a +0 dagger
+(39, 24, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 giant club
+(14, -2, D:5)
+  a +0 chain mail
+  a +0 club
+(16, 0, D:5)
+  a +0 leather armour
+(16, 14, D:5)
+  a +0 robe
+  a cursed +0 dagger
+  a +0 dagger of flaming
+  a +0 robe
+(18, 14, D:5)
+  a +0 chain mail
+  a +0 flail
+(20, 4, D:5)
+  a +0 robe
+  a +0 dagger
+(22, 10, D:5)
+  a +0 halberd
+(27, 16, D:5)
+  a +0 leather armour
+(34, 16, D:5)
+  a +0 hand axe
+(38, 10, D:5)
+  a +0 dagger
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 chain mail
+  a +0 war axe
+(6, 41, D:6)
+  a +0 dagger
+(19, 18, D:6)
+  a +0 battleaxe
+(28, 14, D:6)
+  a +0 ring mail
+(46, 0, D:6)
+  a +0 robe
+(53, 28, D:6)
+  a +0 leather armour
+(58, 25, D:6)
+  a +0 robe
+  a +0 whip of flaming
+(59, 25, D:6)
+  a +0 animal skin
+
+Level 7 of the Dungeon
+(3, 0, D:7)
+  a +0 ring mail
+(3, 1, D:7)
+  a scroll of remove curse
+(12, -5, D:7)
+  a +0 falchion
+(12, 11, D:7)
+  a +0 dagger
+(18, 4, D:7)
+  a +0 leather armour
+(20, -13, D:7)
+  a +0 animal skin
+  a +0 animal skin
+(21, -13, D:7)
+  a +0 animal skin
+(23, -20, D:7)
+  a +0 ring mail
+(24, -19, D:7)
+  a +0 rapier
+(27, 16, D:7)
+  a +0 quarterstaff
+(36, 3, D:7)
+  a +0 ring mail
+  a +0 leather armour
+  a +0 club
+(37, 18, D:7)
+  a +0 scale mail
+(39, 12, D:7)
+  a +0 chain mail
+(40, 7, D:7)
+  a +0 robe
+  a +0 dagger
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 mace
+(1, -8, D:8)
+  a +0 leather armour
+  (unseen)
+(8, -9, D:8)
+  a +0 leather armour
+  a cursed -3 trident
+(8, 0, D:8)
+  a scroll of random uselessness
+(9, -9, D:8)
+  a +0 ring mail
+  a +0 flail
+(15, 6, D:8)
+  a +0 falchion
+(17, -8, D:8)
+  a +0 chain mail
+(26, -11, D:8)
+  a book of Necromancy
+(27, -10, D:8)
+  a +0 leather armour
+  a +0 mace
+(36, -12, D:8)
+  a +0 scale mail
+  a +0 whip
+(40, 10, D:8)
+  a cursed -3 dagger
+(41, -23, D:8)
+  a +0 robe
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 whip
+(1, -22, D:9)
+  a +0 giant club
+  a +0 giant club
+(2, 1, D:9)
+  a +0 club
+(4, -43, D:9)
+  a +0 pair of boots
+(13, -39, D:9)
+  a +0 club
+(24, -21, D:9)
+  a +0 giant spiked club
+(24, -17, D:9)
+  a cursed -3 whip
+(25, -17, D:9)
+  a +0 giant club
+  a +0 giant club
+(26, -17, D:9)
+  a +0 giant club
+(37, -9, D:9)
+  a +0 dagger
+(38, 0, D:9)
+  a +0 giant club
+  a +0 leather armour
+  a +0 hunting sling
+  a +0 quarterstaff
+(39, 0, D:9)
+  a +0 dagger
+(40, -43, D:9)
+  a +0 dire flail
+  a +0 robe
+(40, -42, D:9)
+  a +0 robe
+(40, -1, D:9)
+  a +0 chain mail
+  a +0 long sword
+(40, 0, D:9)
+  a +0 dagger
+(43, -12, D:9)
+  a +0 short sword
+(51, -36, D:9)
+  a +0 robe
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 flail
+(0, 6, D:10)
+  a +0 giant club
+(16, 29, D:10)
+  a potion of mutation
+(16, 30, D:10)
+  a +2 hat
+(16, 31, D:10)
+  10 gold pieces
+(16, 38, D:10)
+  a +0 giant club
+(17, 30, D:10)
+  a cursed -5 ring of dexterity
+
+Level 11 of the Dungeon
+[Shop] Enousk's Gadget Emporium
+  a phial of floods (520 gold)
+  a box of beasts (260 gold)
+  a fan of gales (520 gold)
+  a lamp of fire (520 gold)
+  a crystal ball of energy (260 gold)
+  a fan of gales (520 gold)
+  a lightning rod (4/4) (520 gold)
+  a fan of gales (520 gold)
+(0, 0, D:11)
+  a large rock
+(11, 11, D:11)
+  a +0 flail
+(16, 11, D:11)
+  +0 acid dragon scales
+  a +0 flail
+(17, 11, D:11)
+  a +0 shield
+  a +1 cloak of cold resistance
+  a +0 plate armour
+(18, 6, D:11)
+  a large rock
+(18, 10, D:11)
+  a +0 flail of holy wrath
+  a +0 flail of crushing
+  a +0 flail of protection
+(18, 11, D:11)
+  a tomahawk of returning
+  a throwing net {!f}
+  a +2 dagger of freezing
+  134 bolts
+  a +0 falchion of protection
+  a +0 blowgun
+  a +0 dagger of draining
+(18, 12, D:11)
+  a +0 scimitar
+  a +0 dagger of draining
+(19, 4, D:11)
+  a +0 whip
+(19, 5, D:11)
+  a +0 dagger
+(19, 10, D:11)
+  a +1 quarterstaff of protection
+(19, 11, D:11)
+  151 arrows
+  a +0 glaive
+  a +3 halberd
+(20, 6, D:11)
+  a cursed -1 leather armour
+  a +0 hand axe
+(20, 9, D:11)
+  a +0 short sword
+(20, 10, D:11)
+  an uncursed amulet of guardian spirit
+(20, 11, D:11)
+  an uncursed ring of ice
+  an uncursed ring of wizardry
+  a potion of mutation
+  a scroll of amnesia
+  a +2 ring of intelligence
+  15 scrolls of remove curse
+  a scroll of torment
+  a scroll of summoning
+  2 scrolls of noise
+  a potion of brilliance
+  an uncursed ring of wizardry
+(29, 24, D:11)
+  a +0 leather armour
+(47, 10, D:11)
+  a large rock
+  a +0 hand axe
+(47, 11, D:11)
+  a large rock
+(59, 16, D:11)
+  a +0 robe
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 whip
+(3, 3, D:12)
+  a +0 short sword
+(10, -7, D:12)
+  a +0 short sword
+(13, -9, D:12)
+  a +0 club
+(14, -4, D:12)
+  a +0 trident
+(19, 15, D:12)
+  a +0 chain mail
+  a +0 hand axe
+(29, 3, D:12)
+  a +0 ring mail
+(43, -20, D:12)
+  a +0 short sword
+(58, -2, D:12)
+  a hippogriff skeleton
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  15 gold pieces
+(10, -5, Lair:1)
+  a +0 war axe
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 rapier
+(20, 7, Lair:2)
+  a book of Ice
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a +0 rapier
+(3, -20, Lair:3)
+  a +0 scimitar
+(4, 4, Lair:3)
+  a +0 chain mail
+(9, -25, Lair:3)
+  a +0 club
+(9, 6, Lair:3)
+  a +0 dagger
+(38, 1, Lair:3)
+  a +0 battleaxe
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a +0 flail
+(2, 8, Lair:4)
+  a +0 chain mail
+(10, 0, Lair:4)
+  a +0 war axe
+(13, -12, Lair:4)
+  a +0 trident
+(21, 14, Lair:4)
+  a cursed +0 ring mail
+(22, 43, Lair:4)
+  a +0 chain mail
+(26, 39, Lair:4)
+  a +0 rapier
+(26, 44, Lair:4)
+  a +0 morningstar
+(44, 10, Lair:4)
+  a +0 falchion
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a +0 dagger
+(9, -14, Lair:5)
+  a +0 leather armour
+(12, 10, Lair:5)
+  a +0 dagger
+(34, 6, Lair:5)
+  a +0 long sword
+(47, -13, Lair:5)
+  a +0 dagger
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  a +0 plate armour
+(18, -2, Lair:6)
+  a scroll of random uselessness
+(35, 18, Lair:6)
+  a stone
+(36, 17, Lair:6)
+  a stone
+(37, 1, Lair:6)
+  a scroll of brand weapon
+(40, 13, Lair:6)
+  a stone
+(52, 12, Lair:6)
+  15 gold pieces
+
