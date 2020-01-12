@@ -35,29 +35,29 @@ Level 2 of the Dungeon
   a +0 helmet
 
 Level 3 of the Dungeon
-(9, -25, D:3)
+(0, 0, D:3)
   16 arrows
-(10, -31, D:3)
+(1, -6, D:3)
   a ration
-(10, -27, D:3)
+(1, -2, D:3)
   12 gold pieces
-(10, -25, D:3)
+(1, 0, D:3)
   8 gold pieces
-(11, -29, D:3)
+(2, -4, D:3)
   a shield
-(11, -18, D:3)
+(2, 7, D:3)
   a stone
-(13, -25, D:3)
+(4, 0, D:3)
   27 arrows
-(15, -25, D:3)
+(6, 0, D:3)
   a ration
-(16, -26, D:3)
-  a scroll labeled XUOMYS OSAITEO
-(18, -18, D:3)
+(7, -1, D:3)
+  a scroll of fog
+(9, 7, D:3)
   a stone
-(44, -16, D:3)
+(35, 9, D:3)
   a +0 club
-(50, -3, D:3)
+(41, 22, D:3)
   a scroll of teleportation
 
 Level 4 of the Dungeon
@@ -120,6 +120,8 @@ Level 6 of the Dungeon
   a +0 giant spiked club
 (32, 9, D:6)
   a club
+(33, 0, D:6)
+  an uncursed ring of attention
 (34, -6, D:6)
   a +0 war axe
 (39, -4, D:6)
@@ -129,43 +131,187 @@ Level 6 of the Dungeon
 
 Level 7 of the Dungeon
 (0, 0, D:7)
-  163 arrows
-(4, -14, D:7)
   a hand axe
-(10, -42, D:7)
-  a +0 leather armour
-  a +0 war axe
-  a +0 hand axe
+(6, -28, D:7)
   a cursed -3 flail
-  an orc corpse
-  an orc corpse
-  an orc corpse
-(12, -46, D:7)
-  a +0 halberd
+  a +0 war axe
+  a +0 leather armour
+  a +0 hand axe
+(8, -32, D:7)
   a +0 chain mail
-(13, -17, D:7)
+(9, -3, D:7)
   a leather armour
-(17, -35, D:7)
+(13, -21, D:7)
   a cursed -3 shortbow
-(19, -43, D:7)
+(15, -29, D:7)
   a robe
-(22, -51, D:7)
+(18, -37, D:7)
   a dagger
-(35, -14, D:7)
+(23, -39, D:7)
+  a +0 war axe
+(25, -40, D:7)
+  a +0 chain mail
+  a +0 battleaxe
+(25, -38, D:7)
+  a +0 robe
+(31, 0, D:7)
   a large rock
-(35, -6, D:7)
+(31, 8, D:7)
   a ring mail
-(36, -14, D:7)
+(32, 0, D:7)
   3 large rocks
-(37, -15, D:7)
+(33, -1, D:7)
   a +0 club
   a +0 flail
-(37, -14, D:7)
+(33, 0, D:7)
   a +0 whip
-(45, -15, D:7)
+(41, -1, D:7)
   a club
-(57, -18, D:7)
+(53, -4, D:7)
   a long sword
+
+Level 8 of the Dungeon
+[Shop] Loblet's General Store
+  a potion of brilliance (48 gold)
+  a ration (60 gold)
+  a +0 robe (8 gold)
+  a +0 spear (36 gold)
+  15 stones (18 gold)
+(0, 0, D:8)
+  the +1 leather armour of Eplirab {-Tele rF+ rN+++ Str+2}
+    It affects your strength (+2).
+    It protects you from fire.
+    It renders you almost immune to negative energy.
+    It prevents most forms of teleportation.
+  a +0 plate armour
+  a +0 plate armour
+  a +0 shield
+(1, -1, D:8)
+  a runed whip
+  a runed dagger
+  a glowing flail
+  a runed dagger
+(1, 0, D:8)
+  a +0 broad axe
+  a +0 broad axe
+  a +1 whip of flaming
+  45 bolts
+  10 poisoned needles
+(1, 1, D:8)
+  a +0 spear
+(1, 16, D:8)
+  a +0 giant club
+(2, 0, D:8)
+  a +2 scythe of venom
+  a +0 glaive
+  a +0 shortbow
+  a +0 halberd
+  260 arrows
+(3, -1, D:8)
+  an amethyst potion
+  a sedimented brown potion
+  a glowing golden potion
+  a scroll labeled YCHEUMUGHE
+  a scroll labeled CAMPAU DUEBO
+  2 silvery potions
+(3, 0, D:8)
+  a scroll of amnesia
+  an uncursed staff of conjuration
+(4, 12, D:8)
+  a +0 dagger
+(9, 7, D:8)
+  a +0 chain mail
+  a +0 antimagic dagger
+(12, -18, D:8)
+  a +0 giant club
+  a cursed -2 giant spiked club
+(23, 22, D:8)
+  a +0 mace
+(25, 19, D:8)
+  a +0 leather armour
+(27, 20, D:8)
+  a +0 dire flail
+(27, 22, D:8)
+  a +0 chain mail
+  a +0 war axe
+(28, 25, D:8)
+  a quarterstaff
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a potion of degeneration
+(0, 1, D:9)
+  a potion of degeneration
+(11, 0, D:9)
+  a +0 club
+(11, 3, D:9)
+  a +0 chain mail
+  a +0 falchion
+  a potion of degeneration
+(12, 3, D:9)
+  a club
+(15, 1, D:9)
+  a cursed -2 chain mail
+  a potion of degeneration
+  an orc corpse
+(16, 1, D:9)
+  a +0 ring mail
+  a +0 flail
+  a potion of degeneration
+(17, -8, D:9)
+  a war axe
+(21, 0, D:9)
+  an animal skin
+(21, 2, D:9)
+  2 potions of degeneration
+(23, 2, D:9)
+  a +0 robe
+  a cursed -1 dagger
+(23, 4, D:9)
+  an animal skin
+(25, 0, D:9)
+  an animal skin
+(25, 1, D:9)
+  an animal skin
+(27, -6, D:9)
+  a +0 ring mail
+  a +0 flail
+(27, -5, D:9)
+  a +0 leather armour
+  a +0 flail
+(28, -4, D:9)
+  a swamp drake corpse
+(28, 0, D:9)
+  a +0 ring mail
+  an orc corpse (skeletalised by now)
+(29, -34, D:9)
+  a +0 shortbow
+(32, -15, D:9)
+  a +0 chain mail
+  a +0 short sword
+(34, -22, D:9)
+  a +0 leather armour
+  a +0 club
+  a potion of degeneration
+(53, -38, D:9)
+  a +0 cloak
+  a cursed -3 short sword
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a hand axe
+(1, -1, D:10)
+  a hand axe
+(1, 1, D:10)
+  a hand axe
+(2, 0, D:10)
+  a +0 dagger
+  a hand axe
+(2, 1, D:10)
+  a +0 short sword
+  a +0 short sword
+(9, 16, D:10)
+  13 gold pieces
 
 the Ecumenical Temple
 
