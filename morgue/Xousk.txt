@@ -2,48 +2,55 @@
 
 Game seed: 13965250206695313955
 
-Xousk the Fighter (Hill Orc Fighter)               Turns: 14314, Time: 03:03:36
+Xousk the Apostle (Hill Orc Fighter)               Turns: 23922, Time: 05:40:33
 
-Health: 100/100    AC: 22    Str: 23    XL:     11   Next: 55%
-Magic:  27/27      EV:  3    Int:  8    God:    Beogh 108 (0)
-Gold:   475        SH: 15    Dex: 10    Spells: 8/10 levels left
+Health: 126/126    AC: 25    Str: 26    XL:     14   Next: 24%
+Magic:  24/24      EV:  4    Int:  8    God:    Beogh 133 (0)
+Gold:   251        SH: 16    Dex: 10    Spells: 11/13 levels left
 
-rFire    . . .     SeeInvis .   h - +0 hunting sling
-rCold    . . .     Gourm    .   z - +0 large shield
-rNeg     . . .     Faith    .   L - +0 plate armour
-rPois    .         Spirit   .   t - +2 helmet
+rFire    . . .     SeeInvis .   d - +7 war axe {freeze, -Tele rC+ MR+}
+rCold    + . .     Gourm    .   G - +0 large shield
+rNeg     + . .     Faith    .   L - +2 plate armour {rN+}
+rPois    +         Spirit   .   I - +2 hat {MR+}
 rElec    .         Reflect  .   S - +2 cloak
 rCorr    .         Harm     .   k - +2 pair of gloves
-MR       .....                  (no boots)
-Stlth    ..........             (no amulet)
-HPRegen  0.26/turn              J - ring of magical power
-MPRegen  0.20/turn              N - ring of flight
+MR       +++..     NoTele   +   m - +1 pair of boots
+Stlth    ..........             Z - amulet of the acrobat
+HPRegen  0.31/turn              i - +2 ring of strength
+MPRegen  0.19/turn              V - ring of poison resistance
 
 @: no status effects
-A: no striking features
-a: Smiting, Recall Orcish Followers, Renounce Religion, Evoke Flight
+A: walk on water
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Renounce
+Religion
 
 
-You are on level 10 of the Dungeon.
+You are on level 2 of the Lair of Beasts.
 You worship Beogh.
-Beogh is greatly pleased with you.
+Beogh is extremely pleased with you.
 You are not hungry.
 
-You have visited 2 branches of the dungeon, and seen 11 of its levels.
-You have also visited: Bailey.
+You have visited 4 branches of the dungeon, and seen 16 of its levels.
+You have also visited: Bailey and Gauntlet.
 
-You have collected 655 gold pieces.
-You have spent 180 gold pieces at shops.
+You have collected 1406 gold pieces.
+You have spent 1155 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
- a - a +0 dagger of protection
- b - a +0 dagger of venom
- c - a +1 whip of electrocution
- d - a +0 flail of draining
- e - a +0 flail of protection
- f - the +7 war axe of the Last Beggars {freeze, -Tele rC+ MR+}
+ a - a +0 dagger of venom
+ b - the +11 long sword of Unreason {slice, rF- rC++ Int+3 SInv}
+   (You found it on level 2 of the Lair of Beasts)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your intelligence (+3).
+   It makes you vulnerable to fire.
+   It greatly protects you from cold.
+   It lets you see invisible.
+ c - a +1 morningstar of protection
+ d - the +7 war axe of the Last Beggars (weapon) {freeze, -Tele rC+ MR+}
    (You found it on level 8 of the Dungeon)   
    
    It has been specially enchanted to freeze those struck by it, causing extra
@@ -53,70 +60,71 @@ Hand Weapons
    It protects you from cold.
    It affects your resistance to hostile enchantments.
    It prevents most forms of teleportation.
- g - a +0 trident of holy wrath
- h - a +0 hunting sling (weapon)
- v - a +0 falchion of holy wrath
+ e - a +0 demon trident of flaming
+ f - a +0 blowgun
+ g - a +0 hunting sling
 Missiles
- p - 174 stones
- q - 61 sling bullets (quivered)
+ p - 266 stones
+ q - 57 sling bullets
+ t - 9 poisoned needles
  x - 2 throwing nets
- E - 52 tomahawks of returning
- F - a poisoned tomahawk
- H - 15 javelins
+ H - 17 javelins (quivered)
  O - 14 tomahawks
 Armour
  k - a +2 pair of gloves (worn)
- t - a +2 helmet (worn)
- z - a +0 large shield (worn)
- L - a +0 plate armour (worn)
+ m - a +1 pair of boots (worn)
+ G - a +0 large shield (worn)
+ I - a +2 hat of magic resistance (worn)
+ K - a +0 troll leather armour
+ L - a +2 plate armour of positive energy (worn)
  S - a +2 cloak (worn)
- Y - a +0 troll leather armour
+Magical Staves
+ C - an uncursed staff of fire
 Jewellery
- J - a ring of magical power (left hand)
- N - a ring of flight (right hand)
-Wands
- r - a wand of acid (19)
- s - a wand of flame (29)
- w - a wand of digging (5)
- P - a wand of iceblast (6)
-Scrolls
- l - a scroll of blinking
- m - a scroll of immolation
- n - 3 scrolls of remove curse
- M - 5 scrolls of teleportation
- T - a scroll of holy word
- W - a scroll of fog
+ i - a +2 ring of strength (left hand)
+ l - an uncursed amulet of regeneration
+ z - an uncursed ring of fire
+ N - an uncursed ring of flight
+ V - a ring of poison resistance (right hand)
+ Z - an amulet of the acrobat (around neck)
 Potions
- i - 4 potions of curing
- o - 2 potions of flight
- u - a potion of magic
- y - 2 potions of might
+ j - 6 potions of curing
+ y - a potion of might
  A - a potion of brilliance
- B - 2 potions of haste
+ D - 2 potions of lignification
+ E - a potion of magic
+ F - a potion of haste
  Q - 3 potions of cancellation
+ R - a potion of invisibility
+ T - a potion of heal wounds
 Miscellaneous
- R - a crystal ball of energy
+ o - a phial of floods
+ u - a lamp of fire
+ v - a box of beasts
+ J - a fan of gales
 Comestibles
- U - 15 rations
+ h - 46 chunks of flesh
+ U - 17 rations
 
 
    Skills:
- - Level 10.3 Fighting
- - Level 3.0 Short Blades
- - Level 7.7(9.5) Axes
- - Level 5.5(6.9) Maces & Flails
- - Level 4.4(6.1) Polearms
- - Level 3.2(3.8) Slings
- - Level 3.1(3.8) Throwing
+ - Level 12.1 Fighting
+ - Level 3.0(4.2) Short Blades
+ - Level 5.0(5.5) Long Blades
+ - Level 8.5(10.4) Axes
+ - Level 5.5(7.2) Maces & Flails
+ - Level 5.7(7.3) Polearms
+ - Level 4.0(4.8) Slings
+ - Level 4.0(4.8) Throwing
  - Level 5.1 Armour
- - Level 1.0 Dodging
+ - Level 2.2 Dodging
  - Level 2.4 Stealth
  - Level 5.7 Shields
- + Level 9.5 Invocations
- + Level 6.3 Evocations
+ + Level 14.2 Invocations
+ - Level 10.1 Evocations
 
 
-You have 8 spell levels left.
+You have 11 spell levels left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
@@ -127,26 +135,37 @@ Your spell library contains the following spells:
  Spells                   Type           Power        Failure   Level  Hunger
  Beastly Appendage        Tmut           0 (50)       100%        1    50
  Corona                   Hex            0 (90)       100%        1    50
+ Infusion                 Chrm           0 (25)       100%        1    50
  Magic Dart               Conj           0 (25)       100%        1    50
+ Summon Butterflies       Summ           0 (100)      100%        1    50
  Call Imp                 Summ           0 (100)      100%        2    100
  Ensorcelled Hibernation  Hex/Ice        0 (50)       100%        2    100
+ Shroud of Golubria       Chrm/Tloc      0 (200)      100%        2    100
  Slow                     Hex            0 (100)      100%        2    100
+ Song of Slaying          Chrm           0 (100)      100%        2    100
  Sticks to Snakes         Tmut           0 (100)      100%        2    100
+ Call Canine Familiar     Summ           0 (100)      100%        3    150
  Confuse                  Hex            0 (100)      100%        3    150
  Conjure Flame            Conj/Fire      0 (100)      100%        3    150
  Dazzling Spray           Conj/Hex       0 (50)       100%        3    150
  Mephitic Cloud           Conj/Pois/Air  0 (100)      100%        3    150
+ Regeneration             Chrm/Necr      0 (200)      100%        3    150
+ Spectral Weapon          Hex/Chrm       0 (100)      100%        3    150
  Spider Form              Tmut/Pois      0 (200)      100%        3    150
  Tukima's Dance           Hex            0 (100)      100%        3    150
  Ice Form                 Ice/Tmut       0 (100)      100%        4    250
+ Summon Ice Beast         Ice/Summ       0 (100)      100%        4    250
  Blade Hands              Tmut           0 (200)      100%        5    400
+ Summon Mana Viper        Hex/Summ       0 (100)      100%        5    400
+ Summon Hydra             Summ           0 (200)      100%        7    700
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (10/15)            Temple (1/1) D:4            Lair (0/6) D:8
-    Orc (0/2) D:9         
+Dungeon (11/15)            Temple (1/1) D:4            Lair (3/6) D:8
+  Snake (0/4) Lair:2          Orc (1/2) D:9         
+ Swamp: Lair:2-4    Shoals: Lair:2-4    
 
 Altars:
 Ashenzari
@@ -171,121 +190,155 @@ Xom
 Yredelemnul
 Zin
 The Shining One
+Beogh
 
 Shops:
-D:8 *
+D:8 *   D:10 =
 
 Annotations:
 D:3 grinder!, 1 exclusion, Grinder
 D:6 1 runed translucent door: yiuf. make stash, exclusion: door
+Lair:2 loot
 
 Message History
 
-a - a +0 dagger of protection (weapon)
+Your orc priest no longer looks unusually strong.
+There is a stone staircase leading down here.
+You start resting.
+Your orc knight no longer looks unusually strong.
+Your orc warrior no longer looks unusually strong.
+Your orc no longer looks unusually strong.
+HP restored.
 You climb downwards.
-There is a stone staircase leading up here.
+There is a stone staircase leading up, spattered with blood here.
 You climb upwards.
+Level annotation: loot
 There is a stone staircase leading down here.
 Move the cursor to view the level map, or type ? for a list of commands.
 Returning to the game...
-There is a stone staircase leading down here.
-There is a stone staircase leading down here.
-You climb downwards.
-Found 13 gold pieces.
-There is a stone staircase leading up here.
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
-Your +0 dagger of protection goes still.
-h - a +0 hunting sling (weapon)
-Evoke which item? (* to show all) (? for menu, Esc to quit)
-Okay, then.
-Okay, then.
-Okay, then.
+Saving game... please wait.
+Level annotation: loot
+Welcome back, Xousk the Hill Orc Fighter.
+Beogh says: Drown the unbelievers in a sea of blood!
+Press ? for a list of commands and other information.
 Saving game... please wait.
 
-~.~.
-~~
+#P..................#........[
+##...#.......##...............
+ #..##.......##.P...#.........
+ #.o#........#................
+ #...#.......#......#.........
+ #..##!....o.##o....o.........
+##...P......o.................
+#............%.o..............
+##...P..........o.............
+ #..##......o.......o.........
+ #.......o...%%..o............
+ #..........%@%.#.............
+ #..........o.................
+ #..##..........#...#.........
+ #...#...o...#..P...o.........
+ #..##........#.....#........P
+ #...#.......##...............
+##.......#...#..#...........#.
+#P..#........##.P.............
+##...#.#.#...#P..........>#.#.
+#...............#.....P.....#.
+#...#...........#...........P.
 
 
-
-               .###
-               ....
-              .....
-              ....
-             ...#
-          ###..$###
-          #.......#
-          #@#
-          #.#
-          #.#            #
-          #..            #.###
-          ###            #..<.
-                         #####
-
-
-There are no monsters in sight!
+You can see 2 friendly orc knights, the friendly Nergalle (wandering), 2
+friendly orc warriors, a friendly orc priest (wandering), the friendly Korbok
+the orc priest (wandering), a friendly orc wizard (wandering) and 5 friendly
+orcs.
 
 Vanquished Creatures
+  Gastronok (D:9)
+  A minotaur (Gauntlet)
+  Snorg (Orc:1)
   Harold (D:9)
-  A two-headed ogre (D:8)
-  2 orc knights (Bailey)
+  A rakshasa (D:10)
+  2 two-headed ogres
+  An unseen horror (D:10)
+  A sixfirhy (Gauntlet)
+  3 orc knights
   Pikel (D:5)
   A cyclops (D:7)
+  An ugly thing (D:11)
   Maurice (D:9)
-  A troll (D:6)
+  A black mamba (Lair:1)
+  Psyche (D:11)
+  A torpor snail (Gauntlet)
+  2 spiny frogs (D:8)
+  2 kobold demonologists (D:11)
+  A komodo dragon (Lair:1)
+  2 trolls
   A queen bee (D:7)
+  3 blink frogs
+  2 hippogriffs (Lair:2)
+  A shadow (D:10)
   Sigmund (D:5)
   2 wyverns (D:8)
-  A yak (D:8)
+  7 yaks
+  A wraith (D:10)
+  A basilisk (Lair:1)
   Eustachio (D:5)
   A hungry ghost (D:8)
   Edmund (D:5)
-  2 porcupines
+  A naga (Lair:1)
+  3 porcupines
   An ice beast (D:8)
-  7 orc warriors
+  12 orc warriors
   A swamp drake (D:9)
-  A sky beast (D:7)
+  2 sky beasts
   A slave (D:4)
   3 phantoms
-  A black bear (D:8)
-  2 ogres
-  5 centaurs
-  A big kobold (D:10)
+  2 black bears
+  6 ogres
+  4 wolves (Gauntlet)
+  9 centaurs
+  A crocodile (D:10)
+  2 big kobolds
   5 bullfrogs
   A water moccasin zombie (D:7)
-  16 killer bees
+  21 killer bees
   4 scorpions
-  5 howler monkeys
-  5 crimson imps
+  8 electric eels (D:10)
+  6 howler monkeys
+  6 crimson imps
+  3 bullfrog zombies (D:10)
   2 centaur zombies
-  3 bullfrog skeletons
+  4 bullfrog skeletons
   A jelly (D:5)
-  5 orc priests
-  7 hounds
-  2 orc wizards
+  8 orc priests
+  10 hounds
+  6 orc wizards
   2 centaur skeletons
   Natasha (twice) (D:3)
   Terence (D:2)
-  8 iguanas
+  9 iguanas
   7 worker ants
+  2 hell rats (Lair:2)
   A killer bee zombie (D:6)
   2 hound skeletons
-  A worker ant zombie (D:8)
+  2 worker ant zombies
   Robin (D:2)
   A howler monkey skeleton (D:7)
   12 gnolls
-  13 adders
-  2 shadow imps
+  14 adders
+  4 shadow imps
+  3 ufetubi (Gauntlet)
   An ooze (D:1)
   3 adder skeletons
   2 worms (D:2)
   2 dart slugs
-  2 leopard geckos
-  22 orcs
+  3 leopard geckos
+  25 orcs
   4 giant cockroaches
   18 goblins
   9 hobgoblins
   13 jackals
-  22 kobolds
+  24 kobolds
   5 quokkas
   2 ball pythons
   A ball python skeleton (D:5)
@@ -294,27 +347,50 @@ Vanquished Creatures
   A jackal skeleton (D:5)
   A leopard gecko zombie (D:5)
   3 rats
-  4 fungi (D:8)
-  A plant (D:8)
-273 creatures vanquished.
+  5 fungi
+  3 plants
+376 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
+  A stone giant (Orc:1)
+  An ettin (D:9)
+  Urug (D:9)
+  A rime drake (Lair:2)
+  A komodo dragon (Lair:2)
+  A troll (Orc:1)
+  7 blink frogs
+  10 yaks
+  A naga (Lair:2)
+  A water moccasin (Lair:1)
+  An ice beast (D:10)
+  2 centaurs (D:11)
+  A crocodile (Lair:2)
+  4 bullfrogs
+  2 howler monkeys (D:11)
   A bullfrog zombie (D:9)
-  An orc (D:9)
-2 creatures vanquished.
+  A hound (D:11)
+  An orc wizard (Orc:1)
+  5 hell rats (Lair:2)
+  An adder (D:11)
+  3 orcs
+  2 kobolds (D:11)
+  2 fungi (D:8)
+51 creatures vanquished.
 
 Vanquished Creatures (others)
-  An orc warrior (Bailey)
+  3 orc wizards
+  An orc priest (D:9)
+  3 orc warriors
   A howler monkey (D:5)
   A bullfrog zombie (D:5)
   An ooze (D:5)
-  5 orcs
+  13 orcs
   A ball python skeleton (D:4)
-  6 fungi (D:8)
-  3 plants (D:8)
-19 creatures vanquished.
+  8 fungi
+  8 plants
+40 creatures vanquished.
 
-Grand Total: 294 creatures vanquished
+Grand Total: 467 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -322,7 +398,6 @@ Turn   | Place    | Note
      0 | D:1      | Xousk the Hill Orc Fighter began the quest for the Orb.
      0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
    206 | D:1      | Reached XP level 2. HP: 27/27 MP: 2/2
-   455 | D:1      | Reached skill level 4 in Fighting
    750 | D:1      | Entered wizard mode.
    827 | D:2      | Reached XP level 3. HP: 30/33 MP: 3/3
   1207 | D:2      | Reached XP level 4. HP: 41/41 MP: 4/4
@@ -344,7 +419,6 @@ Turn   | Place    | Note
   2877 | D:3      | Reached XP level 6. HP: 46/56 MP: 6/6
   2991 | D:3      | Noticed Grinder
   3052 | D:4      | Became a worshipper of Beogh the Brigand
-  3190 | D:4      | Reached skill level 6 in Fighting
   3226 | D:4      | Found a staircase to the Ecumenical Temple.
   3238 | Temple   | Entered the Ecumenical Temple
   3560 | Temple   | Reached XP level 7. HP: 55/64 MP: 7/7
@@ -353,12 +427,10 @@ Turn   | Place    | Note
   4592 | D:5      | Noticed Sigmund
   4605 | D:5      | Reached skill level 1 in Throwing
   4644 | D:5      | Killed Sigmund
-  4793 | D:5      | Reached skill level 7 in Fighting
   4892 | D:5      | Found a bloodstained altar of Trog.
   5235 | D:5      | Reached XP level 8. HP: 73/73 MP: 8/8
   5455 | D:5      | Killed Edmund
   5455 | D:5      | Reached * piety under Beogh
-  5455 | D:5      | Reached skill level 8 in Fighting
   5791 | D:5      | Noticed Pikel
   5820 | D:5      | Killed Pikel
   5820 | D:5      | Reached skill level 10 in Fighting
@@ -380,17 +452,23 @@ Turn   | Place    | Note
   9411 | D:7      | Reached skill level 1 in Dodging
   9411 | D:7      | Reached skill level 1 in Invocations
   9560 | D:8      | Found Loblet's General Store.
+  9593 | D:7      | Reached skill level 2 in Invocations
   9661 | D:8      | Bought a +0 pair of gloves for 54 gold pieces
   9679 | D:8      | Bought a potion of curing for 36 gold pieces
   9679 | D:8      | Bought a scroll of blinking for 90 gold pieces
+  9847 | D:7      | Reached skill level 3 in Invocations
+ 10040 | D:8      | Reached skill level 4 in Invocations
  10226 | D:8      | Reached skill level 5 in Invocations
+ 10376 | D:7      | Reached skill level 6 in Invocations
  10635 | D:8      | Noticed a two-headed ogre
+ 10940 | D:8      | Reached skill level 7 in Invocations
  11197 | D:8      | Got a blackened war axe
  11205 | D:7      | Identified the +7 war axe of the Last Beggars {freeze,
                   | -Tele rC+ MR+} (You found it on level 8 of the Dungeon)
  11424 | D:8      | Reached *** piety under Beogh
  11542 | D:8      | Found a staircase to the Lair.
  11735 | D:8      | Killed a two-headed ogre
+ 11735 | D:8      | Reached skill level 8 in Invocations
  11735 | D:8      | Reached skill level 5 in Evocations
  11735 | D:8      | Reached XP level 11. HP: 80/100 MP: 17/17
  12449 | D:9      | Noticed Maurice
@@ -406,53 +484,137 @@ Turn   | Place    | Note
  13576 | Bailey   | Noticed an orc knight
  13586 | Bailey   | Killed an orc knight
  13586 | Bailey   | Reached **** piety under Beogh
+ 13586 | Bailey   | Reached skill level 9 in Invocations
  13591 | Bailey   | Killed an orc knight
  13681 | Bailey   | Learned a level 2 spell: Blink
  13908 | D:8      | Identified the +1 leather armour of Eplirab {-Tele rF+
                   | rN+++ Str+2} (You found it on level 9 of the Dungeon)
  14006 | D:9      | Killed Harold
  14146 | D:9      | Found a staircase to the Orcish Mines.
+ 14447 | D:10     | Found Gustraw's Jewellery Boutique.
+ 14558 | D:10     | Killed an unseen horror
+ 14660 | D:10     | Noticed Gastronok
+ 14689 | D:9      | Killed Gastronok
+ 14689 | D:9      | Reached skill level 10 in Invocations
+ 15099 | D:10     | Noticed Urug
+ 15290 | D:9      | Killed Urug
+ 15290 | D:9      | Reached skill level 11 in Invocations
+ 15290 | D:9      | Reached XP level 12. HP: 87/106 MP: 20/20
+ 15389 | D:10     | Noticed a rakshasa
+ 15853 | D:10     | Killed a rakshasa
+ 16159 | D:10     | Bought an uncursed ring of poison resistance for 260 gold
+                  | pieces
+ 17465 | D:11     | Gained Wardok as an ally
+ 17509 | D:11     | Noticed Psyche
+ 17512 | D:11     | Killed Psyche
+ 17588 | D:11     | Reached skill level 12 in Invocations
+ 17643 | D:11     | Noticed a two-headed ogre
+ 17648 | D:11     | Your ally Wardok died
+ 17653 | D:11     | Killed a two-headed ogre
+ 17724 | D:11     | Reached ***** piety under Beogh
+ 17880 | D:11     | Found a gate leading to a gauntlet.
+ 17890 | Gauntlet | Entered a Gauntlet
+ 17890 | Gauntlet | Found a transporter.
+ 17890 | Gauntlet | Found a runed translucent gate.
+ 17890 | Gauntlet | Found a transporter.
+ 17890 | Gauntlet | Found a runed translucent gate.
+ 17975 | Gauntlet | Found a transporter.
+ 17979 | Gauntlet | Found a transporter.
+ 17988 | Gauntlet | Found a transporter.
+ 17991 | Gauntlet | Found a transporter.
+ 17999 | Gauntlet | Found a transporter.
+ 18016 | Gauntlet | Noticed a blizzard demon
+ 18019 | Gauntlet | Found a transporter.
+ 18037 | Gauntlet | Found a transporter.
+ 18041 | Gauntlet | Found a transporter.
+ 18052 | Gauntlet | Found a transporter.
+ 18053 | Gauntlet | Found a transporter.
+ 18055 | Gauntlet | Found a runed translucent gate.
+ 18459 | Gauntlet | Got a crude helmet
+ 18471 | Gauntlet | Noticed a minotaur
+ 18492 | Gauntlet | Killed a minotaur
+ 18506 | Gauntlet | Identified the +2 helmet of Knowledge {rPois} (You found it
+                  | in a Gauntlet)
+ 18608 | Gauntlet | Identified the +4 ring mail of the Neverending Souls
+                  | {rPois} (You found it in a Gauntlet)
+ 18678 | D:11     | Reached skill level 13 in Invocations
+ 18988 | D:10     | Bought an uncursed ring of fire for 325 gold pieces
+ 19063 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 19112 | Orc:1    | Noticed Snorg
+ 19128 | Orc:1    | Killed Snorg
+ 19296 | Orc:1    | Reached skill level 5 in Polearms
+ 19436 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 19521 | Orc:1    | Noticed an ettin
+ 19761 | D:9      | Killed an ettin
+ 20165 | Orc:1    | Noticed a stone giant
+ 20472 | Orc:1    | Killed a stone giant
+ 20472 | Orc:1    | Gained Oreg as an ally
+ 20769 | D:10     | Bought an uncursed amulet of regeneration for 390 gold
+                  | pieces
+ 20826 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 20923 | Lair:1   | Reached XP level 13. HP: 101/116 MP: 22/22
+ 21057 | D:8      | Gained Korbok as an ally
+ 22016 | D:8      | Reached skill level 10 in Evocations
+ 22016 | D:8      | Reached XP level 14. HP: 126/126 MP: 22/24
+ 22038 | Lair:2   | Noticed Nergalle
+ 22798 | Lair:2   | Found a staircase to the Snake Pit.
+ 23020 | Lair:2   | Reached skill level 5 in Long Blades
+ 23074 | Lair:2   | Identified the +11 long sword of Unreason {slice, rF- rC++
+                  | Int+3 SInv} (You found it on level 2 of the Lair of Beasts)
+ 23794 | Lair:2   | Reached skill level 14 in Invocations
 
-Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
----------------+----------------------------------+-----
-Axes           |  3  4     5              7       |  7.7
-Fighting       |     4        5  6  7 10          | 10.3
-Maces & Flails |              2     3     5       |  5.5
-Slings         |              1     3             |  3.2
-Short Blades   |              1                 3 |  3.0
-Evocations     |              1           2  5  6 |  6.3
-Throwing       |                    2           3 |  3.1
-Polearms       |                          3  4    |  4.4
-Armour         |                          5       |  5.1
-Shields        |                          5       |  5.7
-Dodging        |                             1    |  1.0
-Invocations    |                             8  9 |  9.5
-Stealth        |                             2    |  2.4
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Axes           |  3  4     5              7           8    |  8.5
+Fighting       |     4        5  6  7 10          11 12    | 12.1
+Maces & Flails |              2     3     5                |  5.5
+Slings         |              1     3              4       |  4.0
+Short Blades   |              1                 3          |  3.0
+Evocations     |              1           2  5  7  9 10    | 10.1
+Throwing       |                    2           3  4       |  4.0
+Polearms       |                          3  4     5       |  5.7
+Armour         |                          5                |  5.1
+Shields        |                          5                |  5.7
+Dodging        |                             1        2    |  2.2
+Invocations    |                             8 11 13    14 | 14.2
+Stealth        |                             2             |  2.4
+Long Blades    |                                      3  5 |  5.0
 
-Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
--------------------------+-------+-------+-------+-------++-------
-Melee: War axe           |  4077 |    50 |    11 | 12126 || 16264
-       Whip              |       |   133 |  4276 | 16170 || 20579
-       Flail             |       |       |  4011 | 16007 || 20018
-       Dagger            |       |       |       |  4021 ||  4021
- Fire: Hunting sling     |       |    33 |   166 |   244 ||   443
-Throw: Throwing net      |       |       |     1 |       ||     1
-       Tomahawk          |       |       |     1 |     2 ||     3
-       Javelin           |       |       |     1 |     7 ||     8
- Cast: Blink             |       |       |       |     2 ||     2
-Invok: Convert to Beogh  |       |     1 |       |       ||     1
-       Recall Orcish Fol |       |       |       |     1 ||     1
-Evoke: Wand              |       |     3 |     1 |     7 ||    11
-  Use: Potion            |       |       |     6 |     1 ||     7
-       Scroll            |       |       |     8 |    11 ||    19
- Stab: Held in net/web   |       |       |     1 |       ||     1
-       Paralysed         |       |       |       |     5 ||     5
-  Eat: Chunk             |     1 |     7 |    13 |    17 ||    38
-       Ration            |       |       |     1 |     1 ||     2
-Armor: Scale mail        |   819 |    68 |    69 |       ||   956
-       Plate armour      |       |       |  2708 | 46095 || 48803
-       Troll leather arm |       |       |       |  1632 ||  1632
-Dodge: Dodged            |   355 |    22 |   341 | 11849 || 12567
-Block: Shield            |     4 |       |       |       ||     4
-       Large shield      |  2270 |   142 |  4563 | 61959 || 68934
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |  4077 |    50 |    11 | 20346 |    67 || 24551
+       Whip              |       |   133 |  4276 | 20171 |       || 24580
+       Flail             |       |       |  4011 | 16007 |  4000 || 24018
+       Dagger            |       |       |       |  4052 |       ||  4052
+       Trident           |       |       |       |    78 |       ||    78
+       Morningstar       |       |       |       |  4004 |  4000 ||  8004
+       Demon trident     |       |       |       |  4002 |       ||  4002
+       Long sword        |       |       |       |  4000 |       ||  4000
+ Fire: Hunting sling     |       |    33 |   166 |   381 |     8 ||   588
+       Blowgun           |       |       |       |    13 |     4 ||    17
+Throw: Throwing net      |       |       |     1 |       |       ||     1
+       Tomahawk          |       |       |     1 |     6 |     1 ||     8
+       Javelin           |       |       |     1 |    11 |     6 ||    18
+ Cast: Blink             |       |       |       |     2 |       ||     2
+Invok: Convert to Beogh  |       |     1 |       |       |       ||     1
+       Recall Orcish Fol |       |       |       |    11 |    15 ||    26
+       Stop Recall       |       |       |       |     3 |    11 ||    14
+       Smiting           |       |       |       |     2 |       ||     2
+       Give Item to Name |       |       |       |       |     3 ||     3
+ Abil: Evoke Flight      |       |       |       |     3 |       ||     3
+Evoke: Wand              |       |     3 |     1 |    29 |     1 ||    34
+  Use: Potion            |       |       |     6 |     7 |     1 ||    14
+       Scroll            |       |       |     8 |    19 |     8 ||    35
+ Stab: Held in net/web   |       |       |     1 |       |       ||     1
+       Paralysed         |       |       |       |     5 |       ||     5
+       Distracted        |       |       |       |     2 |     2 ||     4
+  Eat: Chunk             |     1 |     7 |    13 |    28 |     3 ||    52
+       Ration            |       |       |     1 |     4 |     2 ||     7
+Armor: Scale mail        |   819 |    68 |    69 |       |       ||   956
+       Plate armour      |       |       |  2708 | 76861 |  2707 || 82276
+       Troll leather arm |       |       |       |  1636 |       ||  1636
+Dodge: Dodged            |   355 |    22 |   341 | 16438 |   435 || 17591
+Block: Shield            |     4 |       |       |       |       ||     4
+       Large shield      |  2270 |   142 |  4563 | 89521 |  4106 ||100602
+Rpst.: Long sword        |       |       |       |    64 |       ||    64
 

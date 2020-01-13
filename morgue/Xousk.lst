@@ -178,63 +178,92 @@ Level 8 of the Dungeon
   a +0 spear (36 gold)
   15 stones (18 gold)
 (0, 0, D:8)
+  a +0 robe
+(1, -2, D:8)
+  a wand of disintegration (11)
+  2 scrolls of fog
+  a wand of iceblast (12)
+  5 scrolls of teleportation
+  a wand of digging (4)
+  a wand of flame (47)
+  a wand of acid (16)
+  a scroll of holy word
+(1, 0, D:8)
+  a +2 helmet
+  a buckler
   the +1 leather armour of Eplirab {-Tele rF+ rN+++ Str+2}
     It affects your strength (+2).
     It protects you from fire.
     It renders you almost immune to negative energy.
     It prevents most forms of teleportation.
   a +0 plate armour
-  a +0 plate armour
   a +0 shield
-(1, -1, D:8)
+  +1 swamp dragon scales
+(1, 1, D:8)
+  a +0 ring mail
+(2, -1, D:8)
   a runed whip
   a runed dagger
-  a glowing flail
-  a runed dagger
-(1, 0, D:8)
+(2, 0, D:8)
+  a +0 long sword of electrocution
+  a +0 flail of draining
+  a +1 whip of electrocution
   a +0 broad axe
   a +0 broad axe
   a +1 whip of flaming
   45 bolts
-  10 poisoned needles
-(1, 1, D:8)
+  a +3 flail of protection
+  a +1 dagger of electrocution
+  11 silver javelins
+  4 poisoned tomahawks
+  52 tomahawks of returning
+  a +0 flail of protection
+(2, 1, D:8)
+  a cursed +0 falchion
   a +0 spear
-(1, 16, D:8)
+(2, 16, D:8)
   a +0 giant club
-(2, 0, D:8)
+(3, -1, D:8)
+  a glaive
+(3, 0, D:8)
+  a +2 dire flail of protection
   a +2 scythe of venom
-  a +0 glaive
   a +0 shortbow
   a +0 halberd
-  260 arrows
-(3, -1, D:8)
-  an amethyst potion
-  a sedimented brown potion
-  a glowing golden potion
-  a scroll labeled YCHEUMUGHE
-  a scroll labeled CAMPAU DUEBO
-  2 silvery potions
-(3, 0, D:8)
-  a scroll of amnesia
+  a +2 shortbow of freezing
+  a +0 glaive
+  a +4 battleaxe of flaming
+  287 arrows
+(4, -1, D:8)
+  a scroll labeled CEACOW ROXADD
+(4, 0, D:8)
+  a potion of flight
+  a scroll of immolation
+  an uncursed ring of see invisible
+  2 scrolls of amnesia
+  a potion of ambrosia
+  3 scrolls of remove curse
+  a crystal ball of energy
+  an uncursed ring of magical power
   an uncursed staff of conjuration
-(4, 12, D:8)
+(5, 12, D:8)
   a +0 dagger
-(9, 7, D:8)
+(10, 7, D:8)
   a +0 chain mail
   a +0 antimagic dagger
-(12, -18, D:8)
+(13, -18, D:8)
   a +0 giant club
   a cursed -2 giant spiked club
-(23, 22, D:8)
+(24, 22, D:8)
   a +0 mace
-(25, 19, D:8)
+(26, 19, D:8)
   a +0 leather armour
-(27, 20, D:8)
+(28, 20, D:8)
   a +0 dire flail
-(27, 22, D:8)
+(28, 22, D:8)
   a +0 chain mail
   a +0 war axe
-(28, 25, D:8)
+(29, 25, D:8)
   a quarterstaff
 
 Level 9 of the Dungeon
@@ -242,6 +271,9 @@ Level 9 of the Dungeon
   a potion of degeneration
 (0, 1, D:9)
   a potion of degeneration
+(6, 0, D:9)
+  a +0 dire flail
+  a +0 great mace
 (11, 0, D:9)
   a +0 club
 (11, 3, D:9)
@@ -253,7 +285,6 @@ Level 9 of the Dungeon
 (15, 1, D:9)
   a cursed -2 chain mail
   a potion of degeneration
-  an orc corpse
 (16, 1, D:9)
   a +0 ring mail
   a +0 flail
@@ -279,11 +310,8 @@ Level 9 of the Dungeon
 (27, -5, D:9)
   a +0 leather armour
   a +0 flail
-(28, -4, D:9)
-  a swamp drake corpse
 (28, 0, D:9)
   a +0 ring mail
-  an orc corpse (skeletalised by now)
 (29, -34, D:9)
   a +0 shortbow
 (32, -15, D:9)
@@ -293,25 +321,280 @@ Level 9 of the Dungeon
   a +0 leather armour
   a +0 club
   a potion of degeneration
+(53, -46, D:9)
+  a +0 scale mail
+(53, -45, D:9)
+  a +0 leather armour
+  a +0 dagger
 (53, -38, D:9)
   a +0 cloak
   a cursed -3 short sword
+(54, -46, D:9)
+  a +0 flail
+(54, -45, D:9)
+  a +0 ring mail
+  a +0 short sword
 
 Level 10 of the Dungeon
+[Shop] Gustraw's Jewellery Boutique
+  an uncursed ring of positive energy (unknown) (260 gold)
+  an uncursed ring of wizardry (unknown) (390 gold)
+  an uncursed ring of wizardry (unknown) (390 gold)
+  an uncursed ring of protection from fire (unknown) (325 gold)
+  an uncursed ring of ice (unknown) (325 gold)
+  an uncursed ring of stealth (unknown) (227 gold)
+  an uncursed ring of protection from fire (unknown) (325 gold)
 (0, 0, D:10)
-  a hand axe
-(1, -1, D:10)
-  a hand axe
+  a club
+  a leather armour
 (1, 1, D:10)
+  a +0 falchion
+(1, 2, D:10)
+  a +0 flail
+(1, 22, D:10)
+  a +0 leather armour
+  a +0 flail
+(1, 23, D:10)
+  a +0 mace
+(4, 14, D:10)
+  a +0 robe
+  a +0 dagger
+(5, -6, D:10)
   a hand axe
-(2, 0, D:10)
+(6, -7, D:10)
+  a hand axe
+(6, -5, D:10)
+  a hand axe
+(7, -6, D:10)
   a +0 dagger
   a hand axe
-(2, 1, D:10)
+(7, -5, D:10)
   a +0 short sword
   a +0 short sword
-(9, 16, D:10)
-  13 gold pieces
+(12, 11, D:10)
+  a +0 robe
+  a +0 trident
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 dagger
+  a +0 robe
+(1, 1, D:11)
+  a +0 chain mail
+(8, 2, D:11)
+  a dagger
+(22, 8, D:11)
+  a sling bullet
+(22, 9, D:11)
+  a sling bullet
+(23, 7, D:11)
+  3 sling bullets
+(24, -26, D:11)
+  a stone
+(24, 6, D:11)
+  a cursed -2 dagger
+  (unseen)
+(25, 4, D:11)
+  a +0 giant club
+  (unseen)
+(25, 7, D:11)
+  a scale mail
+(26, -26, D:11)
+  a stone
+(26, -12, D:11)
+  a ration
+(27, -26, D:11)
+  a +0 whip
+  2 stones
+(28, -27, D:11)
+  a stone
+(29, -27, D:11)
+  a stone
+(29, -7, D:11)
+  a stone
+(30, -27, D:11)
+  a +0 short sword (still there?)
+  2 stones (still there?)
+(30, -8, D:11)
+  a +0 robe
+(30, -7, D:11)
+  a stone
+(31, -29, D:11)
+  a +0 short sword
+(31, -28, D:11)
+  a stone
+(31, -27, D:11)
+  a +0 short sword
+  (unseen)
+(31, -8, D:11)
+  a +0 mace
+  a +0 chain mail
+(32, -29, D:11)
+  a +0 dagger
+  a +0 robe
+(32, -8, D:11)
+  a stone
+(33, -30, D:11)
+  a stone
+(34, -31, D:11)
+  a +0 dagger
+  a +0 robe
+(35, 9, D:11)
+  20 gold pieces
+(37, -23, D:11)
+  a pair of gloves
+(38, 10, D:11)
+  10 gold pieces
+(41, 4, D:11)
+  a glowing long sword
+(42, -8, D:11)
+  a +0 shortbow
+  (unseen)
+(42, -7, D:11)
+  a +0 shortbow
+  (unseen)
+(42, -6, D:11)
+  7 arrows
+(42, -5, D:11)
+  3 arrows
+(42, -4, D:11)
+  4 arrows
+(42, -3, D:11)
+  an arrow
+(43, -8, D:11)
+  a cursed -2 shortbow
+  (unseen)
+(44, -8, D:11)
+  a cursed -1 shortbow
+  (unseen)
+(50, -3, D:11)
+  a spear
+(60, 12, D:11)
+  a sling bullet
+(61, -25, D:11)
+  12 gold pieces
 
 the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a +0 scale mail
+  a +0 falchion
+(1, 0, Orc:1)
+  a +0 dagger
+(2, -3, Orc:1)
+  a +0 chain mail
+  a +0 trident
+(3, -3, Orc:1)
+  a +0 dagger
+(5, -1, Orc:1)
+  a +0 robe
+  a +0 dagger
+(8, -1, Orc:1)
+  a +0 robe
+  a +0 dagger
+(8, 0, Orc:1)
+  a +0 plate armour
+(8, 1, Orc:1)
+  a +0 chain mail
+(16, -12, Orc:1)
+  a cursed +0 giant club
+(16, 0, Orc:1)
+  a +0 robe
+  a +0 dagger
+(19, 3, Orc:1)
+  a +0 plate armour
+  a +0 short sword
+(20, -13, Orc:1)
+  a cursed +0 robe
+  a cursed -1 dagger
+(20, -12, Orc:1)
+  a cursed +0 chain mail
+  a cursed -3 hand axe
+(20, -7, Orc:1)
+  a +0 giant club
+(20, 3, Orc:1)
+  a +0 plate armour
+  a +0 broad axe
+(21, -12, Orc:1)
+  a +0 whip
+(24, -12, Orc:1)
+  a +0 robe
+  a +0 dagger
+(30, -33, Orc:1)
+  a large rock
+(30, -31, Orc:1)
+  a large rock
+(30, -30, Orc:1)
+  a large rock
+(32, -19, Orc:1)
+  a +0 leather armour
+  a +0 flail
+(32, -3, Orc:1)
+  a +0 giant club
+(33, 1, Orc:1)
+  a large rock
+(34, -21, Orc:1)
+  a cursed -2 mace
+(35, -22, Orc:1)
+  a +0 troll leather armour
+(36, -22, Orc:1)
+  a +0 chain mail
+  a +0 hand axe
+(36, -21, Orc:1)
+  a +0 giant spiked club
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  6 large rocks
+(2, 25, Lair:1)
+  a scale mail
+(7, 1, Lair:1)
+  a ring mail
+(8, 49, Lair:1)
+  a pair of gloves
+(16, 50, Lair:1)
+  a leather armour
+(26, 28, Lair:1)
+  a +0 trident
+(54, 51, Lair:1)
+  a trident
+(56, 43, Lair:1)
+  a plate armour
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a potion of degeneration
+(6, 6, Lair:2)
+  a yak skeleton
+  a blink frog skeleton
+(6, 7, Lair:2)
+  a blink frog skeleton
+(7, 2, Lair:2)
+  a blink frog skeleton
+(7, 5, Lair:2)
+  a yak skeleton
+  a blink frog skeleton
+(8, 5, Lair:2)
+  a yak skeleton
+(8, 6, Lair:2)
+  a hippogriff skeleton
+(14, -8, Lair:2)
+  a leather armour
+(23, -5, Lair:2)
+  a chain mail
+(30, 16, Lair:2)
+  a +0 hand axe
+(41, 12, Lair:2)
+  a crocodile skeleton
+(46, 18, Lair:2)
+  a whip
+(53, 18, Lair:2)
+  a quarterstaff
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  17 arrows
+(1, 5, Lair:3)
+  21 stones
 
