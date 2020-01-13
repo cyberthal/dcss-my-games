@@ -36,29 +36,10 @@ Level 2 of the Dungeon
 
 Level 3 of the Dungeon
 (0, 0, D:3)
-  16 arrows
-(1, -6, D:3)
-  a ration
-(1, -2, D:3)
-  12 gold pieces
-(1, 0, D:3)
-  8 gold pieces
-(2, -4, D:3)
-  a shield
-(2, 7, D:3)
-  a stone
-(4, 0, D:3)
-  27 arrows
-(6, 0, D:3)
-  a ration
-(7, -1, D:3)
-  a scroll of fog
-(9, 7, D:3)
-  a stone
-(35, 9, D:3)
   a +0 club
-(41, 22, D:3)
-  a scroll of teleportation
+  a +0 ring mail
+(33, -18, D:3)
+  a +0 club
 
 Level 4 of the Dungeon
 (21, -3, D:4)
@@ -128,6 +109,8 @@ Level 6 of the Dungeon
   a cursed -2 whip
 (51, 1, D:6)
   a mace
+(52, -2, D:6)
+  a +2 cloak
 
 Level 7 of the Dungeon
 (0, 0, D:7)
@@ -179,18 +162,12 @@ Level 8 of the Dungeon
   15 stones (18 gold)
 (0, 0, D:8)
   a +0 robe
-(1, -2, D:8)
-  a wand of disintegration (11)
-  2 scrolls of fog
-  a wand of iceblast (12)
-  5 scrolls of teleportation
-  a wand of digging (4)
-  a wand of flame (47)
-  a wand of acid (16)
-  a scroll of holy word
 (1, 0, D:8)
   a +2 helmet
-  a buckler
+  the +7 chain mail "Ijegg" {MP+9 Int+5}
+    It affects your intelligence (+5).
+    It affects your magic capacity (+9).
+  a shield
   the +1 leather armour of Eplirab {-Tele rF+ rN+++ Str+2}
     It affects your strength (+2).
     It protects you from fire.
@@ -198,6 +175,7 @@ Level 8 of the Dungeon
     It prevents most forms of teleportation.
   a +0 plate armour
   a +0 shield
+  a buckler
   +1 swamp dragon scales
 (1, 1, D:8)
   a +0 ring mail
@@ -205,13 +183,13 @@ Level 8 of the Dungeon
   a runed whip
   a runed dagger
 (2, 0, D:8)
+  a +1 falchion of protection
   a +0 long sword of electrocution
   a +0 flail of draining
   a +1 whip of electrocution
   a +0 broad axe
   a +0 broad axe
   a +1 whip of flaming
-  45 bolts
   a +3 flail of protection
   a +1 dagger of electrocution
   11 silver javelins
@@ -225,6 +203,7 @@ Level 8 of the Dungeon
   a +0 giant club
 (3, -1, D:8)
   a glaive
+  a +2 quarterstaff of chaos
 (3, 0, D:8)
   a +2 dire flail of protection
   a +2 scythe of venom
@@ -233,16 +212,21 @@ Level 8 of the Dungeon
   a +2 shortbow of freezing
   a +0 glaive
   a +4 battleaxe of flaming
-  287 arrows
-(4, -1, D:8)
-  a scroll labeled CEACOW ROXADD
+  386 arrows
 (4, 0, D:8)
   a potion of flight
   a scroll of immolation
   an uncursed ring of see invisible
+  a potion of magic
+  an uncursed staff of fire
+  a scroll of holy word
+  a box of beasts
+  a potion of invisibility
+  a potion of might
   2 scrolls of amnesia
+  a wand of digging (4)
   a potion of ambrosia
-  3 scrolls of remove curse
+  5 scrolls of remove curse
   a crystal ball of energy
   an uncursed ring of magical power
   an uncursed staff of conjuration
@@ -338,8 +322,7 @@ Level 9 of the Dungeon
 Level 10 of the Dungeon
 [Shop] Gustraw's Jewellery Boutique
   an uncursed ring of positive energy (unknown) (260 gold)
-  an uncursed ring of wizardry (unknown) (390 gold)
-  an uncursed ring of wizardry (unknown) (390 gold)
+  an uncursed ring of wizardry (390 gold)
   an uncursed ring of protection from fire (unknown) (325 gold)
   an uncursed ring of ice (unknown) (325 gold)
   an uncursed ring of stealth (unknown) (227 gold)
@@ -565,36 +548,60 @@ Level 1 of the Lair of Beasts
 Level 2 of the Lair of Beasts
 (0, 0, Lair:2)
   a potion of degeneration
-(6, 6, Lair:2)
-  a yak skeleton
-  a blink frog skeleton
-(6, 7, Lair:2)
-  a blink frog skeleton
-(7, 2, Lair:2)
-  a blink frog skeleton
-(7, 5, Lair:2)
-  a yak skeleton
-  a blink frog skeleton
-(8, 5, Lair:2)
-  a yak skeleton
-(8, 6, Lair:2)
-  a hippogriff skeleton
 (14, -8, Lair:2)
   a leather armour
 (23, -5, Lair:2)
   a chain mail
 (30, 16, Lair:2)
   a +0 hand axe
-(41, 12, Lair:2)
-  a crocodile skeleton
 (46, 18, Lair:2)
   a whip
 (53, 18, Lair:2)
   a quarterstaff
 
 Level 3 of the Lair of Beasts
-(0, 0, Lair:3)
-  17 arrows
-(1, 5, Lair:3)
-  21 stones
+(1, -34, Lair:3)
+  a chain mail
+(4, 7, Lair:3)
+  a leather armour
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a +2 cloak
+(5, 2, Lair:4)
+  a scroll of summoning
+(5, 4, Lair:4)
+  a glowing long sword
+(6, 2, Lair:4)
+  a potion of curing
+(6, 3, Lair:4)
+  a potion of haste
+(6, 6, Lair:4)
+  a book of Maledictions
+(15, -18, Lair:4)
+  a ring of flight
+(23, 18, Lair:4)
+  a ring mail
+(28, 28, Lair:4)
+  a trident
+(29, 27, Lair:4)
+  a plate armour
+(34, 1, Lair:4)
+  a hat
+(45, 3, Lair:4)
+  a blowgun
+(49, 4, Lair:4)
+  20 stones
+(53, 3, Lair:4)
+  38 gold pieces
+(53, 4, Lair:4)
+  20 gold pieces
+(53, 5, Lair:4)
+  a short sword
+(54, 4, Lair:4)
+  6 gold pieces
+(54, 5, Lair:4)
+  a ring of attention
+(55, 5, Lair:4)
+  11 gold pieces
 
