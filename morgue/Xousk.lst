@@ -618,17 +618,58 @@ Level 4 of the Lair of Beasts
 
 Level 5 of the Lair of Beasts
 (0, 0, Lair:5)
-  a water moccasin corpse
-(32, 10, Lair:5)
+  a cursed -2 club
+(2, -1, Lair:5)
+  a +0 flail
+(3, -1, Lair:5)
+  a +0 leather armour
+  a cursed +0 mace
+(26, 25, Lair:5)
+  a +0 chain mail
+  a +1 great sword of protection
+  14 arrows
+(32, 11, Lair:5)
   a hand axe
-(50, 8, Lair:5)
+(41, -7, Lair:5)
+  a +0 chain mail
+  a +0 hand axe
+(50, 9, Lair:5)
   a flail
 
 Level 6 of the Lair of Beasts
 (0, 0, Lair:6)
-  a wand of iceblast (4)
-(5, 1, Lair:6)
-  a scroll of remove curse
-(8, 2, Lair:6)
-  26 gold pieces
+  17 arrows
+(31, -38, Lair:6)
+  a pair of boots
+(35, 5, Lair:6)
+  2 scrolls of identify
+  2 scrolls of remove curse
+(55, 1, Lair:6)
+  a dyed leather armour
+(55, 2, Lair:6)
+  a crystal ball of energy
+(55, 8, Lair:6)
+  a death yak corpse (skeletalised by now)
+(57, -1, Lair:6)
+  a ring mail
+(57, 0, Lair:6)
+  a scroll of magic mapping
+(57, 4, Lair:6)
+  a human skeleton
+(58, -1, Lair:6)
+  8 arrows
+(59, -2, Lair:6)
+  a scroll of magic mapping
+(59, 2, Lair:6)
+  an orc skeleton
+(60, 0, Lair:6)
+  an orc skeleton
+(60, 7, Lair:6)
+  an elf skeleton
+(61, 8, Lair:6)
+  an orc skeleton
+(65, 2, Lair:6)
+  an elf skeleton
+(70, 5, Lair:6)
+  a water moccasin corpse
 
