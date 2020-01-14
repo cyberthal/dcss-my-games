@@ -2,11 +2,11 @@
 
 Game seed: 13965250206695313955
 
-Xousk the Apostle (Hill Orc Fighter)               Turns: 28054, Time: 06:28:02
+Xousk the Apostle (Hill Orc Fighter)               Turns: 31612, Time: 07:30:24
 
-Health: 126/126    AC: 27    Str: 26    XL:     14   Next: 58%
-Magic:  24/24      EV:  4    Int:  8    God:    Beogh 145 (0)
-Gold:   49         SH: 16    Dex: 10    Spells: 11/13 levels left
+Health: 127/127    AC: 27    Str: 26    XL:     14   Next: 89%
+Magic:  24/24      EV:  4    Int:  8    God:    Beogh 144 (0)
+Gold:   325        SH: 16    Dex: 10    Spells: 11/13 levels left
 
 rFire    . . .     SeeInvis .   d - +7 war axe {freeze, -Tele rC+ MR+}
 rCold    + . .     Gourm    .   G - +0 large shield
@@ -25,15 +25,15 @@ a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Renounce
 Religion
 
 
-You are on level 4 of the Lair of Beasts.
+You are on level 6 of the Lair of Beasts.
 You worship Beogh.
 Beogh is extremely pleased with you.
-You are hungry.
+You are not hungry.
 
-You have visited 4 branches of the dungeon, and seen 17 of its levels.
-You have also visited: Bailey and Gauntlet.
+You have visited 4 branches of the dungeon, and seen 19 of its levels.
+You have also visited: Bailey, Gauntlet and Volcano.
 
-You have collected 1594 gold pieces.
+You have collected 1870 gold pieces.
 You have spent 1545 gold pieces at shops.
 
 Inventory:
@@ -65,69 +65,83 @@ Hand Weapons
  g - a +0 blowgun
  h - a +0 hunting sling
 Missiles
- p - 329 stones
- q - 75 sling bullets
+ n - 111 bolts
+ p - 330 stones
+ q - 73 sling bullets
  t - 25 poisoned needles
- x - 2 throwing nets
- E - 94 bolts
- H - 17 javelins (quivered)
- O - 15 tomahawks
+ H - 17 javelins
+ O - 15 tomahawks (quivered)
 Armour
  k - a +2 pair of gloves (worn)
  m - a +2 pair of boots (worn)
  r - a +2 cloak of magic resistance (worn)
+ v - a +0 troll leather armour
  G - a +0 large shield (worn)
  I - a +2 hat of magic resistance (worn)
- K - a +0 troll leather armour
  L - a +3 plate armour of positive energy (worn)
 Jewellery
  i - a +2 ring of strength (left hand)
  l - an amulet of regeneration (around neck)
  N - an uncursed ring of flight
+ R - the ring "Fecloch" {Fire +Fly MR+ Str-4 Slay+3}
+   (You found it on level 5 of the Lair of Beasts)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   It affects your strength (-4).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It protects you from fire.
+   It makes you vulnerable to cold.
+   It affects your resistance to hostile enchantments.
+   It lets you fly.
  S - an uncursed ring of wizardry
  V - a ring of poison resistance (right hand)
- X - an uncursed ring of fire
  Z - an uncursed amulet of the acrobat
 Wands
- n - a wand of flame (88)
- z - a wand of acid (16)
+ w - a wand of flame (88)
+ z - a wand of acid (15)
  B - a wand of iceblast (20)
- C - a wand of random effects (17)
- M - a wand of polymorph (11)
+ C - a wand of random effects (29)
+ F - a wand of digging (10)
+ M - a wand of polymorph (19)
  Y - a wand of disintegration (11)
 Scrolls
  s - 3 scrolls of fog
  P - 8 scrolls of teleportation
+ W - 2 scrolls of identify
 Potions
  j - 6 potions of curing
+ u - 2 emerald potions {berserk}
+ x - 2 potions of might
  A - 2 potions of brilliance
  D - 2 potions of lignification
- F - a potion of haste
  Q - 3 potions of cancellation
  T - 3 potions of heal wounds
 Miscellaneous
  o - a phial of floods
- u - a lamp of fire
+ y - a lamp of fire
  J - a fan of gales
 Comestibles
- U - 24 rations
+ U - 23 rations
 
 
    Skills:
- + Level 12.2 Fighting
+ + Level 12.6 Fighting
  - Level 3.0(4.6) Short Blades
  - Level 6.0(6.4) Long Blades
  - Level 9.2(11.4) Axes
  - Level 6.5(8.2) Maces & Flails
  - Level 6.6(8.3) Polearms
  - Level 4.0(4.8) Slings
- * Level 0.8 Crossbows
+ * Level 4.0 Crossbows
  - Level 4.0(4.8) Throwing
  - Level 6.0 Armour
  - Level 2.2 Dodging
  - Level 2.4 Stealth
  - Level 6.0 Shields
- + Level 0.3 Translocations
+ - Level 2.0 Translocations
  - Level 14.3 Invocations
  - Level 10.1 Evocations
 
@@ -141,6 +155,7 @@ a - Blink                 Tloc           N/A          100%        2    100
 Your spell library contains the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
+ Apportation              Tloc           3 (50)       100%        1    50
  Beastly Appendage        Tmut           0 (50)       100%        1    50
  Corona                   Hex            0 (90)       100%        1    50
  Infusion                 Chrm           0 (25)       100%        1    50
@@ -148,7 +163,7 @@ Your spell library contains the following spells:
  Summon Butterflies       Summ           0 (100)      100%        1    50
  Call Imp                 Summ           0 (100)      100%        2    100
  Ensorcelled Hibernation  Hex/Ice        0 (50)       100%        2    100
- Shroud of Golubria       Chrm/Tloc      0 (200)      100%        2    100
+ Shroud of Golubria       Chrm/Tloc      1 (200)      100%        2    100
  Slow                     Hex            0 (100)      100%        2    100
  Song of Slaying          Chrm           0 (100)      100%        2    100
  Sticks to Snakes         Tmut           0 (100)      100%        2    100
@@ -156,6 +171,7 @@ Your spell library contains the following spells:
  Confuse                  Hex            0 (100)      100%        3    150
  Conjure Flame            Conj/Fire      0 (100)      100%        3    150
  Dazzling Spray           Conj/Hex       0 (50)       100%        3    150
+ Lesser Beckoning         Tloc           3 (200)      100%        3    150
  Mephitic Cloud           Conj/Pois/Air  0 (100)      100%        3    150
  Regeneration             Chrm/Necr      0 (200)      100%        3    150
  Spectral Weapon          Hex/Chrm       0 (100)      100%        3    150
@@ -163,16 +179,19 @@ Your spell library contains the following spells:
  Tukima's Dance           Hex            0 (100)      100%        3    150
  Ice Form                 Ice/Tmut       0 (100)      100%        4    250
  Summon Ice Beast         Ice/Summ       0 (100)      100%        4    250
+ Alistair's Intoxication  Tmut/Pois      0 (100)      100%        5    400
  Blade Hands              Tmut           0 (200)      100%        5    400
  Summon Mana Viper        Hex/Summ       0 (100)      100%        5    400
+ Invisibility             Hex            0 (100)      100%        6    550
  Summon Hydra             Summ           0 (200)      100%        7    700
 
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (11/15)            Temple (1/1) D:4            Lair (4/6) D:8
-  Swamp (0/4) Lair:3        Snake (0/4) Lair:2          Orc (1/2) D:9
+Dungeon (11/15)            Temple (1/1) D:4            Lair (6/6) D:8
+  Swamp (0/4) Lair:3        Snake (0/4) Lair:2        Slime (0/5) Lair:5
+    Orc (1/2) D:9         
 
 Altars:
 Ashenzari
@@ -203,60 +222,49 @@ Shops:
 D:8 *   D:10 =
 
 Annotations:
-Lair:4 3 runed translucent doors, exclusion: 2 oklob plants, Juirae's ghost,
+Lair:4 3 runed translucent doors., exclusion: 2 oklob plants, Juirae's ghost,
 journeyman TrMo
 
 Message History
 
-Level annotation: 3 runed translucent doors, exclusion: 2 oklob plants,
-Juirae's ghost, journeyman TrMo
-There is a stone staircase leading up here.
+You slash the black mamba simulacrum!
+The black mamba simulacrum is moderately damaged.
+You block the black mamba simulacrum's attack. x2
+You closely miss the black mamba simulacrum.
+The black mamba simulacrum is moderately damaged.
+You block the black mamba simulacrum's attack. x2
+The black mamba simulacrum barely misses you.
+You slash the black mamba simulacrum!
+The black mamba simulacrum vapourises!
+Beogh accepts your kill.
 Move the cursor to view the level map, or type ? for a list of commands.
 Returning to the game...
-Juirae's ghost flexes its fingers.
 There is a stone staircase leading down here.
 Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
 The +7 war axe of the Last Beggars {freeze, -Tele rC+ MR+} glows with a cold
 blue light!
 d - the +7 war axe of the Last Beggars (weapon) {freeze, -Tele rC+ MR+}
-Okay, then.
-Saving game... please wait.
-Level annotation: 3 runed translucent doors, exclusion: 2 oklob plants,
-Juirae's ghost, journeyman TrMo
-Welcome back, Xousk the Hill Orc Fighter.
-Beogh says: Drown the unbelievers in a sea of blood!
-Press ? for a list of commands and other information.
-Okay, then.
-Okay, then.
-Okay, then.
-Okay, then.
+You climb downwards.
+Found a wand of iceblast (4), a scroll of remove curse and 26 gold pieces.
+There is a stone staircase leading up here.
 Saving game... please wait.
 
-            ##..##      ##....##
-            #P...#     ##....##
-            ##...#     #.....#
-            ##..[### ###...###
- #7#        #.....##7~7##...#
-#7~7#### #####....#..?!7##.##
-~~~P...###P#.#....+...!.7#.##    #
-~~~~..............+..)..7#..#    #
-~~~.....#..#......+......#.##    #
-~~~P...###.#.#....#DW.:7##.#    ##
-7~~....P#####.....##~7~##..#    #P
-#77~##.##   ##...@.#####...#    #.
-  #7####     #.<.#.....#...#  ###.
-            ##...######....# ##...
-            #.....#   #....###.#..
-            ##...##   ##....##.^#.
-            ##...#     ##....#.#.#
-            #....##     ##......##
-            ###...#      ##......#
-            ##....###     ##.%..##
-            #.......#      ##.....
-            ###.....##      #.....
+#
+#
+#                   ##
+#                 ##.##
+.#                #P.P##
+....             ##....##
+...#..           #.@....#
+##...            #.........
+. ....           ##........
+#  .##            .........
+    #             /........
+                 #..##.?...
+                 #### ####$
 
 
-You can see a nine-headed hydra and Juirae's ghost.
+There are no monsters in sight!
 
 Vanquished Creatures
   Gastronok (D:9)
@@ -264,22 +272,26 @@ Vanquished Creatures
   Snorg (Orc:1)
   Harold (D:9)
   A rakshasa (D:10)
+  A catoblepas (Lair:4)
   2 two-headed ogres
+  A sun demon (Volcano)
   An unseen horror (D:10)
   A sixfirhy (Gauntlet)
   3 orc knights
   Pikel (D:5)
   A cyclops (D:7)
-  An ugly thing (D:11)
+  3 ugly things
   3 elephants
   Maurice (D:9)
-  A black mamba (Lair:1)
+  2 black mambas
+  2 molten gargoyles (Volcano)
   Psyche (D:11)
   A torpor snail (Gauntlet)
   4 spiny frogs
   2 kobold demonologists (D:11)
-  A rime drake (Lair:3)
+  3 rime drakes
   3 komodo dragons
+  A red devil (Volcano)
   2 trolls
   Grinder (D:3)
   2 polar bears (Lair:3)
@@ -290,15 +302,19 @@ Vanquished Creatures
   A shadow (D:10)
   Sigmund (D:5)
   2 wyverns (D:8)
-  16 yaks
+  20 yaks
   A wraith (D:10)
-  A basilisk (Lair:1)
+  2 basilisks
   Eustachio (D:5)
+  2 fire bats (Volcano)
   A hungry ghost (D:8)
+  A catoblepas simulacrum (Lair:5)
   Edmund (D:5)
   A naga (Lair:1)
-  2 water moccasins (Lair:2)
+  A hell hound (Volcano)
+  4 water moccasins
   4 porcupines
+  A hydra simulacrum (Lair:5)
   An ice beast (D:8)
   12 orc warriors
   A swamp drake (D:9)
@@ -306,22 +322,26 @@ Vanquished Creatures
   A slave (D:4)
   3 phantoms
   2 black bears
+  A black mamba simulacrum (Lair:5)
   6 ogres
   4 wolves (Gauntlet)
   9 centaurs
-  A crocodile (D:10)
+  2 crocodiles
   2 big kobolds
   5 bullfrogs
   A water moccasin zombie (D:7)
   21 killer bees
   4 scorpions
+  An elephant simulacrum (Lair:5)
   8 electric eels (D:10)
+  A rime drake simulacrum (Lair:5)
   6 howler monkeys
+  5 lava snakes (Volcano)
   6 crimson imps
   3 bullfrog zombies (D:10)
   2 centaur zombies
   4 bullfrog skeletons
-  A jelly (D:5)
+  2 jellies
   8 orc priests
   10 hounds
   6 orc wizards
@@ -340,7 +360,7 @@ Vanquished Creatures
   14 adders
   4 shadow imps
   3 ufetubi (Gauntlet)
-  An ooze (D:1)
+  2 oozes
   3 adder skeletons
   2 worms (D:2)
   2 dart slugs
@@ -359,43 +379,47 @@ Vanquished Creatures
   A jackal skeleton (D:5)
   A leopard gecko zombie (D:5)
   3 rats
-  5 fungi
-  3 plants
-406 creatures vanquished.
+  6 fungi
+  4 plants
+441 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
   A stone giant (Orc:1)
+  The ghost of Ruewk the Archer, a journeyman CeAM of Okawaru (Lair:4)
   An ettin (D:9)
   Urug (D:9)
   3 elephants
-  A spiny frog (Lair:2)
-  2 rime drakes
+  2 spiny frogs
+  4 rime drakes
   2 komodo dragons (Lair:2)
   A troll (Orc:1)
   7 blink frogs
   6 dream sheep (Lair:3)
-  10 yaks
+  12 yaks
   A basilisk (Lair:3)
+  A catoblepas simulacrum (Lair:5)
   4 vampire mosquitoes (Lair:2)
   A naga (Lair:2)
-  3 water moccasins
-  2 porcupines (Lair:2)
+  A hydra simulacrum (Lair:5)
+  4 water moccasins
+  3 porcupines
   An ice beast (D:10)
   2 centaurs (D:11)
-  2 crocodiles
+  4 crocodiles
   6 bullfrogs
   2 howler monkeys (D:11)
   A bullfrog zombie (D:9)
   A hound (D:11)
   An orc wizard (Orc:1)
   An orc priest (D:3)
+  A jelly (Lair:4)
   Crazy Yiuf (D:6)
   5 hell rats (Lair:2)
   An adder (D:11)
   3 orcs
   2 kobolds (D:11)
-  2 fungi (D:8)
-77 creatures vanquished.
+  3 fungi
+91 creatures vanquished.
 
 Vanquished Creatures (others)
   3 orc wizards
@@ -406,11 +430,11 @@ Vanquished Creatures (others)
   An ooze (D:5)
   13 orcs
   A ball python skeleton (D:4)
-  9 fungi
+  11 fungi
   12 plants
-45 creatures vanquished.
+47 creatures vanquished.
 
-Grand Total: 528 creatures vanquished
+Grand Total: 579 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -596,11 +620,26 @@ Turn   | Place    | Note
  27275 | D:10     | Bought an uncursed ring of wizardry for 390 gold pieces
  27676 | D:8      | Identified the +7 chain mail "Ijegg" {MP+9 Int+5} (You
                   | found it on level 4 of the Lair of Beasts)
+ 28145 | Lair:4   | Reached skill level 1 in Crossbows
+ 28205 | Lair:5   | Found a dark tunnel.
+ 28220 | Volcano  | Entered a volcano
+ 28679 | Volcano  | Found a radiant altar of Vehumet.
+ 28694 | Volcano  | Reached skill level 1 in Translocations
+ 29425 | Lair:5   | Found a runed translucent gate.
+ 29425 | Lair:5   | Found a runed translucent gate.
+ 29425 | Lair:5   | Found a runed translucent gate.
+ 29667 | Lair:5   | Noticed Ruewk's ghost (journeyman CeAM)
+ 29759 | Lair:5   | Found a staircase to the Slime Pits.
+ 30615 | Lair:4   | Killed Ruewk's ghost
+ 31141 | Lair:5   | Got the ring "Fecloch" {Fire}
+ 31149 | Lair:5   | Identified the ring "Fecloch" {Fire +Fly MR+ Str-4 Slay+3}
+                  | (You found it on level 5 of the Lair of Beasts)
+ 31496 | Lair:6   | Entered Level 6 of the Lair of Beasts
 
 Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
 ---------------+-------------------------------------------+-----
 Axes           |  3  4     5              7           8  9 |  9.2
-Fighting       |     4        5  6  7 10          11 12    | 12.2
+Fighting       |     4        5  6  7 10          11 12    | 12.6
 Maces & Flails |              2     3     5              6 |  6.5
 Slings         |              1     3              4       |  4.0
 Short Blades   |              1                 3          |  3.0
@@ -613,44 +652,45 @@ Dodging        |                             1        2    |  2.2
 Invocations    |                             8 11 13    14 | 14.3
 Stealth        |                             2             |  2.4
 Long Blades    |                                      3  6 |  6.0
-Crossbows      |                                           |  0.8
-Translocations |                                           |  0.3
+Crossbows      |                                         4 |  4.0
+Translocations |                                         2 |  2.0
 
 Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
 -------------------------+-------+-------+-------+-------+-------++-------
-Melee: War axe           |  4077 |    50 |    11 | 20346 |  4177 || 28661
+Melee: War axe           |  4077 |    50 |    11 | 20346 |  4248 || 28732
        Whip              |       |   133 |  4276 | 20171 |       || 24580
        Flail             |       |       |  4011 | 16007 |  4000 || 24018
        Dagger            |       |       |       |  4052 |       ||  4052
        Trident           |       |       |       |    78 |       ||    78
-       Morningstar       |       |       |       |  4004 |  4000 ||  8004
+       Morningstar       |       |       |       |  4004 |  4005 ||  8009
        Demon trident     |       |       |       |  4002 |     1 ||  4003
-       Long sword        |       |       |       |  4000 |  4001 ||  8001
- Fire: Hunting sling     |       |    33 |   166 |   381 |    13 ||   593
-       Blowgun           |       |       |       |    13 |     7 ||    20
+       Long sword        |       |       |       |  4000 | 12040 || 16040
+ Fire: Hunting sling     |       |    33 |   166 |   381 |   120 ||   700
+       Blowgun           |       |       |       |    13 |    11 ||    24
+       Hand crossbow     |       |       |       |       |     5 ||     5
 Throw: Throwing net      |       |       |     1 |       |       ||     1
-       Tomahawk          |       |       |     1 |     6 |     1 ||     8
-       Javelin           |       |       |     1 |    11 |     6 ||    18
+       Tomahawk          |       |       |     1 |     6 |     6 ||    13
+       Javelin           |       |       |     1 |    11 |     7 ||    19
  Cast: Blink             |       |       |       |     2 |       ||     2
 Invok: Convert to Beogh  |       |     1 |       |       |       ||     1
-       Recall Orcish Fol |       |       |       |    11 |    25 ||    36
-       Stop Recall       |       |       |       |     3 |    19 ||    22
-       Smiting           |       |       |       |     2 |       ||     2
+       Recall Orcish Fol |       |       |       |    11 |    36 ||    47
+       Stop Recall       |       |       |       |     3 |    28 ||    31
+       Smiting           |       |       |       |     2 |     1 ||     3
        Give Item to Name |       |       |       |       |     3 ||     3
  Abil: Evoke Flight      |       |       |       |     3 |       ||     3
-Evoke: Wand              |       |     3 |     1 |    29 |     1 ||    34
+Evoke: Wand              |       |     3 |     1 |    29 |     2 ||    35
   Use: Potion            |       |       |     6 |     7 |     1 ||    14
-       Scroll            |       |       |     8 |    19 |    14 ||    41
+       Scroll            |       |       |     8 |    19 |    15 ||    42
  Stab: Held in net/web   |       |       |     1 |       |       ||     1
        Paralysed         |       |       |       |     5 |       ||     5
        Distracted        |       |       |       |     2 |     4 ||     6
-  Eat: Chunk             |     1 |     7 |    13 |    28 |    15 ||    64
-       Ration            |       |       |     1 |     4 |     2 ||     7
+  Eat: Chunk             |     1 |     7 |    13 |    28 |    21 ||    70
+       Ration            |       |       |     1 |     4 |     4 ||     9
 Armor: Scale mail        |   819 |    68 |    69 |       |       ||   956
-       Plate armour      |       |       |  2708 | 76861 | 11837 || 91406
+       Plate armour      |       |       |  2708 | 76861 | 14266 || 93835
        Troll leather arm |       |       |       |  1636 |       ||  1636
-Dodge: Dodged            |   355 |    22 |   341 | 16438 |  2163 || 19319
+Dodge: Dodged            |   355 |    22 |   341 | 16438 |  2643 || 19799
 Block: Shield            |     4 |       |       |       |       ||     4
-       Large shield      |  2270 |   142 |  4563 | 89521 | 15620 ||112116
-Rpst.: Long sword        |       |       |       |    64 |    93 ||   157
+       Large shield      |  2270 |   142 |  4563 | 89521 | 19979 ||116475
+Rpst.: Long sword        |       |       |       |    64 |   262 ||   326
 
