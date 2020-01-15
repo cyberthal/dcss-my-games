@@ -2,7 +2,13 @@
 
 Game seed: 3430531724548647790
 
-Ridapsy the Skirmisher (Hill Orc Fighter)           Turns: 4743, Time: 00:37:16
+674 Ridapsy the Skirmisher (level 7, 64/64 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 15, 2020.
+             Was an Initiate of Beogh.
+             Quit the game on level 4 of the Dungeon on Jan 16, 2020.
+             The game lasted 00:37:56 (4743 turns).
+
+Ridapsy the Skirmisher (Hill Orc Fighter)           Turns: 4743, Time: 00:37:57
 
 Health: 64/64      AC:  9    Str: 19    XL:     7   Next: 59%
 Magic:  8/8        EV:  5    Int: 10    God:    Beogh 16 (0)
@@ -24,14 +30,14 @@ A: no striking features
 a: Renounce Religion
 
 
-You are on level 4 of the Dungeon.
-You worship Beogh.
-Beogh is noncommittal.
-You are not hungry.
+You were on level 4 of the Dungeon.
+You worshipped Beogh.
+Beogh was noncommittal.
+You were not hungry.
 
-You have visited 1 branch of the dungeon, and seen 4 of its levels.
+You visited 1 branch of the dungeon, and saw 4 of its levels.
 
-You have collected 194 gold pieces.
+You collected 194 gold pieces.
 
 Inventory:
 
@@ -39,7 +45,7 @@ Hand Weapons
  a - a +0 war axe (weapon)
  b - a +2 spear of venom
  c - a +0 hunting sling
- B - a morningstar
+ B - a +0 morningstar
 Missiles
  h - 7 curare-tipped needles
  m - 32 sling bullets
@@ -48,27 +54,27 @@ Missiles
 Armour
  g - a +0 chain mail (worn)
  n - a +0 shield (worn)
- D - a glowing robe
+ D - a cursed +0 robe
 Wands
  q - a wand of random effects (19)
 Scrolls
  e - a scroll of remove curse
- j - a scroll labeled KUOMIET HERO
+ j - a scroll of immolation {unknown}
  k - a scroll of teleportation
- r - a scroll labeled PYDDAT FORCH
- u - a scroll labeled CEAD LOJ USUI
- v - a scroll labeled WADWONOD LUHE
- y - a scroll labeled CIXZYSHRUAM
+ r - a scroll of fear {unknown}
+ u - a scroll of amnesia {unknown}
+ v - a scroll of enchant armour {unknown}
+ y - a scroll of enchant weapon {unknown}
 Potions
  d - 3 potions of might
  i - a potion of lignification
  l - a potion of cancellation
  o - a potion of heal wounds
  s - a potion of brilliance
- w - an amethyst potion
- x - a white potion
+ w - a potion of haste {unknown}
+ x - a potion of flight {unknown}
  z - a potion of curing
- A - a cyan potion
+ A - a potion of agility {unknown}
 Comestibles
  f - 10 rations
  C - 5 chunks of flesh
@@ -85,9 +91,9 @@ Comestibles
  - Level 2.2 Evocations
 
 
-You have 6 spell levels left.
-You don't know any spells.
-Your spell library is empty.
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
 
 Dungeon Overview and Level Annotations
 
@@ -102,10 +108,6 @@ Zin
 
 Message History
 
-Done exploring.
-Autopickup is now on.
-Things that are here:
-a leather armour; a short sword
 Done exploring.
 Search for what [Enter for "."]? .
 Move the cursor to view the level map, or type ? for a list of commands.
@@ -122,32 +124,39 @@ Press ? for a list of commands and other information.
 Okay, then.
 Okay, then.
 Saving game... please wait.
+Welcome back, Ridapsy the Hill Orc Fighter.
+Beogh says: Drown the unbelievers in a sea of blood!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
 
-..#  #.#..##..##.....###[.##.#....
-..#  #.#.........###.##...##...###
-..#  #.#...)#.#### #.##.#.....##
-..#  #......#..#   #..#.#.##.##
-.)#  ###...###.#   ##.#....#.#
-..#    #...# #.#    #.#.##.#.#
-#.###  #...# #.##   #.#.##.#.#
-#...####...###..# ###...##.#.#
-..>..)..........# #o.>..##...#
-...####..####...# #.##..##..##
-...# #...####...###)##.###..#
-..## #.#.........@..##.# #.##
-..####.##..............###.###
-.....#.#.....##...##.........#
-..##.......###....######.....#
-.........#.##[...)#    #.....#
-........[#....#.#.##   #.....#
-..#.......#..##.#..### #.....#
-.##.......#...#.#....###.....#
-.##.........#.........########
-###...................#
-#.....[...##..........#
+ #..####...###.#####...###..##......#
+##..#  #.#..##..##.....###[.##.#....#
+.#..#  #.#.........###.##...##...####
+....#  #.#...)#.#### #.##.#.....##
+....#  #......#..#   #..#.#.##.##
+...)#  ###...###.#   ##.#....#.#
+....#    #...# #.#    #.#.##.#.#
+..#.###  #...# #.##   #.#.##.#.#
+..#...####...###..# ###...##.#.#
+....>..)..........# #o.>..##...#
+.....####..####...# #.##..##..##
+.....# #...####...###)##.###..#
+....## #.#.........@..##.# #.##
+....####.##..............###.###
+.......#.#.....##...##.........#
+....##.......###....######.....#
+...........#.##[...)#    #.....#
+..........[#....#.#.##   #.....#
+....#.......#..##.#..### #.....#
+#..##.......#...#.#....###.....#
+#..##.........#.........########
+..###...................#
+..#.....[...##..........#
+#...#.......##..........#
 
 
-There are no monsters in sight!
+There were no monsters in sight!
 
 Vanquished Creatures
   3 ogres
@@ -207,6 +216,7 @@ Turn   | Place    | Note
   4083 | D:3      | Reached skill level 6 in Fighting
   4141 | D:4      | Reached XP level 7. HP: 63/64 MP: 7/7
   4307 | D:4      | Became a worshipper of Beogh the Brigand
+  4743 | D:4      | Quit the game
 
 Skill      XL: |  1  2  3  4  5  6  7 |
 ---------------+----------------------+-----

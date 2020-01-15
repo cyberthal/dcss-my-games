@@ -1,0 +1,301 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3491786912515890962
+
+Galost Fiawk the Fighter (Hill Orc Fighter)         Turns: 6465, Time: 01:10:35
+
+Health: 66/66      AC: 11    Str: 19    XL:     8   Next: 37%
+Magic:  11/11      EV:  6    Int: 10    God:    Elyvilon 35 (0)
+Gold:   223        SH:  9    Dex: 10    Spells: 7/7 levels left
+
+rFire    . . .     SeeInvis .   e - +0 hand crossbow
+rCold    . . .     Gourm    .   y - +0 shield
+rNeg     . . .     Faith    +   w - +0 chain mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             C - amulet of faith
+HPRegen  0.21/turn              (no ring)
+MPRegen  0.12/turn              t - +1 ring of evasion
+
+@: no status effects
+A: horns 1, molten scales 1, camouflage 1, frail 1
+a: Lesser Healing, Divine Protection, Renounce Religion
+
+
+You are on level 5 of the Dungeon.
+You worship Elyvilon.
+Elyvilon is aware of your devotion.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 6 of its levels.
+
+You have collected 223 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 whip of venom
+ b - a +3 flail
+ c - a +0 war axe
+ d - a +0 trident
+ e - a +0 hand crossbow (weapon)
+ f - a +0 hunting sling
+ r - a glaive
+ F - a +1 scythe of protection
+ H - a runed hand axe
+Missiles
+ h - 82 bolts (quivered)
+ j - 16 needles of confusion
+ l - 152 stones
+ m - 37 arrows
+ o - 22 sling bullets
+ u - 14 poisoned needles
+ v - 8 tomahawks of returning
+ x - 6 tomahawks
+Armour
+ i - a +1 leather armour of poison resistance
+ w - a +0 chain mail (worn)
+ y - a +0 shield (worn)
+ B - a glowing ring mail
+Jewellery
+ q - an uncursed ring of teleportation
+ t - a +1 ring of evasion (right hand)
+ C - an amulet of faith (around neck)
+Scrolls
+ k - a scroll of teleportation
+ n - a scroll of blinking
+ p - a scroll labeled WUDDAAVVAX
+ s - 2 scrolls of amnesia
+ I - a scroll labeled ESETIT PAWNAM
+Potions
+ z - a potion of mutation
+ A - a potion of might
+ D - a potion of curing
+ J - a potion of haste
+Comestibles
+ g - 2 chunks of flesh
+ G - 7 rations
+
+
+   Skills:
+ + Level 8.1 Fighting
+ - Level 6.0(6.6) Axes
+ - Level 2.4(4.0) Maces & Flails
+ + Level 2.0(3.7) Polearms
+ - Level 1.1(1.3) Slings
+ - Level 1.0 Crossbows
+ - Level 1.1(1.4) Throwing
+ - Level 3.4 Armour
+ - Level 0.7 Stealth
+ - Level 3.4 Shields
+ * Level 4.8 Invocations
+   Level 1.0 Evocations
+
+
+You have 7 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Beastly Appendage        Tmut           0 (50)       100%        1    50
+ Sticks to Snakes         Tmut           0 (100)      100%        2    100
+ Spider Form              Tmut/Pois      0 (200)      100%        3    150
+ Ice Form                 Ice/Tmut       0 (100)      100%        4    250
+ Blade Hands              Tmut           0 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:4         
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:5 1 exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of small horns on your head.
+You are partially covered in molten scales. (AC +2)
+Your skin changes colour to match your surroundings (Stealth+).
+You are frail. (-10% HP)
+
+
+Message History
+
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +2 whip of venom stops dripping with poison.
+e - a +0 hand crossbow (weapon)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an escape hatch in the ceiling here.
+A mysterious force pulls you upwards. The hatch slams shut behind you.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+Level annotation: 1 exclusion
+There is a stone staircase leading up here.
+Okay, then.
+Saving game... please wait.
+Level annotation: 1 exclusion
+Welcome back, Galost Fiawk the Hill Orc Fighter.
+Elyvilon says: Go forth and aid the weak!
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+#..
+#.#
+#.#
+#.#
+#.#
+#.#
+#.#
+#@#
+###
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Sigmund (D:4)
+  An orc warrior (D:4)
+  An ogre (D:4)
+  Blork the orc (D:4)
+  A wyvern zombie (D:4)
+  A scorpion (D:4)
+  2 crimson imps
+  A quasit (D:4)
+  2 orc priests
+  4 orc wizards
+  Jessica (D:3)
+  An iguana (D:4)
+  2 worker ants (D:4)
+  8 gnolls
+  6 adders
+  A worm (D:4)
+  2 dart slugs (D:1)
+  2 leopard geckos
+  21 orcs
+  A ball python (D:3)
+  2 giant cockroaches
+  11 goblins
+  4 hobgoblins
+  13 jackals
+  5 kobolds
+  4 quokkas
+  9 bats
+  3 rats
+111 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Galost Fiawk the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+   130 | D:1      | Reached XP level 2. HP: 27/27 MP: 2/2
+   768 | D:1      | Reached XP level 3. HP: 33/33 MP: 3/3
+  2062 | D:3      | Reached skill level 4 in Fighting
+  2211 | D:3      | Reached XP level 4. HP: 36/40 MP: 4/4
+  2260 | D:3      | Found a radiant altar of Vehumet.
+  2570 | D:3      | Noticed Jessica
+  2575 | D:3      | Killed Jessica
+  2575 | D:3      | Reached skill level 5 in Axes
+  2575 | D:3      | Reached skill level 1 in Crossbows
+  2583 | D:2      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  2583 | D:2      | Gained mutation: You are partially covered in molten
+                  | scales. (AC +2) [potion of mutation]
+  2583 | D:2      | Gained mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+  2583 | D:2      | Gained mutation: Your skin changes colour to match your
+                  | surroundings (Stealth+). [potion of mutation]
+  2755 | D:3      | Found a stormy altar of Qazlal.
+  3123 | D:3      | Reached XP level 5. HP: 39/41 MP: 5/5
+  3509 | D:3      | Found a blossoming altar of Fedhas.
+  3690 | D:3      | Reached skill level 1 in Throwing
+  3998 | D:4      | Found a staircase to the Ecumenical Temple.
+  4005 | Temple   | Entered the Ecumenical Temple
+  4061 | Temple   | Became a worshipper of Elyvilon the Healer
+  4270 | D:4      | Reached skill level 1 in Slings
+  4275 | D:4      | Reached XP level 6. HP: 47/47 MP: 6/6
+  4372 | D:4      | Reached skill level 1 in Evocations
+  4471 | D:4      | Reached skill level 5 in Fighting
+  4474 | D:4      | Noticed an orc warrior
+  4483 | D:3      | Reached skill level 1 in Maces & Flails
+  4858 | D:4      | Reached XP level 7. HP: 54/54 MP: 7/7
+  4937 | D:4      | Noticed Sigmund
+  4995 | D:4      | Reached skill level 6 in Fighting
+  5627 | D:4      | Reached skill level 7 in Fighting
+  5627 | D:4      | Reached skill level 1 in Invocations
+  5701 | D:4      | Killed Sigmund
+  5701 | D:4      | Reached XP level 8. HP: 65/65 MP: 8/10
+  5830 | D:4      | Reached skill level 1 in Polearms
+  6126 | D:4      | Reached * piety under Elyvilon
+  6276 | D:4      | Noticed Blork the orc
+  6281 | D:4      | Killed Blork the orc
+  6281 | D:4      | Reached skill level 8 in Fighting
+  6318 | D:5      | Entered Level 5 of the Dungeon
+  6318 | D:5      | Found a snail-covered altar of Cheibriados.
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Axes           |     4     5     6       |  6.0
+Fighting       |        4        5  7  8 |  8.1
+Crossbows      |           1             |  1.0
+Throwing       |              1          |  1.1
+Slings         |              1          |  1.1
+Evocations     |                 1       |  1.0
+Maces & Flails |                 2       |  2.4
+Invocations    |                    3  4 |  4.8
+Polearms       |                       2 |  2.0
+Armour         |                         |  3.4
+Stealth        |                         |  0.7
+Shields        |                         |  3.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: War axe           |    99 |    70 |     2 ||   171
+       Headbutt          |       |    10 |  1088 ||  1098
+       Whip              |       |    30 |    43 ||    73
+       Flail             |       |       |  4019 ||  4019
+ Fire: Hand crossbow     |       |    27 |    30 ||    57
+       Hunting sling     |       |    37 |    20 ||    57
+Throw: Stone             |    44 |     2 |       ||    46
+       Tomahawk          |       |       |     1 ||     1
+Evoke: Wand              |       |       |     3 ||     3
+  Use: Scroll            |     3 |     3 |     3 ||     9
+       Potion            |       |     1 |       ||     1
+  Eat: Chunk             |     4 |     8 |     2 ||    14
+       Ration            |       |       |     1 ||     1
+Armor: Scale mail        |    39 |    17 |       ||    56
+       Chain mail        |       |    22 |   237 ||   259
+       Leather armour    |       |     1 |       ||     1
+Dodge: Dodged            |    28 |    25 |   867 ||   920
+Block: Shield            |    47 |    44 |  1294 ||  1385
+

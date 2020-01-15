@@ -1,0 +1,133 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5152544782728646278
+
+431 Hudwes the Skirmisher (level 7, 64/64 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 16, 2020.
+             Was an Initiate of Beogh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:33 (0 turns).
+
+Hudwes the Skirmisher (Hill Orc Fighter)               Turns: 0, Time: 00:06:33
+
+Health: 64/64      AC:  6    Str: 19    XL:     7   Next: 0%
+Magic:  7/8        EV:  7    Int: 10    God:    Beogh 15 (0)
+Gold:   194        SH:  9    Dex: 10    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.20/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Beogh.
+Beogh was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 6.9 Fighting
+ + Level 5.6(6.2) Axes
+   Level 3.2(4.4) Polearms
+   Level 2.1(2.2) Slings
+ + Level 0.8(1.5) Throwing
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+   Level 2.2 Evocations
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Okay, then.
+Unknown command.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+Re-activating wizard mode.
+Enter Wizard Command (? - help): 
+Re-activating wizard mode.
+Enter Wizard Command (? - help): 
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+A +0 chain mail.
+There is something else lying underneath.
+A staircase leading out of the dungeon.
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      #.#
+      #.#
+      #.#
+      #.#
+      #.#
+      #.#
+   ####.#
+   #...@#
+.........#
+#.##.###.#
+   #    .#
+        ..
+        ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hudwes the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+     0 | D:1      | Reached XP level 3. HP: 31/31 MP: 3/3
+     0 | D:1      | Reached XP level 4. HP: 39/39 MP: 4/4
+     0 | D:1      | Reached XP level 5. HP: 45/45 MP: 5/5
+     0 | D:1      | Became a worshipper of Dithmenos the Shadowed
+     0 | D:1      | Reached XP level 6. HP: 52/52 MP: 6/6
+     0 | D:1      | Reached XP level 7. HP: 59/59 MP: 7/7
+     0 | D:1      | Fell from the grace of Dithmenos
+     0 | D:1      | Became a worshipper of Beogh the Brigand
+     0 | D:1      | Quit the game
+
