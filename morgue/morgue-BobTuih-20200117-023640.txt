@@ -1,0 +1,191 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6890707655977913156
+
+2866 Bob Tuih the Conqueror (level 9, 122/126 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 17, 2020.
+             Was the Champion of Beogh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:16 (37 turns).
+
+Bob Tuih the Conqueror (Hill Orc Fighter)             Turns: 37, Time: 00:02:16
+
+Health: 122/126    AC: 13    Str: 19    XL:     9   Next: 75%
+Magic:  5/40       EV: 22    Int: 11    God:    Beogh 162 (0)
+Gold:   0          SH: 18    Dex: 10    Spells: 62/62 levels left
+
+rFire    . . .     SeeInvis .   a - +0 rapier
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.31/turn              (no ring)
+MPRegen  0.27/turn              (no ring)
+
+@: mildly poisoned (122 -> 122), lightly drained
+A: walk on water
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Resurrection,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Beogh.
+Beogh was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 rapier (weapon)
+ e - the +7 sceptre of Torment {pain, torment}
+   (Your wizardly powers created it on level 1 of the Dungeon)   
+   
+   In the hands of one skilled in necromantic magic, it inflicts extra damage
+   on living creatures.
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ g - a potion of degeneration {unknown}
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27(26.3) Fighting
+ O Level 27(26.3) Short Blades
+ O Level 27(26.3) Long Blades
+ O Level 27(26.3) Axes
+ O Level 27(26.3) Maces & Flails
+ O Level 27(26.3) Polearms
+ O Level 27(26.3) Staves
+ O Level 27(26.3) Slings
+ O Level 27(26.3) Bows
+ O Level 27(26.3) Crossbows
+ O Level 27(26.3) Throwing
+ O Level 27(26.3) Armour
+ O Level 27(26.3) Dodging
+ O Level 27(26.3) Stealth
+ O Level 27(26.3) Shields
+ O Level 27(26.3) Unarmed Combat
+ O Level 27(26.3) Spellcasting
+ O Level 27(26.3) Conjurations
+ O Level 27(26.3) Hexes
+ O Level 27(26.3) Charms
+ O Level 27(26.3) Summonings
+ O Level 27(26.3) Necromancy
+ O Level 27(26.3) Translocations
+ O Level 27(26.3) Transmutations
+ O Level 27(26.3) Fire Magic
+ O Level 27(26.3) Ice Magic
+ O Level 27(26.3) Air Magic
+ O Level 27(26.3) Earth Magic
+ O Level 27(26.3) Poison Magic
+ O Level 27(26.3) Invocations
+ O Level 27(26.3) Evocations
+
+
+You had 62 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+There is something else lying underneath.
+The floor, spattered with blood.
+You kill Nergalle!
+Beogh accepts your kill.
+Unknown command.
+g - a smoky dark potion
+Items here: %%% ))))) [[[[[
+You feel sick.
+Resurrect Nergalle? 
+Nergalle says, "You really are the Messiah."
+Select a follower to give a gift to.
+Press: ? - help, Dir - move target cursor, f - Nergalle
+Aim: Nergalle, wielding a +0 dagger and wearing a +2 robe of magic resistance
+(friendly)
+A large open door, spattered with blood.
+Give which item? (? for menu, Esc to quit)
+You can't give that to Nergalle.
+Press: ? - help, v - describe, . - travel
+Here: Nergalle, wielding a +0 dagger and wearing a +2 robe of magic resistance
+(friendly)
+A large open door, spattered with blood.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ####
+   ....#
+###.0~.#
+#<o000.+
+#@'.~~.+
+###.~~(#
+   ....#
+    ####
+
+
+You could see the friendly Nergalle.
+
+Vanquished Creatures
+  Nergalle (5 times) (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bob Tuih the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Beogh the Brigand
+     0 | D:1      | Noticed Nergalle
+     0 | D:1      | Reached * piety under Beogh
+     0 | D:1      | Reached ** piety under Beogh
+     0 | D:1      | Reached *** piety under Beogh
+     0 | D:1      | Reached **** piety under Beogh
+     0 | D:1      | Reached ***** piety under Beogh
+     0 | D:1      | Reached ****** piety under Beogh
+     6 | D:1      | Killed from afar by Nergalle (36 damage)
+                  | ... with a bolt of negative energy
+     7 | D:1      | Killed Nergalle
+     7 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     7 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     7 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     7 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     7 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     7 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     8 | D:1      | Noticed Nergalle
+    29 | D:1      | Killed Nergalle
+    29 | D:1      | Reached XP level 8. HP: 116/118 MP: 3/39
+    30 | D:1      | Noticed Nergalle
+    30 | D:1      | Killed Nergalle
+    30 | D:1      | Reached XP level 9. HP: 124/126 MP: 4/40
+    31 | D:1      | Noticed Nergalle
+    31 | D:1      | Killed Nergalle
+    32 | D:1      | Noticed Nergalle
+    33 | D:1      | Found the +7 sceptre of Torment {pain, torment}
+    34 | D:1      | Killed Nergalle
+    37 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Rapier            |     7 |       |    23 ||    30
+Invok: Resurrection      |       |       |     1 ||     1
+ Stab: Sleeping          |       |       |     2 ||     2
+Armor: Scale mail        |     1 |       |     2 ||     3
+Dodge: Dodged            |     1 |       |     4 ||     5
+Block: Shield            |       |       |     2 ||     2
+

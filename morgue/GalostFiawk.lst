@@ -70,7 +70,6 @@ Level 4 of the Dungeon
 (0, 0, D:4)
   a +0 robe
   a +0 glaive
-  the orc corpse of Blork the orc
 (8, 19, D:4)
   a potion of degeneration
 (12, 17, D:4)
@@ -117,14 +116,230 @@ Level 4 of the Dungeon
 
 Level 5 of the Dungeon
 (0, 0, D:5)
-  a halberd
-  (unseen)
-(5, 1, D:5)
+  a +0 robe
+(1, 16, D:5)
+  a +0 club
+(7, 8, D:5)
   a spear
-(20, 21, D:5)
-  a stone
-(25, 15, D:5)
+(16, 14, D:5)
+  a robe
+(26, 26, D:5)
+  a +0 whip
+(27, 22, D:5)
   a club
+(27, 43, D:5)
+  a cursed -1 giant club
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a cursed +0 robe
+(8, 13, D:6)
+  a +0 robe
+  a +0 spear
+(9, 25, D:6)
+  a +0 leather armour
+  a +0 whip
+(10, 24, D:6)
+  a +0 giant club
+(21, 33, D:6)
+  a +0 giant club
+(22, 14, D:6)
+  a +0 robe
+  a cursed +0 trident
+(25, 7, D:6)
+  a +0 dire flail
+(25, 9, D:6)
+  a +0 giant spiked club
+(25, 10, D:6)
+  a +0 robe
+  a +0 dire flail
+(27, -12, D:6)
+  a +0 war axe
+(52, 14, D:6)
+  a cursed +0 robe
+  a +0 short sword
+(52, 41, D:6)
+  a +0 robe
+(58, 26, D:6)
+  a cursed +0 robe
+  a +0 falchion
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 leather armour
+  a +0 club
+(1, -2, D:7)
+  a +0 chain mail
+(2, -2, D:7)
+  a cursed +0 long sword
+(8, -20, D:7)
+  a +0 leather armour
+  a +0 hand axe
+(8, 4, D:7)
+  a +0 giant spiked club
+(9, 10, D:7)
+  a +0 giant spiked club
+(10, -19, D:7)
+  a +0 cloak
+(10, -18, D:7)
+  a +0 robe
+  a +0 dagger
+(10, -4, D:7)
+  a +0 leather armour
+(12, -2, D:7)
+  a +0 leather armour
+  a +0 short sword
+  a +0 flail
+(13, 6, D:7)
+  a +0 robe
+  a +0 dagger
+(13, 13, D:7)
+  a +0 trident
+(16, -3, D:7)
+  a +0 ring mail
+  a +0 club
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a hand axe
+(2, 35, D:8)
+  a +0 animal skin
+  a cursed +0 animal skin
+(4, 33, D:8)
+  a +0 mace
+(5, 22, D:8)
+  a +0 hand axe
+  a +0 scale mail
+  a +0 flail
+  a +0 robe
+(6, 9, D:8)
+  a scale mail
+(6, 29, D:8)
+  a +0 club
+(6, 43, D:8)
+  a +0 ring mail
+  a cursed -2 flail
+(8, 43, D:8)
+  a +0 ring mail
+(9, 3, D:8)
+  a +0 ring mail
+  a +0 mace
+(9, 34, D:8)
+  a +0 dagger
+(10, 3, D:8)
+  a +0 dagger
+(10, 38, D:8)
+  a +0 robe
+(11, 1, D:8)
+  a +0 leather armour
+(11, 2, D:8)
+  a +0 flail
+(11, 8, D:8)
+  a +0 giant club
+(12, 44, D:8)
+  a +0 ring mail
+(24, -3, D:8)
+  a +0 giant spiked club
+(33, 44, D:8)
+  a quarterstaff
+(43, 41, D:8)
+  a +0 shortbow
+(46, -1, D:8)
+  a cursed +0 animal skin
+(48, 35, D:8)
+  a hunting sling
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a ring mail
+(13, -10, D:9)
+  a chain mail
+(25, -16, D:9)
+  a +0 trident
+(26, -16, D:9)
+  a +0 flail
+(26, -15, D:9)
+  a +0 robe
+  a cursed -1 dagger
+(34, 10, D:9)
+  a +0 animal skin
+(40, -5, D:9)
+  acid dragon scales
+  a glowing buckler
+  a glowing ring mail
+(40, -4, D:9)
+  a +1 cloak
+  a +2 ring mail of fire resistance
+  a +1 leather armour of poison resistance
+(41, -22, D:9)
+  a +0 dagger
+  a +0 mace
+(41, -21, D:9)
+  a +0 dagger
+  a +0 ring mail
+(41, -4, D:9)
+  8 curare-tipped needles
+  8 tomahawks of returning
+  26 poisoned needles
+  16 needles of confusion
+  the +7 sceptre of Torment {pain, torment}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    Elyvilon disapproves of the use of such an item.
+  an exploding tomahawk
+  a +0 whip of freezing
+  a +1 dagger of flaming
+(41, -3, D:9)
+  a +0 mace of draining
+  a +0 whip of freezing
+  a +3 flail
+  a +1 dagger of holy wrath
+(42, -5, D:9)
+  a halberd
+  a halberd
+  a +1 scythe of protection
+  a battleaxe
+  a glaive
+(42, -4, D:9)
+  171 arrows
+(43, -5, D:9)
+  a fizzy emerald potion
+  a granite ring
+  an amethyst potion
+  a weird smoking staff
+(43, -4, D:9)
+  a potion of mutation
+  an uncursed ring of teleportation
+  2 scrolls of amnesia
+  a +3 ring of intelligence
+(47, 8, D:9)
+  a falchion
+(48, 9, D:9)
+  a +0 hand axe
+  a +0 animal skin
+(51, 4, D:9)
+  a +0 robe
+  a +0 dagger
+(53, 6, D:9)
+  a dagger
+  an animal skin
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a ring mail
+(51, -38, Lair:1)
+  a hand axe
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a leather armour
+(4, -8, Lair:2)
+  a potion of degeneration
+(15, -18, Lair:2)
+  a chain mail
+(37, -28, Lair:2)
+  a club
 
