@@ -252,6 +252,11 @@ Level 8 of the Dungeon
 Level 9 of the Dungeon
 (0, 0, D:9)
   a ring mail
+(6, -29, D:9)
+  a +0 chain mail
+  a +0 flail
+(10, -17, D:9)
+  a +0 mace
 (13, -10, D:9)
   a chain mail
 (25, -16, D:9)
@@ -265,54 +270,75 @@ Level 9 of the Dungeon
   a +0 animal skin
 (40, -5, D:9)
   acid dragon scales
-  a glowing buckler
-  a glowing ring mail
 (40, -4, D:9)
   a +1 cloak
+  a +0 helmet
   a +2 ring mail of fire resistance
   a +1 leather armour of poison resistance
+  a +2 buckler
+(40, -3, D:9)
+  a +2 ring mail of fire resistance
 (41, -22, D:9)
   a +0 dagger
   a +0 mace
 (41, -21, D:9)
   a +0 dagger
   a +0 ring mail
+(41, -5, D:9)
+  a runed long sword
 (41, -4, D:9)
-  8 curare-tipped needles
+  a +0 trident
+  7 javelins of returning
+  3 javelins
+  a cursed +3 long sword
+  2 throwing nets
   8 tomahawks of returning
-  26 poisoned needles
-  16 needles of confusion
   the +7 sceptre of Torment {pain, torment}
     In the hands of one skilled in necromantic magic, it inflicts extra damage
     on living creatures.
     
     Elyvilon disapproves of the use of such an item.
-  an exploding tomahawk
+  85 sling bullets
+  a +0 war axe of pain
+  a +4 flail
+  4 exploding tomahawks
   a +0 whip of freezing
   a +1 dagger of flaming
 (41, -3, D:9)
+  a +0 dagger of venom
+  a +0 hunting sling
   a +0 mace of draining
   a +0 whip of freezing
   a +3 flail
   a +1 dagger of holy wrath
 (42, -5, D:9)
   a halberd
-  a halberd
   a +1 scythe of protection
   a battleaxe
   a glaive
+  a glowing glaive
+  a halberd
 (42, -4, D:9)
-  171 arrows
+  a +0 arbalest
+  a +1 shortbow of freezing
+  348 arrows
 (43, -5, D:9)
-  a fizzy emerald potion
-  a granite ring
   an amethyst potion
-  a weird smoking staff
 (43, -4, D:9)
-  a potion of mutation
+  a scroll of fear
+  a phantom mirror
+  a potion of berserk rage
   an uncursed ring of teleportation
   2 scrolls of amnesia
+  a potion of mutation
+  a potion of haste
+  12 scrolls of remove curse
+  a potion of invisibility
+  a potion of ambrosia
+  a wand of digging (4)
   a +3 ring of intelligence
+(43, -3, D:9)
+  a +1 ring of evasion
 (47, 8, D:9)
   a falchion
 (48, 9, D:9)
@@ -324,6 +350,294 @@ Level 9 of the Dungeon
 (53, 6, D:9)
   a dagger
   an animal skin
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a ring mail
+(2, 6, D:10)
+  a +0 leather armour
+(15, 9, D:10)
+  a robe
+(20, -14, D:10)
+  a trident
+(22, -10, D:10)
+  a +0 shortbow
+(39, -24, D:10)
+  a mace
+
+Level 11 of the Dungeon
+[Shop] Nexkenai's Armour Boutique
+  a +1 hat (143 gold)
+  a +0 chain mail (58 gold)
+  a +1 robe of positive energy (126 gold)
+  the cursed +0 plate armour "Lenint" {MP+9 Str+4 Stlth+} (742 gold)
+    It affects your strength (+4).
+    It affects your magic capacity (+9).
+    It makes you more stealthy.
+    It has a curse placed upon it.
+  a +0 robe (9 gold)
+  a +0 scale mail (52 gold)
+  a +0 scale mail of cold resistance (143 gold)
+  a +0 scale mail (52 gold)
+(0, 0, D:11)
+  a leather armour
+(7, 47, D:11)
+  a +0 shortbow
+(13, 6, D:11)
+  a +0 robe
+(16, 20, D:11)
+  a hand axe
+(20, 37, D:11)
+  a spear
+(20, 46, D:11)
+  a cursed -2 giant club
+(21, 34, D:11)
+  a dagger
+(23, 31, D:11)
+  a +0 giant club
+(25, -4, D:11)
+  a spear
+(28, 29, D:11)
+  a book of Changes
+(29, 28, D:11)
+  a book of Frost
+(42, 16, D:11)
+  a ring mail
+(43, 20, D:11)
+  a leather armour
+(59, 1, D:11)
+  a +0 robe
+  a +0 dagger
+(59, 3, D:11)
+  a +0 leather armour
+  a +0 whip
+(60, 18, D:11)
+  a +0 giant spiked club
+(61, 19, D:11)
+  a cursed +0 giant club
+  a +0 giant spiked club
+(67, 45, D:11)
+  a dagger
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +0 dire flail
+(6, -1, D:12)
+  a +0 giant spiked club
+(7, -28, D:12)
+  a large rock
+(8, -28, D:12)
+  a large rock
+(10, -25, D:12)
+  a +0 shortbow
+(11, -28, D:12)
+  a large rock
+(12, 7, D:12)
+  a +0 robe
+  a +0 dagger
+(13, -28, D:12)
+  a cursed -1 giant club
+(14, -28, D:12)
+  a +0 shortbow
+(15, -20, D:12)
+  a +0 leather armour
+  a +0 dagger
+(15, -19, D:12)
+  a leather armour
+(16, -24, D:12)
+  a +0 mace
+(17, -21, D:12)
+  a +0 shortbow
+  a +0 chain mail
+  a +0 long sword
+(18, -20, D:12)
+  a +0 plate armour
+  a +2 great mace
+(18, -19, D:12)
+  a +0 chain mail
+(20, -19, D:12)
+  a +0 scale mail
+  a +0 trident
+(22, -26, D:12)
+  a +0 short sword
+(22, -15, D:12)
+  a +0 leather armour
+  a +0 falchion
+(22, -1, D:12)
+  a +0 shortbow
+(23, -25, D:12)
+  a short sword
+(25, -27, D:12)
+  a +0 giant club
+  a +0 giant club
+(25, 5, D:12)
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+(26, -2, D:12)
+  a pair of runed gloves
+(26, -1, D:12)
+  a manual of Summonings
+(26, 9, D:12)
+  a +0 scale mail
+(27, -3, D:12)
+  a metal-bound book
+(27, -2, D:12)
+  a book of Changes
+(27, -1, D:12)
+  a book of Cantrips
+(33, 9, D:12)
+  a +0 leather armour
+  a +0 rapier
+(35, 19, D:12)
+  a +0 plate armour
+  a +0 broad axe
+(36, 5, D:12)
+  a paperback book
+(39, -23, D:12)
+  a scale mail
+  a potion of degeneration
+(40, -2, D:12)
+  a scroll of enchant weapon
+(41, 11, D:12)
+  2 potions of brilliance
+(43, -9, D:12)
+  13 gold pieces
+(43, -8, D:12)
+  19 gold pieces
+(43, -3, D:12)
+  18 gold pieces
+(43, -2, D:12)
+  a box of beasts
+(43, -1, D:12)
+  19 gold pieces
+(43, 4, D:12)
+  3 gold pieces
+(43, 5, D:12)
+  a trident
+  (unseen)
+(44, -8, D:12)
+  15 gold pieces
+(44, 4, D:12)
+  a dented jade amulet
+(47, 20, D:12)
+  a cursed +0 club
+(48, 21, D:12)
+  a +0 dagger
+(49, 21, D:12)
+  a +0 dagger
+  a +0 short sword
+  a +0 club
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  4 arrows
+(0, 1, D:13)
+  a scroll of identify
+(3, 3, D:13)
+  6 arrows
+(4, 4, D:13)
+  a +0 troll leather armour
+  a +0 falchion
+(5, 5, D:13)
+  a +0 short sword
+(7, 7, D:13)
+  a +0 short sword
+(8, 12, D:13)
+  a leather armour
+(9, 5, D:13)
+  a +0 dagger
+(9, 9, D:13)
+  a +0 dagger
+  a +0 trident
+(11, 34, D:13)
+  a +2 great sword of flaming
+(14, 33, D:13)
+  a +0 buckler
+  a +0 robe
+  a +1 flail of flaming
+  a +0 fustibalus
+(17, -1, D:13)
+  a +3 plate armour
+  a +0 great mace
+  a human skeleton
+(17, 0, D:13)
+  a +0 bardiche
+  a +0 plate armour
+(17, 30, D:13)
+  a scroll of amnesia
+  a cursed -1 trident
+  a +0 shortbow
+(17, 33, D:13)
+  a +0 robe
+  a +2 scimitar of flaming
+  a +0 longbow
+(17, 41, D:13)
+  a quarterstaff
+(18, 32, D:13)
+  4 stones
+(18, 33, D:13)
+  9 arrows
+(19, 20, D:13)
+  a scroll of identify
+(19, 27, D:13)
+  a chain mail
+(19, 33, D:13)
+  an arrow
+(21, 28, D:13)
+  a +0 ring mail
+  a +0 robe
+  a +0 dagger
+(21, 29, D:13)
+  a +0 robe
+  a +0 dagger
+(22, 33, D:13)
+  4 arrows
+(23, 19, D:13)
+  2 arrows
+(23, 21, D:13)
+  an arbalest
+(24, -4, D:13)
+  a potion of invisibility
+(24, 4, D:13)
+  25 sling bullets
+(26, 20, D:13)
+  a +0 giant club
+(26, 37, D:13)
+  3 large rocks
+(26, 45, D:13)
+  2 arrows
+(27, 44, D:13)
+  a +0 long sword
+(28, 44, D:13)
+  15 arrows
+  a +0 shortbow
+(29, 0, D:13)
+  a glowing halberd
+(29, 7, D:13)
+  a chain mail
+(29, 20, D:13)
+  a +1 war axe of chopping
+(29, 24, D:13)
+  a +0 flail
+(31, 35, D:13)
+  a +0 giant spiked club
+  a +0 giant club
+(35, -3, D:13)
+  a plate armour
+(35, -1, D:13)
+  a +0 shield
+(35, 3, D:13)
+  a shield
+(35, 5, D:13)
+  a shield
+(36, 34, D:13)
+  a potion of brilliance
 
 the Ecumenical Temple
 
@@ -342,4 +656,52 @@ Level 2 of the Lair of Beasts
   a chain mail
 (37, -28, Lair:2)
   a club
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a leather armour
+(21, 7, Lair:3)
+  a trident
+(39, 4, Lair:3)
+  a dagger
+(45, -7, Lair:3)
+  a robe
+
+Level 4 of the Lair of Beasts
+(13, 37, Lair:4)
+  a +0 ring mail
+(33, 26, Lair:4)
+  a great mace
+(55, 22, Lair:4)
+  a falchion
+(59, 14, Lair:4)
+  a scale mail
+
+Level 5 of the Lair of Beasts
+(13, 21, Lair:5)
+  a scale mail
+(13, 26, Lair:5)
+  a rapier
+(15, 4, Lair:5)
+  a +0 robe
+(17, 4, Lair:5)
+  a javelin
+(18, -7, Lair:5)
+  a +0 leather armour
+  a +0 war axe
+(22, 2, Lair:5)
+  a +0 robe
+  a +0 hand axe
+
+Level 6 of the Lair of Beasts
+(12, 2, Lair:6)
+  a chunky metal-bound book
+(13, 12, Lair:6)
+  a mace
+(25, 47, Lair:6)
+  a leather armour
+(30, 4, Lair:6)
+  a tomahawk
+(36, 46, Lair:6)
+  a book of Burglary
 
