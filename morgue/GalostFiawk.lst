@@ -474,9 +474,10 @@ Level 12 of the Dungeon
   a +0 chain mail
 (21, -18, D:12)
   a +2 chain mail of positive energy
-  a +1 plate armour of magic resistance
   a +2 chain mail of fire resistance
+  a +1 plate armour of magic resistance
 (21, -17, D:12)
+  a +3 chain mail
   a +3 plate armour
   a +2 ring mail of fire resistance
   a +0 scale mail of poison resistance
@@ -487,15 +488,17 @@ Level 12 of the Dungeon
   a +0 troll leather armour
 (22, -26, D:12)
   a +0 short sword
-(22, -19, D:12)
-  a runed war axe
 (22, -18, D:12)
+  a +2 war axe of electrocution
+  2 needles of sleeping
+  a +4 morningstar
+  a +2 rapier of venom
+  a +2 morningstar of protection
   2 throwing nets
-  a +5 eveningstar
   4 exploding tomahawks
   8 tomahawks of returning
   7 javelins of returning
-  4 javelins
+  7 javelins
   a +0 spear of venom
   a +1 war axe of chopping
   a +1 short sword of draining
@@ -513,6 +516,7 @@ Level 12 of the Dungeon
   a +4 flail
   a +5 falchion of freezing
   a +3 dagger
+  a +5 eveningstar
 (22, -17, D:12)
   a +0 war axe of pain
 (22, -15, D:12)
@@ -523,23 +527,30 @@ Level 12 of the Dungeon
 (23, -25, D:12)
   a short sword
 (23, -19, D:12)
+  a glowing halberd
   a glowing glaive
 (23, -18, D:12)
-  602 arrows
-  a +3 dire flail of draining
+  a +0 glaive
+  a +0 shortbow of flaming
+  a +2 arbalest of freezing
+  894 arrows
   a +3 great sword of slicing
   a +1 shortbow of freezing
   a +2 great sword of flaming
   a +2 great mace
   a +1 dire flail of crushing
+  a +3 dire flail of draining
 (23, -17, D:12)
   an arbalest
   a +1 quarterstaff of speed
 (24, -19, D:12)
   a dented jade amulet
 (24, -18, D:12)
+  a wand of paralysis (7)
+  2 scrolls of teleportation
+  an uncursed staff of earth
   a manual of Summonings
-  2 potions of invisibility
+  3 potions of invisibility
   a potion of flight
   a potion of berserk rage
   a potion of haste
@@ -549,7 +560,7 @@ Level 12 of the Dungeon
   a potion of resistance
   a scroll of summoning
   5 potions of brilliance
-  14 scrolls of remove curse
+  15 scrolls of remove curse
   2 scrolls of fear
   3 scrolls of blinking
   an uncursed staff of air
@@ -572,7 +583,6 @@ Level 12 of the Dungeon
   an uncursed ring of see invisible
   8 scrolls of immolation
   a wand of digging (10)
-  a wand of enslavement (10)
   the ring "Wuedolat" {+Fly MP+9 Stlth+}
     [ring of magical power]
     
@@ -683,20 +693,16 @@ Level 13 of the Dungeon
   a +0 long sword
 (24, 40, D:13)
   a +0 shortbow
-(25, 3, D:13)
-  a chain mail
 (25, 20, D:13)
   a +0 flail
 (27, 2, D:13)
   a +0 chain mail
-  a +0 short sword
   a +0 scale mail
   a +0 dire flail
+  a +0 short sword
 (27, 3, D:13)
-  24 arrows
   a +0 shortbow
   a +0 scale mail
-  a +2 morningstar of protection
 (27, 31, D:13)
   a +0 giant club
   a +0 giant spiked club
@@ -706,8 +712,8 @@ Level 13 of the Dungeon
   a +0 dagger
 (28, 2, D:13)
   a +0 scale mail
-  a +0 long sword
   a +0 morningstar
+  a +0 long sword
 (29, 2, D:13)
   a +0 arbalest
   a +0 arbalest
@@ -1153,7 +1159,7 @@ Level 2 of the Orcish Mines
 (33, -30, Orc:2)
   a +0 leather armour
 (34, -61, Orc:2)
-  a lamp of fire (inert)
+  a lamp of fire
 (34, -60, Orc:2)
   a +0 dagger
   a +0 robe
@@ -1386,7 +1392,7 @@ Level 3 of the Spider Nest
 (11, 8, Spider:3)
   a scroll of identify
 (12, 7, Spider:3)
-  a leatherbound book
+  a book of Enchantments
 (24, 1, Spider:3)
   a short sword
 (29, -30, Spider:3)
@@ -1406,170 +1412,161 @@ Level 4 of the Spider Nest
 
 Level 1 of the Vaults
 [Shop] Ojanwucs's Magic Scroll Boutique
-  a scroll of teleportation (54 gold)
-  a scroll of identify (36 gold)
   a scroll of blinking (135 gold)
-  a scroll of enchant armour (135 gold)
-  a scroll of teleportation (54 gold)
-  a scroll of magic mapping (63 gold)
 (0, 0, Vaults:1)
-  11 arrows
-  a +0 shortbow of flaming
+  a +0 shortbow
+  a +0 shortbow
 (0, 1, Vaults:1)
   a +0 shortbow
+(1, 0, Vaults:1)
   a +0 shortbow
-  26 arrows
-(0, 2, Vaults:1)
-  a +0 shortbow
-  21 arrows
-(1, 1, Vaults:1)
-  a +0 shortbow
-  21 arrows
-(7, -32, Vaults:1)
-  2 arrows
+(7, -33, Vaults:1)
   a +0 arbalest
-(12, -29, Vaults:1)
-  26 arrows
-(12, -10, Vaults:1)
+(12, -11, Vaults:1)
   a scale mail
-(15, -6, Vaults:1)
-  a scroll of remove curse
-(17, -29, Vaults:1)
-  a +2 arbalest of freezing
-(22, -4, Vaults:1)
-  17 arrows
-(23, -23, Vaults:1)
-  an arrow
-(24, -24, Vaults:1)
-  a +0 short sword
+(24, -25, Vaults:1)
   a +0 chain mail
-(24, -23, Vaults:1)
-  an arrow
-(25, -23, Vaults:1)
+  a +0 short sword
+(25, -24, Vaults:1)
+  a +0 chain mail
   a +0 war axe
-  a +0 chain mail
   a +0 leather armour
-  a +0 rapier
   a +0 short sword
-(26, -24, Vaults:1)
+  a +0 rapier
+(26, -25, Vaults:1)
   a cursed -2 short sword
   a +0 longbow
-  20 arrows
-(26, -23, Vaults:1)
-  12 arrows
-(27, -23, Vaults:1)
-  a +0 dagger
+(27, -24, Vaults:1)
   a +0 robe
-(28, -21, Vaults:1)
+  a +0 dagger
+(28, -22, Vaults:1)
+  a +0 leather armour
   a +0 short sword
   a +0 shortbow
-  8 arrows
-  a +0 leather armour
-(35, -11, Vaults:1)
-  18 arrows
-(38, -31, Vaults:1)
-  a knobbly glowing staff
-(39, -20, Vaults:1)
+(39, -21, Vaults:1)
   a +0 chain mail
-(40, -18, Vaults:1)
-  a +0 glaive
-(41, -18, Vaults:1)
+(41, -19, Vaults:1)
   a +0 war axe
-(43, -23, Vaults:1)
+(43, -24, Vaults:1)
   a +0 arbalest
 (45, -25, Vaults:1)
-  2 arrows
-(45, -24, Vaults:1)
   a +0 leather armour
   a +0 short sword
-  11 arrows
-(45, -23, Vaults:1)
+(45, -24, Vaults:1)
   a +0 shortbow
   a large rock
-(46, -25, Vaults:1)
+(46, -26, Vaults:1)
   a +0 arbalest
-(46, -24, Vaults:1)
-  30 arrows
-  a cursed +0 arbalest
-  a +3 chain mail
+(46, -25, Vaults:1)
   a +0 great sword
   a +0 arbalest
   a +0 arbalest
-(47, -24, Vaults:1)
+  a cursed +0 arbalest
+(47, -25, Vaults:1)
   a large rock
-(47, -23, Vaults:1)
+(47, -24, Vaults:1)
   a +0 arbalest
-(48, -24, Vaults:1)
+(48, -25, Vaults:1)
   a +0 arbalest
   a +0 plate armour
   a +0 battleaxe
-(49, 31, Vaults:1)
-  a potion of invisibility
-(51, -26, Vaults:1)
-  an arrow (still there?)
-  a large rock (still there?)
-(51, -21, Vaults:1)
+(51, -27, Vaults:1)
+  a large rock
+(51, -22, Vaults:1)
   a +0 arbalest
-(52, -24, Vaults:1)
-  23 arrows
+(52, -25, Vaults:1)
   a +0 longbow
   a +0 arbalest
-(52, 9, Vaults:1)
+(52, 8, Vaults:1)
   a broad axe
-(54, -24, Vaults:1)
+(54, -25, Vaults:1)
   a +0 leather armour
-  a +2 rapier of venom
-(54, -18, Vaults:1)
-  3 javelins
-(57, -14, Vaults:1)
-  a +0 long sword
+(57, -15, Vaults:1)
   a +0 ring mail
-(57, 12, Vaults:1)
-  a +0 dagger
+  a +0 long sword
+(57, 11, Vaults:1)
   a +0 robe
-(58, 13, Vaults:1)
-  a +0 morningstar
+  a +0 dagger
+(58, 12, Vaults:1)
   a +0 scale mail
-(59, 12, Vaults:1)
-  an arrow
-(59, 28, Vaults:1)
-  an arrow
-(59, 33, Vaults:1)
+  a +0 morningstar
+(59, 32, Vaults:1)
+  a +0 leather armour
   a -2 dagger
   a +0 shortbow
-  a +0 leather armour
-(59, 34, Vaults:1)
+(59, 33, Vaults:1)
   a +0 morningstar
-(60, 34, Vaults:1)
-  12 arrows
+(60, 25, Vaults:1)
+  a +0 chain mail
+  a +0 war axe
+(60, 33, Vaults:1)
   a +0 leather armour
   a large rock
   a +0 ring mail
-(60, 35, Vaults:1)
-  3 arrows
-(62, -21, Vaults:1)
+(62, -22, Vaults:1)
   a club
-(62, 25, Vaults:1)
-  a wand of enslavement (7)
+(62, 24, Vaults:1)
   2 large rocks
-  a cyclops skeleton
-(63, 25, Vaults:1)
-  a +4 morningstar
+  a +0 long sword
+(62, 25, Vaults:1)
+  a +0 robe
+  a +0 dagger
+(63, 24, Vaults:1)
   a +0 plate armour
-(63, 26, Vaults:1)
+(63, 25, Vaults:1)
   a large rock
-(63, 34, Vaults:1)
+(63, 33, Vaults:1)
   a large rock
-(64, 19, Vaults:1)
+(64, 18, Vaults:1)
   a large rock
-(64, 34, Vaults:1)
+(64, 33, Vaults:1)
   a leather armour
+(66, 33, Vaults:1)
+  a large rock
 (66, 34, Vaults:1)
   a large rock
-(66, 35, Vaults:1)
-  a large rock
-(69, -25, Vaults:1)
-  2 needles of sleeping
-(71, 34, Vaults:1)
+(71, 33, Vaults:1)
   a +0 hand axe
+
+Level 2 of the Vaults
+(0, 0, Vaults:2)
+  an embroidered cloak
+(1, -5, Vaults:2)
+  26 bolts
+(8, 8, Vaults:2)
+  a bolt
+(9, 8, Vaults:2)
+  a +0 scale mail
+  a +0 falchion
+(9, 9, Vaults:2)
+  a +0 scale mail
+  a +0 morningstar
+(10, 8, Vaults:2)
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 chain mail
+  a +5 battleaxe of flaming
+  a +0 giant club
+  an ugly thing skeleton
+  an ugly thing skeleton
+  an ugly thing skeleton
+  an ugly thing skeleton
+  an ugly thing skeleton
+  an ugly thing skeleton
+(16, 16, Vaults:2)
+  27 gold pieces
+(26, 9, Vaults:2)
+  39 gold pieces
+(48, -14, Vaults:2)
+  3 poisoned needles
+(49, -13, Vaults:2)
+  a poisoned needle
+(50, -12, Vaults:2)
+  a bolt
+(51, -11, Vaults:2)
+  a bolt
+(53, -2, Vaults:2)
+  3 large rocks
+(55, -7, Vaults:2)
+  2 large rocks
 
