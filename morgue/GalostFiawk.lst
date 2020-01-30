@@ -268,18 +268,10 @@ Level 9 of the Dungeon
   a cursed -1 dagger
 (34, 10, D:9)
   a +0 animal skin
-(40, -4, D:9)
-  a +0 scale mail of poison resistance
-  a +2 chain mail of positive energy
-  a +2 chain mail of fire resistance
-  a +3 plate armour
-  a +1 cloak
-  a +2 ring mail of fire resistance
-  a +1 leather armour of poison resistance
-  a +2 buckler
-  a +0 helmet
 (40, -3, D:9)
   a +2 robe of cold resistance
+  a +1 cloak
+  a +0 helmet
   a +3 leather armour
   a +1 chain mail of magic resistance
   a +0 buckler
@@ -308,53 +300,18 @@ Level 9 of the Dungeon
 (41, -21, D:9)
   a +0 dagger
   a +0 ring mail
-(41, -5, D:9)
-  a glowing dagger
-  a runed falchion
-(41, -4, D:9)
-  a +4 quarterstaff of speed
-  the +9 morningstar of Cowardice {drain, rC+}
-    A truly terrible weapon, it drains the life of those it strikes.
-    
-    It protects you from cold.
-    
-    Elyvilon disapproves of the use of such an item.
-  a +2 vampiric trident
-  a +1 short sword of draining
-  a +6 long sword
-  a +2 war axe
-  a +1 war axe of chopping
-  a +2 morningstar of protection
-  a +5 falchion of freezing
-  a +3 dagger
-  a +1 trident of protection
-  a +0 long sword of electrocution
-  a +0 spear of venom
-  a +2 scimitar of flaming
-  a +1 flail of flaming
-  a +0 trident
-  7 javelins of returning
-  4 javelins
-  a cursed +3 long sword
-  2 throwing nets
-  8 tomahawks of returning
-  a +2 flail of protection
-  the +7 sceptre of Torment {pain, torment}
-    In the hands of one skilled in necromantic magic, it inflicts extra damage
-    on living creatures.
-    
-    Elyvilon disapproves of the use of such an item.
-  a +0 war axe of pain
-  a +4 flail
-  4 exploding tomahawks
-  a +0 whip of freezing
-  a +1 dagger of flaming
 (41, -3, D:9)
+  a hand crossbow
+  a +0 trident
+  a +1 dagger of flaming
+  a +0 whip of freezing
+  a broad axe
+  a hand crossbow
   a +0 fustibalus
-  a +1 long sword of freezing
   a +0 dagger of venom
   a +1 war axe
   a +3 short sword
+  a +2 dagger
   a +0 trident
   a cursed +3 scimitar
   a +1 scimitar
@@ -368,23 +325,14 @@ Level 9 of the Dungeon
   a +0 whip of freezing
   a +3 flail
   a +1 dagger of holy wrath
-(42, -5, D:9)
-  an arbalest
-  a glowing glaive
-(42, -4, D:9)
-  a +1 dire flail of crushing
-  a +0 glaive
-  a +3 great sword of slicing
-  a +3 dire flail of draining
-  a +0 longbow
-  a +0 bardiche
-  a +2 great sword of flaming
-  a +2 great mace
-  a +0 arbalest
-  a +1 shortbow of freezing
-  576 arrows
+  a +1 long sword of freezing
+  a +2 falchion of distortion
 (42, -3, D:9)
   an arbalest
+  a +0 longbow
+  a +0 glaive
+  a +0 bardiche
+  a +0 arbalest
   a +4 shortbow
   a +0 glaive
   a +0 glaive
@@ -395,47 +343,11 @@ Level 9 of the Dungeon
   a halberd
   a +1 scythe of protection
   a halberd
-(43, -5, D:9)
-  a dented jade amulet
-(43, -4, D:9)
-  a potion of resistance
-  a wand of clouds (4)
-  an uncursed staff of poison
-  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
-    [amulet of inaccuracy]
-    
-    It reduces the accuracy of all your attacks.
-    It affects your evasion (+5).
-    It insulates you from electricity.
-    It lets you fly.
-    It protects you from missiles.
-  an uncursed ring of fire
-  a +2 ring of strength
-  an uncursed ring of protection from magic
-  5 potions of heal wounds
-  a +3 ring of intelligence
-  3 scrolls of blinking
-  a +2 ring of evasion
-  an uncursed staff of poison
-  a scroll of summoning
-  an uncursed staff of air
-  a wand of digging (3)
-  2 potions of invisibility
-  5 potions of brilliance
-  2 scrolls of fear
-  a potion of berserk rage
-  a phantom mirror
-  an uncursed ring of teleportation
-  5 scrolls of amnesia
-  a potion of mutation
-  a potion of haste
-  13 scrolls of remove curse
-  a wand of random effects (19)
-  a potion of flight
-  a potion of ambrosia
-  a +3 ring of intelligence
 (43, -3, D:9)
   a +1 ring of protection
+  a +2 ring of evasion
+  an uncursed staff of poison
+  a +2 ring of strength
   a scroll of random uselessness
   a -2 ring of slaying
   an uncursed ring of attention
@@ -557,12 +469,52 @@ Level 12 of the Dungeon
 (18, -20, D:12)
   a +0 plate armour
 (18, -19, D:12)
-  a +0 chain mail
-(20, -19, D:12)
   a +0 scale mail
   a +0 trident
+  a +0 chain mail
+(21, -18, D:12)
+  a +2 chain mail of positive energy
+  a +1 plate armour of magic resistance
+  a +2 chain mail of fire resistance
+(21, -17, D:12)
+  a +3 plate armour
+  a +2 ring mail of fire resistance
+  a +0 scale mail of poison resistance
+  a +1 leather armour of poison resistance
+  a +2 buckler
+  +0 swamp dragon scales
+  +0 swamp dragon scales
+  a +0 troll leather armour
 (22, -26, D:12)
   a +0 short sword
+(22, -19, D:12)
+  a runed war axe
+(22, -18, D:12)
+  2 throwing nets
+  a +5 eveningstar
+  4 exploding tomahawks
+  8 tomahawks of returning
+  7 javelins of returning
+  4 javelins
+  a +0 spear of venom
+  a +1 war axe of chopping
+  a +1 short sword of draining
+  a +2 war axe
+  a +1 war axe of electrocution
+  a +2 vampiric trident
+  a +1 trident of protection
+  a +2 scimitar of flaming
+  a +4 quarterstaff of speed
+  a cursed +3 long sword
+  a +6 long sword
+  a +1 flail of flaming
+  a +0 long sword of electrocution
+  a +2 flail of protection
+  a +4 flail
+  a +5 falchion of freezing
+  a +3 dagger
+(22, -17, D:12)
+  a +0 war axe of pain
 (22, -15, D:12)
   a +0 leather armour
   a +0 falchion
@@ -570,21 +522,70 @@ Level 12 of the Dungeon
   a +0 shortbow
 (23, -25, D:12)
   a short sword
+(23, -19, D:12)
+  a glowing glaive
+(23, -18, D:12)
+  602 arrows
+  a +3 dire flail of draining
+  a +3 great sword of slicing
+  a +1 shortbow of freezing
+  a +2 great sword of flaming
+  a +2 great mace
+  a +1 dire flail of crushing
+(23, -17, D:12)
+  an arbalest
+  a +1 quarterstaff of speed
+(24, -19, D:12)
+  a dented jade amulet
+(24, -18, D:12)
+  a manual of Summonings
+  2 potions of invisibility
+  a potion of flight
+  a potion of berserk rage
+  a potion of haste
+  4 potions of ambrosia
+  a phantom mirror
+  a potion of mutation
+  a potion of resistance
+  a scroll of summoning
+  5 potions of brilliance
+  14 scrolls of remove curse
+  2 scrolls of fear
+  3 scrolls of blinking
+  an uncursed staff of air
+  5 scrolls of amnesia
+  a +3 ring of intelligence
+  a ring of teleportation
+  an uncursed ring of teleportation
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+  an uncursed ring of protection from magic
+  an uncursed ring of fire
+  a +3 ring of intelligence
+  an uncursed staff of poison
+  an uncursed ring of see invisible
+  8 scrolls of immolation
+  a wand of digging (10)
+  a wand of enslavement (10)
+  the ring "Wuedolat" {+Fly MP+9 Stlth+}
+    [ring of magical power]
+    
+    It affects your magic capacity (+9).
+    It lets you fly.
+    It makes you more stealthy.
 (25, -27, D:12)
   a +0 giant club
   a +0 giant club
-(25, -19, D:12)
-  a cursed -1 plate armour
-  a +0 battleaxe
-(25, -17, D:12)
-  a +0 chain mail
-  a +0 scimitar
 (26, -19, D:12)
   a +0 dire flail
   a +0 chain mail
   a +0 flail
-(26, -17, D:12)
-  a +0 leather armour
 (26, -3, D:12)
   a +0 robe
   a +0 dagger
@@ -592,6 +593,12 @@ Level 12 of the Dungeon
   a +0 pair of gloves
 (26, 9, D:12)
   a +0 scale mail
+(28, -15, D:12)
+  a +0 chain mail
+  a +0 scimitar
+  a cursed -1 plate armour
+  a +0 battleaxe
+  a +0 leather armour
 (28, -6, D:12)
   a +0 robe
   a +0 dagger
@@ -676,11 +683,34 @@ Level 13 of the Dungeon
   a +0 long sword
 (24, 40, D:13)
   a +0 shortbow
+(25, 3, D:13)
+  a chain mail
 (25, 20, D:13)
   a +0 flail
+(27, 2, D:13)
+  a +0 chain mail
+  a +0 short sword
+  a +0 scale mail
+  a +0 dire flail
+(27, 3, D:13)
+  24 arrows
+  a +0 shortbow
+  a +0 scale mail
+  a +2 morningstar of protection
 (27, 31, D:13)
   a +0 giant club
   a +0 giant spiked club
+(28, 0, D:13)
+  a +0 leather armour
+  a +0 shortbow
+  a +0 dagger
+(28, 2, D:13)
+  a +0 scale mail
+  a +0 long sword
+  a +0 morningstar
+(29, 2, D:13)
+  a +0 arbalest
+  a +0 arbalest
 (29, 26, D:13)
   a +0 war axe
 (31, -7, D:13)
@@ -843,8 +873,8 @@ Level 1 of the Orcish Mines
   a +0 dagger
 (31, 17, Orc:1)
   a +0 shield
-  a +0 troll leather armour
   a +0 ring mail
+  a +0 troll leather armour
 (31, 18, Orc:1)
   a +0 robe
   a +0 dagger
@@ -890,8 +920,6 @@ Level 1 of the Orcish Mines
 (35, 16, Orc:1)
   a +0 chain mail
   a +0 trident
-(35, 21, Orc:1)
-  a +0 troll leather armour
 (36, 19, Orc:1)
   a +0 robe
   a cursed -3 dagger
@@ -930,7 +958,6 @@ Level 2 of the Orcish Mines
 [Shop] Peesot's Antique Weapon Shoppe
   a runed whip (181 gold)
   a war axe (115 gold)
-  a runed broad axe (231 gold)
   a glowing halberd (231 gold)
   a glowing mace (198 gold)
   a mace (99 gold)
@@ -1126,7 +1153,7 @@ Level 2 of the Orcish Mines
 (33, -30, Orc:2)
   a +0 leather armour
 (34, -61, Orc:2)
-  a lamp of fire
+  a lamp of fire (inert)
 (34, -60, Orc:2)
   a +0 dagger
   a +0 robe
@@ -1304,35 +1331,16 @@ Level 3 of the Swamp
 
 Level 4 of the Swamp
 (0, 0, Swamp:4)
-  a sling bullet
-(1, -4, Swamp:4)
-  a potion of curing
-(2, 2, Swamp:4)
-  a sling bullet
-(3, 8, Swamp:4)
-  +0 swamp dragon scales
-  (unseen)
-(3, 13, Swamp:4)
-  a sling bullet (still there?)
-  a bolt (still there?)
-(3, 14, Swamp:4)
-  a stone
-(4, 4, Swamp:4)
-  a sling bullet
-(4, 14, Swamp:4)
-  2 sling bullets
-(5, 10, Swamp:4)
-  a bolt
-(8, 7, Swamp:4)
-  a bolt
-(8, 18, Swamp:4)
-  19 stones
-(9, 7, Swamp:4)
-  a sling bullet
-(10, 7, Swamp:4)
-  a sling bullet
-(35, -11, Swamp:4)
-  a bolt
+  a short sword
+(7, -40, Swamp:4)
+  a +0 spear
+(7, -15, Swamp:4)
+  a +0 rapier
+(8, -17, Swamp:4)
+  a +0 robe
+  a +0 quarterstaff
+(35, -15, Swamp:4)
+  a +0 robe
 
 Level 1 of the Spider Nest
 (0, 0, Spider:1)
@@ -1365,8 +1373,6 @@ Level 2 of the Spider Nest
   a cloak
 (2, -1, Spider:2)
   a plate armour
-(38, -24, Spider:2)
-  a manual of Summonings
 (41, -32, Spider:2)
   a robe
 (56, -6, Spider:2)
@@ -1389,38 +1395,181 @@ Level 3 of the Spider Nest
   a robe
 
 Level 4 of the Spider Nest
-(1, 2, Spider:4)
-  a ring of teleportation
-(1, 24, Spider:4)
-  26 arrows
-(6, 0, Spider:4)
+(0, 0, Spider:4)
   a chain mail
-(9, 9, Spider:4)
+(3, 9, Spider:4)
   a scroll of random uselessness
-(13, 1, Spider:4)
-  a hand crossbow
-(13, 21, Spider:4)
-  2 scrolls of identify
-(14, 16, Spider:4)
-  a broad axe
-(15, 20, Spider:4)
-  a hand crossbow
-(21, 28, Spider:4)
-  a wand of random effects (12)
-(24, 18, Spider:4)
-  a scroll of remove curse
-(26, 16, Spider:4)
+(20, 16, Spider:4)
   a dagger
-(31, 20, Spider:4)
-  a potion of ambrosia
-(32, 7, Spider:4)
-  a swamp drake skeleton
-(39, 25, Spider:4)
-  a scroll of identify
-(40, 18, Spider:4)
+(34, 18, Spider:4)
   a scale mail
-(46, 16, Spider:4)
-  a potion of ambrosia
-(46, 17, Spider:4)
-  a potion of ambrosia
+
+Level 1 of the Vaults
+[Shop] Ojanwucs's Magic Scroll Boutique
+  a scroll of teleportation (54 gold)
+  a scroll of identify (36 gold)
+  a scroll of blinking (135 gold)
+  a scroll of enchant armour (135 gold)
+  a scroll of teleportation (54 gold)
+  a scroll of magic mapping (63 gold)
+(0, 0, Vaults:1)
+  11 arrows
+  a +0 shortbow of flaming
+(0, 1, Vaults:1)
+  a +0 shortbow
+  a +0 shortbow
+  26 arrows
+(0, 2, Vaults:1)
+  a +0 shortbow
+  21 arrows
+(1, 1, Vaults:1)
+  a +0 shortbow
+  21 arrows
+(7, -32, Vaults:1)
+  2 arrows
+  a +0 arbalest
+(12, -29, Vaults:1)
+  26 arrows
+(12, -10, Vaults:1)
+  a scale mail
+(15, -6, Vaults:1)
+  a scroll of remove curse
+(17, -29, Vaults:1)
+  a +2 arbalest of freezing
+(22, -4, Vaults:1)
+  17 arrows
+(23, -23, Vaults:1)
+  an arrow
+(24, -24, Vaults:1)
+  a +0 short sword
+  a +0 chain mail
+(24, -23, Vaults:1)
+  an arrow
+(25, -23, Vaults:1)
+  a +0 war axe
+  a +0 chain mail
+  a +0 leather armour
+  a +0 rapier
+  a +0 short sword
+(26, -24, Vaults:1)
+  a cursed -2 short sword
+  a +0 longbow
+  20 arrows
+(26, -23, Vaults:1)
+  12 arrows
+(27, -23, Vaults:1)
+  a +0 dagger
+  a +0 robe
+(28, -21, Vaults:1)
+  a +0 short sword
+  a +0 shortbow
+  8 arrows
+  a +0 leather armour
+(35, -11, Vaults:1)
+  18 arrows
+(38, -31, Vaults:1)
+  a knobbly glowing staff
+(39, -20, Vaults:1)
+  a +0 chain mail
+(40, -18, Vaults:1)
+  a +0 glaive
+(41, -18, Vaults:1)
+  a +0 war axe
+(43, -23, Vaults:1)
+  a +0 arbalest
+(45, -25, Vaults:1)
+  2 arrows
+(45, -24, Vaults:1)
+  a +0 leather armour
+  a +0 short sword
+  11 arrows
+(45, -23, Vaults:1)
+  a +0 shortbow
+  a large rock
+(46, -25, Vaults:1)
+  a +0 arbalest
+(46, -24, Vaults:1)
+  30 arrows
+  a cursed +0 arbalest
+  a +3 chain mail
+  a +0 great sword
+  a +0 arbalest
+  a +0 arbalest
+(47, -24, Vaults:1)
+  a large rock
+(47, -23, Vaults:1)
+  a +0 arbalest
+(48, -24, Vaults:1)
+  a +0 arbalest
+  a +0 plate armour
+  a +0 battleaxe
+(49, 31, Vaults:1)
+  a potion of invisibility
+(51, -26, Vaults:1)
+  an arrow (still there?)
+  a large rock (still there?)
+(51, -21, Vaults:1)
+  a +0 arbalest
+(52, -24, Vaults:1)
+  23 arrows
+  a +0 longbow
+  a +0 arbalest
+(52, 9, Vaults:1)
+  a broad axe
+(54, -24, Vaults:1)
+  a +0 leather armour
+  a +2 rapier of venom
+(54, -18, Vaults:1)
+  3 javelins
+(57, -14, Vaults:1)
+  a +0 long sword
+  a +0 ring mail
+(57, 12, Vaults:1)
+  a +0 dagger
+  a +0 robe
+(58, 13, Vaults:1)
+  a +0 morningstar
+  a +0 scale mail
+(59, 12, Vaults:1)
+  an arrow
+(59, 28, Vaults:1)
+  an arrow
+(59, 33, Vaults:1)
+  a -2 dagger
+  a +0 shortbow
+  a +0 leather armour
+(59, 34, Vaults:1)
+  a +0 morningstar
+(60, 34, Vaults:1)
+  12 arrows
+  a +0 leather armour
+  a large rock
+  a +0 ring mail
+(60, 35, Vaults:1)
+  3 arrows
+(62, -21, Vaults:1)
+  a club
+(62, 25, Vaults:1)
+  a wand of enslavement (7)
+  2 large rocks
+  a cyclops skeleton
+(63, 25, Vaults:1)
+  a +4 morningstar
+  a +0 plate armour
+(63, 26, Vaults:1)
+  a large rock
+(63, 34, Vaults:1)
+  a large rock
+(64, 19, Vaults:1)
+  a large rock
+(64, 34, Vaults:1)
+  a leather armour
+(66, 34, Vaults:1)
+  a large rock
+(66, 35, Vaults:1)
+  a large rock
+(69, -25, Vaults:1)
+  2 needles of sleeping
+(71, 34, Vaults:1)
+  a +0 hand axe
 
