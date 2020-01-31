@@ -302,9 +302,6 @@ Level 9 of the Dungeon
   a +0 ring mail
 (41, -3, D:9)
   a hand crossbow
-  a +0 trident
-  a +1 dagger of flaming
-  a +0 whip of freezing
   a broad axe
   a hand crossbow
   a +0 fustibalus
@@ -321,12 +318,15 @@ Level 9 of the Dungeon
   a +1 hand axe of freezing
   a +0 dagger of venom
   a +0 hunting sling
+  a +0 whip of freezing
   a +0 mace of draining
   a +0 whip of freezing
   a +3 flail
   a +1 dagger of holy wrath
   a +1 long sword of freezing
   a +2 falchion of distortion
+  a +0 trident
+  a +1 dagger of flaming
 (42, -3, D:9)
   an arbalest
   a +0 longbow
@@ -475,6 +475,7 @@ Level 12 of the Dungeon
 (21, -18, D:12)
   a +2 chain mail of positive energy
   a +2 chain mail of fire resistance
+  a +0 helmet of intelligence
   a +1 plate armour of magic resistance
 (21, -17, D:12)
   a +3 chain mail
@@ -489,16 +490,12 @@ Level 12 of the Dungeon
 (22, -26, D:12)
   a +0 short sword
 (22, -18, D:12)
-  a +2 war axe of electrocution
-  2 needles of sleeping
-  a +4 morningstar
-  a +2 rapier of venom
-  a +2 morningstar of protection
   2 throwing nets
   4 exploding tomahawks
   8 tomahawks of returning
   7 javelins of returning
   7 javelins
+  2 needles of sleeping
   a +0 spear of venom
   a +1 war axe of chopping
   a +1 short sword of draining
@@ -506,6 +503,10 @@ Level 12 of the Dungeon
   a +1 war axe of electrocution
   a +2 vampiric trident
   a +1 trident of protection
+  a +4 morningstar
+  a +2 rapier of venom
+  a +2 morningstar of protection
+  a +2 war axe of electrocution
   a +2 scimitar of flaming
   a +4 quarterstaff of speed
   a cursed +3 long sword
@@ -518,6 +519,7 @@ Level 12 of the Dungeon
   a +3 dagger
   a +5 eveningstar
 (22, -17, D:12)
+  a +0 hunting sling of velocity
   a +0 war axe of pain
 (22, -15, D:12)
   a +0 leather armour
@@ -529,16 +531,17 @@ Level 12 of the Dungeon
 (23, -19, D:12)
   a glowing halberd
   a glowing glaive
+  a crystal shortbow
 (23, -18, D:12)
-  a +0 glaive
-  a +0 shortbow of flaming
-  a +2 arbalest of freezing
   894 arrows
+  a +0 glaive
   a +3 great sword of slicing
   a +1 shortbow of freezing
   a +2 great sword of flaming
   a +2 great mace
   a +1 dire flail of crushing
+  a +0 shortbow of flaming
+  a +2 arbalest of freezing
   a +3 dire flail of draining
 (23, -17, D:12)
   an arbalest
@@ -546,8 +549,7 @@ Level 12 of the Dungeon
 (24, -19, D:12)
   a dented jade amulet
 (24, -18, D:12)
-  a wand of paralysis (7)
-  2 scrolls of teleportation
+  12 scrolls of teleportation
   an uncursed staff of earth
   a manual of Summonings
   3 potions of invisibility
@@ -560,8 +562,7 @@ Level 12 of the Dungeon
   a potion of resistance
   a scroll of summoning
   5 potions of brilliance
-  15 scrolls of remove curse
-  2 scrolls of fear
+  14 scrolls of remove curse
   3 scrolls of blinking
   an uncursed staff of air
   5 scrolls of amnesia
@@ -576,11 +577,17 @@ Level 12 of the Dungeon
     It insulates you from electricity.
     It lets you fly.
     It protects you from missiles.
-  an uncursed ring of protection from magic
   an uncursed ring of fire
   a +3 ring of intelligence
   an uncursed staff of poison
   an uncursed ring of see invisible
+  a scroll of identify
+  the ring of Zoizio {rCorr *Contam MP+9 Int+10}
+    [ring of resist corrosion]
+    
+    It affects your intelligence (+10).
+    It affects your magic capacity (+9).
+    It causes magical contamination when unequipped.
   8 scrolls of immolation
   a wand of digging (10)
   the ring "Wuedolat" {+Fly MP+9 Stlth+}
@@ -951,14 +958,9 @@ Level 2 of the Orcish Mines
   a ration (70 gold)
   a ration (70 gold)
   a ration (70 gold)
-  a ration (70 gold)
-  a ration (70 gold)
-  a ration (70 gold)
-  a ration (70 gold)
 [Shop] Kubithoy's Assorted Antiques
   a robe (15 gold)
   a potion of flight (66 gold)
-  a potion of heal wounds (110 gold)
   a scroll of remove curse (66 gold)
   a helmet (99 gold)
 [Shop] Peesot's Antique Weapon Shoppe
@@ -975,7 +977,6 @@ Level 2 of the Orcish Mines
   a potion of brilliance (48 gold)
   a potion of ambrosia (96 gold)
   2 potions of brilliance (96 gold)
-  a potion of heal wounds (60 gold)
   a potion of flight (36 gold)
 (0, 0, Orc:2)
   a +0 plate armour
@@ -1102,8 +1103,8 @@ Level 2 of the Orcish Mines
 (20, -32, Orc:2)
   a +0 short sword
 (21, -52, Orc:2)
-  a +0 scimitar
   a +0 plate armour
+  a +0 scimitar
 (21, -11, Orc:2)
   a +0 plate armour
   a +0 flail
@@ -1154,24 +1155,22 @@ Level 2 of the Orcish Mines
   a +0 chain mail
   a +0 halberd
 (33, -60, Orc:2)
-  a +0 whip
   a +0 leather armour
+  a +0 whip
 (33, -30, Orc:2)
   a +0 leather armour
-(34, -61, Orc:2)
-  a lamp of fire
 (34, -60, Orc:2)
-  a +0 dagger
   a +0 robe
-(34, -58, Orc:2)
   a +0 dagger
+(34, -58, Orc:2)
   a +0 ring mail
+  a +0 dagger
 (34, -57, Orc:2)
   a +0 falchion
-  a +0 dagger
-  a +0 robe
-  a +0 dire flail
   a +0 plate armour
+  a +0 dire flail
+  a +0 robe
+  a +0 dagger
 (35, -58, Orc:2)
   a +0 flail
 (35, -41, Orc:2)
@@ -1387,12 +1386,6 @@ Level 2 of the Spider Nest
 Level 3 of the Spider Nest
 (0, 0, Spider:3)
   a dagger
-(11, 4, Spider:3)
-  a crystal shortbow
-(11, 8, Spider:3)
-  a scroll of identify
-(12, 7, Spider:3)
-  a book of Enchantments
 (24, 1, Spider:3)
   a short sword
 (29, -30, Spider:3)
@@ -1420,10 +1413,24 @@ Level 1 of the Vaults
   a +0 shortbow
 (1, 0, Vaults:1)
   a +0 shortbow
+(4, 2, Vaults:1)
+  a +0 dire flail
+(5, 3, Vaults:1)
+  a +0 dagger
+  a +0 chain mail
 (7, -33, Vaults:1)
   a +0 arbalest
 (12, -11, Vaults:1)
   a scale mail
+(13, 27, Vaults:1)
+  a +0 scale mail
+  a +0 battleaxe of flaming
+(22, -15, Vaults:1)
+  a +0 chain mail
+  a +0 battleaxe
+(23, -13, Vaults:1)
+  a +0 robe
+  a +0 dagger
 (24, -25, Vaults:1)
   a +0 chain mail
   a +0 short sword
@@ -1529,44 +1536,104 @@ Level 1 of the Vaults
   a +0 hand axe
 
 Level 2 of the Vaults
+[Shop] Erefuic's Distillery
+  2 potions of lignification (132 gold)
+  2 potions of flight (132 gold)
+  a potion of brilliance (88 gold)
+  a potion of mutation (176 gold)
+  a potion of resistance (220 gold)
+  a potion of lignification (66 gold)
+  a potion of cancellation (176 gold)
+  a potion of flight (66 gold)
+  a potion of haste (220 gold)
+  a potion of curing (66 gold)
+  a potion of curing (66 gold)
+  2 potions of berserk rage (220 gold)
+  a potion of brilliance (88 gold)
+  a potion of curing (66 gold)
 (0, 0, Vaults:2)
-  an embroidered cloak
-(1, -5, Vaults:2)
-  26 bolts
-(8, 8, Vaults:2)
-  a bolt
-(9, 8, Vaults:2)
+  a spear
+(10, 20, Vaults:2)
+  a +1 cloak
+(11, -7, Vaults:2)
+  a +0 robe
+(15, -6, Vaults:2)
+  a +0 giant spiked club
+(16, 12, Vaults:2)
+  a +2 great sword of electrocution
+  a +1 scale mail of positive energy
+(16, 14, Vaults:2)
+  a +0 scimitar
+(17, -8, Vaults:2)
+  a +0 giant club
+  a +0 giant spiked club
+(17, -6, Vaults:2)
+  a +0 short sword
+  a +0 leather armour
+(19, 28, Vaults:2)
   a +0 scale mail
   a +0 falchion
-(9, 9, Vaults:2)
+(19, 29, Vaults:2)
   a +0 scale mail
   a +0 morningstar
-(10, 8, Vaults:2)
+(20, 28, Vaults:2)
   a +0 giant club
   a +0 giant spiked club
   a +0 chain mail
   a +5 battleaxe of flaming
   a +0 giant club
-  an ugly thing skeleton
-  an ugly thing skeleton
-  an ugly thing skeleton
-  an ugly thing skeleton
-  an ugly thing skeleton
-  an ugly thing skeleton
-(16, 16, Vaults:2)
-  27 gold pieces
-(26, 9, Vaults:2)
-  39 gold pieces
-(48, -14, Vaults:2)
-  3 poisoned needles
-(49, -13, Vaults:2)
-  a poisoned needle
-(50, -12, Vaults:2)
-  a bolt
-(51, -11, Vaults:2)
-  a bolt
-(53, -2, Vaults:2)
+(22, -15, Vaults:2)
+  a +0 chain mail
+  a +2 battleaxe of venom
+(23, -8, Vaults:2)
+  a +0 giant spiked club
+  a +0 giant spiked club
+(24, -8, Vaults:2)
+  a +0 dire flail
+  a +0 giant club
+(31, 0, Vaults:2)
+  a cursed +0 ring mail
+  a +0 morningstar
+(32, 1, Vaults:2)
+  a +0 ring mail of cold resistance
+  a +2 battleaxe of flaming
+(33, 0, Vaults:2)
+  a +0 robe
+  a +0 dagger
+(34, -3, Vaults:2)
+  a +2 chain mail of cold resistance
+  a +0 rapier
+(35, -1, Vaults:2)
+  a +0 ring mail
+  a +0 falchion
+(37, -17, Vaults:2)
+  a scale mail
+(38, -3, Vaults:2)
+  a +0 leather armour
+  a +0 great mace
+(39, -23, Vaults:2)
+  a scroll of identify
+(39, 14, Vaults:2)
+  a runed ring mail
+(42, -20, Vaults:2)
+  a chain mail
+(50, -23, Vaults:2)
+  a hunting sling
+(55, 17, Vaults:2)
+  a leather armour
+(63, 18, Vaults:2)
   3 large rocks
-(55, -7, Vaults:2)
+(64, 12, Vaults:2)
+  a +0 leather armour
+  a +0 great mace
+(65, 12, Vaults:2)
+  a cursed +0 scale mail
+  a +0 arbalest
+  a +0 falchion
+(65, 13, Vaults:2)
   2 large rocks
+  a +0 robe
+  a +3 whip
+(69, 21, Vaults:2)
+  a +0 giant club
 
