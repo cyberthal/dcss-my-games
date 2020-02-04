@@ -2,13 +2,13 @@
 
 Game seed: 3491786912515890962
 
-Galost Fiawk the Apostle (Hill Orc Fighter)   Turns: 112520, Time: 1 , 03:00:34
+Galost Fiawk the Messiah (Hill Orc Fighter)   Turns: 122710, Time: 1 , 05:42:49
 
-Health: 194/194    AC: 42    Str: 30    XL:     21   Next: 85%
-Magic:  34/34      EV:  9    Int: 18    God:    Beogh [*****.]
-Gold:   946        SH: 20    Dex: 10    Spells: 15/22 levels left
+Health: 204/204    AC: 42    Str: 30    XL:     22   Next: 75%
+Magic:  36/36      EV:  9    Int: 18    God:    Beogh [******]
+Gold:   389        SH: 20    Dex: 10    Spells: 16/23 levels left
 
-rFire    . . .     SeeInvis +   i - +6 blowgun
+rFire    . . .     SeeInvis +   i - +7 blowgun
 rCold    + + .     Gourm    .   y - +0 large shield
 rNeg     . . .     Faith    +   n - +15 Maxwell's patent armour {-Cast -Tele rElec MR+ rCorr}
 rPois    .         Spirit   .   P - +1 helmet {Int+3}
@@ -16,27 +16,27 @@ rElec    +         Reflect  .   s - scarf {repulsion}
 rCorr    +         Harm     .   Z - +2 pair of gloves {Str+3}
 MR       ++++.     NoTele   +   N - +2 pair of boots
 Stlth    ..........NoCast   +   C - amulet of faith
-HPRegen  0.42/turn              S - ring "Qouschomn" {Ice MR+ Str+5 SInv}
-MPRegen  0.24/turn              D - ring of protection from fire
+HPRegen  0.44/turn              D - ring of protection from fire
+MPRegen  0.25/turn              S - ring "Qouschomn" {Ice MR+ Str+5 SInv}
 
-@: lightly drained, repel missiles
+@: recalling, repel missiles
 A: walk on water, repulsion field 1, slimy green scales 1, cold resistance 1,
 magic resistance 1
 }: 2/15 runes: decaying, gossamer
-a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Renounce
+a: Smiting, Stop Recall, Give Item to Named Follower, Resurrection, Renounce
 Religion
 
 
-You are on level 3 of the Elven Halls.
+You are on level 4 of the Vaults.
 You worship Beogh.
-Beogh is extremely pleased with you.
+Beogh is exalted by your worship.
 You are not hungry.
 
-You have visited 9 branches of the dungeon, and seen 39 of its levels.
+You have visited 9 branches of the dungeon, and seen 40 of its levels.
 You have also visited: Ice Cave and Desolation.
 
-You have collected 4248 gold pieces.
-You have spent 3302 gold pieces at shops.
+You have collected 4624 gold pieces.
+You have spent 4235 gold pieces at shops.
 
 Inventory:
 
@@ -73,14 +73,14 @@ Hand Weapons
    It makes you vulnerable to cold.
  f - a +3 broad axe of electrocution
  h - a +5 hand crossbow
- i - a +6 blowgun (weapon)
+ i - a +7 blowgun (weapon)
  j - a +1 fustibalus of freezing
 Missiles
- k - 153 sling bullets
- m - 919 stones
- t - 271 bolts
- x - 35 tomahawks
- z - 52 poisoned needles (quivered)
+ k - 194 sling bullets
+ m - 957 stones
+ t - 503 bolts
+ x - 43 tomahawks
+ z - 50 poisoned needles (quivered)
  A - 7 curare-tipped needles {!f}
  H - 15 needles of confusion {!f}
 Armour
@@ -102,7 +102,7 @@ Jewellery
  g - an uncursed ring of protection from magic
  v - a +3 ring of evasion
  C - an amulet of faith (around neck)
- D - a ring of protection from fire (right hand)
+ D - a ring of protection from fire (left hand)
  R - the ring of Lisiseawn {Ice +Fly rPois rN++ Stlth-}
    (You found it on level 3 of the Swamp)   
    
@@ -115,7 +115,7 @@ Jewellery
    It greatly protects you from negative energy.
    It lets you fly.
    It makes you less stealthy.
- S - the ring "Qouschomn" (left hand) {Ice MR+ Str+5 SInv}
+ S - the ring "Qouschomn" (right hand) {Ice MR+ Str+5 SInv}
    (You found it on level 4 of the Swamp)   
    
    [ring of ice]
@@ -127,60 +127,60 @@ Jewellery
    It affects your resistance to hostile enchantments.
    It lets you see invisible.
 Wands
- l - a wand of iceblast (19)
- o - a wand of polymorph (10)
- p - a wand of disintegration (22)
+ l - a wand of disintegration (22)
+ o - a wand of iceblast (30)
  q - a wand of acid (5)
  r - a wand of enslavement (17)
+ u - a wand of polymorph (26)
  w - a wand of digging (9)
- B - a wand of random effects (53)
+ B - a wand of random effects (71)
  J - a wand of flame (55)
  W - a wand of paralysis (15)
 Scrolls
  E - 12 scrolls of fog
- K - 7 scrolls of magic mapping
- V - 2 scrolls of fear
+ F - 8 scrolls of magic mapping
 Potions
- u - 20 potions of curing
- F - 10 potions of lignification
- I - 2 potions of berserk rage
- L - 3 potions of cancellation
- M - 2 potions of haste
- O - 6 potions of heal wounds
- Q - 8 potions of might
+ L - 4 potions of berserk rage
+ M - 4 potions of cancellation
+ O - 20 potions of curing
+ Q - 4 potions of invisibility
+ T - 7 potions of heal wounds
+ U - 10 potions of lignification
+ X - 8 potions of might
 Miscellaneous
- T - 5 boxes of beasts
- U - a lamp of fire
+ p - a lightning rod (2/4)
+ I - 5 boxes of beasts
+ K - a lamp of fire
 Comestibles
  G - 9 rations
 
 
    Skills:
- + Level 18.1 Fighting
- - Level 9.0(8.9) Long Blades
+ + Level 18.8 Fighting
+ - Level 9.0 Long Blades
  - Level 12.1(14.1) Axes
- - Level 10.2(11.9) Maces & Flails
+ - Level 10.2(12.0) Maces & Flails
    Level 3.0(7.3) Polearms
- + Level 13.2(13.8) Slings
- - Level 7.0(6.9) Crossbows
- - Level 7.6(11.3) Throwing
- - Level 12.1(12.0) Armour
- - Level 3.0(2.9) Dodging
- - Level 4.0(3.9) Stealth
+ - Level 13.7(14.5) Slings
+ - Level 8.0 Crossbows
+ - Level 8.2(12.0) Throwing
+ - Level 12.1 Armour
+ - Level 3.0 Dodging
+ - Level 4.0 Stealth
  - Level 12.1 Shields
- - Level 1.0(0.9) Spellcasting
+ - Level 1.0 Spellcasting
  - Level 1.3 Conjurations
  - Level 3.0 Hexes
  - Level 9.1 Summonings
- - Level 5.0(4.9) Necromancy
+ - Level 5.0 Necromancy
  - Level 1.0 Translocations
- - Level 1.0(0.9) Transmutations
+ - Level 1.0 Transmutations
  - Level 1.5 Fire Magic
- - Level 19.5 Invocations
- + Level 14.2 Evocations
+ + Level 20.7 Invocations
+ + Level 15.0 Evocations
 
 
-You have 15 spell levels left.
+You have 16 spell levels left.
 You know the following spells:
 
  Your Spells              Type           Power        Failure   Level  Hunger
@@ -197,7 +197,7 @@ Your spell library contains the following spells:
  Spells                   Type           Power        Failure   Level  Hunger
  Summon Small Mammal      Summ           ####         16%         1    ##.....
  Pain                     Necr           ###.         65%         1    ##.....
- Corpse Rot               Necr           N/A          80%         2    ###....
+ Corpse Rot               Necr           N/A          78%         2    ###....
  Vampiric Draining        Necr           ###.......   95%         3    ####...
  Slow                     Hex            ##......     96%         2    ###....
  Sting                    Conj/Pois      #...         99%         1    ##.....
@@ -266,9 +266,8 @@ Dungeon Overview and Level Annotations
 Branches:
 Dungeon (15/15)            Temple (1/1) D:4            Lair (6/6) D:9
   Swamp (4/4) Lair:4       Spider (4/4) Lair:4        Slime (0/5) Lair:6
-    Orc (2/2) D:12            Elf (3/3) Orc:2        Vaults (3/5) D:13
- Depths (1/5) D:15        
- Crypt: Vaults:2-3  
+    Orc (2/2) D:12            Elf (3/3) Orc:2        Vaults (4/5) D:13
+  Crypt (0/3) Vaults:3     Depths (1/5) D:15        
 
 Altars:
 Ashenzari
@@ -296,15 +295,14 @@ The Shining One
 Beogh
 
 Shops:
-D:11 [   Orc:2 %*(!   Elf:1 }=}*   Vaults:1 ?   Vaults:2 !
+D:11 [   Orc:2 %*(!   Elf:1 }=}*   Vaults:1 ?   Vaults:2 !   Vaults:3 (
 
 Annotations:
 D:9 trash stash
-Orc:2 loot
 Elf:1 loot
-Elf:2 HoB. Bring Vault sentinel. Loot., exclusion: downstairs
-Vaults:1 loot
-Vaults:2 loot., exclusion: 2 downstairs
+Elf:2 HoB. Bring Vault sentinel. Loot.
+Vaults:2 loot
+Vaults:3 loot
 
 
 Innate Abilities, Weirdness & Mutations
@@ -318,53 +316,57 @@ You are resistant to hostile enchantments. (MR+)
 
 Message History
 
-There is an open door here.
-Key pressed, stopping explore.
-Unknown command.
-Key pressed, stopping explore.
-Unknown command.
-Found a robe.
-Done exploring.
-Unknown command.
-Done exploring.
-Drop what? 52/52 slots (_ for help) (? for menu, Esc to quit)
-You drop a lamp of fire.
-Press: ? - help, . - travel, g - get item
-You can't see that place.
-[Stash: a brightly glowing short sword]
-[the floor.]
-Evoke which item? (* to show all) (? for menu, Esc to quit)
-Okay, then.
-Move the cursor to view the level map, or type ? for a list of commands.
 Returning to the game...
+Press: ? - help, . - travel
+You can't see that place.
+[the floor.]
+There is an open door here.
+You begin recalling your allies.
+Koronagh is recalled. Your orc knight is recalled. Agrik is recalled.
+You start resting.
+Your orc knight is recalled. x2
+Harm is recalled. Your orc knight is recalled.
+Morun is recalled. Ogrik is recalled.
+Your orc knight is recalled. Your orc warrior is recalled. Your orc knight is
+recalled.
+Your orc wizard is recalled. Your orc warrior is recalled.
+Your orc knight is recalled. Your orc priest is recalled.
+Your orc warrior is recalled. Your orc wizard is recalled.
+Magic restored.
+Press: ? - help, v - describe, . - travel
+Here: an orc priest, wielding a +0 short sword and wearing a +0 scale mail
+(friendly)
+The floor.
 Saving game... please wait.
 
-     #########################
-     #.).|.|.)..=.)..[)...|).#
-#   ##'##.(.}.}.[.........##'##
-#  ##...###################...##
-####...........................###
-##.'...........................'.#
-##.#................[..........#[#
-##.##.........................##)#
-##..####...................####..#
-##.....##.................##.?.:.#
-##.(...(#.................#).|.)}#
-##...[.##.............@...##[.[:.#
-##.}####...................####..#
-##(##......##.........##......##.#
-##.#.......####....#####.......#=#
-##.'.........####.####.........'.#
-####...........#####...........###
-#  ##............#............##
-    ####...................####
-       ####.............####
-          ###...).....###
-#           ###.)...###
-#             ###[###
+                               #####
+                              ##...#
+                             ##....#
+                            ##.....#
+ ##########                ##.....##
+ #........#       ##########.....##
+ #........#########.......#.....##
+ #........##......#.......'....##
+ #........##......#...o...#...##
+ #........##......#.oooo..#####
+ #........##......'.oo@oo.#
+##'#########......#.ooooo.#
+...........'......#.oooo..#
+...........'......#.......#
+...........#......#.......#
+...........#......#..)....#
+......)....########.......#
+...........#      #.......#
+####'##############.......#
+.................####'########
+.................#...........#
+.................#...........#
 
 
-There are no monsters in sight!
+You can see the friendly Koronagh the orc warlord, 7 friendly orc knights, the
+friendly Agrik the orc knight, the friendly Harm the orc knight, the friendly
+Morun the orc knight, the friendly Ogrik the orc knight, 3 friendly orc
+warriors, a friendly orc priest and 2 friendly orc wizards.
 
 Vanquished Creatures
   Sojobo (Vaults:2)
@@ -380,85 +382,91 @@ Vanquished Creatures
   3 tengu reavers
   Roxanne (Spider:3)
   5 deep elf sorcerers
-  3 vault wardens
+  4 vault wardens
   An imperial myrmidon (Desolation)
   7 emperor scorpions
   2 orc warlords
+  3 fire giants
   The ghost of Bolleh the Thaumaturge, a journeyman GnSk of Makhleb (Spider:3)
   3 very ugly things
   4 deep elf elementalists
-  4 ironheart preservers (Vaults:2)
+  8 ironheart preservers
   The ghost of Onucvo the Cleaver, a journeyman FoFi of Okawaru (D:14)
-  5 deep elf demonologists
-  2 stone giants (Vaults:2)
+  6 deep elf demonologists
+  5 stone giants
   3 halazid warlocks (Desolation)
   6 dire elephants
   A spark wasp (Spider:4)
-  3 deep elf annihilators (Elf:3)
+  4 deep elf annihilators
   Snorg (D:10)
-  2 deep elf death magi (Elf:3)
+  4 deep elf death magi
   4 crystal guardians
   A fire dragon (Vaults:2)
   An ice dragon (Vaults:2)
   10 ragged hierophants (Desolation)
   Harold (D:9)
   2 deep elf high priests
-  2 yaktaur captains (Vaults:1)
+  5 yaktaur captains
   2 rakshasas
   8 servants of whispers (Desolation)
-  2 vault guards
+  3 vault guards
   16 hydras
   2 peacekeepers (Desolation)
-  4 centaur warriors
+  A death knight (Vaults:4)
+  7 centaur warriors
   2 shambling mangroves
-  9 two-headed ogres
+  17 two-headed ogres
   13 death yaks
   11 alligators
   A deep troll earth mage (D:12)
   A tengu warrior (D:14)
   18 dancing weapons
   6 orc high priests
-  3 ogre magi
-  12 deep elf knights
+  6 ogre magi
+  5 hell knights (Vaults:4)
+  14 deep elf knights
   A fire crab (shapeshifter) (D:15)
+  2 shadow wraiths
   4 skeletal warriors
   2 cherubim (D:13)
   3 spriggan druids
   4 deep trolls
   An unseen horror (D:14)
   An orange crystal statue (Elf:2)
-  3 wizards
+  4 wizards
   7 deep elf archers
   12 swamp dragons
   2 glowing orange brains
   Pikel (D:8)
-  2 harpies
-  8 orc knights
-  7 ironbrand convokers
+  13 harpies
+  9 orc knights
+  9 ironbrand convokers
+  A necromancer (Vaults:4)
   19 wolf spiders
   A wolf spider zombie (D:15)
-  22 ugly things
+  33 ugly things
   4 orc sorcerers
   5 cyclopes
   17 orb spiders
-  42 deep elf magi
+  43 deep elf magi
   2 centaur zombies
   3 manticores
   29 elephants
   7 ice statues
   5 black mambas
   5 guardian serpents (Desolation)
-  7 vault sentinels
+  8 vault sentinels
   15 spiny frogs
   A torpor snail (Spider:2)
   3 gargoyles
   An efreet (D:12)
   5 rime drakes
   2 kobold demonologists (D:12)
+  A storm dragon simulacrum (Vaults:4)
   A komodo dragon (shapeshifter) (Vaults:2)
   11 komodo dragons
   3 anaconda simulacra (IceCv)
-  3 freezing wraiths
+  8 freezing wraiths
   10 yaktaurs
   26 demonic crawlers
   5 tengu conjurers
@@ -476,11 +484,12 @@ Vanquished Creatures
   8 hippogriffs
   4 blink frogs (Lair:4)
   4 dream sheep (Lair:5)
-  40 slime creatures
+  43 slime creatures
   A fire giant simulacrum (Vaults:2)
   Sigmund (D:4)
+  An ettin skeleton (Vaults:4)
   2 air elementals
-  36 tarantellas
+  37 tarantellas
   2 spriggans
   2 shadows
   A tarantella (shapeshifter) (D:15)
@@ -488,7 +497,7 @@ Vanquished Creatures
   55 yaks
   3 water elementals
   A dire elephant simulacrum (IceCv)
-  55 redbacks
+  56 redbacks
   3 fire elementals
   2 vampires (D:15)
   2 wyverns
@@ -515,8 +524,9 @@ Vanquished Creatures
   A phantom (D:8)
   3 sky beasts
   A black bear (Lair:2)
+  An elf zombie (Vaults:4)
   An ettin simulacrum (IceCv)
-  33 ogres
+  41 ogres
   A necrophage (D:11)
   2 eyes of draining
   20 centaurs
@@ -528,7 +538,7 @@ Vanquished Creatures
   A wyvern zombie (D:4)
   A gnoll sergeant (Orc:1)
   A hornet simulacrum (D:15)
-  A human simulacrum (Vaults:1)
+  2 human simulacra
   3 scorpions
   20 killer bees
   5 electric eels
@@ -565,45 +575,63 @@ Vanquished Creatures
   11 goblins
   4 hobgoblins
   25 jackals
-  A kobold (shapeshifter) (D:15)
   20 kobolds
+  A kobold (shapeshifter) (D:15)
   7 quokkas
   9 bats
   A leopard gecko skeleton (D:7)
   3 rats
   5 plants
-1564 creatures vanquished.
+1658 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
   2 deep elf blademasters (Elf:2)
   A deep elf master archer (Elf:3)
+  A fire giant (Vaults:3)
   7 deep elf sorcerers
+  2 vault wardens
   A deep elf elementalist (Elf:2)
+  5 ironheart preservers
   A war gargoyle (Vaults:1)
+  An entropy weaver (Vaults:3)
   A stone giant (Vaults:2)
   3 deep elf demonologists
-  3 deep elf annihilators (Elf:3)
+  4 deep elf annihilators
   2 deep elf death magi (Elf:2)
+  An ettin (Vaults:3)
   3 crystal guardians (Elf:2)
+  2 yaktaur captains
   A ragged hierophant (Desolation)
   2 deep elf high priests (Elf:2)
-  An ogre mage (D:12)
+  6 ogre magi
+  An alligator (shapeshifter) (Vaults:2)
   4 dancing weapons
+  8 two-headed ogres
   3 deep elf knights (Elf:1)
-  A deep elf archer (Elf:1)
-  2 deep trolls (Vaults:2)
-  An ironbrand convoker (Vaults:2)
-  3 deep elf magi
-  3 harpies
+  2 deep elf archers
+  3 deep trolls
+  A flayed ghost (Vaults:4)
+  3 ironbrand convokers
+  3 orc knights (Vaults:3)
+  6 deep elf magi
+  7 harpies
+  An orc sorcerer (Vaults:3)
+  10 vault sentinels
   A guardian serpent (Desolation)
+  4 yaktaurs (Vaults:3)
+  A freezing wraith (Vaults:4)
   A tengu conjurer (D:12)
+  A tyrant leech (shapeshifter) (Vaults:4)
+  A tarantella (Vaults:3)
   2 fire elementals
   2 yaks (Lair:5)
   A warg (Vaults:2)
   A porcupine (Lair:5)
+  3 centaurs (Vaults:3)
+  15 ogres
   An earth elemental (Orc:2)
   An orc wizard (Vaults:3)
-55 creatures vanquished.
+133 creatures vanquished.
 
 Vanquished Creatures (others)
   A spark wasp (Spider:4)
@@ -618,7 +646,7 @@ Vanquished Creatures (others)
   3 ugly things (Vaults:2)
   A torpor snail (Spider:4)
   A demonic crawler (Spider:4)
-  2 orc warriors (Vaults:3)
+  4 orc warriors
   2 jumping spiders
   A hornet (Spider:4)
   2 redbacks (Spider:4)
@@ -626,13 +654,15 @@ Vanquished Creatures (others)
   A water elemental (D:15)
   3 tarantellas
   4 swamp drakes
-  An orc wizard (Elf:2)
-  6 orcs
+  An ogre (Vaults:4)
+  4 orc wizards
+  5 orc priests
+  11 orcs
   16 fungi
   13 plants
-73 creatures vanquished.
+89 creatures vanquished.
 
-Grand Total: 1692 creatures vanquished
+Grand Total: 1880 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -964,91 +994,119 @@ Turn   | Place    | Note
 110043 | Elf:2    | Gained Agrik as an ally
 111609 | Elf:3    | Identified the +5 short sword of Nemelex Xobeh's Fury
                   | {venom, *Slow Str+2 Stlth+}
+113658 | Elf:3    | Got a brightly glowing short sword
+114227 | Orc:2    | Bought a ration for 70 gold pieces
+114227 | Orc:2    | Bought a ration for 70 gold pieces
+114347 | Elf:1    | Bought a scroll of enchant weapon for 142 gold pieces
+114347 | Elf:1    | Bought a twisted war axe for 161 gold pieces
+114368 | Elf:1    | Bought a wand of polymorph (9) for 154 gold pieces
+114368 | Elf:1    | Bought a wand of iceblast (6) for 140 gold pieces
+114368 | Elf:1    | Bought a wand of polymorph (7) for 126 gold pieces
+114466 | Orc:2    | Bought a ration for 70 gold pieces
+114557 | D:12     | Identified the +1 war axe "Filek" {freeze, rN+} (You bought
+                  | it in a shop on level 1 of the Elven Halls)
+114564 | D:12     | Identified the cursed +1 short sword "Ofon" {vamp, rF+ rN++
+                  | Str+2 Dex-3} (You found it on level 3 of the Elven Halls)
+114720 | D:12     | Identified the +6 shortbow of Inoefan {venom, Stlth+} (You
+                  | found it on level 3 of the Spider Nest)
+115792 | Vaults:3 | Reached XP level 22. HP: 200/203 MP: 35/35
+116124 | Vaults:2 | Gained Harm as an ally
+116277 | Vaults:3 | Found a staircase to the Crypt.
+116277 | Vaults:3 | Found a basalt altar of Yredelemnul.
+116278 | Vaults:3 | Found an ancient bone altar of Kikubaaqudgha.
+116746 | Vaults:3 | Found Foceh's Antique Weapon Boutique.
+117616 | Vaults:3 | Gained Ogrik as an ally
+119382 | Vaults:4 | Gained Norbak as an ally
+119737 | Vaults:3 | Reached ****** piety under Beogh
+120095 | Vaults:4 | Your ally Norbak died
+120407 | Vaults:4 | Reached skill level 20 in Invocations
+122313 | Vaults:4 | Reached skill level 15 in Evocations
 
-Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 |
----------------+----------------------------------------------------------------+-----
-Axes           |     4     5     6              7  8  9    10       11       12 | 12.1
-Fighting       |        4        5  7  8     9 11 12 13    14       16    17 18 | 18.1
-Crossbows      |           1           2     3     4  5              6  7       |  7.0
-Throwing       |              1              2           3  6           7       |  7.6
-Slings         |              1        2                 4        5     7 11 13 | 13.2
-Evocations     |                 1        2  4  5  6  8 10 11       12    13 14 | 14.2
-Maces & Flails |                 2     3     4  5  6     7  8  9             10 | 10.2
-Invocations    |                    3  6 11 12    14 15       17    18    19    | 19.5
-Polearms       |                       2     3                                  |  3.0
-Dodging        |                       1                 2        3             |  3.0
-Long Blades    |                          3  4  5  6     7  8           9       |  9.0
-Fire Magic     |                          1                                     |  1.5
-Armour         |                             4  5  6  7     8  9 10    11 12    | 12.1
-Shields        |                             4  5  6  7     8  9 10    11 12    | 12.1
-Hexes          |                                   1                 2  3       |  3.0
-Stealth        |                                               1  4             |  4.0
-Summonings     |                                               2  6  9          |  9.1
-Conjurations   |                                               1                |  1.3
-Translocations |                                               1                |  1.0
-Transmutations |                                               1                |  1.0
-Spellcasting   |                                               1                |  1.0
-Necromancy     |                                                        4  5    |  5.0
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 |
+---------------+-------------------------------------------------------------------+-----
+Axes           |     4     5     6              7  8  9    10       11       12    | 12.1
+Fighting       |        4        5  7  8     9 11 12 13    14       16    17 18    | 18.8
+Crossbows      |           1           2     3     4  5              6  7        8 |  8.0
+Throwing       |              1              2           3  6           7        8 |  8.2
+Slings         |              1        2                 4        5     7 11 13    | 13.7
+Evocations     |                 1        2  4  5  6  8 10 11       12    13 14 15 | 15.0
+Maces & Flails |                 2     3     4  5  6     7  8  9             10    | 10.2
+Invocations    |                    3  6 11 12    14 15       17    18    19    20 | 20.7
+Polearms       |                       2     3                                     |  3.0
+Dodging        |                       1                 2        3                |  3.0
+Long Blades    |                          3  4  5  6     7  8           9          |  9.0
+Fire Magic     |                          1                                        |  1.5
+Armour         |                             4  5  6  7     8  9 10    11 12       | 12.1
+Shields        |                             4  5  6  7     8  9 10    11 12       | 12.1
+Hexes          |                                   1                 2  3          |  3.0
+Stealth        |                                               1  4                |  4.0
+Summonings     |                                               2  6  9             |  9.1
+Conjurations   |                                               1                   |  1.3
+Translocations |                                               1                   |  1.0
+Transmutations |                                               1                   |  1.0
+Spellcasting   |                                               1                   |  1.0
+Necromancy     |                                                        4  5       |  5.0
 
-Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 || total
--------------------------+-------+-------+-------+-------+-------+-------+-------++-------
-Melee: War axe           |    99 |    70 |  8002 |       |  4039 |  4193 |       || 16403
-       Headbutt          |       |    10 |  5386 |  4327 |   216 |       |       ||  9939
-       Whip              |       |    30 |   138 |   307 |   472 |   472 |    22 ||  1441
-       Flail             |       |       |  4097 |  8183 |    66 |       |   145 || 12491
-       Hand axe          |       |       |  8005 |    14 |  8059 |       |    81 || 16159
-       Falchion          |       |       |    37 |  8120 |   208 |  4060 |       || 12425
-       Eveningstar       |       |       |       |       |  8633 |  8876 |   340 || 17849
-       Scimitar          |       |       |       |       |  8026 |   171 |    42 ||  8239
-       Long sword        |       |       |       |       |  4000 |  4000 |       ||  8000
-       Broad axe         |       |       |       |       |       |   125 |   129 ||   254
-       Morningstar       |       |       |       |       |       |       |   673 ||   673
- Fire: Hand crossbow     |       |    27 |   145 |   243 |   691 |   526 |   512 ||  2144
-       Hunting sling     |       |    37 |    48 |     3 |       |       |       ||    88
-       Blowgun           |       |       |       |       |   109 |   325 |   164 ||   598
-       Fustibalus        |       |       |       |       |       |    24 |   262 ||   286
-Throw: Stone             |    44 |     2 |       |       |       |       |       ||    46
-       Tomahawk          |       |       |    12 |    30 |    51 |    17 |    37 ||   147
-       Javelin           |       |       |       |       |     4 |       |       ||     4
- Cast: Summon Butterflie |       |       |       |       |       |       |     1 ||     1
-       Animate Skeleton  |       |       |       |       |       |       |     4 ||     4
-Invok: Heal Other        |       |       |       |     7 |     5 |     5 |     3 ||    20
-       Greater Healing   |       |       |       |       |     6 |     2 |       ||     8
-       Lesser Healing    |       |       |       |       |    12 |     7 |       ||    19
-       Divine Vigour     |       |       |       |       |     1 |     1 |       ||     2
-       Purification      |       |       |       |       |       |     5 |     2 ||     7
-       Smiting           |       |       |       |       |       |       |    16 ||    16
-       Recall Orcish Fol |       |       |       |       |       |       |    42 ||    42
-       Stop Recall       |       |       |       |       |       |       |     5 ||     5
-       Give Item to Name |       |       |       |       |       |       |     1 ||     1
- Abil: Evoke Flight      |       |       |       |       |       |    16 |     2 ||    18
-       Stop Flying       |       |       |       |       |       |     2 |       ||     2
-       Evoke Invisibilit |       |       |       |       |       |       |     1 ||     1
-Evoke: Wand              |       |       |     3 |     3 |    10 |    41 |    59 ||   116
-       Lamp of fire      |       |       |       |       |     1 |     1 |     4 ||     6
-       Box of beasts     |       |       |       |       |       |     1 |     1 ||     2
-  Use: Scroll            |     3 |     3 |    12 |     5 |    11 |    20 |    16 ||    70
-       Potion            |       |     1 |       |     2 |     6 |     5 |     8 ||    22
- Stab: Betrayed ally     |       |       |       |       |     1 |       |       ||     1
-       Paralysed         |       |       |       |       |     2 |    13 |     2 ||    17
-       Confused          |       |       |       |       |       |    32 |       ||    32
-       Distracted        |       |       |       |       |       |     1 |     8 ||     9
-       Invisible         |       |       |       |       |       |       |     3 ||     3
-  Eat: Chunk             |     4 |     8 |    12 |    25 |    51 |    36 |    49 ||   185
-       Ration            |       |       |     2 |     6 |    15 |    20 |    15 ||    58
-Armor: Scale mail        |    39 |    17 |       |       |       |       |       ||    56
-       Chain mail        |       |    22 |  2017 |       |       |       |       ||  2039
-       Leather armour    |       |     1 |     4 |     1 |       |       |       ||     6
-       Plate armour      |       |       |  2768 | 14756 | 16515 |  2859 |   488 || 37386
-       Troll leather arm |       |       |       |       |     8 |    12 |     2 ||    22
-       Swamp dragon scal |       |       |       |       |       |  1019 |       ||  1019
-       Storm dragon scal |       |       |       |       |       |   323 |   274 ||   597
-       Skin              |       |       |       |       |       |     3 |       ||     3
-Dodge: Dodged            |    28 |    25 |  2897 |  4108 |  9478 |  4395 |   493 || 21424
-       Deflected         |       |       |       |     2 |    41 |    86 |    73 ||   202
-Block: Shield            |    47 |    44 |  6077 |  9593 |  3179 |       |       || 18940
-       Large shield      |       |       |       |       | 20641 | 13278 |  1551 || 35470
-Rpst.: Falchion          |       |       |       |   362 |    12 |   263 |       ||   637
-       Scimitar          |       |       |       |       |   492 |    11 |     2 ||   505
-       Long sword        |       |       |       |       |   193 |   150 |       ||   343
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |    99 |    70 |  8002 |       |  4039 |  4193 |       |       || 16403
+       Headbutt          |       |    10 |  5386 |  4327 |   216 |       |       |       ||  9939
+       Whip              |       |    30 |   138 |   307 |   472 |   472 |    22 |       ||  1441
+       Flail             |       |       |  4097 |  8183 |    66 |       |   145 |    33 || 12524
+       Hand axe          |       |       |  8005 |    14 |  8059 |       |    90 |     1 || 16169
+       Falchion          |       |       |    37 |  8120 |   208 |  4060 |       |       || 12425
+       Eveningstar       |       |       |       |       |  8633 |  8876 |   363 |    28 || 17900
+       Scimitar          |       |       |       |       |  8026 |   171 |    42 |    13 ||  8252
+       Long sword        |       |       |       |       |  4000 |  4000 |       |       ||  8000
+       Broad axe         |       |       |       |       |       |   125 |   137 |    37 ||   299
+       Morningstar       |       |       |       |       |       |       |   713 |   170 ||   883
+ Fire: Hand crossbow     |       |    27 |   145 |   243 |   691 |   526 |   525 |    32 ||  2189
+       Hunting sling     |       |    37 |    48 |     3 |       |       |       |       ||    88
+       Blowgun           |       |       |       |       |   109 |   325 |   176 |    44 ||   654
+       Fustibalus        |       |       |       |       |       |    24 |   262 |     3 ||   289
+Throw: Stone             |    44 |     2 |       |       |       |       |       |       ||    46
+       Tomahawk          |       |       |    12 |    30 |    51 |    17 |    55 |     3 ||   168
+       Javelin           |       |       |       |       |     4 |       |       |       ||     4
+ Cast: Summon Butterflie |       |       |       |       |       |       |     1 |       ||     1
+       Animate Skeleton  |       |       |       |       |       |       |     4 |       ||     4
+Invok: Heal Other        |       |       |       |     7 |     5 |     5 |     3 |       ||    20
+       Greater Healing   |       |       |       |       |     6 |     2 |       |       ||     8
+       Lesser Healing    |       |       |       |       |    12 |     7 |       |       ||    19
+       Divine Vigour     |       |       |       |       |     1 |     1 |       |       ||     2
+       Purification      |       |       |       |       |       |     5 |     2 |       ||     7
+       Smiting           |       |       |       |       |       |       |    16 |       ||    16
+       Recall Orcish Fol |       |       |       |       |       |       |    45 |    53 ||    98
+       Stop Recall       |       |       |       |       |       |       |     5 |     7 ||    12
+       Give Item to Name |       |       |       |       |       |       |     3 |     2 ||     5
+ Abil: Evoke Flight      |       |       |       |       |       |    16 |     2 |       ||    18
+       Stop Flying       |       |       |       |       |       |     2 |       |       ||     2
+       Evoke Invisibilit |       |       |       |       |       |       |     1 |       ||     1
+Evoke: Wand              |       |       |     3 |     3 |    10 |    41 |    60 |     2 ||   119
+       Lamp of fire      |       |       |       |       |     1 |     1 |     4 |     1 ||     7
+       Box of beasts     |       |       |       |       |       |     1 |     1 |       ||     2
+       Lightning rod     |       |       |       |       |       |       |       |     3 ||     3
+  Use: Scroll            |     3 |     3 |    12 |     5 |    11 |    20 |    19 |       ||    73
+       Potion            |       |     1 |       |     2 |     6 |     5 |     8 |       ||    22
+ Stab: Betrayed ally     |       |       |       |       |     1 |       |       |       ||     1
+       Paralysed         |       |       |       |       |     2 |    13 |     2 |       ||    17
+       Confused          |       |       |       |       |       |    32 |       |       ||    32
+       Distracted        |       |       |       |       |       |     1 |     8 |     1 ||    10
+       Invisible         |       |       |       |       |       |       |     3 |       ||     3
+  Eat: Chunk             |     4 |     8 |    12 |    25 |    51 |    36 |    52 |    18 ||   206
+       Ration            |       |       |     2 |     6 |    15 |    20 |    17 |     1 ||    61
+Armor: Scale mail        |    39 |    17 |       |       |       |       |       |       ||    56
+       Chain mail        |       |    22 |  2017 |       |       |       |       |       ||  2039
+       Leather armour    |       |     1 |     4 |     1 |       |       |       |       ||     6
+       Plate armour      |       |       |  2768 | 14756 | 16515 |  2859 |   524 |   222 || 37644
+       Troll leather arm |       |       |       |       |     8 |    12 |     2 |     7 ||    29
+       Swamp dragon scal |       |       |       |       |       |  1019 |       |       ||  1019
+       Storm dragon scal |       |       |       |       |       |   323 |   274 |       ||   597
+       Skin              |       |       |       |       |       |     3 |       |       ||     3
+Dodge: Dodged            |    28 |    25 |  2897 |  4108 |  9478 |  4395 |   510 |   112 || 21553
+       Deflected         |       |       |       |     2 |    41 |    86 |    73 |    16 ||   218
+Block: Shield            |    47 |    44 |  6077 |  9593 |  3179 |       |       |       || 18940
+       Large shield      |       |       |       |       | 20641 | 13278 |  1620 |   436 || 35975
+Rpst.: Falchion          |       |       |       |   362 |    12 |   263 |       |       ||   637
+       Scimitar          |       |       |       |       |   492 |    11 |     2 |       ||   505
+       Long sword        |       |       |       |       |   193 |   150 |       |       ||   343
 
