@@ -472,28 +472,6 @@ Level 12 of the Dungeon
   a +0 scale mail
   a +0 trident
   a +0 chain mail
-(21, -18, D:12)
-  a +2 cloak of poison resistance
-  a runed ring mail
-  a +2 chain mail of positive energy
-  a +2 chain mail of fire resistance
-  a +2 hat
-  a +1 plate armour of magic resistance
-(21, -17, D:12)
-  a +2 robe of cold resistance
-  a +0 troll leather armour
-  a +0 troll leather armour
-  a +1 robe of magic resistance
-  a +2 ring mail of positive energy
-  a +3 chain mail
-  a +3 plate armour
-  a +2 ring mail of fire resistance
-  a +0 scale mail of poison resistance
-  a +1 leather armour of poison resistance
-  a +2 buckler
-  +0 swamp dragon scales
-  +0 swamp dragon scales
-  a +0 troll leather armour
 (21, -16, D:12)
   a +3 leather armour
   a +0 buckler
@@ -501,63 +479,15 @@ Level 12 of the Dungeon
   a +2 chain mail of cold resistance
 (22, -26, D:12)
   a +0 short sword
-(22, -19, D:12)
-  a vampiric spear
-(22, -18, D:12)
-  a +2 antimagic long sword
-  a +1 scimitar of electrocution
-  a +4 hand axe of draining
-  a +4 dagger
-  a +1 dagger of electrocution
-  a +2 trident of flaming
-  a +5 quick blade of holy wrath
-  2 throwing nets
-  4 exploding tomahawks
-  8 tomahawks of returning
-  7 javelins of returning
-  7 javelins
-  5 needles of sleeping
-  a +0 spear of venom
-  a +2 war axe
-  a +2 vampiric trident
-  a +1 trident of protection
-  a +2 rapier of venom
-  a +2 long sword of holy wrath
-  a +6 long sword
-  a +2 flail of protection
-  a +5 falchion of freezing
-  a +5 eveningstar
 (22, -17, D:12)
   a +4 short sword of holy wrath
-  a +1 long sword of protection
-  a +2 rapier of venom
-  a hunting sling
-  a +2 short sword of holy wrath
-  a +2 whip of holy wrath
-  a +2 dagger of electrocution
-  a +0 war axe of draining
   a +1 mace of protection
-  the cursed +1 short sword "Ofon" {vamp, rF+ rN++ Str+2 Dex-3}
-    It inflicts no extra harm, but heals its wielder when it wounds a living
-    foe.
-    
-    It affects your strength (+2).
-    It affects your dexterity (-3).
-    It protects you from fire.
-    It greatly protects you from negative energy.
-    It has a curse placed upon it.
   a +2 scimitar of flaming
   a +0 dagger of electrocution
   a cursed +3 long sword
   a +1 war axe of chopping
   a +1 flail of flaming
   a +0 long sword of electrocution
-  the +5 short sword of Nemelex Xobeh's Fury {venom, *Slow Str+2 Stlth+}
-    It poisons the flesh of those it strikes.
-    
-    It affects your strength (+2).
-    It may slow you when you take damage.
-    It makes you more stealthy.
   a +3 long sword
   a +3 whip
   a +1 short sword of draining
@@ -565,6 +495,9 @@ Level 12 of the Dungeon
   a +1 trident of protection
   a +4 flail
   a +1 long sword of venom
+  a +0 war axe of draining
+  a +1 long sword of protection
+  a +2 rapier of venom
   a +2 war axe of electrocution
   a +0 short sword of electrocution
   a +3 dagger
@@ -573,13 +506,11 @@ Level 12 of the Dungeon
   a +4 morningstar
   a +2 morningstar of protection
   a +1 long sword of holy wrath
+  a hunting sling
   a +2 long sword of slicing
-  the +1 war axe "Filek" {freeze, rN+}
-    It has been specially enchanted to freeze those struck by it, causing extra
-    injury to most foes and up to half again as much damage against particularly
-    susceptible opponents. It can also slow down cold-blooded creatures.
-    
-    It protects you from negative energy.
+  a +2 short sword of holy wrath
+  a +2 whip of holy wrath
+  a +2 dagger of electrocution
   a +0 hunting sling of velocity
   a +0 war axe of pain
 (22, -15, D:12)
@@ -589,101 +520,26 @@ Level 12 of the Dungeon
   a +0 shortbow
 (23, -25, D:12)
   a short sword
-(23, -19, D:12)
-  a glowing arbalest
-  a glowing shortbow
-(23, -18, D:12)
-  a +3 dire flail of holy wrath
-  a +3 arbalest
-  a +4 great mace
-  a +4 arbalest
-  a +0 longbow
-  a +0 great sword of flaming
-  a +1 great sword of flaming
-  a +8 dire flail of crushing
-  a +4 dire flail of protection
-  a +3 halberd of chopping
-  a +1 dire flail of holy wrath
-  1196 arrows
-  a +0 glaive
-  a +3 great sword of slicing
-  a +1 shortbow of freezing
-  a +2 great sword of flaming
-  a +2 great mace
-  a +1 dire flail of crushing
-  a +0 shortbow of flaming
-  a +2 arbalest of freezing
-  a +4 quarterstaff of speed
-  a +3 dire flail of draining
 (23, -17, D:12)
-  a +2 great sword of electrocution
-  a -2 dire flail
-  a +5 battleaxe of flaming
   a +2 battleaxe of flaming
   a +2 battleaxe of venom
   a +0 battleaxe of flaming
   an arbalest
   a +1 quarterstaff of speed
+  a +1 great sword of flaming
+  a +3 arbalest
+  a +0 glaive
+  a +0 shortbow of flaming
+  a +0 longbow
   an arbalest
-(24, -19, D:12)
-  a scroll labeled WOXIDGHOURO
-  a dented jade amulet
-(24, -18, D:12)
-  a ring of resist corrosion
-  6 scrolls of identify
-  an uncursed staff of energy
-  an uncursed staff of cold
-  an uncursed staff of conjuration
-  13 scrolls of teleportation
-  an uncursed staff of earth
-  a manual of Summonings
-  a potion of flight
-  4 potions of ambrosia
-  a phantom mirror
-  a potion of mutation
-  a scroll of summoning
-  10 potions of brilliance
-  15 scrolls of remove curse
-  3 scrolls of blinking
-  an uncursed staff of air
-  7 scrolls of amnesia
-  a +3 ring of intelligence
+  a -2 dire flail
+  a +0 great sword of flaming
+  a +2 great mace
+  a +1 dire flail of holy wrath
+  a +1 dire flail of crushing
+(24, -17, D:12)
   a ring of teleportation
   an uncursed ring of teleportation
-  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
-    [amulet of inaccuracy]
-    
-    It reduces the accuracy of all your attacks.
-    It affects your evasion (+5).
-    It insulates you from electricity.
-    It lets you fly.
-    It protects you from missiles.
-  an uncursed ring of fire
-  a +3 ring of intelligence
-  an uncursed staff of poison
-  a crystal ball of energy
-  a scroll of brand weapon
-  an uncursed ring of stealth
-  an uncursed ring of see invisible
-  2 scrolls of fear
-  2 potions of haste
-  a wand of clouds (1)
-  a potion of agility
-  the ring of Zoizio {rCorr *Contam MP+9 Int+10}
-    [ring of resist corrosion]
-    
-    It affects your intelligence (+10).
-    It affects your magic capacity (+9).
-    It causes magical contamination when unequipped.
-  8 scrolls of immolation
-  2 potions of resistance
-  an uncursed staff of death
-  the ring "Wuedolat" {+Fly MP+9 Stlth+}
-    [ring of magical power]
-    
-    It affects your magic capacity (+9).
-    It lets you fly.
-    It makes you more stealthy.
 (25, -27, D:12)
   a +0 giant club
   a +0 giant club
@@ -760,10 +616,117 @@ Level 13 of the Dungeon
   a +0 trident
 (10, 29, D:13)
   a +0 robe
+(11, 8, D:13)
+  a +2 cloak of poison resistance
+  a +1 plate armour of magic resistance
+  a +2 hat
+  a +2 chain mail of positive energy
+  a +2 chain mail of fire resistance
+(11, 9, D:13)
+  a +3 plate armour
+  a +3 ring mail of poison resistance
+  a +2 robe of cold resistance
+  a +2 ring mail of fire resistance
+  a +1 robe of magic resistance
+  a +2 ring mail of positive energy
+  a +0 scale mail of poison resistance
+  a +3 chain mail
+  a +2 buckler
+  a +0 troll leather armour
+  a +0 troll leather armour
+  a +0 troll leather armour
+  +0 swamp dragon scales
+  +0 swamp dragon scales
+  a +1 leather armour of poison resistance
+  a +0 troll leather armour
+  a +2 leather armour of magic resistance
+(12, 7, D:13)
+  a vampiric spear
+(12, 8, D:13)
+  a +2 war axe of flaming
+  a +4 broad axe
+  a +0 scimitar of electrocution
+  2 throwing nets
+  4 exploding tomahawks
+  5 needles of sleeping
+  8 tomahawks of returning
+  7 javelins of returning
+  a +1 scimitar of electrocution
+  a +4 hand axe of draining
+  7 javelins
+  a +4 dagger
+  a +2 war axe
+  a +2 trident of flaming
+  a +1 dagger of electrocution
+  a +6 long sword
+  a +2 vampiric trident
+  a +2 antimagic long sword
+  a +2 flail of protection
+  a +5 falchion of freezing
+  a +1 trident of protection
+  a +5 quick blade of holy wrath
+  a +0 spear of venom
+  a +2 rapier of venom
+  a +2 long sword of holy wrath
+  a +5 eveningstar
+(12, 9, D:13)
+  the cursed +1 short sword "Ofon" {vamp, rF+ rN++ Str+2 Dex-3}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your strength (+2).
+    It affects your dexterity (-3).
+    It protects you from fire.
+    It greatly protects you from negative energy.
+    It has a curse placed upon it.
+  a +3 war axe
+  a +0 morningstar of freezing
+  a +0 demon whip of flaming
+  the +1 war axe "Filek" {freeze, rN+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It protects you from negative energy.
+  the +5 short sword of Nemelex Xobeh's Fury {venom, *Slow Str+2 Stlth+}
+    It poisons the flesh of those it strikes.
+    
+    It affects your strength (+2).
+    It may slow you when you take damage.
+    It makes you more stealthy.
 (13, -5, D:13)
   a +0 great mace
 (13, -4, D:13)
   a +0 plate armour
+(13, 7, D:13)
+  a glowing shortbow
+  a glowing arbalest
+(13, 8, D:13)
+  1305 arrows
+  a +8 dire flail of crushing
+  a +4 great mace
+  a +1 shortbow of freezing
+  a +2 great sword of electrocution
+  a +4 quarterstaff of speed
+  a +3 halberd of chopping
+  a +3 great sword of slicing
+  a +5 battleaxe of flaming
+  a +4 dire flail of protection
+  a +2 great sword of flaming
+  a +2 arbalest of freezing
+  a +3 dire flail of draining
+  a +3 dire flail of holy wrath
+  a +4 arbalest
+  a +3 glaive
+  a +1 great sword of flaming
+  a +4 battleaxe of chopping
+  a +4 arbalest
+(13, 9, D:13)
+  a +3 great sword
+  a +0 dire flail of venom
+  a +2 great sword of slicing
+  a +1 arbalest of freezing
+  a +1 great sword of flaming
 (13, 26, D:13)
   a cursed -1 trident
   a +0 shortbow
@@ -771,6 +734,64 @@ Level 13 of the Dungeon
   a +0 robe
 (13, 37, D:13)
   a quarterstaff
+(14, 7, D:13)
+  a dented jade amulet
+  a scroll labeled WOXIDGHOURO
+(14, 8, D:13)
+  a phantom mirror
+  a crystal ball of energy
+  a manual of Summonings
+  a wand of clouds (1)
+  the ring of Zoizio {rCorr *Contam MP+9 Int+10}
+    [ring of resist corrosion]
+    
+    It affects your intelligence (+10).
+    It affects your magic capacity (+9).
+    It causes magical contamination when unequipped.
+  2 potions of resistance
+  7 scrolls of amnesia
+  a potion of agility
+  a potion of mutation
+  2 potions of haste
+  a potion of flight
+  10 potions of brilliance
+  4 potions of ambrosia
+  an uncursed ring of fire
+  a +3 ring of intelligence
+  13 scrolls of teleportation
+  an uncursed ring of stealth
+  an uncursed ring of see invisible
+  a scroll of summoning
+  15 scrolls of remove curse
+  a scroll of brand weapon
+  a ring of resist corrosion
+  8 scrolls of immolation
+  6 scrolls of identify
+  2 scrolls of fear
+  5 scrolls of blinking
+  a +3 ring of intelligence
+  an uncursed staff of energy
+  the ring "Wuedolat" {+Fly MP+9 Stlth+}
+    [ring of magical power]
+    
+    It affects your magic capacity (+9).
+    It lets you fly.
+    It makes you more stealthy.
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+  an uncursed staff of poison
+  an uncursed staff of earth
+  an uncursed staff of death
+  an uncursed staff of conjuration
+  an uncursed staff of cold
+  an uncursed staff of air
+  a scroll labeled WOXIDGHOURO
 (15, 23, D:13)
   a chain mail
 (17, 24, D:13)
@@ -794,7 +815,9 @@ Level 13 of the Dungeon
   a +0 flail
 (27, 2, D:13)
   a +0 chain mail
-  (unseen)
+  a +0 scale mail
+  a +0 dire flail
+  a +0 short sword
 (27, 3, D:13)
   a +0 shortbow
   a +0 scale mail
@@ -859,13 +882,68 @@ Level 14 of the Dungeon
 Level 15 of the Dungeon
 (0, 0, D:15)
   a mace
+(17, -19, D:15)
+  a +0 robe
+  a +5 demon trident of draining
 (18, -24, D:15)
   a +0 robe
   a +0 trident
 (19, -18, D:15)
   a potion of degeneration
-(20, -17, D:15)
+(20, -19, D:15)
+  +0 ice dragon scales
+  a +2 scale mail of positive energy
+  a +1 great sword of holy wrath
+  a +0 arbalest
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 giant club
+  a +0 shield
+  a cursed +0 leather armour
+  a +1 war axe of freezing
+  a +0 dire flail
+  a +0 dire flail
   a +0 troll leather armour
+  a +0 troll leather armour
+  a +0 robe
+  a +0 troll leather armour
+(20, -18, D:15)
+  a +0 arbalest
+  a +0 arbalest
+  a +0 arbalest
+  an uncursed ring of magical power
+  a +0 giant club
+  a +0 giant club
+  a +0 robe
+  a +0 robe
+  a +0 giant club
+  a +0 giant spiked club
+  a +0 whip
+  4 arrows
+  a +0 shortbow
+  4 large rocks
+  a +0 dire flail
+  a cursed +0 dire flail
+  a +0 troll leather armour
+  a +0 giant spiked club
+  a +0 dire flail
+  a +0 dire flail
+(20, -17, D:15)
+  an arrow
+  a +0 arbalest of flaming
+  a +0 arbalest
+  a +0 giant club
+  a cursed -2 giant club
+  a +2 arbalest of velocity
+  a +0 arbalest
+  a +1 arbalest of freezing
+  a +0 troll leather armour
+  a +0 giant spiked club
+(20, -16, D:15)
+  a cursed -1 giant club
+  (unseen)
+(21, -18, D:15)
+  an arrow
 (28, -18, D:15)
   a +0 shortbow
 (28, -6, D:15)
@@ -2158,26 +2236,22 @@ Level 3 of the Vaults
   a +0 flail
 (23, -46, Vaults:3)
   a cursed -1 giant club
-  13 arrows
   a +0 shortbow
 (23, -45, Vaults:3)
   a +0 robe of positive energy
   a +0 scythe
-  18 arrows
   a +0 scale mail
   a +0 falchion
 (23, -44, Vaults:3)
   a +0 arbalest
-  21 arrows
   a +0 shortbow
 (23, -16, Vaults:3)
   a +0 giant club
-  (unseen)
+  a +0 dire flail
 (24, -46, Vaults:3)
   a +0 arbalest
 (24, -44, Vaults:3)
   a cursed -3 giant club
-  an arrow
   a +0 ring mail
   a +0 arbalest
   a +0 arbalest
@@ -2191,14 +2265,11 @@ Level 3 of the Vaults
   a +0 ring mail
   a +0 plate armour
   a +0 morningstar
-  a +2 great sword of slicing
   a +0 giant spiked club
   a +0 giant spiked club
 (25, -46, Vaults:3)
   a +0 dire flail
-  a +1 great sword of flaming
   a +0 dire flail
-  7 arrows
   a cursed -2 shortbow
 (25, -45, Vaults:3)
   a +0 arbalest
@@ -2206,16 +2277,11 @@ Level 3 of the Vaults
 (25, -44, Vaults:3)
   a +0 scale mail
   a +0 dire flail
-(26, -15, Vaults:3)
-  a +1 arbalest of freezing
 (26, -13, Vaults:3)
   a +0 scale mail
   a +0 morningstar
 (26, -12, Vaults:3)
   a +0 giant club
-  (unseen)
-(29, -14, Vaults:3)
-  an arrow
 (50, -18, Vaults:3)
   a +0 scale mail
   a +0 leather armour
@@ -2255,7 +2321,6 @@ Level 3 of the Vaults
   a +0 dagger
 (62, -42, Vaults:3)
   a cursed +0 plate armour
-  a +3 great sword
 (63, -44, Vaults:3)
   a +0 giant club
   a +0 giant spiked club
@@ -2264,13 +2329,11 @@ Level 3 of the Vaults
   a +0 giant club
   a +0 giant club
 (63, -42, Vaults:3)
-  a +2 leather armour of magic resistance
   a +0 great mace
 (64, -44, Vaults:3)
   a +0 robe
 (64, -42, Vaults:3)
   a +0 scale mail
-  a +2 war axe of flaming
   a +0 giant spiked club
   a +0 giant club
   a +0 giant spiked club
@@ -2278,13 +2341,12 @@ Level 3 of the Vaults
   a +0 mace
 (65, -44, Vaults:3)
   a +0 chain mail
-  a +0 dire flail of venom
   a +0 leather armour
   a +0 great mace
 (65, -43, Vaults:3)
-  a +0 arbalest
-  a +0 morningstar
   a +0 ring mail
+  a +0 morningstar
+  a +0 arbalest
   a +0 robe
   a +0 giant club
   a +0 giant club
@@ -2307,20 +2369,13 @@ Level 4 of the Vaults
 (7, 1, Vaults:4)
   a +0 giant club
 (8, -16, Vaults:4)
-  20 arrows
   a +0 longbow
-(10, -24, Vaults:4)
-  a scroll of blinking
 (10, -5, Vaults:4)
   a large rock
-(11, -10, Vaults:4)
-  a +4 arbalest
 (11, -6, Vaults:4)
   2 large rocks
 (11, -5, Vaults:4)
   a large rock
-(11, -2, Vaults:4)
-  2 arrows
 (11, -1, Vaults:4)
   a +0 giant club
 (11, 0, Vaults:4)
@@ -2328,20 +2383,14 @@ Level 4 of the Vaults
   a +0 arbalest
 (11, 17, Vaults:4)
   a cloak
-(15, 0, Vaults:4)
-  3 arrows
 (16, 0, Vaults:4)
-  2 arrows
   a +0 plate armour
   a +0 long sword
   a +0 giant club
   a +1 dagger of speed
-(16, 1, Vaults:4)
-  an arrow
 (16, 2, Vaults:4)
   a +0 mace
   a +0 chain mail
-  a +0 morningstar of freezing
 (18, 0, Vaults:4)
   a +0 long sword
   a +0 robe
@@ -2349,7 +2398,6 @@ Level 4 of the Vaults
   a +0 giant club
   a +0 giant club
   a +0 chain mail
-  a +3 war axe
   a cursed +0 scale mail
 (18, 2, Vaults:4)
   a +0 leather armour
@@ -2359,27 +2407,18 @@ Level 4 of the Vaults
   a +0 leather armour
   a +0 dire flail
   a +0 chain mail
-  a +0 demon whip of flaming
   a +0 plate armour
-  a +4 battleaxe of chopping
 (32, -32, Vaults:4)
   a +0 plate armour
   a +0 battleaxe
-(32, -30, Vaults:4)
-  a +1 great sword of flaming
-  a scroll of blinking
 (33, -30, Vaults:4)
   a +0 plate armour
-  a +3 glaive
   a +0 chain mail
-  a +4 broad axe
 (34, -31, Vaults:4)
   a +0 plate armour
   a +1 long sword
 (42, 3, Vaults:4)
   a +0 giant club
-(43, -16, Vaults:4)
-  18 arrows
 (46, 3, Vaults:4)
   a +0 robe
   a +0 halberd
@@ -2397,21 +2436,15 @@ Level 4 of the Vaults
   a +0 scale mail
   a +0 long sword
   a +0 arbalest
-  an arrow
-(48, 6, Vaults:4)
-  a +0 troll leather armour
 (52, 10, Vaults:4)
   a +0 robe
   a cursed -3 dagger
 (52, 15, Vaults:4)
   a +0 plate armour
-  a +0 scimitar of electrocution
 (52, 16, Vaults:4)
   a +0 short sword
 (53, -2, Vaults:4)
   a +0 giant spiked club
-(54, 11, Vaults:4)
-  an arrow
 (54, 14, Vaults:4)
   a +0 hand axe
 (55, -17, Vaults:4)
@@ -2422,9 +2455,8 @@ Level 4 of the Vaults
   a +0 giant spiked club
   a +0 giant spiked club
 (58, 11, Vaults:4)
-  a +0 great mace
   a +0 scale mail
-  a scroll labeled WOXIDGHOURO
+  a +0 great mace
   a large rock
 (58, 12, Vaults:4)
   a +0 giant spiked club
@@ -2439,4 +2471,78 @@ Level 4 of the Vaults
   a +0 giant club
 (71, 10, Vaults:4)
   a chain mail
+
+Level 1 of the Depths
+(0, 0, Depths:1)
+  a +0 buckler
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(0, 1, Depths:1)
+  a leather armour
+  a runed morningstar
+  a +0 robe
+(1, 1, Depths:1)
+  a +1 great sword of flaming
+  a +1 buckler of reflection
+  a +0 robe
+  a +2 vampiric demon whip
+  a +0 buckler
+  a +0 robe
+  a +4 quick blade
+  a +0 plate armour
+  a +0 battleaxe
+  a scroll of identify
+(6, -3, Depths:1)
+  a +2 whip
+(7, 5, Depths:1)
+  a potion of haste
+(10, 1, Depths:1)
+  a +0 dagger
+  a +0 chain mail
+  a +0 great mace
+(13, 9, Depths:1)
+  a +0 buckler
+  a cursed +0 robe
+  a +0 flail of protection
+  a +1 buckler of protection
+  the +5 faerie dragon scales {rF+ rCorr Int+3}
+    It affects your intelligence (+3).
+    It protects you from fire.
+    It provides partial protection from all sources of acid and corrosion.
+  a +3 rapier of speed
+(18, 11, Depths:1)
+  4 large rocks
+(24, 19, Depths:1)
+  a +0 arbalest
+(28, 16, Depths:1)
+  2 arrows
+(30, 18, Depths:1)
+  2 arrows
+(31, 19, Depths:1)
+  11 arrows
+  3 large rocks
+(32, 13, Depths:1)
+  a +0 arbalest
+(32, 14, Depths:1)
+  a +0 arbalest
+(32, 15, Depths:1)
+  a trident
+(32, 17, Depths:1)
+  a +0 arbalest
+(34, 12, Depths:1)
+  a +6 arbalest
+(34, 13, Depths:1)
+  a +0 arbalest
+(44, -13, Depths:1)
+  a +0 robe
+  a +0 long sword
+  a +0 robe
+  a +2 dagger of venom
+(45, 18, Depths:1)
+  a scroll of identify
+(54, -10, Depths:1)
+  an arbalest
+(58, 2, Depths:1)
+  3 scrolls of teleportation
 
