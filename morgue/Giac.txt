@@ -2,114 +2,144 @@
 
 Game seed: 13172144417410851110
 
-Giac the Fighter (Hill Orc Fighter)                 Turns: 7692, Time: 01:46:44
+Giac the Purifying Hill Orc (Hill Orc Fighter)     Turns: 17196, Time: 04:52:30
 
-HP:   85/85 (86)    AC: 27    Str: 19    XL:     9   Next: 69%
-MP:   11/11         EV:  0    Int: 11    God:    Elyvilon [*.....]
-Gold: 305           SH:  9    Dex: 10    Spells: 8/8 levels left
+Health: 127/127    AC: 30    Str: 20    XL:     14   Next: 4%
+Magic:  24/24      EV:  2    Int: 12    God:    Elyvilon [*****.]
+Gold:   242        SH: 10    Dex: 12    Spells: 13/13 levels left
 
-rFire    . . .     SeeInvis .   a - +2 dagger (elec)
-rCold    . . .     Gourm    .   D - +0 shield
+rFire    . . .     SeeInvis .   h - +0 blowgun
+rCold    + . .     Gourm    .   D - +0 shield
 rNeg     . . .     Faith    .   A - +1 crystal plate armour
-rPois    .         Spirit   .   (no helmet)
+rPois    .         Spirit   .   W - +0 helmet
 rElec    .         Reflect  .   l - +1 cloak
 rCorr    .         Harm     .   J - +2 pair of gloves
-MR       .....                  p - +2 pair of boots
+MR       +....                  p - +2 pair of boots
 Stlth    ..........             H - amulet of regeneration
-HPRegen  0.64/turn              (no ring)
-MPRegen  0.12/turn              (no ring)
+HPRegen  0.71/turn              G - +2 ring of dexterity
+MPRegen  0.19/turn              q - ring of protection from cold
 
 @: no status effects
 A: no striking features
-a: Lesser Healing, Divine Protection, Renounce Religion
+a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Vigour,
+Divine Protection, Renounce Religion
 
 
-You are on level 6 of the Dungeon.
+You are on level 2 of the Lair of Beasts.
 You worship Elyvilon.
-Elyvilon is aware of your devotion.
-You are near starving.
+Elyvilon is extremely pleased with you.
+You are hungry.
 
-You have visited 2 branches of the dungeon, and seen 9 of its levels.
-You have also visited: Ossuary.
+You have visited 3 branches of the dungeon, and seen 13 of its levels.
+You have also visited: Ossuary and Volcano.
 
-You have collected 305 gold pieces.
+You have collected 801 gold pieces.
+You have spent 559 gold pieces at shops.
 
 Inventory:
 
 Hand Weapons
- a - a +2 dagger of electrocution (weapon)
- b - a +0 war axe
- c - a +0 blowgun
- q - a +4 halberd
- t - a runed mace
- y - a glowing flail
- B - a glowing short sword
- F - a +3 dire flail
- M - a +0 trident
+ a - a +3 dagger of electrocution
+ b - the +6 rapier of Severance {pierce, rElec rN+ MR+}
+   (You bought it in a shop on level 8 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It insulates you from electricity.
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+ c - a +1 falchion of holy wrath
+ d - a +3 scimitar of flaming
+ e - a +1 flail of protection
+ f - a +0 war axe
+ g - a +0 trident
+ h - a +0 blowgun (weapon)
+ i - a +0 hunting sling
 Missiles
- d - 11 tomahawks (quivered)
- e - 152 stones
- i - 74 arrows
- u - 65 sling bullets
- C - 3 poisoned needles
- G - 16 bolts
+ t - 2 throwing nets
+ u - 56 sling bullets
+ B - 10 tomahawks
+ C - 30 poisoned needles (quivered)
+ E - 3 curare-tipped needles {!f}
+ F - 351 stones
 Armour
  l - a +1 cloak (worn)
  p - a +2 pair of boots (worn)
  A - a +1 crystal plate armour (worn)
  D - a +0 shield (worn)
  J - a +2 pair of gloves (worn)
- R - a +2 ring mail
+ N - a +0 troll leather armour
+ W - a +0 helmet (worn)
 Jewellery
- E - an uncursed ring of wizardry
+ n - an uncursed amulet of rage
+ q - a ring of protection from cold (right hand)
+ G - a +2 ring of dexterity (left hand)
  H - an amulet of regeneration (around neck)
 Wands
- o - a wand of acid (12)
+ o - a wand of acid (11)
+ v - a wand of disintegration (14)
  L - a wand of polymorph (11)
- P - a wand of random effects (16)
+ P - a wand of enslavement (12)
 Scrolls
  j - a scroll of fear
- m - 4 scrolls of teleportation
- n - a scroll of amnesia
- r - 2 scrolls of blinking
- s - a scroll of fog
- v - a scroll labeled SUTECE PUDAE
- x - 4 scrolls of remove curse
- N - a scroll labeled OLIOMA DUSHOIV
+ m - 7 scrolls of teleportation
+ r - 3 scrolls of blinking
+ s - 2 scrolls of fog
+ x - 5 scrolls of remove curse
+ R - a scroll of magic mapping
 Potions
- g - a fuming yellow potion
- h - a potion of flight
  k - a potion of haste
- w - a potion of lignification
- z - a potion of curing
- I - a potion of brilliance
- K - a black potion
- O - a bubbling golden potion
- Q - a silvery potion
+ w - 3 potions of lignification
+ I - a potion of cancellation
+ K - a potion of ambrosia
+ O - a potion of magic
+ S - 3 potions of might
+ T - 4 potions of curing
+ V - a potion of berserk rage
+ Y - a potion of flight
+Miscellaneous
+ y - a box of beasts
 Comestibles
- f - 9 rations
+ M - 23 rations
 
 
    Skills:
- + Level 10.9 Fighting
- - Level 4.0 Short Blades
- - Level 7.0 Axes
- + Level 1.6 Throwing
- - Level 6.0 Armour
- - Level 4.6 Shields
- * Level 2.6 Invocations
- + Level 2.6 Evocations
+ - Level 12.4 Fighting
+ - Level 5.0(5.6) Short Blades
+ - Level 4.0(5.4) Long Blades
+ - Level 8.2(8.3) Axes
+ - Level 1.4(4.5) Maces & Flails
+ - Level 4.2(5.2) Slings
+ - Level 4.4(5.3) Throwing
+ - Level 7.7 Armour
+ - Level 1.0 Dodging
+ - Level 6.0 Shields
+ - Level 13.4 Invocations
+ + Level 9.3 Evocations
 
 
-You have 8 spell levels left.
+You have 13 spell levels left.
 You don't know any spells.
-Your spell library is empty.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         100%        1    ##.....
+ Blink                    Tloc           N/A          100%        2    ###....
+ Searing Ray              Conj           #.....       100%        2    ###....
+ Dazzling Spray           Conj/Hex       #.....       100%        3    ####...
+ Gell's Gravitas          Tloc           #.........   100%        3    ####...
+ Inner Flame              Hex/Fire       #.......     100%        3    ####...
+ Force Lance              Conj/Tloc      #.......     100%        4    #####..
+ Fulminant Prism          Conj/Hex       #.........   100%        4    #####..
+ Iskenderun's Mystic Bla  Conj           #.......     100%        4    #####..
+
 
 Dungeon Overview and Level Annotations
 
 Branches:
-Dungeon (8/15)             Temple (1/1) D:5         
-  Lair: D:8-11      
+Dungeon (10/15)            Temple (1/1) D:5            Lair (2/6) D:10
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+   Orc: D:9-12      
 
 Altars:
 Ashenzari
@@ -117,6 +147,7 @@ Cheibriados
 Dithmenos
 Elyvilon
 Fedhas
+Gozag
 Hepliaklqana
 Kikubaaqudgha
 Makhleb
@@ -124,106 +155,146 @@ Nemelex Xobeh
 Okawaru
 Qazlal
 Ru
+Sif Muna
 Trog
 Uskayaw
 Vehumet
+Wu Jian
 Xom
 Yredelemnul
 Zin
 The Shining One
 Beogh
 
+Shops:
+D:8 (
+
 Annotations:
-D:3 . unexplored bit. beogh vault. cloak.
 D:5 exclusion: downstairs
 D:7 dig for loot
+D:10 run fsim, do inv
+Lair:1 fire loot
+Lair:2 loot
 
 Message History
 
-Items here: %% )))) [[[
-Things that are here:
-a +0 dagger; an orc corpse
-There is a stone staircase leading down here.
-You climb downwards.
-There is a stone staircase leading up, spattered with blood here.
-You are near starving!
+The floor.
 Press: ? - help, v - describe, . - travel
 The floor.
+Drop what? 48/52 slots (_ for help) (? for menu, Esc to quit)
+You drop 30 arrows.
+Press: ? - help, v - describe, . - travel, g - get item
+30 arrows.
+The floor.
 Move the cursor to view the level map, or type ? for a list of commands.
+Current level annotation: . do soon. fire loot
+New annotation for Lair:1 (include '!' for warning): fire loot
+Current level annotation: fire loot
+New annotation for Lair:1 (include '!' for warning): fire loot
+Okay, then.
+New annotation for Lair:2 (include '!' for warning): loot
 Returning to the game...
-There is a stone staircase leading down here.
-You climb downwards.
-Level annotation: exclusion: downstairs
-There is a stone staircase leading up here.
-There is an escape hatch in the floor here.
-You slide downwards. The hatch slams shut behind you.
-There is a stone staircase leading down here.
+Okay, then.
+Okay, then.
 Okay, then.
 Saving game... please wait.
 
-#..........#........#
-#.....#######..##..##
-#.....##...##..##..##
-#...................#
-#...................#
-#...................#
-#...................#
-#'###.####'########################
-#..#######.##########.##.##.##.#..#
-#...#...'....................#....#
-#...#...#<...................#....#
-#...#...#....................'....#
-#...#...#......@.............#....#
-#..##...###########...##..####...####
-#..##...####.######...##..####...##..
-#..........#....#......+.........#...
-#..........#....#......#.........#...
-#).........#....#......#.........#...
-#..........'....#......#.........#...
-##'##..##.###..######.######..##.##..
-#..##..##.####'##..##)###.######.##..
-#.....................)).............
-#......................#%............
-##'##.###.###.###..##..##...####'##..
+.P#    # #######...........##
+..####.#.#.................#
+...........................P#
+................###P.......P#
+................#<.........##
+.....#..#..#P##.#....#.....#
+......#.## ## #..#.#.......#
+.....##       #............#
+.....#        #............#
+.....##       #............#
+......#### ####............##
+.....#.P.###P...............#
+.................#.###@.....#
+......##P.......#### #.....##
+.......##.......#    #.....#
+..##..P###......######.....##
+#.##..###.........P#.P......##
+####...##...................P#
+####....#...................##
+...........................##
+..........P................#
+#.#..#####.P###..P#..#....##
+######   #P## ######.######
+         ###       ###
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
+  A stone giant (Volcano)
+  Erica (D:9)
   A two-headed ogre (D:8)
+  2 gargoyles
+  4 spiny frogs
+  An efreet (Volcano)
+  A komodo dragon (D:10)
+  A troll (D:9)
+  4 slime creatures (D:8)
+  4 yaks (Lair:1)
   2 wraiths (Ossuary)
-  A phantom (D:4)
+  4 fire bats (D:10)
+  A basilisk (Lair:2)
+  3 fire elementals (Volcano)
+  A hungry ghost (D:8)
+  A hydra simulacrum (Lair:1)
+  4 water moccasins
+  A hell hound (D:10)
+  3 porcupines (Lair:1)
+  A sky beast (D:8)
+  2 phantoms
   A necrophage (D:6)
-  5 ogres
-  A centaur (D:3)
+  An orc warrior (D:8)
+  7 ogres
+  7 centaurs
+  3 crocodiles
+  A big kobold (D:8)
   The ghost of Gargh the Shooter, an amateur DEAM (D:3)
-  A bullfrog (D:6)
+  8 bullfrogs
+  A gnoll sergeant (D:10)
   2 scorpions
   A water moccasin skeleton (D:5)
   A wyvern skeleton (D:6)
   2 wights (Ossuary)
-  3 hounds
+  12 killer bees
+  3 howler monkeys (D:9)
+  2 lava snakes (D:10)
+  3 crimson imps
+  A jelly (D:8)
+  A komodo dragon simulacrum (Lair:1)
+  7 hounds
   An orc priest (D:3)
+  A bullfrog skeleton (D:9)
   A centaur skeleton (D:7)
-  A centaur zombie (D:5)
-  7 orc wizards
-  6 worker ants
+  2 centaur zombies
+  18 orc wizards
+  12 worker ants
   An iguana (D:5)
+  A bullfrog simulacrum (Lair:1)
   A hound zombie (D:6)
-  10 adders
+  A worker ant zombie (D:9)
+  12 adders
+  3 gnolls (D:10)
+  A shadow imp (D:7)
   2 worms
   2 dart slugs
-  5 leopard geckos
-  24 orcs
+  6 leopard geckos
+  49 orcs
   5 bats
-  8 giant cockroaches
+  9 giant cockroaches
   2 gnoll zombies (D:4)
   5 goblins
   3 hobgoblins
-  6 jackals
-  7 kobolds
-  A quokka (D:2)
-  A ball python (D:2)
+  13 jackals
+  13 kobolds
+  3 quokkas
+  2 ball pythons
   3 ball python skeletons (Ossuary)
   4 frilled lizards
   A hobgoblin skeleton (Ossuary)
@@ -233,7 +304,20 @@ Vanquished Creatures
   3 orc zombies (Ossuary)
   A quokka skeleton (D:5)
   6 rats
-142 creatures vanquished.
+  3 fire vortices (D:10)
+301 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An anaconda simulacrum (Lair:1)
+  A yak simulacrum (Lair:1)
+  2 bullfrog simulacra (Lair:1)
+4 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:10)
+1 creature vanquished.
+
+Grand Total: 306 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -246,7 +330,6 @@ Turn   | Place    | Note
    476 | D:1      | Found an iron altar of Okawaru.
    590 | D:1      | Reached skill level 1 in Throwing
    681 | D:2      | Found a blossoming altar of Fedhas.
-   688 | D:2      | Reached skill level 4 in Fighting
    688 | D:2      | Reached XP level 3. HP: 33/33 MP: 3/3
    812 | D:2      | Found a sacrificial altar of Ru.
    815 | D:2      | Found a shadowy altar of Dithmenos.
@@ -257,18 +340,14 @@ Turn   | Place    | Note
   1717 | D:3      | Killed a centaur
   1717 | D:3      | Reached XP level 5. HP: 38/49 MP: 5/5
   1960 | D:3      | Found a stormy altar of Qazlal.
-  2498 | D:3      | Reached skill level 6 in Fighting
   2780 | D:3      | Found a runed translucent gate.
   2780 | D:3      | Noticed Gargh's ghost (amateur DEAM)
   2781 | D:3      | Found a runed translucent gate.
   2782 | D:3      | Found a runed translucent gate.
   2783 | D:3      | Found a roughly hewn altar of Beogh.
   3057 | D:4      | Reached XP level 6. HP: 51/58 MP: 6/6
-  3290 | D:4      | Reached skill level 7 in Fighting
   3458 | D:4      | Found a glowing golden altar of the Shining One.
-  3725 | D:4      | Reached skill level 8 in Fighting
   3725 | D:4      | Reached XP level 7. HP: 68/68 MP: 7/7
-  4034 | D:4      | Reached skill level 9 in Fighting
   4078 | D:4      | Found a basalt altar of Yredelemnul.
   4285 | D:5      | Entered Level 5 of the Dungeon
   4426 | D:5      | Reached skill level 5 in Axes
@@ -289,32 +368,103 @@ Turn   | Place    | Note
   5898 | Ossuary  | Reached skill level 1 in Evocations
   6638 | D:6      | Reached * piety under Elyvilon
   6750 | D:6      | Reached skill level 1 in Invocations
+  6898 | D:6      | Reached skill level 2 in Invocations
   7634 | D:3      | Killed Gargh's ghost
+  7813 | D:7      | Found a deep blue altar of Sif Muna.
+  7999 | D:7      | Reached skill level 3 in Invocations
+  8149 | D:7      | Reached ** piety under Elyvilon
+  8360 | D:7      | Got a thick robe
+  8759 | D:8      | Reached skill level 1 in Slings
+  8908 | D:8      | Identified the +3 leather armour "Jiwn" {rN+ Str+3}
+  8926 | D:8      | Reached skill level 4 in Invocations
+  9045 | D:8      | Reached XP level 10. HP: 94/95 MP: 13/13
+  9264 | D:8      | Found Obid's Antique Weapon Emporium.
+  9520 | D:8      | Found a blossoming altar of Fedhas.
+  9808 | D:8      | Reached skill level 1 in Dodging
+ 10335 | D:8      | Reached skill level 5 in Invocations
+ 10346 | D:8      | Reached skill level 5 in Shields
+ 10356 | D:9      | Noticed Erica
+ 10460 | D:9      | Reached *** piety under Elyvilon
+ 10645 | D:8      | Bought a runed falchion for 156 gold pieces
+ 10645 | D:8      | Bought a glowing flail for 169 gold pieces
+ 10881 | D:9      | Found an opulent altar of Gozag.
+ 10974 | D:9      | Reached skill level 6 in Invocations
+ 11355 | D:9      | Killed Erica
+ 11563 | D:9      | Reached skill level 7 in Invocations
+ 11718 | D:9      | Got a twisted robe
+ 11743 | D:9      | Reached skill level 1 in Long Blades
+ 11798 | D:9      | Found a radiant altar of Vehumet.
+ 11841 | D:9      | Found an ornate altar of the Wu Jian Council.
+ 12141 | D:10     | Entered Level 10 of the Dungeon
+ 12516 | D:10     | Reached XP level 11. HP: 102/102 MP: 16/16
+ 12722 | D:8      | Bought an iridescent rapier for 234 gold pieces
+ 12722 | D:8      | Identified the +6 rapier of Severance {pierce, rElec rN+
+                  | MR+} (You bought it in a shop on level 8 of the Dungeon)
+ 12947 | D:10     | Reached **** piety under Elyvilon
+ 13256 | D:10     | Reached skill level 8 in Invocations
+ 13326 | D:10     | Reached skill level 5 in Evocations
+ 13619 | D:10     | Reached skill level 9 in Invocations
+ 14102 | D:10     | Found a staircase to the Lair.
+ 14179 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14555 | Lair:1   | Found a transporter.
+ 14555 | Lair:1   | You fall through a shaft!
+ 14580 | Lair:2   | Reached skill level 10 in Invocations
+ 14705 | Lair:2   | Reached ***** piety under Elyvilon
+ 14705 | Lair:2   | Found a dark tunnel.
+ 14714 | Volcano  | Entered a volcano
+ 14809 | Volcano  | Noticed a stone giant
+ 14832 | Volcano  | Killed a stone giant
+ 14839 | Volcano  | Reached skill level 11 in Invocations
+ 15264 | Lair:1   | Found a transporter.
+ 15675 | Lair:1   | Reached skill level 12 in Invocations
+ 16131 | Lair:1   | Reached XP level 12. HP: 110/110 MP: 21/21
+ 16362 | Lair:1   | Got a brightly glowing mace
+ 16561 | Lair:1   | Reached skill level 13 in Invocations
+ 16561 | Lair:1   | Reached XP level 13. HP: 119/119 MP: 21/23
+ 16562 | Lair:1   | Reached skill level 5 in Short Blades
+ 16562 | Lair:1   | Reached XP level 14. HP: 127/127 MP: 21/24
+ 16745 | Lair:2   | Reached skill level 1 in Maces & Flails
+ 16917 | Lair:1   | Identified the Handbook of Enchanting Orientation
+ 16928 | Lair:1   | Got a translucent hat
 
-Skill      XL: |  1  2  3  4  5  6  7  8  9 |
----------------+----------------------------+-----
-Short Blades   |  1           2        3  4 |  4.0
-Throwing       |     1                      |  1.6
-Fighting       |     4  5     6  8  9 10    | 10.9
-Axes           |           3        5  6  7 |  7.0
-Armour         |                       5  6 |  6.0
-Shields        |                       4    |  4.6
-Evocations     |                          2 |  2.6
-Invocations    |                          2 |  2.6
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Short Blades   |  1           2        3  4           5    |  5.0
+Throwing       |     1                    2  3  4          |  4.4
+Fighting       |     4  5     6  8  9 10 11       12       | 12.4
+Axes           |           3        5  6  7           8    |  8.2
+Armour         |                       5  6  7             |  7.7
+Shields        |                       4     5        6    |  6.0
+Evocations     |                          3  4  7  8  9    |  9.3
+Invocations    |                          4  7 12 13       | 13.4
+Slings         |                          1  3        4    |  4.2
+Dodging        |                             1             |  1.0
+Long Blades    |                             1  2     4    |  4.0
+Maces & Flails |                                         1 |  1.4
 
-Action                   |  1- 3 |  4- 6 |  7- 9 || total
--------------------------+-------+-------+-------++-------
-Melee: War axe           |  8004 |       |       ||  8004
-       Dagger            |  4078 |   118 |  4369 ||  8565
- Fire: Blowgun           |       |     8 |    10 ||    18
-Throw: Stone             |    49 |    59 |    87 ||   195
-       Tomahawk          |       |       |     7 ||     7
-  Use: Potion            |     2 |       |     3 ||     5
-       Scroll            |     1 |     7 |    10 ||    18
-  Eat: Chunk             |     2 |     7 |     8 ||    17
-       Ration            |       |       |     1 ||     1
-Armor: Scale mail        |  2015 |    24 |       ||  2039
-       Crystal plate arm |       |    33 |  2638 ||  2671
-Dodge: Dodged            |  2014 |    14 |   171 ||  2199
-Block: Shield            |  3903 |    37 |  2253 ||  6193
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |  8004 |       |       |    18 |       ||  8022
+       Dagger            |  4078 |   118 |  4439 | 16390 |    10 || 25035
+       Scimitar          |       |       |       | 12042 |    15 || 12057
+       Flail             |       |       |       |  4001 |       ||  4001
+       Rapier            |       |       |       |  4037 |    11 ||  4048
+       Falchion          |       |       |       |    11 |       ||    11
+ Fire: Blowgun           |       |     8 |    20 |    57 |       ||    85
+       Hunting sling     |       |       |       |   283 |     7 ||   290
+Throw: Stone             |    49 |    59 |   118 |       |       ||   226
+       Tomahawk          |       |       |    10 |    19 |     3 ||    32
+Invok: Purification      |       |       |       |     1 |       ||     1
+ Abil: Evoke Berserk Rag |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |       |     7 |     1 ||     8
+  Use: Potion            |     2 |       |     3 |     2 |     2 ||     9
+       Scroll            |     1 |     7 |    12 |    12 |       ||    32
+  Eat: Chunk             |     2 |     7 |    14 |    23 |     3 ||    49
+       Ration            |       |       |     1 |     1 |       ||     2
+Armor: Scale mail        |  2015 |    24 |       |       |       ||  2039
+       Crystal plate arm |       |    33 |  2676 | 22197 |    45 || 24951
+       Chain mail        |       |       |       |    22 |       ||    22
+Dodge: Dodged            |  2014 |    14 |   174 |  1212 |     2 ||  3416
+Block: Shield            |  3903 |    37 |  2280 | 13271 |    19 || 19510
+Rpst.: Scimitar          |       |       |       |   110 |     1 ||   111
 

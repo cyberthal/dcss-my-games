@@ -66,14 +66,10 @@ Level 3 of the Dungeon
   a +0 scale mail
   a +0 falchion
   a cursed -1 club
-  an orc corpse
-  an orc corpse
 (49, -5, D:3)
   a +0 dagger
-  an orc corpse
 (49, -4, D:3)
   a +0 club
-  an orc corpse
 (49, 35, D:3)
   a dagger
 (58, 12, D:3)
@@ -163,37 +159,295 @@ Level 6 of the Dungeon
 
 Level 7 of the Dungeon
 (0, 0, D:7)
+  a short sword
+(5, 6, D:7)
+  a robe
+(6, 9, D:7)
+  a +0 shortbow
+(7, -2, D:7)
   a club
-(3, -1, D:7)
+(9, -9, D:7)
+  a club
+(12, -10, D:7)
   a ration
-(3, 0, D:7)
+(12, -9, D:7)
   22 arrows
-(3, 1, D:7)
+(12, -8, D:7)
   a dagger
-(4, -1, D:7)
+(13, -10, D:7)
   a glass wand
-(4, 0, D:7)
+(13, -9, D:7)
   5 gold pieces
-(4, 1, D:7)
+(13, -8, D:7)
   a scroll labeled FODEUD GUWKIAG
-(5, -1, D:7)
+(14, -10, D:7)
   18 stones
   (unseen)
-(5, 0, D:7)
+(14, -9, D:7)
   6 gold pieces
-(5, 1, D:7)
+(14, -8, D:7)
   13 gold pieces
-(7, -1, D:7)
-  9 gold pieces
+(14, 20, D:7)
+  a pair of gloves
+(17, 26, D:7)
+  a robe
+(21, 23, D:7)
+  a long sword
+(25, -20, D:7)
+  a flail
+(41, -13, D:7)
+  a leather armour
+(50, 12, D:7)
+  a +0 dagger
+  a +0 robe
+(50, 14, D:7)
+  a +0 club
+(50, 15, D:7)
+  a +0 dagger
+  a +0 dagger
+  a +0 robe
 
 Level 8 of the Dungeon
+[Shop] Obid's Antique Weapon Emporium
+  a glowing quarterstaff (182 gold)
+  a club (26 gold)
+  a spear (78 gold)
+  a morningstar (104 gold)
+  a war axe (91 gold)
+  a shortbow (78 gold)
+  a glowing shortbow (156 gold)
+  a hunting sling (39 gold)
+  a falchion (78 gold)
+  a quarterstaff (104 gold)
+  a whip (65 gold)
 (0, 0, D:8)
   a robe
 (0, 8, D:8)
   a cursed -1 giant club
   a +0 giant club
-(8, 15, D:8)
-  13 bolts
+(12, -10, D:8)
+  a dagger
+(19, 2, D:8)
+  a +0 long sword
+  176 arrows
+  a +0 ring mail
+  a +0 short sword
+  a cursed +0 robe
+(22, 15, D:8)
+  a +0 blowgun
+(23, 11, D:8)
+  a +0 short sword
+  a +0 short sword
+  a +0 club
+(23, 13, D:8)
+  a +0 dagger
+  a +0 blowgun
+  a +0 whip
+  a +0 dagger of holy wrath
+(28, -25, D:8)
+  a dagger
+(32, -27, D:8)
+  a cursed -1 giant spiked club
+(35, -26, D:8)
+  a +0 club
+  a +0 chain mail
+  a +0 short sword
+(35, -8, D:8)
+  a flail
+(37, 1, D:8)
+  a +0 short sword
+(37, 3, D:8)
+  a +0 robe
+  a cursed -1 dagger
+(38, 2, D:8)
+  a +0 robe
+  a +0 dagger
+  a +0 giant club
+  a +0 falchion
+(40, 2, D:8)
+  a +0 shortbow
+(54, 13, D:8)
+  a +0 shortbow
+(57, -23, D:8)
+  a +0 chain mail
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 shortbow
+(2, 3, D:9)
+  a war axe
+(12, -18, D:9)
+  a potion of degeneration
+(14, 31, D:9)
+  a +0 robe
+  a +0 dagger
+(18, -19, D:9)
+  a +0 mace
+(19, -20, D:9)
+  a +0 chain mail
+  a +0 hand axe
+(19, -18, D:9)
+  a +0 dagger
+(20, 13, D:9)
+  a potion of degeneration
+(21, 11, D:9)
+  a dagger
+(33, 11, D:9)
+  a ring mail
+(36, 30, D:9)
+  a +0 scale mail
+(39, -11, D:9)
+  a +0 mace
+(39, 19, D:9)
+  a +0 falchion
+(41, 20, D:9)
+  a +0 robe
+  a +0 dagger
+(41, 21, D:9)
+  a +0 leather armour
+(42, 8, D:9)
+  a +0 dagger
+  a +0 robe
+(42, 12, D:9)
+  a leather armour
+(43, 10, D:9)
+  an amulet of rage
+(54, 3, D:9)
+  a +0 hand axe
+(54, 4, D:9)
+  a +0 mace
+(54, 5, D:9)
+  a +0 war axe
+(56, -4, D:9)
+  a +0 club
+(56, 11, D:9)
+  a +0 robe
+  a +0 dagger
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 shortbow
+(3, 11, D:10)
+  a scale mail
+(5, 1, D:10)
+  a robe
+(6, -5, D:10)
+  a hand axe
+(7, -33, D:10)
+  a leather armour
+(9, -7, D:10)
+  a hand axe
+(11, -46, D:10)
+  a +0 ring mail
+  a +0 short sword
+(18, -14, D:10)
+  a translucent hat
+(18, -12, D:10)
+  a +2 ring mail
+  a +0 robe of cold resistance
+  a twisted robe
+  a thick robe
+  the +3 leather armour "Jiwn" {rN+ Str+3}
+    It affects your strength (+3).
+    It protects you from negative energy.
+  a +2 buckler
+  a crystal plate armour
+(18, 9, D:10)
+  a cursed +0 hand axe
+  a +0 leather armour
+(19, -14, D:10)
+  a glowing short sword
+  a runed mace
+  a glowing flail
+(19, -13, D:10)
+  a +1 short sword of speed
+  a +3 flail
+  51 bolts
+(19, -12, D:10)
+  a cursed +0 flail
+(20, -13, D:10)
+  73 arrows
+  a +4 halberd
+  a +3 dire flail
+(21, -14, D:10)
+  a brightly glowing mace
+(21, -13, D:10)
+  an uncursed ring of magical power
+  a wand of random effects (16)
+  2 potions of mutation
+  a potion of brilliance
+  3 scrolls of amnesia
+  an uncursed ring of wizardry
+  an uncursed staff of air
+  an uncursed staff of conjuration
+  a wand of clouds (2)
+(32, -34, D:10)
+  a dagger
+(37, -35, D:10)
+  a +0 flail
+(38, -35, D:10)
+  a +0 shortbow
+  a +0 spear
+  a +0 scale mail
+(39, -35, D:10)
+  a +0 spear
+  a cursed -2 spear
+(39, -26, D:10)
+  a +0 leather armour
+  a +0 flail of crushing
+  a +0 robe
+  a +0 dagger
+(41, -38, D:10)
+  a club
+(42, -24, D:10)
+  a +0 robe
+  a +0 dagger
+(45, -50, D:10)
+  a +0 dire flail
 
 the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a chain mail
+(1, -17, Lair:1)
+  a leather armour
+(12, -16, Lair:1)
+  a +4 chain mail of fire resistance
+  a +2 battleaxe of flaming
+  a +3 scimitar of flaming
+  a +4 chain mail of fire resistance
+  a demon whip of flaming
+(34, -14, Lair:1)
+  a potion of degeneration
+(35, 17, Lair:1)
+  a morningstar
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  22 gold pieces
+(3, 6, Lair:2)
+  a ration
+(4, 15, Lair:2)
+  a robe
+(15, -18, Lair:2)
+  a tomahawk
+(16, -16, Lair:2)
+  15 stones
+(17, -20, Lair:2)
+  a sling bullet
+(18, -21, Lair:2)
+  a sling bullet
+(18, -14, Lair:2)
+  a ration
+(20, -23, Lair:2)
+  a sling bullet
+(28, -23, Lair:2)
+  a ring mail
+(30, -19, Lair:2)
+  a stone
+(34, 15, Lair:2)
+  30 arrows
+(35, -23, Lair:2)
+  11 gold pieces
 
