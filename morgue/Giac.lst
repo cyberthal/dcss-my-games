@@ -175,7 +175,7 @@ Level 7 of the Dungeon
 (12, -8, D:7)
   a dagger
 (13, -10, D:7)
-  a glass wand
+  a wand of flame (12)
 (13, -9, D:7)
   5 gold pieces
 (13, -8, D:7)
@@ -340,18 +340,22 @@ Level 10 of the Dungeon
 (11, -46, D:10)
   a +0 ring mail
   a +0 short sword
-(18, -14, D:10)
-  a translucent hat
 (18, -12, D:10)
+  the +3 leather armour "Jiwn" {rN+ Str+3}
+    It affects your strength (+3).
+    It protects you from negative energy.
+  a +0 helmet
+  a +0 shield
+  the +3 chain mail "Zibupimn" {Dex+6}
+    It affects your dexterity (+6).
+  a +2 buckler
+  a crystal plate armour
+  a +4 chain mail of fire resistance
+  a +4 chain mail of fire resistance
   a +2 ring mail
   a +0 robe of cold resistance
   a twisted robe
   a thick robe
-  the +3 leather armour "Jiwn" {rN+ Str+3}
-    It affects your strength (+3).
-    It protects you from negative energy.
-  a +2 buckler
-  a crystal plate armour
 (18, 9, D:10)
   a cursed +0 hand axe
   a +0 leather armour
@@ -359,26 +363,49 @@ Level 10 of the Dungeon
   a glowing short sword
   a runed mace
   a glowing flail
+  a brightly glowing mace
 (19, -13, D:10)
   a +1 short sword of speed
   a +3 flail
-  51 bolts
+  74 bolts
+  a +3 scimitar of slicing
+  a demon whip of flaming
 (19, -12, D:10)
+  5 javelins
+  the +4 dagger of Doimorr {pierce, rC- Int+3 Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your intelligence (+3).
+    It makes you vulnerable to cold.
+    It makes you more stealthy.
+  85 bolts
+  a +1 falchion of holy wrath
   a cursed +0 flail
+(20, -14, D:10)
+  a glowing battleaxe
 (20, -13, D:10)
-  73 arrows
+  204 arrows
   a +4 halberd
   a +3 dire flail
+  a +2 great mace of protection
+  a +2 battleaxe of flaming
+(20, -12, D:10)
+  119 arrows
+  a +0 shortbow of freezing
+  a lajatang
 (21, -14, D:10)
-  a brightly glowing mace
+  a ring of magical power
 (21, -13, D:10)
-  an uncursed ring of magical power
+  3 potions of berserk rage
   a wand of random effects (16)
   2 potions of mutation
   a potion of brilliance
-  3 scrolls of amnesia
+  4 scrolls of amnesia
   an uncursed ring of wizardry
   an uncursed staff of air
+  6 scrolls of remove curse
+  a +2 ring of dexterity
+  an uncursed ring of magical power
   an uncursed staff of conjuration
   a wand of clouds (2)
 (32, -34, D:10)
@@ -412,12 +439,6 @@ Level 1 of the Lair of Beasts
   a chain mail
 (1, -17, Lair:1)
   a leather armour
-(12, -16, Lair:1)
-  a +4 chain mail of fire resistance
-  a +2 battleaxe of flaming
-  a +3 scimitar of flaming
-  a +4 chain mail of fire resistance
-  a demon whip of flaming
 (34, -14, Lair:1)
   a potion of degeneration
 (35, 17, Lair:1)
@@ -425,29 +446,62 @@ Level 1 of the Lair of Beasts
 
 Level 2 of the Lair of Beasts
 (0, 0, Lair:2)
-  22 gold pieces
-(3, 6, Lair:2)
-  a ration
-(4, 15, Lair:2)
+  a +0 shortbow
+(0, 1, Lair:2)
+  a +0 shortbow
+  a +0 shortbow
+(16, 3, Lair:2)
   a robe
-(15, -18, Lair:2)
-  a tomahawk
-(16, -16, Lair:2)
-  15 stones
-(17, -20, Lair:2)
-  a sling bullet
-(18, -21, Lair:2)
-  a sling bullet
-(18, -14, Lair:2)
-  a ration
-(20, -23, Lair:2)
-  a sling bullet
-(28, -23, Lair:2)
+(35, -32, Lair:2)
+  a longbow
+(40, -35, Lair:2)
   a ring mail
-(30, -19, Lair:2)
-  a stone
-(34, 15, Lair:2)
-  30 arrows
-(35, -23, Lair:2)
-  11 gold pieces
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a long sword
+(4, 4, Lair:3)
+  a ring mail
+(31, -13, Lair:3)
+  2 potions of degeneration
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a robe
+(23, -17, Lair:4)
+  a pair of boots
+(27, 4, Lair:4)
+  a ring mail
+(46, -38, Lair:4)
+  a dire flail
+(47, 10, Lair:4)
+  a robe
+
+Level 5 of the Lair of Beasts
+(13, -34, Lair:5)
+  a robe
+(34, -60, Lair:5)
+  a mace
+
+Level 6 of the Lair of Beasts
+(7, -16, Lair:6)
+  a spear
+(32, -45, Lair:6)
+  a club
+(37, -29, Lair:6)
+  a +0 shortbow
+(39, -33, Lair:6)
+  a +0 shortbow
+(40, -32, Lair:6)
+  a cursed +0 shortbow
+(44, -41, Lair:6)
+  a +0 chain mail
+(44, -9, Lair:6)
+  a catoblepas corpse (skeletalised by now)
+(55, -37, Lair:6)
+  a quarterstaff
+(61, -20, Lair:6)
+  a chain mail
+(67, -23, Lair:6)
+  a pair of boots
 
