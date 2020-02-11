@@ -362,44 +362,52 @@ Level 10 of the Dungeon
 (19, -14, D:10)
   a glowing short sword
   a runed mace
-  a glowing flail
-  a brightly glowing mace
 (19, -13, D:10)
+  a +3 hand axe
   a +1 short sword of speed
   a +3 flail
   74 bolts
+  a +0 trident
+  a +0 flail of holy wrath
   a +3 scimitar of slicing
   a demon whip of flaming
 (19, -12, D:10)
   5 javelins
+  85 bolts
+  a +1 falchion of holy wrath
+  a cursed +0 flail
   the +4 dagger of Doimorr {pierce, rC- Int+3 Stlth+}
     It inflicts extra damage upon your enemies.
     
     It affects your intelligence (+3).
     It makes you vulnerable to cold.
     It makes you more stealthy.
-  85 bolts
-  a +1 falchion of holy wrath
-  a cursed +0 flail
+  the +8 mace of the Forsaken Beggars {speed, Fragile +Inv rPois Str+4}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+4).
+    It protects you from poison.
+    It lets you turn invisible.
+    It will be destroyed if unequipped.
 (20, -14, D:10)
   a glowing battleaxe
 (20, -13, D:10)
-  204 arrows
+  379 arrows
   a +4 halberd
   a +3 dire flail
   a +2 great mace of protection
   a +2 battleaxe of flaming
 (20, -12, D:10)
-  119 arrows
   a +0 shortbow of freezing
   a lajatang
-(21, -14, D:10)
-  a ring of magical power
 (21, -13, D:10)
+  a potion of ambrosia
+  an uncursed ring of magical power
+  a scroll of fear
   3 potions of berserk rage
   a wand of random effects (16)
   2 potions of mutation
-  a potion of brilliance
+  2 potions of brilliance
   4 scrolls of amnesia
   an uncursed ring of wizardry
   an uncursed staff of air
@@ -410,15 +418,19 @@ Level 10 of the Dungeon
   a wand of clouds (2)
 (32, -34, D:10)
   a dagger
+(34, -40, D:10)
+  a +0 morningstar
+(36, -9, D:10)
+  a +0 leather armour of fire resistance
 (37, -35, D:10)
   a +0 flail
 (38, -35, D:10)
   a +0 shortbow
-  a +0 spear
   a +0 scale mail
-(39, -35, D:10)
   a +0 spear
+(39, -35, D:10)
   a cursed -2 spear
+  a +0 spear
 (39, -26, D:10)
   a +0 leather armour
   a +0 flail of crushing
@@ -432,7 +444,258 @@ Level 10 of the Dungeon
 (45, -50, D:10)
   a +0 dire flail
 
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a cursed +0 leather armour
+  (unseen)
+(2, -21, D:11)
+  a runed giant spiked club
+(2, 1, D:11)
+  a +0 chain mail
+  a +0 glaive
+(13, -16, D:11)
+  a +0 giant club
+(13, 29, D:11)
+  a +0 robe
+  a cursed -3 dagger
+(14, 29, D:11)
+  a +0 giant spiked club
+  a +0 great mace
+(15, 18, D:11)
+  a +0 shortbow
+(19, 5, D:11)
+  a +0 whip
+  a +0 chain mail
+(27, 26, D:11)
+  a large rock
+(27, 27, D:11)
+  2 large rocks
+(29, -6, D:11)
+  a +0 hand axe
+  a +0 hand axe
+  a +0 mace
+  a +0 ring mail
+(30, 1, D:11)
+  a whip
+(30, 22, D:11)
+  a dagger
+(33, -8, D:11)
+  a cursed +0 leather armour
+  a +1 flail of protection
+(33, 19, D:11)
+  a +0 shortbow
+(34, 1, D:11)
+  a +0 club
+(42, 11, D:11)
+  a dagger
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a ring mail
+(10, 27, D:12)
+  a +0 plate armour
+  a +0 war axe
+(11, -17, D:12)
+  a scale mail
+(18, -13, D:12)
+  a leather armour
+(31, -3, D:12)
+  a +0 robe
+(33, 0, D:12)
+  a flail
+(34, -11, D:12)
+  a long sword
+(34, -3, D:12)
+  a +0 robe
+(34, 5, D:12)
+  a +0 shortbow
+(34, 6, D:12)
+  a cursed -2 shortbow
+(35, -3, D:12)
+  a +0 robe
+  a +2 long sword
+(35, 6, D:12)
+  a +0 flail
+  a +0 longbow
+(35, 10, D:12)
+  a leather armour
+(37, 6, D:12)
+  61 arrows
+(44, -14, D:12)
+  a rapier
+(44, -7, D:12)
+  a +0 giant club
+  a +0 giant club
+(47, 1, D:12)
+  a +0 leather armour
+  a +0 hand axe
+(49, 9, D:12)
+  a chain mail
+(51, -9, D:12)
+  a +0 chain mail
+  a +0 war axe
+(53, -9, D:12)
+  a +0 plate armour
+  a +0 flail of protection
+(54, 13, D:12)
+  a +0 scale mail
+  a +0 dagger
+(55, 13, D:12)
+  a +0 chain mail
+  a +0 scimitar
+(57, 14, D:12)
+  a +0 robe
+  a +0 dagger
+(57, 15, D:12)
+  a +0 robe
+  a +0 dagger
+  a +0 club
+
+Level 13 of the Dungeon
+(0, 0, D:13)
+  a whip
+(1, 28, D:13)
+  a potion of curing
+(4, 24, D:13)
+  a +0 club
+  a +0 leather armour
+  a +0 short sword
+(7, 12, D:13)
+  a +0 giant club
+  a +0 giant spiked club
+(8, 40, D:13)
+  a scorpion corpse
+(11, 25, D:13)
+  a +0 hand axe
+(12, 25, D:13)
+  a +0 leather armour
+(13, 38, D:13)
+  a ring mail
+(14, 25, D:13)
+  a +0 mace
+  a +0 chain mail
+(15, 24, D:13)
+  a +0 leather armour
+(16, 27, D:13)
+  a +0 falchion
+(17, 28, D:13)
+  a cursed +0 scale mail
+  a +0 trident
+(19, 28, D:13)
+  a +0 leather armour
+  a +0 hand axe
+  a +0 whip
+  a +0 leather armour
+  a +0 hand axe
+(19, 29, D:13)
+  a +0 flail of protection
+(20, 28, D:13)
+  a +0 ring mail
+  a +0 flail
+(23, 18, D:13)
+  3 large rocks
+(24, 38, D:13)
+  15 gold pieces
+(25, 30, D:13)
+  a +0 chain mail
+  a +0 club
+(27, 21, D:13)
+  a +0 giant spiked club
+(29, 21, D:13)
+  a large rock
+(30, 27, D:13)
+  a +0 scale mail
+  a +0 mace
+(32, 26, D:13)
+  a +0 short sword
+
+Level 14 of the Dungeon
+(0, 0, D:14)
+  a falchion
+(21, -38, D:14)
+  a large rock
+  a +0 short sword
+  a +0 hunting sling
+  a kobold corpse
+(22, -39, D:14)
+  a +2 dagger of venom
+  a soldier ant corpse
+  a kobold corpse
+(25, -36, D:14)
+  a killer bee corpse
+(25, -31, D:14)
+  a +0 spear
+  a kobold corpse
+(26, 0, D:14)
+  a +0 long sword
+  a +0 ring mail
+  a +2 shield of fire resistance
+(28, -33, D:14)
+  a large rock
+  a cyclops skeleton
+(32, -3, D:14)
+  2 large rocks
+(33, -32, D:14)
+  2 large rocks
+(33, -31, D:14)
+  a howler monkey skeleton
+(33, -3, D:14)
+  a +1 halberd of protection
+  a +0 plate armour
+(33, -1, D:14)
+  a +0 dagger
+(35, -3, D:14)
+  a +0 dagger
+  a cursed -1 robe
+  a +0 great sword
+  a +0 chain mail
+(35, -1, D:14)
+  a large rock
+(38, -3, D:14)
+  a +0 whip
+  a +0 robe
+  a potion of degeneration
+(39, -24, D:14)
+  a killer bee corpse
+(39, -3, D:14)
+  a +1 battleaxe
+  a +0 chain mail
+(44, -12, D:14)
+  a large rock
+
 the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a +0 plate armour
+  a +0 short sword
+(1, -3, Orc:1)
+  a +0 chain mail
+  a cursed -3 short sword
+(1, -2, Orc:1)
+  a +0 robe
+  a +0 dagger
+  a +0 leather armour
+  a +0 whip
+  a +0 club
+(1, 0, Orc:1)
+  a +0 chain mail
+  a +0 long sword
+(2, -1, Orc:1)
+  a +0 falchion
+(3, -1, Orc:1)
+  a +0 dagger
+  a +0 ring mail
+  a +0 hand axe
+(3, 4, Orc:1)
+  a +0 robe
+  a +2 dagger of venom
+(5, 1, Orc:1)
+  a +0 leather armour
+  a cursed -1 dagger
+(8, 2, Orc:1)
+  a +0 robe
+  a +0 dagger
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
@@ -478,9 +741,9 @@ Level 4 of the Lair of Beasts
   a robe
 
 Level 5 of the Lair of Beasts
-(13, -34, Lair:5)
+(0, 0, Lair:5)
   a robe
-(34, -60, Lair:5)
+(21, -26, Lair:5)
   a mace
 
 Level 6 of the Lair of Beasts
@@ -496,8 +759,6 @@ Level 6 of the Lair of Beasts
   a cursed +0 shortbow
 (44, -41, Lair:6)
   a +0 chain mail
-(44, -9, Lair:6)
-  a catoblepas corpse (skeletalised by now)
 (55, -37, Lair:6)
   a quarterstaff
 (61, -20, Lair:6)
