@@ -357,6 +357,8 @@ Level 10 of the Dungeon
   a cursed +0 hand axe
   a +0 leather armour
 (19, -13, D:10)
+  a +1 hand axe of venom
+  a +3 spear
   a +3 hand axe
   a +1 short sword of speed
   a +3 flail
@@ -388,6 +390,7 @@ Level 10 of the Dungeon
 (20, -14, D:10)
   a glowing battleaxe
 (20, -13, D:10)
+  a +1 great sword of electrocution
   434 arrows
   a +4 halberd
   a +3 dire flail
@@ -396,16 +399,17 @@ Level 10 of the Dungeon
 (20, -12, D:10)
   a +0 shortbow of freezing
   a lajatang
+(21, -14, D:10)
+  a dented garnet amulet
+  a dented cameo amulet
+  a bound bone amulet
 (21, -13, D:10)
   a potion of flight
-  a bound bone amulet
   a potion of heal wounds
-  a dented cameo amulet
   2 potions of ambrosia
   a scroll of fear
-  4 potions of berserk rage
   a wand of random effects (16)
-  2 potions of mutation
+  a potion of mutation
   3 potions of brilliance
   4 scrolls of amnesia
   an uncursed ring of wizardry
@@ -557,8 +561,6 @@ Level 12 of the Dungeon
 Level 13 of the Dungeon
 (0, 0, D:13)
   a large rock
-(1, -4, D:13)
-  a scroll of noise
 (1, -1, D:13)
   2 large rocks
 (2, 3, D:13)
@@ -636,8 +638,15 @@ Level 14 of the Dungeon
 (0, 0, D:14)
   a falchion
 (13, -28, D:14)
-  a +0 long sword
   a +0 chain mail
+  a +0 long sword
+(14, -20, D:14)
+  a +0 robe
+  a +0 dagger
+(15, -19, D:14)
+  the -4 pair of boots of Impermeability {rElec Dex+2}
+    It affects your dexterity (+2).
+    It insulates you from electricity.
 (21, -38, D:14)
   a large rock
   a +0 short sword
@@ -647,9 +656,9 @@ Level 14 of the Dungeon
 (25, -31, D:14)
   a +0 spear
 (26, 0, D:14)
-  a +0 large shield
   a +0 ring mail
   a +0 long sword
+  a +0 large shield
 (28, -33, D:14)
   a large rock
 (32, -3, D:14)
@@ -675,8 +684,61 @@ Level 14 of the Dungeon
 (39, -3, D:14)
   a +0 chain mail
   a +1 battleaxe
+(40, 15, D:14)
+  a +0 robe
+  (unseen)
 (44, -12, D:14)
   a large rock
+
+Level 15 of the Dungeon
+(0, 0, D:15)
+  a scale mail
+(3, -1, D:15)
+  a robe
+(10, -29, D:15)
+  a potion of degeneration
+(13, -3, D:15)
+  14 arrows
+(20, -24, D:15)
+  a scroll of remove curse
+(21, -23, D:15)
+  a spear
+(23, -11, D:15)
+  a scroll of identify
+(25, -27, D:15)
+  a quarterstaff
+(25, -11, D:15)
+  a sling bullet
+(30, 0, D:15)
+  a chain mail
+(31, -5, D:15)
+  2 large rocks
+(38, -4, D:15)
+  a +0 longbow
+(40, -4, D:15)
+  an arrow
+(42, -7, D:15)
+  a hand axe
+(43, -3, D:15)
+  3 large rocks
+(44, -24, D:15)
+  a +0 great sword of flaming
+(47, -10, D:15)
+  a scroll of noise
+  12 arrows
+(47, -9, D:15)
+  a scroll of identify
+(49, -24, D:15)
+  a +0 robe
+  a +0 war axe
+(53, -1, D:15)
+  a lumpy cabochon amulet
+(54, -18, D:15)
+  a +1 scimitar of flaming
+(55, 3, D:15)
+  a scroll of remove curse
+(59, -15, D:15)
+  a runed buckler
 
 the Ecumenical Temple
 
@@ -706,7 +768,6 @@ Level 1 of the Orcish Mines
   a +0 flail
 (3, 0, Orc:1)
   a +0 whip
-  an orc corpse
 (3, 1, Orc:1)
   a +0 giant club
   a cursed +0 robe
@@ -715,10 +776,8 @@ Level 1 of the Orcish Mines
   a +0 giant club
 (4, 0, Orc:1)
   a +0 flail
-  an orc corpse
 (4, 1, Orc:1)
   a +0 scale mail
-  an orc corpse
 (4, 2, Orc:1)
   a +0 trident
   a +0 plate armour
@@ -769,56 +828,204 @@ Level 1 of the Orcish Mines
 (46, -7, Orc:1)
   a +0 robe
   a +0 dagger
+(52, -8, Orc:1)
+  a +0 plate armour
+  a +0 trident
+  a +0 plate armour
+  a +0 glaive
+  a +0 mace
+(53, -9, Orc:1)
+  a +0 robe (still there?)
+  a +0 dagger (still there?)
+  a +0 leather armour (still there?)
+(53, -7, Orc:1)
+  a +0 robe
+  a +0 dagger
+  a +2 dagger of freezing
+  a cursed -1 robe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 halberd
+(54, -8, Orc:1)
+  a +4 hand axe
+(54, -7, Orc:1)
+  a +0 leather armour
+  a +0 short sword
+  a +0 dagger
 
 Level 2 of the Orcish Mines
-(2, 2, Orc:2)
-  a stone
-(3, -2, Orc:2)
-  a +1 great sword of electrocution
-  (unseen)
-(4, -4, Orc:2)
-  a +0 hand axe
-  a +0 ring mail
-(5, -5, Orc:2)
-  a +3 short sword
+[Shop] Datiemyp's Jewellery Boutique
+  an uncursed ring of fire (unknown) (425 gold)
+  a +4 amulet of reflection (459 gold)
+  a +3 amulet of reflection (266 gold)
+  the ring of Haijes {MR+ MP+9 Str+2 Stlth+} (904 gold)
+    [ring of stealth]
+    
+    It affects your strength (+2).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+    It makes you more stealthy.
+  an uncursed ring of protection from magic (425 gold)
+  an uncursed amulet of magic regeneration (unknown) (510 gold)
+  an uncursed ring of resist corrosion (340 gold)
+  an uncursed ring of fire (unknown) (425 gold)
+  an uncursed ring of positive energy (unknown) (340 gold)
+  an uncursed ring of wizardry (510 gold)
+[Shop] Xunwud's Assorted Antiques
+  a potion of degeneration (28 gold)
+  2 potions of heal wounds (280 gold)
+  a ring mail (112 gold)
+  a bloodstained plate armour (784 gold)
+  a runed helmet (210 gold)
+  a hand crossbow (98 gold)
+[Shop] Gell's Jewellery Shop
+  a +5 ring of dexterity (535 gold)
+  an uncursed ring of magical power (260 gold)
+  an uncursed amulet of faith (unknown) (520 gold)
+  the ring "Memuhodd" {rElec Dex+4 Stlth-} (388 gold)
+    [ring of attention]
+    
+    It affects your dexterity (+4).
+    It insulates you from electricity.
+    It makes you less stealthy.
+  an uncursed ring of protection from fire (unknown) (325 gold)
+  a cursed ring of teleportation (unknown) (58 gold)
+  an uncursed ring of fire (unknown) (325 gold)
+  a cursed -4 ring of intelligence (unknown) (26 gold)
+  the ring "Yptacvesm" {MR+ Dex+3} (497 gold)
+    [ring of protection from magic]
+    
+    It affects your dexterity (+3).
+    It affects your resistance to hostile enchantments.
+[Shop] Izasav's Food Boutique
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+(0, 0, Orc:2)
   a +0 chain mail
-  12 gold pieces
-(6, -5, Orc:2)
+(1, -2, Orc:2)
+  a +0 ring mail
+  a +0 hand axe
+(2, -3, Orc:2)
+  a +0 chain mail
+  a +3 short sword
+(3, -3, Orc:2)
+  a +0 chain mail
   a +0 flail
-  (unseen)
-(9, 17, Orc:2)
+(6, 19, Orc:2)
   a +0 leather armour
   a +0 trident
-(10, 18, Orc:2)
+(7, 20, Orc:2)
   a +0 whip
   a +0 chain mail
   a +0 war axe
-(11, 17, Orc:2)
+(8, 19, Orc:2)
   a cursed +0 robe
   a +1 dagger of venom
-(12, -3, Orc:2)
-  28 gold pieces
-(12, 17, Orc:2)
+(9, 19, Orc:2)
   a +2 robe of magic resistance
   a +0 chain mail of fire resistance
-(14, -1, Orc:2)
-  13 gold pieces
-(15, 27, Orc:2)
-  28 gold pieces
-(25, 0, Orc:2)
+(22, 2, Orc:2)
   a +0 ring mail
   (unseen)
-(26, -2, Orc:2)
+(23, 0, Orc:2)
   a +0 giant club
-(39, 0, Orc:2)
+(32, 22, Orc:2)
+  an uncursed amulet of regeneration
+(33, 10, Orc:2)
+  a +0 leather armour
+  a +0 short sword
+(33, 11, Orc:2)
+  a +0 scale mail
+  a +0 ring mail
+(34, 8, Orc:2)
+  a +0 hand axe
+(34, 12, Orc:2)
+  a +0 hand axe
+  a +0 leather armour
+  a +1 falchion of holy wrath
+(35, 3, Orc:2)
+  a +0 giant club
+  a +0 club
+(35, 12, Orc:2)
+  a +0 chain mail
+  a +0 mace
+  a +0 flail
+(36, 2, Orc:2)
   a +0 flail of protection
-(40, 0, Orc:2)
+(36, 3, Orc:2)
+  a +0 leather armour
+  a +0 club
+  a +0 dagger
+(36, 4, Orc:2)
+  a +0 chain mail
+  a +0 trident
+(36, 12, Orc:2)
+  a +0 robe
+  a +0 dagger
+  a +0 club
+(37, 2, Orc:2)
+  a +0 war axe
   a +0 giant spiked club
   a +0 giant club
-(49, 2, Orc:2)
-  21 gold pieces
-(55, -8, Orc:2)
-  25 gold pieces
+  a +0 robe
+  a +0 dagger
+  a +0 chain mail
+(37, 3, Orc:2)
+  a +0 hand axe
+(37, 12, Orc:2)
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+  a +0 plate armour
+  a +0 halberd
+  a cursed -2 hand axe
+  a +0 leather armour
+  a +0 mace
+(38, 5, Orc:2)
+  a +0 robe
+  a +3 vampiric dagger
+  a +0 robe
+  a +0 dagger
+(38, 12, Orc:2)
+  a +0 mace
+  a +0 leather armour
+  a +0 trident
+(41, 17, Orc:2)
+  a +0 dagger
+  a +0 robe
+(41, 25, Orc:2)
+  a +2 vampiric dagger
+  a +0 robe
+(42, 14, Orc:2)
+  a +1 mace of venom
+(42, 16, Orc:2)
+  a +0 dagger
+(43, 5, Orc:2)
+  a +0 ring mail
+  a +0 war axe
+(44, 18, Orc:2)
+  a +0 leather armour
+  a +0 hand axe
+  a cursed +0 robe
+  a +0 dagger
+(45, 9, Orc:2)
+  a +0 scimitar
+  a +0 plate armour
+(45, 14, Orc:2)
+  a +0 ring mail
+(50, 25, Orc:2)
+  a +0 dagger
+  a +0 robe
+(51, 20, Orc:2)
+  a +0 flail
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
