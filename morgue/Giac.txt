@@ -2,38 +2,38 @@
 
 Game seed: 13172144417410851110
 
-Giac the Bringer of Life (Hill Orc Fighter)        Turns: 41479, Time: 12:02:49
+Giac the Bringer of Life (Hill Orc Fighter)        Turns: 46090, Time: 13:10:41
 
-Health: 149/149    AC: 34    Str: 29    XL:     16   Next: 77%
-Magic:  28/28      EV:  5    Int: 16    God:    Elyvilon [******]
-Gold:   381        SH: 13    Dex:  7    Spells: 15/15 levels left
+Health: 156/156    AC: 34    Str: 26    XL:     17   Next: 16%
+Magic:  30/30      EV:  4    Int: 11    God:    Elyvilon [******]
+Gold:   420        SH: 20    Dex: 12    Spells: 16/16 levels left
 
-rFire    + + .     SeeInvis .   j - +0 blowgun
+rFire    + + +     SeeInvis +   j - +0 blowgun
 rCold    . . .     Gourm    .   G - +2 shield {rF+}
-rNeg     . . .     Faith    .   A - +1 crystal plate armour
+rNeg     + . .     Faith    .   A - +1 crystal plate armour
 rPois    .         Spirit   .   k - +3 hat of the Wasteland {rF+ Str+3 Dex+2 Stlth+}
-rElec    .         Reflect  .   l - +1 cloak
-rCorr    +         Harm     .   J - +2 pair of gloves
+rElec    .         Reflect  +   s - +1 cloak
+rCorr    .         Harm     .   J - +2 pair of gloves
 MR       ++...                  p - +2 pair of boots
-Stlth    ..........             V - amulet "Aloaty" {+Blink Regen+ Str+3 Int+3 Dex-5}
-HPRegen  0.74/turn              D - ring of protection from magic
-MPRegen  0.21/turn              Z - ring of resist corrosion
+Stlth    ..........             Q - +6 amulet of reflection
+HPRegen  0.36/turn              D - ring of protection from magic
+MPRegen  0.22/turn              X - ring of Tinyapt {+Fly rF+ rN+ Int-2 SInv}
 
 @: no status effects
 A: slimy green scales 1, strong 1
 a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Vigour,
-Divine Protection, Renounce Religion, Evoke Blink
+Divine Protection, Renounce Religion, Evoke Flight
 
 
-You are on level 15 of the Dungeon.
+You are on level 1 of the Shoals.
 You worship Elyvilon.
 Elyvilon is exalted by your worship.
 You are hungry.
 
-You have visited 4 branches of the dungeon, and seen 24 of its levels.
+You have visited 6 branches of the dungeon, and seen 26 of its levels.
 You have also visited: Ossuary, Ice Cave and Volcano.
 
-You have collected 3009 gold pieces.
+You have collected 3048 gold pieces.
 You have spent 2628 gold pieces at shops.
 
 Inventory:
@@ -63,11 +63,11 @@ Hand Weapons
  j - a +0 blowgun (weapon)
 Missiles
  t - 4 throwing nets {!f}
- u - 169 sling bullets
- B - 21 tomahawks
- C - 37 poisoned needles (quivered)
+ B - 26 tomahawks
+ C - 33 poisoned needles (quivered)
  E - 3 curare-tipped needles {!f}
- F - 648 stones
+ F - 666 stones
+ T - 205 sling bullets
 Armour
  k - the +3 hat of the Wasteland (worn) {rF+ Str+3 Dex+2 Stlth+}
    (You found it on level 1 of the Lair of Beasts)   
@@ -76,8 +76,8 @@ Armour
    It affects your dexterity (+2).
    It protects you from fire.
    It makes you more stealthy.
- l - a +1 cloak (worn)
  p - a +2 pair of boots (worn)
+ s - a +1 cloak (worn)
  A - a +1 crystal plate armour (worn)
  G - a +2 shield of fire resistance (worn)
  J - a +2 pair of gloves (worn)
@@ -86,8 +86,8 @@ Jewellery
  n - an uncursed amulet of rage
  q - an uncursed ring of protection from cold
  D - a ring of protection from magic (left hand)
- Q - a +6 amulet of reflection
- V - the amulet "Aloaty" (around neck) {+Blink Regen+ Str+3 Int+3 Dex-5}
+ Q - a +6 amulet of reflection (around neck)
+ V - the amulet "Aloaty" {+Blink Regen+ Str+3 Int+3 Dex-5}
    (You bought it in a shop on level 2 of the Orcish Mines)   
    
    [amulet of regeneration]
@@ -97,7 +97,7 @@ Jewellery
    It affects your dexterity (-5).
    It lets you blink.
    It increases your rate of regeneration.
- X - the ring of Tinyapt {+Fly rF+ rN+ Int-2 SInv}
+ X - the ring of Tinyapt (right hand) {+Fly rF+ rN+ Int-2 SInv}
    (You found it in an ice cave)   
    
    [ring of positive energy]
@@ -107,53 +107,52 @@ Jewellery
    It protects you from negative energy.
    It lets you see invisible.
    It lets you fly.
- Z - a ring of resist corrosion (right hand)
+ Z - an uncursed ring of resist corrosion
 Wands
  o - a wand of acid (14)
  v - a wand of disintegration (8)
- H - a wand of iceblast (6)
- K - a wand of digging (3)
- L - a wand of polymorph (20)
+ H - a wand of flame (22)
+ K - a wand of digging (1)
+ L - a wand of iceblast (6)
  P - a wand of enslavement (18)
- U - a wand of flame (13)
+ U - a wand of polymorph (20)
 Scrolls
- m - 12 scrolls of teleportation
+ m - 13 scrolls of teleportation
  r - 5 scrolls of blinking
- s - a scroll of fog
- R - a scroll of magic mapping
+ R - 2 scrolls of magic mapping
  Y - a scroll of immolation
 Potions
+ u - 11 potions of curing
  w - 3 potions of haste
  y - 2 potions of lignification
- z - 4 potions of berserk rage
+ z - 5 potions of berserk rage
  I - a potion of cancellation
  O - 2 potions of magic
  S - 2 potions of might
- T - 10 potions of curing
  W - 2 potions of agility
 Miscellaneous
  x - a phial of floods
 Comestibles
- M - 37 rations
+ M - 35 rations
 
 
    Skills:
- + Level 15.0 Fighting
- + Level 6.4(7.0) Short Blades
- + Level 4.3(6.3) Long Blades
- + Level 10.3(11.5) Axes
- - Level 5.6(8.0) Maces & Flails
- - Level 4.4(7.1) Polearms
- + Level 5.5(6.6) Slings
- + Level 5.4(6.5) Throwing
- + Level 8.3 Armour
+ + Level 15.3 Fighting
+ + Level 6.9(7.6) Short Blades
+ - Level 4.9(6.9) Long Blades
+ + Level 10.7(12.0) Axes
+ * Level 6.0(8.4) Maces & Flails
+ - Level 4.4(7.3) Polearms
+ - Level 6.0(7.1) Slings
+ + Level 5.8(7.1) Throwing
+ + Level 8.8 Armour
  - Level 2.0 Dodging
- + Level 8.3 Shields
- + Level 17.9 Invocations
- - Level 12.0 Evocations
+ + Level 8.7 Shields
+ - Level 18.1 Invocations
+ + Level 12.0 Evocations
 
 
-You have 15 spell levels left.
+You have 16 spell levels left.
 You don't know any spells.
 Your spell library contains the following spells:
 
@@ -164,7 +163,9 @@ Your spell library contains the following spells:
  Magic Dart               Conj           #...         100%        1    ##.....
  Pain                     Necr           #...         100%        1    ##.....
  Summon Butterflies       Summ           #.......     100%        1    ##.....
+ Summon Small Mammal      Summ           #...         100%        1    ##.....
  Blink                    Tloc           N/A          100%        2    ###....
+ Call Imp                 Summ           #.......     100%        2    ###....
  Searing Ray              Conj           #.....       100%        2    ###....
  Sticks to Snakes         Tmut           #.......     100%        2    ###....
  Call Canine Familiar     Summ           #.......     100%        3    ####...
@@ -175,6 +176,7 @@ Your spell library contains the following spells:
  Inner Flame              Hex/Fire       #.......     100%        3    ####...
  Regeneration             Chrm/Necr      #.........   100%        3    ####...
  Spider Form              Tmut/Pois      #.........   100%        3    ####...
+ Summon Guardian Golem    Hex/Summ       #.......     100%        3    ####...
  Vampiric Draining        Necr           #.........   100%        3    ####...
  Animate Dead             Necr           N/A          100%        4    #####..
  Cause Fear               Hex            #.........   100%        4    #####..
@@ -184,6 +186,7 @@ Your spell library contains the following spells:
  Iskenderun's Mystic Bla  Conj           #.......     100%        4    #####..
  Petrify                  Tmut/Erth      #.......     100%        4    #####..
  Summon Ice Beast         Ice/Summ       #.......     100%        4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     100%        4    #####..
  Blade Hands              Tmut           #.........   100%        5    ######.
  Bolt of Magma            Conj/Fire/Erth #.........   100%        5    ######.
  Fireball                 Conj/Fire      #.........   100%        5    ######.
@@ -212,7 +215,7 @@ Dungeon Overview and Level Annotations
 
 Branches:
 Dungeon (15/15)            Temple (1/1) D:5            Lair (6/6) D:10
- Shoals (0/4) Lair:2       Spider (0/4) Lair:3        Slime (0/5) Lair:6
+ Shoals (1/4) Lair:2       Spider (1/4) Lair:3        Slime (0/5) Lair:6
     Orc (2/2) D:12            Elf (0/3) Orc:2        Vaults (0/5) D:14
  Depths (0/5) D:15        
 
@@ -245,13 +248,8 @@ Shops:
 D:8 (   Orc:2 =%*=
 
 Annotations:
-D:7 dig for loot
 D:10 minor loot
-D:11 minor loot
-D:12 minor loot
-D:13 exclusions: door and downstairs
-D:14 dig for hive, exclusion: downstairs
-D:15 Roxanne
+Spider:1 minor loot
 Orc:1 minor loot
 Orc:2 minor loot
 
@@ -264,97 +262,103 @@ Your muscles are strong. (Str +2)
 
 Message History
 
-[the floor.]
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
+You sock the snapping turtle!
+The snapping turtle is severely wounded.
+You block the snapping turtle's attack.
+Your crystal plate armour prevents you from hitting the snapping turtle.
+The snapping turtle is severely wounded.
+You block the snapping turtle's attack. x2
+You bludgeon the snapping turtle!!
+You kill the snapping turtle!
+Training target 7.6 for Short Blades reached!
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+j - a +0 blowgun (weapon)
 Okay, then.
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-The sentinel's mark upon you fades away.
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
+You climb downwards. Welcome back to the Shoals!
+This branch is very noisy, and so sound travels much less far.
+This branch contains the barnacled rune of Zot.
+There is a staircase back to the Lair here.
 Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
 Okay, then.
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-Evoke which item? (* to show all) (? for menu, Esc to quit)
 Okay, then.
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
 Saving game... please wait.
 
- ##########
- #........#             #####
- #........#       #######....
- #........#       #.......###
- #........#       ####...####
- #.....@..###        ###.....
- ########...####       #.....
- ##.....##.....###     #.....
-##...............###   ####.#
-#..................#####.....
-#......!.........#...........
-#............................
-#................#....)......
-#..................####.^....
-#.................#####......
-##...............?...##.###.#
- ##.....#.........)..##...#.#
+~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~
+.~~~~....~~~~~~~
+.......$.~~~~~~~
+........~~~~~~~~
+....~..$~~~~~~~~
+..[......~~~~~~~
+ #.....@.~~~~~~~
+ #(##....~...~~~
+ ....~..~~......
+..~~~~.~~~......
+........~~..###.
+............#
+..~...##....#
+.....# #..~..
 
 
 There are no monsters in sight!
 
 Vanquished Creatures
   Rupert (Lair:6)
+  Roxanne (D:15)
   A fire giant (D:15)
   2 stone giants
   Erolcha (Orc:1)
   7 hydras
   4 vault guards (D:14)
   Erica (D:9)
-  3 centaur warriors
+  11 centaur warriors
   3 ice dragons
   3 catoblepae (Lair:6)
-  4 two-headed ogres
+  5 two-headed ogres
   A death knight (D:13)
   2 tengu warriors
   8 death yaks (Lair:6)
   4 orc high priests
   2 skeletal warriors (D:13)
-  An unseen horror (shapeshifter) (D:14)
+  A sea snake (Lair:2)
   2 unseen horrors
-  2 orc knights
+  An unseen horror (shapeshifter) (D:14)
+  4 orb spiders (Spider:1)
+  3 orc knights
   An oklob plant (Lair:3)
+  5 wolf spiders
   2 orc sorcerers
   3 manticores
   3 ugly things
   6 cyclopes
   7 black mambas
   2 ice statues (IceCv)
-  A torpor snail (Lair:5)
+  2 torpor snails
   4 gargoyles
   11 spiny frogs
   2 rime drakes (IceCv)
   2 kobold demonologists
   2 freezing wraiths (D:13)
   2 ice devils (Orc:2)
-  2 efreet
+  3 efreet
+  2 demonic crawlers (Lair:3)
   6 komodo dragons
-  A meliai (D:15)
+  2 meliai
+  7 jumping spiders
   2 trolls
   A polar bear (Lair:5)
   A tengu conjurer (D:14)
   5 blink frogs (Lair:2)
-  10 slime creatures
+  11 slime creatures
+  A snapping turtle (Lair:2)
   3 hippogriffs
-  2 redbacks (Lair:3)
+  4 redbacks (Lair:3)
   50 yaks
   A shadow (D:15)
   4 wraiths
   A wyvern (shapeshifter) (D:13)
   4 fire bats (D:10)
+  2 tarantellas
   4 wyverns
   3 basilisks
   3 fire elementals (Volcano)
@@ -373,7 +377,7 @@ Vanquished Creatures
   3 sky beasts
   3 phantoms
   A necrophage (D:6)
-  21 orc warriors
+  22 orc warriors
   2 eyes of draining (shapeshifter)
   15 ogres
   An eye of draining (D:12)
@@ -392,6 +396,7 @@ Vanquished Creatures
   5 wights
   70 killer bees
   4 howler monkeys
+  2 electric eels (Spider:1)
   2 lava snakes (D:10)
   9 crimson imps
   A wyvern simulacrum (D:14)
@@ -406,6 +411,7 @@ Vanquished Creatures
   40 orc wizards
   15 worker ants
   An iguana (D:5)
+  A hell rat (D:14)
   A bullfrog simulacrum (Lair:1)
   2 hound zombies
   A worker ant zombie (D:9)
@@ -436,7 +442,7 @@ Vanquished Creatures
   A quokka skeleton (D:5)
   6 rats
   3 fire vortices (D:10)
-815 creatures vanquished.
+858 creatures vanquished.
 
 Vanquished Creatures (collateral kills)
   A rakshasa (D:14)
@@ -451,15 +457,15 @@ Vanquished Creatures (collateral kills)
 11 creatures vanquished.
 
 Vanquished Creatures (others)
-  A meliai (D:14)
+  3 meliai (D:14)
   An ice beast (D:14)
   2 killer bees (D:14)
   18 bushes (Lair:6)
   10 fungi
   12 plants
-44 creatures vanquished.
+46 creatures vanquished.
 
-Grand Total: 870 creatures vanquished
+Grand Total: 915 creatures vanquished
 
 Notes
 Turn   | Place    | Note
@@ -639,59 +645,68 @@ Turn   | Place    | Note
  40549 | D:15     | Identified the -4 pair of boots of Impermeability {rElec
                   | Dex+2} (You found it on level 15 of the Dungeon)
  40662 | D:15     | Found a staircase to the Depths.
+ 42549 | D:10     | Identified the amulet of Xaraov {*Contam +Rage rN+ MR+}
+                  | (You found it in an ice cave)
+ 43512 | D:14     | Reached skill level 18 in Invocations
+ 44518 | D:15     | Killed Roxanne
+ 44518 | D:15     | Reached XP level 17. HP: 156/156 MP: 30/30
+ 44754 | Spider:1 | Entered Level 1 of the Spider Nest
+ 46015 | Shoals:1 | Entered Level 1 of the Shoals
 
-Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 |
----------------+-------------------------------------------------+-----
-Short Blades   |  1           2        3  4           5  6       |  6.4
-Throwing       |     1                    2  3  4        5       |  5.4
-Fighting       |     4  5     6  8  9 10 11       12    13 14 15 | 15.0
-Axes           |           3        5  6  7           8  9    10 | 10.3
-Armour         |                       5  6  7                 8 |  8.3
-Shields        |                       4     5        6  7     8 |  8.3
-Evocations     |                          3  4  7  8  9 10 11 12 | 12.0
-Invocations    |                          4  7 12 13    15 17    | 17.9
-Slings         |                          1  3        4  5       |  5.5
-Dodging        |                             1           2       |  2.0
-Long Blades    |                             1  2     4          |  4.3
-Maces & Flails |                                         3     5 |  5.6
-Polearms       |                                            4    |  4.4
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 |
+---------------+----------------------------------------------------+-----
+Short Blades   |  1           2        3  4           5  6          |  6.9
+Throwing       |     1                    2  3  4        5          |  5.8
+Fighting       |     4  5     6  8  9 10 11       12    13 14 15    | 15.3
+Axes           |           3        5  6  7           8  9    10    | 10.7
+Armour         |                       5  6  7                 8    |  8.8
+Shields        |                       4     5        6  7     8    |  8.7
+Evocations     |                          3  4  7  8  9 10 11 12    | 12.0
+Invocations    |                          4  7 12 13    15 17 18    | 18.1
+Slings         |                          1  3        4  5        6 |  6.0
+Dodging        |                             1           2          |  2.0
+Long Blades    |                             1  2     4             |  4.9
+Maces & Flails |                                         3     5  6 |  6.0
+Polearms       |                                            4       |  4.4
 
 Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
 -------------------------+-------+-------+-------+-------+-------+-------++-------
-Melee: War axe           |  8004 |       |       |    18 |  4073 |    44 || 12139
-       Dagger            |  4078 |   118 |  4439 | 16390 |   904 |  4241 || 30170
+Melee: War axe           |  8004 |       |       |    18 |  4073 |    62 || 12157
+       Dagger            |  4078 |   118 |  4439 | 16390 |   904 |  4357 || 30286
        Scimitar          |       |       |       | 12042 |   154 |   179 || 12375
        Flail             |       |       |       |  4001 |    28 |       ||  4029
        Rapier            |       |       |       |  4037 |   371 |    79 ||  4487
-       Falchion          |       |       |       |    11 |       |       ||    11
+       Falchion          |       |       |       |    11 |       |     5 ||    16
        Hand axe          |       |       |       |       |  4000 |       ||  4000
-       Morningstar       |       |       |       |       |       |  4162 ||  4162
+       Morningstar       |       |       |       |       |       |  4223 ||  4223
        Spear             |       |       |       |       |       |    12 ||    12
- Fire: Blowgun           |       |     8 |    20 |    57 |   162 |    86 ||   333
-       Hunting sling     |       |       |       |   283 |   503 |   241 ||  1027
+ Fire: Blowgun           |       |     8 |    20 |    57 |   162 |   118 ||   365
+       Hunting sling     |       |       |       |   283 |   503 |   318 ||  1104
 Throw: Stone             |    49 |    59 |   118 |       |       |       ||   226
-       Tomahawk          |       |       |    10 |    19 |    41 |     5 ||    75
-Invok: Purification      |       |       |       |     1 |     3 |     1 ||     5
-       Heal Other        |       |       |       |       |     3 |     1 ||     4
-       Lesser Healing    |       |       |       |       |     2 |     3 ||     5
+       Tomahawk          |       |       |    10 |    19 |    41 |     8 ||    78
+Invok: Purification      |       |       |       |     1 |     3 |     2 ||     6
+       Heal Other        |       |       |       |       |     3 |     3 ||     6
+       Lesser Healing    |       |       |       |       |     2 |     5 ||     7
        Greater Healing   |       |       |       |       |     2 |       ||     2
        Divine Vigour     |       |       |       |       |     1 |       ||     1
- Abil: Evoke Berserk Rag |       |       |       |       |     5 |     5 ||    10
-       Evoke Blink       |       |       |       |       |       |     1 ||     1
-Evoke: Wand              |       |       |       |     7 |    11 |     8 ||    26
+       Divine Protection |       |       |       |       |       |     1 ||     1
+ Abil: Evoke Berserk Rag |       |       |       |       |     5 |     7 ||    12
+       Evoke Blink       |       |       |       |       |       |     3 ||     3
+Evoke: Wand              |       |       |       |     7 |    11 |    13 ||    31
        Box of beasts     |       |       |       |       |     1 |       ||     1
        Phial of floods   |       |       |       |       |     1 |       ||     1
   Use: Potion            |     2 |       |     3 |     2 |     8 |     1 ||    16
-       Scroll            |     1 |     7 |    12 |    12 |    11 |     8 ||    51
-  Eat: Chunk             |     2 |     7 |    14 |    23 |    49 |    18 ||   113
-       Ration            |       |       |     1 |     1 |     5 |     4 ||    11
+       Scroll            |     1 |     7 |    12 |    12 |    11 |    10 ||    53
+  Eat: Chunk             |     2 |     7 |    14 |    23 |    49 |    22 ||   117
+       Ration            |       |       |     1 |     1 |     5 |     8 ||    15
 Armor: Scale mail        |  2015 |    24 |       |       |       |       ||  2039
-       Crystal plate arm |       |    33 |  2676 | 22197 |  3496 |  6841 || 35243
+       Crystal plate arm |       |    33 |  2676 | 22197 |  3496 |  7056 || 35458
        Chain mail        |       |       |       |    22 |       |       ||    22
-       Troll leather arm |       |       |       |       |     2 |       ||     2
+       Troll leather arm |       |       |       |       |     2 |     7 ||     9
        Skin              |       |       |       |       |   135 |       ||   135
-Dodge: Dodged            |  2014 |    14 |   174 |  1212 |   226 |   381 ||  4021
-Block: Shield            |  3903 |    37 |  2280 | 13271 |   143 |   340 || 19974
+Dodge: Dodged            |  2014 |    14 |   174 |  1212 |   226 |   443 ||  4083
+Block: Shield            |  3903 |    37 |  2280 | 13271 |   143 |   533 || 20167
        Large shield      |       |       |       |       |  5503 |  7374 || 12877
+       Reflection        |       |       |       |       |       |     8 ||     8
 Rpst.: Scimitar          |       |       |       |   110 |     1 |    11 ||   122
 

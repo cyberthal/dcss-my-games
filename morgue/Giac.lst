@@ -168,25 +168,8 @@ Level 7 of the Dungeon
   a club
 (9, -9, D:7)
   a club
-(12, -10, D:7)
-  a ration
-(12, -9, D:7)
-  22 arrows
 (12, -8, D:7)
   a dagger
-(13, -10, D:7)
-  a wand of flame (12)
-(13, -9, D:7)
-  5 gold pieces
-(13, -8, D:7)
-  a scroll of summoning
-(14, -10, D:7)
-  18 stones
-  (unseen)
-(14, -9, D:7)
-  6 gold pieces
-(14, -8, D:7)
-  13 gold pieces
 (14, 20, D:7)
   a pair of gloves
 (17, 26, D:7)
@@ -337,26 +320,38 @@ Level 10 of the Dungeon
 (11, -46, D:10)
   a +0 ring mail
   a +0 short sword
+(18, -13, D:10)
+  the -4 pair of boots of Impermeability {rElec Dex+2}
+    It affects your dexterity (+2).
+    It insulates you from electricity.
+  a +0 large shield
 (18, -12, D:10)
+  a runed buckler
+  a +4 ring mail of cold resistance
   the +3 leather armour "Jiwn" {rN+ Str+3}
     It affects your strength (+3).
     It protects you from negative energy.
-  a +0 helmet
-  a +0 shield
-  the +3 chain mail "Zibupimn" {Dex+6}
-    It affects your dexterity (+6).
   a +2 buckler
   a crystal plate armour
+  a +0 helmet
+  a +0 shield
   a +4 chain mail of fire resistance
   a +4 chain mail of fire resistance
   a +2 ring mail
   a +0 robe of cold resistance
   a twisted robe
   a thick robe
+  the +3 chain mail "Zibupimn" {Dex+6}
+    It affects your dexterity (+6).
 (18, 9, D:10)
   a cursed +0 hand axe
   a +0 leather armour
 (19, -13, D:10)
+  a +1 scimitar of flaming
+  a +2 dagger of venom
+  a +2 long sword
+  a +3 hand axe of chopping
+  a +3 scimitar of flaming
   a +1 hand axe of venom
   a +3 spear
   a +3 hand axe
@@ -368,6 +363,11 @@ Level 10 of the Dungeon
   a +3 scimitar of slicing
   a demon whip of flaming
 (19, -12, D:10)
+  a +0 trident
+  a +1 flail of protection
+  a +0 flail of protection
+  a +1 flail of protection
+  a +1 war axe
   5 javelins
   85 bolts
   a +1 falchion of holy wrath
@@ -390,8 +390,15 @@ Level 10 of the Dungeon
 (20, -14, D:10)
   a glowing battleaxe
 (20, -13, D:10)
+  a +0 great sword of flaming
+  a +0 longbow
+  a +1 battleaxe
+  a +1 halberd of protection
+  a +2 battleaxe of chopping
+  a +1 dire flail
+  a +0 longbow
   a +1 great sword of electrocution
-  434 arrows
+  706 arrows
   a +4 halberd
   a +3 dire flail
   a +2 great mace of protection
@@ -402,19 +409,23 @@ Level 10 of the Dungeon
 (21, -14, D:10)
   a dented garnet amulet
   a dented cameo amulet
-  a bound bone amulet
 (21, -13, D:10)
+  a scroll of noise
+  a scroll of summoning
+  a potion of resistance
   a potion of flight
+  an uncursed amulet of the gourmand
   a potion of heal wounds
   2 potions of ambrosia
   a scroll of fear
+  a scroll of fog
   a wand of random effects (16)
   a potion of mutation
   3 potions of brilliance
   4 scrolls of amnesia
   an uncursed ring of wizardry
   an uncursed staff of air
-  5 scrolls of remove curse
+  7 scrolls of remove curse
   a +2 ring of dexterity
   an uncursed ring of magical power
   an uncursed ring of magical power
@@ -424,6 +435,13 @@ Level 10 of the Dungeon
   a +4 ring of dexterity
   an uncursed ring of stealth
   an uncursed ring of attention
+  the amulet of Xaraov {*Contam +Rage rN+ MR+}
+    [amulet of rage]
+    
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+    It causes magical contamination when unequipped.
 (32, -34, D:10)
   a dagger
 (34, -40, D:10)
@@ -479,16 +497,15 @@ Level 11 of the Dungeon
   2 large rocks
 (29, -6, D:11)
   a +0 hand axe
-  a +0 hand axe
-  a +0 mace
   a +0 ring mail
+  a +0 mace
+  a +0 hand axe
 (30, 1, D:11)
   a whip
 (30, 22, D:11)
   a dagger
 (33, -8, D:11)
   a cursed +0 leather armour
-  a +1 flail of protection
 (33, 19, D:11)
   a +0 shortbow
 (34, 1, D:11)
@@ -520,14 +537,10 @@ Level 12 of the Dungeon
   a cursed -2 shortbow
 (35, -3, D:12)
   a +0 robe
-  a +2 long sword
 (35, 6, D:12)
   a +0 flail
-  a +0 longbow
 (35, 10, D:12)
   a leather armour
-(37, 6, D:12)
-  61 arrows
 (44, -14, D:12)
   a rapier
 (44, -7, D:12)
@@ -542,8 +555,8 @@ Level 12 of the Dungeon
   a +0 chain mail
   a +0 war axe
 (53, -9, D:12)
+  a +0 chain mail
   a +0 plate armour
-  a +0 flail of protection
 (54, 13, D:12)
   a +0 scale mail
   a +0 dagger
@@ -567,15 +580,15 @@ Level 13 of the Dungeon
   a leather armour
 (3, -12, D:13)
   a +0 ring mail
-  a +2 battleaxe of chopping
 (3, -9, D:13)
   a +0 shortbow
 (26, -31, D:13)
   a whip
 (26, 21, D:13)
   a +0 mace
-(27, -3, D:13)
-  a potion of curing
+(27, 4, D:13)
+  a +0 plate armour
+  a +0 long sword
 (30, -7, D:13)
   a +0 club
   a +0 leather armour
@@ -598,7 +611,6 @@ Level 13 of the Dungeon
   a +0 falchion
 (43, -3, D:13)
   a cursed +0 scale mail
-  a +0 trident
 (45, -3, D:13)
   a +0 leather armour
   a +0 hand axe
@@ -615,7 +627,6 @@ Level 13 of the Dungeon
   a +0 club
 (51, 19, D:13)
   a +0 hand axe
-  a +1 dire flail
 (53, -10, D:13)
   a +0 giant spiked club
 (53, 11, D:13)
@@ -630,35 +641,51 @@ Level 13 of the Dungeon
   a +0 mace
 (57, 11, D:13)
   a +0 chain mail
-  a +1 flail of protection
 (58, -5, D:13)
   a +0 short sword
 
 Level 14 of the Dungeon
 (0, 0, D:14)
   a falchion
+(1, -5, D:14)
+  a +0 giant club
+  a +0 giant club
 (13, -28, D:14)
   a +0 chain mail
   a +0 long sword
 (14, -20, D:14)
   a +0 robe
   a +0 dagger
-(15, -19, D:14)
-  the -4 pair of boots of Impermeability {rElec Dex+2}
-    It affects your dexterity (+2).
-    It insulates you from electricity.
+(17, 2, D:14)
+  a +0 robe
+(18, 3, D:14)
+  a +0 war axe
+(20, 3, D:14)
+  a +0 longbow
+  a +0 robe
+  a +0 shortbow
+  a +0 leather armour
 (21, -38, D:14)
   a large rock
-  a +0 short sword
   a +0 hunting sling
-(22, -39, D:14)
-  a +2 dagger of venom
+  a +0 short sword
 (25, -31, D:14)
   a +0 spear
+(25, 2, D:14)
+  a +0 shortbow
+(25, 4, D:14)
+  a +0 shortbow
+  a +0 hand axe
+  a +0 leather armour
+  a cursed -2 longbow
+(25, 5, D:14)
+  a +0 longbow
+  a +0 longbow
 (26, 0, D:14)
   a +0 ring mail
   a +0 long sword
-  a +0 large shield
+(26, 1, D:14)
+  a +0 shortbow
 (28, -33, D:14)
   a large rock
 (32, -3, D:14)
@@ -667,13 +694,12 @@ Level 14 of the Dungeon
   2 large rocks
 (33, -3, D:14)
   a +0 plate armour
-  a +1 halberd of protection
 (33, -1, D:14)
   a +0 dagger
 (35, -3, D:14)
   a +0 chain mail
-  a cursed -1 robe
   a +0 great sword
+  a cursed -1 robe
   a +0 dagger
 (35, -1, D:14)
   a large rock
@@ -683,10 +709,9 @@ Level 14 of the Dungeon
   a +0 whip
 (39, -3, D:14)
   a +0 chain mail
-  a +1 battleaxe
 (40, 15, D:14)
   a +0 robe
-  (unseen)
+  a +0 hand axe
 (44, -12, D:14)
   a large rock
 
@@ -697,48 +722,21 @@ Level 15 of the Dungeon
   a robe
 (10, -29, D:15)
   a potion of degeneration
-(13, -3, D:15)
-  14 arrows
-(20, -24, D:15)
-  a scroll of remove curse
 (21, -23, D:15)
   a spear
-(23, -11, D:15)
-  a scroll of identify
 (25, -27, D:15)
   a quarterstaff
-(25, -11, D:15)
-  a sling bullet
 (30, 0, D:15)
   a chain mail
 (31, -5, D:15)
   2 large rocks
-(38, -4, D:15)
-  a +0 longbow
-(40, -4, D:15)
-  an arrow
 (42, -7, D:15)
   a hand axe
 (43, -3, D:15)
   3 large rocks
-(44, -24, D:15)
-  a +0 great sword of flaming
-(47, -10, D:15)
-  a scroll of noise
-  12 arrows
-(47, -9, D:15)
-  a scroll of identify
 (49, -24, D:15)
   a +0 robe
   a +0 war axe
-(53, -1, D:15)
-  a lumpy cabochon amulet
-(54, -18, D:15)
-  a +1 scimitar of flaming
-(55, 3, D:15)
-  a scroll of remove curse
-(59, -15, D:15)
-  a runed buckler
 
 the Ecumenical Temple
 
@@ -1095,4 +1093,30 @@ Level 6 of the Lair of Beasts
   a chain mail
 (67, -23, Lair:6)
   a pair of boots
+
+Level 1 of the Shoals
+(0, 0, Shoals:1)
+  a scale mail
+(0, 2, Shoals:1)
+  2 poisoned needles
+(5, -3, Shoals:1)
+  23 gold pieces
+(5, -1, Shoals:1)
+  31 gold pieces
+
+Level 1 of the Spider Nest
+(0, 0, Spider:1)
+  a +1 cloak
+(6, 11, Spider:1)
+  a scroll of fear
+(16, 9, Spider:1)
+  a spear
+(22, 8, Spider:1)
+  17 bolts
+(32, 13, Spider:1)
+  26 arrows
+(34, 25, Spider:1)
+  a potion of flight
+(41, 37, Spider:1)
+  a quarterstaff
 
