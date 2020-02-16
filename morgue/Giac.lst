@@ -406,10 +406,9 @@ Level 10 of the Dungeon
 (20, -12, D:10)
   a +0 shortbow of freezing
   a lajatang
-(21, -14, D:10)
-  a dented garnet amulet
-  a dented cameo amulet
 (21, -13, D:10)
+  an uncursed amulet of harm
+  an uncursed amulet of faith
   a scroll of noise
   a scroll of summoning
   a potion of resistance
@@ -880,7 +879,7 @@ Level 2 of the Orcish Mines
 [Shop] Gell's Jewellery Shop
   a +5 ring of dexterity (535 gold)
   an uncursed ring of magical power (260 gold)
-  an uncursed amulet of faith (unknown) (520 gold)
+  an uncursed amulet of faith (520 gold)
   the ring "Memuhodd" {rElec Dex+4 Stlth-} (388 gold)
     [ring of attention]
     
@@ -1096,27 +1095,134 @@ Level 6 of the Lair of Beasts
 
 Level 1 of the Shoals
 (0, 0, Shoals:1)
+  a +0 trident
+(1, 18, Shoals:1)
+  a +0 hunting sling
+  a +0 quarterstaff
+(5, 18, Shoals:1)
+  a ring mail
+(8, -18, Shoals:1)
   a scale mail
-(0, 2, Shoals:1)
-  2 poisoned needles
-(5, -3, Shoals:1)
-  23 gold pieces
-(5, -1, Shoals:1)
-  31 gold pieces
+(8, -6, Shoals:1)
+  18 bolts
+(13, 5, Shoals:1)
+  a potion of haste
+(13, 9, Shoals:1)
+  a broad axe
+(14, 34, Shoals:1)
+  a +0 trident of pain
+(15, 35, Shoals:1)
+  a war axe
+(16, 9, Shoals:1)
+  a +0 trident
+(17, 24, Shoals:1)
+  a scale mail
+(21, -11, Shoals:1)
+  a great mace
+(32, -9, Shoals:1)
+  a +0 spear
+(34, 23, Shoals:1)
+  a +0 hunting sling
+  a +0 quarterstaff
+(38, 22, Shoals:1)
+  a scale mail
+(39, 21, Shoals:1)
+  a +0 trident
+(42, -4, Shoals:1)
+  a naga barding
+(44, -7, Shoals:1)
+  a cursed +0 spear
+(47, 18, Shoals:1)
+  a leather armour
+(55, -11, Shoals:1)
+  a +0 hunting sling
+  a +0 club
+
+Level 2 of the Shoals
+(0, 0, Shoals:2)
+  a +0 quarterstaff
+  a +0 hunting sling
+(0, 1, Shoals:2)
+  a +0 trident
+(1, 1, Shoals:2)
+  a +0 trident
+(2, -9, Shoals:2)
+  a +0 leather armour
+  a +1 trident of freezing
+(4, -13, Shoals:2)
+  a cursed -1 trident
+(8, -27, Shoals:2)
+  a cursed -3 spear
+(25, 1, Shoals:2)
+  a potion of brilliance
+(27, -23, Shoals:2)
+  a +0 spear
+(41, -31, Shoals:2)
+  a +0 hunting sling
+  a +0 quarterstaff
+(41, -29, Shoals:2)
+  a +0 hunting sling
+  a +0 spear
+(42, -29, Shoals:2)
+  a +0 hunting sling
+  a +0 antimagic spear
+(46, -17, Shoals:2)
+  a +0 spear
 
 Level 1 of the Spider Nest
 (0, 0, Spider:1)
   a +1 cloak
 (6, 11, Spider:1)
   a scroll of fear
+(15, 10, Spider:1)
+  17 bolts
 (16, 9, Spider:1)
   a spear
-(22, 8, Spider:1)
-  17 bolts
-(32, 13, Spider:1)
+(21, 4, Spider:1)
+  a jumping spider corpse
+(27, 20, Spider:1)
   26 arrows
-(34, 25, Spider:1)
+(36, 26, Spider:1)
+  a redback corpse
+(37, 25, Spider:1)
   a potion of flight
 (41, 37, Spider:1)
   a quarterstaff
+
+Level 2 of the Spider Nest
+(0, 0, Spider:2)
+  a poisoned needle
+(0, 1, Spider:2)
+  a poisoned needle
+(0, 7, Spider:2)
+  a poisoned needle
+(1, 3, Spider:2)
+  4 poisoned needles
+(1, 6, Spider:2)
+  a poisoned needle (still there?)
+  2 sling bullets (still there?)
+(1, 7, Spider:2)
+  3 sling bullets (still there?)
+  2 sling bullets (still there?)
+(2, 7, Spider:2)
+  a sling bullet (still there?)
+  2 poisoned needles (still there?)
+(5, 0, Spider:2)
+  a poisoned needle
+(5, 2, Spider:2)
+  a poisoned needle
+(6, -1, Spider:2)
+  19 stones
+(6, 1, Spider:2)
+  a poisoned needle
+(7, 2, Spider:2)
+  a poisoned needle
+(8, 3, Spider:2)
+  a poisoned needle
+(8, 10, Spider:2)
+  a potion of lignification
+(9, 4, Spider:2)
+  a shortbow
+(9, 5, Spider:2)
+  a poisoned needle
 
