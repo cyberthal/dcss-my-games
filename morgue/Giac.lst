@@ -321,12 +321,19 @@ Level 10 of the Dungeon
   a +0 ring mail
   a +0 short sword
 (18, -13, D:10)
+  the +4 plate armour of the Maze {*Drain Regen+ rCorr Str+4}
+    It affects your strength (+4).
+    It increases your rate of regeneration.
+    It provides partial protection from all sources of acid and corrosion.
+    It causes draining when unequipped.
   the -4 pair of boots of Impermeability {rElec Dex+2}
     It affects your dexterity (+2).
     It insulates you from electricity.
-  a +1 helmet of see invisible
   a +0 large shield
+  a +1 helmet of see invisible
 (18, -12, D:10)
+  a +1 robe of resistance
+  a +2 robe of cold resistance
   a runed buckler
   a +4 ring mail of cold resistance
   the +3 leather armour "Jiwn" {rN+ Str+3}
@@ -347,23 +354,53 @@ Level 10 of the Dungeon
 (18, 9, D:10)
   a cursed +0 hand axe
   a +0 leather armour
+(19, -14, D:10)
+  a crystal mace
+  a steaming hunting sling
+  a glowing spear
 (19, -13, D:10)
-  a +1 scimitar of flaming
-  a +2 dagger of venom
-  a +2 long sword
+  a +2 demon trident of venom
+  14 javelins of returning
+  a +2 rapier of draining
+  7 steel tomahawks
+  a +5 spear of flaming
+  18 javelins
+  a +3 dagger of electrocution
   a +3 hand axe of chopping
   a +3 scimitar of flaming
   a +1 hand axe of venom
-  a +3 spear
   a +3 hand axe
-  a +1 short sword of speed
-  a +3 flail
-  86 bolts
-  a +0 trident
-  a +0 flail of holy wrath
-  a +3 scimitar of slicing
+  121 bolts
   a demon whip of flaming
 (19, -12, D:10)
+  a +1 vampiric trident
+  a +2 trident of freezing
+  a +1 trident of freezing
+  a +2 spear of venom
+  a +2 spear of venom
+  a +2 spear of freezing
+  a +3 spear
+  a +0 trident of flaming
+  a +1 rapier of electrocution
+  a +0 trident of protection
+  a +1 vampiric trident
+  a +1 trident of freezing
+  a +0 trident of pain
+  a +0 spear of piercing
+  a +2 rapier of flaming
+  a +0 antimagic spear
+  a +0 trident
+  a +1 spear of piercing
+  a +2 long sword
+  a +1 short sword of speed
+  a +1 scimitar of flaming
+  a +3 scimitar of slicing
+  a +0 hunting sling
+  a +0 demon trident of freezing
+  a +3 flail
+  a +2 dagger of venom
+  a +0 flail of holy wrath
+  a +0 blowgun
   a +0 trident
   a +1 flail of protection
   a +0 flail of protection
@@ -389,8 +426,11 @@ Level 10 of the Dungeon
     It lets you turn invisible.
     It will be destroyed if unequipped.
 (20, -14, D:10)
+  a runed great sword
+  a crystal halberd
   a glowing battleaxe
 (20, -13, D:10)
+  a +0 longbow of velocity
   a +0 great sword of flaming
   a +0 longbow
   a +1 battleaxe
@@ -399,7 +439,7 @@ Level 10 of the Dungeon
   a +1 dire flail
   a +0 longbow
   a +1 great sword of electrocution
-  706 arrows
+  766 arrows
   a +4 halberd
   a +3 dire flail
   a +2 great mace of protection
@@ -408,30 +448,36 @@ Level 10 of the Dungeon
   a +0 shortbow of freezing
   a lajatang
 (21, -13, D:10)
+  a wand of flame (7)
+  an uncursed ring of protection from cold
+  a wand of digging (1)
+  a scroll of immolation
+  4 potions of haste
+  a scroll of vulnerability
+  3 scrolls of fog
   a scroll of noise
   a phantom mirror
   a scroll of summoning
   an uncursed amulet of faith
   a potion of resistance
   an uncursed amulet of harm
-  a potion of flight
+  4 potions of flight
   an uncursed amulet of the gourmand
-  a potion of heal wounds
-  2 potions of ambrosia
-  a scroll of fear
+  3 potions of heal wounds
+  3 potions of ambrosia
   a wand of random effects (16)
   a potion of mutation
-  3 potions of brilliance
+  4 potions of brilliance
   4 scrolls of amnesia
   an uncursed ring of wizardry
   an uncursed staff of air
   7 scrolls of remove curse
-  a +2 ring of dexterity
   an uncursed ring of magical power
   an uncursed ring of magical power
   an uncursed staff of conjuration
   a wand of clouds (2)
 (21, -12, D:10)
+  a +2 ring of dexterity
   a +4 ring of dexterity
   an uncursed ring of stealth
   an uncursed ring of attention
@@ -1096,20 +1142,14 @@ Level 1 of the Shoals
 (0, 0, Shoals:1)
   a +0 trident
 (1, 18, Shoals:1)
-  a +0 hunting sling
   a +0 quarterstaff
+  a +0 hunting sling
 (5, 18, Shoals:1)
   a ring mail
 (8, -18, Shoals:1)
   a scale mail
-(8, -6, Shoals:1)
-  18 bolts
-(13, 5, Shoals:1)
-  a potion of haste
 (13, 9, Shoals:1)
   a broad axe
-(14, 34, Shoals:1)
-  a +0 trident of pain
 (15, 35, Shoals:1)
   a war axe
 (16, 9, Shoals:1)
@@ -1151,7 +1191,6 @@ Level 2 of the Shoals
   a +0 trident
 (4, -3, Shoals:2)
   a +0 leather armour
-  a +1 trident of freezing
 (6, -7, Shoals:2)
   a cursed -1 trident
 (10, -21, Shoals:2)
@@ -1159,32 +1198,25 @@ Level 2 of the Shoals
 (15, -18, Shoals:2)
   a +0 hunting sling
   a cursed +0 robe
-  a +2 rapier of flaming
   a +0 spear
 (15, -16, Shoals:2)
   a +0 hunting sling
   a +0 spear
-(27, 7, Shoals:2)
-  a potion of brilliance
 (29, -17, Shoals:2)
   a +0 spear
 (38, 15, Shoals:2)
   a +0 trident
 (38, 16, Shoals:2)
-  3 arrows
   a +0 club
   a +0 longbow
-(39, 15, Shoals:2)
-  4 arrows
 (43, -25, Shoals:2)
-  a +0 hunting sling
   a +0 quarterstaff
-(43, -23, Shoals:2)
   a +0 hunting sling
+(43, -23, Shoals:2)
   a +0 spear
+  a +0 hunting sling
 (44, -23, Shoals:2)
   a +0 hunting sling
-  a +0 antimagic spear
 (48, -11, Shoals:2)
   a +0 spear
 
@@ -1207,8 +1239,6 @@ Level 3 of the Shoals
   a +0 trident
 (2, 5, Shoals:3)
   a +0 trident
-(2, 42, Shoals:3)
-  a +1 vampiric trident
 (4, 9, Shoals:3)
   a +0 spear
 (5, 6, Shoals:3)
@@ -1219,41 +1249,23 @@ Level 3 of the Shoals
 (6, 9, Shoals:3)
   a +0 trident
 (7, 10, Shoals:3)
-  a +0 spear of piercing
   a +0 hunting sling
 (8, 25, Shoals:3)
   a +0 trident
-(14, 25, Shoals:3)
-  9 arrows
-(15, 3, Shoals:3)
-  a potion of heal wounds
-(15, 25, Shoals:3)
-  a crystal halberd
 (17, -2, Shoals:3)
   a +0 trident
-(17, 0, Shoals:3)
-  a +1 vampiric trident
-  a +2 robe of cold resistance
-(17, 27, Shoals:3)
-  an arrow
 (18, -2, Shoals:3)
   a +0 robe
-  a +2 trident of freezing
 (18, 0, Shoals:3)
   a +0 leather armour
   a +0 trident
   a +0 spear
   a +0 robe
-  a +1 trident of freezing
 (18, 32, Shoals:3)
   a +0 quarterstaff
   a +0 hunting sling
-(19, -1, Shoals:3)
-  a +2 spear of venom
-  a +1 robe of resistance
 (19, 0, Shoals:3)
   a +0 leather armour
-  a +0 trident of protection
 (20, 26, Shoals:3)
   a +0 quarterstaff
   a +0 hunting sling
@@ -1266,10 +1278,8 @@ Level 3 of the Shoals
 (22, 29, Shoals:3)
   a +0 quarterstaff
   a +0 hunting sling
-  a +0 hunting sling
   a +0 club
-(23, 27, Shoals:3)
-  2 arrows
+  a +0 hunting sling
 (23, 32, Shoals:3)
   a +0 quarterstaff
   a cursed -1 hunting sling
@@ -1277,54 +1287,22 @@ Level 3 of the Shoals
   a large rock
 (24, 1, Shoals:3)
   a +0 robe
-  a +3 dagger of electrocution
 (24, 16, Shoals:3)
   a war axe
 (24, 31, Shoals:3)
-  a +2 spear of freezing
   a +0 hunting sling
 (25, 15, Shoals:3)
   6 large rocks
 (26, 7, Shoals:3)
   a +0 trident
-(28, 8, Shoals:3)
-  2 javelins
-(30, 22, Shoals:3)
-  a potion of flight
-(30, 28, Shoals:3)
-  a ring of protection from cold
 (31, 20, Shoals:3)
   a +0 spear
-(31, 26, Shoals:3)
-  a javelin
-(32, 29, Shoals:3)
-  a potion of heal wounds
 (33, 9, Shoals:3)
   a +0 trident
 (33, 19, Shoals:3)
   a +0 trident
-(33, 27, Shoals:3)
-  2 javelins
-(34, 14, Shoals:3)
-  4 javelins
-(34, 28, Shoals:3)
-  a javelin
-(35, 14, Shoals:3)
-  a javelin
 (35, 15, Shoals:3)
   a +0 leather armour
-  a +5 spear of flaming
-  5 javelins
-(35, 17, Shoals:3)
-  a javelin
-(36, 15, Shoals:3)
-  a javelin
-(36, 21, Shoals:3)
-  the +4 plate armour of the Maze {*Drain Regen+ rCorr Str+4}
-    It affects your strength (+4).
-    It increases your rate of regeneration.
-    It provides partial protection from all sources of acid and corrosion.
-    It causes draining when unequipped.
 (37, 7, Shoals:3)
   a +0 robe
   a +0 rapier
@@ -1333,8 +1311,6 @@ Level 3 of the Shoals
 (38, 7, Shoals:3)
   a +0 robe
   a +0 trident
-(38, 15, Shoals:3)
-  a scroll of fog
 (39, 8, Shoals:3)
   a +0 robe
   a +0 trident
@@ -1346,21 +1322,17 @@ Level 4 of the Shoals
   a +0 spear
 (1, -32, Shoals:4)
   a +0 spear
-  a merfolk skeleton
 (1, -2, Shoals:4)
-  a +2 rapier of draining
   a +0 robe
 (2, -36, Shoals:4)
   a +0 trident
 (4, -38, Shoals:4)
   a +0 spear
-  a merfolk skeleton
 (4, -35, Shoals:4)
   a +0 trident
 (4, 1, Shoals:4)
-  a +0 trident
-  a +0 trident of flaming
   a +0 leather armour
+  a +0 trident
 (7, -5, Shoals:4)
   a ring of attention
 (14, -41, Shoals:4)
@@ -1369,121 +1341,48 @@ Level 4 of the Shoals
   a +0 trident
 (15, -38, Shoals:4)
   a cursed -2 trident
-(17, -43, Shoals:4)
-  a scroll of vulnerability
 (18, -35, Shoals:4)
-  a +1 spear of piercing
-  a javelin of penetration
   a +0 leather armour
 (19, -36, Shoals:4)
-  a +0 fustibalus
   a +0 club
-(20, -31, Shoals:4)
-  a wand of digging (1)
-(22, -38, Shoals:4)
-  a javelin of penetration
-(22, -37, Shoals:4)
-  a javelin of penetration
-(23, -40, Shoals:4)
-  a javelin of penetration
 (23, -37, Shoals:4)
   a large rock
 (23, -4, Shoals:4)
-  a +1 rapier of electrocution
   a +0 robe
-(24, -41, Shoals:4)
-  2 javelins of penetration
-(24, -38, Shoals:4)
-  a steel tomahawk
-(25, -42, Shoals:4)
-  6 javelins of penetration
-(25, -39, Shoals:4)
-  a steel tomahawk
-(26, -28, Shoals:4)
-  a glowing spear
 (26, -16, Shoals:4)
   a robe
-(28, -43, Shoals:4)
-  a steel tomahawk
-(29, -41, Shoals:4)
-  a steel tomahawk
-(29, -6, Shoals:4)
-  a blowgun
-(31, -42, Shoals:4)
-  a steel tomahawk
 (32, -45, Shoals:4)
   a naga barding
-(33, -41, Shoals:4)
-  a steel tomahawk
-(33, -14, Shoals:4)
-  a scroll of immolation
 (34, -41, Shoals:4)
   a +0 robe
-  a +0 demon trident of freezing
-(34, -40, Shoals:4)
-  a tomahawk
 (35, -43, Shoals:4)
   a +0 trident
-  a +4 chain mail of poison resistance
 (35, -41, Shoals:4)
   2 large rocks
-  4 tomahawks
-(35, -40, Shoals:4)
-  a tomahawk
-(36, -40, Shoals:4)
-  a steel tomahawk
-(37, -41, Shoals:4)
-  a tomahawk
+(36, -42, Shoals:4)
+  a +0 leather armour
 (37, -38, Shoals:4)
   a +0 leather armour
-  14 javelins of returning
-  a +2 spear of venom
+(38, -44, Shoals:4)
+  a stone
 (38, -41, Shoals:4)
   a large rock
-(39, -41, Shoals:4)
-  a stone
-(40, -36, Shoals:4)
-  a stone
 (40, -23, Shoals:4)
   a +0 spear
-(41, -35, Shoals:4)
-  2 stones
 (45, -11, Shoals:4)
   a +0 trident
 (46, -12, Shoals:4)
   a +0 trident
 (46, -11, Shoals:4)
   a +0 trident
-(46, -4, Shoals:4)
-  a crystal mace
-(48, -10, Shoals:4)
-  an arrow
-(49, -10, Shoals:4)
-  5 arrows
-(49, -7, Shoals:4)
-  a steaming hunting sling
 (50, -9, Shoals:4)
-  9 arrows
   a +0 quarterstaff
-  a +0 longbow of velocity
-(57, -5, Shoals:4)
-  a potion of ambrosia
-(58, -21, Shoals:4)
-  a runed great sword
 
 Level 1 of the Spider Nest
 (0, 0, Spider:1)
   a +1 cloak
-(6, 11, Spider:1)
-  a scroll of fear
-(15, 10, Spider:1)
-  17 bolts
 (16, 9, Spider:1)
   a spear
-(27, 20, Spider:1)
-  26 arrows
-(37, 25, Spider:1)
-  a potion of flight
 (41, 37, Spider:1)
   a quarterstaff
 
@@ -1492,8 +1391,6 @@ Level 2 of the Spider Nest
   a +0 plate armour
 (0, 45, Spider:2)
   6 javelins
-(8, 45, Spider:2)
-  a potion of flight
 (15, -16, Spider:2)
   a scroll of immolation
 (15, 42, Spider:2)
@@ -1512,14 +1409,34 @@ Level 2 of the Spider Nest
   a morningstar
 
 Level 3 of the Spider Nest
-(0, 0, Spider:3)
+(0, 40, Spider:3)
   a scale mail
-(1, -46, Spider:3)
+(1, -6, Spider:3)
   a falchion
-(3, -43, Spider:3)
+(3, -3, Spider:3)
   a plate armour
-(12, -45, Spider:3)
+(12, -5, Spider:3)
   a quarterstaff
-(22, 2, Spider:3)
+(22, 42, Spider:3)
   a runed scimitar
+
+Level 4 of the Spider Nest
+(0, 0, Spider:4)
+  a potion of haste
+(28, -34, Spider:4)
+  an inedible chunk of flesh
+(29, -36, Spider:4)
+  an inedible chunk of flesh
+(29, -33, Spider:4)
+  a death scarab corpse
+(30, -44, Spider:4)
+  an inedible chunk of flesh
+(47, -1, Spider:4)
+  2 javelins of returning
+(50, -24, Spider:4)
+  a pair of boots
+(56, -22, Spider:4)
+  15 arrows
+(66, -21, Spider:4)
+  a chain mail
 
