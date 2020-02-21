@@ -321,19 +321,17 @@ Level 10 of the Dungeon
   a +0 ring mail
   a +0 short sword
 (18, -13, D:10)
-  the +4 plate armour of the Maze {*Drain Regen+ rCorr Str+4}
-    It affects your strength (+4).
-    It increases your rate of regeneration.
-    It provides partial protection from all sources of acid and corrosion.
-    It causes draining when unequipped.
-  the -4 pair of boots of Impermeability {rElec Dex+2}
-    It affects your dexterity (+2).
-    It insulates you from electricity.
   a +0 large shield
   a +1 helmet of see invisible
 (18, -12, D:10)
   a +1 robe of resistance
+  the -4 pair of boots of Impermeability {rElec Dex+2}
+    It affects your dexterity (+2).
+    It insulates you from electricity.
   a +2 robe of cold resistance
+  a +4 chain mail of poison resistance
+  a +0 troll leather armour
+  a +2 crystal plate armour
   a runed buckler
   a +4 ring mail of cold resistance
   the +3 leather armour "Jiwn" {rN+ Str+3}
@@ -356,24 +354,27 @@ Level 10 of the Dungeon
   a +0 leather armour
 (19, -14, D:10)
   a crystal mace
-  a steaming hunting sling
   a glowing spear
+  a runed scimitar
 (19, -13, D:10)
-  a +2 demon trident of venom
-  14 javelins of returning
+  a +0 fustibalus
+  16 javelins of returning
   a +2 rapier of draining
   7 steel tomahawks
   a +5 spear of flaming
-  18 javelins
   a +3 dagger of electrocution
+  6 poisoned needles
+  3 curare-tipped needles {!f}
+  a +2 blowgun
   a +3 hand axe of chopping
   a +3 scimitar of flaming
   a +1 hand axe of venom
   a +3 hand axe
   121 bolts
+  a +2 falchion of protection
   a demon whip of flaming
 (19, -12, D:10)
-  a +1 vampiric trident
+  a +0 blowgun
   a +2 trident of freezing
   a +1 trident of freezing
   a +2 spear of venom
@@ -400,7 +401,7 @@ Level 10 of the Dungeon
   a +3 flail
   a +2 dagger of venom
   a +0 flail of holy wrath
-  a +0 blowgun
+  a +1 vampiric trident
   a +0 trident
   a +1 flail of protection
   a +0 flail of protection
@@ -439,7 +440,7 @@ Level 10 of the Dungeon
   a +1 dire flail
   a +0 longbow
   a +1 great sword of electrocution
-  766 arrows
+  781 arrows
   a +4 halberd
   a +3 dire flail
   a +2 great mace of protection
@@ -448,28 +449,24 @@ Level 10 of the Dungeon
   a +0 shortbow of freezing
   a lajatang
 (21, -13, D:10)
-  a wand of flame (7)
-  an uncursed ring of protection from cold
   a wand of digging (1)
-  a scroll of immolation
-  4 potions of haste
+  a wand of flame (7)
+  2 scrolls of immolation
+  an uncursed ring of protection from cold
   a scroll of vulnerability
-  3 scrolls of fog
+  a potion of cancellation
   a scroll of noise
   a phantom mirror
   a scroll of summoning
   an uncursed amulet of faith
   a potion of resistance
-  an uncursed amulet of harm
   4 potions of flight
   an uncursed amulet of the gourmand
-  3 potions of heal wounds
-  3 potions of ambrosia
-  a wand of random effects (16)
+  7 potions of ambrosia
   a potion of mutation
-  4 potions of brilliance
+  an uncursed ring of resist corrosion
   4 scrolls of amnesia
-  an uncursed ring of wizardry
+  2 scrolls of fear
   an uncursed staff of air
   7 scrolls of remove curse
   an uncursed ring of magical power
@@ -477,7 +474,6 @@ Level 10 of the Dungeon
   an uncursed staff of conjuration
   a wand of clouds (2)
 (21, -12, D:10)
-  a +2 ring of dexterity
   a +4 ring of dexterity
   an uncursed ring of stealth
   an uncursed ring of attention
@@ -488,6 +484,8 @@ Level 10 of the Dungeon
     It affects your resistance to hostile enchantments.
     It lets you go berserk.
     It causes magical contamination when unequipped.
+  an uncursed amulet of harm
+  a +2 ring of dexterity
 (32, -34, D:10)
   a dagger
 (34, -40, D:10)
@@ -1058,16 +1056,155 @@ Level 2 of the Orcish Mines
   a +0 hand axe
   a cursed +0 robe
   a +0 dagger
+(44, 24, Orc:2)
+  a cursed +0 leather armour
+  a +3 war axe
 (45, 9, Orc:2)
   a +0 plate armour
   a +0 scimitar
 (45, 14, Orc:2)
   a +0 ring mail
+(46, 26, Orc:2)
+  a +0 long sword
 (50, 25, Orc:2)
   a +0 robe
   a +0 dagger
 (51, 20, Orc:2)
   a +0 flail
+
+Level 1 of the Elven Halls
+(0, 0, Elf:1)
+  a wand of disintegration (6)
+(0, 16, Elf:1)
+  a square silver amulet
+(2, 27, Elf:1)
+  2 arrows
+(4, 30, Elf:1)
+  a +0 leather armour
+  a +0 short sword
+(5, 31, Elf:1)
+  2 arrows
+(7, 32, Elf:1)
+  a +0 rapier
+  a +0 dagger
+(8, 33, Elf:1)
+  a +0 dagger
+  a +0 ring mail
+  a +0 short sword
+(9, 10, Elf:1)
+  a +0 short sword
+  a +1 war axe of flaming
+(9, 34, Elf:1)
+  3 arrows
+  a +0 leather armour
+(10, 16, Elf:1)
+  21 bolts
+(11, -3, Elf:1)
+  a rapier
+(11, 36, Elf:1)
+  a +0 short sword
+(13, 8, Elf:1)
+  6 arrows
+(15, 8, Elf:1)
+  an arrow
+  a +0 long sword
+(16, 10, Elf:1)
+  6 poisoned needles
+  a +0 long sword of venom
+(17, 24, Elf:1)
+  2 arrows
+(18, 24, Elf:1)
+  a +0 long sword
+  a +0 rapier
+  a +0 scale mail
+  a +0 long sword
+  a +2 short sword of draining
+  a +0 ring mail
+  a +0 long sword
+  a +0 leather armour
+  a +0 long sword
+(19, 24, Elf:1)
+  a +2 glaive of protection
+  a +0 leather armour
+  7 arrows
+  a +0 dagger
+  a +0 shortbow
+  a +0 leather armour
+  a +0 dagger
+(20, 22, Elf:1)
+  an arrow
+(21, 32, Elf:1)
+  a +0 short sword
+(22, 17, Elf:1)
+  a +0 leather armour
+  a +0 short sword
+  a +0 shortbow
+(22, 25, Elf:1)
+  an arrow
+(23, 25, Elf:1)
+  a +0 ring mail
+  a +0 long sword
+(24, 18, Elf:1)
+  a scale mail
+(24, 43, Elf:1)
+  a +2 buckler
+  a +0 leather armour
+(24, 44, Elf:1)
+  a +0 buckler
+(25, 43, Elf:1)
+  a +0 dagger
+  a cursed +0 leather armour
+(26, 39, Elf:1)
+  an arrow
+(26, 42, Elf:1)
+  a +0 short sword
+  a +0 long sword
+  a +0 short sword
+(27, 22, Elf:1)
+  a +0 scale mail
+  a +0 long sword
+(27, 39, Elf:1)
+  a +0 dagger
+  a +0 longbow
+  14 arrows
+  a +0 leather armour
+(28, 0, Elf:1)
+  a +3 vampiric short sword
+(30, 6, Elf:1)
+  +0 fire dragon scales
+(34, 38, Elf:1)
+  an arrow
+(43, 11, Elf:1)
+  2 arrows
+(43, 24, Elf:1)
+  a ring mail
+(44, 12, Elf:1)
+  a +0 short sword of venom
+  2 arrows
+(45, 12, Elf:1)
+  a +0 short sword
+  a +0 dagger
+  a +0 shortbow
+  26 arrows
+  a +0 leather armour
+(45, 13, Elf:1)
+  a +0 short sword
+  a +0 shortbow
+  a +0 leather armour
+  a +0 leather armour
+  47 arrows
+  a cursed -1 shortbow
+  a +0 leather armour
+  a +0 mace of draining
+  a +0 rapier
+(47, 15, Elf:1)
+  a +0 long sword
+  a +0 short sword
+  a +0 shortbow
+  a cursed -1 short sword
+  an arrow
+(52, 20, Elf:1)
+  2 potions of mutation
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
@@ -1389,14 +1526,6 @@ Level 1 of the Spider Nest
 Level 2 of the Spider Nest
 (0, 0, Spider:2)
   a +0 plate armour
-(0, 45, Spider:2)
-  6 javelins
-(15, -16, Spider:2)
-  a scroll of immolation
-(15, 42, Spider:2)
-  a potion of heal wounds
-(17, 39, Spider:2)
-  a potion of cancellation
 (25, 44, Spider:2)
   a ring mail
 (27, 5, Spider:2)
@@ -1409,34 +1538,18 @@ Level 2 of the Spider Nest
   a morningstar
 
 Level 3 of the Spider Nest
-(0, 40, Spider:3)
+(0, 0, Spider:3)
   a scale mail
-(1, -6, Spider:3)
+(1, -46, Spider:3)
   a falchion
-(3, -3, Spider:3)
+(3, -43, Spider:3)
   a plate armour
-(12, -5, Spider:3)
+(12, -45, Spider:3)
   a quarterstaff
-(22, 42, Spider:3)
-  a runed scimitar
 
 Level 4 of the Spider Nest
-(0, 0, Spider:4)
-  a potion of haste
-(28, -34, Spider:4)
-  an inedible chunk of flesh
-(29, -36, Spider:4)
-  an inedible chunk of flesh
-(29, -33, Spider:4)
-  a death scarab corpse
-(30, -44, Spider:4)
-  an inedible chunk of flesh
-(47, -1, Spider:4)
-  2 javelins of returning
-(50, -24, Spider:4)
+(22, 10, Spider:4)
   a pair of boots
-(56, -22, Spider:4)
-  15 arrows
-(66, -21, Spider:4)
+(38, 13, Spider:4)
   a chain mail
 
