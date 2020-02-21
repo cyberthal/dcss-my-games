@@ -353,12 +353,11 @@ Level 10 of the Dungeon
   a cursed +0 hand axe
   a +0 leather armour
 (19, -14, D:10)
-  a crystal mace
   a glowing spear
   a runed scimitar
 (19, -13, D:10)
-  a +0 fustibalus
   16 javelins of returning
+  a +2 demon whip of flaming
   a +2 rapier of draining
   7 steel tomahawks
   a +5 spear of flaming
@@ -368,15 +367,18 @@ Level 10 of the Dungeon
   a +2 blowgun
   a +3 hand axe of chopping
   a +3 scimitar of flaming
+  a +0 fustibalus
   a +1 hand axe of venom
   a +3 hand axe
   121 bolts
   a +2 falchion of protection
-  a demon whip of flaming
 (19, -12, D:10)
   a +0 blowgun
+  a +1 vampiric trident
+  a +0 demon trident of freezing
   a +2 trident of freezing
   a +1 trident of freezing
+  a +0 hunting sling
   a +2 spear of venom
   a +2 spear of venom
   a +2 spear of freezing
@@ -391,27 +393,23 @@ Level 10 of the Dungeon
   a +2 rapier of flaming
   a +0 antimagic spear
   a +0 trident
-  a +1 spear of piercing
-  a +2 long sword
-  a +1 short sword of speed
-  a +1 scimitar of flaming
-  a +3 scimitar of slicing
-  a +0 hunting sling
-  a +0 demon trident of freezing
   a +3 flail
-  a +2 dagger of venom
-  a +0 flail of holy wrath
-  a +1 vampiric trident
+  a +1 spear of piercing
   a +0 trident
   a +1 flail of protection
   a +0 flail of protection
   a +1 flail of protection
   a +1 war axe
+  a +2 long sword
+  a +1 short sword of speed
+  a +2 dagger of venom
   5 javelins
   85 bolts
+  a +1 scimitar of flaming
   a +1 falchion of holy wrath
   a +0 short sword of protection
   a +0 mace of draining
+  a +0 flail of holy wrath
   a cursed +0 flail
   the +4 dagger of Doimorr {pierce, rC- Int+3 Stlth+}
     It inflicts extra damage upon your enemies.
@@ -419,6 +417,7 @@ Level 10 of the Dungeon
     It affects your intelligence (+3).
     It makes you vulnerable to cold.
     It makes you more stealthy.
+  a +3 scimitar of slicing
   the +8 mace of the Forsaken Beggars {speed, Fragile +Inv rPois Str+4}
     Attacks with this weapon are significantly faster.
     
@@ -740,6 +739,10 @@ Level 14 of the Dungeon
   a +0 plate armour
 (33, -1, D:14)
   a +0 dagger
+(34, -22, D:14)
+  a bolt
+(35, -21, D:14)
+  2 bolts
 (35, -3, D:14)
   a +0 chain mail
   a +0 great sword
@@ -747,6 +750,12 @@ Level 14 of the Dungeon
   a +0 dagger
 (35, -1, D:14)
   a large rock
+(36, -19, D:14)
+  a bolt
+(36, -17, D:14)
+  a bolt
+  a +0 plate armour
+  a +0 flail
 (38, -3, D:14)
   a potion of degeneration
   a +0 robe
@@ -1108,6 +1117,8 @@ Level 1 of the Elven Halls
 (15, 8, Elf:1)
   an arrow
   a +0 long sword
+(15, 9, Elf:1)
+  a +0 long sword
 (16, 10, Elf:1)
   6 poisoned needles
   a +0 long sword of venom
@@ -1123,6 +1134,8 @@ Level 1 of the Elven Halls
   a +0 long sword
   a +0 leather armour
   a +0 long sword
+(19, 7, Elf:1)
+  a +1 dire flail of protection
 (19, 24, Elf:1)
   a +2 glaive of protection
   a +0 leather armour
@@ -1152,8 +1165,8 @@ Level 1 of the Elven Halls
 (24, 44, Elf:1)
   a +0 buckler
 (25, 43, Elf:1)
-  a +0 dagger
   a cursed +0 leather armour
+  a +0 dagger
 (26, 39, Elf:1)
   an arrow
 (26, 42, Elf:1)
@@ -1164,10 +1177,10 @@ Level 1 of the Elven Halls
   a +0 scale mail
   a +0 long sword
 (27, 39, Elf:1)
+  a +0 leather armour
+  14 arrows
   a +0 dagger
   a +0 longbow
-  14 arrows
-  a +0 leather armour
 (28, 0, Elf:1)
   a +3 vampiric short sword
 (30, 6, Elf:1)
@@ -1197,6 +1210,9 @@ Level 1 of the Elven Halls
   a +0 leather armour
   a +0 mace of draining
   a +0 rapier
+(45, 26, Elf:1)
+  a +0 leather armour
+  a cursed -3 short sword
 (47, 15, Elf:1)
   a +0 long sword
   a +0 short sword
@@ -1205,6 +1221,256 @@ Level 1 of the Elven Halls
   an arrow
 (52, 20, Elf:1)
   2 potions of mutation
+
+Level 2 of the Elven Halls
+[Shop] Isupn's Distillery
+  a potion of mutation (168 gold)
+  a potion of cancellation (168 gold)
+  a potion of berserk rage (105 gold)
+  a potion of lignification (63 gold)
+  a potion of lignification (63 gold)
+  a potion of magic (168 gold)
+  a potion of brilliance (84 gold)
+(0, 0, Elf:2)
+  6 poisoned tomahawks
+(0, 3, Elf:2)
+  a crude scale mail
+(2, -15, Elf:2)
+  13 bolts
+(4, -17, Elf:2)
+  3 arrows
+(4, 21, Elf:2)
+  an arrow
+(5, 18, Elf:2)
+  a glowing quarterstaff
+(6, -18, Elf:2)
+  a +0 leather armour
+  a +0 longbow
+  7 arrows
+  a +0 short sword
+(6, -14, Elf:2)
+  an arrow
+(6, 16, Elf:2)
+  a +0 long sword
+(7, 20, Elf:2)
+  an arrow
+(8, -15, Elf:2)
+  a cursed -2 leather armour
+  a +0 rapier
+(8, 18, Elf:2)
+  a +0 leather armour
+  19 arrows
+  a +0 dagger
+  a +0 longbow
+(9, -6, Elf:2)
+  a battleaxe
+(9, 15, Elf:2)
+  an arrow
+(9, 19, Elf:2)
+  an arrow
+(10, -15, Elf:2)
+  3 arrows
+(10, 14, Elf:2)
+  a +0 long sword
+  a +0 leather armour
+  23 arrows
+  a +0 dagger
+  a +0 longbow
+  a +0 leather armour
+  a +0 rapier
+(11, -17, Elf:2)
+  3 arrows
+(11, -4, Elf:2)
+  3 scrolls of remove curse
+(11, 6, Elf:2)
+  an arrow
+(11, 10, Elf:2)
+  an arrow
+(11, 13, Elf:2)
+  a +0 short sword
+(11, 15, Elf:2)
+  a scroll of remove curse
+  a +0 long sword
+  a +1 mace of holy wrath
+(11, 19, Elf:2)
+  16 arrows
+  a +0 longbow
+(12, -17, Elf:2)
+  a +0 flail of crushing
+(12, 8, Elf:2)
+  12 arrows
+  a +0 longbow
+(12, 11, Elf:2)
+  a cursed +0 leather armour
+  (unseen)
+(12, 19, Elf:2)
+  an arrow
+(13, -17, Elf:2)
+  an arrow
+(14, -10, Elf:2)
+  a square silver amulet
+  8 arrows
+  a +0 shortbow
+(14, 7, Elf:2)
+  an arrow
+  a cursed +0 leather armour
+  a +0 short sword
+(14, 8, Elf:2)
+  an arrow
+(14, 19, Elf:2)
+  13 arrows
+  a +0 shortbow
+  a cursed -2 long sword
+(15, -17, Elf:2)
+  16 arrows
+  a cursed ring of attention
+  a +0 leather armour
+  a +0 dagger
+  a +0 shortbow
+(15, -12, Elf:2)
+  2 arrows
+  a +0 leather armour
+  a +0 dagger
+(15, -10, Elf:2)
+  2 arrows (still there?)
+  a +0 rapier (still there?)
+(15, -6, Elf:2)
+  a +0 short sword
+(15, 8, Elf:2)
+  an arrow
+(15, 19, Elf:2)
+  an arrow
+  a +0 short sword
+(16, -22, Elf:2)
+  an arrow
+(16, -17, Elf:2)
+  a +0 leather armour
+  23 arrows
+  a +2 short sword of venom
+  a +0 shortbow
+(16, -12, Elf:2)
+  an arrow
+(16, -11, Elf:2)
+  an arrow
+(16, -10, Elf:2)
+  2 arrows
+(16, -6, Elf:2)
+  a +0 leather armour
+  a +0 short sword
+(16, 4, Elf:2)
+  a +0 short sword
+  a cursed +0 leather armour
+(17, -17, Elf:2)
+  25 arrows
+  a +0 leather armour
+  a +0 dagger
+  a +0 shortbow
+  a +0 short sword
+(17, -9, Elf:2)
+  a +0 leather armour
+  a +0 short sword
+(17, -8, Elf:2)
+  a cursed +0 leather armour
+  a +0 short sword
+(17, 19, Elf:2)
+  a +0 leather armour
+  a +0 rapier
+(18, -29, Elf:2)
+  an uncursed dagger
+(18, -28, Elf:2)
+  11 arrows
+  a +0 longbow
+(18, -17, Elf:2)
+  4 arrows
+(18, 6, Elf:2)
+  a +3 glaive of venom
+(18, 19, Elf:2)
+  7 arrows
+(19, -18, Elf:2)
+  an arrow
+(20, -22, Elf:2)
+  2 arrows
+(21, -27, Elf:2)
+  an arrow
+(21, 9, Elf:2)
+  a giant club
+(22, 16, Elf:2)
+  a +0 leather armour
+  10 arrows
+  a +0 dagger
+  a +0 longbow
+(23, -27, Elf:2)
+  2 arrows
+(24, 14, Elf:2)
+  an arrow
+(26, -6, Elf:2)
+  a +4 short sword of flaming
+(26, 19, Elf:2)
+  an uncursed ring of stealth
+(27, -21, Elf:2)
+  a +0 rapier
+  a +0 rapier
+  a +0 leather armour
+(30, -5, Elf:2)
+  a +0 rapier
+(32, -7, Elf:2)
+  a +5 dagger
+(32, -4, Elf:2)
+  the +2 mace of Elachuar {protect, rF+ MR- MP+9}
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It protects you from fire.
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+  a +4 morningstar
+  a +0 leather armour
+  a +0 long sword of draining
+  a cursed -2 long sword
+  a +0 chain mail
+  a +0 dagger
+  a +4 short sword of venom
+  a +1 dire flail of protection
+  a +0 short sword
+  a +3 long sword of draining
+  a +0 buckler
+  a +0 short sword
+(32, -1, Elf:2)
+  a +5 dagger
+(33, -4, Elf:2)
+  a +3 mace of protection
+  a +7 vampiric glaive
+  a +1 vampiric halberd
+  a +0 leather armour
+  a +0 hand axe of venom
+(35, -3, Elf:2)
+  25 arrows
+  a +0 longbow
+(36, -4, Elf:2)
+  a +0 leather armour
+  a +0 rapier
+(42, -27, Elf:2)
+  a +0 scimitar
+  a +0 leather armour
+(44, -33, Elf:2)
+  a +0 short sword
+(45, -33, Elf:2)
+  a +0 short sword
+  a +2 dire flail of holy wrath
+(45, -32, Elf:2)
+  an arrow
+(46, -33, Elf:2)
+  a +3 scimitar of flaming
+(46, -32, Elf:2)
+  a +0 chain mail
+  a +0 shortbow
+  12 arrows
+  a +0 vampiric short sword
+  a +0 war axe of flaming
+  a +3 long sword of holy wrath
+(61, 5, Elf:2)
+  a +0 morningstar
+  a +0 arbalest
+  a +0 scale mail
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
@@ -1548,8 +1814,174 @@ Level 3 of the Spider Nest
   a quarterstaff
 
 Level 4 of the Spider Nest
-(22, 10, Spider:4)
+(0, 0, Spider:4)
   a pair of boots
-(38, 13, Spider:4)
+(16, 3, Spider:4)
   a chain mail
+
+Level 1 of the Vaults
+(0, 0, Vaults:1)
+  a +0 flail
+(0, 1, Vaults:1)
+  a bolt
+  a scroll of remove curse
+(0, 2, Vaults:1)
+  a bolt
+(0, 11, Vaults:1)
+  a bolt
+(1, -14, Vaults:1)
+  a +0 trident
+  (unseen)
+(1, 12, Vaults:1)
+  a bolt
+(1, 13, Vaults:1)
+  a bolt
+(3, 14, Vaults:1)
+  a +0 glaive
+  a +0 chain mail
+(7, -11, Vaults:1)
+  a bolt
+(9, 23, Vaults:1)
+  a bolt
+(11, 22, Vaults:1)
+  a bolt
+(12, -20, Vaults:1)
+  a cursed -3 arbalest
+  20 bolts
+(13, -21, Vaults:1)
+  27 bolts
+(13, -17, Vaults:1)
+  a runed arbalest
+(14, -21, Vaults:1)
+  17 bolts
+(14, -17, Vaults:1)
+  a triple crossbow
+(15, -21, Vaults:1)
+  16 bolts
+(15, -17, Vaults:1)
+  a brightly glowing arbalest
+(16, -21, Vaults:1)
+  8 bolts
+(16, -17, Vaults:1)
+  a triple crossbow
+(16, -12, Vaults:1)
+  a bolt
+(17, -21, Vaults:1)
+  24 bolts
+(17, -17, Vaults:1)
+  an arbalest
+(21, 23, Vaults:1)
+  an arrow
+(22, 24, Vaults:1)
+  a +0 longbow
+  20 arrows
+(23, 18, Vaults:1)
+  a +2 mace of holy wrath
+  a +0 plate armour
+(23, 19, Vaults:1)
+  a +0 dire flail
+  a +0 scale mail
+  a +0 club
+  a +0 robe
+(23, 20, Vaults:1)
+  a +0 giant club (still there?)
+  2 sling bullets (still there?)
+(23, 21, Vaults:1)
+  a +0 short sword
+  (unseen)
+(24, 21, Vaults:1)
+  a +0 flail
+(24, 22, Vaults:1)
+  a scroll of noise
+(26, 25, Vaults:1)
+  a +0 glaive
+  a cursed +0 plate armour
+(26, 26, Vaults:1)
+  a +0 war axe
+  a cursed +0 plate armour
+(28, 28, Vaults:1)
+  3 arrows
+(28, 40, Vaults:1)
+  an arrow
+(30, 32, Vaults:1)
+  a +0 war axe
+  a +0 chain mail
+(33, 40, Vaults:1)
+  a +0 rapier
+(34, 36, Vaults:1)
+  a +0 flail
+  a +0 leather armour
+(34, 37, Vaults:1)
+  a +0 flail
+  a +0 leather armour
+  a scroll labeled DOQONWO VAXEOD
+(35, 37, Vaults:1)
+  a +3 halberd of protection
+  a +0 plate armour
+  a +0 hand axe
+  a +0 plate armour
+(35, 40, Vaults:1)
+  a +0 rapier (still there?)
+  an arrow (still there?)
+(36, 40, Vaults:1)
+  a +1 shortbow of freezing
+  24 arrows
+(37, 38, Vaults:1)
+  a +0 short sword
+  a +0 ring mail
+(40, 33, Vaults:1)
+  a ring of dexterity
+(40, 36, Vaults:1)
+  a +0 mace
+  a +0 mace
+  a +3 dire flail
+(40, 37, Vaults:1)
+  a +0 flail
+  a +3 long sword
+(43, 36, Vaults:1)
+  a scroll of identify
+(44, 37, Vaults:1)
+  a +0 giant spiked club
+(45, 36, Vaults:1)
+  a +0 robe
+  a +0 giant spiked club
+(45, 38, Vaults:1)
+  a +0 halberd
+(55, -11, Vaults:1)
+  16 arrows
+  a +0 shortbow
+  a cursed +0 ring mail
+  a +0 flail
+  50 bolts
+  a +0 arbalest
+  a +0 arbalest
+  a +0 arbalest
+(55, -10, Vaults:1)
+  a +0 troll leather armour
+  a +0 plate armour
+  a +0 great sword
+  a +0 arbalest
+  a +0 chain mail
+  a +0 long sword
+  28 bolts
+(56, -12, Vaults:1)
+  3 bolts
+(56, -11, Vaults:1)
+  26 bolts
+  a +0 arbalest
+(63, -14, Vaults:1)
+  a bolt
+(64, -22, Vaults:1)
+  3 bolts
+(66, -18, Vaults:1)
+  a +0 leather armour
+(67, -19, Vaults:1)
+  7 bolts
+(70, -16, Vaults:1)
+  7 bolts
+(76, -20, Vaults:1)
+  a brightly glowing dagger
+(77, 14, Vaults:1)
+  a +0 giant club
+  a +0 giant spiked club
 
