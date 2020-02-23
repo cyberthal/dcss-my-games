@@ -941,7 +941,7 @@ Level 2 of the Orcish Mines
   an uncursed ring of protection from fire (unknown) (325 gold)
   a cursed ring of teleportation (unknown) (58 gold)
   an uncursed ring of fire (unknown) (325 gold)
-  a cursed -4 ring of intelligence (unknown) (26 gold)
+  a cursed -4 ring of intelligence (26 gold)
   the ring "Yptacvesm" {MR+ Dex+3} (497 gold)
     [ring of protection from magic]
     
@@ -1229,18 +1229,65 @@ Level 2 of the Elven Halls
   a potion of berserk rage (105 gold)
   a potion of lignification (63 gold)
   a potion of lignification (63 gold)
-  a potion of magic (168 gold)
   a potion of brilliance (84 gold)
 (0, 0, Elf:2)
   6 poisoned tomahawks
 (0, 3, Elf:2)
   a crude scale mail
+(1, -4, Elf:2)
+  a +0 rapier
+(1, -3, Elf:2)
+  a +5 ring of intelligence
+  a +0 chain mail
+  6 arrows
+  a +1 longbow of velocity
+  a +0 long sword
+  a +0 long sword
+  a +0 short sword
+(1, 1, Elf:2)
+  a cursed +0 leather armour
+  a +0 longbow
+  a +0 short sword
 (2, -15, Elf:2)
   13 bolts
+(2, -5, Elf:2)
+  an uncursed ring of protection from magic
+  a cursed -1 ring mail
+  a +0 long sword
+  a cursed +0 leather armour
+  a +0 scimitar
+(2, -3, Elf:2)
+  a +0 leather armour
+  a +0 scimitar
+  a cursed +0 ring mail
+  a +0 leather armour of positive energy
+  a +0 long sword
+  a +0 dagger
+(2, 0, Elf:2)
+  a +0 dagger
+(3, -5, Elf:2)
+  3 scrolls of remove curse
+(3, -4, Elf:2)
+  a +0 dagger
+  a +0 scale mail
+  a +0 dagger
+  12 arrows
+  a +0 longbow
+  a +0 long sword
+  a +0 long sword
+(3, -3, Elf:2)
+  a +0 rapier
+  a cursed +0 leather armour
+  a +0 dagger
 (4, -17, Elf:2)
   3 arrows
+(4, -5, Elf:2)
+  a +0 scale mail
+  a +3 long sword
 (4, 21, Elf:2)
   an arrow
+(5, -1, Elf:2)
+  a +0 long sword
 (5, 18, Elf:2)
   a glowing quarterstaff
 (6, -18, Elf:2)
@@ -1250,6 +1297,18 @@ Level 2 of the Elven Halls
   a +0 short sword
 (6, -14, Elf:2)
   an arrow
+(6, -9, Elf:2)
+  a +0 scimitar
+  a +0 leather armour
+  a +0 rapier
+  a +0 rapier
+(6, -5, Elf:2)
+  a +0 short sword
+(6, -4, Elf:2)
+  a +0 leather armour
+  a +0 scimitar
+  a scroll of amnesia
+  a +0 short sword
 (6, 16, Elf:2)
   a +0 long sword
 (7, 20, Elf:2)
@@ -1257,19 +1316,33 @@ Level 2 of the Elven Halls
 (8, -15, Elf:2)
   a cursed -2 leather armour
   a +0 rapier
+(8, -3, Elf:2)
+  a +3 ring of intelligence
+  a +0 rapier
+  a +0 leather armour
+  a +0 rapier
 (8, 18, Elf:2)
+  a +0 long sword
   a +0 leather armour
   19 arrows
   a +0 dagger
   a +0 longbow
 (9, -6, Elf:2)
   a battleaxe
+(9, 2, Elf:2)
+  a +0 leather armour
+  a +0 short sword
 (9, 15, Elf:2)
   an arrow
 (9, 19, Elf:2)
   an arrow
+(10, -32, Elf:2)
+  a +2 long sword of freezing
+  a +5 flail of holy wrath
 (10, -15, Elf:2)
   3 arrows
+(10, 5, Elf:2)
+  an arrow
 (10, 14, Elf:2)
   a +0 long sword
   a +0 leather armour
@@ -1280,10 +1353,6 @@ Level 2 of the Elven Halls
   a +0 rapier
 (11, -17, Elf:2)
   3 arrows
-(11, -4, Elf:2)
-  3 scrolls of remove curse
-(11, 6, Elf:2)
-  an arrow
 (11, 10, Elf:2)
   an arrow
 (11, 13, Elf:2)
@@ -1295,7 +1364,31 @@ Level 2 of the Elven Halls
 (11, 19, Elf:2)
   16 arrows
   a +0 longbow
+(12, -28, Elf:2)
+  a +0 short sword
+  a +0 leather armour
+  a +0 rapier
+  a +0 rapier
+(12, -27, Elf:2)
+  a cursed -3 long sword
+  a +0 chain mail
+  a +0 long sword
+  a cursed -2 rapier
+(12, -26, Elf:2)
+  a +0 long sword (still there?)
+  the +6 morningstar of Spores {freeze, rF++ Str-4} (still there?)
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your strength (-4).
+    It greatly protects you from fire.
+  13 arrows (still there?)
+  a +0 longbow (still there?)
+  +1 ice dragon scales (still there?)
 (12, -17, Elf:2)
+  a +0 ring mail
+  a +0 scimitar
   a +0 flail of crushing
 (12, 8, Elf:2)
   12 arrows
@@ -1305,8 +1398,35 @@ Level 2 of the Elven Halls
   (unseen)
 (12, 19, Elf:2)
   an arrow
+(13, -28, Elf:2)
+  an arrow (still there?)
+  a +0 leather armour (still there?)
+  a +0 short sword (still there?)
+  a +0 short sword (still there?)
+(13, -27, Elf:2)
+  4 arrows
+(13, -26, Elf:2)
+  a +0 leather armour
+  a +5 lajatang of electrocution
+  24 arrows
+  a +0 leather armour
+  a +0 longbow
 (13, -17, Elf:2)
   an arrow
+(14, -28, Elf:2)
+  a +1 eveningstar of pain
+  a +0 ring mail
+  a +0 arbalest
+  a +0 morningstar
+  a +0 shortbow
+  a +0 long sword
+(14, -27, Elf:2)
+  a +0 leather armour
+  8 arrows
+  a +0 longbow
+  a +1 long sword of holy wrath
+  a +0 ring mail
+  a +0 short sword
 (14, -10, Elf:2)
   a square silver amulet
   8 arrows
@@ -1318,9 +1438,18 @@ Level 2 of the Elven Halls
 (14, 8, Elf:2)
   an arrow
 (14, 19, Elf:2)
+  a +0 scale mail
+  a +0 rapier
   13 arrows
   a +0 shortbow
   a cursed -2 long sword
+(15, -28, Elf:2)
+  an arrow (still there?)
+  a cursed +0 rapier (still there?)
+(15, -27, Elf:2)
+  a +0 scimitar
+(15, -26, Elf:2)
+  a +0 short sword of flaming
 (15, -17, Elf:2)
   16 arrows
   a cursed ring of attention
@@ -1341,6 +1470,11 @@ Level 2 of the Elven Halls
 (15, 19, Elf:2)
   an arrow
   a +0 short sword
+(16, -28, Elf:2)
+  a +0 ring mail
+  (unseen)
+(16, -25, Elf:2)
+  a +0 long sword
 (16, -22, Elf:2)
   an arrow
 (16, -17, Elf:2)
@@ -1360,6 +1494,8 @@ Level 2 of the Elven Halls
 (16, 4, Elf:2)
   a +0 short sword
   a cursed +0 leather armour
+(17, -28, Elf:2)
+  a +0 short sword
 (17, -17, Elf:2)
   25 arrows
   a +0 leather armour
@@ -1380,7 +1516,10 @@ Level 2 of the Elven Halls
 (18, -28, Elf:2)
   11 arrows
   a +0 longbow
+(18, -23, Elf:2)
+  a +0 scimitar
 (18, -17, Elf:2)
+  a +0 rapier
   4 arrows
 (18, 6, Elf:2)
   a +3 glaive of venom
@@ -1389,20 +1528,49 @@ Level 2 of the Elven Halls
 (19, -18, Elf:2)
   an arrow
 (20, -22, Elf:2)
-  2 arrows
+  a +0 rapier
+(20, 18, Elf:2)
+  a +0 leather armour
+  (unseen)
 (21, -27, Elf:2)
   an arrow
+(21, -21, Elf:2)
+  2 arrows
 (21, 9, Elf:2)
   a giant club
+(21, 17, Elf:2)
+  a +0 leather armour
+  a +0 short sword
 (22, 16, Elf:2)
+  a +2 mace of protection
   a +0 leather armour
   10 arrows
   a +0 dagger
   a +0 longbow
+(22, 21, Elf:2)
+  a +0 shortbow
 (23, -27, Elf:2)
   2 arrows
+(23, 15, Elf:2)
+  a +0 long sword
 (24, 14, Elf:2)
   an arrow
+(24, 15, Elf:2)
+  a cursed +0 chain mail
+  a +0 dagger
+  a +0 ring mail
+  a +2 antimagic lajatang
+  a +0 dagger
+(24, 18, Elf:2)
+  a +0 buckler
+  a +0 leather armour
+  a +0 short sword
+(25, 14, Elf:2)
+  14 arrows
+  a +0 shortbow
+  a +0 long sword
+(25, 15, Elf:2)
+  a cursed -2 long sword
 (26, -6, Elf:2)
   a +4 short sword of flaming
 (26, 19, Elf:2)
@@ -1410,6 +1578,8 @@ Level 2 of the Elven Halls
 (27, -21, Elf:2)
   a +0 rapier
   a +0 rapier
+  a +0 leather armour
+(28, 17, Elf:2)
   a +0 leather armour
 (30, -5, Elf:2)
   a +0 rapier
@@ -1471,6 +1641,204 @@ Level 2 of the Elven Halls
   a +0 morningstar
   a +0 arbalest
   a +0 scale mail
+
+Level 3 of the Elven Halls
+(0, 0, Elf:3)
+  an arrow
+(1, 10, Elf:3)
+  a phial of floods
+(2, 2, Elf:3)
+  23 arrows
+(2, 9, Elf:3)
+  a +0 rapier
+(4, 9, Elf:3)
+  an arrow
+(4, 10, Elf:3)
+  an arrow
+(4, 12, Elf:3)
+  an arrow
+(5, 4, Elf:3)
+  an arrow
+(5, 5, Elf:3)
+  2 arrows
+(6, 0, Elf:3)
+  an arrow
+(6, 10, Elf:3)
+  a +0 long sword
+(6, 15, Elf:3)
+  an arrow
+(7, 9, Elf:3)
+  2 arrows
+(7, 14, Elf:3)
+  an arrow
+(9, 6, Elf:3)
+  an arrow
+(9, 8, Elf:3)
+  9 arrows
+(9, 12, Elf:3)
+  an arrow
+(10, 3, Elf:3)
+  a hand axe
+(10, 14, Elf:3)
+  2 arrows
+(11, -9, Elf:3)
+  an arrow
+(11, -7, Elf:3)
+  an arrow
+(11, -2, Elf:3)
+  a +0 short sword
+(11, 8, Elf:3)
+  an arrow
+(11, 9, Elf:3)
+  an arrow
+(11, 14, Elf:3)
+  an arrow
+(11, 15, Elf:3)
+  28 arrows
+(11, 17, Elf:3)
+  an arrow
+(12, 10, Elf:3)
+  an arrow
+(12, 11, Elf:3)
+  a +0 ring mail
+  a +0 long sword
+(12, 12, Elf:3)
+  a +0 short sword
+(12, 17, Elf:3)
+  an arrow
+(12, 22, Elf:3)
+  2 arrows
+(13, 12, Elf:3)
+  an arrow
+(13, 17, Elf:3)
+  an arrow
+(17, 21, Elf:3)
+  a bardiche
+(19, -6, Elf:3)
+  a +0 hand axe of electrocution
+  a +0 dagger
+(20, -9, Elf:3)
+  a scroll of remove curse
+(22, -9, Elf:3)
+  an arrow
+(22, 25, Elf:3)
+  a +0 short sword
+  a +0 ring mail
+  an elf skeleton
+(22, 26, Elf:3)
+  an encrusted short sword
+(22, 28, Elf:3)
+  a pitted mace
+(23, 23, Elf:3)
+  an ichor-stained long sword
+(23, 26, Elf:3)
+  a book of Cantrips
+(23, 29, Elf:3)
+  a ring of resist corrosion
+(24, 22, Elf:3)
+  a glowing battleaxe
+(24, 30, Elf:3)
+  a chain mail
+(25, 21, Elf:3)
+  a staff of poison
+(25, 31, Elf:3)
+  a phial of floods
+(27, 21, Elf:3)
+  a runed quick blade
+(27, 31, Elf:3)
+  a glowing arbalest
+(28, 21, Elf:3)
+  a sack of spiders
+(28, 31, Elf:3)
+  an amulet of the gourmand
+(29, 21, Elf:3)
+  a weird smoking staff
+(29, 31, Elf:3)
+  a glowing arbalest
+(30, 22, Elf:3)
+  a glowing scimitar
+(30, 23, Elf:3)
+  a box of beasts
+(30, 30, Elf:3)
+  a tiny jasper amulet
+(31, 29, Elf:3)
+  a bone spear
+(32, 24, Elf:3)
+  a glowing spear
+(32, 25, Elf:3)
+  a runed great sword
+(32, 26, Elf:3)
+  a long sword
+(32, 29, Elf:3)
+  a scroll of amnesia
+(34, 28, Elf:3)
+  a +0 dagger
+(39, -7, Elf:3)
+  a +0 scimitar
+  a +1 chain mail of positive energy
+(40, -8, Elf:3)
+  a cursed -1 ring mail
+  a +0 dagger
+(40, 21, Elf:3)
+  a +0 scimitar
+  a +0 leather armour
+(40, 22, Elf:3)
+  a +0 dagger
+  a +2 leather armour of cold resistance
+(42, 25, Elf:3)
+  a +1 battleaxe of chopping
+(47, 7, Elf:3)
+  25 arrows
+(48, 24, Elf:3)
+  a runed whip
+(48, 26, Elf:3)
+  a runed quick blade
+(48, 28, Elf:3)
+  a short sword
+(49, 23, Elf:3)
+  a leather armour
+(49, 29, Elf:3)
+  a leather armour
+(50, 22, Elf:3)
+  a short sword
+(50, 30, Elf:3)
+  a crystal ball of energy
+(51, 22, Elf:3)
+  a staff of conjuration
+(52, 21, Elf:3)
+  17 bolts
+(52, 31, Elf:3)
+  a ring of wizardry
+(53, -4, Elf:3)
+  22 arrows
+(53, 21, Elf:3)
+  a falchion
+(53, 31, Elf:3)
+  a staff of air
+(53, 32, Elf:3)
+  a potion of haste
+(54, 31, Elf:3)
+  a potion of flight
+(55, 31, Elf:3)
+  a bardiche
+(56, 22, Elf:3)
+  a chain mail
+(56, 23, Elf:3)
+  a twisted jewelled staff
+(57, 23, Elf:3)
+  a war axe
+(57, 26, Elf:3)
+  an ancient battleaxe
+(58, 23, Elf:3)
+  a scroll of brand weapon
+(58, 24, Elf:3)
+  a bloodstained flail
+(58, 25, Elf:3)
+  a glowing battleaxe
+(58, 26, Elf:3)
+  a scroll of identify
+(58, 28, Elf:3)
+  a runed rapier
 
 Level 1 of the Lair of Beasts
 (0, 0, Lair:1)
@@ -1976,12 +2344,14 @@ Level 1 of the Vaults
 (66, -18, Vaults:1)
   a +0 leather armour
 (67, -19, Vaults:1)
+  14 bolts
+(70, -15, Vaults:1)
   7 bolts
-(70, -16, Vaults:1)
-  7 bolts
+(75, -7, Vaults:1)
+  a bolt
 (76, -20, Vaults:1)
   a brightly glowing dagger
 (77, 14, Vaults:1)
-  a +0 giant club
   a +0 giant spiked club
+  a +0 giant club
 
