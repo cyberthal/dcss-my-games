@@ -2018,11 +2018,13 @@ Level 1 of the Vaults
 (30, 32, Vaults:1)
   a +0 chain mail
   a +0 war axe
+(32, 16, Vaults:1)
+  an ugly thing skeleton
 (33, 40, Vaults:1)
   a +0 rapier
 (34, 17, Vaults:1)
-  a +0 club
   a +0 robe
+  a +0 club
 (34, 36, Vaults:1)
   a +0 leather armour
   a +0 flail
@@ -2104,6 +2106,10 @@ Level 2 of the Vaults
   a scroll of immolation
 (17, -2, Vaults:2)
   an arrow
+(18, -9, Vaults:2)
+  a +0 giant club
+(24, -12, Vaults:2)
+  a +0 giant club
 (25, -3, Vaults:2)
   a scroll of remove curse
 (26, -7, Vaults:2)
@@ -2118,7 +2124,7 @@ Level 2 of the Vaults
   a +0 giant spiked club
   (unseen)
 (28, -8, Vaults:2)
-  a +0 spear
+  a +0 robe
   (unseen)
 (31, -11, Vaults:2)
   a javelin of penetration
@@ -2137,7 +2143,6 @@ Level 4 of the Vaults
 (0, 0, Vaults:4)
   a large rock
   a +0 rapier
-  an elf corpse (skeletalised by now)
 (1, 1, Vaults:4)
   3 large rocks
 (1, 2, Vaults:4)
@@ -2160,8 +2165,6 @@ Level 4 of the Vaults
   a +0 mace
 (7, 2, Vaults:4)
   a large rock
-(13, 12, Vaults:4)
-  a shapeshifter corpse
 (15, 15, Vaults:4)
   a +0 morningstar
   a cursed +0 ring mail
