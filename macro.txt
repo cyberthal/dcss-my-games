@@ -10,13 +10,13 @@ M:1
 A:PVPD<PE>wc
 
 M:2
-A:PVPD<PE>wi
+A:PVPD<PE>wj
 
 M:3
 A:PVPq<PX>wc
 
 M:4
-A:PVPD<PA>wi
+A:PVPD<PA>wj
 
 M:;
 A:Xo

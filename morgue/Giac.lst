@@ -637,13 +637,11 @@ Level 14 of the Dungeon
   a +1 helmet of see invisible
 (29, -6, D:14)
   a +2 robe of magic resistance
-  a crude scale mail
   a +0 chain mail of fire resistance
   the +3 leather armour "Jiwn" {rN+ Str+3}
     It affects your strength (+3).
     It protects you from negative energy.
   a +1 robe of resistance
-  a runed buckler
   a +4 chain mail of poison resistance
   a +0 troll leather armour
   a crystal plate armour
@@ -659,6 +657,7 @@ Level 14 of the Dungeon
   a +2 buckler
   +0 fire dragon scales
   +1 ice dragon scales
+  a crude scale mail
   a +2 leather armour of cold resistance
   a +1 chain mail of positive energy
 (30, -8, D:14)
@@ -672,9 +671,7 @@ Level 14 of the Dungeon
   7 steel tomahawks
   a +5 spear of flaming
   a +2 demon whip of flaming
-  a +2 blowgun
   a +0 demon trident of freezing
-  12 poisoned needles
   a +3 war axe
   a +5 flail of holy wrath
   the +6 morningstar of Spores {freeze, rF++ Str-4}
@@ -688,17 +685,9 @@ Level 14 of the Dungeon
   a +4 quick blade
   516 bolts
 (30, -6, D:14)
-  the +5 long sword of Asaan {flame, Int+3}
-    It has been specially enchanted to burn those struck by it, causing extra
-    injury to most foes and up to half again as much damage against particularly
-    susceptible opponents. Big, fiery blades are also staple armaments of
-    hydra-hunters.
-    
-    It affects your intelligence (+3).
-  the +2 mace of Iconoclasm {crush, rC+}
-    It inflicts extra damage upon your enemies.
-    
-    It protects you from cold.
+  a +2 blowgun
+  a +5 dagger of venom
+  a +0 flail of protection
   a +1 short sword of speed
   a +0 antimagic spear
   a +2 spear of venom
@@ -752,6 +741,17 @@ Level 14 of the Dungeon
   a +0 rapier of electrocution
   a +2 scimitar of venom
   a +5 spear of freezing
+  the +5 long sword of Asaan {flame, Int+3}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It affects your intelligence (+3).
+  the +2 mace of Iconoclasm {crush, rC+}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you from cold.
   a +2 scimitar of draining
   the +5 flail "Coilotis" {drain, Fragile rF+++ rN+}
     A truly terrible weapon, it drains the life of those it strikes.
@@ -764,7 +764,6 @@ Level 14 of the Dungeon
   a +0 hand axe of electrocution
 (31, -8, D:14)
   a triple crossbow
-  a brightly glowing arbalest
   a triple crossbow
   a runed arbalest
   a runed great sword
@@ -804,6 +803,7 @@ Level 14 of the Dungeon
   a +1 battleaxe of chopping
 (32, -8, D:14)
   a scroll labeled DOQONWO VAXEOD
+  a heavily runed marble ring
 (32, -7, D:14)
   an uncursed staff of conjuration
   an uncursed ring of resist corrosion
@@ -818,7 +818,7 @@ Level 14 of the Dungeon
   a potion of resistance
   an uncursed ring of magical power
   2 scrolls of immolation
-  a potion of cancellation
+  2 potions of cancellation
   7 potions of ambrosia
   a scroll of summoning
   2 scrolls of fear
@@ -837,7 +837,6 @@ Level 14 of the Dungeon
   an uncursed staff of wizardry
   5 scrolls of amnesia
   a crystal ball of energy
-  a potion of haste
   5 potions of flight
   13 scrolls of remove curse
   an uncursed ring of wizardry
@@ -1278,11 +1277,9 @@ Level 1 of the Elven Halls
 Level 2 of the Elven Halls
 [Shop] Isupn's Distillery
   a potion of mutation (168 gold)
-  a potion of cancellation (168 gold)
   a potion of berserk rage (105 gold)
   a potion of lignification (63 gold)
   a potion of lignification (63 gold)
-  a potion of brilliance (84 gold)
 (0, 0, Elf:2)
   a +0 rapier
 (0, 1, Elf:2)
@@ -1560,70 +1557,68 @@ Level 2 of the Elven Halls
 
 Level 3 of the Elven Halls
 (0, 0, Elf:3)
-  a phial of floods
-(1, -1, Elf:3)
   a +0 rapier
-(5, 0, Elf:3)
+(4, 1, Elf:3)
   a +0 long sword
-(9, -7, Elf:3)
+(8, -6, Elf:3)
   a hand axe
-(10, -12, Elf:3)
+(9, -11, Elf:3)
   a +0 short sword
-(11, 1, Elf:3)
+(10, 2, Elf:3)
   a +0 ring mail
   a +0 long sword
-(11, 2, Elf:3)
+(10, 3, Elf:3)
   a +0 short sword
-(16, 11, Elf:3)
+(15, 12, Elf:3)
   a bardiche
-(18, -16, Elf:3)
+(17, -15, Elf:3)
   a +0 dagger
-(21, 15, Elf:3)
+(20, 16, Elf:3)
   a +0 ring mail
   a +0 short sword
-(22, 19, Elf:3)
+(21, 20, Elf:3)
   a ring of resist corrosion
-(23, 20, Elf:3)
+(22, 21, Elf:3)
   a chain mail
-(24, 11, Elf:3)
+(23, 12, Elf:3)
   a staff of poison
-(24, 21, Elf:3)
+(23, 22, Elf:3)
   a phial of floods
-(27, 21, Elf:3)
+(26, 22, Elf:3)
   an amulet of the gourmand
-(31, 16, Elf:3)
+(30, 17, Elf:3)
   a long sword
-(33, 18, Elf:3)
+(32, 19, Elf:3)
   a +0 dagger
-(38, -17, Elf:3)
+(37, -16, Elf:3)
   a +0 scimitar
-(39, -18, Elf:3)
+(38, -17, Elf:3)
   a cursed -1 ring mail
   a +0 dagger
-(39, 11, Elf:3)
+(38, 12, Elf:3)
   a +0 scimitar
   a +0 leather armour
-(39, 12, Elf:3)
+(38, 13, Elf:3)
   a +0 dagger
-(47, 18, Elf:3)
+(46, 19, Elf:3)
   a short sword
+(47, 14, Elf:3)
+  a leather armour
+(47, 20, Elf:3)
+  a leather armour
 (48, 13, Elf:3)
-  a leather armour
-(48, 19, Elf:3)
-  a leather armour
-(49, 12, Elf:3)
   a short sword
-(50, 12, Elf:3)
+(49, 13, Elf:3)
   a staff of conjuration
-(52, 11, Elf:3)
+(51, 12, Elf:3)
   a falchion
-(52, 21, Elf:3)
+(51, 22, Elf:3)
   a staff of air
-(54, 21, Elf:3)
+(53, 22, Elf:3)
   a bardiche
-(55, 12, Elf:3)
+(54, 13, Elf:3)
   a chain mail
-(56, 13, Elf:3)
+(55, 14, Elf:3)
   a war axe
 
 Level 1 of the Lair of Beasts
@@ -1984,8 +1979,45 @@ Level 1 of the Vaults
   a +0 glaive
 (12, -20, Vaults:1)
   a cursed -3 arbalest
+(12, -3, Vaults:1)
+  8 bolts
+  a +0 arbalest
+(12, -2, Vaults:1)
+  a +0 giant club
+  a +0 giant club
+  a +0 arbalest
+  a +0 arbalest
+(12, -1, Vaults:1)
+  a +0 arbalest
+  44 bolts
+(12, 1, Vaults:1)
+  a +0 mace
+(13, -3, Vaults:1)
+  a +0 halberd
+  a +0 robe
+  a +0 glaive
+(13, -1, Vaults:1)
+  a +0 glaive (still there?)
+  a +0 giant club (still there?)
+  a +0 giant club (still there?)
+(14, -3, Vaults:1)
+  a +0 robe
+  a +0 dagger
+(14, -2, Vaults:1)
+  a cursed +0 scimitar
+  a +0 giant spiked club
+  a +0 giant spiked club
+  5 bolts
+  a +0 arbalest
+(14, -1, Vaults:1)
+  a +0 giant club
+  a cursed -2 giant spiked club
+  a +0 ring mail
+  a +0 long sword
 (17, -17, Vaults:1)
   an arbalest
+(18, 8, Vaults:1)
+  a +0 giant spiked club
 (22, 24, Vaults:1)
   a +0 longbow
 (23, 18, Vaults:1)
@@ -2018,11 +2050,31 @@ Level 1 of the Vaults
 (30, 32, Vaults:1)
   a +0 chain mail
   a +0 war axe
+(32, 15, Vaults:1)
+  a +0 chain mail
+  a +0 mace
 (32, 16, Vaults:1)
-  an ugly thing skeleton
+  a +0 scale mail
+  a +0 falchion
+  a +0 chain mail
+  a +0 flail
+(32, 17, Vaults:1)
+  a +0 leather armour
+  a +0 mace
+(33, 15, Vaults:1)
+  a +0 robe (still there?)
+  a +0 whip (still there?)
 (33, 40, Vaults:1)
   a +0 rapier
+(34, 15, Vaults:1)
+  a +0 chain mail
+  a +0 great sword
+(34, 16, Vaults:1)
+  a +0 chain mail
+  a +0 broad axe
 (34, 17, Vaults:1)
+  a +0 scale mail
+  a +0 falchion
   a +0 robe
   a +0 club
 (34, 36, Vaults:1)
@@ -2092,42 +2144,154 @@ Level 2 of the Vaults
   an uncursed amulet of magic regeneration (600 gold)
   an uncursed ring of flight (unknown) (350 gold)
 (0, 0, Vaults:2)
-  a cursed -3 long sword
+  2 steel tomahawks
+(1, -15, Vaults:2)
+  a staff of air
+(10, -9, Vaults:2)
+  a shapeshifter corpse
+(10, -6, Vaults:2)
+  a ring mail
+(19, -1, Vaults:2)
   a +0 scale mail
+  a cursed -3 long sword
   a +0 dagger
-(13, -3, Vaults:2)
+(23, -28, Vaults:2)
   an arrow
-(14, 4, Vaults:2)
+(23, 5, Vaults:2)
+  23 arrows
+(24, 2, Vaults:2)
+  3 scrolls of identify
+(25, -28, Vaults:2)
+  an arrow
+(25, -27, Vaults:2)
+  2 arrows
+(25, 2, Vaults:2)
+  a glowing buckler
+(29, -27, Vaults:2)
+  an arrow
+(29, -16, Vaults:2)
+  2 large rocks
+(30, -26, Vaults:2)
+  a +0 shortbow
+  14 arrows
+(30, -13, Vaults:2)
+  a +0 leather armour
+  a +0 dagger
+(31, -25, Vaults:2)
+  2 arrows
+(31, -24, Vaults:2)
+  an arrow
+(32, -4, Vaults:2)
+  an arrow
+(32, 5, Vaults:2)
+  4 large rocks
+(33, 3, Vaults:2)
   a potion of degeneration
-(16, -2, Vaults:2)
+(33, 20, Vaults:2)
+  a +0 dire flail
+  a +0 leather armour
+(33, 21, Vaults:2)
+  a +0 troll leather armour
+(35, -21, Vaults:2)
+  a large rock
+(35, -3, Vaults:2)
   a +0 shortbow
   15 arrows
-(17, -3, Vaults:2)
+(36, -4, Vaults:2)
   a scroll of immolation
-(17, -2, Vaults:2)
+(36, -3, Vaults:2)
   an arrow
-(18, -9, Vaults:2)
+(37, -10, Vaults:2)
   a +0 giant club
-(24, -12, Vaults:2)
+(39, -27, Vaults:2)
+  2 large rocks
+(43, -13, Vaults:2)
   a +0 giant club
-(25, -3, Vaults:2)
+(44, -4, Vaults:2)
   a scroll of remove curse
-(26, -7, Vaults:2)
+(45, -8, Vaults:2)
+  a +0 robe
   a +0 dagger
-  (unseen)
-(27, -6, Vaults:2)
+(46, -20, Vaults:2)
+  a large rock
+(46, -7, Vaults:2)
   a +0 giant club
   a +0 giant club
   a +0 giant club
   a +0 giant club
-(27, -5, Vaults:2)
+(46, -6, Vaults:2)
+  a +0 giant club
+  a +0 giant spiked club
+(47, -9, Vaults:2)
+  a +0 robe
+  a +0 spear
+(48, -6, Vaults:2)
   a +0 giant spiked club
   (unseen)
-(28, -8, Vaults:2)
-  a +0 robe
-  (unseen)
-(31, -11, Vaults:2)
-  a javelin of penetration
+(50, -13, Vaults:2)
+  a +0 plate armour
+  a +0 long sword
+  a +0 broad axe of flaming
+(51, -15, Vaults:2)
+  a bolt
+(52, -16, Vaults:2)
+  25 bolts
+  a +0 arbalest
+(53, -30, Vaults:2)
+  8 curare-tipped needles
+(53, -17, Vaults:2)
+  +0 acid dragon scales
+  a +0 arbalest
+  18 bolts
+(53, -16, Vaults:2)
+  a +0 arbalest
+  15 bolts
+(59, 19, Vaults:2)
+  11 stones
+(59, 25, Vaults:2)
+  a bolt
+(59, 28, Vaults:2)
+  2 bolts
+(60, 21, Vaults:2)
+  a robe
+(60, 22, Vaults:2)
+  7 bolts
+  a +0 arbalest
+(60, 25, Vaults:2)
+  a bolt
+(61, 22, Vaults:2)
+  a bolt
+(61, 25, Vaults:2)
+  10 bolts
+  a +0 arbalest
+(62, -23, Vaults:2)
+  a bolt
+(62, 24, Vaults:2)
+  a bolt
+(62, 25, Vaults:2)
+  a bolt
+(62, 26, Vaults:2)
+  4 bolts
+(63, 24, Vaults:2)
+  2 bolts
+(63, 26, Vaults:2)
+  a bolt
+(63, 27, Vaults:2)
+  15 bolts
+(63, 30, Vaults:2)
+  a bolt
+(64, -24, Vaults:2)
+  a bolt
+(64, 26, Vaults:2)
+  a bolt
+(65, 30, Vaults:2)
+  a bolt
+(66, 30, Vaults:2)
+  2 bolts
+(68, -25, Vaults:2)
+  a bolt
+(69, -26, Vaults:2)
+  a bolt
 
 Level 3 of the Vaults
 (0, 0, Vaults:3)
