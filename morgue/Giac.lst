@@ -632,11 +632,26 @@ Level 14 of the Dungeon
   a +0 shortbow
 (28, -33, D:14)
   a large rock
+(29, -8, D:14)
+  a shiny plate armour
+  a shiny ring mail
+  a runed scale mail
+  a shiny chain mail
 (29, -7, D:14)
+  a +0 hand axe
   a +2 crystal plate armour
   a +1 helmet of see invisible
 (29, -6, D:14)
+  a +2 robe of magic resistance
+  a +0 chain mail of cold resistance
   a +0 troll leather armour
+  a +2 buckler
+  a +2 robe of magic resistance
+  +0 ice dragon scales
+  a +0 troll leather armour
+  a +0 troll leather armour
+  a +2 scale mail of cold resistance
+  +0 storm dragon scales
   a +2 robe of magic resistance
   a +0 chain mail of fire resistance
   the +3 leather armour "Jiwn" {rN+ Str+3}
@@ -647,7 +662,6 @@ Level 14 of the Dungeon
   a +0 troll leather armour
   a crystal plate armour
   a twisted robe
-  a +0 shield
   a +2 robe of cold resistance
   a +4 ring mail of cold resistance
   a +4 chain mail of fire resistance
@@ -661,36 +675,31 @@ Level 14 of the Dungeon
   a crude scale mail
   a +2 leather armour of cold resistance
   a +1 chain mail of positive energy
+(29, -5, D:14)
+  a +1 cloak
+  a +2 pair of gloves
 (30, -7, D:14)
+  2 needles of sleeping
+  a +0 hand crossbow of freezing
+  a +1 eveningstar of pain
   a +4 hand axe
+  a tomahawk of dispersal
   16 javelins of returning
   9 steel tomahawks
   a +5 spear of flaming
-  44 stones
+  169 stones
   a +0 demon trident of freezing
   a +3 war axe
+  a +4 morningstar of crushing
   a +5 flail of holy wrath
   6 poisoned tomahawks
-  a +4 quick blade
-  757 bolts
-  25 poisoned needles
+  a +4 double sword of draining
+  1085 bolts
 (30, -6, D:14)
-  a +4 rapier of electrocution
-  a +4 morningstar of crushing
-  a +5 trident of freezing
-  a +0 hand axe of electrocution
-  the cursed +0 short sword of the Beast {elec, +Rage rPois rF+ Int+4}
-    Occasionally, upon striking a foe, it will discharge some electrical energy
-    and cause terrible harm.
-    
-    It affects your intelligence (+4).
-    It protects you from fire.
-    It protects you from poison.
-    It lets you go berserk.
-    It has a curse placed upon it.
   a +1 shortbow of flaming
   a +2 long sword of holy wrath
   a +1 short sword of speed
+  a +3 morningstar
   a +0 antimagic spear
   a +2 spear of venom
   a +2 spear of venom
@@ -703,9 +712,19 @@ Level 14 of the Dungeon
   a +0 trident of protection
   a +3 vampiric short sword
   a +0 long sword of electrocution
+  a +4 rapier of electrocution
   a +2 short sword of venom
   a +4 short sword of venom
   a +3 long sword
+  the cursed +0 short sword of the Beast {elec, +Rage rPois rF+ Int+4}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It affects your intelligence (+4).
+    It protects you from fire.
+    It protects you from poison.
+    It lets you go berserk.
+    It has a curse placed upon it.
   the +8 mace of the Forsaken Beggars {speed, Fragile +Inv rPois Str+4}
     Attacks with this weapon are significantly faster.
     
@@ -732,6 +751,8 @@ Level 14 of the Dungeon
     It affects your resistance to hostile enchantments.
     It affects your magic capacity (+9).
   a +2 mace of protection
+  a +3 long sword
+  a +5 trident of freezing
   a +3 hand axe of chopping
   a +3 hand axe
   a +3 dagger of electrocution
@@ -778,56 +799,66 @@ Level 14 of the Dungeon
   a +5 dagger of venom
   a +0 flail of protection
   a +1 spear of venom
-(31, -8, D:14)
-  a triple crossbow
-  a triple crossbow
-  a runed arbalest
-  a runed great sword
-  a glowing battleaxe
-  a glowing quarterstaff
-  a glowing battleaxe
-  a glowing arbalest
-  a glowing arbalest
-  an ancient battleaxe
-  a glowing battleaxe
+  a +0 hand axe of electrocution
 (31, -7, D:14)
-  a +1 dire flail of protection
+  a +1 dire flail of holy wrath
+  a +0 triple crossbow
+  a vampiric battleaxe
   a +3 halberd of protection
   a +1 shortbow of freezing
   a +1 vampiric trident
-  a +0 shortbow of freezing
-  a +0 longbow of velocity
-  a +1 halberd of protection
-  a +4 halberd
-  a +1 great sword of electrocution
   a +2 great mace of protection
-  a +3 dire flail
-  a +2 battleaxe of flaming
-  a +2 battleaxe of chopping
+  a +7 vampiric great sword
+  a +5 arbalest of flaming
+  a +3 dire flail of venom
   a +2 glaive of protection
-  a +1 dire flail of protection
-  a +2 dire flail of holy wrath
   a +1 vampiric halberd
   a +7 vampiric glaive
   a +1 dire flail of protection
   a +5 lajatang of electrocution
   a +1 longbow of velocity
-  a +3 glaive of venom
   a +2 antimagic lajatang
-  1722 arrows
+  1833 arrows
+  a +2 great sword of electrocution
+  a +6 battleaxe of chopping
+  a +2 battleaxe of electrocution
+(31, -6, D:14)
+  a +0 shortbow of flaming
+  a +0 triple crossbow
+  a +0 shortbow of freezing
+  a +3 arbalest of freezing
+  a +0 longbow of velocity
+  a -2 quarterstaff
+  a +1 halberd of protection
+  a +4 halberd
+  a +1 great sword of electrocution
+  a +2 great mace of protection
+  a +0 arbalest of freezing
+  a +2 glaive
+  a +3 glaive of venom
+  a +2 dire flail of holy wrath
+  a +1 dire flail of protection
+  a +2 battleaxe of flaming
+  a +2 battleaxe of chopping
+  a +3 dire flail
+  a +1 dire flail of protection
   a +1 battleaxe of chopping
 (32, -7, D:14)
-  a wand of flame (17)
-  4 potions of berserk rage
-  7 potions of haste
-  a scroll of identify
-  a wand of digging (3)
   an uncursed staff of conjuration
+  a wand of digging (4)
+  the amulet "Aloaty" {+Blink Regen+ Str+3 Int+3 Dex-5}
+    [amulet of regeneration]
+    
+    It affects your strength (+3).
+    It affects your intelligence (+3).
+    It affects your dexterity (-5).
+    It lets you blink.
+    It increases your rate of regeneration.
+  a +6 amulet of reflection
+  a wand of paralysis (15)
   an uncursed ring of resist corrosion
   an uncursed ring of stealth
-  3 scrolls of noise
-  a wand of digging (1)
-  2 scrolls of vulnerability
+  5 scrolls of vulnerability
   an uncursed ring of protection from cold
   a phantom mirror
   an uncursed amulet of the gourmand
@@ -837,11 +868,10 @@ Level 14 of the Dungeon
   2 potions of cancellation
   7 potions of ambrosia
   a scroll of summoning
-  2 scrolls of fear
-  a wand of clouds (2)
+  3 scrolls of fear
   an uncursed ring of magical power
-  an uncursed amulet of faith
   an uncursed staff of air
+  4 scrolls of identify
   a scroll of brand weapon
   3 potions of mutation
   a wand of disintegration (6)
@@ -851,18 +881,14 @@ Level 14 of the Dungeon
   an uncursed ring of stealth
   an uncursed staff of power
   an uncursed staff of wizardry
-  5 scrolls of amnesia
+  6 scrolls of amnesia
   a crystal ball of energy
   5 potions of flight
-  14 scrolls of remove curse
+  12 scrolls of remove curse
   an uncursed ring of wizardry
   an uncursed amulet of magic regeneration
-  2 potions of might
-  a wand of paralysis (15)
-  an uncursed amulet of rage
-  an uncursed amulet of the acrobat
-(32, -6, D:14)
-  a +3 ring of dexterity
+  a wand of flame (17)
+  7 potions of haste
   the ring "Gittucoi" {Ice MR+}
     [ring of ice]
     
@@ -870,6 +896,16 @@ Level 14 of the Dungeon
     It makes you vulnerable to fire.
     It protects you from cold.
     It affects your resistance to hostile enchantments.
+  2 potions of might
+  an uncursed amulet of rage
+  an uncursed amulet of the acrobat
+(32, -6, D:14)
+  a +1 ring of slaying
+  the +9 sword of Zonguldrok {reap}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+  a -4 ring of protection
+  a +3 ring of dexterity
   an amulet of magic regeneration
 (32, -5, D:14)
   a +0 dagger
@@ -918,10 +954,23 @@ Level 15 of the Dungeon
   a chain mail
 (31, -5, D:15)
   2 large rocks
+(41, -22, D:15)
+  a +0 troll leather armour
+  a +0 robe
+  a +0 whip
+(42, -22, D:15)
+  a +0 robe
+  a +0 battleaxe of freezing
+  a +0 long sword
 (42, -7, D:15)
   a hand axe
+(43, -24, D:15)
+  a +0 troll leather armour
 (43, -3, D:15)
   3 large rocks
+(46, -18, D:15)
+  a +0 robe
+  a +0 whip
 (49, -24, D:15)
   a +0 robe
   a +0 war axe
@@ -1302,7 +1351,6 @@ Level 1 of the Elven Halls
 Level 2 of the Elven Halls
 [Shop] Isupn's Distillery
   a potion of mutation (168 gold)
-  a potion of berserk rage (105 gold)
   a potion of lignification (63 gold)
   a potion of lignification (63 gold)
 (0, 0, Elf:2)
@@ -2158,13 +2206,13 @@ Level 1 of the Vaults
 
 Level 2 of the Vaults
 [Shop] Qadogeut's Jewellery Shop
-  a +4 ring of protection (unknown) (720 gold)
+  a +4 ring of protection (720 gold)
   an uncursed amulet of the acrobat (600 gold)
   an uncursed amulet of rage (800 gold)
   an uncursed amulet of guardian spirit (unknown) (600 gold)
   a cursed amulet of rage (740 gold)
   a +5 ring of dexterity (824 gold)
-  a +2 ring of protection (unknown) (200 gold)
+  a +2 ring of protection (200 gold)
   an uncursed ring of protection from cold (500 gold)
   an uncursed ring of protection from fire (unknown) (500 gold)
   an uncursed ring of protection from fire (unknown) (500 gold)
@@ -2176,7 +2224,7 @@ Level 2 of the Vaults
   a ring mail
 (12, -22, Vaults:2)
   a +0 plate armour
-  (unseen)
+  a +0 great mace
 (13, -20, Vaults:2)
   a +0 ring mail
   a +0 flail
@@ -2212,7 +2260,7 @@ Level 2 of the Vaults
   a +0 arbalest
 (19, -25, Vaults:2)
   a +0 scale mail
-  (unseen)
+  a +0 dagger
 (20, -25, Vaults:2)
   a cursed -3 long sword
 (29, -39, Vaults:2)
@@ -2298,7 +2346,6 @@ Level 3 of the Vaults
   a scroll of identify (40 gold)
   a scroll of remove curse (60 gold)
   a scroll of identify (40 gold)
-  a scroll of brand weapon (400 gold)
   a scroll of summoning (190 gold)
   a scroll of identify (40 gold)
   a scroll of identify (40 gold)
@@ -2311,6 +2358,14 @@ Level 3 of the Vaults
 (1, 1, Vaults:3)
   a +0 long sword
   a +0 plate armour
+(2, 10, Vaults:3)
+  a +0 flail
+(3, 10, Vaults:3)
+  a +0 dire flail
+  a +0 great mace
+(4, 10, Vaults:3)
+  a +0 plate armour
+  a +0 war axe
 (5, -6, Vaults:3)
   a +0 leather armour
   a +0 short sword
@@ -2342,8 +2397,15 @@ Level 3 of the Vaults
   a +0 chain mail
   a +0 great sword
   a +0 arbalest
+(66, -28, Vaults:3)
+  a +0 morningstar
+  a +0 leather armour
+  a +0 dire flail
+  a +0 giant club
 (66, 13, Vaults:3)
   a +0 shortbow
+(67, -26, Vaults:3)
+  a +0 robe
 (68, 4, Vaults:3)
   a +0 plate armour
   a +1 great sword
@@ -2357,42 +2419,753 @@ Level 3 of the Vaults
 
 Level 4 of the Vaults
 (0, 0, Vaults:4)
+  a +0 giant club
+(0, 2, Vaults:4)
+  a +0 chain mail
+  a +0 trident
+  a +0 arbalest
+(1, 0, Vaults:4)
+  a +0 chain mail
+(1, 1, Vaults:4)
+  a cursed -2 dagger
+(1, 2, Vaults:4)
+  a +0 plate armour
+  a +0 long sword
+  a +0 ring mail
+  a +0 morningstar
+  a +0 battleaxe
+(1, 3, Vaults:4)
+  a +0 battleaxe of freezing
+(2, 1, Vaults:4)
+  a +0 ring mail
+  a +0 morningstar
+(3, 0, Vaults:4)
+  a +0 plate armour
+(3, 4, Vaults:4)
+  a robe
+(4, 3, Vaults:4)
+  a +0 giant club
+  a cursed -1 giant club
+  a club
+(6, 3, Vaults:4)
+  a chain mail
+  a +0 dire flail
+  a +0 dire flail
+(6, 20, Vaults:4)
+  a +0 long sword
+(7, 19, Vaults:4)
+  +0 ice dragon scales
+(9, -8, Vaults:4)
+  a +0 shortbow
+(9, -5, Vaults:4)
+  a large rock
+(10, -21, Vaults:4)
+  a +0 arbalest
+(10, -19, Vaults:4)
+  a +0 short sword
+(10, -18, Vaults:4)
+  2 large rocks
+  a +0 leather armour
+  a -3 dagger
+  a +0 scale mail
+(10, -17, Vaults:4)
+  a large rock
+(10, -7, Vaults:4)
+  a large rock
+(10, -6, Vaults:4)
+  a large rock
+  a +0 chain mail
+(10, -3, Vaults:4)
+  a +0 ring mail
+  a +0 great mace
+(10, 27, Vaults:4)
+  a +0 giant club
+(11, 5, Vaults:4)
+  a +0 giant club
+(11, 28, Vaults:4)
+  a +0 robe
+  a +0 spear
+(12, -24, Vaults:4)
+  a ring mail
+(12, 5, Vaults:4)
+  a +0 scale mail
+  a +0 dire flail
+  a +0 arbalest
+  a +0 dire flail
+  a +0 giant spiked club
+(12, 28, Vaults:4)
+  a +0 giant club
+  a cursed -1 giant club
+(13, 4, Vaults:4)
+  a +0 battleaxe of freezing
+  a +0 plate armour
+  a +0 arbalest
+  a +0 robe
+  a +0 dagger
+(13, 5, Vaults:4)
+  a +0 arbalest
+(16, 3, Vaults:4)
+  a cursed -2 giant spiked club
+(16, 25, Vaults:4)
+  a +0 plate armour
+  a +3 great mace of draining
+  a +0 plate armour
+  a +0 great sword
+(17, -23, Vaults:4)
+  a dagger
+(17, 24, Vaults:4)
+  76 tomahawks
+  a +0 chain mail
+  a +0 battleaxe
+(17, 25, Vaults:4)
+  a +0 plate armour
+  a +0 war axe
+(20, 21, Vaults:4)
+  a +0 plate armour
+(20, 23, Vaults:4)
+  a cursed -3 morningstar
+  a +0 dire flail
+(21, -4, Vaults:4)
+  a halberd
+(21, 24, Vaults:4)
+  a +0 dagger
+(22, 7, Vaults:4)
+  a war axe
+(22, 25, Vaults:4)
+  a +0 ring mail
+  a +0 dire flail
+(23, 22, Vaults:4)
+  a +0 plate armour
+(23, 23, Vaults:4)
+  a +0 plate armour
+  a +3 long sword
+(24, -4, Vaults:4)
+  a scroll of random uselessness
+(24, 21, Vaults:4)
+  a leather armour
+(24, 22, Vaults:4)
+  a cursed +0 plate armour
+  a cursed -2 hand axe
+  a +0 arbalest
+(25, 22, Vaults:4)
+  a +1 robe
+  a +1 dagger of venom
+  a +0 chain mail
+  a +0 long sword
+(25, 23, Vaults:4)
+  a +0 plate armour
+  a +0 long sword
+(25, 26, Vaults:4)
+  a dagger
+(28, -17, Vaults:4)
+  a cloak
+(30, -19, Vaults:4)
+  a +0 longbow
+(33, 9, Vaults:4)
+  19 bolts
+  a +0 arbalest
+(35, -18, Vaults:4)
+  a +0 arbalest
+(38, -17, Vaults:4)
+  a fustibalus
+(43, -3, Vaults:4)
   a large rock
   a +0 rapier
-(1, 1, Vaults:4)
+(44, -2, Vaults:4)
   3 large rocks
-(1, 2, Vaults:4)
-  a scroll of identify
-(2, 1, Vaults:4)
+(44, -1, Vaults:4)
+  +0 ice dragon scales
+(45, -2, Vaults:4)
   a +0 dagger
-(4, 2, Vaults:4)
+(47, -1, Vaults:4)
   a cursed +0 scale mail
-  (unseen)
-(5, 1, Vaults:4)
+  a +0 falchion
+(47, 15, Vaults:4)
+  a +0 chain mail
+  a +0 battleaxe
+(47, 16, Vaults:4)
+  a +0 chain mail
+  a +0 battleaxe
+(48, -33, Vaults:4)
+  a chain mail
+(48, -2, Vaults:4)
   a large rock
-(5, 3, Vaults:4)
+(48, 0, Vaults:4)
   a +0 long sword
   a +0 rapier
-(6, 4, Vaults:4)
+(48, 15, Vaults:4)
+  a +0 short sword
+  a +0 leather armour
+  8 arrows
+  a +0 longbow
+  a +0 dagger
+  a +0 plate armour
+  a +0 long sword
+(48, 16, Vaults:4)
+  a +0 troll leather armour
+  6 bolts
+  a cursed -3 arbalest
+  a +0 chain mail
+  a +0 great mace
+  a +0 chain mail
+  a +0 battleaxe of freezing
+(48, 17, Vaults:4)
+  a +0 ring mail
+  a +0 great mace
+  a +0 chain mail
+  a +0 long sword
+(49, 1, Vaults:4)
   a +0 scale mail
   a +0 great mace
-(7, 1, Vaults:4)
+(49, 14, Vaults:4)
+  a +0 leather armour
+  a +0 long sword
+(49, 15, Vaults:4)
+  a +0 long sword
+  a +0 robe
+  a +0 scale mail
+  a +0 dire flail
+  a +0 dagger
+  a +0 ring mail
+  a +0 morningstar
+  a +0 plate armour
+  a +1 battleaxe
+  a +0 chain mail
+  a +1 long sword of holy wrath
+(49, 16, Vaults:4)
+  a +0 shield
+  a +0 plate armour
+  a +2 long sword of holy wrath
+(49, 17, Vaults:4)
+  a +0 long sword
+  a +0 battleaxe of chopping
+  a +0 plate armour
+  a +0 chain mail
+(50, -2, Vaults:4)
   a +0 leather armour
   a +0 mace
-(7, 2, Vaults:4)
+(50, -1, Vaults:4)
   a large rock
-(15, 15, Vaults:4)
-  a +0 morningstar
-  a cursed +0 ring mail
-(15, 19, Vaults:4)
-  a +0 falchion
+(50, 7, Vaults:4)
+  a +0 leather armour
+  a +0 short sword
+(50, 15, Vaults:4)
+  a +0 short sword
+  a +0 plate armour
+  a +0 plate armour
+  a +0 glaive
+  a +0 great sword
+(50, 16, Vaults:4)
   a +0 ring mail
-(16, 13, Vaults:4)
-  3 sling bullets
-(17, 13, Vaults:4)
-  a sling bullet
-(18, 13, Vaults:4)
-  a sling bullet
-(19, 13, Vaults:4)
-  a sling bullet
+  a +0 short sword
+(50, 17, Vaults:4)
+  a +0 shield
+  a +0 chain mail
+  a +3 long sword
+(53, 21, Vaults:4)
+  a +0 leather armour
+  a +0 short sword
+(54, 18, Vaults:4)
+  a +0 large shield
+  a +2 sacred scourge of holy wrath
+(57, 17, Vaults:4)
+  a +0 leather armour
+  a +0 long sword
+(58, 12, Vaults:4)
+  a cursed +0 ring mail
+  a +0 morningstar
+(58, 16, Vaults:4)
+  a +0 ring mail
+  a +0 falchion
+(62, -21, Vaults:4)
+  a +0 chain mail
+  a +3 great mace
+(63, -22, Vaults:4)
+  a +0 battleaxe of venom
+(63, -21, Vaults:4)
+  a +0 leather armour
+  a +0 rapier
+  a +0 shield
+  a cursed -2 chain mail
+  a +2 war axe of holy wrath
+(63, -20, Vaults:4)
+  a +0 plate armour
+  a +0 war axe
+(63, -19, Vaults:4)
+  a +0 plate armour
+  a +0 broad axe
+(63, 8, Vaults:4)
+  a +0 rapier
+(64, -23, Vaults:4)
+  a +0 troll leather armour
+(64, -21, Vaults:4)
+  a +0 plate armour
+  a +0 long sword
+(65, -23, Vaults:4)
+  4 large rocks
+(65, -22, Vaults:4)
+  a +0 bardiche
+  a +0 plate armour
+  a +2 arbalest of flaming
+  a large rock
+(65, -21, Vaults:4)
+  5 large rocks
+(65, -20, Vaults:4)
+  a +0 dagger
+
+Level 5 of the Vaults
+(0, 0, Vaults:5)
+  +0 gold dragon scales
+(0, 29, Vaults:5)
+  4 bolts
+(0, 35, Vaults:5)
+  a +0 arbalest
+  3 bolts
+(1, 0, Vaults:5)
+  a +0 scimitar
+(1, 35, Vaults:5)
+  16 stones
+(3, -8, Vaults:5)
+  20 stones
+(6, 0, Vaults:5)
+  a staff of power
+(6, 2, Vaults:5)
+  a +1 pair of boots
+(6, 3, Vaults:5)
+  23 arrows
+(7, 0, Vaults:5)
+  a gnarled smoking staff
+(7, 2, Vaults:5)
+  23 stones
+(7, 3, Vaults:5)
+  a hand axe
+(8, 0, Vaults:5)
+  a runed leather armour
+(8, 1, Vaults:5)
+  a glowing war axe
+(8, 2, Vaults:5)
+  a runed long sword
+(8, 3, Vaults:5)
+  16 stones
+(8, 18, Vaults:5)
+  a chain mail
+(9, 0, Vaults:5)
+  a war axe
+(9, 2, Vaults:5)
+  a war axe
+(9, 3, Vaults:5)
+  a ring mail
+(10, 1, Vaults:5)
+  a ring mail
+(10, 3, Vaults:5)
+  a scale mail
+(11, 1, Vaults:5)
+  a club
+(11, 2, Vaults:5)
+  a glowing ring mail
+(11, 3, Vaults:5)
+  a ring of magical power
+(11, 27, Vaults:5)
+  a runed falchion
+(12, 1, Vaults:5)
+  a ring of attention
+(12, 2, Vaults:5)
+  a plate armour
+(14, 19, Vaults:5)
+  5 tomahawks of returning
+(15, 20, Vaults:5)
+  3 silver tomahawks
+(16, 21, Vaults:5)
+  a pair of boots
+(16, 32, Vaults:5)
+  a +1 great sword of flaming
+(18, -8, Vaults:5)
+  3 large rocks
+(18, -1, Vaults:5)
+  a phantom mirror
+(19, -1, Vaults:5)
+  a runed flail
+(19, 1, Vaults:5)
+  a crystal ball of energy
+(19, 25, Vaults:5)
+  3 needles of sleeping
+(19, 36, Vaults:5)
+  3 bolts
+(20, -14, Vaults:5)
+  a +0 long sword
+(20, -10, Vaults:5)
+  a runed whip
+(20, -9, Vaults:5)
+  a crooked jewelled staff
+(20, 4, Vaults:5)
+  a glowing quarterstaff
+(20, 30, Vaults:5)
+  a +3 scale mail of fire resistance
+  a +2 bardiche of venom
+  a potion of flight
+(21, -9, Vaults:5)
+  a granite ring
+(21, 2, Vaults:5)
+  a fine dagger
+(21, 27, Vaults:5)
+  a morningstar
+(22, -14, Vaults:5)
+  a +2 morningstar of protection
+(22, -10, Vaults:5)
+  a glowing scale mail
+(22, -9, Vaults:5)
+  a staff of wizardry
+(22, 3, Vaults:5)
+  a polished short sword
+(22, 4, Vaults:5)
+  3 scrolls of noise
+(23, -11, Vaults:5)
+  a +0 ring mail
+  a +0 arbalest
+  17 bolts
+  a +0 falchion
+(24, -17, Vaults:5)
+  a bolt
+(24, -16, Vaults:5)
+  4 poisoned tomahawks
+  a +0 vampiric war axe
+(24, -12, Vaults:5)
+  a cursed -1 dire flail
+(24, -1, Vaults:5)
+  a crystal ball of energy
+(24, 2, Vaults:5)
+  a robe
+(25, -17, Vaults:5)
+  a +0 buckler
+  a +0 scale mail
+  a poisoned tomahawk
+(25, -16, Vaults:5)
+  a bolt
+(25, -14, Vaults:5)
+  a +0 ring mail
+  a +2 short sword of draining
+(25, -12, Vaults:5)
+  a +0 buckler
+  a +0 ring mail
+  a +4 war axe of venom
+(25, 3, Vaults:5)
+  a +0 long sword
+(25, 16, Vaults:5)
+  a potion of mutation
+(26, -14, Vaults:5)
+  13 bolts
+  a +0 arbalest
+  a +0 leather armour
+  a +0 leather armour
+  a +0 broad axe of flaming
+(26, 36, Vaults:5)
+  22 bolts
+  a +0 arbalest
+(27, -15, Vaults:5)
+  a poisoned tomahawk (still there?)
+  a +0 bardiche (still there?)
+(27, -14, Vaults:5)
+  a +0 short sword
+  a +0 ring mail
+(27, 12, Vaults:5)
+  a bolt
+(27, 36, Vaults:5)
+  a ring mail
+  a bolt
+(28, 8, Vaults:5)
+  8 arrows
+(29, -13, Vaults:5)
+  4 bolts (still there?)
+  a cursed -2 arbalest (still there?)
+(29, 10, Vaults:5)
+  4 large rocks
+  4 arrows
+  19 bolts
+(30, 11, Vaults:5)
+  a bolt
+(30, 36, Vaults:5)
+  a +0 ring mail
+  a +0 great mace
+  the ring "Catrimucw" {MR+ Dex+3 Slay-6}
+    [ring of protection from magic]
+    
+    It affects your dexterity (+3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (-6).
+    It affects your resistance to hostile enchantments.
+(31, -15, Vaults:5)
+  a robe
+(31, 10, Vaults:5)
+  a +0 plate armour
+  a +0 battleaxe
+  a +0 great sword of flaming
+(31, 11, Vaults:5)
+  a +0 ring mail
+  a +0 dire flail
+(31, 12, Vaults:5)
+  a stone
+(32, 9, Vaults:5)
+  a stone
+(32, 10, Vaults:5)
+  6 large rocks
+  25 bolts
+  7 arrows
+  15 stones
+(32, 11, Vaults:5)
+  a +0 robe
+  a +0 dagger
+  a +0 chain mail
+  a +0 war axe
+  5 large rocks
+  a +0 shield
+  a +1 chain mail
+  a +3 broad axe of flaming
+  a bolt
+(33, 10, Vaults:5)
+  an arrow
+(34, 16, Vaults:5)
+  a +0 short sword
+(34, 24, Vaults:5)
+  a +0 battleaxe
+(35, 16, Vaults:5)
+  a leather armour
+(35, 17, Vaults:5)
+  a box of beasts
+(36, 23, Vaults:5)
+  a glowing helmet
+(38, 2, Vaults:5)
+  a stone
+(38, 8, Vaults:5)
+  a bolt
+(38, 15, Vaults:5)
+  21 bolts
+  a +0 arbalest
+  a +0 rapier
+  a scroll of remove curse
+(40, -7, Vaults:5)
+  a +0 short sword
+  a +0 leather armour
+(45, -9, Vaults:5)
+  a scroll of holy word
+(45, 1, Vaults:5)
+  a wand of scattershot (2)
+(46, -9, Vaults:5)
+  a rapier
+(46, -7, Vaults:5)
+  8 javelins of returning
+(46, 36, Vaults:5)
+  a +3 scimitar of holy wrath
+  a +2 ring mail of cold resistance
+  a scroll of identify
+(47, -8, Vaults:5)
+  18 stones
+(47, -7, Vaults:5)
+  22 stones
+(48, 1, Vaults:5)
+  a stone
+(48, 36, Vaults:5)
+  a bolt
+(50, 25, Vaults:5)
+  an arrow
+(51, -2, Vaults:5)
+  a slimy chain mail
+(51, -1, Vaults:5)
+  a dagger
+(51, 23, Vaults:5)
+  an arrow
+(51, 27, Vaults:5)
+  a +0 shortbow
+  a +0 rapier
+  12 arrows
+  a +0 leather armour
+(52, 23, Vaults:5)
+  an arrow
+(53, 35, Vaults:5)
+  23 bolts
+  a +0 arbalest
+(55, 35, Vaults:5)
+  12 bolts
+  a +4 arbalest
+  a scroll of remove curse
+(55, 36, Vaults:5)
+  a +0 buckler
+  a +0 scale mail
+  a +2 war axe
+(56, -6, Vaults:5)
+  a wand of scattershot (6)
+(56, 36, Vaults:5)
+  a +0 chain mail
+  a +0 bardiche
+(57, 33, Vaults:5)
+  9 bolts
+  a +0 arbalest
+  a +0 broad axe of electrocution
+(58, 34, Vaults:5)
+  2 bolts
+(59, 36, Vaults:5)
+  a bolt
+(60, 36, Vaults:5)
+  a bolt
+
+Level 1 of the Depths
+(0, 0, Depths:1)
+  2 large rocks
+(0, 1, Depths:1)
+  a large rock
+(0, 3, Depths:1)
+  a large rock
+(1, 39, Depths:1)
+  a large rock
+(3, 37, Depths:1)
+  3 large rocks
+(5, -2, Depths:1)
+  4 large rocks
+(5, 25, Depths:1)
+  a scroll of amnesia
+  a +0 robe
+  a cursed -3 trident
+(5, 27, Depths:1)
+  a +0 dire flail
+  a +0 dire flail
+  a +1 great sword of flaming
+(5, 28, Depths:1)
+  a +0 ring mail
+  a +0 halberd
+(5, 30, Depths:1)
+  2 large rocks
+(6, -2, Depths:1)
+  a +0 robe
+  a cursed +0 long sword
+(7, -2, Depths:1)
+  2 large rocks
+(10, -2, Depths:1)
+  a large rock
+(11, -2, Depths:1)
+  a large rock
+(12, -2, Depths:1)
+  a +0 arbalest
+(13, 0, Depths:1)
+  a large rock
+(22, 21, Depths:1)
+  a +0 shortbow
+(29, 24, Depths:1)
+  a large rock
+(30, -6, Depths:1)
+  a large rock
+(30, 24, Depths:1)
+  a centaur barding
+(31, 34, Depths:1)
+  2 large rocks
+(32, 31, Depths:1)
+  a large rock
+(34, -7, Depths:1)
+  a large rock
+(36, 28, Depths:1)
+  a large rock
+(37, 39, Depths:1)
+  a +0 shortbow
+(40, 15, Depths:1)
+  a ring mail
+(41, 36, Depths:1)
+  a large rock
+(43, 37, Depths:1)
+  a large rock
+(48, 38, Depths:1)
+  a large rock
+(55, 47, Depths:1)
+  a +0 leather armour
+  a +0 bardiche
+(57, 3, Depths:1)
+  a +0 robe
+(61, -3, Depths:1)
+  a +0 arbalest
+(63, -1, Depths:1)
+  a +0 arbalest
+(63, 0, Depths:1)
+  a +0 arbalest
+
+Level 2 of the Depths
+[Shop] Umosir Vaage's Changing Room
+  a wand of polymorph (4) (108 gold)
+  a potion of lignification (54 gold)
+  a potion of lignification (54 gold)
+  a potion of mutation (144 gold)
+  a book of Transfigurations (990 gold)
+  a wand of polymorph (9) (198 gold)
+  a potion of mutation (144 gold)
+(0, 0, Depths:2)
+  a scale mail
+(1, -11, Depths:2)
+  a +1 great sword of flaming
+(5, -8, Depths:2)
+  a ring mail
+(5, 5, Depths:2)
+  a scale mail
+(11, -5, Depths:2)
+  a battleaxe
+(13, -5, Depths:2)
+  a pair of boots
+(13, 13, Depths:2)
+  a flail
+(25, -10, Depths:2)
+  a chain mail
+(25, -3, Depths:2)
+  a +1 short sword of speed
+(38, -6, Depths:2)
+  a +2 great sword of flaming
+(39, 18, Depths:2)
+  a +0 troll leather armour
+  2 large rocks
+(39, 19, Depths:2)
+  a +0 arbalest
+(40, -12, Depths:2)
+  5 large rocks
+(40, 19, Depths:2)
+  a +0 troll leather armour
+(42, 21, Depths:2)
+  2 large rocks
+(43, 22, Depths:2)
+  4 large rocks
+  a +0 robe
+  a +0 whip
+(43, 23, Depths:2)
+  a +0 troll leather armour
+(43, 26, Depths:2)
+  2 large rocks
+(44, -6, Depths:2)
+  a +0 chain mail
+  a +0 halberd
+(44, 13, Depths:2)
+  a +0 arbalest
+(45, -23, Depths:2)
+  a +0 robe
+(45, -5, Depths:2)
+  a +0 dire flail
+(45, -3, Depths:2)
+  a +0 arbalest
+(48, -24, Depths:2)
+  5 large rocks
+(49, -26, Depths:2)
+  a +0 quarterstaff
+(49, -4, Depths:2)
+  a +0 arbalest
+(50, -26, Depths:2)
+  a +0 great mace
+  a +0 dire flail
+(51, -25, Depths:2)
+  a +0 robe
+(51, -22, Depths:2)
+  a crystal ball of energy
+(54, -22, Depths:2)
+  an animal skin
+(56, -17, Depths:2)
+  a ring mail
+(57, -23, Depths:2)
+  a +0 short sword
+(60, -20, Depths:2)
+  a +0 dagger
+(60, -17, Depths:2)
+  a plate armour
+(60, -12, Depths:2)
+  a falchion
 
