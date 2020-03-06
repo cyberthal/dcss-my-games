@@ -1,0 +1,205 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16770484020058170523
+
+0 Tavonit the Skirmisher (level 1, 13/13 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Mar 7, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:48 (272 turns).
+
+Tavonit the Skirmisher (Hill Orc Fighter)            Turns: 272, Time: 00:01:48
+
+Health: 13/13      AC:  3    Str: 14    XL:     1   Next: 0%
+Magic:  0/0        EV:  6    Int:  4    God:    No God 0 (0)
+Gold:   0          SH:  8    Dex:  6    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     Rnd*Rage +   (no boots)
+Stlth    ..........Rnd*Tele +   (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: berserk 3, blurry vision 3, clumsy 2, deformed body, deterioration 2, dopey
+2, frail 3, low mp 3, screaming 3, inhibited regeneration, teleportitis 3, weak
+2, no potion heal 3, subdued magic 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an uncontrollable temper.
+Scrolls take you much longer to read.
+You are very clumsy. (Dex -4)
+Armour fits poorly on your strangely shaped body.
+Your body often deteriorates upon taking damage.
+You are very dopey. (Int -4)
+You are extremely frail. (-30% HP)
+Your magical capacity is extremely low. (-30% MP)
+You frequently scream uncontrollably at your foes.
+You do not regenerate when monsters are visible.
+You are often teleported next to monsters.
+You are very weak. (Str -4)
+Potions cannot restore your health.
+Your spells are much easier to cast, but much less powerful.
+
+
+Message History
+
+The shining eye gazes at you.
+Strange energies course through your body.
+You feel strangely unstable.
+You are suddenly yanked towards some nearby monsters!
+Your surroundings suddenly seem different.
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+Found a stone staircase leading down.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+The shining eye turns its gaze towards you.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##########
+#........#
+#........+
+#.....?..+
+#...?....#                 .
+#<.......#                 .
+#........#                 .
+#......@G+                 .
+#........+
+#........#
+##########
+
+
+You could see a shining eye.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tavonit the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a shining eye
+     2 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [a shining eye]
+     3 | D:1      | Gained mutation: Your magical capacity is low. (-10% MP) [a
+                  | shining eye]
+     9 | D:1      | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [a shining eye]
+    13 | D:1      | Gained mutation: You are clumsy. (Dex -2) [a shining eye]
+    19 | D:1      | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [a shining eye]
+    22 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [a shining eye]
+    32 | D:1      | Gained mutation: Potions are less effective at restoring
+                  | your health. [a shining eye]
+    39 | D:1      | Gained mutation: You are very clumsy. (Dex -4) [a shining
+                  | eye]
+    43 | D:1      | Gained mutation: You are frail. (-10% HP) [a shining eye]
+    46 | D:1      | Gained mutation: Your magical capacity is extremely low.
+                  | (-30% MP) [a shining eye]
+    49 | D:1      | Gained mutation: You are dopey. (Int -2) [a shining eye]
+    52 | D:1      | Gained mutation: You are very dopey. (Int -4) [a shining
+                  | eye]
+    55 | D:1      | Gained mutation: You tend to lose your temper in combat. [a
+                  | shining eye]
+    63 | D:1      | Gained mutation: You are weak. (Str -2) [a shining eye]
+    71 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [a shining eye]
+    72 | D:1      | Gained mutation: You are very weak. (Str -4) [a shining
+                  | eye]
+    76 | D:1      | Gained mutation: Scrolls take you longer to read. [a
+                  | shining eye]
+    79 | D:1      | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [a shining eye]
+    94 | D:1      | Gained mutation: You are occasionally teleported next to
+                  | monsters. [a shining eye]
+   108 | D:1      | Gained mutation: Scrolls take you much longer to read. [a
+                  | shining eye]
+   125 | D:1      | Gained mutation: You often lose your temper in combat. [a
+                  | shining eye]
+   126 | D:1      | Gained mutation: You are very frail. (-20% HP) [a shining
+                  | eye]
+   129 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [a shining eye]
+   131 | D:1      | Gained mutation: You do not regenerate when monsters are
+                  | visible. [a shining eye]
+   136 | D:1      | Lost mutation: You are very frail. (-20% HP) [a shining
+                  | eye]
+   138 | D:1      | Gained mutation: Your spells are easier to cast, but less
+                  | powerful. [a shining eye]
+   139 | D:1      | Gained mutation: You are very frail. (-20% HP) [a shining
+                  | eye]
+   142 | D:1      | Gained mutation: Potions are poor at restoring your health.
+                  | [a shining eye]
+   152 | D:1      | Gained mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+   161 | D:1      | Gained mutation: You have an uncontrollable temper. [a
+                  | shining eye]
+   164 | D:1      | Gained mutation: Your spells are much easier to cast, but
+                  | much less powerful. [a shining eye]
+   165 | D:1      | Gained mutation: You sometimes yell uncontrollably at your
+                  | foes. [a shining eye]
+   175 | D:1      | Gained mutation: You are sometimes teleported next to
+                  | monsters. [a shining eye]
+   191 | D:1      | Gained mutation: Potions cannot restore your health. [a
+                  | shining eye]
+   195 | D:1      | Gained mutation: You are often teleported next to monsters.
+                  | [a shining eye]
+   199 | D:1      | Gained mutation: You frequently scream uncontrollably at
+                  | your foes. [a shining eye]
+   272 | D:1      | Quit the game
+

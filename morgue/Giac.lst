@@ -633,27 +633,27 @@ Level 14 of the Dungeon
 (28, -33, D:14)
   a large rock
 (29, -8, D:14)
-  a glowing ring mail
-  a glowing scale mail
-  a runed leather armour
-  a crude scale mail
-  a glowing buckler
   a shiny plate armour
-  a shiny ring mail
-  a slimy chain mail
-  a runed scale mail
-  a shiny chain mail
 (29, -7, D:14)
   +0 gold dragon scales
   a +0 large shield
   a +2 crystal plate armour
   a +1 helmet of see invisible
 (29, -6, D:14)
+  the +0 chain mail of the Boiling Point {rPois Str+3 Dex+4 Slay+2}
+    It affects your strength (+3).
+    It affects your dexterity (+4).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+2).
+    It protects you from poison.
   a +3 scale mail of fire resistance
   a +0 shield
   a +2 robe of magic resistance
   a +0 chain mail of cold resistance
+  a glowing ring mail
   a +0 troll leather armour
+  a shiny chain mail
+  a runed leather armour
   a +2 buckler
   a +2 robe of magic resistance
   +0 ice dragon scales
@@ -670,25 +670,31 @@ Level 14 of the Dungeon
   a +4 chain mail of poison resistance
   a +0 troll leather armour
   a crystal plate armour
+  a crude scale mail
   a +2 robe of cold resistance
   a +4 ring mail of cold resistance
   a +4 chain mail of fire resistance
   a +4 chain mail of fire resistance
   a +2 buckler
   a +0 troll leather armour
+  a glowing buckler
   a +2 buckler
   +0 fire dragon scales
   +1 ice dragon scales
+  a glowing scale mail
   a +2 leather armour of cold resistance
   a +1 chain mail of positive energy
+  a runed scale mail
+  a shiny ring mail
 (29, -5, D:14)
   a +0 hand axe
   a +1 cloak
   a +2 pair of gloves
 (30, -7, D:14)
   a +0 fustibalus
-  76 tomahawks
+  303 stones
   5 tomahawks of returning
+  a +3 broad axe of flaming
   3 silver tomahawks
   5 needles of sleeping
   a +0 hand crossbow of freezing
@@ -697,43 +703,37 @@ Level 14 of the Dungeon
   24 javelins of returning
   9 steel tomahawks
   a +5 spear of flaming
-  303 stones
-  a +0 demon trident of freezing
-  a +3 war axe
+  9 throwing nets {!f}
   a +4 morningstar of crushing
   12 poisoned tomahawks
-  1297 bolts
+  a +0 broad axe of electrocution
+  1307 bolts
 (30, -6, D:14)
   a +2 morningstar of protection
-  a +3 scimitar of holy wrath
-  a +2 demon whip of flaming
-  a +1 eveningstar of pain
-  a +4 double sword of draining
+  a +0 demon trident of freezing
+  a +2 demon trident of venom
+  the +9 sword of Zonguldrok {reap}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+    
+    Zin disapproves of the use of such an item.
+  a +4 quick blade of draining
+  a +3 war axe
+  a +4 war axe of venom
+  a +0 vampiric war axe
   a +3 flail of draining
   the +6 short sword "Heleyraq" {speed, rF+}
     Attacks with this weapon are significantly faster.
     
     It protects you from fire.
-  the cursed +3 dagger "Kink" {pain, *Corrode +Fly MR+ Str+4}
-    In the hands of one skilled in necromantic magic, it inflicts extra damage
-    on living creatures.
-    
-    It affects your strength (+4).
-    It affects your resistance to hostile enchantments.
-    It lets you fly.
-    It may corrode you when you take damage.
-    It has a curse placed upon it.
-    
-    Zin disapproves of the use of such an item.
   a +1 war axe of electrocution
   a +5 falchion of holy wrath
-  a +2 whip of freezing
   a +5 flail of holy wrath
-  a +4 war axe of venom
-  a +0 vampiric war axe
-  a +3 broad axe of flaming
   a +2 war axe of holy wrath
+  a +2 demon whip of flaming
   a +2 long sword of holy wrath
+  a +2 whip of freezing
+  a +1 eveningstar of pain
   a +1 shortbow of flaming
   a +2 long sword of holy wrath
   a +1 short sword of speed
@@ -747,6 +747,17 @@ Level 14 of the Dungeon
   a +2 short sword of draining
   a +1 rapier of electrocution
   a +3 vampiric dagger
+  the cursed +3 dagger "Kink" {pain, *Corrode +Fly MR+ Str+4}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your strength (+4).
+    It affects your resistance to hostile enchantments.
+    It lets you fly.
+    It may corrode you when you take damage.
+    It has a curse placed upon it.
+    
+    Zin disapproves of the use of such an item.
   a +0 trident of protection
   a +3 vampiric short sword
   a +0 long sword of electrocution
@@ -790,12 +801,14 @@ Level 14 of the Dungeon
     It affects your magic capacity (+9).
   a +2 mace of protection
   a +3 long sword
+  a +3 scimitar of holy wrath
   a +5 trident of freezing
   a +3 hand axe of chopping
   a +3 hand axe
   a +3 dagger of electrocution
   a +3 long sword of draining
   a +2 long sword of freezing
+  a +4 double sword of draining
   a +3 quick blade
   a +0 rapier of electrocution
   a +2 scimitar of venom
@@ -842,59 +855,66 @@ Level 14 of the Dungeon
   a +0 hand axe of electrocution
 (30, -5, D:14)
   a -3 long sword
-(31, -8, D:14)
-  a vampiric battleaxe
 (31, -7, D:14)
+  the cursed +1 arbalest of Sasujea {freeze, +Blink rF+ rC+}
+    It causes projectiles fired from it to freeze those they strike, causing
+    extra injury to most foes and up to half again as much damage against
+    particularly susceptible opponents. They can also slow down cold-blooded
+    creatures.
+    
+    It protects you from fire.
+    It protects you from cold.
+    It lets you blink.
+    It has a curse placed upon it.
   a +8 quarterstaff
-  a +2 great mace of protection
   a +1 dire flail of holy wrath
   a +0 triple crossbow
-  a +3 halberd of protection
-  a +1 shortbow of freezing
-  a +1 vampiric trident
-  a +3 great mace of draining
-  a +2 great mace of protection
-  a +7 vampiric great sword
   a +5 arbalest of flaming
-  a +3 dire flail of venom
   a +2 glaive of protection
-  a +1 vampiric halberd
-  a +7 vampiric glaive
   a +1 dire flail of protection
   a +5 lajatang of electrocution
-  a +1 longbow of velocity
   a +2 antimagic lajatang
   1899 arrows
-  a +2 great sword of electrocution
   a +6 battleaxe of chopping
   a +2 battleaxe of electrocution
 (31, -6, D:14)
   a +2 bardiche of venom
+  a +1 vampiric trident
   a +0 shortbow of flaming
+  a vampiric battleaxe
+  a +2 great mace of protection
+  a +7 vampiric great sword
   a +0 triple crossbow
+  a +3 dire flail of venom
   a +0 shortbow of freezing
   a +3 arbalest of freezing
   a +0 longbow of velocity
   a +1 halberd of protection
   a +4 halberd
   a +1 great sword of electrocution
+  a +1 longbow of velocity
   a +0 arbalest of freezing
   a +2 glaive
+  a +2 great sword of electrocution
+  a +1 vampiric halberd
+  a +1 shortbow of freezing
   a +3 glaive of venom
   a +2 dire flail of holy wrath
   a +1 dire flail of protection
+  a +3 great mace of draining
+  a +3 halberd of protection
   a +2 battleaxe of flaming
+  a +2 great mace of protection
   a +2 battleaxe of chopping
   a +3 dire flail
   a +1 dire flail of protection
+  a +7 vampiric glaive
   a +1 battleaxe of chopping
 (31, -5, D:14)
   a -2 quarterstaff
 (32, -7, D:14)
-  an uncursed amulet of faith
+  2 scrolls of identify
   an uncursed staff of fire
-  a wand of scattershot (8)
-  3 scrolls of noise
   a scroll of holy word
   an uncursed staff of summoning
   the ring "Memuhodd" {rElec Dex+4 Stlth-}
@@ -906,15 +926,12 @@ Level 14 of the Dungeon
   an uncursed staff of conjuration
   an uncursed ring of resist corrosion
   an uncursed ring of stealth
-  5 scrolls of vulnerability
   an uncursed ring of protection from cold
   2 phantom mirrors
   an uncursed amulet of the gourmand
   2 potions of resistance
   an uncursed ring of magical power
-  5 scrolls of immolation
   2 potions of cancellation
-  7 potions of ambrosia
   a scroll of summoning
   3 scrolls of fear
   an uncursed ring of magical power
@@ -922,46 +939,41 @@ Level 14 of the Dungeon
   a scroll of brand weapon
   4 potions of mutation
   a wand of disintegration (6)
-  a +5 ring of intelligence
   a +3 ring of intelligence
   an uncursed ring of stealth
   an uncursed staff of power
   an uncursed staff of wizardry
-  6 scrolls of amnesia
-  a crystal ball of energy
+  a scroll of amnesia
   6 potions of flight
   13 scrolls of remove curse
   an uncursed ring of wizardry
   an uncursed amulet of magic regeneration
+  2 boxes of beasts
+  4 potions of lignification
+  a wand of polymorph (16)
+  an uncursed amulet of faith
   3 sacks of spiders
   7 scrolls of fog
   a wand of flame (17)
-  3 scrolls of identify
-  7 potions of haste
-  a wand of paralysis (15)
-  a wand of digging (4)
-  the amulet "Aloaty" {+Blink Regen+ Str+3 Int+3 Dex-5}
-    [amulet of regeneration]
-    
-    It affects your strength (+3).
-    It affects your intelligence (+3).
-    It affects your dexterity (-5).
-    It lets you blink.
-    It increases your rate of regeneration.
+  3 potions of agility
   2 potions of might
-  a +6 amulet of reflection
-  an uncursed amulet of rage
   an uncursed amulet of the acrobat
+  3 potions of berserk rage
+  a wand of enslavement (12)
   an uncursed ring of protection from fire
 (32, -6, D:14)
   a ring of magical power
+  an uncursed ring of protection from magic
   a crystal ball of energy
-  a +0 dagger
   a crystal ball of energy
   a +1 ring of slaying
   a -4 ring of protection
   a +3 ring of dexterity
   an amulet of magic regeneration
+  the horn of Geryon
+  a wand of clouds (1)
+  a wand of random effects (9)
+  a +0 dagger
 (32, -3, D:14)
   2 large rocks
 (33, -32, D:14)
@@ -1145,13 +1157,6 @@ Level 2 of the Orcish Mines
   an uncursed ring of fire (unknown) (425 gold)
   a +4 amulet of reflection (459 gold)
   a +3 amulet of reflection (266 gold)
-  the ring of Haijes {MR+ MP+9 Str+2 Stlth+} (904 gold)
-    [ring of stealth]
-    
-    It affects your strength (+2).
-    It affects your resistance to hostile enchantments.
-    It affects your magic capacity (+9).
-    It makes you more stealthy.
   an uncursed ring of protection from magic (425 gold)
   an uncursed amulet of magic regeneration (510 gold)
   an uncursed ring of resist corrosion (340 gold)
@@ -1809,11 +1814,9 @@ Level 6 of the Lair of Beasts
     Zin disapproves of the use of such an item.
   a +0 plate armour
   a +1 bardiche
-  the orc corpse of Learuk (skeletalised by now)
 (0, 1, Lair:6)
   a +0 chain mail
   a +0 halberd
-  the orc corpse of Orgrim (skeletalised by now)
 (1, 2, Lair:6)
   a +0 scale mail
   the +5 battleaxe "Houstaegh" {venom, *Corrode rPois rC++}
@@ -2121,6 +2124,104 @@ Level 4 of the Spider Nest
   a pair of boots
 (16, 3, Spider:4)
   a chain mail
+
+Level 5 of the Pits of Slime
+(0, 0, Slime:5)
+  2 potions of berserk rage
+(1, -1, Slime:5)
+  a box of beasts
+(1, 6, Slime:5)
+  a scroll of enchant armour
+(1, 7, Slime:5)
+  a scroll of acquirement
+(1, 8, Slime:5)
+  a staff of power
+(1, 9, Slime:5)
+  28 bolts
+(2, -2, Slime:5)
+  a runed dagger
+(2, -1, Slime:5)
+  a runed robe
+(2, 0, Slime:5)
+  a thick smoking staff
+(2, 7, Slime:5)
+  a lamp of fire
+(2, 9, Slime:5)
+  a glowing long sword
+(2, 10, Slime:5)
+  10 stones
+(3, -4, Slime:5)
+  a potion of lignification
+(3, -2, Slime:5)
+  21 stones
+(3, -1, Slime:5)
+  a staff of power
+(3, 0, Slime:5)
+  a ring mail
+(3, 7, Slime:5)
+  13 arrows
+(3, 8, Slime:5)
+  a distressingly furry scale mail
+(3, 9, Slime:5)
+  a smoking shortbow
+(3, 11, Slime:5)
+  a wand of random effects (9)
+(4, -3, Slime:5)
+  7 needles of frenzy
+(4, -1, Slime:5)
+  a leather armour
+(4, 1, Slime:5)
+  an iridescent glaive
+(4, 6, Slime:5)
+  a flickering wooden ring
+(4, 10, Slime:5)
+  a flail
+(9, 1, Slime:5)
+  a fine short sword
+(9, 10, Slime:5)
+  a jewelled war axe
+(10, -4, Slime:5)
+  6 exploding tomahawks
+(10, -3, Slime:5)
+  a twisted citrine amulet
+(10, -1, Slime:5)
+  an amulet of the gourmand
+(10, 0, Slime:5)
+  25 stones
+(10, 7, Slime:5)
+  a glowing hand axe
+(10, 8, Slime:5)
+  a crystal shortbow
+(10, 9, Slime:5)
+  a plate armour
+(11, -3, Slime:5)
+  a scroll of amnesia
+(11, 0, Slime:5)
+  a runed ring mail
+(11, 6, Slime:5)
+  a crystal ball of energy
+(11, 7, Slime:5)
+  a runed morningstar
+(11, 8, Slime:5)
+  a runed rapier
+(11, 9, Slime:5)
+  a glowing quick blade
+(11, 10, Slime:5)
+  16 bolts
+(12, -2, Slime:5)
+  23 bolts
+(12, -1, Slime:5)
+  a sack of spiders
+(12, 1, Slime:5)
+  a ring of resist corrosion
+(12, 7, Slime:5)
+  a war axe
+(12, 8, Slime:5)
+  a staff of poison
+(13, -1, Slime:5)
+  a great sword
+(13, 0, Slime:5)
+  3 scrolls of brand weapon
 
 Level 1 of the Vaults
 (0, 0, Vaults:1)
@@ -2928,10 +3029,6 @@ Level 5 of the Vaults
   a +0 arbalest
 
 the Vestibule of Hell
-(20, 2, Hell)
-  a curare-tipped needle {!f}
-(21, 2, Hell)
-  a curare-tipped needle {!f}
 (23, 0, Hell)
   a +0 flail
 (23, 1, Hell)
@@ -2939,8 +3036,6 @@ the Vestibule of Hell
 (23, 6, Hell)
   a cursed -1 plate armour
   a +2 great mace of crushing
-(24, -6, Hell)
-  a bolt
 (24, -4, Hell)
   a +1 scythe of pain
 (24, 0, Hell)
@@ -2980,26 +3075,13 @@ the Vestibule of Hell
   a +0 mace
 (26, 4, Hell)
   a +0 leather armour
-  9 bolts
-  the cursed +1 arbalest of Sasujea {freeze, +Blink rF+ rC+}
-    It causes projectiles fired from it to freeze those they strike, causing
-    extra injury to most foes and up to half again as much damage against
-    particularly susceptible opponents. They can also slow down cold-blooded
-    creatures.
-    
-    It protects you from fire.
-    It protects you from cold.
-    It lets you blink.
-    It has a curse placed upon it.
 (26, 5, Hell)
   a +0 scythe of pain
-  13 curare-tipped needles {!f}
 (27, 3, Hell)
   a +0 robe
   a +0 dagger
   a +0 hand axe
   a +1 morningstar of draining
-  4 tomahawks
   a +0 club
   a +0 short sword
 (27, 5, Hell)
