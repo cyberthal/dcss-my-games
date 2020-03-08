@@ -1,0 +1,223 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14608988807985983320
+
+529595 Gaabbin the Conqueror (level 27, 248/273 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Mar 9, 2020.
+             Quit the game on level 5 of the Pits of Slime.
+             The game lasted 00:12:02 (701 turns).
+
+Gaabbin the Conqueror (Hill Orc Fighter)             Turns: 701, Time: 00:12:03
+
+Health: 248/273    AC: 22    Str: 18    XL:     27
+Magic:  42/54      EV: 13    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 25    Dex: 10    Spells: 73/80 levels left
+
+rFire    + . .     SeeInvis .   a - +0 war axe
+rCold    + + .     Gourm    .   e - +0 large shield {reflect}
+rNeg     . . .     Faith    .   j - +0 gold dragon scales
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  +   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.55/turn              g - ring of protection from cold
+MPRegen  0.34/turn              h - ring of resist corrosion
+
+@: corroded
+A: no striking features
+a: no special abilities
+
+
+You were on level 5 of the Pits of Slime.
+You were completely stuffed.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ i - 3 arrows
+Armour
+ b - a +0 scale mail
+ c - a +0 shield
+ e - a +0 large shield of reflection (worn)
+ j - +0 gold dragon scales (worn)
+Jewellery
+ g - a ring of protection from cold (left hand)
+ h - a ring of resist corrosion (right hand)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 73 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sticks to Snakes      Tmut           52 (100)     0%          2    0
+b - Inner Flame           Hex/Fire       52 (100)     0%          3    0
+c - Blink                 Tloc           N/A          0%          2    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Your water moccasin barely misses the acid blob.
+You block the acid blob's attack.
+The acid blob hits your water moccasin!!
+Your water moccasin explodes!
+The fiery explosion engulfs the acid blob!!
+The acid blob is moderately wounded.
+The fiery explosion engulfs the acid blob!!
+You kill the acid blob!
+That felt strangely unrewarding.
+The fiery explosion engulfs the acid blob!!
+The acid blob is severely wounded.
+The acid blob is engulfed in blazing flames.
+The acid blob spits acid at you.
+The splash of acid hits you but does no damage.
+You are splashed with acid! You resist.
+The acid blob is engulfed in blazing flames. x2
+The acid blob spits acid at you.
+Your +0 large shield of reflection reflects the splash of acid!
+The splash of acid hits the acid blob. The acid blob completely resists.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                    ##.........
+                     .............
+                    ##............
+                   ##.............
+          #.     ###..............
+          #..    #................
+     ..  ###.## ##................
+     ..###.#..###................#
+  .........................0.....#
+  ................................
+................................##
+................................#
+.............................####
+............@.0J0.......<..###
+.............J..0J.0......##
+..............0.0000......#
+.................00.......#
+.........................##
+#.......................##
+##.....................##
+ ####........#####..####
+    ###...####   ####
+      #####
+
+
+You could see 3 acid blobs.
+
+Vanquished Creatures
+  the Royal Jelly (Slime:5)
+  2 acid blobs (Slime:5)
+  9 azure jellies (Slime:5)
+  5 death oozes (Slime:5)
+17 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 death oozes (Slime:5)
+2 creatures vanquished.
+
+Grand Total: 19 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gaabbin the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 143/143 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 151/151 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 159/159 MP: 1/44
+     0 | D:1      | Reached XP level 14. HP: 168/168 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 174/174 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 183/183 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 191/191 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 200/200 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 207/207 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 216/216 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 224/224 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 233/233 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 240/240 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 249/249 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 257/257 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 266/266 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 273/273 MP: 1/54
+    14 | D:1      | Learned a level 2 spell: Sticks to Snakes
+    15 | D:1      | Learned a level 3 spell: Inner Flame
+    15 | Slime:5  | Entered Level 5 of the Pits of Slime
+    15 | Slime:5  | Noticed the Royal Jelly
+    15 | Slime:5  | Learned a level 2 spell: Blink
+   635 | Slime:5  | Noticed the Royal Jelly
+   696 | Slime:5  | Killed the Royal Jelly
+   701 | Slime:5  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Blink             |       |       |       |       |       |       |       |       |    17 ||    17
+       Inner Flame       |       |       |       |       |       |       |       |       |    14 ||    14
+       Sticks to Snakes  |       |       |       |       |       |       |       |       |    11 ||    11
+Armor: Gold dragon scale |       |       |       |       |       |       |       |       |    10 ||    10
+       Scale mail        |       |       |       |       |       |       |       |       |     6 ||     6
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    18 ||    18
+Block: Large shield      |       |       |       |       |       |       |       |       |    35 ||    35
+       Reflection        |       |       |       |       |       |       |       |       |     3 ||     3
+

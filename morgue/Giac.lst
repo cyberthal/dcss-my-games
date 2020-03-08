@@ -636,7 +636,8 @@ Level 14 of the Dungeon
   a shiny plate armour
 (29, -7, D:14)
   +0 gold dragon scales
-  a +0 large shield
+  a +2 cloak of poison resistance
+  a +2 large shield
   a +2 crystal plate armour
   a +1 helmet of see invisible
 (29, -6, D:14)
@@ -646,6 +647,7 @@ Level 14 of the Dungeon
     It affects your accuracy and damage with ranged weapons and melee attacks
     (+2).
     It protects you from poison.
+  a +0 large shield
   a +3 scale mail of fire resistance
   a +0 shield
   a +2 robe of magic resistance
@@ -691,34 +693,49 @@ Level 14 of the Dungeon
   a +1 cloak
   a +2 pair of gloves
 (30, -7, D:14)
-  a +0 fustibalus
-  303 stones
-  5 tomahawks of returning
+  6 exploding tomahawks
+  a +4 scimitar of flaming
+  7 needles of frenzy
+  a +4 long sword of holy wrath
   a +3 broad axe of flaming
   3 silver tomahawks
   5 needles of sleeping
   a +0 hand crossbow of freezing
-  a +4 hand axe
+  a +5 blowgun
+  a +4 hand axe of flaming
   a tomahawk of dispersal
-  24 javelins of returning
   9 steel tomahawks
   a +5 spear of flaming
-  9 throwing nets {!f}
   a +4 morningstar of crushing
+  a +3 scimitar of holy wrath
+  20 curare-tipped needles {!f}
   12 poisoned tomahawks
+  80 tomahawks
+  9 javelins of penetration
+  26 javelins
   a +0 broad axe of electrocution
-  1307 bolts
-(30, -6, D:14)
-  a +2 morningstar of protection
-  a +0 demon trident of freezing
-  a +2 demon trident of venom
-  the +9 sword of Zonguldrok {reap}
-    If a monster killed with it leaves a corpse in good enough shape, the corpse
-    will be animated as a zombie friendly to the killer.
+  5 tomahawks of returning
+  58 poisoned needles
+  the +6 rapier of Severance {pierce, rElec rN+ MR+}
+    It inflicts extra damage upon your enemies.
     
-    Zin disapproves of the use of such an item.
-  a +4 quick blade of draining
-  a +3 war axe
+    It insulates you from electricity.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+  300 sling bullets
+  1374 bolts
+(30, -6, D:14)
+  the cursed +1 short sword of Checkmate {pierce, rC+ Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you from cold.
+    It makes you more stealthy.
+    It has a curse placed upon it.
+  a +1 dagger of venom
+  a +3 hand axe
+  a +1 morningstar of holy wrath
+  a +2 rapier of draining
+  a +2 morningstar of protection
   a +4 war axe of venom
   a +0 vampiric war axe
   a +3 flail of draining
@@ -761,6 +778,7 @@ Level 14 of the Dungeon
   a +0 trident of protection
   a +3 vampiric short sword
   a +0 long sword of electrocution
+  a +0 demon trident of freezing
   a +4 rapier of electrocution
   a +2 short sword of venom
   a +4 short sword of venom
@@ -781,6 +799,7 @@ Level 14 of the Dungeon
     It protects you from poison.
     It lets you turn invisible.
     It will be destroyed if unequipped.
+  a +3 war axe
   a +4 short sword of flaming
   a +1 flail of protection
   a +1 vampiric trident
@@ -801,8 +820,6 @@ Level 14 of the Dungeon
     It affects your magic capacity (+9).
   a +2 mace of protection
   a +3 long sword
-  a +3 scimitar of holy wrath
-  a +5 trident of freezing
   a +3 hand axe of chopping
   a +3 hand axe
   a +3 dagger of electrocution
@@ -848,6 +865,13 @@ Level 14 of the Dungeon
     
     Zin disapproves of the use of such an item.
   a +1 whip of pain
+  a +2 demon trident of venom
+  the +9 sword of Zonguldrok {reap}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+    
+    Zin disapproves of the use of such an item.
+  a +4 quick blade of draining
   a +2 blowgun
   a +5 dagger of venom
   a +0 flail of protection
@@ -856,6 +880,31 @@ Level 14 of the Dungeon
 (30, -5, D:14)
   a -3 long sword
 (31, -7, D:14)
+  the +4 glaive "Kanythrye" {vamp, *Rage rN+ Dex+2}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your dexterity (+2).
+    It protects you from negative energy.
+    It may make you go berserk in combat.
+    
+    Zin disapproves of the use of such an item.
+  the cursed +3 shortbow of Keineizo {flame, *Slow rPois Int-5 Dex+8}
+    It causes projectiles fired from it to burn those they strike, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It affects your intelligence (-5).
+    It affects your dexterity (+8).
+    It protects you from poison.
+    It may slow you when you take damage.
+    It has a curse placed upon it.
+  the +8 shortbow "Fopoigox" {speed, rF+ rC+ MR+}
+    Attacks with this weapon are significantly faster.
+    
+    It protects you from fire.
+    It protects you from cold.
+    It affects your resistance to hostile enchantments.
   the cursed +1 arbalest of Sasujea {freeze, +Blink rF+ rC+}
     It causes projectiles fired from it to freeze those they strike, causing
     extra injury to most foes and up to half again as much damage against
@@ -874,7 +923,6 @@ Level 14 of the Dungeon
   a +1 dire flail of protection
   a +5 lajatang of electrocution
   a +2 antimagic lajatang
-  1899 arrows
   a +6 battleaxe of chopping
   a +2 battleaxe of electrocution
 (31, -6, D:14)
@@ -913,7 +961,10 @@ Level 14 of the Dungeon
 (31, -5, D:14)
   a -2 quarterstaff
 (32, -7, D:14)
-  2 scrolls of identify
+  a wand of random effects (9)
+  a scroll of enchant armour
+  an uncursed staff of death
+  a +5 ring of intelligence
   an uncursed staff of fire
   a scroll of holy word
   an uncursed staff of summoning
@@ -936,33 +987,39 @@ Level 14 of the Dungeon
   3 scrolls of fear
   an uncursed ring of magical power
   an uncursed staff of air
+  3 potions of mutation
+  a wand of scattershot (7)
+  6 scrolls of vulnerability
   a scroll of brand weapon
-  4 potions of mutation
+  4 scrolls of magic mapping
   a wand of disintegration (6)
-  a +3 ring of intelligence
+  a wand of digging (4)
+  2 scrolls of blinking
   an uncursed ring of stealth
   an uncursed staff of power
   an uncursed staff of wizardry
-  a scroll of amnesia
+  2 scrolls of amnesia
+  4 scrolls of immolation
+  4 scrolls of noise
   6 potions of flight
   13 scrolls of remove curse
   an uncursed ring of wizardry
   an uncursed amulet of magic regeneration
-  2 boxes of beasts
-  4 potions of lignification
+  3 boxes of beasts
+  5 potions of lignification
   a wand of polymorph (16)
   an uncursed amulet of faith
-  3 sacks of spiders
-  7 scrolls of fog
-  a wand of flame (17)
-  3 potions of agility
+  an uncursed amulet of rage
+  an uncursed ring of protection from magic
+  4 potions of agility
   2 potions of might
   an uncursed amulet of the acrobat
-  3 potions of berserk rage
+  5 potions of berserk rage
   a wand of enslavement (12)
   an uncursed ring of protection from fire
 (32, -6, D:14)
   a ring of magical power
+  a +3 ring of intelligence
   an uncursed ring of protection from magic
   a crystal ball of energy
   a crystal ball of energy
@@ -2127,101 +2184,39 @@ Level 4 of the Spider Nest
 
 Level 5 of the Pits of Slime
 (0, 0, Slime:5)
-  2 potions of berserk rage
-(1, -1, Slime:5)
-  a box of beasts
-(1, 6, Slime:5)
-  a scroll of enchant armour
-(1, 7, Slime:5)
-  a scroll of acquirement
-(1, 8, Slime:5)
   a staff of power
-(1, 9, Slime:5)
-  28 bolts
-(2, -2, Slime:5)
-  a runed dagger
-(2, -1, Slime:5)
+(1, -9, Slime:5)
   a runed robe
-(2, 0, Slime:5)
-  a thick smoking staff
-(2, 7, Slime:5)
-  a lamp of fire
-(2, 9, Slime:5)
-  a glowing long sword
-(2, 10, Slime:5)
-  10 stones
-(3, -4, Slime:5)
-  a potion of lignification
-(3, -2, Slime:5)
-  21 stones
-(3, -1, Slime:5)
-  a staff of power
-(3, 0, Slime:5)
-  a ring mail
-(3, 7, Slime:5)
-  13 arrows
-(3, 8, Slime:5)
-  a distressingly furry scale mail
-(3, 9, Slime:5)
-  a smoking shortbow
-(3, 11, Slime:5)
-  a wand of random effects (9)
-(4, -3, Slime:5)
-  7 needles of frenzy
-(4, -1, Slime:5)
-  a leather armour
-(4, 1, Slime:5)
-  an iridescent glaive
-(4, 6, Slime:5)
-  a flickering wooden ring
-(4, 10, Slime:5)
-  a flail
-(9, 1, Slime:5)
-  a fine short sword
-(9, 10, Slime:5)
-  a jewelled war axe
-(10, -4, Slime:5)
-  6 exploding tomahawks
-(10, -3, Slime:5)
+(2, -12, Slime:5)
   a twisted citrine amulet
-(10, -1, Slime:5)
+(2, -9, Slime:5)
+  a staff of power
+(2, -8, Slime:5)
+  a ring mail
+(2, 0, Slime:5)
+  a distressingly furry scale mail
+(3, -11, Slime:5)
+  13 arrows
+(3, -9, Slime:5)
+  a leather armour
+(3, 2, Slime:5)
+  a flail
+(9, -9, Slime:5)
   an amulet of the gourmand
-(10, 0, Slime:5)
-  25 stones
-(10, 7, Slime:5)
-  a glowing hand axe
-(10, 8, Slime:5)
-  a crystal shortbow
-(10, 9, Slime:5)
+(9, 1, Slime:5)
   a plate armour
-(11, -3, Slime:5)
-  a scroll of amnesia
-(11, 0, Slime:5)
+(10, -8, Slime:5)
   a runed ring mail
-(11, 6, Slime:5)
+(10, -2, Slime:5)
   a crystal ball of energy
-(11, 7, Slime:5)
-  a runed morningstar
-(11, 8, Slime:5)
-  a runed rapier
-(11, 9, Slime:5)
-  a glowing quick blade
-(11, 10, Slime:5)
-  16 bolts
-(12, -2, Slime:5)
-  23 bolts
-(12, -1, Slime:5)
-  a sack of spiders
-(12, 1, Slime:5)
+(11, -7, Slime:5)
   a ring of resist corrosion
-(12, 7, Slime:5)
+(11, -1, Slime:5)
   a war axe
-(12, 8, Slime:5)
+(11, 0, Slime:5)
   a staff of poison
-(13, -1, Slime:5)
+(12, -9, Slime:5)
   a great sword
-(13, 0, Slime:5)
-  3 scrolls of brand weapon
 
 Level 1 of the Vaults
 (0, 0, Vaults:1)
@@ -2525,12 +2520,8 @@ Level 3 of the Vaults
   a scroll of remove curse (60 gold)
   a scroll of noise (20 gold)
   a scroll of noise (20 gold)
-  a scroll of identify (40 gold)
   a scroll of remove curse (60 gold)
-  a scroll of identify (40 gold)
   a scroll of summoning (190 gold)
-  a scroll of identify (40 gold)
-  a scroll of identify (40 gold)
 (0, 0, Vaults:3)
   a +0 trident
 (0, 2, Vaults:3)
@@ -3290,6 +3281,24 @@ Level 2 of the Depths
   a +0 dire flail
 (45, -3, Depths:2)
   a +0 arbalest
+(47, -2, Depths:2)
+  a scroll of remove curse
+  a potion of cancellation
+  a scroll of silence
+  an uncursed ring of wizardry
+  a scroll of vulnerability
+  41 sling bullets
+  5 scrolls of identify
+  6 tomahawks of returning
+  2 scrolls of amnesia
+  a scroll of fear
+  a wand of polymorph (5)
+  a potion of lignification
+  a ring of strength
+  a scroll of immolation
+  a +3 sacred scourge of holy wrath
+  a glowing long sword
+  an opal ring
 (48, -24, Depths:2)
   5 large rocks
 (49, -26, Depths:2)
