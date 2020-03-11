@@ -636,12 +636,12 @@ Level 14 of the Dungeon
   a shiny plate armour
 (29, -7, D:14)
   +0 gold dragon scales
-  a scarf of resistance
   the +0 pair of gloves of the Guilds {rElec rPois Dex+3 SInv}
     It affects your dexterity (+3).
     It insulates you from electricity.
     It protects you from poison.
     It lets you see invisible.
+  a scarf of resistance
   a +2 cloak of poison resistance
   a +2 large shield
   a +2 crystal plate armour
@@ -700,17 +700,17 @@ Level 14 of the Dungeon
   a +2 pair of gloves
 (30, -7, D:14)
   6 exploding tomahawks
-  a +3 war axe of electrocution
-  a +4 scimitar of flaming
-  7 needles of confusion
+  6 poisoned javelins
   7 needles of frenzy
   a +4 long sword of holy wrath
+  7 needles of confusion
   a +3 broad axe of flaming
   3 silver tomahawks
   5 needles of sleeping
   a +0 hand crossbow of freezing
   a +3 sacred scourge of holy wrath
   a +4 scimitar of flaming
+  a +3 war axe of electrocution
   a +5 blowgun
   a +4 hand axe of flaming
   a tomahawk of dispersal
@@ -732,7 +732,8 @@ Level 14 of the Dungeon
     It insulates you from electricity.
     It protects you from negative energy.
     It affects your resistance to hostile enchantments.
-  1379 bolts
+  a +4 scimitar of flaming
+  1397 bolts
 (30, -6, D:14)
   the cursed +1 short sword of Checkmate {pierce, rC+ Stlth+}
     It inflicts extra damage upon your enemies.
@@ -740,7 +741,7 @@ Level 14 of the Dungeon
     It protects you from cold.
     It makes you more stealthy.
     It has a curse placed upon it.
-  a +2 long sword of slicing
+  a +3 falchion
   a +1 dagger of venom
   a +3 hand axe
   a +1 morningstar of holy wrath
@@ -763,6 +764,7 @@ Level 14 of the Dungeon
   a +1 eveningstar of pain
   a +1 shortbow of flaming
   a +2 long sword of holy wrath
+  a +2 long sword of slicing
   a +1 short sword of speed
   a +3 morningstar
   a +0 antimagic spear
@@ -1006,12 +1008,12 @@ Level 14 of the Dungeon
   a scroll of brand weapon
   5 scrolls of magic mapping
   a wand of disintegration (6)
-  a wand of digging (4)
+  a wand of digging (8)
   2 scrolls of blinking
   an uncursed ring of stealth
   an uncursed staff of power
   an uncursed staff of wizardry
-  5 scrolls of amnesia
+  3 scrolls of amnesia
   5 scrolls of immolation
   5 scrolls of noise
   6 potions of flight
@@ -3290,6 +3292,12 @@ Level 2 of the Depths
   a +0 dire flail
 (45, -3, Depths:2)
   a +0 arbalest
+(47, -2, Depths:2)
+  a wand of random effects (16)
+  a scroll of silence
+  a scroll of magic mapping
+  a scroll of remove curse
+  a scroll of identify
 (48, -24, Depths:2)
   5 large rocks
 (49, -26, Depths:2)

@@ -1,0 +1,239 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16769569628957853325
+
+529664 Tanevvit the Conqueror (level 27, 394/409 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Mar 11, 2020.
+             Quit the game on level 5 of the Pits of Slime.
+             The game lasted 00:23:31 (122 turns).
+
+Tanevvit the Conqueror (Hill Orc Fighter)            Turns: 122, Time: 00:23:31
+
+Health: 394/409    AC: 29    Str: 18    XL:     27
+Magic:  50/54      EV:  2    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex: 10    Spells: 77/80 levels left
+
+rFire    + . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     + + +     Faith    .   (armour currently unavailable)
+rPois    +         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  .   (cloak currently unavailable)
+rCorr    +         Harm     .   (gloves currently unavailable)
+MR       ++...     NoTele   +   (boots currently unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.78/turn              e - ring of resist corrosion
+MPRegen  0.34/turn              k - ring of protection from fire
+
+@: tree-form, portal projectile, corroded, hasted, very quick
+A: no striking features
+a: Cancel Portal Projectile
+
+
+You were on level 5 of the Pits of Slime.
+You were completely stuffed.
+
+You were a tree.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ l - 26 javelins
+ n - 29 throwing nets (quivered)
+Armour
+ b - a +0 scale mail (melded)
+ c - a +0 shield (worn)
+Jewellery
+ e - a ring of resist corrosion (left branch)
+ k - a ring of protection from fire (right branch)
+Wands
+ m - a wand of clouds (8)
+ p - a wand of scattershot (8)
+Scrolls
+ h - 9 scrolls of vulnerability
+ i - 8 scrolls of torment
+ j - 8 scrolls of immolation
+Potions
+ d - a potion of might
+ g - 9 potions of lignification
+ o - 11 potions of haste
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ + Level 10.7 Evocations
+
+
+You had 77 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Portal Projectile     Hex/Tloc       50 (50)      0%          3    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Jiyva
+
+Message History
+
+The fiery explosion engulfs the acid blob!
+The acid blob is almost dead.
+The fiery explosion engulfs the acid blob!!!
+You kill the acid blob!
+That felt strangely unrewarding.
+The fiery explosion engulfs the acid blob!!
+The acid blob is severely wounded.
+The fiery explosion engulfs the death ooze!!
+You destroy the death ooze!
+That felt strangely unrewarding.
+The fiery explosion engulfs the acid blob!!
+You kill the acid blob!
+That felt strangely unrewarding.
+With an infernal noise, the power ruling this place vanishes!
+The fiery explosion engulfs the acid blob!!!
+You kill the acid blob!
+That felt strangely unrewarding.
+The dying Royal Jelly spits out two more jellies.
+The azure jelly is engulfed in blazing flames.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.........................................#
+........................................##
+.........................................#
+..........##....#........................#
+..........#####.####.....................#
+.........##[##..##$###...................##
+.......###$![#.##!([##....................##
+.......##$=$##..##))[###...................#
+.....###[)=}(....[|}=$###...................
+.....###[?:?......[)!$##...................#
+......###$:.[....).!%###J..0...............#
+.....#####..........#####0J0...............#
+...(....#............#700000(..............#
+......#................#J00...............##
+......####..........#####00...............#
+.....####$(.)....:.??###J.0...............#
+.....###$(:%......?)!)###................##
+.....###)[?[?....()}}[##.................#
+......###$[$##..##=)(##.................##
+.......###?!!#.##?$?###..................#
+.........##%##..##?###................#.##
+..........#####.####....^..............#.#
+...........#.....###.....................#
+....................^...............###.##
+
+
+You could see an acid blob, an azure jelly (wandering) and 2 death oozes.
+
+Vanquished Creatures
+  the Royal Jelly (Slime:5)
+  12 acid blobs (Slime:5)
+  11 azure jellies (Slime:5)
+  7 death oozes (Slime:5)
+31 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A death ooze (Slime:5)
+1 creature vanquished.
+
+Grand Total: 32 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tanevvit the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     1 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     1 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     1 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     1 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     1 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     1 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/39
+     1 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/40
+     1 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/41
+     1 | D:1      | Reached XP level 11. HP: 143/143 MP: 1/42
+     1 | D:1      | Reached XP level 12. HP: 151/151 MP: 1/43
+     1 | D:1      | Reached XP level 13. HP: 159/159 MP: 1/44
+     1 | D:1      | Reached XP level 14. HP: 168/168 MP: 1/45
+     1 | D:1      | Reached XP level 15. HP: 174/174 MP: 1/46
+     1 | D:1      | Reached XP level 16. HP: 183/183 MP: 1/47
+     1 | D:1      | Reached XP level 17. HP: 191/191 MP: 1/48
+     1 | D:1      | Reached XP level 18. HP: 200/200 MP: 1/49
+     1 | D:1      | Reached XP level 19. HP: 207/207 MP: 1/50
+     1 | D:1      | Reached XP level 20. HP: 216/216 MP: 1/51
+     1 | D:1      | Reached XP level 21. HP: 224/224 MP: 1/52
+     1 | D:1      | Reached XP level 22. HP: 233/233 MP: 1/53
+     1 | D:1      | Reached XP level 23. HP: 240/240 MP: 1/54
+     1 | D:1      | Reached XP level 24. HP: 249/249 MP: 1/54
+     1 | D:1      | Reached XP level 25. HP: 257/257 MP: 1/54
+     1 | D:1      | Reached XP level 26. HP: 266/266 MP: 1/54
+     1 | D:1      | Reached XP level 27. HP: 273/273 MP: 1/54
+     2 | Slime:5  | Entered Level 5 of the Pits of Slime
+     2 | Slime:5  | Found a viscous altar of Jiyva.
+     2 | Slime:5  | Found the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+
+                  | AC+3}
+     2 | Slime:5  | Noticed the Royal Jelly
+    47 | Slime:5  | Noticed the Royal Jelly
+    55 | Slime:5  | Noticed the Royal Jelly
+    68 | Slime:5  | Learned a level 3 spell: Portal Projectile
+   111 | Slime:5  | Noticed the Royal Jelly
+   121 | Slime:5  | Killed the Royal Jelly
+   122 | Slime:5  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |       |       |       |       |       |       |       |       |    29 ||    29
+Throw: Javelin           |       |       |       |       |       |       |       |       |     4 ||     4
+       Throwing net      |       |       |       |       |       |       |       |       |     1 ||     1
+ Cast: Portal Projectile |       |       |       |       |       |       |       |       |     2 ||     2
+Evoke: Phantom mirror    |       |       |       |       |       |       |       |       |     3 ||     3
+       Wand              |       |       |       |       |       |       |       |       |     2 ||     2
+  Use: Scroll            |       |       |       |       |       |       |       |       |    11 ||    11
+       Potion            |       |       |       |       |       |       |       |       |     4 ||     4
+Armor: Skin              |       |       |       |       |       |       |       |       |    76 ||    76
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     6 ||     6
+Block: Shield            |       |       |       |       |       |       |       |       |    61 ||    61
+
