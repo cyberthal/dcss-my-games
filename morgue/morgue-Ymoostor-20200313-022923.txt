@@ -1,0 +1,197 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13994978042411666795
+
+526951 Ymoostor the Conqueror (level 27, 261/273 HPs) *WIZ*
+             Began as a Hill Orc Monk on Mar 13, 2020.
+             Was the Champion of Zin.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:19 (98 turns).
+
+Ymoostor the Conqueror (Hill Orc Monk)                Turns: 98, Time: 00:07:20
+
+Health: 261/273    AC:  4    Str: 13    XL:     27
+Magic:  48/54      EV: 30    Int: 10    God:    Zin 177 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hand axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.55/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a Hell Sentinel (confused)
+The floor.
+You hear a choir sing!
+The Hell Sentinel is blasted by Zin's holy word!
+By Zin's power, all blood is cleared from the sanctuary.
+The Hell Sentinel turns to flee the light!
+Press: ? - help, v - describe, . - travel
+Here: a Hell Sentinel (sanctuary, moderately wounded, confused, dazed, fleeing)
+The floor.
+The Hell Sentinel is lost in a daze.
+The Hell Sentinel is lost in a daze.
+The Hell Sentinel is lost in a daze.
+The Hell Sentinel is no longer dazed.
+The sanctuary disappears.
+Press: ? - help, v - describe, . - travel
+Here: a Hell Sentinel (lightly wounded, confused)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#   #.#     ##.......................#.#####
+#   #.#     #..............#####.##.#.!.....
+#####.#######..###.##..###.#####.##.########
+.$..............##.##....>.......##.# ######
+$.###.#####.###.##.##.).##.#####.##.###.....
+#.# #.......# #....##...##.#####.........###
+#.# #.####..###.#####............##.#....# #
+#.###.#  #......#####.#.##...............###
+......#  #.##############........[..........
+#.#####  #.#   ######[..##########...#...###
+#.#      #.#   #####..<..##### ###...##.####
+#.#      #.#  ######...1.#######.$...##....#
+#.#    ###.####(..###...###...####..........
+#.######...##.......##@##.......##....####..
+#.#........#.........#.#....$....##$..#  #..
+#.#.####.###.........+.+..$......###.##  #.#
+..#.#  #.# #.........#.#.........# #.#   #.)
+###.#  #.# ##.......##'##.......## #(#   #..
+....#  #.#  ###...####.####...#### #.#   #>.
+###.#  #.#    #####.......######.# #.#   #.#
+  #.#  #.#    ##.............###.###.#####.#
+  #.#  #.#   ##...............##...........#
+###.#  #.#   #...........?.....####..#######
+.##.####.#   #........}........#  #..#
+.##.#....#   #...![..}>}.......# ##..#
+.##.#.####   #........}.......[# #...#     #
+
+
+You could see a Hell Sentinel (confused).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ymoostor the Hill Orc Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 143/143 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 151/151 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 159/159 MP: 1/44
+     0 | D:1      | Reached XP level 14. HP: 168/168 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 174/174 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 183/183 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 191/191 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 200/200 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 207/207 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 216/216 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 224/224 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 233/233 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 240/240 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 249/249 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 257/257 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 266/266 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 273/273 MP: 1/54
+     0 | D:1      | Became a worshipper of Zin the Law-Giver
+     0 | D:1      | Reached * piety under Zin
+     0 | D:1      | Reached ** piety under Zin
+     0 | D:1      | Reached *** piety under Zin
+     0 | D:1      | Reached **** piety under Zin
+     0 | D:1      | Reached ***** piety under Zin
+     0 | D:1      | Reached ****** piety under Zin
+    98 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Invok: Sanctuary         |       |       |       |       |       |       |       |       |     4 ||     4
+       Imprison          |       |       |       |       |       |       |       |       |     2 ||     2
+       Recite            |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     1 ||     1
+
