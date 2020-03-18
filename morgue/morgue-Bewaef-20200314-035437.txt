@@ -1,0 +1,287 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4793879319813063358
+
+587622 Bewaef the Conqueror (level 27, 249/249 HPs) *WIZ*
+             Began as a Demonspawn Abyssal Knight on Mar 14, 2020.
+             Was the Champion of Lugonu.
+             Quit the game on level 5 of the Abyss.
+             The game lasted 00:11:22 (31 turns).
+
+Bewaef the Conqueror (Demonspawn Abyssal Knight)      Turns: 31, Time: 00:11:23
+
+Health: 249/249    AC: 13    Str: 12    XL:     27
+Magic:  12/54      EV: 27    Int: 13    God:    Lugonu 200 (0)
+Gold:   0          SH: 24    Dex: 12    Spells: 80/80 levels left
+
+rFire    + . .     SeeInvis +   f - +3 hand axe "Gicucho" {chop, rPois}
+rCold    . . .     Gourm    .   d - +0 large shield
+rNeg     + . .     Faith    .   b - +0 leather armour
+rPois    +         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  e - +1 pair of boots
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.51/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: antennae 3, slimy green scales 3, fire resistance 1, ignite blood, negative
+energy resistance 1, spiny 3, 50% torment resistance, black mark, flame cloud
+immunity
+}: 1/15 runes: abyssal
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Enter the Abyss, Brand Weapon
+With Distortion, Renounce Religion
+
+
+You were on level 5 of the Abyss.
+You worshipped Lugonu.
+Lugonu was exalted by your worship.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 4 times.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 spear
+ f - the +3 hand axe "Gicucho" (weapon) {chop, rPois}
+   (You found it on level 3 of the Abyss)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It protects you from poison.
+Armour
+ b - a +0 leather armour (worn)
+ d - a +0 large shield (worn)
+ e - a +1 pair of boots (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of large antennae on your head. (SInv)
+You are completely covered in slimy green scales. (AC +4, rPois)
+Your flesh is heat resistant. (rF+)
+Your demonic aura causes spilled blood to erupt in flames.
+You resist negative energy. (rN+)
+You are completely covered in sharp spines.
+You are somewhat able to resist unholy torments (1 in 2 success).
+Your melee attacks may debilitate your foes.
+You are immune to clouds of flame.
+
+
+Message History
+
+Found a scroll labeled FASSEILUDA, a spear and a scroll labeled IWKEOM NANA.
+Enter Wizard Command (? - help): 
+Force level to be mappable? 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Regenerating level.
+Found 2 grey potions, a scroll labeled VEMIOC XETIW and a lamp of fire.
+Enter Wizard Command (? - help): 
+Force level to be mappable? 
+Mapping level.
+Search for what [Enter for "."]? .
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..(......##...####..~~~~~~~~#.~~~~~..#..#...
+....~......##.###.~~~~~~7~~~~~~..~~}.....#.#
+...........#.##.##~~~~~~.~~~~##.##~...#.##..
+.[..#.........##..~~~~7...~~~###.##.#.###..#
+..............####~~~~~.#.##..#######..###.#
+....#........###..#~~..#....###.###.#..#####
+............)#####.~~...##}##..##...#.......
+..#...~####....##.###....#...#....#.#.#.....
+###............#.#~......#.....##....##.##.#
+.###........#..##...###..###!?..##.#........
+###.........#....#.#.##.##.....#......#.#...
+#...#.......#...####.##..##.#..#.#..........
+#...........#....#..#.#.###.##..#.###.##....
+###......(..#......##.@.#.....#.$.\#......##
+#....................#.....#...#.....#..#...
+.##...#.....#.......#..#..#.##..#.##..#..#..
+.#..$###...###...#...###.#.....#....#..#....
+.##.## ##.## ##.##..#...#..##...#...#..##.#\
+.##..###...###...###..##.#..##.#..#.#.##..#.
+###...#.....#.....##.......#.##.......##.#..
+###.............!.##..#.....#...#.######..##
+.#....#.....#......###...##..#....#.##..#.#.
+..#..###...###...#...##..####..#.......###..
+....## ##.## ##.####.##..#.##..#..##.##..#..
+###..###...###...###....##..........##.....#
+........##.#..####.....#####..###..#####.#.#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Bewaef the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | Abyss:1  | Entered wizard mode.
+     0 | Abyss:1  | Gained mutation: You are partially covered in sharp spines.
+                  | [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 2. HP: 63/63 MP: 2/30
+     0 | Abyss:1  | Gained mutation: Your flesh is heat resistant. (rF+)
+                  | [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 3. HP: 70/70 MP: 2/31
+     0 | Abyss:1  | Gained mutation: You are immune to clouds of flame.
+                  | [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 4. HP: 78/78 MP: 2/33
+     0 | Abyss:1  | Gained mutation: You are partially covered in slimy green
+                  | scales. (AC +2) [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 5. HP: 85/85 MP: 2/34
+     0 | Abyss:1  | Reached XP level 6. HP: 93/93 MP: 2/36
+     0 | Abyss:1  | Gained mutation: You are mostly covered in slimy green
+                  | scales. (AC +3) [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 7. HP: 100/100 MP: 2/37
+     0 | Abyss:1  | Reached XP level 8. HP: 108/108 MP: 2/39
+     0 | Abyss:1  | Reached XP level 9. HP: 115/115 MP: 2/40
+     0 | Abyss:1  | Reached XP level 10. HP: 123/123 MP: 2/41
+     0 | Abyss:1  | Gained mutation: You are completely covered in slimy green
+                  | scales. (AC +4, rPois) [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 11. HP: 130/130 MP: 2/42
+     0 | Abyss:1  | Reached XP level 12. HP: 138/138 MP: 2/43
+     0 | Abyss:1  | Reached XP level 13. HP: 145/145 MP: 2/44
+     0 | Abyss:1  | Reached XP level 14. HP: 153/153 MP: 2/45
+     0 | Abyss:1  | Gained mutation: You have a pair of small antennae on your
+                  | head. [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 15. HP: 159/159 MP: 2/46
+     0 | Abyss:1  | Reached XP level 16. HP: 167/167 MP: 2/47
+     0 | Abyss:1  | Reached XP level 17. HP: 174/174 MP: 2/48
+     0 | Abyss:1  | Gained mutation: Your demonic aura causes spilled blood to
+                  | erupt in flames. [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 18. HP: 182/182 MP: 2/49
+     0 | Abyss:1  | Gained mutation: You have a pair of antennae on your head.
+                  | [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 19. HP: 189/189 MP: 2/50
+     0 | Abyss:1  | Gained mutation: You are mostly covered in sharp spines.
+                  | [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 20. HP: 197/197 MP: 2/51
+     0 | Abyss:1  | Gained mutation: You resist negative energy. (rN+) [demonic
+                  | ancestry]
+     0 | Abyss:1  | Reached XP level 21. HP: 204/204 MP: 2/52
+     0 | Abyss:1  | Gained mutation: You have a pair of large antennae on your
+                  | head. (SInv) [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 22. HP: 212/212 MP: 2/53
+     0 | Abyss:1  | Reached XP level 23. HP: 219/219 MP: 2/54
+     0 | Abyss:1  | Gained mutation: You are somewhat able to resist unholy
+                  | torments (1 in 2 success). [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 24. HP: 227/227 MP: 2/54
+     0 | Abyss:1  | Reached XP level 25. HP: 234/234 MP: 2/54
+     0 | Abyss:1  | Gained mutation: You are completely covered in sharp
+                  | spines. [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 26. HP: 242/242 MP: 2/54
+     0 | Abyss:1  | Gained mutation: Your melee attacks may debilitate your
+                  | foes. [demonic ancestry]
+     0 | Abyss:1  | Reached XP level 27. HP: 249/249 MP: 2/54
+    16 | Abyss:2  | Found a roughly hewn altar of Beogh.
+    16 | Abyss:2  | Found an iron altar of Okawaru.
+    17 | Abyss:2  | Found a basalt altar of Yredelemnul.
+    26 | Abyss:3  | Found a corrupted altar of Lugonu.
+    26 | Abyss:3  | Found a corrupted altar of Lugonu.
+    26 | Abyss:3  | Got a transparent hand axe
+    26 | Abyss:3  | Identified the +3 hand axe "Gicucho" {chop, rPois} (You
+                  | found it on level 3 of the Abyss)
+    27 | Abyss:4  | Found a corrupted altar of Lugonu.
+    28 | Abyss:4  | Reached ** piety under Lugonu
+    28 | Abyss:4  | Reached *** piety under Lugonu
+    28 | Abyss:4  | Reached **** piety under Lugonu
+    28 | Abyss:4  | Reached ***** piety under Lugonu
+    28 | Abyss:4  | Reached ****** piety under Lugonu
+    28 | Abyss:4  | Found a burning altar of Makhleb.
+    28 | Abyss:4  | Found a shadowy altar of Dithmenos.
+    28 | Abyss:4  | Found a deep blue altar of Sif Muna.
+    28 | Abyss:4  | Found a white marble altar of Elyvilon.
+    28 | Abyss:4  | Found an opulent altar of Gozag.
+    28 | Abyss:4  | Found an ornate altar of the Wu Jian Council.
+    28 | Abyss:4  | Found an iron altar of Okawaru.
+    28 | Abyss:4  | Found an ancient bone altar of Kikubaaqudgha.
+    28 | Abyss:4  | Found a bloodstained altar of Trog.
+    28 | Abyss:4  | Found a glowing golden altar of the Shining One.
+    28 | Abyss:4  | Found a shattered altar of Ashenzari.
+    28 | Abyss:4  | Found a blossoming altar of Fedhas.
+    28 | Abyss:4  | Found a sparkling altar of Nemelex Xobeh.
+    28 | Abyss:4  | Found a shimmering altar of Xom.
+    28 | Abyss:4  | Found a stormy altar of Qazlal.
+    28 | Abyss:4  | Found a glowing silver altar of Zin.
+    28 | Abyss:4  | Found a basalt altar of Yredelemnul.
+    28 | Abyss:4  | Found a radiant altar of Vehumet.
+    28 | Abyss:4  | Found a hide-covered altar of Uskayaw.
+    28 | Abyss:4  | Found a snail-covered altar of Cheibriados.
+    28 | Abyss:4  | Found an ornate altar of the Wu Jian Council.
+    28 | Abyss:4  | Found a bloodstained altar of Trog.
+    29 | Abyss:5  | Entered Level 5 of the Abyss
+    30 | Abyss:5  | Found a corrupted altar of Lugonu.
+    30 | Abyss:5  | Found a hazy altar of Hepliaklqana.
+    30 | Abyss:5  | Got an abyssal rune of Zot
+    31 | Abyss:5  | Entered Level 5 of the Abyss
+    31 | Abyss:5  | Found a corrupted altar of Lugonu.
+    31 | Abyss:5  | Found a corrupted altar of Lugonu.
+    31 | Abyss:5  | Entered Level 5 of the Abyss
+    31 | Abyss:5  | Found a burning altar of Makhleb.
+    31 | Abyss:5  | Entered Level 5 of the Abyss
+    31 | Abyss:5  | Found a runed translucent door.
+    31 | Abyss:5  | Quit the game
+
