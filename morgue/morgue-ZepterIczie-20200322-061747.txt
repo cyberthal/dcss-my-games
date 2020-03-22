@@ -1,0 +1,234 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11232010002088878639
+
+526951 Zepter Iczie the Intangible (level 27, 199/199 HPs) *WIZ*
+             Began as a Gargoyle Earth Elementalist on Mar 22, 2020.
+             Was the Champion of the Shining One.
+             Quit the game on level 3 of the Tomb of the Ancients.
+             The game lasted 00:04:38 (2 turns).
+
+Zepter Iczie the Intangible (GrEE)                     Turns: 2, Time: 00:04:39
+
+Health: 199/199    AC: 25    Str: 11    XL:     27
+Magic:  3/54       EV: 26    Int: 15    God:    the Shining One 200 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   c - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++......             (no amulet)
+HPRegen  0.43/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: glowing
+A: big wings, negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +20
+a: Fly, Divine Shield, Cleansing Flame, Summon Divine Warrior, Brand Weapon With
+Holy Wrath, Renounce Religion
+
+
+You were on level 3 of the Tomb of the Ancients.
+You worshipped the Shining One.
+The Shining One was exalted by your worship.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Missiles
+ b - 30 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           50 (50)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Passwall                 Tmut/Erth      79 (120)     0%          2    0
+ Stone Arrow              Conj/Erth      50 (50)      0%          3    0
+ Petrify                  Tmut/Erth      79 (100)     0%          4    0
+ Lee's Rapid Deconstruct  Erth           79 (200)     0%          5    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +20)
+You are immune to poison.
+Your large and strong wings let you fly indefinitely.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Regenerating level.
+Found a scroll labeled UCWIUCREODETT, 606 gold pieces, a runed mace, a glowing
+dagger, a scroll labeled XISUHO DYZXIOC and a lightning rod (4/4).
+Found a one-way staircase leading up.
+A mummy and a guardian mummy come into view.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 127 monsters.
+Enter Wizard Command (? - help): 
+Level build method = random_map_for_place, level layout type  = encompass,
+absdepth0 = 23
+Level vaults:
+    tomb_3 [tomb_3_rune_grunt_doroklohe]
+    uniq_mara; 
+Press: ? - help, v - describe, . - travel
+A one-way staircase leading up.
+This square is lit by a halo.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##)$$..## #....$.# ##$$$$##
+#}:[....###......###$$$$$$##
+}|)$.....##......##...$(!$$##
+))$?%..^.##....^.##...$M$$$)##
+)}$.......#......#.....$$$$$$##
+)z$$......#.)....#....$$$$$$$$##
+[$........+......+...M.$$$$}$$$##
+$!%.......#......#.....$$$?$$$$$#
+z.......^^#......#....M.)$$$)$$)#
+M........##.^.^.^##..^...$.$$$Z$#
+^.....^..##MMMzMM##........$.$$$#
+....^...##.......^##^^........)[#
+^.....<##.........^##@...^?...$##
+......##...........?##.^......$#
+.^...##MMMMMzbMMMzMMM##.....$$##
+....##s.......M.......##....###
+#+####...s..........s.####+###
+....s.s...........s..s..s....###
+..[....Lss.....MR...M.M........##
+....s...s..ss.....ss.s...Z......#
+###s.....LM.......M.....###(....##
+#M#...^z..ss.....Ms.....#L#......#
++##.....s..b^...s......M##+......#
+....sM..zz......M.M......^.......#
+
+
+You could see a guardian mummy (dormant) and a mummy (dormant).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zepter Iczie the Gargoyle Earth Elementalist began the
+                  | quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 50/50 MP: 3/30
+     0 | D:1      | Reached XP level 3. HP: 56/56 MP: 3/31
+     0 | D:1      | Reached XP level 4. HP: 62/62 MP: 3/33
+     0 | D:1      | Reached XP level 5. HP: 68/68 MP: 3/34
+     0 | D:1      | Reached XP level 6. HP: 74/74 MP: 3/36
+     0 | D:1      | Reached XP level 7. HP: 80/80 MP: 3/37
+     0 | D:1      | Reached XP level 8. HP: 86/86 MP: 3/39
+     0 | D:1      | Reached XP level 9. HP: 92/92 MP: 3/40
+     0 | D:1      | Reached XP level 10. HP: 98/98 MP: 3/41
+     0 | D:1      | Reached XP level 11. HP: 104/104 MP: 3/42
+     0 | D:1      | Reached XP level 12. HP: 110/110 MP: 3/43
+     0 | D:1      | Reached XP level 13. HP: 116/116 MP: 3/44
+     0 | D:1      | Gained mutation: Your large and strong wings let you fly
+                  | indefinitely. [Gargoyle growth]
+     0 | D:1      | Reached XP level 14. HP: 122/122 MP: 3/45
+     0 | D:1      | Reached XP level 15. HP: 127/127 MP: 3/46
+     0 | D:1      | Reached XP level 16. HP: 133/133 MP: 3/47
+     0 | D:1      | Reached XP level 17. HP: 139/139 MP: 3/48
+     0 | D:1      | Reached XP level 18. HP: 145/145 MP: 3/49
+     0 | D:1      | Reached XP level 19. HP: 151/151 MP: 3/50
+     0 | D:1      | Reached XP level 20. HP: 157/157 MP: 3/51
+     0 | D:1      | Reached XP level 21. HP: 163/163 MP: 3/52
+     0 | D:1      | Reached XP level 22. HP: 169/169 MP: 3/53
+     0 | D:1      | Reached XP level 23. HP: 175/175 MP: 3/54
+     0 | D:1      | Reached XP level 24. HP: 181/181 MP: 3/54
+     0 | D:1      | Reached XP level 25. HP: 187/187 MP: 3/54
+     0 | D:1      | Reached XP level 26. HP: 193/193 MP: 3/54
+     0 | D:1      | Reached XP level 27. HP: 199/199 MP: 3/54
+     0 | D:1      | Became a worshipper of the Shining One
+     0 | D:1      | Reached * piety under the Shining One
+     0 | D:1      | Reached ** piety under the Shining One
+     0 | D:1      | Reached *** piety under the Shining One
+     0 | D:1      | Reached **** piety under the Shining One
+     0 | D:1      | Reached ***** piety under the Shining One
+     0 | D:1      | Reached ****** piety under the Shining One
+     0 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+     0 | Tomb:3   | Found the +6 shillelagh "Devastator" {shatter}
+     0 | Tomb:3   | Noticed Sojobo
+     0 | Tomb:3   | Noticed a greater mummy
+     0 | Tomb:3   | Noticed a greater mummy
+     0 | Tomb:3   | Noticed a greater mummy
+     0 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+     0 | Tomb:3   | Found the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+     0 | Tomb:3   | Found the +8 demon trident "Rift" {distort, reach+}
+     0 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+     2 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+     2 | Tomb:3   | Found the +8 trident of the Octopus King {venom, rElec
+                  | rPois MR+}
+     2 | Tomb:3   | Found the +3 giant club "Skullcrusher" {speed, Str+7}
+     2 | Tomb:3   | Quit the game
+

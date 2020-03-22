@@ -1,0 +1,92 @@
+Ufrux
+
+Level 1 of the Tomb of the Ancients
+(0, 0, Tomb:1)
+  18 arrows
+(1, -26, Tomb:1)
+  a +0 spear
+(3, -3, Tomb:1)
+  22 gold pieces
+(5, -26, Tomb:1)
+  a scroll of identify
+(15, -28, Tomb:1)
+  2 potions of flight
+(19, -29, Tomb:1)
+  the amulet "Aqeeng" {Spirit *Slow rPois rC+++ Dex-3}
+    [amulet of guardian spirit]
+    
+    It causes incoming damage to be split between your health and magic.
+    It affects your dexterity (-3).
+    It renders you almost immune to cold.
+    It protects you from poison.
+    It may slow you when you take damage.
+(19, -28, Tomb:1)
+  a ration
+(19, -21, Tomb:1)
+  a scroll of brand weapon
+(19, -4, Tomb:1)
+  7 sling bullets
+  (unseen)
+(21, -40, Tomb:1)
+  27 gold pieces
+(23, 7, Tomb:1)
+  29 stones
+(30, -23, Tomb:1)
+  a Grand Grimoire
+(35, -36, Tomb:1)
+  a ration
+(43, 2, Tomb:1)
+  a +0 scale mail
+(44, 4, Tomb:1)
+  a potion of degeneration
+(50, -32, Tomb:1)
+  a scroll of holy word
+
+Level 2 of the Tomb of the Ancients
+(0, 0, Tomb:2)
+  18 stones
+(0, 10, Tomb:2)
+  19 sling bullets
+(1, -15, Tomb:2)
+  2 potions of haste
+(5, -6, Tomb:2)
+  12 bolts
+(6, 13, Tomb:2)
+  18 arrows
+(7, 4, Tomb:2)
+  a +0 mace
+(8, 10, Tomb:2)
+  the +4 fustibalus of Reinforcement {velocity, MP+9 Dex+4}
+    Any stone fired from it inflicts extra damage.
+    
+    It affects your dexterity (+4).
+    It affects your magic capacity (+9).
+(11, 15, Tomb:2)
+  a cursed -3 flail
+(16, -2, Tomb:2)
+  a potion of curing
+(16, 8, Tomb:2)
+  25 gold pieces
+(20, -15, Tomb:2)
+  15 stones
+(21, 16, Tomb:2)
+  a potion of mutation
+(22, 6, Tomb:2)
+  a scroll of remove curse
+(25, 11, Tomb:2)
+  a ration
+(26, -14, Tomb:2)
+  a +0 robe
+(27, 7, Tomb:2)
+  a +0 trident
+(27, 9, Tomb:2)
+  a +0 chain mail
+(30, 14, Tomb:2)
+  8 stones
+(32, 4, Tomb:2)
+  a +0 plate armour
+(34, -12, Tomb:2)
+  a wand of acid (11)
+(34, 11, Tomb:2)
+  a scroll of identify
+

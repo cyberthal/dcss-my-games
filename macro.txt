@@ -7,16 +7,16 @@ M:\{3}
 A:\{6}corpse
 
 M:1
-A:PTPA<PD>wh
+A:PD<PA>wH
 
 M:2
-A:PTPA<PD>wi
+A:PD<PA>wg
 
 M:3
-A:PTPs<PD>wf
+A:PD<PA>wf
 
 M:4
-A:PTPs<PA>wf
+A:PD<PA>wh
 
 M:6
 A:Vu

@@ -1,0 +1,157 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6582619285779193479
+
+0 Lyube the Firebug (level 1, 14/14 HPs) *WIZ*
+             Began as a Hill Orc Fire Elementalist on Mar 19, 2020.
+             Was an Initiate of Zin.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:06 (4 turns).
+
+Lyube the Firebug (Hill Orc Fire Elementalist)         Turns: 4, Time: 00:04:06
+
+Health: 14/14      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    Zin 15 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 2/3 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    +   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             b - amulet of faith
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Zin.
+Zin was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ b - an amulet of faith (around neck)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 1.5 Stealth
+ + Level 1.5 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 3.2 Fire Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      7 (40)       10%         1    27
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      7 (50)       14%         2    77
+ Conjure Flame            Conj/Fire      7 (100)      28%         3    127
+ Inner Flame              Hex/Fire       6 (100)      34%         3    127
+ Sticky Flame             Conj/Fire      7 (100)      67%         4    227
+ Fireball                 Conj/Fire      7 (200)      95%         5    377
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The Shining One welcomes you back!
+Zin says: Farewell. Go and vanquish evil with the Shining One.
+Your amulet flashes!
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Setting piety to 20.
+Enter Wizard Command (? - help): 
+Which god (by name)? zin
+You have lost your religion!
+Your divine halo fades away.
+Zin welcomes you back!
+The Shining One says: Farewell. Go and enforce order with Zin.
+Your amulet flashes! You can now donate money to Zin.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+          ..
+          .#
+         ..#
+         ..#
+.### ####..####
+.....#........#
+....$.........#
+     #.@.......
+     #........#
+     ###..#####
+        ..#
+        ...
+        ....
+        #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Lyube the Hill Orc Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Zin the Law-Giver
+     0 | D:1      | Reached * piety under Zin
+     0 | D:1      | Reached ** piety under Zin
+     0 | D:1      | Reached *** piety under Zin
+     0 | D:1      | Reached **** piety under Zin
+     0 | D:1      | Reached ***** piety under Zin
+     0 | D:1      | Reached ****** piety under Zin
+     0 | D:1      | Fell from the grace of Zin
+     0 | D:1      | Became a worshipper of the Shining One
+     0 | D:1      | Reached * piety under the Shining One
+     0 | D:1      | Reached ** piety under the Shining One
+     0 | D:1      | Reached *** piety under the Shining One
+     0 | D:1      | Reached **** piety under the Shining One
+     2 | D:1      | Reached ***** piety under the Shining One
+     2 | D:1      | Reached ****** piety under the Shining One
+     2 | D:1      | Fell from the grace of the Shining One
+     2 | D:1      | Became a worshipper of Zin the Law-Giver
+     3 | D:1      | Fell from the grace of Zin
+     3 | D:1      | Became a worshipper of the Shining One
+     4 | D:1      | Fell from the grace of the Shining One
+     4 | D:1      | Became a worshipper of Zin the Law-Giver
+     4 | D:1      | Fell from the grace of Zin
+     4 | D:1      | Became a worshipper of the Shining One
+     4 | D:1      | Fell from the grace of the Shining One
+     4 | D:1      | Became a worshipper of Zin the Law-Giver
+     4 | D:1      | Quit the game
+

@@ -321,9 +321,6 @@ Level 10 of the Dungeon
   a +0 ring mail
   a +0 short sword
 (18, -12, D:10)
-  the -4 pair of boots of Impermeability {rElec Dex+2}
-    It affects your dexterity (+2).
-    It insulates you from electricity.
   a +0 helmet
   a +2 ring mail
   a +0 robe of cold resistance
@@ -352,7 +349,6 @@ Level 10 of the Dungeon
   a +2 rapier of draining
   a +2 long sword
   a +2 dagger of venom
-  a +0 fustibalus
   a +1 scimitar of flaming
   a +1 falchion of holy wrath
   a +0 short sword of protection
@@ -632,7 +628,16 @@ Level 14 of the Dungeon
   a +0 shortbow
 (28, -33, D:14)
   a large rock
+(29, -8, D:14)
+  a runed plate armour
+  a runed plate armour
 (29, -7, D:14)
+  the -4 pair of boots of Impermeability {rElec Dex+2}
+    It affects your dexterity (+2).
+    It insulates you from electricity.
+  a +1 pair of gloves of strength
+  a +1 cloak of magic resistance
+  a +5 shield of fire resistance
   a scarf of resistance
   +0 shadow dragon scales
   +0 gold dragon scales
@@ -645,9 +650,15 @@ Level 14 of the Dungeon
   a +2 large shield
   a +2 crystal plate armour
   a +1 helmet of see invisible
+  the +4 plate armour of the Maze {*Drain Regen+ rCorr Str+4}
+    It affects your strength (+4).
+    It increases your rate of regeneration.
+    It provides partial protection from all sources of acid and corrosion.
+    It causes draining when unequipped.
 (29, -6, D:14)
   the +0 helmet of the Final Moons {rF+}
     It protects you from fire.
+  a +2 cloak
   the +0 chain mail of the Boiling Point {rPois Str+3 Dex+4 Slay+2}
     It affects your strength (+3).
     It affects your dexterity (+4).
@@ -703,7 +714,23 @@ Level 14 of the Dungeon
   a cursed +0 plate armour
   a +2 pair of gloves
 (30, -7, D:14)
-  15 needles of frenzy
+  a +5 short sword
+  9 javelins of penetration
+  214 sling bullets
+  31 javelins
+  a +1 vampiric broad axe
+  the +9 spear of Fecky {antimagic, rC+ Str+5}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your strength (+5).
+    It protects you from cold.
+  a +0 dagger of distortion
+  a +5 morningstar
+  a +2 broad axe
+  a +7 long sword
+  a +6 quick blade
   the +7 long sword of the Hidden Vale {elec, rF+ Int+5}
     Occasionally, upon striking a foe, it will discharge some electrical energy
     and cause terrible harm.
@@ -718,16 +745,6 @@ Level 14 of the Dungeon
     It affects your resistance to hostile enchantments.
     It lets you fly.
   a +0 fustibalus of venom
-  the +4 morningstar "Liqucoc" {antimagic, *Noise +Rage +Fly rPois Stlth+}
-    It reduces the magical energy of the wielder, and disrupts the spells and
-    magical abilities of those hit. Natural abilities and divine invocations are
-    not affected.
-    
-    It protects you from poison.
-    It lets you fly.
-    It lets you go berserk.
-    It may make noises in combat.
-    It makes you more stealthy.
   the +5 long sword "Tazo" {flame, rPois rF+ MR+}
     It has been specially enchanted to burn those struck by it, causing extra
     injury to most foes and up to half again as much damage against particularly
@@ -738,29 +755,58 @@ Level 14 of the Dungeon
     It protects you from poison.
     It affects your resistance to hostile enchantments.
   6 exploding tomahawks
-  1033 stones
-  a +4 long sword of holy wrath
+  1329 stones
+  26 needles of confusion
   a cursed +5 hand axe
   6 poisoned javelins
+  15 needles of frenzy
   a +3 broad axe of flaming
   3 silver tomahawks
   5 needles of sleeping
   a +0 hand crossbow of freezing
   a +3 sacred scourge of holy wrath
   a +3 war axe of electrocution
+  20 curare-tipped needles {!f}
   a +4 hand axe of flaming
   a tomahawk of dispersal
   9 steel tomahawks
   a +5 spear of flaming
-  a +4 morningstar of crushing
+  130 poisoned needles
+  a +5 blowgun
+  a +4 morningstar of flaming
   12 poisoned tomahawks
   86 tomahawks
-  9 throwing nets {!f}
+  21 throwing nets {!f}
+  2325 arrows
+  the +6 morningstar of Spores {freeze, rF++ Str-4}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your strength (-4).
+    It greatly protects you from fire.
+  a +5 trident of freezing
   a +0 broad axe of electrocution
   13 tomahawks of returning
   a +4 scimitar of flaming
-  1501 bolts
+  1811 bolts
+  the +8 dagger "Avossos" {venom, MR+}
+    It poisons the flesh of those it strikes.
+    
+    It affects your resistance to hostile enchantments.
 (30, -6, D:14)
+  a +0 mace of protection
+  a +2 flail of crushing
+  the +2 rapier of Fegau {flame, Stlth+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It makes you more stealthy.
+  a +1 demon whip of draining
+  a +2 vampiric war axe
+  a +1 short sword of venom
+  a +2 demon whip of freezing
   a +1 demon whip of electrocution
   a -1 morningstar
   a +1 dagger of venom
@@ -818,7 +864,7 @@ Level 14 of the Dungeon
     It may corrode you when you take damage.
     It has a curse placed upon it.
     
-    Zin disapproves of the use of such an item.
+    The Shining One disapproves of the use of such an item.
   a +0 trident of protection
   a +3 vampiric short sword
   a +0 long sword of electrocution
@@ -827,6 +873,7 @@ Level 14 of the Dungeon
   a +2 short sword of venom
   a +4 short sword of venom
   a +3 long sword
+  a +4 morningstar of crushing
   the cursed +0 short sword of the Beast {elec, +Rage rPois rF+ Int+4}
     Occasionally, upon striking a foe, it will discharge some electrical energy
     and cause terrible harm.
@@ -864,6 +911,7 @@ Level 14 of the Dungeon
     It affects your magic capacity (+9).
   a +2 mace of protection
   a +3 long sword
+  a +4 long sword of holy wrath
   a +4 scimitar of flaming
   a +3 hand axe of chopping
   a +3 hand axe
@@ -908,25 +956,42 @@ Level 14 of the Dungeon
     It protects you from negative energy.
     It will be destroyed if unequipped.
     
-    Zin disapproves of the use of such an item.
+    The Shining One disapproves of the use of such an item.
   a +1 whip of pain
   a +2 demon trident of venom
   the +9 sword of Zonguldrok {reap}
     If a monster killed with it leaves a corpse in good enough shape, the corpse
     will be animated as a zombie friendly to the killer.
     
-    Zin disapproves of the use of such an item.
+    The Shining One disapproves of the use of such an item.
   a +4 quick blade of draining
   a +2 blowgun
+  a +2 scimitar of draining
   a +5 dagger of venom
   a +0 flail of protection
   a +1 spear of venom
   a +0 hand axe of electrocution
 (30, -5, D:14)
   a -3 long sword
-(31, -8, D:14)
-  a glowing arbalest
 (31, -7, D:14)
+  a +0 shortbow of velocity
+  a +1 shortbow of freezing
+  a +5 battleaxe of freezing
+  a +3 lajatang of speed
+  the +4 shortbow "Onim" {freeze, rPois rC- Int+5}
+    It causes projectiles fired from it to freeze those they strike, causing
+    extra injury to most foes and up to half again as much damage against
+    particularly susceptible opponents. They can also slow down cold-blooded
+    creatures.
+    
+    It affects your intelligence (+5).
+    It makes you vulnerable to cold.
+    It protects you from poison.
+  an executioner's axe of draining
+  a +2 vampiric lajatang
+  a +5 great sword
+  a +1 great sword of holy wrath
+  a +2 battleaxe of electrocution
   the +4 glaive "Kanythrye" {vamp, *Rage rN+ Dex+2}
     It inflicts no extra harm, but heals its wielder when it wounds a living
     foe.
@@ -935,7 +1000,7 @@ Level 14 of the Dungeon
     It protects you from negative energy.
     It may make you go berserk in combat.
     
-    Zin disapproves of the use of such an item.
+    The Shining One disapproves of the use of such an item.
   the cursed +3 shortbow of Keineizo {flame, *Slow rPois Int-5 Dex+8}
     It causes projectiles fired from it to burn those they strike, causing extra
     injury to most foes and up to half again as much damage against particularly
@@ -973,6 +1038,9 @@ Level 14 of the Dungeon
   a +6 battleaxe of chopping
   a +2 battleaxe of electrocution
 (31, -6, D:14)
+  a +1 shortbow of flaming
+  a +4 arbalest
+  a +2 great mace of crushing
   a +2 bardiche of venom
   a +1 vampiric trident
   a +0 shortbow of flaming
@@ -1008,9 +1076,94 @@ Level 14 of the Dungeon
 (31, -5, D:14)
   a -2 quarterstaff
 (32, -7, D:14)
-  an uncursed ring of protection from cold
-  a cursed ring of teleportation
+  the ring of Ejusygao {rCorr Int+8}
+    [ring of resist corrosion]
+    
+    It affects your intelligence (+8).
+  the ring of Tinyapt {+Fly rF+ rN+ Int-2 SInv}
+    [ring of positive energy]
+    
+    It affects your intelligence (-2).
+    It protects you from fire.
+    It protects you from negative energy.
+    It lets you see invisible.
+    It lets you fly.
+  9 potions of agility
+  19 scrolls of identify
+  7 potions of might
+  31 scrolls of teleportation
+  15 potions of heal wounds
+  11 potions of haste
+  15 potions of brilliance
+  7 potions of berserk rage
+  a wand of paralysis (57)
+  8 scrolls of magic mapping
+  17 scrolls of immolation
+  9 scrolls of blinking
+  a wand of digging (28)
+  the ring of Haijes {MR+ MP+9 Str+2 Stlth+}
+    [ring of stealth]
+    
+    It affects your strength (+2).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+    It makes you more stealthy.
+  15 scrolls of fog
+  48 potions of curing
+  the ring "Kebb" {-Tele rElec EV+4 Int+9 Dex+3}
+    [ring of evasion]
+    
+    It affects your evasion (+4).
+    It affects your intelligence (+9).
+    It affects your dexterity (+3).
+    It insulates you from electricity.
+    It prevents most forms of teleportation.
+  6 potions of cancellation
+  a wand of scattershot (15)
+  21 scrolls of remove curse
+  a wand of acid (55)
+  3 scrolls of holy word
+  5 scrolls of silence
+  2 scrolls of brand weapon
+  an uncursed staff of summoning
+  a +5 ring of dexterity
+  a +5 ring of intelligence
+  a +5 ring of strength
+  the ring "Capoev Amag" {rC+ rN+ Str+4}
+    [ring of positive energy]
+    
+    It affects your strength (+4).
+    It protects you from cold.
+    It protects you from negative energy.
+  the amulet of Pride {Reflect rPois MR+++ Str-4 Int+7 SH+3}
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your strength (-4).
+    It affects your intelligence (+7).
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+    It affects your SH (+3).
+  the ring of Xesucez {rElec rN+}
+    [ring of positive energy]
+    
+    It insulates you from electricity.
+    It protects you from negative energy.
+  a figurine of a ziggurat
   a scroll of amnesia
+  a wand of disintegration (9)
+  a wand of flame (11)
+  the ring of the Mage {Wiz MR++ Int+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+  an uncursed ring of teleportation
+  an uncursed ring of fire
+  a wand of polymorph (75)
+  a +6 amulet of reflection
+  an uncursed ring of protection from cold
   7 potions of ambrosia
   the amulet "Hiuwnar" {Gourm Int+3 SInv}
     [amulet of the gourmand]
@@ -1019,24 +1172,21 @@ Level 14 of the Dungeon
     It affects your intelligence (+3).
     It lets you see invisible.
   an uncursed ring of ice
-  an uncursed staff of earth
   an uncursed staff of cold
   a potion of invisibility
   a scroll of torment
-  12 scrolls of fog
+  7 sacks of spiders
   the ring "Memuhodd" {rElec Dex+4 Stlth-}
     [ring of attention]
     
     It affects your dexterity (+4).
     It insulates you from electricity.
     It makes you less stealthy.
-  4 scrolls of enchant armour
+  6 scrolls of enchant armour
   an uncursed staff of death
-  a +5 ring of intelligence
+  a wand of iceblast (54)
   an uncursed staff of fire
-  3 scrolls of holy word
-  6 potions of cancellation
-  a wand of clouds (16)
+  a wand of clouds (22)
   the ring "Gittucoi" {Ice MR+}
     [ring of ice]
     
@@ -1044,49 +1194,39 @@ Level 14 of the Dungeon
     It makes you vulnerable to fire.
     It protects you from cold.
     It affects your resistance to hostile enchantments.
-  16 scrolls of identify
-  3 scrolls of silence
   an uncursed staff of conjuration
   an uncursed ring of resist corrosion
   an uncursed ring of stealth
-  an uncursed ring of wizardry
   an uncursed ring of protection from cold
-  3 phantom mirrors
   an uncursed amulet of the gourmand
   5 potions of resistance
   an uncursed ring of magical power
-  3 scrolls of summoning
-  9 scrolls of fear
+  4 scrolls of summoning
+  11 scrolls of fear
   an uncursed staff of air
-  9 potions of mutation
   a wand of random effects (25)
-  a scroll of brand weapon
-  a wand of flame (14)
-  a wand of scattershot (16)
-  5 scrolls of blinking
+  15 scrolls of vulnerability
+  a wand of flame (92)
   an uncursed ring of stealth
   an uncursed staff of power
   an uncursed staff of wizardry
-  8 scrolls of noise
-  7 potions of flight
-  17 scrolls of remove curse
+  10 scrolls of noise
+  9 potions of flight
   an uncursed ring of wizardry
   an uncursed amulet of magic regeneration
-  7 potions of agility
-  3 boxes of beasts
-  13 potions of lignification
-  a wand of polymorph (69)
-  an uncursed amulet of faith
+  a wand of disintegration (40)
   an uncursed amulet of rage
   an uncursed ring of protection from magic
-  6 potions of magic
+  7 potions of magic
   an uncursed ring of positive energy
-  8 potions of might
+  an uncursed amulet of faith
   an uncursed amulet of the acrobat
-  7 potions of berserk rage
   a wand of enslavement (27)
   an uncursed ring of protection from fire
 (32, -6, D:14)
+  a +5 ring of intelligence
+  a -5 ring of protection
+  a +5 ring of intelligence
   a +2 ring of evasion
   a ring of magical power
   an uncursed ring of protection from magic
@@ -1285,13 +1425,13 @@ Level 1 of the Orcish Mines
 
 Level 2 of the Orcish Mines
 [Shop] Datiemyp's Jewellery Boutique
-  an uncursed ring of fire (unknown) (425 gold)
+  an uncursed ring of fire (425 gold)
   a +4 amulet of reflection (459 gold)
   a +3 amulet of reflection (266 gold)
   an uncursed ring of protection from magic (425 gold)
   an uncursed amulet of magic regeneration (510 gold)
   an uncursed ring of resist corrosion (340 gold)
-  an uncursed ring of fire (unknown) (425 gold)
+  an uncursed ring of fire (425 gold)
   an uncursed ring of positive energy (340 gold)
   an uncursed ring of wizardry (510 gold)
 [Shop] Xunwud's Assorted Antiques
@@ -1303,7 +1443,7 @@ Level 2 of the Orcish Mines
   an uncursed ring of magical power (260 gold)
   an uncursed amulet of faith (520 gold)
   an uncursed ring of protection from fire (325 gold)
-  an uncursed ring of fire (unknown) (325 gold)
+  an uncursed ring of fire (325 gold)
   a cursed -4 ring of intelligence (26 gold)
   the ring "Yptacvesm" {MR+ Dex+3} (497 gold)
     [ring of protection from magic]
@@ -1927,7 +2067,7 @@ Level 6 of the Lair of Beasts
     It affects your dexterity (+2).
     It lets you see invisible.
     
-    Zin disapproves of the use of such an item.
+    The Shining One disapproves of the use of such an item.
   a +0 plate armour
   a +1 bardiche
 (0, 1, Lair:6)
@@ -2453,7 +2593,7 @@ Level 2 of the Vaults
   an uncursed ring of protection from fire (500 gold)
   an uncursed ring of protection from fire (500 gold)
   an uncursed amulet of magic regeneration (600 gold)
-  an uncursed ring of flight (unknown) (350 gold)
+  an uncursed ring of flight (350 gold)
 (1, -38, Vaults:2)
   a staff of air
 (10, -29, Vaults:2)
@@ -2575,7 +2715,6 @@ Level 2 of the Vaults
 
 Level 3 of the Vaults
 [Shop] Siomudd's Magic Scroll Emporium
-  a scroll of remove curse (60 gold)
   a scroll of remove curse (60 gold)
 (0, 0, Vaults:3)
   a +0 trident
@@ -3074,6 +3213,331 @@ Level 5 of the Vaults
 (57, -2, Vaults:5)
   a +0 arbalest
 
+Level 1 of the Crypt
+(0, 0, Crypt:1)
+  a book of Geomancy
+(6, -4, Crypt:1)
+  a staff of conjuration
+(8, -14, Crypt:1)
+  a +0 robe
+(9, -4, Crypt:1)
+  a cloak
+(9, -3, Crypt:1)
+  a runed leather armour
+(18, -38, Crypt:1)
+  a ring mail
+(20, -32, Crypt:1)
+  a ring mail
+(22, -30, Crypt:1)
+  a +0 chain mail
+  a +0 battleaxe of draining
+(23, 6, Crypt:1)
+  a trident
+(27, -27, Crypt:1)
+  an uncursed ring of wizardry
+(27, 0, Crypt:1)
+  a +0 plate armour
+  a +3 great mace
+(28, -11, Crypt:1)
+  a +0 long sword
+(28, 1, Crypt:1)
+  a +0 chain mail
+  a +1 battleaxe
+(31, -7, Crypt:1)
+  a +0 glaive
+  a +0 chain mail
+(32, -24, Crypt:1)
+  a leather armour
+(32, -7, Crypt:1)
+  a +0 glaive
+(32, -5, Crypt:1)
+  a +0 hand axe
+(35, 6, Crypt:1)
+  a ring of stealth
+(36, -5, Crypt:1)
+  a distressingly furry leather armour
+(49, -13, Crypt:1)
+  a +0 chain mail
+  a +3 battleaxe of draining
+(53, -21, Crypt:1)
+  a +0 short sword
+(65, -34, Crypt:1)
+  a leather armour
+(66, -43, Crypt:1)
+  a staff of power
+(67, -42, Crypt:1)
+  a shortbow
+(68, -42, Crypt:1)
+  a ring of flight
+
+Level 2 of the Crypt
+(0, 0, Crypt:2)
+  a +0 robe
+  a +1 short sword of flaming
+(1, 2, Crypt:2)
+  a +0 robe
+(1, 3, Crypt:2)
+  a +0 robe
+  a +0 great sword
+(5, -16, Crypt:2)
+  a +0 chain mail
+  a +3 great mace
+(5, 6, Crypt:2)
+  a +0 short sword
+(6, -16, Crypt:2)
+  a +0 robe
+(6, 1, Crypt:2)
+  a +0 robe
+(12, -11, Crypt:2)
+  a shortbow
+(22, 3, Crypt:2)
+  a scale mail
+(23, -2, Crypt:2)
+  a +0 chain mail of positive energy
+  a +0 great sword
+(32, -18, Crypt:2)
+  a +0 morningstar
+  a +0 war axe
+  a +0 morningstar
+  a +1 great mace
+  a +0 chain mail
+(33, -19, Crypt:2)
+  a +0 trident
+(35, -13, Crypt:2)
+  a plate armour
+(37, 17, Crypt:2)
+  a cursed -1 scimitar
+(37, 19, Crypt:2)
+  a +0 chain mail
+  a +0 dire flail
+(38, 4, Crypt:2)
+  a chain mail
+(38, 16, Crypt:2)
+  a +0 dire flail
+  a +0 mace
+(38, 17, Crypt:2)
+  a +0 battleaxe
+(39, 16, Crypt:2)
+  a +0 glaive
+(41, 17, Crypt:2)
+  a cursed +0 robe
+(56, -12, Crypt:2)
+  a leather armour
+
+Level 3 of the Crypt
+(0, 0, Crypt:3)
+  a +0 hand axe
+(1, -17, Crypt:3)
+  a plate armour
+(3, -31, Crypt:3)
+  a helmet
+(3, -30, Crypt:3)
+  a glowing chain mail
+(8, -27, Crypt:3)
+  a dyed leather armour
+(9, -28, Crypt:3)
+  a leather armour
+(9, -27, Crypt:3)
+  a broad axe
+(12, -49, Crypt:3)
+  a book of the Sky
+(13, -49, Crypt:3)
+  a runed robe
+(14, -32, Crypt:3)
+  a +2 whip of draining
+(16, -2, Crypt:3)
+  a chain mail
+(17, -10, Crypt:3)
+  a +0 war axe
+(18, -12, Crypt:3)
+  a +0 short sword
+(19, -13, Crypt:3)
+  a +0 long sword
+(19, -12, Crypt:3)
+  a +0 chain mail
+  a +0 great sword
+(20, -24, Crypt:3)
+  a +0 robe
+  a +0 dagger
+(20, -13, Crypt:3)
+  a +0 trident
+(20, -11, Crypt:3)
+  a +0 flail
+(21, -25, Crypt:3)
+  a +0 short sword
+  a cursed +0 halberd
+(21, -13, Crypt:3)
+  a +0 trident
+(22, -24, Crypt:3)
+  a +0 flail
+  a +0 scimitar
+  a +0 chain mail
+  a +0 battleaxe
+  a +0 chain mail
+  a +0 chain mail
+  a +3 battleaxe of draining
+(23, -28, Crypt:3)
+  a +0 short sword
+  the +5 storm dragon scales "Vifuk" {rElec Str+4 Int+6}
+    It affects your strength (+4).
+    It affects your intelligence (+6).
+    It insulates you from electricity.
+(23, -11, Crypt:3)
+  a +0 short sword
+(28, -10, Crypt:3)
+  a cursed -2 glaive
+(29, -27, Crypt:3)
+  a lamp of fire
+  a staff of power
+(35, -30, Crypt:3)
+  a runed leather armour
+(35, -29, Crypt:3)
+  a fan of gales
+(36, -31, Crypt:3)
+  a pair of gloves
+(38, -1, Crypt:3)
+  a +0 battleaxe
+
+Level 1 of the Tomb of the Ancients
+(0, 0, Tomb:1)
+  a scroll of noise
+(24, 4, Tomb:1)
+  a robe
+(29, 37, Tomb:1)
+  a +0 flail
+(31, 51, Tomb:1)
+  14 stones
+(34, 33, Tomb:1)
+  a battleaxe
+(34, 54, Tomb:1)
+  a morningstar
+(38, 33, Tomb:1)
+  a +4 halberd of venom
+(49, 25, Tomb:1)
+  24 arrows
+(49, 26, Tomb:1)
+  a ring mail
+(50, 18, Tomb:1)
+  a chain mail
+(52, 47, Tomb:1)
+  a war axe
+(55, 5, Tomb:1)
+  a blowgun
+
+Level 2 of the Tomb of the Ancients
+(0, 0, Tomb:2)
+  a +0 chain mail
+  a +2 great mace
+(1, -24, Tomb:2)
+  a glowing garnet amulet
+(1, 2, Tomb:2)
+  a +0 plate armour
+  a +3 battleaxe of draining
+(1, 3, Tomb:2)
+  a +1 glaive of freezing
+  a +0 spear
+(2, -7, Tomb:2)
+  a crystal ball of energy
+(2, -3, Tomb:2)
+  a whip
+(2, 0, Tomb:2)
+  an uncursed staff of wizardry
+  (unseen)
+(2, 2, Tomb:2)
+  a +0 war axe
+  a +0 long sword
+  a +0 battleaxe
+(19, 6, Tomb:2)
+  5 large rocks
+(26, -23, Tomb:2)
+  a broad axe
+(28, -4, Tomb:2)
+  a +0 plate armour
+  a +3 great sword
+  a +0 chain mail
+  a +3 great mace
+(29, -4, Tomb:2)
+  a +0 mace
+(30, -4, Tomb:2)
+  a robe
+(31, -3, Tomb:2)
+  a scale mail
+(31, -2, Tomb:2)
+  an eveningstar
+
+Level 3 of the Tomb of the Ancients
+(0, 0, Tomb:3)
+  a book of Annihilations
+(0, 2, Tomb:3)
+  a ring of ice
+(1, -17, Tomb:3)
+  a lightning rod (4/4)
+(1, 0, Tomb:3)
+  an arbalest
+(1, 2, Tomb:3)
+  transparent steam dragon scales
+(2, 2, Tomb:3)
+  a Fen Folio
+(2, 4, Tomb:3)
+  16 stones
+  33 arrows
+  a glowing plate armour
+(3, 2, Tomb:3)
+  a staff of power
+(4, 2, Tomb:3)
+  a glowing scale mail
+(4, 5, Tomb:3)
+  a +0 cloak of poison resistance
+(5, 3, Tomb:3)
+  a staff of conjuration
+(5, 4, Tomb:3)
+  a book of Transfigurations
+(5, 5, Tomb:3)
+  a book of Frost
+(5, 6, Tomb:3)
+  the +5 robe of Misfortune {*Contam Harm *Corrode *Drain *Slow EV+5}
+    It affects your evasion (+5).
+    It causes magical contamination when unequipped.
+    It may corrode you when you take damage.
+    It causes draining when unequipped.
+    It may slow you when you take damage.
+    It increases damage dealt and taken.
+(5, 7, Tomb:3)
+  a staff of wizardry
+(6, -24, Tomb:3)
+  a robe
+(6, 7, Tomb:3)
+  a staff of fire
+(7, -16, Tomb:3)
+  a hand crossbow
+(7, 6, Tomb:3)
+  a potion of degeneration
+(10, 8, Tomb:3)
+  a book of Fire
+(16, 8, Tomb:3)
+  a +0 plate armour
+  a +0 great mace of flaming
+(17, 8, Tomb:3)
+  a +0 plate armour
+  a +0 battleaxe of flaming
+(17, 9, Tomb:3)
+  a +0 long sword
+(20, -1, Tomb:3)
+  a book of Power
+(20, 7, Tomb:3)
+  a +0 chain mail
+  a +1 great mace of draining
+(21, 3, Tomb:3)
+  a +0 scimitar
+(24, -18, Tomb:3)
+  a chain mail
+(31, 2, Tomb:3)
+  an arbalest
+(32, 4, Tomb:3)
+  a robe
+(33, -10, Tomb:3)
+  2 sling bullets
+
 the Vestibule of Hell
 (23, 0, Hell)
   a +0 flail
@@ -3160,29 +3624,18 @@ the Vestibule of Hell
 
 Level 1 of the Realm of Zot
 (0, 0, Zot:1)
-  a runed scimitar
-(1, 22, Zot:1)
-  a scroll of blinking
-(10, -2, Zot:1)
   a leather armour
-(17, 35, Zot:1)
+(7, 37, Zot:1)
   a +1 cloak
-  (unseen)
-(30, 2, Zot:1)
+(20, 4, Zot:1)
   +0 shadow dragon scales
-(33, 10, Zot:1)
-  10 stones
-(37, 44, Zot:1)
+(27, 46, Zot:1)
   a book of Necromancy
-(38, -4, Zot:1)
+(28, -2, Zot:1)
   a leather armour
-(47, 38, Zot:1)
-  a potion of lignification
-(50, -3, Zot:1)
-  21 stones
-(57, 31, Zot:1)
+(47, 33, Zot:1)
   +0 gold dragon scales
-(59, -4, Zot:1)
+(49, -2, Zot:1)
   a +0 short sword
   a +0 halberd
   a +0 long sword
@@ -3190,18 +3643,211 @@ Level 1 of the Realm of Zot
 
 Level 2 of the Realm of Zot
 (0, 0, Zot:2)
+  a long sword
+(1, -17, Zot:2)
+  a +0 great sword
+(2, -18, Zot:2)
+  a +0 cloak
+  a +2 long sword of holy wrath
+(2, -17, Zot:2)
+  a +0 flail
+(17, -20, Zot:2)
   a +2 halberd of freezing
-(1, 0, Zot:2)
+(17, 25, Zot:2)
+  a cursed +0 cloak
+  a +0 rapier
+(18, -20, Zot:2)
   a +1 hand axe of chopping
+(20, 24, Zot:2)
+  a +1 cloak
+  a +0 glaive
+(20, 25, Zot:2)
+  a +0 dire flail
+  a +0 war axe
+(24, -6, Zot:2)
+  the +0 pair of gloves "Kumaxt" {*Slow Slay+5}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+5).
+    It may slow you when you take damage.
+(24, 21, Zot:2)
+  a +0 short sword
+(26, 19, Zot:2)
+  a +0 glaive
+(27, -14, Zot:2)
+  a quarterstaff
+(32, 4, Zot:2)
+  a leather armour
+(36, 30, Zot:2)
+  a +0 short sword
+(37, 27, Zot:2)
+  a +0 cloak
+  a +0 dagger
+
+Level 3 of the Realm of Zot
+(0, 0, Zot:3)
+  a cloak
+  a morningstar
+  a cloak
+  a +0 short sword of draining
+  a +0 trident of piercing
+(2, 8, Zot:3)
+  a +0 cloak
+  a +1 long sword of protection
+(4, 7, Zot:3)
+  a cloak
+  a +0 hand axe
+(5, -2, Zot:3)
+  a flail
+(7, 11, Zot:3)
+  a +0 hand axe
+(7, 12, Zot:3)
+  a flail
+(8, -15, Zot:3)
+  a fan of gales
+(11, 14, Zot:3)
+  a +0 war axe
+  a +2 cloak
+(13, -12, Zot:3)
+  a ration
+(14, 0, Zot:3)
+  a book of the Warp
+(15, 14, Zot:3)
+  a +0 short sword
+(17, -14, Zot:3)
+  a cursed +0 cloak
   (unseen)
-(7, 41, Zot:2)
-  a +0 short sword (still there?)
-  6 sling bullets (still there?)
-(9, 39, Zot:2)
-  a +0 glaive (still there?)
-  3 sling bullets (still there?)
-(10, 39, Zot:2)
-  a sling bullet
+(17, -13, Zot:3)
+  19 arrows (still there?)
+  a +0 whip (still there?)
+(18, -26, Zot:3)
+  an amulet of magic regeneration
+(19, -17, Zot:3)
+  a metal-bound book
+(19, -13, Zot:3)
+  a +0 dagger
+  (unseen)
+(19, -1, Zot:3)
+  28 gold pieces
+(20, -18, Zot:3)
+  a hat
+(20, -17, Zot:3)
+  a book of Maledictions
+(20, -1, Zot:3)
+  a glowing plate armour
+(21, -18, Zot:3)
+  a manual of Unarmed Combat
+(21, -17, Zot:3)
+  a book of Clouds
+(26, 0, Zot:3)
+  7 gold pieces
+(29, -17, Zot:3)
+  a chain mail
+(29, 2, Zot:3)
+  a ring mail
+(41, -11, Zot:3)
+  a +0 hand axe
+(42, -12, Zot:3)
+  a +0 halberd
+(42, -11, Zot:3)
+  a +1 flail of venom
+(42, -10, Zot:3)
+  a +0 halberd
+(42, 9, Zot:3)
+  a morningstar
+(43, -17, Zot:3)
+  a hand crossbow
+(43, -13, Zot:3)
+  a +1 battleaxe of draining
+  a cursed +0 cloak
+  a +2 long sword of slicing
+(43, -11, Zot:3)
+  a +1 mace of draining
+  a +1 cloak
+  a +0 short sword
+(44, -13, Zot:3)
+  a +0 long sword
+(44, -12, Zot:3)
+  a +0 cloak
+  a +0 long sword
+(44, -11, Zot:3)
+  a +0 battleaxe
+  a +0 cloak
+  a +0 rapier
+(46, -7, Zot:3)
+  a leather armour
+(57, -11, Zot:3)
+  a +0 dire flail
+
+Level 4 of the Realm of Zot
+(0, 0, Zot:4)
+  a war axe
+(5, -14, Zot:4)
+  a +0 scimitar
+(7, -13, Zot:4)
+  a +1 flail of crushing
+(7, -8, Zot:4)
+  a shortbow
+(12, -16, Zot:4)
+  a +0 hand axe
+(12, -15, Zot:4)
+  a +0 cloak
+(12, -13, Zot:4)
+  a +0 cloak
+  a +0 cloak
+(13, -6, Zot:4)
+  a +1 pair of gloves
+  23 stones
+(14, -4, Zot:4)
+  a +0 war axe
+  a +0 cloak
+  a +0 long sword
+(15, -4, Zot:4)
+  a +0 cloak
+  a +3 dagger of speed
+  a +0 long sword of holy wrath
+(16, -4, Zot:4)
+  a +0 mace
+(28, -3, Zot:4)
+  a +0 halberd
+(29, -11, Zot:4)
+  a rapier
+(29, -3, Zot:4)
+  a +0 mace
+(29, -2, Zot:4)
+  a +0 cloak
+  a +0 short sword
+(32, -19, Zot:4)
+  the cursed +0 chain mail of Knowledge {rF+}
+    It protects you from fire.
+    It has a curse placed upon it.
+(41, 15, Zot:4)
+  a cursed +0 cloak
+  a +0 dagger
+(42, 15, Zot:4)
+  a +0 flail
+  a +0 cloak
+  a +0 rapier
+  a +0 hand axe
+  a cursed +0 halberd
+(44, 3, Zot:4)
+  a +1 hand axe of flaming
+  +0 storm dragon scales
+(44, 15, Zot:4)
+  a +0 trident
+  a +1 cloak
+  a +0 long sword
+  a +0 battleaxe
+(45, 15, Zot:4)
+  a +0 cloak
+  a cursed -3 long sword
+(47, 15, Zot:4)
+  a +0 trident
+  a +0 cloak
+  a +0 rapier
+(50, 31, Zot:4)
+  a chain mail
+(55, -12, Zot:4)
+  a chain mail
 
 Level 1 of the Depths
 (0, 0, Depths:1)
@@ -3407,14 +4053,11 @@ Level 3 of the Depths
   a +0 blowgun (37 gold)
   10 poisoned needles (60 gold)
   2 poisoned tomahawks (30 gold)
-(4, 15, Depths:3)
-  a scroll of fear
 (6, -28, Depths:3)
   a +0 spear
 (8, -29, Depths:3)
   a +0 buckler
   a +0 robe
-  a +6 quick blade
 (20, -12, Depths:3)
   a +0 robe
   a +0 trident
@@ -3422,20 +4065,18 @@ Level 3 of the Depths
   a chain mail
 (23, 24, Depths:3)
   a +1 mace of protection
-  a +0 dagger
   a +0 robe
+  a +0 dagger
 (24, 5, Depths:3)
   a cursed -3 mace
 (24, 6, Depths:3)
   a +0 flail of holy wrath
 (24, 7, Depths:3)
+  a +0 robe
   a +0 dagger
-  a +0 robe
-(27, -22, Depths:3)
-  22 stones
 (27, 20, Depths:3)
-  a +0 spear
   a +0 robe
+  a +0 spear
 (28, -14, Depths:3)
   a +2 battleaxe of freezing
 (29, -16, Depths:3)
@@ -3445,9 +4086,8 @@ Level 3 of the Depths
 (29, 6, Depths:3)
   a +4 long sword
 (29, 7, Depths:3)
-  a +0 short sword
   a +0 leather armour
-  a +7 long sword
+  a +0 short sword
 (30, -15, Depths:3)
   a bolt
 (31, -16, Depths:3)
@@ -3456,15 +4096,11 @@ Level 3 of the Depths
 (31, 3, Depths:3)
   a cursed -1 dire flail
 (34, 14, Depths:3)
-  a ring of protection
-(34, 23, Depths:3)
-  a book of Minor Magic
+  a +3 ring of protection
 (34, 24, Depths:3)
   a runed leather armour
 (34, 25, Depths:3)
   a lamp of fire
-(34, 26, Depths:3)
-  a runed morningstar
 (34, 27, Depths:3)
   a ring of ice
 (37, 16, Depths:3)
@@ -3476,13 +4112,9 @@ Level 3 of the Depths
   a +0 dire flail
 (47, -11, Depths:3)
   a +0 animal skin
-  (unseen)
-(48, -24, Depths:3)
-  2 scrolls of identify
+  a +1 hand axe of draining
 (55, 10, Depths:3)
   a +0 trident
-(57, 9, Depths:3)
-  a wand of flame (32)
 
 Level 4 of the Depths
 [Shop] Imynoera's Book Emporium
@@ -3542,142 +4174,109 @@ Level 4 of the Depths
   a potion of might (48 gold)
   a potion of lignification (36 gold)
   a potion of mutation (96 gold)
-(0, 0, Depths:4)
-  a scroll of remove curse
-(7, 7, Depths:4)
-  a wand of clouds (6)
-(18, 24, Depths:4)
-  18 stones
-(19, 12, Depths:4)
-  21 stones
-(20, 22, Depths:4)
+(6, -11, Depths:4)
   a shortbow
-(21, 6, Depths:4)
-  17 bolts
-(21, 7, Depths:4)
-  a scroll of amnesia
-(21, 13, Depths:4)
-  17 stones
-(21, 33, Depths:4)
-  16 bolts
-  (unseen)
-(22, 6, Depths:4)
-  18 stones
-(22, 13, Depths:4)
-  a potion of mutation
-(22, 14, Depths:4)
-  16 bolts
-(22, 16, Depths:4)
-  a scroll of identify
-(22, 34, Depths:4)
-  a +0 troll leather armour
-(23, 33, Depths:4)
-  2 bolts (still there?)
-  a +0 broad axe (still there?)
-(23, 35, Depths:4)
+(7, 0, Depths:4)
   a +0 arbalest
-  22 bolts
-(23, 36, Depths:4)
-  a +0 buckler
-(24, 33, Depths:4)
-  2 bolts
-(24, 34, Depths:4)
-  14 bolts
-  (unseen)
-(24, 36, Depths:4)
-  a bolt
-(24, 40, Depths:4)
-  a bolt
-(25, 34, Depths:4)
-  a +1 battleaxe of freezing
-(25, 35, Depths:4)
-  +0 ice dragon scales
-  (unseen)
-(25, 36, Depths:4)
+(8, 1, Depths:4)
   a +0 troll leather armour
-  (unseen)
-(26, 35, Depths:4)
+(9, 0, Depths:4)
+  a +2 buckler of positive energy
+  a +0 leather armour
+  a +0 broad axe
+(9, 2, Depths:4)
+  a +0 arbalest
+(9, 3, Depths:4)
+  a +0 buckler
+(10, 1, Depths:4)
+  a +0 arbalest
+(11, 1, Depths:4)
+  a +1 battleaxe of freezing
+(11, 2, Depths:4)
+  +0 ice dragon scales
+  a +0 troll leather armour
+  a +0 buckler
+  a +1 battleaxe of freezing
+  a +0 arbalest
+  a +0 arbalest
+  a +0 animal skin
+  a +0 hand axe
+(11, 3, Depths:4)
+  a +0 troll leather armour
+  a +0 arbalest
+(12, -14, Depths:4)
+  a +0 long sword
+  a +1 scale mail of fire resistance
+  a +0 buckler of reflection
+(12, 2, Depths:4)
   a +0 troll leather armour
   a +0 animal skin
   a +0 broad axe
-  30 bolts
   a +0 arbalest
-(26, 36, Depths:4)
-  3 bolts
-(27, 29, Depths:4)
-  a scroll of identify
-(27, 31, Depths:4)
-  a potion of curing
+(13, -2, Depths:4)
   a +0 scale mail
   a +3 great mace
-(27, 35, Depths:4)
-  14 bolts
-  (unseen)
-(28, 6, Depths:4)
-  19 stones
-(28, 7, Depths:4)
-  a ring mail
-(28, 14, Depths:4)
-  a scroll of identify
-(29, 7, Depths:4)
-  a hunting sling
-(29, 14, Depths:4)
-  a potion of degeneration
-(29, 30, Depths:4)
-  a +0 great sword of flaming
-(30, 32, Depths:4)
+(13, 2, Depths:4)
   a +0 arbalest
-  15 bolts
-(31, 32, Depths:4)
-  a scroll of identify
-(34, -1, Depths:4)
+  a +0 animal skin
+  a +0 broad axe
+(14, -26, Depths:4)
+  a ring mail
+(15, -26, Depths:4)
+  a hunting sling
+(15, -19, Depths:4)
+  a potion of degeneration
+(15, -3, Depths:4)
+  a +0 great sword of flaming
+(16, -1, Depths:4)
+  a +0 arbalest
+(20, -34, Depths:4)
   a glowing chain mail
-(37, 19, Depths:4)
+(23, -14, Depths:4)
   a +0 leather armour
   a +0 dagger
-(38, 24, Depths:4)
+(24, -9, Depths:4)
   a +0 troll leather armour
-(41, 10, Depths:4)
+(27, -23, Depths:4)
   a +0 spear
   a +2 scale mail of cold resistance
   a +0 great mace
-(42, 7, Depths:4)
+(28, -26, Depths:4)
   a +0 long sword
-(42, 9, Depths:4)
+(28, -24, Depths:4)
   a +0 animal skin
   a +0 antimagic war axe
-(42, 26, Depths:4)
+(28, -7, Depths:4)
   an uncursed ring of resist corrosion
-  a +0 great sword of flaming
-  a scroll of enchant armour
   a +2 great sword of flaming
-(43, 9, Depths:4)
+  a +0 great sword of flaming
+(29, -24, Depths:4)
   a potion of degeneration
   a +0 robe
   a +0 animal skin
   a +0 quarterstaff
-(43, 11, Depths:4)
+(29, -22, Depths:4)
   a +0 ring mail
   a +0 great mace
-(43, 13, Depths:4)
+(29, -20, Depths:4)
   a +0 robe
-(44, 8, Depths:4)
+(30, -25, Depths:4)
   a cursed -1 buckler
   a +0 spear
-(44, 9, Depths:4)
+(30, -24, Depths:4)
   a +0 animal skin
   a +1 antimagic quarterstaff
-(44, 10, Depths:4)
+(30, -23, Depths:4)
   a +0 spear
-(44, 11, Depths:4)
+(30, -22, Depths:4)
   a +0 arbalest
-(50, 21, Depths:4)
+(36, -12, Depths:4)
   a +0 arbalest
-(50, 36, Depths:4)
+(36, 3, Depths:4)
   a cursed +0 robe
-(54, 33, Depths:4)
+(40, 0, Depths:4)
   a +2 great sword of flaming
-(55, 39, Depths:4)
+(41, 6, Depths:4)
   a +0 chain mail
   a cursed -1 halberd
 
@@ -3685,53 +4284,38 @@ Level 5 of the Depths
 (0, 0, Depths:5)
   a large rock
 (1, -24, Depths:5)
-  a scroll of silence
   a +0 chain mail
-  a potion of blood
   a +1 war axe
 (4, -4, Depths:5)
   a short sword
 (7, -6, Depths:5)
   a +0 short sword
   a +0 arbalest
-  26 bolts
-  a scroll of fog
 (9, -7, Depths:5)
   +0 ice dragon scales
 (9, -6, Depths:5)
   3 large rocks
 (11, -6, Depths:5)
-  57 bolts
   a large rock
 (12, 12, Depths:5)
   a war axe
-(14, -7, Depths:5)
-  a bolt
 (18, -23, Depths:5)
   a longbow
 (22, -23, Depths:5)
   a +0 troll leather armour
 (22, -22, Depths:5)
   a +0 troll leather armour
-(22, -1, Depths:5)
-  a phantom mirror
 (22, 0, Depths:5)
   a buckler
-(24, -35, Depths:5)
-  a bolt
 (24, -34, Depths:5)
   a +0 cloak
-  (unseen)
-(24, -16, Depths:5)
-  a runed plate armour
+  a +0 arbalest
 (24, -11, Depths:5)
   a +1 trident of protection
-  13 bolts
 (25, -35, Depths:5)
   a +0 short sword
 (30, 0, Depths:5)
   2 large rocks
-  3 poisoned needles
 (32, -21, Depths:5)
   a +0 mace of draining
 (32, -20, Depths:5)
@@ -3740,7 +4324,7 @@ Level 5 of the Depths
   +0 shadow dragon scales
 (36, -19, Depths:5)
   a +0 animal skin
-  (unseen)
+  a +0 quarterstaff
 (36, 0, Depths:5)
   a +0 buckler
   a +0 scale mail
@@ -3772,15 +4356,12 @@ Level 5 of the Depths
 (47, -21, Depths:5)
   a +4 battleaxe
   a +0 cloak
-(47, -6, Depths:5)
-  a potion of magic
 (47, -3, Depths:5)
   a +0 animal skin
   a +0 war axe
 (49, -1, Depths:5)
   a +0 robe
 (50, 1, Depths:5)
-  a scroll of identify
   a +0 plate armour
   a +2 war axe of chopping
 (51, -20, Depths:5)
@@ -3791,20 +4372,12 @@ Level 5 of the Depths
   a +0 arbalest
 (51, -1, Depths:5)
   a +2 battleaxe of freezing
-(59, -44, Depths:5)
-  5 stones
-(63, 12, Depths:5)
-  a scroll of remove curse
-(64, -44, Depths:5)
-  a +1 demon whip of draining
 (65, 2, Depths:5)
   +0 ice dragon scales
 (68, -45, Depths:5)
   a mace
 (68, -43, Depths:5)
   a shiny chain mail
-(69, -44, Depths:5)
-  a phantom mirror
 (71, -46, Depths:5)
   a broad axe
 (71, -45, Depths:5)

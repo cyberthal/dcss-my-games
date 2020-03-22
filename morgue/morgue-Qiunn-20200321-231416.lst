@@ -1,0 +1,450 @@
+Qiunn
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a scroll of magic mapping
+
+Level 1 of the Tomb of the Ancients
+(0, 0, Tomb:1)
+  a scroll of identify
+(13, 10, Tomb:1)
+  a scroll of remove curse
+(14, -1, Tomb:1)
+  32 gold pieces
+(17, -9, Tomb:1)
+  a potion of might
+(25, 1, Tomb:1)
+  18 bolts
+(27, -10, Tomb:1)
+  a wand of scattershot (7)
+(27, 3, Tomb:1)
+  14 gold pieces
+(30, -1, Tomb:1)
+  an uncursed ring of flight
+(31, -5, Tomb:1)
+  a potion of cancellation
+(32, -21, Tomb:1)
+  a ration
+(33, 10, Tomb:1)
+  a potion of curing
+(34, -3, Tomb:1)
+  a wand of acid (4)
+(35, 10, Tomb:1)
+  19 stones
+(36, -12, Tomb:1)
+  a +1 chain mail of poison resistance
+(37, -34, Tomb:1)
+  26 gold pieces
+(37, 17, Tomb:1)
+  12 gold pieces
+(40, 11, Tomb:1)
+  a scroll of random uselessness
+(41, -7, Tomb:1)
+  a +0 falchion
+(48, -35, Tomb:1)
+  a +0 dagger
+(50, -4, Tomb:1)
+  a scroll of magic mapping
+(50, 16, Tomb:1)
+  a scroll of identify
+(52, 0, Tomb:1)
+  a potion of curing
+
+Level 2 of the Tomb of the Ancients
+(0, 0, Tomb:2)
+  a +0 battleaxe
+(1, -14, Tomb:2)
+  a +2 long sword of holy wrath
+(2, -10, Tomb:2)
+  12 stones
+(3, 6, Tomb:2)
+  16 arrows
+(4, -9, Tomb:2)
+  a scroll of remove curse
+(5, 0, Tomb:2)
+  20 gold pieces
+(5, 12, Tomb:2)
+  a scroll of teleportation
+(6, -16, Tomb:2)
+  11 gold pieces
+(7, -21, Tomb:2)
+  a lamp of fire
+(11, -15, Tomb:2)
+  a +0 robe
+(12, -16, Tomb:2)
+  24 arrows
+(12, 5, Tomb:2)
+  a potion of ambrosia
+(15, -9, Tomb:2)
+  a +0 broad axe
+(17, -2, Tomb:2)
+  a scroll of remove curse
+(19, -20, Tomb:2)
+  a ration
+(20, -2, Tomb:2)
+  a scroll of torment
+(20, 16, Tomb:2)
+  a scroll of amnesia
+(21, 14, Tomb:2)
+  an uncursed ring of flight
+(24, -21, Tomb:2)
+  a scroll of holy word
+(27, 3, Tomb:2)
+  a +0 robe of cold resistance
+
+Level 3 of the Tomb of the Ancients
+(0, 0, Tomb:3)
+  a book of Battle
+(0, 17, Tomb:3)
+  an uncursed staff of poison
+(0, 18, Tomb:3)
+  17 gold pieces
+(0, 19, Tomb:3)
+  a +1 scimitar of slicing
+(0, 20, Tomb:3)
+  a book of Geomancy
+(0, 21, Tomb:3)
+  a +2 dagger of venom
+(1, 9, Tomb:3)
+  14 stones
+(1, 17, Tomb:3)
+  32 gold pieces
+(1, 18, Tomb:3)
+  Fuergharus's Tome of the Blaze
+    Spells                           Type                      Level
+     a - Flame Tongue                 Conjuration/Fire              1
+     b - Throw Flame                  Conjuration/Fire              2
+     c - Conjure Flame                Conjuration/Fire              3
+     d - Sticky Flame                 Conjuration/Fire              4
+     e - Fireball                     Conjuration/Fire              5
+(1, 19, Tomb:3)
+  18 gold pieces
+(1, 20, Tomb:3)
+  a +1 hand axe of chopping
+(1, 21, Tomb:3)
+  the ring of the Tormentor {rC+ EV+2 SInv}
+    [ring of evasion]
+    
+    It affects your evasion (+2).
+    It protects you from cold.
+    It lets you see invisible.
+(1, 22, Tomb:3)
+  a book of Cantrips
+(2, 17, Tomb:3)
+  26 gold pieces
+(2, 18, Tomb:3)
+  an uncursed amulet of magic regeneration
+  (unseen)
+(2, 19, Tomb:3)
+  14 gold pieces
+(2, 20, Tomb:3)
+  21 stones
+  (unseen)
+(2, 21, Tomb:3)
+  a +4 chain mail of cold resistance
+(2, 22, Tomb:3)
+  a +3 morningstar of protection
+(2, 23, Tomb:3)
+  a +1 quarterstaff of speed
+(3, 19, Tomb:3)
+  a +3 glaive of protection
+(3, 20, Tomb:3)
+  18 gold pieces
+(3, 21, Tomb:3)
+  an uncursed staff of death
+(3, 22, Tomb:3)
+  a +2 hat of magic resistance
+(3, 23, Tomb:3)
+  a book of Changes
+(3, 24, Tomb:3)
+  a +0 hunting sling of velocity
+(4, 20, Tomb:3)
+  8 gold pieces
+(4, 21, Tomb:3)
+  a fan of gales
+(4, 22, Tomb:3)
+  a crystal ball of energy
+(4, 23, Tomb:3)
+  a book of Battle
+(4, 24, Tomb:3)
+  Sif Muna's Disquisition on Gliding Protection
+    Spells                           Type                      Level
+     a - Infusion                     Charms                        1
+     b - Regeneration                 Charms/Necromancy             3
+     c - Excruciating Wounds          Charms/Necromancy             5
+     d - Silence                      Hexes/Air                     5
+     e - Freezing Cloud               Conjuration/Ice/Air           6
+(4, 25, Tomb:3)
+  an uncursed amulet of guardian spirit
+(5, 19, Tomb:3)
+  28 gold pieces
+(5, 20, Tomb:3)
+  38 gold pieces
+(5, 21, Tomb:3)
+  24 gold pieces
+(5, 22, Tomb:3)
+  an uncursed ring of resist corrosion
+(5, 23, Tomb:3)
+  a +4 ring of protection
+(5, 24, Tomb:3)
+  a +0 whip of venom
+(5, 25, Tomb:3)
+  an uncursed staff of summoning
+(5, 26, Tomb:3)
+  an uncursed staff of death
+(6, 21, Tomb:3)
+  24 gold pieces
+(6, 22, Tomb:3)
+  19 gold pieces
+(6, 23, Tomb:3)
+  32 gold pieces
+(6, 24, Tomb:3)
+  a book of the Sky
+(6, 25, Tomb:3)
+  a +2 vampiric war axe
+(6, 26, Tomb:3)
+  the Incunabulum of Lucky Intoxication
+    Spells                           Type                      Level
+     a - Sting                        Conjuration/Poison            1
+     b - Swiftness                    Charms/Air                    2
+     c - Excruciating Wounds          Charms/Necromancy             5
+     d - Venom Bolt                   Conjuration/Poison            5
+     e - Alistair's Intoxication      Transmutation/Poison          5
+(6, 27, Tomb:3)
+  a +2 amulet of reflection
+(7, 21, Tomb:3)
+  a scroll of random uselessness
+  (unseen)
+(7, 23, Tomb:3)
+  26 gold pieces
+(7, 24, Tomb:3)
+  20 gold pieces
+(7, 25, Tomb:3)
+  19 gold pieces
+(7, 26, Tomb:3)
+  a figurine of a ziggurat
+(7, 27, Tomb:3)
+  a +2 shortbow of freezing
+(7, 28, Tomb:3)
+  a lamp of fire
+(8, 22, Tomb:3)
+  15 gold pieces
+(8, 23, Tomb:3)
+  35 gold pieces
+(8, 25, Tomb:3)
+  18 gold pieces
+(8, 26, Tomb:3)
+  28 gold pieces
+(8, 27, Tomb:3)
+  16 gold pieces
+(8, 28, Tomb:3)
+  17 gold pieces
+(9, 27, Tomb:3)
+  20 gold pieces
+(10, 9, Tomb:3)
+  13 arrows
+(16, 0, Tomb:3)
+  24 gold pieces
+(16, 8, Tomb:3)
+  a potion of resistance
+(16, 10, Tomb:3)
+  13 stones
+(17, 0, Tomb:3)
+  17 gold pieces
+(18, -2, Tomb:3)
+  a golden rune of Zot
+(19, 10, Tomb:3)
+  a +0 robe
+(20, 0, Tomb:3)
+  23 gold pieces
+(23, 9, Tomb:3)
+  7 gold pieces
+(24, 6, Tomb:3)
+  30 gold pieces
+(26, -2, Tomb:3)
+  a scroll of enchant armour
+(26, 24, Tomb:3)
+  an uncursed ring of protection from fire
+(26, 25, Tomb:3)
+  the +3 giant club "Skullcrusher" {speed, Str+7}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+7).
+(26, 27, Tomb:3)
+  17 gold pieces
+(26, 28, Tomb:3)
+  13 gold pieces
+(27, 22, Tomb:3)
+  27 gold pieces
+(27, 23, Tomb:3)
+  17 gold pieces
+(27, 25, Tomb:3)
+  11 gold pieces
+(27, 26, Tomb:3)
+  13 gold pieces
+(27, 27, Tomb:3)
+  12 gold pieces
+(27, 28, Tomb:3)
+  a +2 pair of boots of flying
+(28, 22, Tomb:3)
+  32 gold pieces
+(28, 23, Tomb:3)
+  24 gold pieces
+(28, 24, Tomb:3)
+  27 gold pieces
+(28, 25, Tomb:3)
+  15 gold pieces
+(28, 26, Tomb:3)
+  30 gold pieces
+(28, 27, Tomb:3)
+  18 gold pieces
+(28, 28, Tomb:3)
+  28 gold pieces
+(29, 21, Tomb:3)
+  17 gold pieces
+(29, 22, Tomb:3)
+  the +3 leather armour "Ecsoefat" {rPois rN+ Int-4}
+    It affects your intelligence (-4).
+    It protects you from poison.
+    It protects you from negative energy.
+(29, 23, Tomb:3)
+  24 gold pieces
+(29, 24, Tomb:3)
+  28 gold pieces
+(29, 25, Tomb:3)
+  18 gold pieces
+(29, 26, Tomb:3)
+  16 gold pieces
+(29, 27, Tomb:3)
+  27 gold pieces
+(29, 28, Tomb:3)
+  23 gold pieces
+(30, 0, Tomb:3)
+  a +0 hand axe
+(30, 19, Tomb:3)
+  23 gold pieces
+(30, 20, Tomb:3)
+  13 gold pieces
+(30, 21, Tomb:3)
+  24 gold pieces
+(30, 22, Tomb:3)
+  30 gold pieces
+(30, 23, Tomb:3)
+  30 gold pieces
+(30, 24, Tomb:3)
+  34 gold pieces
+(30, 25, Tomb:3)
+  18 gold pieces
+(30, 26, Tomb:3)
+  13 gold pieces
+(30, 27, Tomb:3)
+  20 gold pieces
+(31, 19, Tomb:3)
+  23 gold pieces
+(31, 20, Tomb:3)
+  37 gold pieces
+(31, 21, Tomb:3)
+  a +0 dagger
+(31, 22, Tomb:3)
+  21 gold pieces
+(31, 23, Tomb:3)
+  28 gold pieces
+(31, 24, Tomb:3)
+  21 gold pieces
+(31, 25, Tomb:3)
+  32 gold pieces
+(31, 26, Tomb:3)
+  23 gold pieces
+(32, 1, Tomb:3)
+  a book of Minor Magic
+(32, 9, Tomb:3)
+  14 gold pieces
+(32, 19, Tomb:3)
+  22 gold pieces
+(32, 20, Tomb:3)
+  4 gold pieces
+(32, 21, Tomb:3)
+  14 gold pieces
+(32, 22, Tomb:3)
+  24 gold pieces
+(32, 23, Tomb:3)
+  a +0 glaive
+  (unseen)
+(32, 24, Tomb:3)
+  an uncursed staff of power
+(32, 25, Tomb:3)
+  8 gold pieces
+(33, 7, Tomb:3)
+  10 stones
+(33, 14, Tomb:3)
+  21 gold pieces
+(33, 18, Tomb:3)
+  31 gold pieces
+(33, 19, Tomb:3)
+  23 gold pieces
+(33, 20, Tomb:3)
+  20 gold pieces
+(33, 21, Tomb:3)
+  17 gold pieces
+(33, 22, Tomb:3)
+  24 gold pieces
+(33, 23, Tomb:3)
+  23 gold pieces
+(33, 24, Tomb:3)
+  18 gold pieces
+(34, 9, Tomb:3)
+  a scroll of acquirement
+(34, 14, Tomb:3)
+  18 gold pieces
+(34, 16, Tomb:3)
+  13 gold pieces
+(34, 18, Tomb:3)
+  5 gold pieces
+(34, 19, Tomb:3)
+  14 gold pieces
+(34, 20, Tomb:3)
+  24 gold pieces
+(34, 21, Tomb:3)
+  14 gold pieces
+(34, 22, Tomb:3)
+  30 gold pieces
+(34, 23, Tomb:3)
+  21 gold pieces
+(35, 2, Tomb:3)
+  a +0 ring mail
+(35, 15, Tomb:3)
+  25 gold pieces
+(35, 16, Tomb:3)
+  21 gold pieces
+(35, 17, Tomb:3)
+  14 stones
+  (unseen)
+(35, 18, Tomb:3)
+  a +3 ring of intelligence
+(35, 19, Tomb:3)
+  the +6 double sword "Killer Bee's Curse" {freeze, Dex+3}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your dexterity (+3).
+(35, 20, Tomb:3)
+  9 gold pieces
+(35, 21, Tomb:3)
+  28 gold pieces
+(35, 22, Tomb:3)
+  a +0 spear
+(36, -3, Tomb:3)
+  a +0 ring mail
+(36, 17, Tomb:3)
+  a +0 scale mail
+  (unseen)
+(36, 18, Tomb:3)
+  30 gold pieces
+(36, 19, Tomb:3)
+  28 gold pieces
+(36, 20, Tomb:3)
+  a cursed ring of teleportation
+(36, 21, Tomb:3)
+  28 gold pieces
+
