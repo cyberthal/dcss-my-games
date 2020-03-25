@@ -1,0 +1,246 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15699459020356333980
+
+0 Fuokhij the Shield-Bearer (level 1, 15/15 HPs) *WIZ*
+             Began as a Troll Fighter on Mar 23, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:13 (61 turns).
+
+Fuokhij the Shield-Bearer (Troll Fighter)             Turns: 61, Time: 00:04:13
+
+Health: 15/15      AC:  5    Str: 19    XL:     1   Next: 0%
+Magic:  0/0        EV:  7    Int:  0    God:    No God 0 (0)
+Gold:   0          SH:  7    Dex:  5    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....     Rnd*Rage +   (boots unavailable)
+Stlth    +.........Rnd*Tele +   (no amulet)
+HPRegen  0.45/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: slowed, lost intelligence, very slow
+A: large, unfitting armour, claws 3, berserk 3, blurry vision 3, clumsy 2,
+deformed body, deterioration 2, dopey 2, fast metabolism 3, frail 3, gourmand,
+low mp 3, regeneration 1, screaming 3, shaggy fur 1, teleportitis 3, tough skin
+3, weak 2, no potion heal 3, subdued magic 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+Comestibles
+ d - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.4 Dodging
+ + Level 2.4 Shields
+ + Level 2.0 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You have an uncontrollable temper.
+Scrolls take you much longer to read.
+You are very clumsy. (Dex -4)
+Armour fits poorly on your strangely shaped body.
+Your body often deteriorates upon taking damage.
+You are very dopey. (Int -4)
+You are extremely frail. (-30% HP)
+Your magical capacity is extremely low. (-30% MP)
+You frequently scream uncontrollably at your foes.
+You are often teleported next to monsters.
+You are very weak. (Str -4)
+Potions cannot restore your health.
+Your spells are much easier to cast, but much less powerful.
+
+
+Message History
+
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+The shining eye gazes at you.
+Strange energies course through your body.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                        ######
+#########################....########
+#..............>........+............
+#.#############........##....########
+#.#...#.......#........#######.......
+#.#.#.#.#####.#.}...}..#...###.......
+#.#.#.#.#   #.#..###.........+.......
+#.#.#.#.#   #.#..+<#[.##...###....$..
+#.#.#.#.#   #..G.###..##...# #.......
+#.#.#.#.#####.GGG...}.##...# #.......
+#.#.#.#.#.....#@G.....##...# ########
+#.#.#.#.#.#...GG..######...#
+#.#.#.#.........#+######...#
+#.#.#.#.......#.......######
+#.#.#.######.##.......#
+#.#...........#.......#
+#.###.######..#.......#
+#.....#    #..........#
+############.###......# #########
+    #.........###.##### #.......#
+    #.........# #.#     #.......#
+    #.........# #.#     #.......#
+
+
+You could see 7 shining eyes.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Fuokhij the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     0 | D:1      | Noticed a shining eye
+     3 | D:1      | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [a shining eye]
+     3 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [a shining eye]
+     5 | D:1      | Gained mutation: Potions are less effective at restoring
+                  | your health. [a shining eye]
+     6 | D:1      | Gained mutation: You are frail. (-10% HP) [a shining eye]
+     8 | D:1      | Gained mutation: You are dopey. (Int -2) [a shining eye]
+     8 | D:1      | Gained mutation: You tend to lose your temper in combat. [a
+                  | shining eye]
+     8 | D:1      | Gained mutation: You are very frail. (-20% HP) [a shining
+                  | eye]
+    10 | D:1      | Gained mutation: You are clumsy. (Dex -2) [a shining eye]
+    12 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [a shining eye]
+    13 | D:1      | Gained mutation: Scrolls take you longer to read. [a
+                  | shining eye]
+    13 | D:1      | Lost mutation: Scrolls take you longer to read. [a shining
+                  | eye]
+    15 | D:1      | Gained mutation: Scrolls take you longer to read. [a
+                  | shining eye]
+    15 | D:1      | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [a shining eye]
+    16 | D:1      | Gained mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+    19 | D:1      | Lost mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+    19 | D:1      | Gained mutation: You are very clumsy. (Dex -4) [a shining
+                  | eye]
+    22 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [a shining eye]
+    22 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [a shining eye]
+    22 | D:1      | Gained mutation: You often lose your temper in combat. [a
+                  | shining eye]
+    22 | D:1      | Lost intelligence.
+    22 | D:1      | Gained mutation: You are very dopey. (Int -4) [a shining
+                  | eye]
+    23 | D:1      | Gained mutation: Your spells are easier to cast, but less
+                  | powerful. [a shining eye]
+    23 | D:1      | Gained mutation: You are occasionally teleported next to
+                  | monsters. [a shining eye]
+    25 | D:1      | Gained mutation: You are weak. (Str -2) [a shining eye]
+    25 | D:1      | Gained mutation: You are very weak. (Str -4) [a shining
+                  | eye]
+    25 | D:1      | Gained mutation: You have an uncontrollable temper. [a
+                  | shining eye]
+    26 | D:1      | Lost mutation: You are very weak. (Str -4) [a shining eye]
+    27 | D:1      | Gained mutation: You sometimes yell uncontrollably at your
+                  | foes. [a shining eye]
+    28 | D:1      | Gained mutation: Your magical capacity is low. (-10% MP) [a
+                  | shining eye]
+    29 | D:1      | Gained mutation: You are very weak. (Str -4) [a shining
+                  | eye]
+    30 | D:1      | Gained mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+    30 | D:1      | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [a shining eye]
+    31 | D:1      | Gained mutation: Potions are poor at restoring your health.
+                  | [a shining eye]
+    31 | D:1      | Lost mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+    32 | D:1      | Gained mutation: Scrolls take you much longer to read. [a
+                  | shining eye]
+    32 | D:1      | Gained mutation: Your spells are much easier to cast, but
+                  | much less powerful. [a shining eye]
+    34 | D:1      | Gained mutation: You frequently scream uncontrollably at
+                  | your foes. [a shining eye]
+    34 | D:1      | Gained mutation: You are extremely frail. (-30% HP) [a
+                  | shining eye]
+    35 | D:1      | Gained mutation: Your magical capacity is extremely low.
+                  | (-30% MP) [a shining eye]
+    35 | D:1      | Gained mutation: Potions cannot restore your health. [a
+                  | shining eye]
+    35 | D:1      | Gained mutation: You are sometimes teleported next to
+                  | monsters. [a shining eye]
+    35 | D:1      | Gained mutation: You are often teleported next to monsters.
+                  | [a shining eye]
+    41 | D:1      | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [a shining eye]
+    42 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [a shining eye]
+    45 | D:1      | Lost mutation: Potions cannot restore your health. [a
+                  | shining eye]
+    47 | D:1      | Gained mutation: Potions cannot restore your health. [a
+                  | shining eye]
+    61 | D:1      | Quit the game
+

@@ -1,0 +1,169 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14539874606645259555
+
+0 Otug the Trollish Barricade (level 1, 47/71 HPs) *WIZ*
+             Began as a Troll Fighter on Mar 23, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:41 (104 turns).
+
+Otug the Trollish Barricade (Troll Fighter)          Turns: 104, Time: 00:03:41
+
+Health: 47/71      AC:  8    Str: 23    XL:     1   Next: 0%
+Magic:  27/27      EV: 22    Int:  4    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 48/54 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.61/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+ e - 11 potions of lignification
+Comestibles
+ d - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 48 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Statue Form           Tmut/Erth      27 (150)     0%          6    442
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+You struggle to resist. You block the basilisk's attack.
+The basilisk closely misses you.
+The basilisk gazes at you.
+You are slowing down.
+The basilisk barely misses you. Your limbs are stiffening.
+The basilisk bites you.
+The basilisk gazes at you.
+Your limbs have turned to stone. You have turned to stone.
+The basilisk bites you but does no damage.
+The basilisk bites you.
+The basilisk bites you.
+The basilisk gazes at you.
+The basilisk bites you!
+The basilisk gazes at you.
+The basilisk bites you.
+The basilisk bites you!
+The basilisk gazes at you.
+You struggle to resist.
+You turn to flesh and can move again.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+####
+#@.7
+#l..~#
+#7..~#
+  ...#
+  ...#
+  7..+
+   ..#
+   .7#
+
+
+You could see a basilisk.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Otug the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed a basilisk
+    12 | D:1      | Learned a level 6 spell: Statue Form
+    39 | D:1      | Noticed a basilisk
+   104 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+ Cast: Statue Form       ||     2
+ Abil: End Transformatio ||     2
+  Use: Potion            ||     1
+Armor: Skin              ||    12
+       Robe              ||     1
+Dodge: Dodged            ||     9
+Block: Shield            ||    15
+

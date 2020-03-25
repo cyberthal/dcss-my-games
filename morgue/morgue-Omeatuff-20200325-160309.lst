@@ -1,0 +1,143 @@
+Omeatuff
+
+Level 7 of the Iron City of Dis
+(0, 0, Dis:7)
+  24 gold pieces
+(0, 1, Dis:7)
+  17 gold pieces
+(0, 2, Dis:7)
+  28 gold pieces
+(0, 3, Dis:7)
+  32 gold pieces
+(0, 4, Dis:7)
+  25 gold pieces
+(1, 0, Dis:7)
+  39 gold pieces
+(1, 1, Dis:7)
+  a phantom mirror
+(1, 2, Dis:7)
+  the +1 ring mail of Hide-and-Seek {+Blink rCorr}
+    It lets you blink.
+    It provides partial protection from all sources of acid and corrosion.
+(1, 3, Dis:7)
+  the ring "Kiettawk" {*Tele rElec rPois Str+6}
+    [ring of teleportation]
+    
+    It may teleport you next to monsters.
+    It affects your strength (+6).
+    It insulates you from electricity.
+    It protects you from poison.
+(1, 4, Dis:7)
+  23 gold pieces
+(2, 0, Dis:7)
+  41 gold pieces
+(2, 1, Dis:7)
+  a +0 pair of boots of running
+(2, 2, Dis:7)
+  an iron rune of Zot
+(2, 3, Dis:7)
+  an uncursed staff of earth
+(2, 4, Dis:7)
+  15 gold pieces
+(3, 0, Dis:7)
+  36 gold pieces
+(3, 1, Dis:7)
+  the Guide on the Snowflakes and Displacement
+    Spells                           Type                      Level
+     a - Freeze                       Ice                           1
+     b - Ensorcelled Hibernation      Hexes/Ice                     2
+     c - Force Lance                  Conjuration/Translocation     4
+     d - Passage of Golubria          Translocation                 4
+     e - Controlled Blink             Translocation                 8
+(3, 2, Dis:7)
+  a book of the Earth
+(3, 3, Dis:7)
+  the +10 rapier "Toduxty" {holy, *Corrode Dex+5}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your dexterity (+5).
+    It may corrode you when you take damage.
+(3, 4, Dis:7)
+  32 gold pieces
+(4, 0, Dis:7)
+  15 gold pieces
+(4, 1, Dis:7)
+  11 gold pieces
+(4, 2, Dis:7)
+  33 gold pieces
+(4, 3, Dis:7)
+  40 gold pieces
+(4, 4, Dis:7)
+  39 gold pieces
+(53, 9, Dis:7)
+  15 stones
+(53, 10, Dis:7)
+  an uncursed staff of earth
+(53, 11, Dis:7)
+  a +2 fustibalus of velocity
+(53, 12, Dis:7)
+  a scroll of enchant weapon
+(54, 9, Dis:7)
+  a ration
+(54, 10, Dis:7)
+  the cursed +2 hand axe "Geillan" {flame, *Drain +Blink rF+++ Int-5}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It affects your intelligence (-5).
+    It renders you almost immune to fire.
+    It lets you blink.
+    It causes draining when unequipped.
+    It has a curse placed upon it.
+(54, 11, Dis:7)
+  an uncursed staff of fire
+(54, 12, Dis:7)
+  31 gold pieces
+(55, 9, Dis:7)
+  a cursed -1 leather armour
+(55, 10, Dis:7)
+  the +3 hand crossbow of Fonet {elec, rF+ rC+ Dex-4 Stlth+}
+    It charges the ammunition it shoots with electricity; occasionally upon a
+    hit, such missiles may discharge and cause terrible harm.
+    
+    It affects your dexterity (-4).
+    It protects you from fire.
+    It protects you from cold.
+    It makes you more stealthy.
+(55, 11, Dis:7)
+  a +3 hand crossbow of flaming
+(55, 12, Dis:7)
+  a scroll of teleportation
+(56, 9, Dis:7)
+  a scroll of fear
+(56, 10, Dis:7)
+  a lightning rod (4/4)
+(56, 11, Dis:7)
+  the +9 mace of Gasuk {crush, +Inv rPois Dex-3}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-3).
+    It protects you from poison.
+    It lets you turn invisible.
+(56, 12, Dis:7)
+  6 needles of confusion
+(57, 9, Dis:7)
+  20 gold pieces
+(57, 10, Dis:7)
+  a +2 long sword of holy wrath
+(57, 11, Dis:7)
+  an uncursed staff of earth
+(57, 12, Dis:7)
+  a ration
+(58, 9, Dis:7)
+  19 gold pieces
+(58, 10, Dis:7)
+  a +2 halberd of distortion
+(58, 11, Dis:7)
+  an uncursed staff of cold
+(58, 12, Dis:7)
+  a cursed ring of protection from fire
+

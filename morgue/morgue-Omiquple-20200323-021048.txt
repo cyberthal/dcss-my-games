@@ -1,0 +1,225 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14346996146138130116
+
+574622 Omiquple the Ninja (level 27, 235/249 HPs) *WIZ*
+             Began as a Mummy Wizard on Mar 23, 2020.
+             Quit the game in the Vestibule of Hell.
+             The game lasted 00:03:49 (23 turns).
+
+Omiquple the Ninja (Mummy Wizard)                     Turns: 23, Time: 00:03:49
+
+Health: 235/249    AC:  4    Str: 10    XL:     27
+Magic:  13/54      EV: 26    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 79/80 levels left
+
+rFire    x . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +++..                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.51/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: slowed, very slow
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing, in touch with death 2
+a: no special abilities
+
+
+You were in the Vestibule of Hell.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      0%          1    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          0%          2    N/A
+ Call Imp                 Summ           86 (100)     0%          2    N/A
+ Slow                     Hex            86 (100)     0%          2    N/A
+ Conjure Flame            Conj/Fire      86 (100)     0%          3    N/A
+ Mephitic Cloud           Conj/Pois/Air  86 (100)     0%          3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (0/7) Hell
+    Coc (0/7) Hell        
+   Tar: Hell:1      
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+You are strongly in touch with the powers of death.
+
+
+Message History
+
+The doom hound bites you!!
+* * * LOW HITPOINT WARNING * * *
+The doom hound claws you!
+* * * LOW HITPOINT WARNING * * *
+The reaper misses you. The shadow demon closely misses you. The Tzitzimitl
+completely misses you. The Tzitzimitl bites you!
+Die? 
+Thought so. You feel terrible. The shadow dragon bites you!
+The shadow dragon completely misses you.
+The shadow dragon claws you but does no damage.
+Press: ? - help, v - describe, . - travel
+Here: a tormentor
+The floor.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: a Tzitzimitl
+The floor.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+The soul eater dissolves into shadows! The reaper dissolves into shadows! The
+soul eater dissolves into shadows! Dismissed 6 monsters.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##+..##~~##  ##.....#.....##  ##..~.~~~~~~
+..####~~##    ##.........##    ##..~~~~~~~
+...#~~~##      ##.......##      ##...~~~~~
+...#~~##        ##.....##        ##.~.~~~~
+..##~##          ##...##          ##...~~~
+.##~##           ##...##           ##....~
+##~##           ##.....##           ##...~
+~~##           ##.......##           ##...
+~##           ##.........##           ##..
+##           ##...........##           ##.
+#           ##........^....##           ##
+           ##...............##           #
+          ##.###.^...@...###.##
+         ##..# ####+++#### #..##
+        ##...# #.........# #...##
+       ##....###.........###....##
+      ##......#...##+##...#......##
+     ##..^....#...#...#...#.......##
+     #....#########.\.#########....#
+     ######       ##.##       ######
+                   ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Omiquple the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 63/63 MP: 5/30
+     0 | D:1      | Reached XP level 3. HP: 70/70 MP: 5/31
+     0 | D:1      | Reached XP level 4. HP: 78/78 MP: 5/33
+     0 | D:1      | Reached XP level 5. HP: 85/85 MP: 5/34
+     0 | D:1      | Reached XP level 6. HP: 93/93 MP: 5/36
+     0 | D:1      | Reached XP level 7. HP: 100/100 MP: 5/37
+     0 | D:1      | Reached XP level 8. HP: 108/108 MP: 5/39
+     0 | D:1      | Reached XP level 9. HP: 115/115 MP: 5/40
+     0 | D:1      | Reached XP level 10. HP: 123/123 MP: 5/41
+     0 | D:1      | Reached XP level 11. HP: 130/130 MP: 5/42
+     0 | D:1      | Reached XP level 12. HP: 138/138 MP: 5/43
+     0 | D:1      | Gained mutation: You are in touch with the powers of death.
+                  | [Mummy growth]
+     0 | D:1      | Reached XP level 13. HP: 145/145 MP: 5/44
+     0 | D:1      | Reached XP level 14. HP: 153/153 MP: 5/45
+     0 | D:1      | Reached XP level 15. HP: 159/159 MP: 5/46
+     0 | D:1      | Reached XP level 16. HP: 167/167 MP: 5/47
+     0 | D:1      | Reached XP level 17. HP: 174/174 MP: 5/48
+     0 | D:1      | Reached XP level 18. HP: 182/182 MP: 5/49
+     0 | D:1      | Reached XP level 19. HP: 189/189 MP: 5/50
+     0 | D:1      | Reached XP level 20. HP: 197/197 MP: 5/51
+     0 | D:1      | Reached XP level 21. HP: 204/204 MP: 5/52
+     0 | D:1      | Reached XP level 22. HP: 212/212 MP: 5/53
+     0 | D:1      | Reached XP level 23. HP: 219/219 MP: 5/54
+     0 | D:1      | Reached XP level 24. HP: 227/227 MP: 5/54
+     0 | D:1      | Reached XP level 25. HP: 234/234 MP: 5/54
+     0 | D:1      | Gained mutation: You are strongly in touch with the powers
+                  | of death. [Mummy growth]
+     0 | D:1      | Reached XP level 26. HP: 242/242 MP: 5/54
+     0 | D:1      | Reached XP level 27. HP: 249/249 MP: 5/54
+     0 | Tar:1    | Entered Level 1 of Tartarus
+     0 | Tar:1    | Found a gateway to Hell.
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+    12 | Hell     | Demolished by a doom hound (34 damage)
+    19 | Hell     | HP: 3/249 [Tzitzimitl[a doom hound] (14)]
+    19 | Hell     | Annihilated by a doom hound (39 damage)
+    22 | Hell     | Slain by a Tzitzimitl (8 damage)
+                  | ... called by a doom hound
+    23 | Hell     | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Robe              |       |       |       |       |       |       |       |       |     2 ||     2
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    60 ||    60
+

@@ -1,0 +1,487 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14055655583021299510
+
+561354 Sec Meor the Skullcrusher (level 27, 199/199 HPs) *WIZ*
+             Began as a Gargoyle Fighter on Mar 24, 2020.
+             Was the Champion of Jiyva.
+             Quit the game in Pandemonium.
+             The game lasted 01:06:15 (1805 turns).
+
+Sec Meor the Skullcrusher (Gargoyle Fighter)        Turns: 1805, Time: 01:06:15
+
+Health: 199/199    AC: 34    Str: 16    XL:     27
+Magic:  54/54      EV: 23    Int:  9    God:    Jiyva 174 (0)
+Gold:   0          SH: 18    Dex: 11    Spells: 77/80 levels left
+
+rFire    . . .     SeeInvis +   g - +0 blowgun
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   b - +0 scale mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.43/turn              e - ring of see invisible
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: big wings, negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +20
+a: Fly, Request Jelly, Slimify, Cure Bad Mutation, Renounce Religion
+
+
+You were in Pandemonium.
+You worshipped Jiyva.
+Jiyva was exalted by your worship.
+You were not hungry.
+
+You visited 6 branches of the dungeon, and saw 30 of its levels.
+You visited Pandemonium 5 times, and saw 17 of its levels.
+You visited the Abyss 2 times.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail
+ g - a +0 blowgun (weapon)
+Missiles
+ h - 30 needles of confusion (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Jewellery
+ e - a ring of see invisible (left hand)
+Potions
+ d - a potion of might
+ i - 9 potions of experience
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 77 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Confusing Touch       Hex            50 (50)      0%          1    0
+b - Passwall              Tmut/Erth      57 (120)     0%          2    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (7/7) Hell            Geh (7/7) Hell
+    Coc (7/7) Hell            Tar (7/7) Hell        
+
+Altars:
+
+Annotations:
+Coc:7 Antaeus, Dispater
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +20)
+You are immune to poison.
+Your large and strong wings let you fly indefinitely.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+The floor.
+You kill the orange demon!
+Enter Wizard Command (? - help): 
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(A) Shoals         (P) Snake Pit      (N) Spider Nest    (M) Slime Pits     
+(O) Orcish Mines   (E) Elven Halls    (K) Dwarven Hall   (V) Vaults         
+(B) Hall of Blades (F) Forest         (C) Crypt          (W) Tomb           
+(U) Depths         (H) Hell           (I) Dis            (G) Gehenna        
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+Found a scroll labeled ZUOFOLILYIX.
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#############
+...........?#
+#.#.#.#.#.#.#
+.#.#.#.#.#..#
+..........#.#
+(........#..#
+######....#.#        ########
+     #...#..#        #@.?...#
+     #...$#.#        #......#
+     #...#..#        #......#
+     #..(.#.#        #......#
+##   #...#..#        #......#
+.#######..#.#        #......#
+.....+.#^...##       #......#
+.....#.##....##      #....^.#
+....(#.}#.....#      #......#
+...(.#.##.....#      #..\...#
+.....+.#....#.########...)..#
+.#######..#.#....#...#......#
+##   #...#..#....#...#......#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Asmodeus (Tar:7)
+  Ereshkigal (Tar:7)
+  Dispater (Coc:7)
+  A tentacled starspawn (Abyss:1)
+  2 iron dragons (Dis:1)
+  2 starcursed masses (Abyss:1)
+  A sun demon (Abyss:1)
+  A shining eye (Tar:1)
+  A guardian serpent (shapeshifter) (Abyss:1)
+  An orange demon (Hell)
+  An ancient zyme (Abyss:1)
+  2 large abominations (Abyss:1)
+  A neqoxec (Abyss:1)
+  A chaos spawn (Abyss:1)
+  An ice beast (Abyss:1)
+  2 small abominations (Abyss:1)
+  A quasit (Abyss:1)
+  An iron imp (Abyss:1)
+  A ghost (Tar:7)
+23 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A Hell Sentinel (Tar:7)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A ghost moth (Tar:7)
+  A jelly (Abyss:1)
+2 creatures vanquished.
+
+Grand Total: 26 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Sec Meor the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 50/50 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 56/56 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 62/62 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 68/68 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 74/74 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 80/80 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 86/86 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 92/92 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 98/98 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 104/104 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 110/110 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 116/116 MP: 1/44
+     0 | D:1      | Gained mutation: Your large and strong wings let you fly
+                  | indefinitely. [Gargoyle growth]
+     0 | D:1      | Reached XP level 14. HP: 122/122 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 127/127 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 133/133 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 139/139 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 145/145 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 151/151 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 157/157 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 163/163 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 169/169 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 175/175 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 181/181 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 187/187 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 193/193 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 199/199 MP: 1/54
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     1 | Dis:1    | Entered Level 1 of the Iron City of Dis
+     1 | Dis:1    | Found a gateway to Hell.
+     7 | Dis:2    | Found a gateway to Hell.
+     8 | Dis:2    | Found a gateway to Hell.
+     8 | Dis:2    | Found a gateway to Hell.
+     9 | Dis:3    | Found a gateway to Hell.
+    10 | Dis:3    | Found a gateway to Hell.
+    10 | Dis:3    | Found a gateway to Hell.
+    10 | Dis:3    | Found a gateway to Hell.
+    11 | Dis:4    | Found a gateway to Hell.
+    12 | Dis:4    | Found a gateway to Hell.
+    12 | Dis:4    | Found a gateway to Hell.
+    12 | Dis:4    | Found a gateway to Hell.
+    13 | Dis:5    | Found a gateway to Hell.
+    14 | Dis:5    | Found a gateway to Hell.
+    14 | Dis:5    | Found a gateway to Hell.
+    15 | Dis:6    | Found a gateway to Hell.
+    16 | Dis:6    | Found a gateway to Hell.
+    16 | Dis:6    | Found a gateway to Hell.
+    17 | Dis:7    | Entered Level 7 of the Iron City of Dis
+    17 | Dis:7    | Found a gateway to Hell.
+    17 | Dis:7    | Found a gateway to Hell.
+    18 | Dis:7    | Found a gateway to Hell.
+    18 | Dis:7    | Found a gateway to Hell.
+    18 | Dis:7    | Identified the +4 staff of Dispater
+    18 | Dis:7    | Noticed Dispater
+    19 | Geh:1    | Entered Level 1 of Gehenna
+    19 | Geh:1    | Found a gateway to Hell.
+    21 | Geh:2    | Found a gateway to Hell.
+    21 | Geh:2    | Found a gateway to Hell.
+    22 | Geh:2    | Found a gateway to Hell.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    22 | Geh:2    | Found a huge runed gate.
+    23 | Geh:3    | Found a gateway to Hell.
+    24 | Geh:3    | Found a gateway to Hell.
+    24 | Geh:3    | Found a gateway to Hell.
+    25 | Geh:4    | Found a gateway to Hell.
+    25 | Geh:4    | Found a gateway to Hell.
+    25 | Geh:4    | Found a gateway to Hell.
+    27 | Geh:5    | Found a gateway to Hell.
+    27 | Geh:5    | Found a gateway to Hell.
+    28 | Geh:5    | Found a gateway to Hell.
+    29 | Geh:6    | Found a gateway to Hell.
+    30 | Geh:6    | Found a gateway to Hell.
+    30 | Geh:6    | Found a gateway to Hell.
+    30 | Geh:6    | Found a gateway to Hell.
+    31 | Geh:7    | Entered Level 7 of Gehenna
+    31 | Geh:7    | Found a gateway to Hell.
+    32 | Geh:7    | Found a gateway to Hell.
+    32 | Geh:7    | Found a gateway to Hell.
+    32 | Geh:7    | Identified the +7 sceptre of Asmodeus
+    32 | Geh:7    | Noticed Asmodeus
+    33 | Coc:1    | Entered Level 1 of Cocytus
+    33 | Coc:1    | Found a gateway to Hell.
+    35 | Coc:2    | Found a gateway to Hell.
+    36 | Coc:2    | Found a gateway to Hell.
+    36 | Coc:2    | Found a gateway to Hell.
+    36 | Coc:2    | Found a gateway to Hell.
+    37 | Coc:3    | Found a gateway to Hell.
+    38 | Coc:3    | Found a gateway to Hell.
+    38 | Coc:3    | Found a gateway to Hell.
+    38 | Coc:3    | Found a gateway to Hell.
+    39 | Coc:4    | Found a gateway to Hell.
+    39 | Coc:4    | Found a gateway to Hell.
+    40 | Coc:4    | Found a gateway to Hell.
+    41 | Coc:5    | Found a gateway to Hell.
+    42 | Coc:5    | Found a gateway to Hell.
+    42 | Coc:5    | Found a gateway to Hell.
+    43 | Coc:6    | Found a gateway to Hell.
+    44 | Coc:6    | Found a gateway to Hell.
+    44 | Coc:6    | Found a gateway to Hell.
+    45 | Coc:7    | Entered Level 7 of Cocytus
+    45 | Coc:7    | Found a gateway to Hell.
+    45 | Coc:7    | Found a gateway to Hell.
+    45 | Coc:7    | Found a gateway to Hell.
+    46 | Coc:7    | Noticed Antaeus
+    47 | Tar:1    | Entered Level 1 of Tartarus
+    47 | Tar:1    | Found a gateway to Hell.
+    49 | Tar:2    | Found a gateway to Hell.
+    50 | Tar:2    | Found a gateway to Hell.
+    50 | Tar:2    | Found a gateway to Hell.
+    51 | Tar:3    | Found a gateway to Hell.
+    52 | Tar:3    | Found a gateway to Hell.
+    52 | Tar:3    | Found a gateway to Hell.
+    53 | Tar:4    | Found a gateway to Hell.
+    54 | Tar:4    | Found a gateway to Hell.
+    54 | Tar:4    | Found a gateway to Hell.
+    54 | Tar:4    | Found a gateway to Hell.
+    55 | Tar:5    | Found a gateway to Hell.
+    55 | Tar:5    | Found a gateway to Hell.
+    56 | Tar:5    | Found a gateway to Hell.
+    57 | Tar:6    | Found a gateway to Hell.
+    58 | Tar:6    | Found a gateway to Hell.
+    58 | Tar:6    | Found a gateway to Hell.
+    59 | Tar:7    | Entered Level 7 of Tartarus
+    59 | Tar:7    | Found a gateway to Hell.
+    60 | Tar:7    | Found a gateway to Hell.
+    60 | Tar:7    | Found a gateway to Hell.
+    60 | Tar:7    | Noticed Ereshkigal
+    71 | Tar:7    | Identified the +4 staff of Dispater
+    71 | Tar:7    | Noticed Dispater
+    82 | Tar:7    | Noticed Ereshkigal
+    82 | Tar:7    | Killed Ereshkigal
+    82 | Tar:7    | Identified the +7 sceptre of Asmodeus
+    82 | Tar:7    | Noticed Asmodeus
+    82 | Tar:7    | Killed Asmodeus
+    82 | Coc:7    | Identified the +4 staff of Dispater
+    82 | Coc:7    | Noticed Dispater
+    82 | Coc:7    | Learned a level 1 spell: Confusing Touch
+    82 | Coc:7    | Killed Dispater
+    82 | Coc:7    | Identified the +4 staff of Dispater
+    82 | Coc:7    | Noticed Dispater
+    82 | Pan      | Entered Pandemonium
+    82 | Pan      | Found a runed translucent door.
+    82 | Pan      | Noticed Ebyumy the pandemonium lord
+    84 | Pan      | Noticed Sydghaix the pandemonium lord
+    86 | Pan      | Learned a level 2 spell: Passwall
+    89 | Pan      | Noticed Pisazuudili the pandemonium lord
+    91 | Pan      | Found an exit through the horrors of the Abyss.
+    91 | Pan      | Noticed Ryabosch the pandemonium lord
+    92 | Pan      | Took an exit into the Abyss.
+    92 | Abyss:1  | Escaped into the Abyss
+    93 | Pan      | Entered Pandemonium
+    93 | Pan      | Noticed Veypycsu the pandemonium lord
+    95 | Pan      | Found an exit through the horrors of the Abyss.
+    97 | Pan      | Entered Pandemonium
+    97 | Pan      | Noticed Fegetuyn the pandemonium lord
+    99 | Pan      | Found an exit through the horrors of the Abyss.
+   101 | Pan      | Found a glowing golden altar of the Shining One.
+   101 | Pan      | Found a glowing silver altar of Zin.
+   101 | Pan      | Found a white marble altar of Elyvilon.
+   101 | Pan      | Noticed a seraph
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   103 | Pan      | Found a huge runed translucent gate.
+   105 | Pan      | Found an exit through the horrors of the Abyss.
+   106 | Pan      | Entered the realm of Mnoleg.
+   107 | Pan      | Noticed Mnoleg
+   108 | Pan      | Entered the realm of Lom Lobon.
+   109 | Pan      | Noticed Lom Lobon
+   109 | Pan      | Entered Pandemonium
+   109 | Pan      | Noticed Hiurch the pandemonium lord
+   113 | Pan      | Found an exit through the horrors of the Abyss.
+   114 | Pan      | Entered the realm of Cerebov.
+   115 | Pan      | Identified the +6 sword of Cerebov {flame}
+   115 | Pan      | Noticed Cerebov
+   116 | Pan      | Entered the realm of Gloorx Vloq.
+   119 | Tar:1    | Became a worshipper of Zin the Law-Giver
+   119 | Tar:1    | Fell from the grace of Zin
+   119 | Tar:1    | Became a worshipper of Jiyva Jorphoyn the Shapeless
+   119 | Tar:1    | Reached * piety under Jiyva
+   119 | Tar:1    | Reached ** piety under Jiyva
+   119 | Tar:1    | Reached *** piety under Jiyva
+   119 | Tar:1    | Gained mutation: You are frail. (-10% HP) [Jiyva's grace]
+   119 | Tar:1    | Reached **** piety under Jiyva
+   119 | Tar:1    | Gained mutation: You are partially covered in molten
+                  | scales. (AC +2) [Jiyva's grace]
+   119 | Tar:1    | Reached ***** piety under Jiyva
+   119 | Tar:1    | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [Jiyva's grace]
+   119 | Tar:1    | Lost mutation: You are frail. (-10% HP) [Jiyva's grace]
+   119 | Tar:1    | Reached ****** piety under Jiyva
+   119 | Tar:1    | Gained mutation: You are clumsy. (Dex -2) [Jiyva's grace]
+   119 | Tar:1    | Lost mutation: You are clumsy. (Dex -2) [Jiyva's grace]
+   119 | Tar:1    | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [Jiyva's grace]
+   119 | Tar:1    | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [Jiyva's grace]
+   129 | Tar:1    | Gained mutation: You are frail. (-10% HP) [a shining eye]
+   130 | Tar:1    | Was placed under penance by Jiyva
+   130 | Tar:1    | Was forgiven by Jiyva
+   130 | Tar:1    | Gained mutation: You are covered in fur. (AC +1) [Jiyva's
+                  | grace]
+   130 | Tar:1    | Lost mutation: You are frail. (-10% HP) [Jiyva's power]
+   332 | Tar:1    | Paralysed by the wrath of Zin for 3 turns
+   335 | Tar:1    | Paralysed by the wrath of Zin for 3 turns
+   361 | Hell     | Lost mutation: You are covered in fur. (AC +1) [the wrath
+                  | of Zin]
+   361 | Hell     | Lost mutation: Your natural rate of healing is unusually
+                  | fast. [the wrath of Zin]
+   361 | Hell     | Lost mutation: You are partially covered in molten scales.
+                  | (AC +2) [the wrath of Zin]
+   361 | Hell     | Paralysed by the wrath of Zin for 6 turns
+   367 | Hell     | Paralysed by the wrath of Zin for 6 turns
+  1804 | Hell     | Escaped the Abyss
+  1805 | Pan      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |     1 ||     1
+ Cast: Confusing Touch   |       |       |       |       |       |       |       |       |     2 ||     2
+       Passwall          |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Request Jelly     |       |       |       |       |       |       |       |       |     2 ||     2
+       Cure Bad Mutation |       |       |       |       |       |       |       |       |     1 ||     1
+  Use: Potion            |       |       |       |       |       |       |       |       |     4 ||     4
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |     1 ||     1
+  Eat: Ration            |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Scale mail        |       |       |       |       |       |       |       |       |     2 ||     2
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     3 ||     3
+Block: Shield            |       |       |       |       |       |       |       |       |     4 ||     4
+

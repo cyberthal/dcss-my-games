@@ -1,0 +1,273 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17672107336566191748
+
+528969 Omeatuff the Skullcrusher (level 27, 152/199 HPs) *WIZ*
+             Began as a Gargoyle Fighter on Mar 25, 2020.
+             Quit the game on level 7 of the Iron City of Dis.
+             The game lasted 00:22:23 (103 turns).
+
+Omeatuff the Skullcrusher (Gargoyle Fighter)         Turns: 103, Time: 00:22:24
+
+Health: 152/199    AC: 34    Str: 19    XL:     27
+Magic:  54/54      EV: 22    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 68/80 levels left
+
+rFire    . . .     SeeInvis .   a - +0 flail
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     + . .     Faith    .   b - +0 scale mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.43/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: big wings, negative energy resistance 1, screaming 1, electricity resistance,
+unbreathing, petrification resistance, rot immunity, AC +20
+a: Fly
+
+
+You were on level 7 of the Iron City of Dis.
+You were completely stuffed.
+
+You visited 2 branches of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail (weapon)
+ e - a +5 blowgun
+Missiles
+ g - 22 needles of frenzy
+ h - 27 needles of confusion
+ j - 29 throwing nets (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Scrolls
+ i - 7 scrolls of enchant weapon
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+   Level 15.0(17.4) Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ + Level 15.2(17.5) Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 68 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Forest         Summ/Tloc      52 (200)     0%          5    184
+b - Lee's Rapid Deconstr  Erth           52 (200)     0%          5    184
+c - Confusing Touch       Hex            50 (50)      0%          1    0
+d - Apportation           Tloc           50 (50)      0%          1    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +20)
+You are immune to poison.
+Your large and strong wings let you fly indefinitely.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+You occasionally shout uncontrollably at your foes.
+
+
+Message History
+
+Your snaplasher vine hits the tormentor.
+The tormentor hits your snaplasher vine.
+The tormentor hits your snaplasher vine but does no damage.
+Your snaplasher vine loses its grip on the tormentor.
+The vine drags the tormentor backwards!
+Your snaplasher vine misses the tormentor.
+Your snaplasher vine hits the tormentor.
+Your snaplasher vine misses the tormentor. x2
+The reaper closely misses you.
+The tormentor calls on the powers of darkness!
+Your dryad convulses!
+Your body is wracked with pain!
+Press: ? - help, v - describe, . - travel
+Here: a dryad (heavily wounded, friendly, summoned)
+The floor.
+Your snaplasher vine grabs the tormentor.
+Your snaplasher vine hits the tormentor!
+The tormentor dies!
+You block the rust devil's attack.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#################################
+#...#...#..-7#..#...#....#..#...#
+#...#...#.|..#..#...#....#..#...#
+#...#..27.w..#+##.Z.#..4.#..#.W.#
+#...#...7.w..#..+...#....##+#...+
+#...##+##7*.R#..#77##....#..#####
+###+#...7...@42.....#....#.......
+#.......77####.z....###+##.......
+#........................4.......
+#................................
+#.88..88..88..88..88..88..88..88.
+#................................
+#...........2...2....z...........
+#..........................z.....
+#................................
+#.88..88..88..88..88..88..88..88.
+#.....................5........2.
+#................................
+
+
+You could see a reaper, an ancient champion, a rust devil, a friendly dryad and
+2 friendly snaplasher vines.
+
+Vanquished Creatures
+  A Hell Sentinel (Dis:7)
+  2 cacodemons (Dis:7)
+  A quicksilver dragon zombie (Dis:7)
+  A titan zombie (Dis:7)
+  A hydra zombie (Dis:7)
+  2 hell hounds (Dis:7)
+  A snapping turtle zombie (Dis:7)
+9 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A Hell Sentinel (Dis:7)
+  A rust devil (Dis:7)
+  4 tormentors (Dis:7)
+  3 hell hounds (Dis:7)
+9 creatures vanquished.
+
+Vanquished Creatures (others)
+  A Hell Sentinel (Dis:7)
+  An eldritch tentacle (Dis:7)
+2 creatures vanquished.
+
+Grand Total: 20 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Omeatuff the Gargoyle Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 50/50 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 56/56 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 62/62 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 68/68 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 74/74 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 80/80 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 86/86 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 92/92 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 98/98 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 104/104 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 110/110 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 116/116 MP: 1/44
+     0 | D:1      | Gained mutation: Your large and strong wings let you fly
+                  | indefinitely. [Gargoyle growth]
+     0 | D:1      | Reached XP level 14. HP: 122/122 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 127/127 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 133/133 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 139/139 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 145/145 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 151/151 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 157/157 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 163/163 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 169/169 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 175/175 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 181/181 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 187/187 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 193/193 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 199/199 MP: 1/54
+     0 | D:1      | Learned a level 5 spell: Summon Forest
+     0 | D:1      | Learned a level 5 spell: Lee's Rapid Deconstruction
+     0 | Dis:7    | Entered Level 7 of the Iron City of Dis
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found the +8 whip "Snakebite" {curare, rPois}
+    15 | Dis:7    | HP: 3/199 [Hell Sentinel (10)]
+    15 | Dis:7    | Mangled by a Hell Sentinel (10 damage)
+    16 | Dis:7    | Learned a level 1 spell: Confusing Touch
+    21 | Dis:7    | Identified the +4 staff of Dispater
+    21 | Dis:7    | Noticed Dispater
+    41 | Dis:7    | HP: 5/199 [hell hound/blast of flame (6)]
+    42 | Dis:7    | HP: 2/199 [titan zombie[the effects of Hell] (3)]
+    48 | Dis:7    | HP: 4/199 [quicksilver dragon zombie[the effects of Hell]
+                  | (1)]
+    48 | Dis:7    | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [a cacodemon]
+    49 | Dis:7    | HP: 1/199 [snapping turtle zombie[the effects of Hell] (3)]
+    50 | Dis:7    | Slain by a cacodemon (2 damage)
+    70 | Dis:7    | Learned a level 1 spell: Apportation
+    87 | Dis:6    | Found a gateway to Hell.
+    87 | Dis:6    | Found a gateway to Hell.
+    87 | Dis:6    | Found a gateway to Hell.
+    87 | Dis:6    | Found a gateway to Hell.
+    87 | Dis:7    | Entered Level 7 of the Iron City of Dis
+    87 | Dis:7    | Found a gateway to Hell.
+    87 | Dis:7    | Found a gateway to Hell.
+    87 | Dis:7    | Found a gateway to Hell.
+   103 | Dis:7    | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Flail             |       |       |       |       |       |       |       |       |    11 ||    11
+ Fire: Blowgun           |       |       |       |       |       |       |       |       |    11 ||    11
+Throw: Throwing net      |       |       |       |       |       |       |       |       |     1 ||     1
+ Cast: Apportation       |       |       |       |       |       |       |       |       |     2 ||     2
+       Summon Forest     |       |       |       |       |       |       |       |       |     2 ||     2
+       Confusing Touch   |       |       |       |       |       |       |       |       |     1 ||     1
+  Use: Scroll            |       |       |       |       |       |       |       |       |     5 ||     5
+Armor: Scale mail        |       |       |       |       |       |       |       |       |    54 ||    54
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    99 ||    99
+Block: Shield            |       |       |       |       |       |       |       |       |   112 ||   112
+

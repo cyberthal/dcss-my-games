@@ -7,19 +7,19 @@ M:\{3}
 A:\{6}corpse
 
 M:1
-A:PD<PA>wH
+A:PTPD<Ps>wi
 
 M:2
-A:PD<PA>wg
+A:PFPD<Ps>we
 
 M:3
-A:PD<PA>wf
+A:Pl>Pc<
 
 M:4
 A:PD<PA>wh
 
 M:6
-A:Vu
+A:wuVu
 
 M:;
 A:Xo
