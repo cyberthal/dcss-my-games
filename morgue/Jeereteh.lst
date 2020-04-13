@@ -1,0 +1,751 @@
+Jeereteh
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(4, 14, D:1)
+  a +0 club
+(18, 34, D:1)
+  a +0 dagger
+(19, 32, D:1)
+  a +0 dagger
+(29, 8, D:1)
+  a +0 club
+(36, 9, D:1)
+  a mace
+(42, 17, D:1)
+  a hand axe
+(47, 33, D:1)
+  a +0 ring mail
+  a +0 animal skin
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a chain mail
+(12, 37, D:2)
+  a dagger
+(22, 19, D:2)
+  a leather armour
+(22, 44, D:2)
+  a ring mail
+(26, 19, D:2)
+  a +0 short sword
+(26, 37, D:2)
+  a +0 chain mail
+(29, 40, D:2)
+  a mace
+(41, 9, D:2)
+  a leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a cursed -3 spear
+(1, 0, D:3)
+  a +0 flail
+  a +0 flail
+(15, -4, D:3)
+  a cursed -3 club
+(20, 18, D:3)
+  a +0 mace
+(31, 19, D:3)
+  a robe
+(33, 19, D:3)
+  a mace
+(34, 3, D:3)
+  a potion of degeneration
+(34, 7, D:3)
+  a +0 leather armour
+  a hand axe
+(39, 17, D:3)
+  a +0 club
+  a +0 club
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a plate armour
+(2, 2, D:4)
+  a robe
+(2, 21, D:4)
+  a +0 robe
+  a +0 dagger
+(41, 14, D:4)
+  a hand axe
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a falchion
+(1, 9, D:5)
+  a +0 giant club
+(7, -13, D:5)
+  a +0 shortbow
+(7, -3, D:5)
+  a +0 hand axe
+  a +0 falchion
+  a +0 dagger
+(11, 6, D:5)
+  a +0 leather armour
+  a cursed +0 dagger
+(15, 9, D:5)
+  a +0 club
+(15, 10, D:5)
+  a +0 leather armour
+(17, 10, D:5)
+  a +0 leather armour
+  a +0 mace
+(18, 11, D:5)
+  a +0 mace
+(21, 1, D:5)
+  a +0 leather armour
+  a +0 club
+(21, 11, D:5)
+  a +0 plate armour
+(26, 9, D:5)
+  a +0 leather armour
+(31, 5, D:5)
+  a cursed +0 plate armour
+  a +0 halberd
+(37, 6, D:5)
+  a +0 leather armour
+(38, 3, D:5)
+  a +0 ring mail
+  a +0 flail
+(38, 5, D:5)
+  a +0 hand axe
+(40, -10, D:5)
+  a dagger
+(41, -18, D:5)
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 robe
+  a +0 robe
+(1, -1, D:6)
+  a +0 ring mail
+  a +0 hand axe
+(1, 0, D:6)
+  a +0 robe
+  a +0 robe
+(2, -3, D:6)
+  a +0 hand axe
+(2, 12, D:6)
+  a +0 giant club
+(6, 12, D:6)
+  a +0 giant club
+(8, 22, D:6)
+  a robe
+(10, 23, D:6)
+  a +0 robe
+  a +0 dagger of pain
+(10, 28, D:6)
+  a +0 flail
+(13, 11, D:6)
+  a +0 ring mail
+(14, 4, D:6)
+  a spear
+(14, 10, D:6)
+  a cursed +0 leather armour
+(14, 11, D:6)
+  a +0 leather armour
+(19, 14, D:6)
+  a +0 leather armour
+  a +0 club
+(37, 1, D:6)
+  a +0 club
+(37, 2, D:6)
+  a +0 flail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a rapier
+(9, 13, D:7)
+  a +0 robe
+  a cursed +0 club
+(9, 14, D:7)
+  a +0 halberd
+(9, 15, D:7)
+  a +0 whip
+  an arrow
+  a +0 whip
+(10, -31, D:7)
+  a +0 plate armour
+  a +0 scimitar
+(10, -23, D:7)
+  a +0 short sword
+(10, -7, D:7)
+  a mace
+(22, -24, D:7)
+  a +0 dagger
+(30, -20, D:7)
+  a rapier
+(34, -11, D:7)
+  a hunting sling
+(37, -22, D:7)
+  a +0 robe
+  a +0 dagger
+(40, 0, D:7)
+  a -2 ring of protection
+(41, -24, D:7)
+  a +0 giant club
+(41, -22, D:7)
+  a +0 long sword
+  a +0 robe
+(49, 5, D:7)
+  a dagger
+(49, 12, D:7)
+  a +0 leather armour
+(54, -15, D:7)
+  a +0 giant club
+(54, 14, D:7)
+  a +0 leather armour
+
+Level 8 of the Dungeon
+[Shop] Qoedoseu's Magic Scroll Emporium
+  2 scrolls of amnesia (98 gold)
+(0, 0, D:8)
+  a helmet
+(3, -3, D:8)
+  a helmet
+(5, -27, D:8)
+  a +0 shortbow
+(7, -5, D:8)
+  a scarf of resistance
+  a +2 robe of the Archmagi
+  a scarf of spirit shield
+  a +2 cloak
+  a +4 chain mail
+  a +0 cloak of fire resistance
+  a +2 pair of gloves
+(7, -4, D:8)
+  the cursed +0 scale mail of Amis {rC+ Int+2 Dex-4}
+    It affects your intelligence (+2).
+    It affects your dexterity (-4).
+    It protects you from cold.
+    It has a curse placed upon it.
+  a +0 chain mail
+(8, -6, D:8)
+  a glowing long sword
+  a glowing rapier
+  a glowing whip
+  a hand crossbow
+  a runed rapier
+(8, -5, D:8)
+  2 javelins
+  a +2 short sword of electrocution
+  a +2 dagger of flaming
+  a +3 halberd
+  a +0 battleaxe
+  3 poisoned tomahawks
+  217 bolts
+  a cursed +1 mace
+  a +1 war axe
+  3 needles of confusion
+  a +3 shortbow of freezing
+  8 needles of sleeping
+  5 tomahawks of returning
+  a +0 short sword of draining
+  561 stones
+  a +3 dagger
+  131 sling bullets
+  a +2 trident of piercing
+  a +0 shield of fire resistance
+  a +0 eveningstar
+  a +1 hand axe of chopping
+  a +2 flail of crushing
+  a +0 glaive
+  a +3 scimitar
+  a +0 morningstar
+  8 silver tomahawks
+  6 silver javelins
+  a +1 longbow of flaming
+  a +0 fustibalus
+(8, -4, D:8)
+  a +0 hand axe of chopping
+  a mace
+(9, -5, D:8)
+  a +4 dire flail
+(9, -4, D:8)
+  a +0 longbow of flaming
+  a +0 dire flail
+(10, -5, D:8)
+  a scroll of identify
+  2 potions of cancellation
+  2 scrolls of vulnerability
+  a scroll of remove curse
+  a wand of paralysis (1)
+  2 potions of might
+  an uncursed ring of fire
+  a crystal ball of energy
+  a potion of mutation
+  a scroll of amnesia
+(16, -1, D:8)
+  a buckler
+(32, -26, D:8)
+  a +0 leather armour
+  a +0 club
+(33, -28, D:8)
+  a +0 falchion
+(38, -17, D:8)
+  a whip
+(39, -7, D:8)
+  a flail
+(40, -17, D:8)
+  a +0 spear
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 trident
+(1, -3, D:9)
+  a +0 giant spiked club
+(1, -2, D:9)
+  a +0 giant club
+  a +0 giant club
+(3, -38, D:9)
+  a +0 troll leather armour
+  a cursed -1 giant club
+  a +0 giant club
+(14, -15, D:9)
+  a +0 hand axe
+(21, -39, D:9)
+  a whip
+(28, -14, D:9)
+  a +0 shortbow
+(39, -21, D:9)
+  a potion of degeneration
+(44, -9, D:9)
+  a cursed +0 dagger
+(45, -22, D:9)
+  a +0 spear
+(45, -8, D:9)
+  a +0 leather armour
+  a +0 hand axe
+(46, -8, D:9)
+  a +0 ring mail
+  a cursed +0 falchion
+(47, -7, D:9)
+  a +0 chain mail
+  a cursed +0 leather armour
+(48, -7, D:9)
+  a +0 hand axe
+  a +0 hand axe
+(48, -4, D:9)
+  a +0 dagger
+  a +0 robe
+(48, 4, D:9)
+  a +0 flail
+  a +0 plate armour
+(49, -7, D:9)
+  a +0 hand axe
+  a +0 short sword
+  a +0 ring mail
+(49, -4, D:9)
+  a +0 club
+  a +0 ring mail
+(50, -6, D:9)
+  a +0 dagger
+(51, -6, D:9)
+  a +0 flail
+(51, 3, D:9)
+  a +0 dagger
+  a +0 robe
+(52, -5, D:9)
+  a +0 chain mail
+  a +0 club
+(52, 2, D:9)
+  a +0 flail
+  a +0 war axe
+  a +0 ring mail
+(53, -4, D:9)
+  a +0 club
+  a +0 leather armour
+(55, 0, D:9)
+  a +0 hand axe
+  a +0 leather armour
+  a +0 falchion
+  a +0 club
+  a +0 hand axe
+(56, -1, D:9)
+  a +0 chain mail
+  a +0 whip
+  a +0 leather armour
+  a +0 club
+  a +0 dagger
+(57, -22, D:9)
+  a +0 dagger
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a long sword
+(6, 10, D:10)
+  a cloak
+(15, 0, D:10)
+  a scale mail
+(27, 12, D:10)
+  a +0 club
+(28, 11, D:10)
+  a +0 dagger
+(28, 12, D:10)
+  a +0 dagger
+  a +0 blowgun
+  a +0 whip
+(29, -19, D:10)
+  a mace
+(32, 12, D:10)
+  a ring mail
+(44, 1, D:10)
+  a short sword
+(45, 9, D:10)
+  a robe
+(50, -23, D:10)
+  a +0 giant spiked club
+  a +0 giant club
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a cursed +0 robe
+  a +0 dagger
+(1, -5, Orc:1)
+  a +0 hand axe
+  a cursed +0 whip
+  a +0 chain mail
+(1, -4, Orc:1)
+  a +0 giant spiked club
+  a +0 whip
+  a +0 chain mail
+  a +0 falchion
+  a +0 robe
+  a +0 dagger
+  a +0 scimitar
+  a +0 robe
+  a +0 dagger
+(1, -3, Orc:1)
+  a cursed +0 glaive
+(10, 6, Orc:1)
+  a +0 plate armour
+  a +0 scimitar
+(13, -5, Orc:1)
+  a +0 robe
+  a +0 dagger
+(13, -3, Orc:1)
+  a +0 club
+(14, -5, Orc:1)
+  a +0 robe
+  a +0 dagger
+(14, -4, Orc:1)
+  a cursed -2 club
+(21, 14, Orc:1)
+  a +0 falchion
+(26, 11, Orc:1)
+  a +0 ring mail
+  a +0 short sword
+(26, 12, Orc:1)
+  a +0 chain mail
+  a +0 flail
+(27, 14, Orc:1)
+  a +0 falchion
+(35, 11, Orc:1)
+  a +0 whip
+(36, 26, Orc:1)
+  a +0 giant club
+(37, 13, Orc:1)
+  a +0 dagger
+  a +0 robe
+(38, 16, Orc:1)
+  a cursed -3 club
+  a cursed +0 flail
+(39, 14, Orc:1)
+  a +0 war axe
+  a +0 chain mail
+(39, 15, Orc:1)
+  a cursed +0 ring mail
+  a +0 dagger
+  a +0 robe
+(39, 16, Orc:1)
+  a cursed +0 hand axe
+  a +0 scale mail
+
+Level 2 of the Orcish Mines
+[Shop] Jiqak's Distillery
+  2 potions of magic (160 gold)
+  2 potions of degeneration (20 gold)
+  a potion of berserk rage (unknown) (50 gold)
+[Shop] Sad Ucau's Antique Armour Emporium
+  a glowing plate armour (650 gold)
+  a plate armour (575 gold)
+  a chain mail (112 gold)
+  a chain mail (112 gold)
+  a robe (17 gold)
+  a scale mail (100 gold)
+  a scale mail (100 gold)
+  a runed plate armour (650 gold)
+  a scale mail (100 gold)
+  a pitted ring mail (225 gold)
+  a large shield (112 gold)
+  a chain mail (112 gold)
+[Shop] Ezuhifogac's Gadget Shoppe
+  a lightning rod (4/4) (520 gold)
+  a wand of clouds (7) (unknown) (429 gold)
+  a phial of floods (520 gold)
+  a wand of polymorph (14) (208 gold)
+  a wand of flame (27) (188 gold)
+  a phial of floods (520 gold)
+  a lightning rod (4/4) (520 gold)
+  a box of beasts (260 gold)
+(0, 0, Orc:2)
+  a +0 mace
+(0, 2, Orc:2)
+  a cursed +0 battleaxe
+  a +0 chain mail
+(1, 0, Orc:2)
+  a +0 falchion
+(1, 2, Orc:2)
+  a cursed -1 hand axe
+(3, -21, Orc:2)
+  a +0 scale mail
+(4, -22, Orc:2)
+  a +0 club
+(8, -25, Orc:2)
+  a +0 ring mail
+  a +0 dagger
+(9, -24, Orc:2)
+  a +0 leather armour
+  a +0 ring mail
+  a +0 flail
+(10, -49, Orc:2)
+  a +2 robe of magic resistance
+  a +0 dagger
+  a cursed -1 falchion
+  a +0 plate armour
+  a +0 arbalest
+(11, -49, Orc:2)
+  a +0 ring mail
+  a cursed -3 dagger
+  a +0 giant club
+(14, -44, Orc:2)
+  a +0 robe
+  a +0 dagger
+(15, -44, Orc:2)
+  a +0 chain mail
+  a cursed -2 mace
+(15, -43, Orc:2)
+  a cursed -3 giant club
+(17, -19, Orc:2)
+  a +0 hand axe
+(17, -18, Orc:2)
+  a +0 chain mail
+  a +0 hand axe
+(18, -43, Orc:2)
+  a +2 ring mail of fire resistance
+  a +0 short sword
+(18, -17, Orc:2)
+  a +0 ring mail
+  a +0 short sword
+(19, -45, Orc:2)
+  a +0 hand axe
+(19, -22, Orc:2)
+  a +0 mace
+(19, -21, Orc:2)
+  a +2 robe
+  a +0 dagger
+(20, -24, Orc:2)
+  a +2 robe of magic resistance
+  a +0 dagger
+  a +0 plate armour
+  a +0 long sword
+  a +0 arbalest
+(20, -22, Orc:2)
+  a +2 robe of cold resistance
+  a +0 dagger
+  a +0 scale mail of magic resistance
+  a +0 trident
+  a +0 chain mail
+(20, -15, Orc:2)
+  a +0 plate armour
+  a +0 hand axe
+  a +0 plate armour
+  a +0 mace
+  a +0 trident
+(21, -25, Orc:2)
+  a +0 plate armour
+  a +0 halberd
+(21, -15, Orc:2)
+  a +0 club
+(21, -14, Orc:2)
+  a +0 plate armour
+  a +0 war axe
+(22, -25, Orc:2)
+  a +0 plate armour
+  a +0 battleaxe
+(22, -14, Orc:2)
+  a +0 plate armour
+  a +0 mace
+(22, -13, Orc:2)
+  a +0 leather armour
+  a +0 hand axe
+  a +1 dagger of freezing
+  a +0 leather armour
+  a +0 hand axe
+  a +0 leather armour
+(23, -47, Orc:2)
+  a +0 plate armour
+  a cursed -2 trident
+(23, -25, Orc:2)
+  a +2 robe of magic resistance
+  a +0 dagger
+(23, -19, Orc:2)
+  a +0 leather armour
+  a +0 club
+  a +0 chain mail
+  a +0 hand axe
+(23, -13, Orc:2)
+  a +0 chain mail
+  a +0 dagger
+  a +0 leather armour
+  a +0 arbalest
+  a +0 battleaxe
+  a +0 chain mail
+  a +0 scimitar
+  a +0 plate armour
+  a +0 dagger
+(23, -12, Orc:2)
+  a +0 plate armour
+  a +0 mace
+  a +1 mace of protection
+(24, -17, Orc:2)
+  a +0 trident
+(24, -16, Orc:2)
+  a +0 plate armour
+  a +0 short sword
+(24, -13, Orc:2)
+  a +0 club
+(25, -27, Orc:2)
+  a +0 glaive
+  a +0 glaive
+(25, -23, Orc:2)
+  a +0 robe
+  a +0 dagger
+(26, -28, Orc:2)
+  a +0 plate armour
+  a +0 mace
+(28, -26, Orc:2)
+  a +2 robe of cold resistance
+  a +0 dagger
+(29, -25, Orc:2)
+  a +0 scale mail
+  a +0 trident
+(30, -28, Orc:2)
+  a +0 flail
+(30, -24, Orc:2)
+  a +0 chain mail
+  a +0 glaive
+(30, -15, Orc:2)
+  a +0 leather armour
+  a cursed -2 trident
+(31, -21, Orc:2)
+  a +0 robe
+  a +0 dagger
+(31, -15, Orc:2)
+  a +0 chain mail
+  a +0 war axe
+(32, -17, Orc:2)
+  a +0 flail
+(33, -13, Orc:2)
+  a +0 leather armour
+  a +0 whip
+(35, -14, Orc:2)
+  a +0 chain mail
+  a +0 hand axe
+(41, -20, Orc:2)
+  a +0 ring mail
+  a +0 dagger
+(43, -18, Orc:2)
+  a +0 ring mail
+  a +0 flail
+(51, -21, Orc:2)
+  a +0 plate armour
+(54, -15, Orc:2)
+  a +0 troll leather armour
+(60, -35, Orc:2)
+  a +0 dire flail
+  a +0 dire flail
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a robe
+(6, 7, Lair:1)
+  a potion of degeneration
+(9, 40, Lair:1)
+  a pair of gloves
+(11, 9, Lair:1)
+  a flail
+(25, 14, Lair:1)
+  a hand axe
+(27, 38, Lair:1)
+  a rapier
+(39, -5, Lair:1)
+  a dagger
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a ring mail
+(25, -4, Lair:2)
+  a +0 buckler
+  a +3 plate armour
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a spear
+(9, 25, Lair:3)
+  a +0 short sword
+  a +0 robe
+(9, 27, Lair:3)
+  a +0 scimitar
+(10, 30, Lair:3)
+  a +0 war axe
+(21, 20, Lair:3)
+  a short sword
+(37, 45, Lair:3)
+  a robe
+(43, 1, Lair:3)
+  a quarterstaff
+(56, 5, Lair:3)
+  a long sword
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a chain mail
+(4, -1, Lair:4)
+  the +3 rapier "Pirghecob" {pierce, Dex+4 Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (+4).
+    It makes you more stealthy.
+(11, 3, Lair:4)
+  a +0 hunting sling
+(19, 27, Lair:4)
+  2 potions of degeneration
+(41, 5, Lair:4)
+  a leather armour
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a robe
+(3, 6, Lair:5)
+  a glowing buckler
+(16, 31, Lair:5)
+  a buckler
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  a rapier
+(8, -28, Lair:6)
+  a scale mail
+(30, -45, Lair:6)
+  a glowing robe
+(33, -22, Lair:6)
+  a leather armour
+(41, -2, Lair:6)
+  a ring mail
+

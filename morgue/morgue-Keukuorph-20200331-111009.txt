@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6786681427597401898
+
+513 Keukuorph the Fighter (level 7, 111/111 HPs) *WIZ*
+             Began as a Minotaur Berserker on Mar 31, 2020.
+             Was a Follower of Trog.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:16:27 (460 turns).
+
+Keukuorph the Fighter (Minotaur Berserker)           Turns: 460, Time: 00:16:28
+
+Health: 111/111    AC:  3    Str: 27    XL:     7   Next: 0%
+Magic:  6/6        EV: 17    Int:  4    God:    Trog 35 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .   g - +0 halberd
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 animal skin
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.28/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: berserking (expiring), hasted and slowed
+A: retaliatory headbutt, horns 2
+a: Berserk, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear
+ f - a +0 flail
+ g - a +0 halberd (weapon)
+ h - a +0 glaive
+ i - a +0 dagger
+ j - a +0 quick blade
+Armour
+ b - a +0 animal skin (worn)
+Potions
+ d - 6 potions of experience
+ e - 10 potions of cancellation
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 11.3 Fighting
+ - Level 11.3 Short Blades
+ + Level 11.3 Polearms
+ + Level 11.1 Armour
+ + Level 10.2 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+You feel a strong urge to attack something.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     11.4 |     40 |  51% |   5.8 |    50  |  2.00 |     11.7
+Attack:   Mons | No hits
+Defend: Player |     10.9 |     28 |  19% |   2.2 |    66  |  1.52 |      3.3
+Defend:   Mons |      8.1 |     18 |  42% |   3.4 |    66  |  1.52 |      5.2
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+g - a +0 halberd (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     20.8 |     58 |  47% |   9.9 |    93  |  1.07 |     10.6
+Attack:   Mons | No hits
+Defend: Player |     12.2 |     21 |   0% |   0.0 |    66  |  1.52 |      0.0
+Defend:   Mons |      7.9 |     18 |  91% |   7.3 |    66  |  1.52 |     11.0
+You can move again.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     21.4 |     63 |  46% |  10.0 |    93  |  1.07 |     10.7
+Attack:   Mons | No hits
+Defend: Player |     10.8 |     31 |  20% |   2.2 |    66  |  1.52 |      3.3
+Defend:   Mons |      8.0 |     18 |  41% |   3.4 |    66  |  1.52 |      5.1
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   ###
+    ..#
+     ...   .
+      ..  ..
+      #.#.#
+   ####..###
+  ##.......##
+  #.@....<..#
+#.....#..........
+#....####........
+#....#  ##.......
+#.#...    .).##..
+#.##...   .###  .
+#. #?..   ##
+#. ##...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Keukuorph the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Fighting
+     1 | D:1      | Reached skill level 5 in Polearms
+     1 | D:1      | Reached skill level 5 in Armour
+     1 | D:1      | Reached XP level 2. HP: 30/30 MP: 1/1
+     2 | D:1      | Reached XP level 3. HP: 39/39 MP: 2/2
+     3 | D:1      | Reached XP level 4. HP: 49/49 MP: 3/3
+     4 | D:1      | Reached XP level 5. HP: 58/58 MP: 4/4
+     5 | D:1      | Reached skill level 10 in Fighting
+     5 | D:1      | Reached skill level 10 in Polearms
+     5 | D:1      | Reached skill level 10 in Armour
+     5 | D:1      | Reached XP level 6. HP: 67/67 MP: 5/5
+     6 | D:1      | Reached skill level 10 in Dodging
+     6 | D:1      | Reached XP level 7. HP: 74/74 MP: 6/6
+     7 | D:1      | Noticed a hornet
+     8 | D:1      | Paralysed by a hornet for 2 turns
+   116 | D:1      | Paralysed by a hornet for 3 turns
+   224 | D:1      | Paralysed by a hornet for 1 turns
+   333 | D:1      | Paralysed by a hornet for 3 turns
+   441 | D:1      | Paralysed by a hornet for 2 turns
+   448 | D:1      | Paralysed by a hornet for 1 turns
+   454 | D:1      | Paralysed by a hornet for 1 turns
+   458 | D:1      | Paralysed by a hornet for 2 turns
+   460 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Fighting       |  5  7  8  9 10 11 | 11.3
+Polearms       |  5  7  8  9 10 11 | 11.3
+Armour         |  5  6  8  9 10 11 | 11.1
+Dodging        |  4  6  7  8  9 10 | 10.2
+Short Blades   |                   | 11.3
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |       |       | 40000 || 40000
+       Headbutt          |       |       | 20861 || 20861
+       Flail             |       |       | 20000 || 20000
+       Quick blade       |       |       | 12000 || 12000
+       Halberd           |       |       | 12000 || 12000
+       Dagger            |       |       |  8000 ||  8000
+       Glaive            |       |       |  8000 ||  8000
+Invok: Berserk           |       |       |     5 ||     5
+  Use: Potion            |     3 |     3 |     5 ||    11
+Armor: Animal skin       |       |       |  4663 ||  4663
+Dodge: Dodged            |       |       | 41944 || 41944
+

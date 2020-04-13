@@ -1,0 +1,653 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4830385240836722531
+
+87803 Jeereteh the Warrior (level 15, 141/141 HPs) *WIZ*
+             Began as a Minotaur Berserker on Mar 27, 2020.
+             Was a High Priest of Trog.
+             Quit the game on level 8 of the Dungeon on Mar 31, 2020.
+             The game lasted 07:12:46 (31726 turns).
+
+Jeereteh the Warrior (Minotaur Berserker)          Turns: 31726, Time: 07:12:47
+
+Health: 141/141    AC: 21    Str: 20    XL:     15   Next: 44%
+Magic:  27/27      EV: 11    Int: 10    God:    Trog [*****.]
+Gold:   354        SH:  0    Dex: 18    Spells: 14/14 levels left
+
+rFire    + + +     SeeInvis .   j - +8 storm bow {elec}
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    +   M - +2 plate armour {rF+}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   n - scarf {repulsion}
+rCorr    .         Harm     .   L - +1 pair of gloves {Str+3}
+MR       +....                  Y - +1 pair of boots
+Stlth    ..........             z - amulet of faith
+HPRegen  0.33/turn              y - ring of protection from cold
+MPRegen  0.20/turn              q - ring "Xotun" {rF+++ MP+9 Str-4 Int+5 Stlth+}
+
+@: repel missiles
+A: retaliatory headbutt, horns 2, talons 1, agile 1, screaming 1
+a: Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Trog.
+Trog was extremely pleased with you.
+You were not hungry.
+
+You visited 4 branches of the dungeon, and saw 24 of its levels.
+You also visited: Volcano.
+
+You collected 2729 gold pieces.
+You spent 2375 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 great sword of slicing
+ b - a +3 flail of protection
+ c - a +3 antimagic dire flail
+ d - a +2 great mace of flaming
+ e - a +3 broad axe of freezing
+ f - the +1 trident "Gasuck" {pierce, +Blink rPois rC++ Stlth-}
+   (You found it on level 5 of the Lair of Beasts)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It greatly protects you from cold.
+   It protects you from poison.
+   It lets you blink.
+   It makes you less stealthy.
+ g - a +1 demon trident of freezing
+ h - a +2 glaive of flaming
+ i - the +7 longbow of Toqeplaschu {velocity, rF+}
+   (Trog gifted it to you on level 2 of the Orcish Mines)   
+   
+   Any arrow fired from it inflicts extra damage.
+   
+   It protects you from fire.
+ j - the +8 storm bow (weapon) {elec}
+   (Trog gifted it to you on level 1 of the Orcish Mines)   
+   
+   It charges the ammunition it shoots with electricity; occasionally upon a
+   hit, such missiles may discharge and cause terrible harm.
+ k - a +4 blowgun
+Missiles
+ l - 95 arrows (quivered)
+Armour
+ n - a scarf of repulsion (worn)
+ w - a +0 troll leather armour
+ L - a +1 pair of gloves of strength (worn)
+ M - a +2 plate armour of fire resistance (worn)
+ N - the +0 cloak of Royalty {rCorr}
+   (You bought it in a shop on level 2 of the Orcish Mines)   
+   
+   It provides partial protection from all sources of acid and corrosion.
+ Y - a +1 pair of boots (worn)
+Jewellery
+ q - the ring "Xotun" (right hand) {rF+++ MP+9 Str-4 Int+5 Stlth+}
+   (You acquired it on level 1 of the Orcish Mines)   
+   
+   [ring of intelligence]
+   
+   It affects your strength (-4).
+   It affects your intelligence (+5).
+   It renders you almost immune to fire.
+   It affects your magic capacity (+9).
+   It makes you more stealthy.
+ y - a ring of protection from cold (left hand)
+ z - an amulet of faith (around neck)
+ D - an uncursed ring of positive energy {unknown}
+ J - an uncursed ring of ice
+ P - a cursed -3 ring of protection
+Comestibles
+ G - 24 rations
+
+
+   Skills:
+ - Level 15.0 Fighting
+ - Level 9.0 Long Blades
+ + Level 10.0(13.3) Axes
+ - Level 11.4(12.8) Maces & Flails
+ - Level 9.4(11.2) Polearms
+ - Level 13.0 Bows
+ - Level 7.0 Throwing
+ * Level 9.8 Armour
+ - Level 9.0 Dodging
+   Level 2.1 Shields
+ - Level 6.0 Evocations
+
+
+You had 14 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          100%        1    ##.....
+ Apportation              Tloc           #.....       100%        1    ##.....
+ Confusing Touch          Hex            #.....       100%        1    ##.....
+ Freeze                   Ice            #...         100%        1    ##.....
+ Summon Small Mammal      Summ           #...         100%        1    ##.....
+ Call Imp                 Summ           #.......     100%        2    ###....
+ Throw Frost              Conj/Ice       #.....       100%        2    ###....
+ Call Canine Familiar     Summ           #.......     100%        3    ####...
+ Ozocubu's Armour         Chrm/Ice       #.......     100%        3    ####...
+ Summon Guardian Golem    Hex/Summ       #.......     100%        3    ####...
+ Summon Ice Beast         Ice/Summ       #.......     100%        4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     100%        4    #####..
+ Throw Icicle             Conj/Ice       #.......     100%        4    #####..
+ Irradiate                Conj/Tmut      #.........   100%        5    ######.
+ Hydra Form               Tmut           #.........   100%        6    #######
+ Statue Form              Tmut/Erth      #........    100%        6    #######
+ Dragon Form              Tmut           #.........   100%        7    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:6            Lair (6/6) D:9
+  Swamp (0/4) Lair:3        Snake (0/4) Lair:3        Slime (0/5) Lair:5
+    Orc (2/2) D:9             Elf (0/3) Orc:2       
+Vaults: D:13-14     Depths: D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:8 ?   Orc:2 }[!
+
+Portals:
+Pandemonium: Orc:2
+
+Annotations:
+D:10 dig for loot
+D:11 loot
+D:13 exclusion: upstairs
+Orc:2 1 runed translucent door
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You have sharp toenails.
+You are agile. (Dex +2)
+You occasionally shout uncontrollably at your foes.
+
+
+Message History
+
+You drop a lamp of fire.
+You drop a phial of floods.
+You drop 5 potions of flight.
+You drop 2 scrolls of torment.
+You drop a wand of flame (61).
+You drop 2 throwing nets.
+You drop 6 potions of lignification.
+You drop a wand of disintegration (11).
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(P) Snake Pit      (M) Slime Pits     (O) Orcish Mines   (E) Elven Halls    
+Where to? (* - list waypoints, Enter - D:9 @ (x,y), ? - help) 
+(1) D:9      (2) D:8      
+Where to? (* - list branches, Enter - D:9 @ (x,y), ? - help) 
+All of the chunks of flesh in your inventory have rotted away.
+There is an open door here.
+There is a stone staircase leading up, spattered with blood here.
+You climb upwards.
+There is a stone staircase leading down here.
+There is an open door here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #.##......\.#            #.....#  ###
+     #.##........#            #.....#  #..
+######.##........#            #.....#  #..
+#......#.........#            #.....#  #..
+#.########......########      #.....#  #..
+#.###### #......#......########.....#  #..
+#......# ########...................#  #..
+#......#        #...................#  #..
+##.....#        #..>...............#####..
+ #.....##########..................'...###
+ #.....'...........................###.#
+ #.....#...........................# #.#
+ #.....#............@..............# #.#
+ #...................).............###.#
+ #..................[))?...............###
+ #..................[)).................#.
+ #.....#........[............<......##..#.
+ #.....###............#######'###.......#.
+ #.....# #............#     #[# #.#.##..#.
+ ####### #...[........#     #.# #.#.##..'.
+         #............#     #.# ###.##.##.
+         #............#     #.#   #.##....
+         #............#     #.#####.#####.
+         #.......<....#     #.#.....#   #.
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 entropy weavers (Lair:4)
+  A dire elephant (Lair:6)
+  An ettin (Orc:2)
+  3 hydras
+  2 catoblepae
+  5 two-headed ogres
+  2 death knights (D:13)
+  12 death yaks
+  A deep troll shaman (Lair:6)
+  A queen ant (Lair:4)
+  A sun demon (Orc:2)
+  5 orc high priests
+  A soul eater (Orc:2)
+  Sonja (Lair:3)
+  A skeletal warrior (D:13)
+  A gelid demonspawn (Orc:2)
+  An infernal demonspawn (Orc:2)
+  7 orc knights
+  8 ugly things
+  2 oklob plants (Lair:1)
+  9 orc sorcerers
+  A cyclops (D:11)
+  A manticore (D:9)
+  A rust devil (Orc:2)
+  A centaur zombie (D:13)
+  13 elephants (Lair:6)
+  2 salamanders (Volcano)
+  2 black mambas
+  A torpor snail (Lair:4)
+  A gargoyle (D:13)
+  10 spiny frogs
+  8 komodo dragons
+  3 freezing wraiths (D:13)
+  6 rime drakes
+  2 red devils (Orc:2)
+  6 trolls
+  A merfolk (D:9)
+  3 polar bears
+  9 hippogriffs
+  A slime creature (Lair:5)
+  9 blink frogs
+  5 dream sheep
+  A shadow (D:14)
+  4 water elementals (D:15)
+  47 yaks
+  A vampire (D:14)
+  A wyvern (D:11)
+  8 wraiths
+  A fire elemental (Volcano)
+  2 fire bats (Volcano)
+  2 basilisks
+  3 steam dragons
+  2 hungry ghosts
+  3 nagas (Lair:3)
+  3 wargs
+  7 soldier ants
+  2 acid dragons (D:15)
+  18 water moccasins
+  A hell hound (Volcano)
+  3 porcupines
+  An eye of draining (D:14)
+  An ice beast (D:8)
+  29 orc warriors
+  2 phantoms
+  3 sky beasts
+  A black bear (D:9)
+  15 wolves
+  10 ogres
+  6 centaurs
+  3 big kobolds
+  16 crocodiles
+  15 bullfrogs
+  A wyvern zombie (D:11)
+  2 scorpions
+  12 killer bees
+  9 wights
+  7 howler monkeys
+  6 electric eels
+  7 crimson imps
+  3 quasits
+  2 bullfrog zombies
+  7 hounds
+  2 bullfrog skeletons
+  A gnoll shaman (D:7)
+  30 orc priests
+  3 centaur skeletons
+  7 jellies
+  13 orc wizards
+  An iguana (D:8)
+  Ijyb (D:5)
+  Terence (D:2)
+  Natasha (thrice) (D:2)
+  16 worker ants
+  A hound skeleton (D:5)
+  A howler monkey zombie (D:11)
+  A howler monkey skeleton (D:7)
+  15 gnolls
+  10 adders
+  2 shadow imps
+  2 oozes
+  2 adder skeletons
+  4 worms
+  3 dart slugs
+  7 leopard geckos
+  100 orcs
+  2 giant cockroaches
+  3 goblins (D:1)
+  2 hobgoblins
+  14 jackals
+  3 quokkas
+  3 ball pythons
+  8 bats
+  6 frilled lizards
+  A jackal zombie (D:5)
+  18 kobolds
+  2 leopard gecko skeletons (D:5)
+  6 rats
+  A fungus (Lair:5)
+  3 plants
+718 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Josephine (Orc:2)
+  A guardian serpent (D:10)
+  6 dream sheep
+  A hippogriff (Lair:6)
+  A wraith (Orc:2)
+  3 yaks (Lair:6)
+  A basilisk (D:14)
+  An ogre (Orc:1)
+  A jelly (Lair:5)
+  An orc wizard (Orc:1)
+17 creatures vanquished.
+
+Vanquished Creatures (others)
+  A two-headed ogre (Volcano)
+  An orc priest (D:7)
+  2 fungi
+  27 plants
+31 creatures vanquished.
+
+Grand Total: 766 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jeereteh the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   405 | D:1      | Reached skill level 4 in Fighting
+   405 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/1
+  1155 | D:2      | Reached ** piety under Trog
+  1155 | D:2      | Reached XP level 3. HP: 29/33 MP: 2/2
+  1301 | D:2      | Noticed Terence
+  1370 | D:2      | Killed Terence
+  1760 | D:2      | Noticed Natasha
+  1768 | D:2      | Killed Natasha
+  1768 | D:2      | Reached skill level 1 in Maces & Flails
+  1768 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1923 | D:2      | Noticed Natasha
+  1940 | D:2      | Killed Natasha
+  2132 | D:2      | Noticed Natasha
+  2135 | D:2      | Killed Natasha
+  2135 | D:2      | Reached XP level 5. HP: 47/47 MP: 4/4
+  2511 | D:3      | Reached skill level 1 in Throwing
+  2744 | D:3      | Reached skill level 1 in Evocations
+  3396 | D:4      | Reached skill level 5 in Maces & Flails
+  3396 | D:4      | Reached XP level 6. HP: 51/53 MP: 5/5
+  4282 | D:5      | Entered Level 5 of the Dungeon
+  4308 | D:4      | Reached skill level 1 in Shields
+  4325 | D:5      | Noticed an orc warrior
+  4339 | D:4      | Reached skill level 5 in Fighting
+  4551 | D:4      | Reached XP level 7. HP: 56/61 MP: 6/6
+  4647 | D:5      | Reached *** piety under Trog
+  4710 | D:5      | Noticed Ijyb
+  4720 | D:5      | Killed Ijyb
+  4991 | D:5      | Reached skill level 6 in Fighting
+  4991 | D:5      | Reached skill level 1 in Bows
+  5292 | D:5      | Reached XP level 8. HP: 63/71 MP: 5/7
+  5438 | D:6      | Reached skill level 7 in Fighting
+  5959 | D:6      | Reached **** piety under Trog
+  5962 | D:6      | Reached skill level 8 in Fighting
+  6412 | D:6      | Found a staircase to the Ecumenical Temple.
+  6683 | D:7      | Reached skill level 1 in Polearms
+  6683 | D:7      | Reached XP level 9. HP: 82/82 MP: 9/9
+  6748 | Temple   | Entered the Ecumenical Temple
+  6915 | D:7      | Found a stormy altar of Qazlal.
+  8300 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+  8505 | D:8      | Reached skill level 9 in Fighting
+  8923 | D:8      | Found Qoedoseu's Magic Scroll Emporium.
+  9334 | D:8      | Bought a scroll of identify for 28 gold pieces
+  9334 | D:8      | Bought a scroll of identify for 28 gold pieces
+  9334 | D:8      | Bought a scroll of identify for 28 gold pieces
+  9334 | D:8      | Bought a scroll of magic mapping for 49 gold pieces
+  9334 | D:8      | Bought a scroll of remove curse for 42 gold pieces
+  9334 | D:8      | Bought a scroll of blinking for 105 gold pieces
+  9334 | D:8      | Bought a scroll of blinking for 105 gold pieces
+  9334 | D:8      | Bought a scroll of teleportation for 42 gold pieces
+  9334 | D:8      | Bought a scroll of blinking for 105 gold pieces
+  9758 | D:9      | Noticed a two-headed ogre
+  9761 | D:9      | Killed a two-headed ogre
+  9761 | D:9      | Reached skill level 5 in Polearms
+  9761 | D:9      | Reached skill level 5 in Armour
+  9825 | D:9      | Reached XP level 10. HP: 69/92 MP: 11/11
+ 10008 | D:9      | Reached ***** piety under Trog
+ 10090 | D:9      | Reached skill level 10 in Fighting
+ 10274 | D:9      | Noticed a two-headed ogre
+ 10300 | D:9      | Killed a two-headed ogre
+ 10300 | D:9      | Reached skill level 11 in Fighting
+ 10742 | D:9      | Reached skill level 12 in Fighting
+ 10897 | D:9      | Received a gift from Trog
+ 11029 | D:9      | Found a staircase to the Orcish Mines.
+ 11196 | D:9      | Noticed a manticore
+ 11356 | D:9      | Killed a manticore
+ 11356 | D:9      | Reached skill level 10 in Maces & Flails
+ 11411 | D:9      | Found a staircase to the Lair.
+ 11775 | D:8      | Entered wizard mode.
+ 11834 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12140 | Lair:1   | Reached XP level 11. HP: 104/104 MP: 12/12
+ 12272 | Lair:1   | Reached skill level 5 in Bows
+ 12331 | Lair:1   | Noticed an oklob plant
+ 12331 | Lair:1   | Noticed an oklob plant
+ 13122 | Lair:1   | Received a gift from Trog
+ 13431 | Lair:1   | Killed an oklob plant
+ 13431 | Lair:1   | Reached skill level 5 in Long Blades
+ 13776 | Lair:2   | Reached skill level 5 in Dodging
+ 13792 | Lair:2   | Found a dark tunnel.
+ 13821 | Volcano  | Entered a volcano
+ 13851 | Volcano  | Noticed a two-headed ogre
+ 13852 | Volcano  | Noticed a two-headed ogre
+ 13854 | Volcano  | Killed a two-headed ogre
+ 13856 | Volcano  | Killed a two-headed ogre
+ 14589 | Lair:2   | Reached XP level 12. HP: 112/112 MP: 14/14
+ 14594 | Lair:2   | Reached skill level 5 in Throwing
+ 14663 | Lair:2   | Noticed a six-headed hydra
+ 14682 | Lair:2   | Killed a one-headed hydra
+ 15931 | Lair:3   | Found a staircase to the Swamp.
+ 16039 | Lair:3   | Noticed Sonja
+ 16043 | Lair:3   | Killed Sonja
+ 16421 | Lair:3   | Found a staircase to the Snake Pit.
+ 17349 | Lair:4   | Noticed an entropy weaver
+ 17356 | Lair:4   | Noticed an entropy weaver
+ 17359 | Lair:4   | Killed an entropy weaver
+ 17361 | Lair:4   | Noticed a queen ant
+ 17362 | Lair:4   | Killed an entropy weaver
+ 17370 | Lair:4   | Killed a queen ant
+ 17370 | Lair:4   | Reached skill level 5 in Evocations
+ 17689 | Lair:4   | Reached skill level 13 in Fighting
+ 17796 | Lair:4   | Got an encrusted scale mail
+ 17938 | Lair:4   | Got an ivory rapier
+ 17997 | Lair:4   | Found a glowing golden altar of the Shining One.
+ 18018 | Lair:4   | Noticed an eight-headed hydra
+ 18025 | Lair:4   | Killed a six-headed hydra
+ 18070 | Lair:4   | Identified the +3 rapier "Pirghecob" {pierce, Dex+4 Stlth+}
+                  | (You found it on level 4 of the Lair of Beasts)
+ 18211 | Lair:4   | Received a gift from Trog
+ 18458 | Lair:4   | Reached skill level 14 in Fighting
+ 19079 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 19080 | Orc:1    | Identified a scroll of acquirement
+ 19081 | Orc:1    | Got a crude golden ring
+ 19084 | Orc:1    | Received a gift from Trog
+ 19090 | Orc:1    | Reached XP level 13. HP: 125/125 MP: 15/15
+ 19589 | Orc:1    | Received a gift from Trog
+ 19590 | Orc:1    | Found the +8 storm bow {elec}
+ 19593 | Orc:1    | *maniacal laughter*
+ 20588 | D:8      | Identified the ring "Xotun" {rF+++ MP+9 Str-4 Int+5 Stlth+}
+                  | (You acquired it on level 1 of the Orcish Mines)
+ 20978 | Lair:5   | Found a staircase to the Slime Pits.
+ 21018 | Lair:5   | Got a crude trident
+ 21328 | Lair:5   | Reached skill level 10 in Bows
+ 21890 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 22068 | Lair:6   | Received a gift from Trog
+ 22620 | Lair:6   | Reached XP level 14. HP: 100/133 MP: 16/16
+ 22627 | Lair:6   | Reached skill level 1 in Axes
+ 23174 | Lair:5   | Received a gift from Trog
+ 24214 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 24475 | Orc:2    | Reached skill level 5 in Axes
+ 24762 | Orc:2    | Noticed Josephine
+ 24782 | Orc:2    | Killed Josephine
+ 24910 | Orc:2    | Found a runed translucent door.
+ 25132 | Orc:2    | Found a staircase to the Elven Halls.
+ 25163 | Orc:2    | Found Jiqak's Distillery.
+ 25432 | Orc:2    | Received a gift from Trog
+ 25558 | Orc:2    | Found Diatyr's Distillery.
+ 25567 | Orc:2    | Found Tewup's Magic Scroll Shop.
+ 25875 | Orc:2    | Received a gift from Trog
+ 26420 | Orc:2    | Found Sad Ucau's Antique Armour Emporium.
+ 26420 | Orc:2    | Found Ezuhifogac's Gadget Shoppe.
+ 26420 | Orc:2    | Found a one-way gate leading to the halls of Pandemonium.
+ 26460 | Orc:2    | Got a jewelled longbow {god gift}
+ 26902 | Orc:2    | Bought a scroll of identify for 24 gold pieces
+ 26902 | Orc:2    | Bought a scroll of identify for 24 gold pieces
+ 26902 | Orc:2    | Bought a scroll of magic mapping for 42 gold pieces
+ 26902 | Orc:2    | Bought a scroll of fog for 24 gold pieces
+ 26902 | Orc:2    | Bought a scroll of teleportation for 36 gold pieces
+ 26902 | Orc:2    | Bought a scroll of remove curse for 36 gold pieces
+ 26902 | Orc:2    | Bought a scroll of magic mapping for 42 gold pieces
+ 26933 | Orc:2    | Bought a potion of might for 40 gold pieces
+ 26933 | Orc:2    | Bought a potion of curing for 30 gold pieces
+ 26933 | Orc:2    | Bought a potion of curing for 30 gold pieces
+ 26966 | Orc:2    | Bought a potion of lignification for 39 gold pieces
+ 26966 | Orc:2    | Bought a potion of curing for 39 gold pieces
+ 26966 | Orc:2    | Bought a potion of agility for 52 gold pieces
+ 26966 | Orc:2    | Bought a potion of curing for 39 gold pieces
+ 26999 | Orc:2    | Bought a potion of heal wounds for 50 gold pieces
+ 26999 | Orc:2    | Bought 2 potions of lignification for 60 gold pieces
+ 26999 | Orc:2    | Bought a potion of heal wounds for 50 gold pieces
+ 26999 | Orc:2    | Bought a potion of mutation for 80 gold pieces
+ 27032 | Orc:2    | Bought a potion of mutation for 104 gold pieces
+ 27032 | Orc:2    | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+ 27032 | Orc:2    | Gained mutation: You have sharp toenails. [potion of
+                  | mutation]
+ 27032 | Orc:2    | Gained mutation: You are agile. (Dex +2) [potion of
+                  | mutation]
+ 27033 | Orc:2    | Bought a potion of heal wounds for 65 gold pieces
+ 27033 | Orc:2    | Bought a potion of heal wounds for 65 gold pieces
+ 27033 | Orc:2    | Bought a potion of cancellation for 104 gold pieces
+ 27035 | Orc:2    | Bought a scroll of enchant armour for 90 gold pieces
+ 27035 | Orc:2    | Bought a scroll of enchant weapon for 90 gold pieces
+ 27064 | Orc:2    | Bought a wand of polymorph (5) for 91 gold pieces
+ 27093 | Orc:2    | Bought a potion of resistance for 130 gold pieces
+ 27093 | Orc:2    | Bought a potion of haste for 130 gold pieces
+ 27122 | Orc:2    | Bought a heavily runed cloak for 237 gold pieces
+ 27122 | Orc:2    | Identified the +0 cloak of Royalty {rCorr} (You bought it
+                  | in a shop on level 2 of the Orcish Mines)
+ 27263 | D:8      | Identified the +7 longbow of Toqeplaschu {velocity, rF+}
+                  | (Trog gifted it to you on level 2 of the Orcish Mines)
+ 27269 | D:8      | Identified the cursed +1 trident "Gasuck" {pierce, +Blink
+                  | rPois rC++ Stlth-} (You found it on level 5 of the Lair of
+                  | Beasts)
+ 27514 | D:10     | Entered Level 10 of the Dungeon
+ 28213 | D:10     | Reached XP level 15. HP: 139/139 MP: 18/18
+ 29091 | D:8      | Identified the cursed +0 scale mail of Amis {rC+ Int+2
+                  | Dex-4} (You found it on level 4 of the Lair of Beasts)
+ 29658 | D:11     | Received a gift from Trog
+ 29676 | D:11     | You fall through a shaft for 3 floors!
+ 30007 | D:13     | You fall through a shaft for 2 floors!
+ 30007 | D:15     | Entered Level 15 of the Dungeon
+ 30706 | D:13     | Reached skill level 15 in Fighting
+ 31251 | D:11     | Reached skill level 10 in Axes
+ 31726 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Fighting       |  4              5  6  8  9 12    14       15 | 15.0
+Long Blades    |  4                             7  8     9    |  9.0
+Armour         |     3  4                 5  6  7  8  9       |  9.8
+Maces & Flails |        1  3  5     7  8  9 10 11             | 11.4
+Throwing       |              1           3     4  5     7    |  7.0
+Evocations     |              1        2  3     4  5        6 |  6.0
+Shields        |                 1  2                         |  2.1
+Bows           |                    2  3  4     6  7 12    13 | 13.0
+Dodging        |                       3     4  5  6  7  8  9 |  9.0
+Polearms       |                       1  5     6  8     9    |  9.4
+Axes           |                                         9 10 | 10.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Falchion          |    83 |       |       |       |       ||    83
+       Headbutt          |    20 |    27 |    31 | 25838 | 12785 || 38701
+       Flail             |     7 |   144 |   211 | 16154 |     3 || 16519
+       Trident           |       |       |       |  8008 |    10 ||  8018
+       Dire flail        |       |       |       |  8005 |  4016 || 12021
+       War axe           |       |       |       |  8000 |  4004 || 12004
+       Glaive            |       |       |       |  4007 |  4007 ||  8014
+       Scimitar          |       |       |       |  4000 |       ||  4000
+       Hand axe          |       |       |       |  4000 |       ||  4000
+       Great sword       |       |       |       |  4043 |       ||  4043
+       Great mace        |       |       |       |  8096 |    53 ||  8149
+       Battleaxe         |       |       |       |     1 |  4016 ||  4017
+       Demon trident     |       |       |       |       |  4000 ||  4000
+       Triple sword      |       |       |       |       |  4000 ||  4000
+       Broad axe         |       |       |       |       |     7 ||     7
+ Fire: Shortbow          |       |       |   132 |   145 |       ||   277
+       Longbow           |       |       |       |   131 |   837 ||   968
+       Blowgun           |       |       |       |    13 |     9 ||    22
+Throw: Stone             |     4 |    85 |    22 |       |       ||   111
+       Tomahawk          |       |       |    19 |    25 |     1 ||    45
+       Throwing net      |       |       |     1 |       |       ||     1
+       Javelin           |       |       |       |     1 |     1 ||     2
+Invok: Berserk           |     1 |     1 |    10 |    15 |     4 ||    31
+       Trog's Hand       |     1 |       |     1 |     4 |    11 ||    17
+       Brothers in Arms  |       |       |       |       |     7 ||     7
+ Abil: Evoke Blink       |       |       |       |       |     4 ||     4
+Evoke: Wand              |       |       |     1 |     7 |     2 ||    10
+       Lamp of fire      |       |       |       |       |     1 ||     1
+  Use: Scroll            |       |    12 |    10 |    11 |    13 ||    46
+       Potion            |       |     1 |     2 |     3 |     4 ||    10
+  Eat: Chunk             |     1 |     8 |    24 |    23 |    21 ||    77
+       Ration            |     1 |       |     1 |     7 |     8 ||    17
+Armor: Ring mail         |     1 |       |       |       |       ||     1
+       Plate armour      |    25 |   109 |   138 | 48107 | 18830 || 67209
+       Scale mail        |       |       |       |     8 |       ||     8
+Dodge: Dodged            |    19 |    57 |    85 | 25352 | 15572 || 41085
+       Deflected         |       |     1 |    12 |     5 |    15 ||    33
+Block: Buckler           |       |     6 |     4 |       |       ||    10
+Rpst.: Falchion          |     5 |       |       |       |       ||     5
+       Scimitar          |       |       |       |   358 |       ||   358
+       Great sword       |       |       |       |   320 |       ||   320
+       Triple sword      |       |       |       |       |   527 ||   527
+
