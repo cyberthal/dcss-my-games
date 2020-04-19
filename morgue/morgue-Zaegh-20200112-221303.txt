@@ -1,0 +1,141 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6820408092059431567
+
+0 Zaegh the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 12, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:44 (5 turns).
+
+Zaegh the Skirmisher (Hill Orc Fighter)                Turns: 5, Time: 00:03:44
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   j - +1 whip (elec)
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ e - a +0 hunting sling
+ j - a +1 whip of electrocution (weapon)
+Missiles
+ g - 30 sling bullets
+ i - 28 throwing nets (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Wands
+ h - a wand of flame (26)
+Scrolls
+ k - 11 scrolls of enchant weapon
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ - Level 2.0 Slings
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+ - Level 1.0 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Sigmund
+
+Message History
+
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? ?
+What type of item? enchant wea
+Scroll of enchant weapon
+Something appears at your feet!
+k - 12 scrolls of enchant weapon
+As you read the scroll of enchant weapon, it crumbles to dust.
+Your +0 whip of electrocution glows red for a moment.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You hear the crackle of electricity.
+j - a +1 whip of electrocution (weapon)
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Sigmund
+Aim: Sigmund, wielding a +0 scythe and wearing a +0 robe (entangled in a web)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      7.4 |     28 |  51% |   3.8 |   112  |  0.89 |      3.4
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      4.2 |     14 |  44% |   1.9 |   100  |  1.00 |      1.9
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###
+#<#
+#@#
+#@#
+#..
+#~~~
+#.~.~
+#~.~~.
+#######
+
+
+You could see Sigmund (webbed).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zaegh the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     4 | D:1      | Noticed Sigmund
+     5 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Whip              ||  4000
+       War axe           ||  4000
+Throw: Throwing net      ||     2
+Evoke: Wand              ||     6
+  Use: Scroll            ||     1
+Armor: Scale mail        ||  1237
+Dodge: Dodged            ||  2831
+Block: Shield            ||  3899
+

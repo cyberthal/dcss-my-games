@@ -1,0 +1,151 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6331371160536703361
+
+2736 Cuskiat the Fighter (level 10, 91/91 HPs) *WIZ*
+             Began as a Human Fighter on Jan 11, 2020.
+             Quit the game on level 1 of the Dungeon on Jan 12, 2020.
+             The game lasted 00:06:33 (17 turns).
+
+Cuskiat the Fighter (Human Fighter)                   Turns: 17, Time: 00:06:33
+
+Health: 91/91      AC:  8    Str: 16    XL:     10   Next: 0%
+Magic:  10/10      EV: 12    Int:  9    God:    No God 0 (0)
+Gold:   0          SH: 11    Dex: 16    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   a - +0 flail
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.25/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: berserk cooldown, slowed, very slow
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ e - 3 potions of experience
+ g - 11 potions of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ * Level 12.7 Fighting
+ * Level 12.7 Maces & Flails
+ + Level 7.7 Armour
+ + Level 6.8 Dodging
+ + Level 7.7 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+ESC - exit
+What class of item? !
+What type of item? bers
+Potion of berserk rage
+Something appears at your feet!
+g - 12 potions of berserk rage
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty!
+You swing at nothing.
+You feel a strong urge to attack something.
+You swing at nothing.
+You swing at nothing.
+You feel your anger nearly subside.
+You swing at nothing.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Welcome back, Cuskiat the Human Fighter.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         ##
+         .#
+   ######.#####
+   #...........
+  ##.}...}....#
+  #...#'#......
+  #...#@#...).#
+...%..###....##
+...?.}...}..##
+#...........#
+#...........#
+#...........#
+#...........#
+#...........#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Cuskiat the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+     2 | D:1      | Reached XP level 3. HP: 36/36 MP: 3/3
+     3 | D:1      | Reached skill level 5 in Armour
+     3 | D:1      | Reached skill level 5 in Shields
+     3 | D:1      | Reached XP level 4. HP: 45/45 MP: 4/4
+     4 | D:1      | Reached XP level 5. HP: 53/53 MP: 5/5
+     5 | D:1      | Reached skill level 10 in Fighting
+     5 | D:1      | Reached skill level 10 in Maces & Flails
+     5 | D:1      | Reached skill level 5 in Dodging
+     5 | D:1      | Reached XP level 6. HP: 61/61 MP: 6/6
+     6 | D:1      | Reached XP level 7. HP: 68/68 MP: 7/7
+     7 | D:1      | Reached XP level 8. HP: 75/75 MP: 8/8
+     8 | D:1      | Reached XP level 9. HP: 82/82 MP: 9/9
+     9 | D:1      | Reached XP level 10. HP: 91/91 MP: 10/10
+    17 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Fighting       |  4  7  8  9 10 11    12 | 12.7
+Maces & Flails |  3  6  8  9 10    11 12 | 12.7
+Armour         |  4     5     6     7    |  7.7
+Dodging        |  3     4     5     6    |  6.8
+Shields        |  4     5     6     7    |  7.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |       |       |       |  4000 ||  4000
+  Use: Potion            |     3 |     3 |     3 |     1 ||    10
+Armor: Scale mail        |       |       |       |   453 ||   453
+Dodge: Dodged            |       |       |       |  1021 ||  1021
+Block: Shield            |       |       |       |  1460 ||  1460
+

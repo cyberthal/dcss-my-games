@@ -1,0 +1,172 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13860061384061191112
+
+3253 Qepnan the Conqueror (level 10, 103/135 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 31, 2020.
+             Was an Initiate of Beogh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:57 (187 turns).
+
+Qepnan the Conqueror (Hill Orc Fighter)              Turns: 187, Time: 00:01:58
+
+Health: 103/135    AC: 13    Str: 18    XL:     10   Next: 0%
+Magic:  41/41      EV: 22    Int:  8    God:    Beogh 15 (0)
+Gold:   0          SH: 18    Dex: 10    Spells: 63/63 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.32/turn              (no ring)
+MPRegen  0.27/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Beogh.
+Beogh was noncommittal.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 63 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Jory
+
+Message History
+
+Enter Wizard Command (? - help): 
+Super healing.
+You hit Jory but do no damage.
+Jory is heavily damaged.
+You hit Jory but do no damage.
+Jory is heavily damaged.
+Jory misses you. You riposte.
+Elyvilon blocks your attack.
+You block Jory's attack.
+You hit Jory but do no damage.
+Jory is heavily damaged.
+Jory hits you with a +0 glaive of protection!!
+You block Jory's attack.
+You slash Jory!
+Jory is heavily damaged.
+You hit Jory but do no damage.
+Jory is heavily damaged.
+Jory is infused with unholy energy.
+Jory draws life force from you and is healed!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.
+#.##         ##.
+ #...##   ##...#
+   #..V###...#
+    #..@....#
+    ###.<.###
+    #...$..(#
+   #...###...#
+ #...##   ##...#
+ .###        ##.
+
+
+You could see Jory.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qepnan the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Elyvilon the Healer
+     0 | D:1      | Fell from the grace of Elyvilon
+     0 | D:1      | Became a worshipper of Beogh the Brigand
+     0 | D:1      | Noticed Jory
+    80 | D:1      | Killed from afar by Jory (70 damage)
+                  | ... with a crystal spear
+    83 | D:1      | Killed from afar by Jory (91 damage)
+                  | ... with a crystal spear
+   103 | D:1      | Reached XP level 2. HP: 63/69 MP: 30/30
+   103 | D:1      | Reached XP level 3. HP: 71/77 MP: 31/31
+   103 | D:1      | Reached XP level 4. HP: 78/85 MP: 33/33
+   103 | D:1      | Reached XP level 5. HP: 85/93 MP: 34/34
+   103 | D:1      | Reached XP level 6. HP: 94/102 MP: 36/36
+   103 | D:1      | Reached XP level 7. HP: 101/110 MP: 37/37
+   103 | D:1      | Reached XP level 8. HP: 109/118 MP: 39/39
+   103 | D:1      | Reached XP level 9. HP: 116/126 MP: 40/40
+   103 | D:1      | Reached XP level 10. HP: 124/135 MP: 41/41
+   187 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Long sword        |   102 |       |       |    84 ||   186
+Armor: Scale mail        |     5 |       |       |    10 ||    15
+Dodge: Dodged            |    24 |       |       |    16 ||    40
+Block: Shield            |    40 |       |       |    29 ||    69
+Rpst.: Long sword        |     5 |       |       |     5 ||    10
+

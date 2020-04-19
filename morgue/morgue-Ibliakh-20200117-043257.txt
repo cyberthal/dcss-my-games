@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13238729463411472680
+
+0 Ibliakh the Politician (level 1, 62/66 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Jan 17, 2020.
+             Was the Champion of Makhleb.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:39 (8 turns).
+
+Ibliakh the Politician (Deep Dwarf Artificer)          Turns: 8, Time: 00:01:39
+
+Health: 62/66      AC:  6    Str: 15    XL:     1   Next: 0%
+Magic:  28/28      EV: 29    Int: 11    God:    Makhleb 196 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 54/54 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     +   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++++++++.             g - amulet of harm
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.21/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds, Minor Destruction, Lesser Servant of Makhleb, Major Destruction,
+Greater Servant of Makhleb, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Makhleb.
+Makhleb was exalted by your worship.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Jewellery
+ g - an amulet of harm (around neck)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 54 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+
+Message History
+
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? =
+What type of item? amulet of har
+Amulet of harm
+Something appears at your feet!
+g - an uncursed amulet of harm
+Put on which piece of jewellery? (? for menu, Esc to quit)
+g - an amulet of harm (around neck)
+Press: ? - help, Shift-Dir - straight line, f - fungus
+Aim: a fungus
+The glob of acid hits the fungus! The fungus is splashed with acid.
+The fungus is moderately damaged.
+The fungus is splashed with acid.
+Enter Wizard Command (? - help): 
+Super healing.
+A demon appears!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+*      ,       ,
+       ,*         *
+     ,
+     ,            ,
+*      ,       *
+          ######.###..#
+ *       ##...P.....#.#
+        ##........PP...
+  *   , .PP.P.....P....
+     ,  P...P.....P..7.
+*  **   ......P.P......
+ ,      7...P..3..P....
+**      .P7....@.......*
+        ...P...<...P.7.
+        .............7 *
+        P.P.P.....P.7..
+     *  ......P.P......
+     *  ...P........P..
+        #PP7......7P..#
+, ,  *,,##7.P77.....7##
+ *      , .7P ......#
+,    ,  **          *
+ *      *   **
+
+
+You could see a friendly neqoxec.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ibliakh the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Makhleb the Destroyer
+     0 | D:1      | Reached * piety under Makhleb
+     0 | D:1      | Reached ** piety under Makhleb
+     0 | D:1      | Reached *** piety under Makhleb
+     0 | D:1      | Reached **** piety under Makhleb
+     0 | D:1      | Reached ***** piety under Makhleb
+     0 | D:1      | Reached ****** piety under Makhleb
+     8 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||     1
+Invok: Minor Destruction ||     2
+       Lesser Servant of ||     2
+ Stab: Betrayed ally     ||     1
+

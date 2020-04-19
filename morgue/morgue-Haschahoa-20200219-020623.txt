@@ -1,0 +1,146 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6200052139801213359
+
+0 Haschahoa the Ruffian (level 1, 22/22 HPs) *WIZ*
+             Began as a Troll Monk on Feb 19, 2020.
+             Quit the game on level 4 of the Shoals.
+             The game lasted 00:01:31 (0 turns).
+
+Haschahoa the Ruffian (Troll Monk)                     Turns: 0, Time: 00:01:32
+
+Health: 22/22      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  0/0        EV: 10    Int:  6    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 4 of the Shoals.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ b - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.4 Dodging
+ + Level 1.0 Stealth
+ + Level 3.0 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Shops:
+Shoals:4 *
+
+Portals:
+Ice Cave: Shoals:4
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+There is an entrance to an ice cave on this level. Hurry and find it before the
+portal melts!
+Found 19 gold pieces. Found a stone staircase leading up.
+A manticore comes into view.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 165 monsters.
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Regenerating level.
+Found a stone staircase leading up.
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+...~~~~~~~~.............~~~~.........#~.~#
+...~~~~~~~~..............~~~.........#~..~
+..~~~~~~~~~....$..........~~~........#~#[.
+..~~~~~~~~..................~........##~#.
+..~~~~~~~#######.......~..#..........~##~~
+..~~~~~~##~~~~~##........####..###..~~~###
+....~~~##~....#~###......#  #####..~~~~~~~
+.....~~#~..~~.}#~##......#   #....~~~~~~~~
+......~#..#~#~..~#?.###..#   #..~~~~~~~~~~
+..$....#..~~##~.~#..###..#  ##.~~~~~~~~~~~
+.......#.#.~~~~.~#.##....#  #..~~~~~~~~~~~
+.......#....~#..~#.#.....#  #.~~~~~~~~~~~~
+........#..#...~##...@~..# ##..~~~~~~~~~~~
+.........#."..~##~~..~...###..~~~~~~~~~~~~
+~~~~~.....######~~~.~~...##...~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~...~~~~....~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~..~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+##########################################
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Haschahoa the Troll Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | Shoals:4 | Entered Level 4 of the Shoals
+     0 | Shoals:4 | Noticed a manticore
+     0 | Shoals:4 | Found a frozen archway.
+     0 | Shoals:4 | Entered Level 4 of the Shoals
+     0 | Shoals:4 | Found Warchaduips's Mass Market.
+     0 | Shoals:4 | Quit the game
+

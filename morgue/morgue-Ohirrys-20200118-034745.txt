@@ -1,0 +1,247 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 313083330961914541
+
+575465 Ohirrys the Middleweight Champion (level 27, 223/273 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 18, 2020.
+             Was the Champion of Dithmenos.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:14:16 (32 turns).
+
+Ohirrys the Middleweight Champion (Hill Orc Fighter)  Turns: 32, Time: 00:14:17
+
+Health: 223/273    AC:  4    Str: 23    XL:     27
+Magic:  9/54       EV: 26    Int:  4    God:    Dithmenos 200 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.55/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: confusing touch, wreathed by umbra
+A: no striking features
+a: Shadow Step, Shadow Form, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Dithmenos.
+Dithmenos was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 long sword
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+Comestibles
+ d - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+   Level 26.9(27) Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ + Level 1.7 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+   Level 26.9 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+   Level 26.9 Summonings
+   Level 26.9 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+   Level 26.9 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+   Level 26.9 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Confusing Touch       Hex            27 (50)      0%          1    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Press: ? - help, v - describe, . - travel
+Here: a bone dragon (lightly damaged, confused, chance to confuse on hit: 13%,
+umbra)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a bone dragon (confused, chance to confuse on hit: 13%, umbra)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a bone dragon (confused, chance to confuse on hit: 13%, umbra)
+The floor.
+You destroy the bone dragon!
+Dithmenos accepts your kill.
+Your Stealth skill increases to level 1!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                            ###
+                #############.#
+                #.............#
+                #[###########.#
+                #.###########.###
+                #.#.........#.?.#
+                #.#...}.}.?.#.###
+                #.#.........#.#
+                #.#.8.....8.#.#
+                #.#...@.....#.#
+                #.#....<%...#.#
+                #.#....%....#.#
+                #.#.8.....8.#.#
+                #.#...}.}...#.#
+                #.#........$#.#
+     #######    #.#..#####..#.#
+######.....#    #.#..#~~~#..#.#
+....##.....#    #.#.$#~~~#..#.#
+....##.....#    #.#..#~~~#..#.#
+....##.....######.#..#~~~#..#.#
+.....+.....+.....>#..#~~~#..#.#
+######.....######.#..#~~~#$.#.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A bone dragon (D:1)
+  2 hydras (D:1)
+3 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ohirrys the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Reached XP level 2. HP: 67/67 MP: 1/1
+     2 | D:1      | Reached XP level 3. HP: 76/76 MP: 2/2
+     2 | D:1      | Reached XP level 4. HP: 85/85 MP: 3/3
+     2 | D:1      | Reached XP level 5. HP: 94/94 MP: 4/4
+     2 | D:1      | Reached XP level 6. HP: 104/104 MP: 5/5
+     2 | D:1      | Reached XP level 7. HP: 113/113 MP: 6/6
+     2 | D:1      | Reached XP level 8. HP: 122/122 MP: 7/7
+     2 | D:1      | Reached XP level 9. HP: 131/131 MP: 8/8
+     2 | D:1      | Reached XP level 10. HP: 140/140 MP: 9/9
+     2 | D:1      | Reached XP level 11. HP: 149/149 MP: 10/10
+     2 | D:1      | Reached XP level 12. HP: 158/158 MP: 11/11
+     2 | D:1      | Reached XP level 13. HP: 166/166 MP: 12/12
+     2 | D:1      | Reached XP level 14. HP: 176/176 MP: 13/13
+     2 | D:1      | Reached XP level 15. HP: 184/184 MP: 14/14
+     2 | D:1      | Reached XP level 16. HP: 195/195 MP: 15/15
+     2 | D:1      | Reached XP level 17. HP: 202/202 MP: 16/16
+     2 | D:1      | Reached XP level 18. HP: 213/213 MP: 17/17
+     2 | D:1      | Reached XP level 19. HP: 221/221 MP: 18/18
+     2 | D:1      | Reached XP level 20. HP: 231/231 MP: 19/19
+     2 | D:1      | Reached XP level 21. HP: 239/239 MP: 20/20
+     2 | D:1      | Reached XP level 22. HP: 249/249 MP: 21/21
+     2 | D:1      | Reached XP level 23. HP: 257/257 MP: 22/22
+     2 | D:1      | Reached XP level 24. HP: 266/266 MP: 22/22
+     2 | D:1      | Reached XP level 25. HP: 275/275 MP: 22/22
+     2 | D:1      | Reached XP level 26. HP: 284/284 MP: 22/22
+     2 | D:1      | Reached XP level 27. HP: 293/293 MP: 22/22
+     2 | D:1      | Learned a level 1 spell: Confusing Touch
+     4 | D:1      | Became a worshipper of Dithmenos the Shadowed
+     4 | D:1      | Reached * piety under Dithmenos
+     4 | D:1      | Reached ** piety under Dithmenos
+     4 | D:1      | Reached *** piety under Dithmenos
+     4 | D:1      | Reached **** piety under Dithmenos
+     4 | D:1      | Reached ***** piety under Dithmenos
+     4 | D:1      | Reached ****** piety under Dithmenos
+    32 | D:1      | Reached skill level 27 in Spellcasting
+    32 | D:1      | Gained mutation: You have sharp fingernails. [wizard power]
+    32 | D:1      | Gained mutation: You have very sharp fingernails. [wizard
+                  | power]
+    32 | D:1      | Gained mutation: You have claws for hands. [wizard power]
+    32 | D:1      | Lost mutation: You have claws for hands. [wizard power]
+    32 | D:1      | Lost mutation: You have very sharp fingernails. [wizard
+                  | power]
+    32 | D:1      | Lost mutation: You have sharp fingernails. [wizard power]
+    32 | D:1      | Reached skill level 1 in Stealth
+    32 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 |
+---------------+----------------------------------------------------------------------------------+-----
+Fighting       | 20                                                                               | 27.0
+Dodging        | 20                                                                               | 27.0
+Shields        | 20                                                                               | 27.0
+Unarmed Combat | 23                                                                               | 27.0
+Short Blades   |                                                                               26 | 26.9
+Spellcasting   |                                                                               27 | 27.0
+Conjurations   |                                                                               26 | 26.9
+Summonings     |                                                                               26 | 26.9
+Necromancy     |                                                                               26 | 26.9
+Earth Magic    |                                                                               26 | 26.9
+Evocations     |                                                                               26 | 26.9
+Stealth        |                                                                                1 |  1.7
+Long Blades    |                                                                                  | 27.0
+Axes           |                                                                                  | 27.0
+Maces & Flails |                                                                                  | 27.0
+Polearms       |                                                                                  | 27.0
+Staves         |                                                                                  | 27.0
+Slings         |                                                                                  | 27.0
+Bows           |                                                                                  | 27.0
+Crossbows      |                                                                                  | 27.0
+Throwing       |                                                                                  | 27.0
+Armour         |                                                                                  | 27.0
+Hexes          |                                                                                  | 27.0
+Charms         |                                                                                  | 27.0
+Translocations |                                                                                  | 27.0
+Transmutations |                                                                                  | 27.0
+Fire Magic     |                                                                                  | 27.0
+Ice Magic      |                                                                                  | 27.0
+Air Magic      |                                                                                  | 27.0
+Poison Magic   |                                                                                  | 27.0
+Invocations    |                                                                                  | 27.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |    70 ||    70
+       Long sword        |       |       |       |       |       |       |       |       |    18 ||    18
+ Cast: Confusing Touch   |       |       |       |       |       |       |       |       |    19 ||    19
+ Stab: Confused          |       |       |       |       |       |       |       |       |    20 ||    20
+Armor: Robe              |       |       |       |       |       |       |       |       |     8 ||     8
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    39 ||    39
+Block: Shield            |       |       |       |       |       |       |       |       |    28 ||    28
+Rpst.: Long sword        |       |       |       |       |       |       |       |       |     3 ||     3
+

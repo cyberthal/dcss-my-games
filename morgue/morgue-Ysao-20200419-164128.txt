@@ -1,0 +1,431 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7716213913276099469
+
+3260 Ysao the Skirmisher (level 9, 74/74 HPs) *WIZ*
+             Began as a Red Draconian Warper on Sept 15, 2019.
+             Was a Believer of Zin.
+             Quit the game on level 7 of the Dungeon on Apr 19, 2020.
+             The game lasted 02:36:38 (13937 turns).
+
+Ysao the Skirmisher (Red Draconian Warper)         Turns: 13937, Time: 02:36:38
+
+Health: 74/74      AC: 16    Str: 13    XL:     9   Next: 68%
+Magic:  15/15      EV: 13    Int: 15    God:    Zin 67 (0)
+Gold:   9          SH:  7    Dex: 11    Spells: 0/16 levels left
+
+rFire    + . .     SeeInvis +   f - +0 hunting sling
+rCold    . . .     Gourm    .   j - +3 buckler
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   A - +2 hat
+rElec    .         Reflect  .   E - +0 cloak
+rCorr    .         Harm     +   (no gloves)
+MR       ++...                  U - +0 pair of boots
+Stlth    ++........             F - amulet of harm
+HPRegen  0.22/turn              t - +5 ring of protection
+MPRegen  0.14/turn              G - ring "Tomeyxih" {MR++ Int-2 SInv}
+
+@: no status effects
+A: breathe fire, unfitting armour, fire resistance 1, cold-blooded, AC +7
+a: Breathe Fire, Recite, Vitalisation, Donate Gold, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Zin.
+Zin was pleased with you.
+You were near starving.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 527 gold pieces.
+You spent 422 gold pieces at shops.
+You donated 96 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 long sword of electrocution
+ b - a +0 war axe
+ e - a +0 spear of freezing
+ f - a +0 hunting sling (weapon)
+ C - a +0 arbalest
+ H - a +0 flail of holy wrath
+ M - a +0 falchion of pain
+ P - a +0 vampiric morningstar
+ T - a +1 whip of distortion
+Missiles
+ h - 5 tomahawks of dispersal
+ k - 129 stones
+ m - 113 arrows
+ p - 27 poisoned needles
+ u - 44 bolts
+ D - 2 exploding tomahawks
+ I - 26 tomahawks
+ R - 3 throwing nets
+ S - 27 sling bullets (quivered)
+Armour
+ j - a +3 buckler (worn)
+ v - a +0 shield
+ A - a +2 hat (worn)
+ E - a +0 cloak (worn)
+ U - a +0 pair of boots (worn)
+ V - a cursed -1 pair of gloves
+Magical Staves
+ O - an uncursed staff of conjuration
+Jewellery
+ d - an uncursed ring of resist corrosion
+ t - a +5 ring of protection (left hand)
+ F - an amulet of harm (around neck)
+ G - the ring "Tomeyxih" (right hand) {MR++ Int-2 SInv}
+   (You bought it in a shop on level 4 of the Dungeon)   
+   
+   [ring of intelligence]
+   
+   It affects your intelligence (-2).
+   It affects your resistance to hostile enchantments.
+   It lets you see invisible.
+ Z - an uncursed ring of flight
+Wands
+ c - a wand of clouds (2)
+ y - a wand of acid (7)
+ K - a wand of flame (16)
+ Q - a wand of paralysis (7)
+ W - a wand of iceblast (4)
+ Y - a wand of random effects (6)
+Scrolls
+ g - 2 scrolls of magic mapping
+ i - 3 scrolls of blinking
+ l - a scroll of teleportation
+ r - a scroll of amnesia
+ B - a scroll of fog
+ L - a scroll of remove curse
+ X - a scroll of acquirement {unknown}
+Potions
+ n - a potion of brilliance
+ o - 2 potions of flight
+ q - a potion of cancellation
+ s - a potion of berserk rage
+ w - 5 potions of curing
+ x - a potion of mutation
+ J - a potion of resistance
+Comestibles
+ z - 11 rations
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 3.0 Long Blades
+ - Level 1.1 Maces & Flails
+ - Level 3.0 Polearms
+ - Level 4.9(5.2) Slings
+ - Level 2.7(4.1) Throwing
+ - Level 4.0 Dodging
+ - Level 2.0 Stealth
+ - Level 4.0 Shields
+ - Level 4.0 Spellcasting
+ - Level 2.0 Conjurations
+ - Level 1.0 Charms
+ - Level 4.4 Translocations
+ - Level 1.0 Transmutations
+ - Level 2.0 Earth Magic
+ - Level 5.0 Invocations
+ + Level 2.7 Evocations
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           9 (25)       8%          1    0
+b - Sandblast             Erth           9 (50)       8%          1    0
+c - Shroud of Golubria    Chrm/Tloc      11 (200)     9%          2    39
+d - Searing Ray           Conj           9 (50)       12%         2    39
+e - Blink                 Tloc           N/A          4%          2    39
+f - Passwall              Tmut/Erth      7 (120)      14%         2    39
+g - Lesser Beckoning      Tloc           16 (200)     9%          3    89
+h - Teleport Other        Tloc           16 (100)     9%          3    89
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Gell's Gravitas          Tloc           16 (200)     9%          3    89
+ Animate Skeleton         Necr           N/A          19%         1    0
+ Pain                     Necr           3 (25)       19%         1    0
+ Stone Arrow              Conj/Erth      9 (50)       24%         3    89
+ Passage of Golubria      Tloc           N/A          28%         4    189
+ Dazzling Spray           Conj/Hex       6 (50)       34%         3    89
+ Regeneration             Chrm/Necr      4 (200)      41%         3    89
+ Force Lance              Conj/Tloc      12 (100)     43%         4    189
+ Vampiric Draining        Necr           3 (200)      47%         3    89
+ Iskenderun's Mystic Bla  Conj           9 (100)      61%         4    189
+ Petrify                  Tmut/Erth      7 (100)      67%         4    189
+ Fulminant Prism          Conj/Hex       6 (200)      75%         4    189
+ Animate Dead             Necr           N/A          87%         4    189
+ Lee's Rapid Deconstruct  Erth           9 (200)      91%         5    339
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 =   D:8 [
+
+Annotations:
+D:5 gold for rC++
+D:7 make stash
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of fire.
+Your fiery red scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+Your flesh is heat resistant. (rF+)
+You are cold-blooded and may be slowed by cold attacks.
+
+
+Message History
+
+a +0 robe; a +0 dagger
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+You are near starving!
+New annotation for D:7 (include '!' for warning): make stash
+Move the cursor to view the level map, or type ? for a list of commands.
+New annotation for D:8 (include '!' for warning): 
+Okay, then.
+Returning to the game...
+Okay, then.
+Okay, then.
+Okay, then.
+No target in view!
+Save game and exit? 
+Level annotation: make stash
+Welcome back, Ysao the Red Draconian Warper.
+Zin says: Spread the light, my child.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       ######      ######
+########....#      #....#################
+#......#....#      #....#........#......#
+#......#....#      #....#........'......#
+#......#....#      #....#...##...##.....#
+##.###'#....########....#...##...##'##..#
+##'##.......#..##..#....#........#>...###
+.'..#.......#......#....#........#....#
+.#..#.......#......#..^.#........#....#
+.#..#.......'......#....#######..#....###
+#####.......##'#####..........#####.....#
+.....................@.....[..'...#.....#
+..............................#...#.....#
+..............................#...#.....#
+.........................>....#..##.....#
+......####<...#'########......#..#....###
+......#  #....#...<.#..#......#..#....#
+......#  #....#.....#..#......'..#....#
+......####....#'#####..#......####....####
+#######...........###..##.......####......
+#.....#...........#.....#.......# ##.#.#.#
+#.....#.......<...#.....#.......# #.......
+#.....#...........#.....#.......####.##'##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Menkaure (D:5)
+  A water moccasin (D:5)
+  2 orc warriors
+  A sky beast (D:7)
+  2 ice beasts
+  3 ogres
+  A centaur (D:8)
+  3 bullfrogs
+  3 gnoll sergeants (D:8)
+  2 wyvern skeletons
+  A scorpion (D:7)
+  3 electric eels (D:8)
+  2 crimson imps (D:5)
+  A centaur zombie (D:7)
+  8 hounds
+  A jelly (D:8)
+  6 orc priests
+  A gnoll shaman (D:8)
+  7 orc wizards
+  4 bullfrog skeletons
+  3 iguanas
+  6 worker ants
+  A howler monkey zombie (D:8)
+  2 worker ant zombies
+  18 gnolls (D:8)
+  13 adders
+  4 shadow imps
+  An adder zombie (D:6)
+  A worm (D:1)
+  2 dart slugs
+  3 leopard geckos
+  34 orcs
+  3 ball pythons
+  7 bats
+  A giant cockroach (D:8)
+  11 hobgoblins
+  8 jackals
+  6 kobolds
+  4 quokkas
+  4 frilled lizards
+  A giant cockroach zombie (D:6)
+  7 goblins
+  A leopard gecko skeleton (D:4)
+  13 rats
+207 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:5)
+1 creature vanquished.
+
+Grand Total: 208 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ysao the Draconian Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+   521 | D:1      | Reached XP level 2. HP: 25/25 MP: 5/5
+   579 | D:1      | Learned a level 2 spell: Blink
+   630 | D:1      | Reached skill level 1 in Stealth
+  1402 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1547 | D:2      | Reached skill level 1 in Shields
+  1954 | D:2      | Reached XP level 3. HP: 20/30 MP: 3/6
+  2213 | D:2      | Reached skill level 1 in Charms
+  2593 | D:2      | Found a sacrificial altar of Ru.
+  2961 | D:2      | Reached XP level 4. HP: 23/38 MP: 5/7
+  3630 | D:2      | Learned a level 3 spell: Lesser Beckoning
+  4797 | D:2      | Found a sacrificial altar of Ru.
+  5363 | D:2      | Reached XP level 5. HP: 37/45 MP: 8/8
+  5805 | D:3      | Reached skill level 1 in Throwing
+  6289 | D:4      | Reached XP level 6. HP: 52/52 MP: 7/10
+  6309 | D:3      | Learned a level 3 spell: Teleport Other
+  6320 | D:4      | Found Peypt's Jewellery Boutique.
+  6323 | D:4      | Bought a cursed amulet of inaccuracy for 20 gold pieces
+  6323 | D:4      | Bought a cursed ring of attention for 45 gold pieces
+  6323 | D:4      | Bought a cursed -2 ring of intelligence for 20 gold pieces
+  6795 | D:4      | Bought the cursed ring "Tomeyxih" {MR++ Int-2 SInv} for 161
+                  | gold pieces
+  6823 | D:4      | Reached skill level 1 in Slings
+  6855 | D:4      | Reached skill level 1 in Evocations
+  7212 | D:5      | Entered Level 5 of the Dungeon
+  7340 | D:5      | Noticed Menkaure
+  7344 | D:5      | Killed Menkaure
+  7521 | D:5      | Entered wizard mode.
+  7623 | D:5      | Your scales start taking on a fiery red colour.
+  7623 | D:5      | Reached XP level 7. HP: 59/59 MP: 7/11
+  7623 | D:5      | Gained mutation: Your flesh is heat resistant. (rF+) [Red
+                  | Draconian growth]
+  7636 | D:5      | Reached skill level 1 in Maces & Flails
+  8469 | D:5      | Reached skill level 1 in Long Blades
+  8481 | D:5      | Got a creamy pearl robe
+  9190 | D:5      | Learned a level 1 spell: Magic Dart
+  9310 | D:5      | Reached skill level 1 in Conjurations
+  9310 | D:5      | Reached XP level 8. HP: 66/66 MP: 7/12
+  9731 | D:6      | Reached skill level 5 in Fighting
+  9737 | D:5      | Learned a level 2 spell: Searing Ray
+ 10518 | D:7      | Found a white marble altar of Elyvilon.
+ 10881 | D:6      | Learned a level 1 spell: Sandblast
+ 11179 | D:7      | Reached skill level 1 in Earth Magic
+ 11199 | D:7      | Reached XP level 9. HP: 74/74 MP: 13/15
+ 11590 | D:7      | Found a staircase to the Ecumenical Temple.
+ 11731 | D:7      | Became a worshipper of Elyvilon the Healer
+ 11910 | Temple   | Entered the Ecumenical Temple
+ 12024 | Temple   | Fell from the grace of Elyvilon
+ 12024 | Temple   | Became a worshipper of Zin the Law-Giver
+ 12024 | Temple   | Reached * piety under Zin
+ 12047 | D:7      | Donated 68 gold pieces to Zin
+ 12178 | D:8      | Reached skill level 1 in Invocations
+ 12307 | D:7      | Learned a level 2 spell: Passwall
+ 12551 | D:8      | Reached skill level 1 in Transmutations
+ 13262 | D:8      | Reached skill level 5 in Invocations
+ 13297 | D:8      | Reached ** piety under Zin
+ 13316 | D:8      | Found Poiw's Armour Emporium.
+ 13319 | D:8      | Bought a cursed -1 pair of gloves for 1 gold piece
+ 13787 | D:4      | Bought an uncursed ring of flight for 175 gold pieces
+ 13937 | D:7      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |     1                 2    |  2.0
+Shields        |     1  2  3           4    |  4.0
+Fighting       |        3     4        5    |  5.0
+Charms         |        1                   |  1.0
+Polearms       |           3                |  3.0
+Throwing       |              1           2 |  2.7
+Spellcasting   |                 3     4    |  4.0
+Slings         |                 2  3  4    |  4.9
+Evocations     |                 1     2    |  2.7
+Dodging        |                 3     4    |  4.0
+Maces & Flails |                    1       |  1.1
+Translocations |                    4       |  4.4
+Long Blades    |                    1  2  3 |  3.0
+Conjurations   |                    1  2    |  2.0
+Earth Magic    |                       1  2 |  2.0
+Invocations    |                          5 |  5.0
+Transmutations |                          1 |  1.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |   180 |  4322 | 12025 || 16527
+       Tailslap          |     9 |  1257 |  5523 ||  6789
+       Flail             |       |  4007 | 16043 || 20050
+       Long sword        |       |       |  4133 ||  4133
+       Falchion          |       |       |  4000 ||  4000
+       War axe           |       |       |     3 ||     3
+ Fire: Hunting sling     |       |    31 |   291 ||   322
+Throw: Stone             |    37 |    61 |       ||    98
+       Tomahawk          |       |       |     3 ||     3
+ Cast: Shroud of Golubri |    11 |    26 |    26 ||    63
+       Blink             |       |     3 |    21 ||    24
+       Magic Dart        |       |       |    29 ||    29
+       Sandblast         |       |       |    10 ||    10
+       Teleport Other    |       |       |     3 ||     3
+Invok: Recite            |       |       |     4 ||     4
+       Donate Gold       |       |       |     1 ||     1
+ Abil: Breathe Fire      |       |       |    13 ||    13
+Evoke: Wand              |       |     1 |     3 ||     4
+  Use: Scroll            |     2 |    10 |     8 ||    20
+       Potion            |       |     1 |       ||     1
+ Stab: Sleeping          |     5 |     3 |     1 ||     9
+  Eat: Chunk             |     7 |    14 |    24 ||    45
+       Ration            |       |     1 |       ||     1
+Armor: Skin              |    21 |  2018 |  7373 ||  9412
+Dodge: Dodged            |    62 |  2833 | 13909 || 16804
+Block: Buckler           |    37 |  2261 |  9742 || 12040
+Rpst.: Long sword        |       |       |   663 ||   663
+       Falchion          |       |       |   433 ||   433
+

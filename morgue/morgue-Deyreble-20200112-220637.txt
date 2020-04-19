@@ -1,0 +1,160 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6187367043692030972
+
+115 Deyreble the Cleaver (level 5, 58/58 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 12, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:39 (25 turns).
+
+Deyreble the Cleaver (Hill Orc Fighter)               Turns: 25, Time: 00:06:40
+
+Health: 58/58      AC:  8    Str: 20    XL:     5   Next: 0%
+Magic:  5/5        EV:  8    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 11    Dex: 10    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.19/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Missiles
+ g - 29 throwing nets
+ h - 30 javelins (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Wands
+ e - a wand of flame (19)
+Potions
+ d - a potion of might
+ i - 8 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 9.8 Fighting
+ + Level 10.3 Axes
+   Level 1.0(1.1) Slings
+ - Level 1.0(1.1) Throwing
+ + Level 9.0 Armour
+ + Level 9.0 Shields
+ - Level 1.0 Evocations
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+3 javelins.
+The floor, spattered with blood.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 1 monster.
+Press: ? - help, v - describe, . - travel, g - get item
+3 javelins.
+The floor, spattered with blood.
+There is a staircase leading out of the dungeon here.
+h - 30 javelins (gained 3)
+There is a staircase leading out of the dungeon here.
+Throwing (i - inventory. (/) - cycle) h - 30 javelins (quivered)
+Press: ? - help, Shift-Dir - straight line
+You throw a javelin.
+Press: ? - help, v - describe, . - travel, g - get item
+A javelin.
+The floor.
+There is a staircase leading out of the dungeon here.
+h - 30 javelins (gained 1)
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ....########.....
+ ..................
+......########.....
+.....#########.....
+##..###~##~###.##+#
+##..##~7~~.~##....#
+##..#~787.8.~#.##.#
+##..##~7...@##.##.#
+##......<......##.#
+##..##~.....##.##.#
+!...#~.8..8.~#.##.#
+.#..##~.~~.~##.##.#
+.#...##~##~##..##.#
+.#....######.......
+.#....####......##.
+.#....####.#....
+.#..#.####.#...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Deyreble the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     4 | D:1      | Reached skill level 5 in Fighting
+     4 | D:1      | Reached skill level 5 in Axes
+     4 | D:1      | Reached skill level 5 in Armour
+     4 | D:1      | Reached skill level 5 in Shields
+     4 | D:1      | Reached XP level 2. HP: 29/29 MP: 2/2
+     5 | D:1      | Reached skill level 7 in Axes
+     5 | D:1      | Reached XP level 3. HP: 39/39 MP: 3/3
+     6 | D:1      | Reached skill level 9 in Axes
+     6 | D:1      | Reached XP level 4. HP: 49/49 MP: 4/4
+     7 | D:1      | Reached skill level 10 in Axes
+     7 | D:1      | Reached XP level 5. HP: 58/58 MP: 5/5
+     8 | D:1      | Noticed Sigmund
+    25 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  5  7  8  9 |  9.8
+Axes           |  5  7  9 10 | 10.3
+Armour         |  5  6  8  9 |  9.0
+Shields        |  5  6  8  9 |  9.0
+Slings         |             |  1.0
+Throwing       |             |  1.0
+Evocations     |             |  1.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Throw: Javelin           |       |     4 ||     4
+       Throwing net      |       |     1 ||     1
+Evoke: Wand              |       |    13 ||    13
+  Use: Potion            |     3 |     1 ||     4
+

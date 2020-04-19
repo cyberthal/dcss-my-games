@@ -1,0 +1,168 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3219036493078272055
+
+0 Haschahoa the Ruffian (level 1, 22/22 HPs) *WIZ*
+             Began as a Troll Monk on Feb 17, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:08:22 (2 turns).
+
+Haschahoa the Ruffian (Troll Monk)                     Turns: 2, Time: 00:08:23
+
+Health: 22/22      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  0/0        EV: 10    Int:  6    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ b - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.4 Dodging
+ + Level 1.0 Stealth
+ + Level 3.0 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Antaeus, Asmodeus, Cerebov, Dispater, Ereshkigal, Gloorx Vloq, Lom Lobon,
+Purgy, Robin, Saint Roka, Serpent of Hell, Snorg, Tiamat, Xtahua
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Cerebov, Demon Lord of Fire and Steel comes into view. It is wielding the +6
+sword of Cerebov {flame}.
+Press: ? - help, v - describe, . - travel
+Here: Cerebov, wielding the +6 sword of Cerebov {flame} (resting)
+The floor.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Gloorx Vloq, Demon Lord of Darkness comes into view.
+Press: ? - help, v - describe, . - travel
+Here: Gloorx Vloq (resting)
+Some shallow water.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Lom Lobon, Demon Lord of Forbidden Knowledge comes into view.
+Press: ? - help, v - describe, . - travel
+Here: Lom Lobon (resting)
+The floor.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Tiamat, Avatar of the Dragonlord comes into view. She is wielding a +0 demon
+trident of venom.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.......~~~~~~~~~#####~~~~~~~~~.#
+........~#######~#~7~#~#######~.#
+#...###.~#....8####8####8Tgo&#~.#
+..#####.~#.....+.......+.DD.C#~.#
+.....##.~#8...8##8#+#8##8&TD8#~.#
+.....##.~###+######+######+###~.#
+.....##.~#~#.##77.....77##.#~#~.#
+........~778.#7~...Z$..~7#.877~.##########
+........~#~#.8#.........#8.#~#~.........>#
+........~###.##...~7~...##.###~.##.#######
+.........++..++...787...++..++..##.#
+#######.~###.##...~7~...##)###~.##.#
+      #.~#~#.8#......@..#8.#~#~.##.#
+      #.~778.#7~...Zd&.&7#.877~.##.#
+      #.~#~#.##77..&.&77##.#~#~.##.######
+      #.~###+######+######+###~.##......#
+      #.~#8...8##8#+#8##8...8#~.#######.##
+      #.~#.....+.......+.....#~.#     #...
+      #.~#>...8####8####8....#~.#     ###.
+      #.~#######~#~7~#~#######~.#       #.
+      #.~~~~~~~~~#####~~~~~~~~~.#       #.
+      #.....#####.........?.....####    #.
+      ##....#   #.###########......#    #.
+       #....##  #.#        #.......#    #.
+
+
+You could see Cerebov (sleeping), Lom Lobon (sleeping), Tiamat (sleeping),
+Gloorx Vloq (sleeping), Ereshkigal (sleeping), a leopard gecko zombie (dormant)
+and a bat zombie (dormant).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Haschahoa the Troll Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed Robin
+     0 | D:1      | Noticed Purgy
+     1 | D:1      | Noticed Saint Roka
+     1 | D:1      | Noticed Snorg
+     1 | D:1      | Noticed Xtahua
+     1 | D:1      | Noticed a four-headed hydra
+     2 | D:1      | Noticed the Serpent of Hell
+     2 | D:1      | Noticed Antaeus
+     2 | D:1      | Identified the +7 sceptre of Asmodeus
+     2 | D:1      | Noticed Asmodeus
+     2 | D:1      | Identified the +4 staff of Dispater
+     2 | D:1      | Noticed Dispater
+     2 | D:1      | Noticed Ereshkigal
+     2 | D:1      | Identified the +6 sword of Cerebov {flame}
+     2 | D:1      | Noticed Cerebov
+     2 | D:1      | Noticed Gloorx Vloq
+     2 | D:1      | Noticed Lom Lobon
+     2 | D:1      | Identified the +4 dragonskin cloak
+     2 | D:1      | Noticed Tiamat
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     1
+ Stab: Sleeping          ||     1
+

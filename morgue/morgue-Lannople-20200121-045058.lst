@@ -1,0 +1,432 @@
+Lannople
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  4 gold pieces
+(1, 1, D:1)
+  the +0 pair of gloves "Neycw" {*Corrode Str+9 Dex-2 SInv}
+    It affects your strength (+9).
+    It affects your dexterity (-2).
+    It lets you see invisible.
+    It may corrode you when you take damage.
+  a +2 spear of piercing
+  a +2 war axe of freezing
+  a +1 large shield of reflection
+  a +1 war axe of holy wrath
+  a scarf of cloud immunity
+  the +27 Lear's hauberk
+  a +0 helmet of see invisible
+  the +1 scale mail "Uchugocy" {MR+ Dex+5}
+    It affects your dexterity (+5).
+    It affects your resistance to hostile enchantments.
+  a scarf of resistance
+  the +6 war axe of Invincibility {flame, *Corrode rF+ Str+6}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It affects your strength (+6).
+    It protects you from fire.
+    It may corrode you when you take damage.
+  a +1 mace of distortion
+  a +2 long sword of holy wrath
+  a +2 hand axe of flaming
+  a +1 quarterstaff of distortion
+  a +1 hunting sling of freezing
+  a scarf of cloud immunity
+  a +4 ring mail of cold resistance
+  the +4 spear of the Grave {protect, rF+ MR+ Int-5}
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your intelligence (-5).
+    It protects you from fire.
+    It affects your resistance to hostile enchantments.
+  a +6 scimitar of freezing
+  a +2 scale mail of magic resistance
+  the -1 pair of boots of the Wumpus {Int+3}
+    It affects your intelligence (+3).
+  a scarf of cloud immunity
+  the +8 dagger of Otiplihyd {pierce, rElec rN+}
+    It inflicts extra damage upon your enemies.
+    
+    It insulates you from electricity.
+    It protects you from negative energy.
+  a +5 long sword of electrocution
+  a +1 great sword of freezing
+  the +1 broad axe of the Orb {pain, rElec Str-4 Int+6 SInv}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your strength (-4).
+    It affects your intelligence (+6).
+    It insulates you from electricity.
+    It lets you see invisible.
+  a +2 robe of magic resistance
+  the +2 shield of Tomorrow {+Inv rF- rN++}
+    It makes you vulnerable to fire.
+    It greatly protects you from negative energy.
+    It lets you turn invisible.
+  a +1 shortbow of velocity
+  a +1 pair of gloves of dexterity
+  a +2 pair of boots of running
+  the +1 dagger of Merruruts {flame, *Rage Str+6 Stlth+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It affects your strength (+6).
+    It may make you go berserk in combat.
+    It makes you more stealthy.
+  the +0 hat "Rauwag" {*Drain rN+ Regen+ Stlth+}
+    It protects you from negative energy.
+    It increases your rate of regeneration.
+    It causes draining when unequipped.
+    It makes you more stealthy.
+  a +1 quarterstaff of speed
+  a +3 plate armour of magic resistance
+  a +1 quarterstaff of speed
+  a +4 rapier of speed
+  a +3 plate armour of fire resistance
+  a +3 quick blade
+  the +10 dagger of Poan {speed, rElec MP-9 Str+6}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+6).
+    It insulates you from electricity.
+    It affects your magic capacity (-9).
+  a +1 pair of boots of stealth
+  a +2 dagger of venom
+  the +0 chain mail of Valour {+Blink rPois Dex+4}
+    It affects your dexterity (+4).
+    It protects you from poison.
+    It lets you blink.
+  a +10 plate armour of ponderousness
+  a +4 hunting sling of velocity
+  the +0 buckler of the Sun {*Drain rElec rCorr Dex+4}
+    It affects your dexterity (+4).
+    It insulates you from electricity.
+    It provides partial protection from all sources of acid and corrosion.
+    It causes draining when unequipped.
+  a +4 executioner's axe of flaming
+  a +0 cloak of poison resistance
+  a +6 fustibalus
+  a +0 broad axe of electrocution
+  the +0 pair of boots of the Eagle {rElec}
+    It insulates you from electricity.
+  a +6 war axe of draining
+  the +4 quick blade of the Wilderness {drain, +Rage Str-3 Dex+3}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It affects your strength (-3).
+    It affects your dexterity (+3).
+    It lets you go berserk.
+  the +7 chain mail of Surprise {Str+4}
+    It affects your strength (+4).
+  a +0 scale mail of magic resistance
+  a +2 robe of resistance
+  a +1 quarterstaff of protection
+  a +2 longbow of flaming
+  the +3 plate armour of Inviolability {rF+ Int+6}
+    It affects your intelligence (+6).
+    It protects you from fire.
+  a +0 hand crossbow of flaming
+  a +1 cloak of poison resistance
+  a +0 hunting sling of velocity
+  a +4 dagger of holy wrath
+  a +2 hand axe of venom
+  a +2 flail of draining
+  a +2 ring mail of cold resistance
+  the +2 hat "Uliakket" {MR- Str+6}
+    It affects your strength (+6).
+    It affects your resistance to hostile enchantments.
+  the +2 scale mail "Nokoot" {rPois}
+    It protects you from poison.
+  a +1 pair of gloves of archery
+  a +4 trident of venom
+  a +2 short sword of draining
+  a +4 broad axe of flaming
+  a +1 flail of holy wrath
+  a scarf of resistance
+  the +1 pair of boots "Sownech" {rC+ Str-5 Dex+3}
+    It affects your strength (-5).
+    It affects your dexterity (+3).
+    It protects you from cold.
+  the +0 falchion "Killer Klown's Curse" {freeze, rPois MR+ Int-3 Dex+10}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your intelligence (-3).
+    It affects your dexterity (+10).
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  a +1 lajatang of protection
+  a +1 robe of positive energy
+  a +4 scale mail of cold resistance
+  the +1 pair of boots "Seufik" {rF- MR- Regen+ Stlth+}
+    It makes you vulnerable to fire.
+    It affects your resistance to hostile enchantments.
+    It increases your rate of regeneration.
+    It makes you more stealthy.
+  a +0 pair of gloves of strength
+  the +4 triple crossbow of Watchfulness {venom, rC+ Str+4}
+    It poisons the ammo it fires.
+    
+    It affects your strength (+4).
+    It protects you from cold.
+  a +0 pair of gloves of dexterity
+  a +0 ring mail of magic resistance
+  the +2 scale mail "Peidegug" {*Slow rC+ Regen+ Stlth+}
+    It protects you from cold.
+    It increases your rate of regeneration.
+    It may slow you when you take damage.
+    It makes you more stealthy.
+  a +2 arbalest of freezing
+  a +2 pair of gloves of archery
+  a +1 halberd of flaming
+  a +0 vampiric lajatang
+  a +0 broad axe of venom
+  a +0 ring mail of magic resistance
+  a +5 longbow of flaming
+  a scarf of repulsion
+  a +1 longbow of velocity
+  a +1 scale mail of poison resistance
+  a +4 quarterstaff of distortion
+  a +0 animal skin
+  a +2 buckler of resistance
+  the +1 fire dragon scales "Benixt" {-Tele rF++ rC- Str+7 Dex+10 SInv}
+    It affects your strength (+7).
+    It affects your dexterity (+10).
+    It greatly protects you from fire.
+    It makes you vulnerable to cold.
+    It lets you see invisible.
+    It prevents most forms of teleportation.
+  22 poisoned tomahawks
+  the +0 cloak of the Mind {rF- rC+ rN+++ Regen+}
+    It makes you vulnerable to fire.
+    It protects you from cold.
+    It renders you almost immune to negative energy.
+    It increases your rate of regeneration.
+  a +1 war axe of freezing
+  a +2 ring mail of poison resistance
+  the +9 longbow "Esovim" {flame, Stlth+}
+    It causes projectiles fired from it to burn those they strike, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It makes you more stealthy.
+  a +1 war axe of electrocution
+  the +1 ring mail "Guwuatit" {rC+ Dex+5}
+    It affects your dexterity (+5).
+    It protects you from cold.
+  a +1 arbalest of velocity
+  a +3 scale mail of fire resistance
+  a +2 robe of fire resistance
+  a +2 scale mail of poison resistance
+  the +3 battleaxe of Plague {pain, MR++ Int+2 Dex-5}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your intelligence (+2).
+    It affects your dexterity (-5).
+    It affects your resistance to hostile enchantments.
+  the +1 ring mail of Valiance {*Drain rElec Dex+4}
+    It affects your dexterity (+4).
+    It insulates you from electricity.
+    It causes draining when unequipped.
+  a +4 war axe of freezing
+  40 exploding tomahawks
+  a +2 antimagic broad axe
+  a +5 antimagic dagger
+  a +3 ring mail of fire resistance
+  a +4 battleaxe of chopping
+  a +2 helmet of intelligence
+  a +2 pair of gloves of archery
+  the +4 skin of Zhor {Hibernate rC+++ SInv}
+    It renders you almost immune to cold.
+    It lets you see invisible.
+  the +1 battleaxe "Ekhufeab" {protect, rElec Dex+4}
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your dexterity (+4).
+    It insulates you from electricity.
+  the +2 short sword of Xauhurr {venom, -Tele Int+3 Dex+8}
+    It poisons the flesh of those it strikes.
+    
+    It affects your intelligence (+3).
+    It affects your dexterity (+8).
+    It prevents most forms of teleportation.
+  a +3 chain mail of fire resistance
+  a +0 flail of venom
+  a +2 animal skin
+  a +4 quarterstaff of distortion
+  the +3 fustibalus "Toowugru" {venom, rF+++ Str+6 Dex-5 Stlth-}
+    It poisons the ammo it fires.
+    
+    It affects your strength (+6).
+    It affects your dexterity (-5).
+    It renders you almost immune to fire.
+    It makes you less stealthy.
+  a +6 quick blade
+  a +4 hand crossbow of flaming
+  a +4 ring mail of magic resistance
+  15 silver tomahawks
+  a +1 war axe of electrocution
+  the +9 triple crossbow of Arbitration {venom, Str+2}
+    It poisons the ammo it fires.
+    
+    It affects your strength (+2).
+  the +0 chain mail of Lifelessness {Int+3}
+    It affects your intelligence (+3).
+  a +4 chain mail of poison resistance
+  23 tomahawks of dispersal
+  the +1 hat of a treasure trove {Str+7}
+    It affects your strength (+7).
+  the +8 great sword "Zyinux" {antimagic, +Inv rPois rC+ Str+4}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your strength (+4).
+    It protects you from cold.
+    It protects you from poison.
+    It lets you turn invisible.
+  40 needles of paralysis
+  a +2 ring mail of poison resistance
+  the -6 pair of gloves of Giwnof {rC+ SInv}
+    It protects you from cold.
+    It lets you see invisible.
+  the +6 plate armour "Orchifiwive" {rPois Regen+ Int-5}
+    It affects your intelligence (-5).
+    It protects you from poison.
+    It increases your rate of regeneration.
+  a +1 pair of gloves of archery
+  89 javelins of returning
+  a +0 pair of gloves of archery
+  a +3 battleaxe of flaming
+  a +1 scimitar of protection
+  a +1 crystal plate armour
+  the +4 battleaxe of Broken Luck {freeze, rF+ rN+ Str-5}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your strength (-5).
+    It protects you from fire.
+    It protects you from negative energy.
+  the +1 pair of gloves of Okawaru's Castigation {Str+6}
+    It affects your strength (+6).
+  a +0 scale mail of fire resistance
+  a +2 pair of gloves of archery
+  a +2 hand crossbow of freezing
+  a +1 cloak of magic resistance
+  a +0 buckler of resistance
+  a +1 vampiric broad axe
+  the -6 cloak of Acumeet {rF+ Int+4 Dex+4}
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+    It protects you from fire.
+  a +1 hunting sling of flaming
+  the +1 hand axe of Greatest Utility {venom, rC++}
+    It poisons the flesh of those it strikes.
+    
+    It greatly protects you from cold.
+  the +2 scale mail of Repulsion {-Tele rElec rC- MR+++}
+    It makes you vulnerable to cold.
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+    It prevents most forms of teleportation.
+  a +0 mace of draining
+  a +0 dire flail of protection
+  a +5 rapier
+  a +1 large shield of protection
+  a +4 hand axe of chopping
+  the +0 scale mail of Limitation {rC- Dex+8 Stlth+}
+    It affects your dexterity (+8).
+    It makes you vulnerable to cold.
+    It makes you more stealthy.
+  20 needles of frenzy
+  53 poisoned javelins
+  the +1 hand axe of the Middle {chop, Int+4 Dex+4}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+  a +5 broad axe
+  the +1 pair of boots of Unambiguity {rF+ MR+}
+    It protects you from fire.
+    It affects your resistance to hostile enchantments.
+  a +1 buckler of protection
+  the +1 hat of the Vaults {rElec rC+}
+    It protects you from cold.
+    It insulates you from electricity.
+  a scarf of spirit shield
+  the +2 robe "Moywn" {rElec rF+ Int+2}
+    It affects your intelligence (+2).
+    It protects you from fire.
+    It insulates you from electricity.
+  24 steel tomahawks
+  the +2 chain mail "Wyohil" {Regen+ Str+2}
+    It affects your strength (+2).
+    It increases your rate of regeneration.
+  a +2 buckler of protection
+  a +5 quarterstaff of protection
+  a +2 triple sword of holy wrath
+  a +1 shortbow of velocity
+  a +1 lajatang of protection
+  a +4 quick blade
+  a +1 rapier of venom
+  28 steel javelins
+  a +1 broad axe of venom
+  a +2 pair of gloves of strength
+  a +1 robe of cold resistance
+  a +4 scale mail of poison resistance
+  91 tomahawks of returning
+  105 needles of sleeping
+  a +2 hat of magic resistance
+  a +1 cloak of invisibility
+  131 needles of confusion
+  a +0 helmet of see invisible
+  53 silver javelins
+  a +2 robe of magic resistance
+  a +2 pair of boots of flying
+  the +4 crystal plate armour of Daffodils {rF++}
+    It greatly protects you from fire.
+  58 curare-tipped needles
+  the +1 plate armour of Recklessness {Str+3}
+    It affects your strength (+3).
+  the +0 plate armour of Surprise {Int+4 Dex+2}
+    It affects your intelligence (+4).
+    It affects your dexterity (+2).
+  51 javelins of penetration
+  the +0 gold dragon scales "Witwurreni" {rPois rF+ rC+ Dex+2}
+    It affects your dexterity (+2).
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+  a +0 scale mail of poison resistance
+(2, 1, D:1)
+  the +4 fustibalus "Kieleree" {speed, Int+3}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your intelligence (+3).
+  the +1 gold dragon scales of Gravitas {rElec rPois rF+ rC+ Str+3 Slay+3}
+    It affects your strength (+3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It protects you from fire.
+    It protects you from cold.
+    It insulates you from electricity.
+    It protects you from poison.
+  the +7 quarterstaff of the Gloaming {vamp, rC+}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It protects you from cold.
+  a +2 hand crossbow of velocity
+  the +1 scale mail of Parlour Games {rElec MR- Dex+4}
+    It affects your dexterity (+4).
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+

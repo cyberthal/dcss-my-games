@@ -1,0 +1,152 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10023894030248552341
+
+0 Doggevy the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Feb 12, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:39 (212 turns).
+
+Doggevy the Skirmisher (Hill Orc Fighter)            Turns: 212, Time: 00:04:39
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Wands
+ e - a wand of acid (13)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.1 Long Blades
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Edmund
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - Edmund
+Aim: Edmund, wielding a +2 flail of protection and wearing a +0 ring mail
+(moderately wounded, covered in acid)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.4 |     14 |  58% |   2.6 |   138  |  0.73 |      1.9
+Attack:   Mons | No hits
+Defend: Player |      5.4 |     11 |   2% |   0.1 |   100  |  1.00 |      0.1
+Defend:   Mons |      3.2 |     12 |  53% |   1.7 |   100  |  1.00 |      1.7
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Edmund
+Aim: Edmund, wielding a +2 flail of protection and wearing a +0 ring mail
+(moderately wounded, covered in acid)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.4 |     14 |  58% |   2.6 |   138  |  0.73 |      1.8
+Attack:   Mons | No hits
+Defend: Player |      5.1 |     13 |   1% |   0.1 |   100  |  1.00 |      0.1
+Defend:   Mons |      3.1 |     12 |  52% |   1.6 |   100  |  1.00 |      1.6
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Edmund
+Aim: Edmund, wielding a +2 flail of protection and wearing a +0 ring mail
+(moderately wounded, covered in acid)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.3 |     13 |  58% |   2.6 |   138  |  0.73 |      1.8
+Attack:   Mons | No hits
+Defend: Player |      5.4 |     11 |   2% |   0.1 |   100  |  1.00 |      0.1
+Defend:   Mons |      3.2 |     12 |  51% |   1.7 |   100  |  1.00 |      1.7
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.#................................#
+......#...........................#
+#####.#####+###...#..............##
+# #.........# #....######.......##
+##################.################
+#................K..!.............#
+#.................................#
+#...##...####...#####...#######...#
+#...##...#  #...#   #...#     #...#
+#........####...#   #...#     #...#
+#......>........#####...#     #..=#
+#.......................#######...#
+#...#######..........@............#
+#...#     #...#####........<......#
+#...#     #...#   #..@####........#
+#...#     #...#   #...#  #...##...#
+#.l.#######...#####...####...##..K#
+#.......................)......)..#
+#.................................#
+###################################
+#
+#
+#
+#
+
+
+You could see Edmund.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Doggevy the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Noticed Edmund
+   212 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Long sword        || 36000
+Evoke: Wand              ||     2
+Armor: Scale mail        ||  4750
+Dodge: Dodged            ||  5441
+Block: Shield            || 11760
+Rpst.: Long sword        ||  1821
+

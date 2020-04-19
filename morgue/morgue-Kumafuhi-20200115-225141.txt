@@ -1,0 +1,140 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11719870682434894089
+
+2 Kumafuhi the Skirmisher (level 1, 12/20 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 15, 2020.
+             Was the Champion of Beogh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:29 (9 turns).
+
+Kumafuhi the Skirmisher (Hill Orc Fighter)             Turns: 9, Time: 00:00:30
+
+Health: 12/20      AC:  6    Str: 18    XL:     1   Next: 30%
+Magic:  1/1        EV:  7    Int:  8    God:    Beogh 200 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: walk on water
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Resurrection,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Beogh.
+Beogh was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.7 Axes
+ + Level 3.3 Armour
+ + Level 3.3 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention! The orc shouts!
+Found 7 gold pieces.
+You hit the orc but do no damage. The orc barely misses you.
+You hit the orc.
+The orc is severely wounded.
+The orc hits you but does no damage. The orc hits you.
+You closely miss the orc.
+The orc is severely wounded.
+The orc hits you.
+You closely miss the orc.
+The orc is severely wounded.
+The orc barely misses you. The orc hits you.
+You hit the orc.
+You kill the orc!
+Beogh accepts your kill.
+No target in view!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+           #..
+          #....
+         #.....
+        #......
+      ##......#
+   # ##......#
+   #.#......#
+...#..@[...#
+ #.....<..##
+ ###.......#
+   #.#......#
+   #.##......#
+   #$ ##......#
+   #    #......
+         #.....
+          #....
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kumafuhi the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Beogh the Brigand
+     0 | D:1      | Reached * piety under Beogh
+     0 | D:1      | Reached ** piety under Beogh
+     0 | D:1      | Reached *** piety under Beogh
+     0 | D:1      | Reached **** piety under Beogh
+     0 | D:1      | Reached ***** piety under Beogh
+     0 | D:1      | Reached ****** piety under Beogh
+     9 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||     5
+Armor: Scale mail        ||     1
+Dodge: Dodged            ||     2
+

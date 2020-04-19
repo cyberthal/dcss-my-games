@@ -1,0 +1,221 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9665346639717310268
+
+7703 Seironig the Skullcrusher (level 11, 169/169 HPs) *WIZ*
+             Began as a Troll Chaos Knight on Jan 18, 2020.
+             Was the Champion of Dithmenos.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:11:01 (3 turns).
+
+Seironig the Skullcrusher (Troll Chaos Knight)         Turns: 3, Time: 00:11:02
+
+Health: 169/169    AC: 10    Str: 25    XL:     11   Next: 0%
+Magic:  6/41       EV: 22    Int:  8    God:    Dithmenos 200 (0)
+Gold:   0          SH:  0    Dex:  9    Spells: 59/64 levels left
+
+rFire    . . .     SeeInvis +   h - +0 dagger
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   b - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++++++++++             (no amulet)
+HPRegen  0.78/turn              d - ring of see invisible
+MPRegen  0.27/turn              (no ring)
+
+@: wreathed by umbra
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: Shadow Step, Shadow Form, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Dithmenos.
+Dithmenos was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos
+ f - a +0 mace of holy wrath
+ g - a +0 dire flail
+ h - a +0 dagger (weapon)
+Armour
+ b - a +2 robe (worn)
+Jewellery
+ d - a ring of see invisible (left claw)
+ e - an uncursed ring of obsoleteness
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 59 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Borgnjor's Vile Clut  Necr/Erth      52 (200)     0%          5    184
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Dispater
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Dispater is moderately wounded.
+You completely miss Dispater.
+Dispater is moderately wounded.
+You hit Dispater but do no damage.
+Dispater is moderately wounded.
+You hit Dispater but do no damage.
+Dispater is moderately wounded.
+Your shadow hits Dispater but does no damage.
+You hit Dispater but do no damage.
+Dispater is moderately wounded.
+Your shadow hits Dispater but does no damage.
+You hit Dispater but do no damage.
+Dispater is moderately wounded.
+Your shadow hits Dispater but does no damage.
+You hit Dispater but do no damage. You claw Dispater, but do no damage.
+Dispater is moderately wounded.
+Your shadow hits Dispater but does no damage.
+You hit Dispater.
+Dispater is moderately wounded.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##...............#         #.#   #.$##.#   #
+ #.#.#.#.........#         #.#   ##.##.#   #
+ #.#.#......(....###########.#    #.##.#   #
+##.#.#....(####..............#  ###.##.#####
+.......#?..####.############.####.......)...
+.#.###...........##      ###.##............#
+##.....).######..!#      #.............###.#
+ #####...######...#############.###.#### #>#
+     ##..##.!##.}.........##  #.# #.#    #.#
+      #.###..##............#  #.# #.#    #.#
+      #.# #..##..#########.####.# #.######.#
+      #.# #..+...#########......# #.........
+      #.# #..##..##....&######### ##########
+      #.# #..##...+.0<@.#
+      #.# #..##..##.....#
+      #.# #####..########
+      #.#######..#    ###
+      #......##..#    #.#
+      ######.##.#######.#
+           #............#
+           ##############
+
+
+You could see Dispater.
+
+Vanquished Creatures
+  3 bone dragons (D:1)
+3 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Seironig the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Fell from the grace of Xom
+     0 | D:1      | Became a worshipper of Dithmenos the Shadowed
+     0 | D:1      | Reached * piety under Dithmenos
+     0 | D:1      | Reached ** piety under Dithmenos
+     0 | D:1      | Reached *** piety under Dithmenos
+     0 | D:1      | Reached **** piety under Dithmenos
+     0 | D:1      | Reached ***** piety under Dithmenos
+     0 | D:1      | Reached ****** piety under Dithmenos
+     0 | D:1      | Noticed a bone dragon
+     1 | D:1      | Killed a bone dragon
+     1 | D:1      | Reached XP level 2. HP: 81/81 MP: 0/29
+     1 | D:1      | Reached XP level 3. HP: 91/91 MP: 0/30
+     1 | D:1      | Reached XP level 4. HP: 101/101 MP: 0/32
+     1 | D:1      | Reached XP level 5. HP: 110/110 MP: 0/33
+     1 | D:1      | Reached XP level 6. HP: 120/120 MP: 0/35
+     1 | D:1      | Reached XP level 7. HP: 130/130 MP: 0/36
+     1 | D:1      | Reached XP level 8. HP: 140/140 MP: 0/38
+     1 | D:1      | Reached XP level 9. HP: 149/149 MP: 0/39
+     1 | D:1      | Noticed a bone dragon
+     1 | D:1      | Killed a bone dragon
+     1 | D:1      | Reached XP level 10. HP: 159/159 MP: 0/40
+     3 | D:1      | Noticed a bone dragon
+     3 | D:1      | Killed a bone dragon
+     3 | D:1      | Reached XP level 11. HP: 169/169 MP: 0/41
+     3 | D:1      | Identified the +4 staff of Dispater
+     3 | D:1      | Noticed Dispater
+     3 | D:1      | Learned a level 5 spell: Borgnjor's Vile Clutch
+     3 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Mace              |    31 |       |    14 |    40 ||    85
+       Punch             |       |       |     3 |    21 ||    24
+       Dagger            |       |       |       |    42 ||    42
+       Dire flail        |       |       |       |    17 ||    17
+ Cast: Borgnjor's Vile C |       |       |       |     7 ||     7
+ Stab: Paralysed         |     6 |       |     1 |       ||     7
+       Petrifying        |     1 |       |       |       ||     1
+       Sleeping          |       |       |     1 |     2 ||     3
+       Distracted        |       |       |       |     3 ||     3
+

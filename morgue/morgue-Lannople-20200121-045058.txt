@@ -1,0 +1,624 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9333496169055569119
+
+0 Lannople the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 21, 2020.
+             Was the Champion of Okawaru.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:07 (3 turns).
+
+Lannople the Skirmisher (Hill Orc Fighter)             Turns: 3, Time: 00:04:07
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    Okawaru 200 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Enter Wizard Command (? - help): 
+Something appears at your feet!
+Okawaru grants you a weapon!
+Unknown command.
+Enter Wizard Command (? - help): 
+Something appears at your feet!
+Okawaru grants you armour!
+Unknown command.
+Enter Wizard Command (? - help): 
+Something appears at your feet!
+Okawaru grants you ammunition!
+Unknown command.
+Enter Wizard Command (? - help): 
+Something appears at your feet!
+Okawaru grants you ammunition!
+Unknown command.
+Enter Wizard Command (? - help): 
+You feel a rush of knowledge.
+Search for what [Enter for "disto", or ? for help]? 
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###########
+#..$......#
+  7.@<..7
+#.........#
+#####+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Lannople the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Warmaster Okawaru
+     0 | D:1      | Reached * piety under Okawaru
+     0 | D:1      | Reached ** piety under Okawaru
+     0 | D:1      | Reached *** piety under Okawaru
+     0 | D:1      | Reached **** piety under Okawaru
+     0 | D:1      | Reached ***** piety under Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Reached ****** piety under Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Identified the +1 scale mail of Parlour Games {rElec MR-
+                  | Dex+4} (Okawaru gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Identified the +7 quarterstaff of the Gloaming {vamp, rC+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Identified the +1 gold dragon scales of Gravitas {rElec
+                  | rPois rF+ rC+ Str+3 Slay+3} (Okawaru gifted it to you on
+                  | level 1 of the Dungeon)
+     0 | D:1      | Identified the +4 fustibalus "Kieleree" {speed, Int+3}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Found the +4 skin of Zhor {Hibernate rC+++ SInv}
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Identified the +0 gold dragon scales "Witwurreni" {rPois
+                  | rF+ rC+ Dex+2} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +0 plate armour of Surprise {Int+4 Dex+2}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 plate armour of Recklessness {Str+3}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +4 crystal plate armour of Daffodils {rF++}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +2 chain mail "Wyohil" {Regen+ Str+2}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +2 robe "Moywn" {rElec rF+ Int+2} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 hat of the Vaults {rElec rC+} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 pair of boots of Unambiguity {rF+ MR+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 hand axe of the Middle {chop, Int+4
+                  | Dex+4} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 scale mail of Limitation {rC- Dex+8
+                  | Stlth+} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +2 scale mail of Repulsion {-Tele rElec rC-
+                  | MR+++} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 hand axe of Greatest Utility {venom,
+                  | rC++} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the -6 cloak of Acumeet {rF+ Int+4 Dex+4}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 pair of gloves of Okawaru's Castigation
+                  | {Str+6} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +4 battleaxe of Broken Luck {freeze, rF+ rN+
+                  | Str-5} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +6 plate armour "Orchifiwive" {rPois Regen+
+                  | Int-5} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the -6 pair of gloves of Giwnof {rC+ SInv}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +8 great sword "Zyinux" {antimagic, +Inv
+                  | rPois rC+ Str+4} (Okawaru gifted it to you on level 1 of
+                  | the Dungeon)
+     3 | D:1      | Identified the +1 hat of a treasure trove {Str+7} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 chain mail of Lifelessness {Int+3}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +9 triple crossbow of Arbitration {venom,
+                  | Str+2} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +3 fustibalus "Toowugru" {venom, rF+++ Str+6
+                  | Dex-5 Stlth-} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +2 short sword of Xauhurr {venom, -Tele
+                  | Int+3 Dex+8} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +1 battleaxe "Ekhufeab" {protect, rElec
+                  | Dex+4} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 ring mail of Valiance {*Drain rElec
+                  | Dex+4} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +3 battleaxe of Plague {pain, MR++ Int+2
+                  | Dex-5} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 ring mail "Guwuatit" {rC+ Dex+5} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +9 longbow "Esovim" {flame, Stlth+} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 cloak of the Mind {rF- rC+ rN+++ Regen+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 fire dragon scales "Benixt" {-Tele rF++
+                  | rC- Str+7 Dex+10 SInv} (Okawaru gifted it to you on level 1
+                  | of the Dungeon)
+     3 | D:1      | Identified the +2 scale mail "Peidegug" {*Slow rC+ Regen+
+                  | Stlth+} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +4 triple crossbow of Watchfulness {venom,
+                  | rC+ Str+4} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +1 pair of boots "Seufik" {rF- MR- Regen+
+                  | Stlth+} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Found the +27 Lear's hauberk
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Identified the +0 falchion "Killer Klown's Curse" {freeze,
+                  | rPois MR+ Int-3 Dex+10} (Okawaru gifted it to you on level
+                  | 1 of the Dungeon)
+     3 | D:1      | Identified the +1 pair of boots "Sownech" {rC+ Str-5 Dex+3}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +2 scale mail "Nokoot" {rPois} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +2 hat "Uliakket" {MR- Str+6} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +3 plate armour of Inviolability {rF+ Int+6}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +7 chain mail of Surprise {Str+4} (Okawaru
+                  | gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +4 quick blade of the Wilderness {drain,
+                  | +Rage Str-3 Dex+3} (Okawaru gifted it to you on level 1 of
+                  | the Dungeon)
+     3 | D:1      | Identified the +0 pair of boots of the Eagle {rElec}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 buckler of the Sun {*Drain rElec rCorr
+                  | Dex+4} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 chain mail of Valour {+Blink rPois Dex+4}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +10 dagger of Poan {speed, rElec MP-9 Str+6}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 hat "Rauwag" {*Drain rN+ Regen+ Stlth+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 dagger of Merruruts {flame, *Rage Str+6
+                  | Stlth+} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified a +2 pair of boots of running (Okawaru gifted it
+                  | to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +2 shield of Tomorrow {+Inv rF- rN++}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +1 broad axe of the Orb {pain, rElec Str-4
+                  | Int+6 SInv} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +8 dagger of Otiplihyd {pierce, rElec rN+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the -1 pair of boots of the Wumpus {Int+3}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +4 spear of the Grave {protect, rF+ MR+
+                  | Int-5} (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +6 war axe of Invincibility {flame, *Corrode
+                  | rF+ Str+6} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Identified the +1 scale mail "Uchugocy" {MR+ Dex+5}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     3 | D:1      | Identified the +0 pair of gloves "Neycw" {*Corrode Str+9
+                  | Dex-2 SInv} (Okawaru gifted it to you on level 1 of the
+                  | Dungeon)
+     3 | D:1      | Quit the game
+

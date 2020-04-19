@@ -1,0 +1,662 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 790086886175946392
+
+707650 Poarr the Minotaur Porcupine (level 27, 65/273 HPs) *WIZ*
+             Began as a Minotaur Berserker on Apr 19, 2020.
+             Was an Initiate of Cheibriados.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 01:25:58 (36234 turns).
+
+Poarr the Minotaur Porcupine (Minotaur Berserker)  Turns: 36234, Time: 01:25:59
+
+Health: 65/273     AC:  0    Str: 22      XL:     27
+Magic:  47/47      EV: 17    Int:  5      God:    Cheibriados 15 (0)
+Gold:   27         SH:  0    Dex:  5 (10) Spells: 80/80 levels left
+
+rFire    x . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   (armour currently unavailable)
+rPois    .         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  .   (cloak currently unavailable)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       +....     Rnd*Rage +   (boots currently unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.55/turn              (ring currently unavailable)
+MPRegen  0.30/turn              (ring currently unavailable)
+
+@: confused, liquid flames, pig-form, vulnerable, fire vulnerable, frozen, no
+potions, no scrolls, vertigo, very very heavily contaminated, slowed, glowing,
+very slow
+A: small, (retaliatory headbutt), berserk 1, low mp 1, screaming 1, inability to
+drink while threatened, inability to read while threatened, hated by all,
+unskilled 1
+a: Bend Time, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Cheibriados.
+Cheibriados was noncommittal.
+You were completely stuffed.
+
+You were a filthy swine.
+
+You visited 8 branches of the dungeon, and saw 8 of its levels.
+You visited the Abyss 1 time.
+
+You collected 29 gold pieces.
+You donated 2 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear
+ d - a +0 trishula of holy wrath (melded)
+ k - a +0 broad axe of electrocution
+ l - a +0 vampiric demon trident
+Missiles
+ g - 3 javelins of penetration (quivered)
+Armour
+ b - a +0 animal skin
+ e - +0 fire dragon scales (melded)
+ f - a +0 large shield of reflection (melded)
+ h - a +0 cloak of invisibility (melded)
+Jewellery
+ j - a ring of see invisible (melded)
+Potions
+ i - 15 potions of mutation
+ m - a potion of agility {unknown}
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (1/7) Hell            Geh (1/7) Hell
+    Coc (0/7) Hell            Tar (1/7) Hell        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+((You reflexively headbutt those who attack you in melee.))
+((You have a pair of horns on your head.))
+Your magical capacity is low. (-10% MP)
+You cannot drink potions while threatened.
+You cannot read scrolls while threatened.
+You are hated by all.
+You are somewhat unskilled. (-1 Apt)
+You tend to lose your temper in combat.
+You occasionally shout uncontrollably at your foes.
+
+
+Message History
+
+Which god (default Cheibriados)? 
+Time shudders.
+You are more confused.
+Enter Wizard Command (? - help): 
+Which god (default Cheibriados)? 
+Time shudders.
+Freezing gases pour from your front trotters!
+Enter Wizard Command (? - help): 
+Which god (default Cheibriados)? 
+Time shudders. Your body is twisted very painfully!
+Enter Wizard Command (? - help): 
+Which god (default Cheibriados)? 
+Time shudders.
+Your body is flooded with distortional energies!
+Enter Wizard Command (? - help): 
+Which god (default Cheibriados)? 
+Time shudders.
+You are caught in a strong localised spatial distortion.
+* * * LOW HITPOINT WARNING * * *
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+             #####                ##
+             #h00#       ##########.
+           ###000###     #.(........
+      ######.0000..#     #.########.
+      #............#     #.#      ##
+#######.####.......#     #.#   #####
+#.......#  ###...###     #.#   #....
+#.#######    #...#       #.#   #.###
+#.#          ##.##########.#   #.#
+#.#           #............#   #.#
+#.#           #.#########..#   #.#
+#.#          ##.###     #..#   #.#
+#.#     ######....##########   #.#
+#.#     #.(....#.$......########.###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 bone dragons (Abyss:5)
+  5 Tzitzimimeh
+  65 Brimstone Fiends
+  A Hell Sentinel (Dis:1)
+  4 liches
+  A deep elf blademaster (Abyss:5)
+  11 eldritch tentacles
+  2 tengu reavers (Abyss:5)
+  6 tentacled starspawn (Abyss:5)
+  2 cacodemons
+  10 balrugs
+  A curse skull (Crypt:1)
+  13 reapers
+  An angel (Abyss:5)
+  2 ghouls (Crypt:1)
+  8 stone giants
+  A dire elephant (Abyss:5)
+  A blizzard demon (Geh:1)
+  2 quicksilver dragon zombies
+  3 rakshasas (Abyss:5)
+  A naga warrior (Abyss:5)
+  6 quicksilver dragon skeletons (Geh:1)
+  A shambling mangrove (Abyss:5)
+  17 thrashing horrors (Abyss:5)
+  38 hell hogs (Geh:1)
+  2 death knights (Crypt:1)
+  9 titan zombies (Geh:1)
+  7 storm dragon zombies
+  5 wretched stars (Abyss:5)
+  2 iron trolls
+  15 sun demons (Geh:1)
+  4 titan skeletons (Geh:1)
+  2 spatial maelstroms (Abyss:5)
+  98 hell knights (Geh:1)
+  2 golden dragon zombies (Geh:1)
+  A glowing orange brain (Abyss:5)
+  5 anaconda zombies (Geh:1)
+  6 storm dragon skeletons
+  An unseen horror (Abyss:5)
+  7 flayed ghosts
+  A shadow demon (Tar:1)
+  2 shadow dragon zombies
+  2 golden dragon skeletons (Geh:1)
+  30 necromancers (Geh:1)
+  7 anaconda skeletons (Geh:1)
+  3 phantasmal warriors
+  5 wolf spider zombies (Geh:1)
+  4 iron dragon zombies
+  3 shadow dragon skeletons (Geh:1)
+  A sphinx skeleton (D:1)
+  3 tengu skeletons (D:1)
+  7 frost giant zombies
+  4 stone giant zombies
+  An orb spider (Abyss:5)
+  5 fire giant zombies
+  5 worldbinders (Abyss:5)
+  A salamander (Abyss:5)
+  9 cyclopes
+  5 dire elephant zombies (Geh:1)
+  A manticore (shapeshifter) (Abyss:5)
+  3 iron dragon skeletons (Geh:1)
+  7 fire giant skeletons
+  5 frost giant skeletons
+  A guardian serpent (Abyss:5)
+  5 stone giant skeletons
+  8 rust devils
+  An apocalypse crab (Abyss:5)
+  8 smoke demons (Abyss:5)
+  2 dire elephant skeletons (Geh:1)
+  2 water nymphs (Abyss:5)
+  An orange demon (Abyss:5)
+  2 efreet (Abyss:5)
+  20 hellions (Geh:1)
+  A yaktaur zombie (D:1)
+  An elf skeleton (D:1)
+  A minotaur zombie (Geh:1)
+  A freezing wraith (Abyss:5)
+  5 ancient zymes (Abyss:5)
+  9 tormentors
+  4 hellwings (Abyss:5)
+  6 trolls
+  3 hydra zombies (Geh:1)
+  37 red devils
+  2 harpy zombies (Geh:1)
+  A polar bear (Hell)
+  8 hydra skeletons
+  3 blink frogs (Abyss:5)
+  2 fire dragon zombies (Geh:1)
+  9 ettin zombies
+  3 harpy skeletons
+  14 raiju (Abyss:5)
+  A wolf spider simulacrum (Abyss:5)
+  2 ice dragon zombies
+  3 alligator zombies (Geh:1)
+  13 large abominations (Abyss:5)
+  3 ettin skeletons (Geh:1)
+  A black mamba zombie (Geh:1)
+  3 ice dragon skeletons (Geh:1)
+  3 ynoxinuls (Abyss:5)
+  A spriggan (shapeshifter) (Abyss:5)
+  2 deep troll skeletons (D:1)
+  31 flying skulls
+  A fire dragon skeleton (D:1)
+  27 shadows
+  A redback (shapeshifter) (Abyss:5)
+  2 water elementals (Abyss:5)
+  12 fire bats (Geh:1)
+  28 wraiths
+  6 golden eyes (Abyss:5)
+  A hungry ghost (Abyss:5)
+  2 black mamba skeletons (Geh:1)
+  2 chaos spawn (Abyss:5)
+  A monstrous demonspawn zombie (Geh:1)
+  3 neqoxecs (Abyss:5)
+  5 spatial vortices
+  2 nagas (Abyss:5)
+  An elf zombie (D:1)
+  An ogre skeleton (D:1)
+  2 spiny frog zombies (Geh:1)
+  32 hell hounds
+  3 merfolk skeletons (Geh:1)
+  10 phantoms (Geh:1)
+  4 spiny frog skeletons (Geh:1)
+  8 black bears
+  3 manticore zombies (Geh:1)
+  A swamp dragon zombie (Dis:1)
+  40 starcursed masses (Abyss:5)
+  An eye of draining (Abyss:5)
+  18 necrophages
+  8 ogres
+  2 snapping turtle zombies (Geh:1)
+  4 manticore skeletons
+  2 snapping turtle skeletons (Geh:1)
+  3 swamp dragon skeletons (Geh:1)
+  2 yaktaur skeletons (D:1)
+  3 spriggan zombies
+  63 wights
+  11 small abominations (Abyss:5)
+  A spriggan skeleton (Geh:1)
+  A troll zombie (Geh:1)
+  9 crimson imps (Geh:1)
+  A centaur skeleton (Geh:1)
+  2 human zombies
+  2 iron imps (Dis:1)
+  3 human skeletons
+  A killer bee zombie (D:1)
+  2 ogre zombies (Geh:1)
+  A naga skeleton (Geh:1)
+  3 ball lightnings (D:1)
+  A goblin skeleton (D:1)
+  A jackal zombie (D:1)
+  An orc skeleton (D:1)
+  2 rat skeletons (D:1)
+  7 fire vortices (Geh:1)
+  A lurking horror (Abyss:5)
+  4 starspawn tentacles (Abyss:5)
+1065 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 eldritch tentacles (Geh:1)
+  3 tentacled starspawn (Abyss:5)
+  2 hell hogs (Geh:1)
+  A thrashing horror (Abyss:5)
+  A wretched star (Abyss:5)
+  A cyclops (Geh:1)
+  A flying skull (Geh:1)
+  3 golden eyes (Abyss:5)
+  A neqoxec (Abyss:5)
+  A necrophage (Geh:1)
+  A small abomination (Abyss:5)
+  2 wights (Geh:1)
+  A fire vortex (Geh:1)
+  A lurking horror (Abyss:5)
+  2 pillars of salt (Geh:1)
+  14 starspawn tentacles (Abyss:5)
+38 creatures vanquished.
+
+Grand Total: 1103 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Poarr the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+     0 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+     0 | D:1      | Reached XP level 4. HP: 39/39 MP: 3/3
+     0 | D:1      | Reached XP level 5. HP: 45/45 MP: 4/4
+     0 | D:1      | Reached XP level 6. HP: 51/51 MP: 5/5
+     0 | D:1      | Reached XP level 7. HP: 57/57 MP: 6/6
+     0 | D:1      | Reached XP level 8. HP: 64/64 MP: 7/7
+     0 | D:1      | Reached XP level 9. HP: 70/70 MP: 8/8
+     0 | D:1      | Reached XP level 10. HP: 77/77 MP: 9/9
+     0 | D:1      | Reached XP level 11. HP: 82/82 MP: 10/10
+     0 | D:1      | Reached XP level 12. HP: 90/90 MP: 11/11
+     0 | D:1      | Reached XP level 13. HP: 95/95 MP: 12/12
+     0 | D:1      | Reached XP level 14. HP: 102/102 MP: 13/13
+     0 | D:1      | Reached XP level 15. HP: 107/107 MP: 14/14
+     0 | D:1      | Reached XP level 16. HP: 115/115 MP: 15/15
+     0 | D:1      | Reached XP level 17. HP: 121/121 MP: 16/16
+     0 | D:1      | Reached XP level 18. HP: 127/127 MP: 17/17
+     0 | D:1      | Reached XP level 19. HP: 133/133 MP: 18/18
+     0 | D:1      | Reached XP level 20. HP: 140/140 MP: 19/19
+     0 | D:1      | Reached XP level 21. HP: 146/146 MP: 20/20
+     0 | D:1      | Reached XP level 22. HP: 152/152 MP: 21/21
+     0 | D:1      | Reached XP level 23. HP: 158/158 MP: 22/22
+     0 | D:1      | Reached XP level 24. HP: 166/166 MP: 22/22
+     0 | D:1      | Reached XP level 25. HP: 171/171 MP: 22/22
+     0 | D:1      | Reached XP level 26. HP: 178/178 MP: 22/22
+     0 | D:1      | Reached XP level 27. HP: 183/183 MP: 22/22
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     1 | Geh:1    | Entered Level 1 of Gehenna
+     1 | Geh:1    | Found a gateway to Hell.
+     2 | Geh:1    | Received a gift from Trog
+     2 | Geh:1    | Fell from the grace of Trog
+     2 | Geh:1    | Became a worshipper of the Shining One
+   248 | Geh:1    | Reached * piety under the Shining One
+   770 | Geh:1    | Reached ** piety under the Shining One
+   957 | Geh:1    | Reached *** piety under the Shining One
+  4693 | Geh:1    | Reached **** piety under the Shining One
+  6244 | Geh:1    | Reached ***** piety under the Shining One
+  6349 | Geh:1    | Gained mutation: You are dopey. (Int -2) [mutagenic glow]
+  7847 | Geh:1    | Reached ****** piety under the Shining One
+  8401 | Hell     | Fell from the grace of the Shining One
+  8401 | Hell     | Became a worshipper of Zin the Law-Giver
+  8401 | Hell     | Reached * piety under Zin
+  8401 | Hell     | Reached ** piety under Zin
+  8401 | Hell     | Reached *** piety under Zin
+  8401 | Hell     | Reached **** piety under Zin
+  8401 | Hell     | Reached ***** piety under Zin
+  8401 | Hell     | Reached ****** piety under Zin
+ 11380 | Geh:1    | Paralysed by Trog for 7 turns
+ 13303 | Geh:1    | Paralysed by Trog for 3 turns
+ 16432 | Geh:1    | Gained mutation: You are weak. (Str -2) [mutagenic glow]
+ 16588 | Hell     | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [mutagenic glow]
+ 16590 | Hell     | Lost mutation: You are weak. (Str -2) [potion of mutation]
+ 16590 | Hell     | Lost mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+ 16591 | Hell     | Lost mutation: You are dopey. (Int -2) [potion of mutation]
+ 20381 | Tar:1    | Entered Level 1 of Tartarus
+ 20381 | Tar:1    | Found a gateway to Hell.
+ 21976 | Dis:1    | Entered Level 1 of the Iron City of Dis
+ 21976 | Dis:1    | Found a gateway to Hell.
+ 25429 | Hell     | HP: 11/273 [Brimstone Fiend[the effects of Hell] (4)]
+ 26190 | Geh:1    | Fell from the grace of Zin
+ 26190 | Geh:1    | Became a worshipper of the Shining One
+ 26346 | Geh:1    | Gained mutation: Scrolls take you a little longer to read.
+                  | [mutagenic glow]
+ 29705 | Geh:1    | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [mutagenic glow]
+ 29763 | Geh:1    | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [mutagenic glow]
+ 31012 | Geh:1    | Fell from the grace of the Shining One
+ 31012 | Geh:1    | Became a worshipper of Zin the Law-Giver
+ 31939 | Temple   | Entered the Ecumenical Temple
+ 32090 | Crypt:1  | Entered Level 1 of the Crypt
+ 32146 | Crypt:1  | Paralysed by a vampire knight for 3 turns
+ 32148 | Crypt:1  | HP: 10/273 [eidolon (10)]
+ 32148 | Crypt:1  | Slain by an eidolon (10 damage)
+                  | ... while paralysed by a vampire knight
+ 32152 | Hell     | Fell from the grace of Zin
+ 32152 | Hell     | Became a worshipper of Uskayaw the Reveler
+ 32152 | Hell     | Fell from the grace of Uskayaw
+ 32152 | Hell     | Became a worshipper of Elyvilon the Healer
+ 32152 | Hell     | Was forgiven by Zin
+ 32152 | Hell     | Was forgiven by the Shining One
+ 32152 | Hell     | Was forgiven by Trog
+ 32152 | Hell     | Was forgiven by Uskayaw
+ 32152 | Hell     | Fell from the grace of Elyvilon
+ 32152 | Hell     | Became a worshipper of Uskayaw the Reveler
+ 32152 | Hell     | Fell from the grace of Uskayaw
+ 32152 | Hell     | Became a worshipper of Elyvilon the Healer
+ 32152 | Hell     | Reached * piety under Elyvilon
+ 32152 | Hell     | Reached ** piety under Elyvilon
+ 32152 | Hell     | Reached *** piety under Elyvilon
+ 32152 | Hell     | Reached **** piety under Elyvilon
+ 32152 | Hell     | Reached ***** piety under Elyvilon
+ 32152 | Hell     | Reached ****** piety under Elyvilon
+ 32629 | Geh:1    | Paralysed by the fury of Uskayaw for 5 turns
+ 32785 | Geh:1    | Was forgiven by Uskayaw
+ 32785 | Geh:1    | Paralysed by the fury of Uskayaw for 5 turns
+ 32790 | Geh:1    | Paralysed by the fury of Uskayaw for 4 turns
+ 32794 | Geh:1    | Paralysed by the fury of Uskayaw for 6 turns
+ 32800 | Geh:1    | Paralysed by the fury of Uskayaw for 7 turns
+ 32843 | Zot:5    | Entered Level 5 of the Realm of Zot
+ 32843 | Zot:5    | Noticed an orb of fire
+ 32843 | Zot:5    | Noticed an orb of fire
+ 32844 | Zot:5    | Paralysed by the fury of Uskayaw for 3 turns
+ 32844 | Zot:5    | Noticed an orb of fire
+ 32845 | Zot:5    | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [an orb of fire]
+ 32846 | Zot:5    | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [an orb of fire]
+ 32847 | Zot:5    | Paralysed by the fury of Uskayaw for 5 turns
+ 32847 | Zot:5    | Lost mutation: Scrolls take you a little longer to read.
+                  | [an orb of fire]
+ 32847 | Zot:5    | HP: 13/273 [Killer Klown/klown pie (37)]
+ 32847 | Zot:5    | HP: 1/273 [Killer Klown/+9 club of venom (12)]
+ 32847 | Zot:5    | Demolished by a Killer Klown
+                  | ... wielding a +8 club of venom
+                  | (18 damage)
+                  | ... while paralysed by the fury of Uskayaw
+ 32852 | D:1      | Fell from the grace of Elyvilon
+ 32852 | D:1      | Became a worshipper of Uskayaw the Reveler
+ 32852 | D:1      | Fell from the grace of Uskayaw
+ 32852 | D:1      | Became a worshipper of Elyvilon the Healer
+ 34963 | Abyss:5  | Entered Level 5 of the Abyss
+ 34963 | Abyss:5  | Entered Level 5 of the Abyss
+ 35045 | Abyss:5  | Paralysed by accursed screaming for 1 turns
+ 35079 | Abyss:5  | Fell from the grace of Elyvilon
+ 35079 | Abyss:5  | Became a worshipper of Uskayaw the Reveler
+ 35079 | Abyss:5  | Fell from the grace of Uskayaw
+ 35079 | Abyss:5  | Became a worshipper of Ru the Awakened
+ 35079 | Abyss:5  | Gained mutation: You are hated by all. [Ru sacrifice]
+ 35079 | Abyss:5  | Reached * piety under Ru
+ 35080 | Abyss:5  | Gained mutation: You are somewhat unskilled. (-1 Apt) [Ru
+                  | sacrifice]
+ 35080 | Abyss:5  | Reached ** piety under Ru
+ 35080 | Abyss:5  | Reached *** piety under Ru
+ 35082 | Abyss:5  | Gained mutation: You cannot drink potions while threatened.
+                  | [Ru sacrifice]
+ 35082 | Abyss:5  | Reached **** piety under Ru
+ 35083 | Abyss:5  | Gained mutation: You cannot read scrolls while threatened.
+                  | [Ru sacrifice]
+ 35083 | Abyss:5  | Reached ***** piety under Ru
+ 35085 | Abyss:5  | Mutation became permanent: Your magical capacity is low.
+                  | (-10% MP) [Ru sacrifice]
+ 35085 | Abyss:5  | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [Ru sacrifice]
+ 35085 | Abyss:5  | Reached ****** piety under Ru
+ 35098 | Abyss:5  | Lost intelligence.
+ 35109 | Abyss:5  | Paralysed by accursed screaming for 2 turns
+ 35192 | Abyss:5  | Paralysed by the fury of Uskayaw for 3 turns
+ 35328 | Abyss:5  | Paralysed by you for 2 turns
+ 35386 | Abyss:5  | Paralysed by accursed screaming for 1 turns
+ 35426 | Abyss:5  | Lost intelligence.
+ 35462 | Abyss:5  | Paralysed by accursed screaming for 1 turns
+ 35497 | Abyss:5  | Paralysed by the fury of Uskayaw for 2 turns
+ 35507 | Abyss:5  | Paralysed by accursed screaming for 1 turns
+ 35571 | Abyss:5  | Gained mutation: You sometimes yell uncontrollably at your
+                  | foes. [a neqoxec]
+ 35633 | Abyss:5  | Was forgiven by Elyvilon
+ 35633 | Abyss:5  | Was forgiven by Uskayaw
+ 35633 | D:1      | Gained mutation: You are robust. (+10% HP) [wizard power]
+ 35633 | D:1      | Gained mutation: You have a pair of large horns on your
+                  | head. [wizard power]
+ 35633 | D:1      | Gained mutation: Your muscles are strong. (Str +2) [wizard
+                  | power]
+ 35633 | D:1      | Gained mutation: You have a somewhat thin skeletal
+                  | structure. (Dex +2, Stealth) [wizard power]
+ 35633 | D:1      | Gained mutation: You are partially covered in large bone
+                  | plates. (SH +4) [wizard power]
+ 35633 | D:1      | Fell from the grace of Ru
+ 35633 | D:1      | Became a worshipper of Zin the Law-Giver
+ 35634 | D:1      | Lost mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [potion of mutation]
+ 35634 | D:1      | Lost mutation: You have a pair of large horns on your head.
+                  | [potion of mutation]
+ 35635 | D:1      | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [potion of mutation]
+ 35635 | D:1      | Lost mutation: You have a somewhat thin skeletal structure.
+                  | (Dex +2, Stealth) [potion of mutation]
+ 35635 | D:1      | Lost mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+ 35636 | D:1      | Lost mutation: Your muscles are strong. (Str +2) [potion of
+                  | mutation]
+ 35636 | D:1      | Lost mutation: You sometimes yell uncontrollably at your
+                  | foes. [potion of mutation]
+ 35636 | D:1      | Lost mutation: You are partially covered in large bone
+                  | plates. (SH +4) [potion of mutation]
+ 35637 | D:1      | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+ 35642 | D:1      | Fell from the grace of Zin
+ 35642 | D:1      | Became a worshipper of Kikubaaqudgha
+ 35642 | D:1      | Was forgiven by Zin
+ 35642 | D:1      | Was forgiven by Ru
+ 35642 | D:1      | Fell from the grace of Kikubaaqudgha
+ 35642 | D:1      | Became a worshipper of the Shining One
+ 35927 | D:1      | Fell from the grace of the Shining One
+ 35927 | D:1      | Became a worshipper of Cheibriados the Contemplative
+ 35927 | D:1      | Was forgiven by the Shining One
+ 35927 | D:1      | Was forgiven by Kikubaaqudgha
+ 36093 | D:1      | Lost intelligence.
+ 36233 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [the meddling of Cheibriados]
+ 36234 | D:1      | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [the meddling of Cheibriados]
+ 36234 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [the meddling of Cheibriados]
+ 36234 | D:1      | Gained mutation: You tend to lose your temper in combat.
+                  | [the meddling of Cheibriados]
+ 36234 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 |
+---------------+----------------------------------------------------------------------------------+-----
+Fighting       |                                                                               25 | 27.0
+Short Blades   |                                                                               25 | 27.0
+Long Blades    |                                                                               25 | 27.0
+Axes           |                                                                               25 | 27.0
+Maces & Flails |                                                                               25 | 27.0
+Polearms       |                                                                               25 | 27.0
+Staves         |                                                                               25 | 27.0
+Slings         |                                                                               25 | 27.0
+Bows           |                                                                               25 | 27.0
+Crossbows      |                                                                               25 | 27.0
+Throwing       |                                                                               25 | 27.0
+Armour         |                                                                               25 | 27.0
+Dodging        |                                                                               25 | 27.0
+Stealth        |                                                                               25 | 27.0
+Shields        |                                                                               25 | 27.0
+Unarmed Combat |                                                                               25 | 27.0
+Spellcasting   |                                                                               25 | 27.0
+Conjurations   |                                                                               25 | 27.0
+Hexes          |                                                                               25 | 27.0
+Charms         |                                                                               25 | 27.0
+Summonings     |                                                                               25 | 27.0
+Necromancy     |                                                                               25 | 27.0
+Translocations |                                                                               25 | 27.0
+Transmutations |                                                                               25 | 27.0
+Fire Magic     |                                                                               25 | 27.0
+Ice Magic      |                                                                               25 | 27.0
+Air Magic      |                                                                               25 | 27.0
+Earth Magic    |                                                                               25 | 27.0
+Poison Magic   |                                                                               25 | 27.0
+Invocations    |                                                                               25 | 27.0
+Evocations     |                                                                               25 | 27.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Trishula          |       |       |       |       |       |       |       |       |  3997 ||  3997
+       Headbutt          |       |       |       |       |       |       |       |       |   923 ||   923
+       Broad axe         |       |       |       |       |       |       |       |       |   472 ||   472
+       Spear             |       |       |       |       |       |       |       |       |   107 ||   107
+       Demon trident     |       |       |       |       |       |       |       |       |    59 ||    59
+       Punch             |       |       |       |       |       |       |       |       |    19 ||    19
+Throw: Javelin           |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Recite            |       |       |       |       |       |       |       |       |     7 ||     7
+       Reject Sacrifices |       |       |       |       |       |       |       |       |     2 ||     2
+       Sacrifice Words   |       |       |       |       |       |       |       |       |     1 ||     1
+       Sacrifice Drink   |       |       |       |       |       |       |       |       |     1 ||     1
+       Sanctuary         |       |       |       |       |       |       |       |       |     1 ||     1
+       Sacrifice Love    |       |       |       |       |       |       |       |       |     1 ||     1
+       Sacrifice Skill   |       |       |       |       |       |       |       |       |     1 ||     1
+       Sacrifice Essence |       |       |       |       |       |       |       |       |     1 ||     1
+ Abil: Evoke Invisibilit |       |       |       |       |       |       |       |       |     3 ||     3
+  Use: Potion            |       |       |       |       |       |       |       |       |     9 ||     9
+ Stab: Paralysed         |       |       |       |       |       |       |       |       |    17 ||    17
+       Confused          |       |       |       |       |       |       |       |       |    12 ||    12
+       Distracted        |       |       |       |       |       |       |       |       |     6 ||     6
+       Petrifying        |       |       |       |       |       |       |       |       |     2 ||     2
+       Invisible         |       |       |       |       |       |       |       |       |     2 ||     2
+       Petrified         |       |       |       |       |       |       |       |       |     1 ||     1
+       Sleeping          |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Fire dragon scale |       |       |       |       |       |       |       |       |   876 ||   876
+       Animal skin       |       |       |       |       |       |       |       |       |     8 ||     8
+Dodge: Dodged            |       |       |       |       |       |       |       |       |  2057 ||  2057
+Block: Large shield      |       |       |       |       |       |       |       |       |  4472 ||  4472
+       Reflection        |       |       |       |       |       |       |       |       |    30 ||    30
+

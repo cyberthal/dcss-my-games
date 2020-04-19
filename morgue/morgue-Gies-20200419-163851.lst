@@ -1,0 +1,228 @@
+Gies
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(3, -6, D:1)
+  a +0 dagger
+(11, -3, D:1)
+  a +0 hand axe
+(27, 17, D:1)
+  a +0 club
+(30, 17, D:1)
+  a +0 club
+(34, 11, D:1)
+  a +0 dagger
+(44, 24, D:1)
+  a +0 robe
+
+Level 2 of the Dungeon
+(1, -46, D:2)
+  a +0 club
+(9, -35, D:2)
+  a +0 dagger
+(9, -28, D:2)
+  a +0 ring mail
+(14, -13, D:2)
+  a +0 short sword
+(14, -7, D:2)
+  a +0 robe
+(26, 0, D:2)
+  a +0 club
+(27, -17, D:2)
+  a +0 robe
+(38, -15, D:2)
+  a +0 short sword
+(38, -9, D:2)
+  a +0 ring mail
+(39, -18, D:2)
+  a +0 hunting sling
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(16, 24, D:3)
+  a +0 dagger
+(19, 15, D:3)
+  a +0 robe
+(27, -22, D:3)
+  a +0 club
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 giant club
+(13, -33, D:4)
+  a +0 giant club
+(14, -33, D:4)
+  a +0 whip
+  a +0 ring mail
+(34, -22, D:4)
+  a +0 robe
+(38, -24, D:4)
+  a +0 leather armour
+  a +0 dagger
+  a +0 leather armour
+(38, -23, D:4)
+  a +0 dagger
+(38, 9, D:4)
+  a +0 robe
+(39, -21, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 giant club
+(1, 0, D:5)
+  a +0 robe
+(5, 19, D:5)
+  a +0 pair of boots
+(7, -19, D:5)
+  a cursed -3 short sword
+(21, 28, D:5)
+  a +0 short sword
+(22, 28, D:5)
+  a cursed -2 robe
+  a +0 dagger
+  a +0 short sword
+(28, -10, D:5)
+  15 stones
+(31, 6, D:5)
+  a stone
+(31, 7, D:5)
+  a stone
+(31, 8, D:5)
+  a stone
+(34, 10, D:5)
+  a stone
+(35, 10, D:5)
+  a stone
+(40, 10, D:5)
+  a stone
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  an uncursed ring of attention
+(7, 10, D:6)
+  a +0 giant spiked club
+(13, 15, D:6)
+  a +0 giant club
+(14, -2, D:6)
+  a +0 rapier
+(18, -1, D:6)
+  a +0 short sword
+(25, 30, D:6)
+  a +0 war axe
+(28, 17, D:6)
+  a cursed +0 leather armour
+(31, 30, D:6)
+  a +0 chain mail
+  a +0 club
+  a +0 dagger
+  a +0 hand axe
+(42, 39, D:6)
+  a +0 robe
+(45, 39, D:6)
+  a +0 hand axe
+  a +0 robe
+(53, -18, D:6)
+  a +0 ring mail
+(53, 31, D:6)
+  a +0 robe
+(54, 25, D:6)
+  a +0 mace
+
+Level 7 of the Dungeon
+[Shop] Nock's Gadget Emporium
+  a wand of iceblast (7) (154 gold)
+  a phantom mirror (420 gold)
+  a phantom mirror (420 gold)
+  a wand of paralysis (13) (210 gold)
+  a wand of disintegration (13) (238 gold)
+  a wand of disintegration (18) (308 gold)
+  a wand of polymorph (12) (196 gold)
+  a wand of acid (6) (280 gold)
+(0, 0, D:7)
+  a +0 ring mail
+(3, 0, D:7)
+  a +0 robe
+  a +0 short sword
+(5, 0, D:7)
+  a +0 dagger
+(7, 2, D:7)
+  a +0 short sword
+(7, 4, D:7)
+  a +0 short sword
+(11, 9, D:7)
+  a +0 robe
+  a +0 mace
+(14, 4, D:7)
+  a +0 robe
+(20, -6, D:7)
+  a +0 giant spiked club
+(24, -16, D:7)
+  a +0 long sword
+(27, 12, D:7)
+  a +0 robe
+  a +0 falchion
+(31, 13, D:7)
+  a +0 ring mail
+  a +0 chain mail
+  +0 steam dragon scales
+(32, 13, D:7)
+  a cursed +3 hand axe
+(33, 13, D:7)
+  a +3 halberd
+(34, 12, D:7)
+  a potion of magic
+  a potion of resistance
+  a scroll of brand weapon
+  a scroll of immolation
+  a scroll of magic mapping
+  a scroll of fear
+  a scroll of random uselessness
+  a scroll of enchant armour
+(34, 13, D:7)
+  a potion of mutation
+
+Level 8 of the Dungeon
+[Shop] Ytayl's Armour Shop
+  a cursed +0 leather armour (1 gold)
+  a +0 robe (8 gold)
+  a +0 ring mail of cold resistance (132 gold)
+  a +3 leather armour of poison resistance (252 gold)
+  a +0 robe (8 gold)
+  a +2 pair of gloves of archery (258 gold)
+  a +0 ring mail (48 gold)
+  the +1 pair of gloves of the Cast Vote {+Inv MR+ Dex-3 Stlth+} (307 gold)
+    It affects your dexterity (-3).
+    It affects your resistance to hostile enchantments.
+    It lets you turn invisible.
+    It makes you more stealthy.
+  a +0 scale mail (48 gold)
+  a cursed +0 pair of boots (18 gold)
+  a +2 chain mail of magic resistance (258 gold)
+(10, -7, D:8)
+  a +0 falchion
+(15, -14, D:8)
+  a +0 scale mail
+(22, -26, D:8)
+  a +0 scale mail
+(28, -6, D:8)
+  a +0 mace
+(29, -38, D:8)
+  a +0 robe
+(29, -6, D:8)
+  a +0 hunting sling
+  a +0 leather armour
+(32, -38, D:8)
+  a +0 spear
+  a +0 ring mail
+(33, -34, D:8)
+  a +0 hand axe
+(41, -5, D:8)
+  a +0 short sword
+(55, -29, D:8)
+  a +0 robe
+
+the Ecumenical Temple
+

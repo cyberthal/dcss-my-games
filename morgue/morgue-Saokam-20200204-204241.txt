@@ -1,0 +1,231 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8854971993856554448
+
+560112 Saokam the Conqueror (level 27, 165/273 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Feb 4, 2020.
+             Was the Champion of Beogh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:28:15 (251 turns).
+
+Saokam the Conqueror (Hill Orc Fighter)              Turns: 251, Time: 00:28:16
+
+Health: 165/273    AC: 13    Str: 18    XL:     27
+Magic:  54/54      EV: 22    Int:  8    God:    Beogh 200 (0)
+Gold:   0          SH: 18    Dex: 10    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.55/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: walk on water
+a: Smiting, Recall Orcish Followers, Give Item to Named Follower, Resurrection,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Beogh.
+Beogh was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ e - a potion of lignification {unknown}
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+The Orb Guardian is severely wounded.
+You block the Orb Guardian's attack.
+You miss the Orb Guardian.
+The Orb Guardian is severely wounded.
+The Orb Guardian hits you but does no damage.
+You completely miss the Orb Guardian.
+The Orb Guardian is severely wounded.
+You slice the Orb Guardian!!
+The Orb Guardian is almost dead.
+You block the Orb Guardian's attack.
+You barely miss the Orb Guardian.
+The Orb Guardian is almost dead.
+The Orb Guardian hits you!
+You slice the Orb Guardian!!
+You kill the Orb Guardian!
+Beogh accepts your kill.
+Your orc warrior looks more experienced.
+Your orc knight looks more experienced. Your orc looks more experienced.
+Your orc warrior looks more experienced.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                        #####
+                        #.#.#
+              ###       #.#.#
+             ##.#########.#.#
+        ###  #.....#......#.#  ############
+     ####.####..##.######...####..........#
+##   #.............# ####.#........#.####.#
+.#   #.##.##.#..##.###o##.#.##%#...#.#  #.#
+.#   #.##.##.#..#....oo...#.##.......#  #.#
+.#   #.##....#........)............#.#  #.#
+.#   #..........o....(....#.#........#  #.#
+.##  #####.#.#.##.####@.#.#.#.....####  #.##
+..##    ##.###.##.#................#    #...
+...### ##......####.##.............########.
+.....###..!....#  #.##.##.#.....(...........
+#.##.#.........####.##..o..........#########
+##.#.#.........#....#########.#....#
+#.##.#.....#+###.####  #...........#
+##.#.###.........###   ######.#.####
+o....# #.#.#.#.#...#        #.#.#
+##..####.........#.#        #.#.#
+##.####.#.#.#.#.#..###      #.#.#
+...................#.### ######.#
+##o....#.#.#.#.#.#.#...###.ooo#.#
+
+
+You could see a friendly orc knight, 2 friendly orc warriors and a friendly orc.
+
+Vanquished Creatures
+  11 Orb Guardians (D:1)
+  A vault warden (D:1)
+  2 orc knights (D:1)
+  3 ice beasts (D:1)
+  A centaur (D:1)
+  3 gnolls (D:1)
+  5 orcs (D:1)
+  10 goblins (D:1)
+  4 hobgoblins (D:1)
+40 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 vault wardens (D:1)
+  An orc knight (D:1)
+  An ice beast (D:1)
+  2 orcs (D:1)
+6 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc (D:1)
+1 creature vanquished.
+
+Grand Total: 47 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Saokam the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 143/143 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 151/151 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 159/159 MP: 1/44
+     0 | D:1      | Reached XP level 14. HP: 168/168 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 174/174 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 183/183 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 191/191 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 200/200 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 207/207 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 216/216 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 224/224 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 233/233 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 240/240 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 249/249 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 257/257 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 266/266 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 273/273 MP: 1/54
+     0 | D:1      | Became a worshipper of Beogh the Brigand
+     0 | D:1      | Reached * piety under Beogh
+     0 | D:1      | Reached ** piety under Beogh
+     0 | D:1      | Reached *** piety under Beogh
+     0 | D:1      | Reached **** piety under Beogh
+     0 | D:1      | Reached ***** piety under Beogh
+     0 | D:1      | Reached ****** piety under Beogh
+    12 | D:1      | Gained Okrist as an ally
+    42 | D:1      | Gained Bogrim as an ally
+   251 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Long sword        |       |       |       |       |       |       |       |       |    79 ||    79
+Invok: Recall Orcish Fol |       |       |       |       |       |       |       |       |    17 ||    17
+       Stop Recall       |       |       |       |       |       |       |       |       |     8 ||     8
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |    34 ||    34
+       Distracted        |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Scale mail        |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     8 ||     8
+Block: Shield            |       |       |       |       |       |       |       |       |    18 ||    18
+Rpst.: Long sword        |       |       |       |       |       |       |       |       |     2 ||     2
+

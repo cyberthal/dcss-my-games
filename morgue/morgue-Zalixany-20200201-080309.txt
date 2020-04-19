@@ -1,0 +1,147 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12687924235953619032
+
+0 Zalixany the Skirmisher (level 1, 18/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Feb 1, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:08:33 (1671 turns).
+
+Zalixany the Skirmisher (Hill Orc Fighter)          Turns: 1671, Time: 00:08:33
+
+Health: 18/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   g - +0 hunting sling
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ g - a +0 hunting sling (weapon)
+Missiles
+ h - 31 stones (quivered)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+ e - a +0 helmet
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Wu Jian
+
+Message History
+
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? (
+What type of item? stone
+Stone
+What ego type? 
+Something appears at your feet!
+h - 31 stones (gained 30)
+The kobold barely misses you.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+g - a +0 hunting sling (weapon)
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - kobold
+Aim: a kobold
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.1 |     10 |  44% |   1.4 |   128  |  0.78 |      1.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      0.6 |      3 |  42% |   0.3 |   100  |  1.00 |      0.3
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                 #.#
+                 #.##############
+ ###########     #....##........#
+ #.........#    ##.###.#.######.#
+ #.#######.#  ###.## ##..######.#
+ #.#######.#  #...#   #......##.#
+ #.........####...## ##..###.##.#
+ #..##..........#..###.#........#
+ #..##.###.#######....######.####
+ #..##.# #.#     #.####    #.#
+ #..#..###.#     #.#       #.####
+ #.........#    ##+##      #....#
+ ##.#.####.#   ##...##     ####.#
+  #.#.####.#  ##@....##    ####.#
+  #........# ##.K.....##  ##.##.#
+#####.#...####.........####...#.######
+#.$..........+.........+..............
+#.###.....####.........####...#.######
+#.##..%..##  ##.......##  ##.##.#
+#.##.....#    ##.....##    ####.#
+#.##.....#     ##...##        #.#
+#.###...##########+###        #.#
+#..........##........#       ##.#
+#.......##.##.####...#       #..#    #
+##.###.###.##.####...####    #.##   ##
+ #.# #.###.##.#.........#    #.#    #.
+
+
+You could see a kobold.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zalixany the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+    22 | D:2      | Found a transporter.
+    22 | D:2      | Found an ornate altar of the Wu Jian Council.
+    22 | D:2      | Found a transporter.
+  1671 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||292000
+Armor: Scale mail        || 87666
+Dodge: Dodged            || 62549
+Block: Shield            ||108886
+

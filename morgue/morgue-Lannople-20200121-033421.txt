@@ -1,0 +1,586 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13773861210157826526
+
+0 Lannople the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Jan 21, 2020.
+             Was the Champion of Okawaru.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:53 (9 turns).
+
+Lannople the Skirmisher (Hill Orc Fighter)             Turns: 9, Time: 00:05:54
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    Okawaru 200 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Okay, then.
+Okay, then.
+Items here: )) [[[
+a scarf of cloud immunity
+the +2 pair of boots of the Catamount {Stlth+}
+a +1 war axe of draining; a +4 battleaxe of electrocution; a +2 scale mail of
+cold resistance
+Okay, then.
+Items here: ((( ))))) [[
+Okay, then.
+Items here: )) [[[
+a scarf of cloud immunity
+the +2 pair of boots of the Catamount {Stlth+}
+a +1 war axe of draining; a +4 battleaxe of electrocution; a +2 scale mail of
+cold resistance
+Okay, then.
+Items here: ( )) [[
+a +5 hunting sling of velocity; a +2 ring mail of poison resistance; a +0 war
+axe of chopping
+the -5 pair of boots of Osimpibb {*Drain rF+ Str+2}
+12 javelins of returning
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+############..##....#.##.#...#...~#....###
+#      #.........#..#.##.########.#......# #
+#      #.####.##....#.##.####.###+####.#.###
+#      #.#  #.###.#.#.##......##..#  #.#....
+#      #.#  #.........##########.##  #.##.##
+#      #.#  #####.#.###        #.#   #.##.##
+###### #.#      #...#        ###.#  ##.##.##
+?....###.####   ##..######   #...#  #..#.#.#
+#..#.##.....#    #..##...##  #.###  #.#.###.
+..##.....##.#    #..#.)...## #.# ####..## ##
+.#(#.##.###.######.........# #.# #....##   #
+.##..##.# #............)...# #.# #.##..## ##
+.#..###.# ######.##.....)..# #.###.##(#.###.
+....# #.#      #.##.#.@[))####.....##.##.#.#
+#.#.###.#      #.##.##.............##.###.##
+#.......#      #.##.##############.##.# ###
+.##.###.#      #.##.#            #.##.#
+#.#.# #.########.##.#            #.##.#
+##..# #.............#           ##.##.####
+#.### #.########.####          ##...#....#
+.##   #.#      #.#             #..#.####.#
+.#    #.#   ####.#             #....#  #.#
+.#### #.#   #....#             #.####  #.#
+....###.#   #.####             #.#     #.#
+..#.....#####.##               #.#     #.#
+...............#               #.#     #.#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Lannople the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Trog the Wrathful
+     0 | D:1      | Reached * piety under Trog
+     0 | D:1      | Reached ** piety under Trog
+     0 | D:1      | Reached *** piety under Trog
+     0 | D:1      | Reached **** piety under Trog
+     0 | D:1      | Reached ***** piety under Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Reached ****** piety under Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     0 | D:1      | Received a gift from Trog
+     1 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Identified the +7 hand crossbow of Malaise {flame, -Tele
+                  | rN+ Int+2 Dex+4} (Trog gifted it to you on level 1 of the
+                  | Dungeon)
+     2 | D:1      | Identified the +2 shortbow of Charity {venom, rElec rC+
+                  | Str+4} (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +7 demon whip of Xann {freeze, rF++} (Trog
+                  | gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +1 dagger of the Little People {pierce,
+                  | rElec Str-5 Int+2} (Trog gifted it to you on level 1 of the
+                  | Dungeon)
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Identified the +6 dagger of Killer Klown's Curse {pierce,
+                  | Dex+2} (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +9 broad axe of Gequ {speed, rF+ Str+4
+                  | Dex+5} (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +3 dire flail of Guile {freeze, rN+ MR++
+                  | Dex-2} (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +9 hand crossbow "Emnetaru" {velocity,
+                  | +Blink Int+5 Stlth-} (Trog gifted it to you on level 1 of
+                  | the Dungeon)
+     2 | D:1      | Identified the +1 broad axe "Qanaucof" {venom, +Rage Dex+4}
+                  | (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +12 spear of Slow Death {protect, Dex+4}
+                  | (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +7 hand axe of Hill Orc's Foe {chop, rElec}
+                  | (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Identified the +12 hunting sling "Furuptog" {venom, rPois
+                  | rF- rC+} (Trog gifted it to you on level 1 of the Dungeon)
+     2 | D:1      | Received a gift from Trog
+     2 | D:1      | Fell from the grace of Trog
+     2 | D:1      | Became a worshipper of Warmaster Okawaru
+     3 | D:1      | Reached * piety under Okawaru
+     3 | D:1      | Reached ** piety under Okawaru
+     3 | D:1      | Reached *** piety under Okawaru
+     3 | D:1      | Reached **** piety under Okawaru
+     3 | D:1      | Reached ***** piety under Okawaru
+     3 | D:1      | Reached ****** piety under Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Identified the +3 great sword "Nepnugar" {antimagic, rElec
+                  | rF+ MR+++ Int-5} (Okawaru gifted it to you on level 1 of
+                  | the Dungeon)
+     3 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Identified the +2 pair of boots of the Catamount {Stlth+}
+                  | (Okawaru gifted it to you on level 1 of the Dungeon)
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Identified the -5 pair of boots of Osimpibb {*Drain rF+
+                  | Str+2} (Okawaru gifted it to you on level 1 of the Dungeon)
+     9 | D:1      | Quit the game
+

@@ -1,0 +1,177 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4010516980524510935
+
+695 Luittost the Intangible (level 7, 8/58 HPs) *WIZ*
+             Began as a Minotaur Berserker on Jan 21, 2020.
+             Was a Follower of Trog.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:40 (42 turns).
+
+Luittost the Intangible (Minotaur Berserker)          Turns: 42, Time: 00:05:40
+
+Health: 8/58       AC:  2    Str: 30    XL:     7   Next: 37%
+Magic:  6/6        EV: 41    Int:  4    God:    Trog 36 (0)
+Gold:   0          SH:  0    Dex: 33    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .   d - +0 executioner's axe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 animal skin
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.19/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Berserk, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe
+ d - a +0 executioner's axe (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.7 Fighting
+ + Level 3.7 Axes
+ + Level 2.6 Armour
+ O Level 27 Dodging
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The seven-headed hydra closely misses you.
+The seven-headed hydra completely misses you.
+You barely miss the seven-headed hydra. You headbutt the seven-headed hydra!
+The seven-headed hydra is heavily wounded.
+The seven-headed hydra misses you. You furiously retaliate! You headbutt the
+seven-headed hydra!
+The seven-headed hydra completely misses you.
+The seven-headed hydra bites you!
+The seven-headed hydra completely misses you.
+The seven-headed hydra bites you.
+* * * LOW HITPOINT WARNING * * *
+The seven-headed hydra misses you. The seven-headed hydra bites you!
+* * * LOW HITPOINT WARNING * * *
+The seven-headed hydra misses you. You furiously retaliate!
+You headbutt the seven-headed hydra, but do no damage.
+The seven-headed hydra misses you.
+The seven-headed hydra barely misses you.
+The seven-headed hydra closely misses you.
+The seven-headed hydra completely misses you. x2
+The seven-headed hydra barely misses you.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #.####........#        ###               #
+  #.#  ####.....# ########(######         ##
+  #.#     #.....###(..#.....#...##        #.
+  #.#     #.....##..}....##..##..#        #.
+  #.#   #######.##.....###..###..# ###### #.
+  #.#   #.>.....###...####+## ##.###....# ##
+###.#####..####.# #######+##   ##.#.=#..###.
+#..........#....#    ##...###   ##..##...###
+########...#....#  ###..#...#    #.#...### #
+       #...#....#  #...###..##   ####.###  #
+       #...#....#  #..#####..##  ##.....## #
+       #........#  ##...####..# ##[......###
+       #..##....#  #.%...#.#..# #...###...#+
+       #........#  #..@..##..####..## ##..$.
+       ##.#####.#  ##D..##...###.?.## ##..#.
+        #.#.....#   ########..#.....###...##
+        #.##.#..#          ##....#.......###
+        #.##.#..#           ###.###.....###.
+        #.##.#..#    ###    ##+## ###..###..
+        #.##.#..######.##   #+##   #...###.#
+        #$##.#..##...#..#####..#####....#..#
+        #.##.#..#..}.......#...##.###...##..
+        #(##.#..#.....###...##...###..#####.
+        #.##.#..##...## ####.###...#.##   ##
+      ###.##.#..######     ### ###..##
+      #......#..############################
+
+
+You could see a seven-headed hydra.
+
+Vanquished Creatures
+  A hydra (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Luittost the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Noticed an eight-headed hydra
+     3 | D:1      | Slain by an eight-headed hydra (17 damage)
+     4 | D:1      | Mangled by an eight-headed hydra (14 damage)
+     6 | D:1      | Mangled by an eight-headed hydra (15 damage)
+     7 | D:1      | Mangled by an eight-headed hydra (12 damage)
+    11 | D:1      | Slain by an eight-headed hydra (10 damage)
+    12 | D:1      | Mangled by an eight-headed hydra (14 damage)
+    14 | D:1      | Mangled by an eight-headed hydra (15 damage)
+    15 | D:1      | Slain by an eight-headed hydra (18 damage)
+    16 | D:1      | Slain by an eight-headed hydra (12 damage)
+    18 | D:1      | Demolished by an eight-headed hydra (16 damage)
+    20 | D:1      | Mangled by an eight-headed hydra (9 damage)
+    21 | D:1      | Mangled by an eight-headed hydra (11 damage)
+    23 | D:1      | Slain by an eight-headed hydra (16 damage)
+    24 | D:1      | Slain by an eight-headed hydra (10 damage)
+    29 | D:1      | Mangled by a nine-headed hydra (15 damage)
+    31 | D:1      | Mangled by a ten-headed hydra (11 damage)
+    32 | D:1      | Slain by a ten-headed hydra (14 damage)
+    34 | D:1      | Slain by a ten-headed hydra (4 damage)
+    36 | D:1      | Killed an 11-headed hydra
+    36 | D:1      | Reached XP level 2. HP: 14/27 MP: 1/1
+    36 | D:1      | Reached XP level 3. HP: 18/33 MP: 2/2
+    36 | D:1      | Reached XP level 4. HP: 22/40 MP: 3/3
+    36 | D:1      | Reached XP level 5. HP: 25/46 MP: 4/4
+    36 | D:1      | Reached XP level 6. HP: 28/52 MP: 5/5
+    36 | D:1      | Reached XP level 7. HP: 32/58 MP: 6/6
+    37 | D:1      | Noticed a five-headed hydra
+    42 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Executioner's axe |     9 |       |     4 ||    13
+       Headbutt          |     2 |       |     1 ||     3
+Armor: Animal skin       |     2 |       |       ||     2
+Dodge: Dodged            |   278 |       |    41 ||   319
+

@@ -1,0 +1,198 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8344171246896193480
+
+Borif the Shield-Bearer (Gnoll Fighter)                Turns: 2, Time: 00:00:41
+
+Health: 31/31      AC:  7    Str: 18    XL:     2   Next: 0%
+Magic:  1/5        EV:  9    Int: 10    God:    No God 0 (0)
+Gold:   0          SH: 10    Dex: 14    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.10/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You are on level 1 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ e - 11 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 7.0 Fighting
+ + Level 2.3 Short Blades
+ + Level 5.1 Long Blades
+ + Level 2.3 Axes
+ + Level 2.3 Maces & Flails
+ + Level 2.3 Polearms
+ + Level 2.3 Staves
+ + Level 2.3 Slings
+ + Level 2.3 Bows
+ + Level 2.3 Crossbows
+ + Level 2.3 Throwing
+ + Level 7.0 Armour
+ + Level 2.3 Dodging
+ + Level 2.3 Stealth
+ + Level 7.0 Shields
+ + Level 2.3 Unarmed Combat
+ + Level 2.3 Spellcasting
+ + Level 1.8 Conjurations
+ + Level 1.8 Hexes
+ + Level 1.8 Charms
+ + Level 1.8 Summonings
+ + Level 1.8 Necromancy
+ + Level 1.8 Translocations
+ + Level 1.8 Transmutations
+ + Level 1.8 Fire Magic
+ + Level 1.8 Ice Magic
+ + Level 1.8 Air Magic
+ + Level 1.8 Earth Magic
+ + Level 1.8 Poison Magic
+ + Level 2.5 Invocations
+ + Level 2.3 Evocations
+
+
+You have 5 spell levels left.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Your Armour skill increases to level 7!
+Your Dodging skill gained 2 levels and is now at level 2!
+Your Stealth skill gained 2 levels and is now at level 2!
+Your Shields skill increases to level 7!
+Your Unarmed Combat skill gained 2 levels and is now at level 2!
+Your Spellcasting skill gained 2 levels and is now at level 2!
+Your Conjurations skill increases to level 1!
+Your Hexes skill increases to level 1! Your Charms skill increases to level 1!
+Your Summonings skill increases to level 1!
+Your Necromancy skill increases to level 1!
+Your Translocations skill increases to level 1!
+Your Transmutations skill increases to level 1!
+Your Fire Magic skill increases to level 1!
+Your Ice Magic skill increases to level 1!
+Your Air Magic skill increases to level 1!
+Your Earth Magic skill increases to level 1!
+Your Poison Magic skill increases to level 1!
+Your Invocations skill gained 2 levels and is now at level 2!
+Your Evocations skill gained 2 levels and is now at level 2!
+You have reached level 2!
+
+############
+#~~~~~~~~~~.
+#~~~~~~~~...
+#~~~~~....~.
+#~~~~...~~~.
+#~~....~~~.~
+#~~.@.~~~~~~
+#~~....~~.~~
+#~~~~(..~~~~
+#~~~~~.....~
+#~~~~~~~~...
+#~~~~~~~~~~#
+############
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Borif the Gnoll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 23/23 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Long Blades
+     1 | D:1      | Reached skill level 1 in Conjurations
+     1 | D:1      | Reached skill level 1 in Hexes
+     1 | D:1      | Reached skill level 1 in Charms
+     1 | D:1      | Reached skill level 1 in Summonings
+     1 | D:1      | Reached skill level 1 in Necromancy
+     1 | D:1      | Reached skill level 1 in Translocations
+     1 | D:1      | Reached skill level 1 in Transmutations
+     1 | D:1      | Reached skill level 1 in Fire Magic
+     1 | D:1      | Reached skill level 1 in Ice Magic
+     1 | D:1      | Reached skill level 1 in Air Magic
+     1 | D:1      | Reached skill level 1 in Earth Magic
+     1 | D:1      | Reached skill level 1 in Poison Magic
+     1 | D:1      | Reached XP level 2. HP: 31/31 MP: 1/5
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       |  7 |  7.0
+Short Blades   |  2 |  2.3
+Long Blades    |  5 |  5.1
+Axes           |  2 |  2.3
+Maces & Flails |  2 |  2.3
+Polearms       |  2 |  2.3
+Staves         |  2 |  2.3
+Slings         |  2 |  2.3
+Bows           |  2 |  2.3
+Crossbows      |  2 |  2.3
+Throwing       |  2 |  2.3
+Armour         |  7 |  7.0
+Dodging        |  2 |  2.3
+Stealth        |  2 |  2.3
+Shields        |  7 |  7.0
+Unarmed Combat |  2 |  2.3
+Spellcasting   |  2 |  2.3
+Conjurations   |  1 |  1.8
+Hexes          |  1 |  1.8
+Charms         |  1 |  1.8
+Summonings     |  1 |  1.8
+Necromancy     |  1 |  1.8
+Translocations |  1 |  1.8
+Transmutations |  1 |  1.8
+Fire Magic     |  1 |  1.8
+Ice Magic      |  1 |  1.8
+Air Magic      |  1 |  1.8
+Earth Magic    |  1 |  1.8
+Poison Magic   |  1 |  1.8
+Invocations    |  2 |  2.5
+Evocations     |  2 |  2.3
+
+Action                   || total
+-------------------------++-------
+  Use: Potion            ||     1
+

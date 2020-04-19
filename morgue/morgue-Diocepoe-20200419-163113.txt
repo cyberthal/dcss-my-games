@@ -1,0 +1,518 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8362911869518004740
+
+610894 Diocepoe the Axe Maniac (level 27, 273/273 HPs) *WIZ*
+             Began as a Minotaur Fighter on Apr 19, 2020.
+             Was an Initiate of Uskayaw.
+             Quit the game in the Ecumenical Temple.
+             The game lasted 00:20:37 (9650 turns).
+
+Diocepoe the Axe Maniac (Minotaur Fighter)          Turns: 9650, Time: 00:20:38
+
+Health: 273/273    AC: 37    Str: 24    XL:     27
+Magic:  53/53      EV: 18    Int:  9    God:    Uskayaw 15 (0)
+Gold:   0          SH: 34    Dex: 12    Spells: 80/80 levels left
+
+rFire    + + +     SeeInvis +   e - +9 broad axe (holy)
+rCold    + + .     Gourm    .   l - +8 large shield {AC+3}
+rNeg     + + .     Faith    +   j - +1 crystal plate armour of Soepefre {MR+++ Slay+5 Stlth-}
+rPois    +         Spirit   .   b - -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr}
+rElec    +         Reflect  .   i - -4 cloak of Philately {+Blink rC+ SInv}
+rCorr    +         Harm     .   a - +2 pair of gloves {Str+3}
+rMut     +                      m - +0 pair of boots of the Serpent {Regen+}
+MR       +++++                  c - amulet of the Saviour {Faith rElec rF+++ Str-2 Dex-3}
+Stlth    +.........             h - ring of Gacvehud {Fire +Inv rN+ MR+++ Int-2}
+HPRegen  0.95/turn              k - ring of Wigonu {+Blink rC+ MR- Slay+6}
+MPRegen  0.33/turn
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Renounce Religion, Evoke Blink, Evoke Invisibility
+
+
+You were in the Ecumenical Temple.
+You worshipped Uskayaw.
+Uskayaw was exalted by your worship.
+You were very full.
+
+You visited 4 branches of the dungeon, and saw 4 of its levels.
+You visited Pandemonium 1 time, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ e - a +9 broad axe of holy wrath (weapon)
+Armour
+ a - a +2 pair of gloves of strength (worn)
+ b - the -2 hat of the Alchemist (worn) {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr}
+   (Your wizardly powers created it on level 1 of the Dungeon)   
+   
+   It protects you from fire.
+   It protects you from cold.
+   It insulates you from electricity.
+   It protects you from poison.
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It provides partial protection from all sources of acid and corrosion.
+   It protects you from mutation.
+ i - the -4 cloak of Philately (worn) {+Blink rC+ SInv}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It protects you from cold.
+   It lets you see invisible.
+   It lets you blink.
+ j - the +1 crystal plate armour of Soepefre (worn) {MR+++ Slay+5 Stlth-}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+5).
+   It affects your resistance to hostile enchantments.
+   It makes you less stealthy.
+ l - a +8 large shield of protection (worn)
+ m - the +0 pair of boots of the Serpent (worn) {Regen+}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It increases your rate of regeneration.
+Jewellery
+ c - the amulet of the Saviour (around neck) {Faith rElec rF+++ Str-2 Dex-3}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   It affects your strength (-2).
+   It affects your dexterity (-3).
+   It renders you almost immune to fire.
+   It insulates you from electricity.
+ h - the ring of Gacvehud (left hand) {Fire +Inv rN+ MR+++ Int-2}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   It affects your intelligence (-2).
+   It protects you from fire.
+   It makes you vulnerable to cold.
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It lets you turn invisible.
+ k - the ring of Wigonu (right hand) {+Blink rC+ MR- Slay+6}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of slaying]
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+6).
+   It protects you from cold.
+   It affects your resistance to hostile enchantments.
+   It lets you blink.
+Scrolls
+ d - 51 scrolls of enchant weapon
+ g - 39 scrolls of acquirement
+ o - 54 scrolls of enchant armour
+Potions
+ n - 34 potions of experience
+ p - 47 potions of mutation
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (1/7) Hell
+    Coc (0/7) Hell            Tar (0/7) Hell        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+Search for what [Enter for "usk", or ? for help]? 
+You kneel at the altar of Uskayaw.
+Enter Wizard Command (? - help): 
+Okay, then.
+You kneel at the altar of Uskayaw.
+You have lost your religion!
+Uskayaw welcomes you back!
+Your amulet flashes!
+Enter Wizard Command (? - help): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+############################################
+############################################
+############################################
+############################################
+###########~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~~~
+###########~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~~~
+###########~~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~~
+###########~~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~~
+###########~~~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~
+###########~~~~~~~~~~~#~~~~~~~~~~~~~~~~~~~~~
+#############~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###########~~##~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+###########~~~~##~~~....#...~~...#...~.~.~..
+###########~~~~~~~~...@.#........#..........
+###########~~~~~~~~##....#....._..#.........
+###########~~~~~~~~..##..#.##.....#....._...
+###########~~~~~~~~....##.#..##....#........
+###########~~~~~~~~.......#....##..#._......
+###########~~~~~~~~........#.....##........#
+###########~~~~~~~~~._.....#....#..##......#
+###########~~~~~~~~.........#._.#....##...#.
+###########~~~~~~~~~........#....#.....##.#.
+###########~~~~~~~~..........#...#.......#..
+###########~~~~~~~~..........#....#.._...#..
+###########~~~~~~~~....##.._..#...#.......##
+###########~~~~~~~~..##..#....#....#....##..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A profane servitor (Abyss:5)
+  17 Brimstone Fiends (Geh:1)
+  3 liches
+  An Ice Fiend (Geh:1)
+  3 eldritch tentacles (Geh:1)
+  A tentacled starspawn (Abyss:5)
+  A shadow dragon (Abyss:5)
+  A draconian monk (Abyss:5)
+  2 balrugs (Geh:1)
+  A draconian shifter (Abyss:5)
+  3 reapers
+  A very ugly thing (Abyss:5)
+  2 blizzard demons (Abyss:5)
+  3 lorocyprocas (Abyss:5)
+  A green death (Abyss:5)
+  2 quicksilver dragon zombies (Geh:1)
+  A rakshasa (Abyss:5)
+  A satyr (Abyss:5)
+  18 hell hogs (Geh:1)
+  A titan zombie (Geh:1)
+  An iron golem (Geh:1)
+  4 thrashing horrors (Abyss:5)
+  2 wretched stars (Abyss:5)
+  A storm dragon zombie (Geh:1)
+  4 titan skeletons (Geh:1)
+  6 sun demons
+  A sixfirhy (Abyss:5)
+  A flayed ghost (Geh:1)
+  A spatial maelstrom (Abyss:5)
+  A shadow dragon zombie (Geh:1)
+  An anaconda zombie (Geh:1)
+  2 golden dragon skeletons (Geh:1)
+  2 iron dragon zombies (Geh:1)
+  2 anaconda skeletons (Geh:1)
+  2 draconians (Abyss:5)
+  A worldbinder (Abyss:5)
+  2 frost giant zombies (Geh:1)
+  A fire giant zombie (Geh:1)
+  2 iron dragon skeletons (Geh:1)
+  An apocalypse crab (Abyss:5)
+  A frost giant skeleton (Geh:1)
+  A stone giant skeleton (Geh:1)
+  3 rust devils
+  2 fire giant skeletons (Geh:1)
+  A guardian serpent (Abyss:5)
+  3 smoke demons (Abyss:5)
+  2 efreet (Abyss:5)
+  2 dire elephant skeletons (Geh:1)
+  12 hellions
+  13 red devils (Geh:1)
+  A freezing wraith (Abyss:5)
+  6 tormentors (Geh:1)
+  An ancient zyme (Abyss:5)
+  A hellwing (Abyss:5)
+  A harpy zombie (Geh:1)
+  A hydra zombie (Geh:1)
+  A hydra skeleton (Geh:1)
+  A shadow dragon simulacrum (Abyss:5)
+  A harpy skeleton (Geh:1)
+  10 flying skulls (Geh:1)
+  An ettin zombie (Geh:1)
+  An ice dragon skeleton (Geh:1)
+  9 shadows (Geh:1)
+  2 fire dragon skeletons (Geh:1)
+  2 fire bats (Geh:1)
+  A fire elemental (Abyss:5)
+  5 wraiths (Geh:1)
+  3 neqoxecs (Abyss:5)
+  A chaos spawn (Abyss:5)
+  6 spatial vortices
+  11 large abominations (Abyss:5)
+  10 hell hounds
+  A snapping turtle zombie (Geh:1)
+  10 starcursed masses (Abyss:5)
+  A spiny frog skeleton (Geh:1)
+  2 swamp dragon zombies (Geh:1)
+  10 necrophages (Geh:1)
+  6 phantoms (Geh:1)
+  A manticore skeleton (Geh:1)
+  2 snapping turtle skeletons (Geh:1)
+  A spriggan skeleton (Geh:1)
+  25 wights (Geh:1)
+  3 crimson imps (Geh:1)
+  2 fire vortices (Geh:1)
+  A lurking horror (Abyss:5)
+283 creatures vanquished.
+
+Vanquished Creatures (others)
+  A small abomination (Abyss:5)
+  A wight (Geh:1)
+  2 starspawn tentacles (Abyss:5)
+4 creatures vanquished.
+
+Grand Total: 287 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Diocepoe the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+    15 | D:1      | Found the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+
+                  | MR+ rMut rCorr}
+    53 | D:1      | Found the +0 mask of the Dragon {MR+ Slay+3 SInv}
+    64 | D:1      | Found the +3 warlock's mirror {reflect}
+    74 | D:1      | Found the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    77 | D:1      | Found the hat of Pondering
+    77 | D:1      | Found the warlock's mirror
+    77 | D:1      | Found the mask of the Dragon
+    77 | D:1      | Found the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+
+                  | MR+ rMut rCorr}
+    77 | D:1      | Identified 65 scrolls of acquirement
+    77 | D:1      | Identified a +2 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 crystal plate armour of Soepefre {MR+++
+                  | Slay+5 Stlth-} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +8 shield "Nururimi" {Str+2} (You acquired
+                  | it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +2 pair of boots of Boredom {MR+ MP+9} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 buckler "Ecleys" {rElec Int+3 Dex+7
+                  | Slay+3} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 shield of Ytaor {Dex+4} (You acquired it
+                  | on level 1 of the Dungeon)
+    77 | D:1      | Identified the +2 cloak "Ugit" {rF- Str+4} (You acquired it
+                  | on level 1 of the Dungeon)
+    77 | D:1      | Identified the +2 hat of Viewoty {Str+3 SInv} (You acquired
+                  | it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +7 scale mail of Rafa {rElec Regen+} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +0 cloak of Sesae {Int+2 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +0 hat "Wousmioc" {rF+ Str+6 Dex-3 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 buckler of Vehumet's Anger {*Corrode
+                  | *Slow Regen+ Int+5} (You acquired it on level 1 of the
+                  | Dungeon)
+    77 | D:1      | Identified the +0 pair of boots of the Serpent {Regen+}
+                  | (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +0 mask of the Dragon {MR+ Slay+3 SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +3 pair of gloves of Cumep {Int+5} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the -4 cloak of Philately {+Blink rC+ SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +3 hat "Yptalil" {+Inv rCorr Dex-2 Slay+2}
+                  | (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 pair of gloves of Atheism {rElec rC+}
+                  | (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +4 crystal plate armour of the Equinox {MR-
+                  | Str+5} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 pair of boots "Bomonoul" {rElec rPois
+                  | Str+4 Int-2} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 pair of boots of Parisate {Str-4 Int+4}
+                  | (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +3 warlock's mirror {reflect} (You acquired
+                  | it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +0 pair of gloves of the Big Bang {+Inv MR-
+                  | Str-2 Dex+8} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +1 hat of the Dice {Int+2 Dex+4} (You
+                  | acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +4 crystal plate armour of Amorality {Str-2
+                  | SInv Stlth+} (You acquired it on level 1 of the Dungeon)
+    77 | D:1      | Identified the +2 hat "Qoshrik" {MR+} (You acquired it on
+                  | level 1 of the Dungeon)
+    77 | D:1      | Identified the +3 hat of Pondering {ponderous, MR+ MP+10
+                  | Int+5} (You acquired it on level 1 of the Dungeon)
+   157 | D:1      | Found the ring of Shadows {Umbra +Inv Stlth+}
+   165 | D:1      | Identified the ring of Laaly {rElec rPois Str+4 Slay+3
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring "Dytadd" {SInv Stlth+} (You acquired it
+                  | on level 1 of the Dungeon)
+   165 | D:1      | Identified the amulet of Kusuot {+Rage rF+ rN+} (You
+                  | acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring "Heha" {Str+3 Int+4 Slay+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring of Wigonu {+Blink rC+ MR- Slay+6} (You
+                  | acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the amulet "Waicoxt" {RegenMP Str+4 Dex-2
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the amulet "Cocroet" {RegenMP rElec rPois Int-3
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring of Gacvehud {Fire +Inv rN+ MR+++ Int-2}
+                  | (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring "Jorib" {rPois MP+9 Int+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the amulet of the Saviour {Faith rElec rF+++
+                  | Str-2 Dex-3} (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring of Jiepuanu {Str+6 Dex+2} (You acquired
+                  | it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring of Senn {Ice rPois Dex-2 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring of Trepidation {rElec rPois Str+2 SInv}
+                  | (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring "Lief" {rPois rF+ MR+ Str+3 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   165 | D:1      | Identified the ring "Giliphyrch" {rC+ EV+1 Dex+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   171 | D:1      | Reached XP level 2. HP: 69/69 MP: 19/29
+   172 | D:1      | Reached XP level 3. HP: 77/77 MP: 19/30
+   174 | D:1      | Reached XP level 4. HP: 85/85 MP: 21/32
+   175 | D:1      | Reached XP level 5. HP: 93/93 MP: 21/33
+   176 | D:1      | Reached XP level 6. HP: 102/102 MP: 22/35
+   177 | D:1      | Reached XP level 7. HP: 110/110 MP: 23/36
+   178 | D:1      | Reached XP level 8. HP: 118/118 MP: 24/38
+   179 | D:1      | Reached XP level 9. HP: 126/126 MP: 24/39
+   180 | D:1      | Reached XP level 10. HP: 135/135 MP: 24/40
+   181 | D:1      | Reached XP level 11. HP: 143/143 MP: 25/41
+   182 | D:1      | Reached XP level 12. HP: 151/151 MP: 25/42
+   183 | D:1      | Reached XP level 13. HP: 159/159 MP: 25/43
+   184 | D:1      | Reached XP level 14. HP: 168/168 MP: 25/44
+   185 | D:1      | Reached XP level 15. HP: 174/174 MP: 26/45
+   186 | D:1      | Reached XP level 16. HP: 183/183 MP: 26/46
+   187 | D:1      | Reached XP level 17. HP: 191/191 MP: 26/47
+   188 | D:1      | Reached XP level 18. HP: 200/200 MP: 27/48
+   189 | D:1      | Reached XP level 19. HP: 207/207 MP: 27/49
+   190 | D:1      | Reached XP level 20. HP: 216/216 MP: 27/50
+   191 | D:1      | Reached XP level 21. HP: 224/224 MP: 28/51
+   192 | D:1      | Reached XP level 22. HP: 233/233 MP: 28/52
+   193 | D:1      | Reached XP level 23. HP: 240/240 MP: 28/53
+   194 | D:1      | Reached XP level 24. HP: 249/249 MP: 29/53
+   195 | D:1      | Reached XP level 25. HP: 257/257 MP: 29/53
+   196 | D:1      | Reached XP level 26. HP: 266/266 MP: 29/53
+   197 | D:1      | Reached XP level 27. HP: 273/273 MP: 30/53
+   217 | D:1      | Became a worshipper of Uskayaw the Reveler
+   217 | D:1      | Fell from the grace of Uskayaw
+   217 | D:1      | Became a worshipper of Zin the Law-Giver
+   217 | D:1      | Reached * piety under Zin
+   217 | D:1      | Reached ** piety under Zin
+   217 | D:1      | Reached *** piety under Zin
+   217 | D:1      | Reached **** piety under Zin
+   217 | D:1      | Reached ***** piety under Zin
+   217 | D:1      | Reached ****** piety under Zin
+   217 | Hell     | Entered the Vestibule of Hell
+   217 | Hell     | Noticed Geryon
+   217 | Hell     | Found a gateway to the ashen valley of Gehenna.
+   217 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+   217 | Hell     | Found a gateway to the Iron City of Dis.
+   217 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+   218 | Geh:1    | Entered Level 1 of Gehenna
+   218 | Geh:1    | Found a gateway to Hell.
+   519 | Geh:1    | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [mutagenic glow]
+   570 | Geh:1    | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [potion of mutation]
+  4400 | Geh:1    | Paralysed by the fury of Uskayaw for 6 turns
+  9225 | Temple   | Entered the Ecumenical Temple
+  9257 | Pan      | Entered Pandemonium
+  9257 | Abyss:5  | Entered Level 5 of the Abyss
+  9257 | Abyss:5  | Entered Level 5 of the Abyss
+  9257 | Abyss:5  | Entered Level 5 of the Abyss
+  9545 | Abyss:5  | Found a transporter.
+  9590 | Abyss:5  | Found a transporter.
+  9649 | Temple   | Fell from the grace of Zin
+  9649 | Temple   | Became a worshipper of Uskayaw the Reveler
+  9650 | Temple   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Broad axe         |       |       |       |       |       |       |       |       |   542 ||   542
+       Headbutt          |       |       |       |       |       |       |       |       |   122 ||   122
+  Use: Scroll            |    81 |       |       |       |       |       |       |       |    15 ||    96
+       Potion            |     4 |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     3 ||    28
+ Stab: Distracted        |       |       |       |       |       |       |       |       |     2 ||     2
+Armor: Crystal plate arm |       |       |       |       |       |       |       |       |    78 ||    78
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    73 ||    73
+Block: Large shield      |       |       |       |       |       |       |       |       |   398 ||   398
+

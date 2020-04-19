@@ -1,0 +1,193 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11599568039190790045
+
+574622 Vigomu the Conqueror (level 27, 152/174 HPs) *WIZ*
+             Began as a Spriggan Arcane Marksman on Jan 24, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:11 (18 turns).
+
+Vigomu the Conqueror (Spriggan Arcane Marksman)       Turns: 18, Time: 00:04:12
+
+Health: 152/174    AC:  4    Str:  6    XL:     27
+Magic:  9/55       EV: 39    Int: 14    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +   a - +0 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++++.                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.39/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+Armour
+ e - a +0 robe (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            76 (90)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            76 (100)     0%          2    0
+ Inner Flame              Hex/Fire       76 (100)     0%          3    0
+ Portal Projectile        Hex/Tloc       50 (50)      0%          3    0
+ Cause Fear               Hex            76 (200)     0%          4    0
+ Leda's Liquefaction      Hex/Erth       76 (200)     0%          4    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+The harpy completely misses you. The harpy closely misses you.
+The harpy completely misses you. x2
+The harpy completely misses you. x5; The harpy misses you.
+The harpy completely misses you. x2
+The harpy barely misses you. The harpy misses you.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+The harpy completely misses you. x2
+The harpy completely misses you. The harpy closely misses you.
+The harpy completely misses you. The harpy claws you! The harpy completely
+misses you. x3; The harpy closely misses you.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #####
+##@..##
+#..H..#
+##...##
+ ##.##
+  #..
+  #...
+  ####
+
+
+You could see a harpy.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Vigomu the Spriggan Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 44/44 MP: 3/31
+     1 | D:1      | Reached XP level 3. HP: 49/49 MP: 3/32
+     1 | D:1      | Reached XP level 4. HP: 54/54 MP: 3/34
+     1 | D:1      | Reached XP level 5. HP: 59/59 MP: 3/35
+     1 | D:1      | Reached XP level 6. HP: 65/65 MP: 3/37
+     1 | D:1      | Reached XP level 7. HP: 70/70 MP: 3/38
+     1 | D:1      | Reached XP level 8. HP: 75/75 MP: 3/40
+     1 | D:1      | Reached XP level 9. HP: 80/80 MP: 3/41
+     1 | D:1      | Reached XP level 10. HP: 86/86 MP: 3/42
+     1 | D:1      | Reached XP level 11. HP: 91/91 MP: 3/43
+     1 | D:1      | Reached XP level 12. HP: 96/96 MP: 3/44
+     1 | D:1      | Reached XP level 13. HP: 101/101 MP: 3/45
+     1 | D:1      | Reached XP level 14. HP: 107/107 MP: 3/46
+     1 | D:1      | Reached XP level 15. HP: 111/111 MP: 3/47
+     1 | D:1      | Reached XP level 16. HP: 116/116 MP: 3/48
+     1 | D:1      | Reached XP level 17. HP: 121/121 MP: 3/49
+     1 | D:1      | Reached XP level 18. HP: 127/127 MP: 3/50
+     1 | D:1      | Reached XP level 19. HP: 132/132 MP: 3/51
+     1 | D:1      | Reached XP level 20. HP: 137/137 MP: 3/52
+     1 | D:1      | Reached XP level 21. HP: 142/142 MP: 3/53
+     1 | D:1      | Reached XP level 22. HP: 148/148 MP: 3/54
+     1 | D:1      | Reached XP level 23. HP: 153/153 MP: 3/55
+     1 | D:1      | Reached XP level 24. HP: 158/158 MP: 3/55
+     1 | D:1      | Reached XP level 25. HP: 163/163 MP: 3/55
+     1 | D:1      | Reached XP level 26. HP: 169/169 MP: 3/55
+     1 | D:1      | Reached XP level 27. HP: 174/174 MP: 3/55
+    18 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Hunting sling     |       |       |       |       |       |       |       |       |     3 ||     3
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    41 ||    41
+

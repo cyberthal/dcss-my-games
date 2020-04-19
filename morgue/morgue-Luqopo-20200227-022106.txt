@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17932110417634305300
+
+0 Luqopo the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Feb 27, 2020.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:03:55 (13 turns).
+
+Luqopo the Skirmisher (Hill Orc Fighter)              Turns: 13, Time: 00:03:55
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Message History
+
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found 3 scrolls of identify and a robe. Found a stone
+staircase leading down.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You climb downwards.
+You hear the hiss of flowing sand.
+There is an entrance to an ossuary on this level. Hurry and find it before the
+portal is buried!
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+Found 14 gold pieces.
+There is a stone staircase leading up here.
+The frilled lizard barely misses you.
+You climb upwards.
+There is a stone staircase leading down here.
+You hit the frilled lizard.
+The frilled lizard is heavily wounded.
+The frilled lizard closely misses you.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..###################..#########     #.#
+...###########.............#        ##.##
+...............###########.#       ##..<##
+...#############         #.#       #.....#
+#.##                     #.#       #.....#
+..#############          #.#       #.....#
+......?..<.>..#          #.#       #....##
+..###########.#          #.#       #.####
+#.#         #.#          #(#       #.#
+#.###########.#######    #.#       #.#
+....................#    #.#       #.#
+#############.#####.######.#       #.#
+            #.#  #[..@l....#       #.#
+            #.#  #..########       #.#
+            #.#  #..#              #.#
+            #.####..################.#
+            #.......[................#
+            ##########################
+
+
+You could see a frilled lizard.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Luqopo the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+    13 | D:3      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||     1
+Dodge: Dodged            ||     2
+

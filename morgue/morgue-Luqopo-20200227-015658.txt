@@ -1,0 +1,187 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4717250953227742543
+
+526951 Luqopo the Conqueror (level 27, 239/273 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Feb 27, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:04:34 (21 turns).
+
+Luqopo the Conqueror (Hill Orc Fighter)               Turns: 21, Time: 00:04:35
+
+Health: 239/273    AC: 13    Str: 18    XL:     27
+Magic:  8/54       EV: 22    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex: 10    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++++.                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.55/turn              e - ring of protection from magic
+MPRegen  0.34/turn              g - ring of protection from magic
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Jewellery
+ e - a ring of protection from magic (left hand)
+ g - a ring of protection from magic (right hand)
+ h - an uncursed ring of magical power
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+You shout for attention!
+The deep elf demonologist mumbles some strange words.
+The deep elf demonologist completely misses you.
+Move monster to where?
+Press: ? - help, Shift-Dir - straight line
+You block the hell beast's attack.
+The hell beast tramples you but does no damage.
+The deep elf demonologist mumbles some strange words.
+You block the hell beast's attack. x2
+You climb upwards.
+There is a stone staircase leading down here.
+The deep elf demonologist gestures wildly while chanting.
+The deep elf demonologist gestures wildly while chanting.
+The Hell Sentinel gestures at you.
+The sphere of damnation explodes! The damnation engulfs you!!
+The damnation engulfs the Hell Sentinel.
+The Hell Sentinel completely resists.
+You climb downwards. You block the hell beast's attack. The hell beast barely
+misses you. You block the hell beast's attack. The hell beast completely misses
+you.
+There is a stone staircase leading up here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..#
+#.#
+.3#
+#.#
+#e#
+#3#
+#.#
+#@#
+#2#
+#.#
+#.#
+#.#
+#.#
+#.#
+#.#
+
+
+You could see a hell beast, a soul eater, a deep elf demonologist and a smoke
+demon.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Luqopo the Hill Orc Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 69/69 MP: 1/30
+     0 | D:1      | Reached XP level 3. HP: 77/77 MP: 1/31
+     0 | D:1      | Reached XP level 4. HP: 85/85 MP: 1/33
+     0 | D:1      | Reached XP level 5. HP: 93/93 MP: 1/34
+     0 | D:1      | Reached XP level 6. HP: 102/102 MP: 1/36
+     0 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/37
+     0 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/39
+     0 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/40
+     0 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/41
+     0 | D:1      | Reached XP level 11. HP: 143/143 MP: 1/42
+     0 | D:1      | Reached XP level 12. HP: 151/151 MP: 1/43
+     0 | D:1      | Reached XP level 13. HP: 159/159 MP: 1/44
+     0 | D:1      | Reached XP level 14. HP: 168/168 MP: 1/45
+     0 | D:1      | Reached XP level 15. HP: 174/174 MP: 1/46
+     0 | D:1      | Reached XP level 16. HP: 183/183 MP: 1/47
+     0 | D:1      | Reached XP level 17. HP: 191/191 MP: 1/48
+     0 | D:1      | Reached XP level 18. HP: 200/200 MP: 1/49
+     0 | D:1      | Reached XP level 19. HP: 207/207 MP: 1/50
+     0 | D:1      | Reached XP level 20. HP: 216/216 MP: 1/51
+     0 | D:1      | Reached XP level 21. HP: 224/224 MP: 1/52
+     0 | D:1      | Reached XP level 22. HP: 233/233 MP: 1/53
+     0 | D:1      | Reached XP level 23. HP: 240/240 MP: 1/54
+     0 | D:1      | Reached XP level 24. HP: 249/249 MP: 1/54
+     0 | D:1      | Reached XP level 25. HP: 257/257 MP: 1/54
+     0 | D:1      | Reached XP level 26. HP: 266/266 MP: 1/54
+     0 | D:1      | Reached XP level 27. HP: 273/273 MP: 1/54
+     1 | D:1      | Cast into level 2 of the Abyss (a deep elf demonologist)
+    21 | D:2      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Scale mail        |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     5 ||     5
+Block: Shield            |       |       |       |       |       |       |       |       |     7 ||     7
+

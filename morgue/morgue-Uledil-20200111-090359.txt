@@ -1,0 +1,146 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3440153661364677646
+
+2736 Uledil the Protected (level 10, 88/88 HPs) *WIZ*
+             Began as a Human Fighter on Jan 11, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:11 (10 turns).
+
+Uledil the Protected (Human Fighter)                  Turns: 10, Time: 00:07:11
+
+Health: 88/88      AC:  9    Str: 16    XL:     10   Next: 0%
+Magic:  10/10      EV: 13    Int:  9    God:    No God 0 (0)
+Gold:   0          SH: 11    Dex: 16    Spells: 9/9 levels left
+
+rFire    . . .     SeeInvis .   a - +0 flail
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.24/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ e - 3 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 11.2 Fighting
+ + Level 11.0 Maces & Flails
+ + Level 11.2 Armour
+ - Level 8.0 Dodging
+ + Level 8.0 Shields
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Increased Dodging to skill level 7.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? dod
+Dodging
+To what level? 8
+Increased Dodging to skill level 8.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? shi
+Shields
+To what level? 8
+Increased Shields to skill level 8.0.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.7 |     21 |  76% |   4.4 |    90  |  1.11 |      4.8
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      4.7 |     14 |  35% |   1.7 |   100  |  1.00 |      1.7
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###
+#.#
+#.#
+#@#
+#.#
+#.#
+..#
+###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Uledil the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+     2 | D:1      | Reached skill level 5 in Maces & Flails
+     2 | D:1      | Reached XP level 3. HP: 34/34 MP: 3/3
+     3 | D:1      | Reached XP level 4. HP: 43/43 MP: 4/4
+     4 | D:1      | Reached XP level 5. HP: 51/51 MP: 5/5
+     5 | D:1      | Reached XP level 6. HP: 58/58 MP: 6/6
+     6 | D:1      | Reached XP level 7. HP: 65/65 MP: 7/7
+     7 | D:1      | Reached skill level 10 in Fighting
+     7 | D:1      | Reached skill level 10 in Maces & Flails
+     7 | D:1      | Reached skill level 10 in Armour
+     7 | D:1      | Reached skill level 10 in Shields
+     7 | D:1      | Reached XP level 8. HP: 72/72 MP: 8/8
+     8 | D:1      | Reached XP level 9. HP: 79/79 MP: 9/9
+     9 | D:1      | Reached XP level 10. HP: 88/88 MP: 10/10
+    10 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  4  6  7  8  9    10    11 | 11.2
+Maces & Flails |  4  5  7  8     9 10    11 | 11.0
+Armour         |  4  6  7  8  9    10    11 | 11.2
+Shields        |  4  6  7  8  9    10    11 |  8.0
+Dodging        |                            |  8.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Flail             |       |       |       | 12000 || 12000
+  Use: Potion            |     3 |     3 |     3 |       ||     9
+Armor: Scale mail        |       |       |       |  1705 ||  1705
+Dodge: Dodged            |       |       |       |  2437 ||  2437
+Block: Shield            |       |       |       |  4018 ||  4018
+

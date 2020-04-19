@@ -1,0 +1,379 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5065666364101160999
+
+1451 Acoipn the Shield-Bearer (level 9, 65/65 HPs) *WIZ*
+             Began as a Formicid Earth Elementalist on Oct 22, 2019.
+             Was a Believer of the Shining One.
+             Quit the game on level 5 of the Dungeon on Apr 19, 2020.
+             The game lasted 01:59:19 (8240 turns).
+
+Acoipn the Shield-Bearer (FoEE)                     Turns: 8240, Time: 01:59:19
+
+Health: 65/65      AC:  9    Str: 14    XL:     9   Next: 4%
+Magic:  22/22      EV: 10    Int: 22    God:    the Shining One 63 (0)
+Gold:   184        SH: 10    Dex: 15    Spells: 2/14 levels left
+
+rFire    . . .     SeeInvis +   c - +0 shortbow
+rCold    . . .     Gourm    .   e - +1 shield
+rNeg     + . .     Faith    .   F - +4 ring mail of Totoppi {-Tele rElec Int+5 Dex+4}
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.20/turn              r - ring of magical power
+MPRegen  0.18/turn              g - +3 ring of slaying
+
+@: glowing, studying Necromancy
+A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
+a: Dig, Shaft Self, Divine Shield, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+You also visited: Sewer.
+
+You collected 373 gold pieces.
+You spent 189 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +5 short sword of electrocution
+ b - a +2 trident of freezing
+ c - a +0 shortbow (weapon)
+ d - a +0 hunting sling
+ j - a +4 whip
+Missiles
+ h - 114 stones
+ p - 69 arrows (quivered)
+ t - 3 tomahawks
+ x - 18 bolts
+ A - 34 poisoned needles
+ J - 7 javelins
+Armour
+ e - a +1 shield (worn)
+ F - the +4 ring mail of Totoppi (worn) {-Tele rElec Int+5 Dex+4}
+   (You bought it in a shop on level 5 of the Dungeon)   
+   
+   It affects your intelligence (+5).
+   It affects your dexterity (+4).
+   It insulates you from electricity.
+   It prevents most forms of teleportation.
+Jewellery
+ g - a +3 ring of slaying (right hand)
+ r - a ring of magical power (left hand)
+ y - an uncursed ring of magical power
+ H - an uncursed ring of wizardry
+Wands
+ o - a wand of random effects (27)
+ E - a wand of acid (4)
+Scrolls
+ k - a scroll of noise
+ l - 3 scrolls of remove curse
+ m - 2 scrolls of amnesia
+ n - a scroll of fear
+ z - a scroll of magic mapping
+ I - 2 scrolls of identify
+Potions
+ f - 2 potions of brilliance
+ i - a potion of curing
+ s - a potion of agility
+ u - 2 potions of lignification
+ w - 2 potions of might
+ C - 2 potions of ambrosia
+ D - a potion of flight
+ G - 2 potions of magic
+Books
+ B - a manual of Necromancy
+Comestibles
+ v - 12 rations
+
+
+   Skills:
+ - Level 4.1 Fighting
+ - Level 2.3(2.5) Short Blades
+   Level 1.3(2.0) Long Blades
+   Level 1.0(1.8) Axes
+ - Level 2.4(2.5) Polearms
+ - Level 1.2(1.7) Slings
+ - Level 1.1 Bows
+ - Level 1.7(1.9) Throwing
+ - Level 3.7 Armour
+ - Level 1.7 Dodging
+ - Level 3.1 Stealth
+ - Level 5.3 Shields
+ + Level 3.0 Spellcasting
+ - Level 2.0 Conjurations
+ - Level 2.0 Hexes
+ - Level 1.1 Transmutations
+ - Level 5.0 Earth Magic
+ * Level 1.6 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           12 (25)      24%         1    0
+b - Sandblast             Erth           25 (50)      7%          1    0
+c - Searing Ray           Conj           12 (50)      34%         2    34
+d - Passwall              Tmut/Erth      16 (120)     22%         2    34
+e - Stone Arrow           Conj/Erth      18 (50)      36%         3    84
+f - Dazzling Spray        Conj/Hex       12 (50)      56%         3    84
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Petrify                  Tmut/Erth      16 (100)     83%         4    184
+ Lee's Rapid Deconstruct  Erth           25 (200)     88%         5    334
+ Fulminant Prism          Conj/Hex       12 (200)     93%         4    184
+ Iskenderun's Mystic Bla  Conj           12 (100)     93%         4    184
+ Force Lance              Conj/Tloc      7 (100)      98%         4    184
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Gozag
+Kikubaaqudgha
+Makhleb
+Okawaru
+Ru
+Wu Jian
+The Shining One
+
+Shops:
+D:5 =[
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+Your four strong arms can wield two-handed weapons with a shield.
+You have a pair of large antennae on your head. (SInv)
+
+
+Message History
+
+Cleared annotation.
+Move the cursor to view the level map, or type ? for a list of commands.
+New annotation for D:5 (include '!' for warning): 
+Okay, then.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Current level annotation: get back to Ely
+New annotation for D:6 (include '!' for warning): 
+Cleared annotation. Returning to the game...
+Saving game... please wait.
+Welcome back, Acoipn the Formicid Earth Elementalist.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
+Saving game... please wait.
+Welcome back, Acoipn the Formicid Earth Elementalist.
+The Shining One says: Lead the forces of light to victory!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+*,,,*#.,,##....#...,*      #......
+****##..,,.....*,...*      #......
+    #....*#...#**#.##########...##
+    #....##...####.#..#....##...##
+    #..............[..............
+    #.............................
+    #######.......................
+    ##...##....########....####.##
+    #....##....###...##....#######
+    #................#........#
+    #................#........#
+    ##...#...........'........#
+     #####...@.###...##...##.##
+         #.....###'####...####
+         #......#..........#
+         #......'..........#
+*********##.....#..........#
+*,,,**,,,*#.....#..........#
+*,,,,,,,,.......#..........#
+*,,,,,,,........#..........#
+*,,,,,,,........#..........#
+***+***,.######+####.####.##**
+*,,,*********,,,****.#***+*,,*
+*,,,,,*,<,,*,,,,,,*,,,,,,,,,,*
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Duvessa (D:6)
+  Purgy (Sewer)
+  An ice beast (D:6)
+  An ogre (D:6)
+  2 centaurs
+  Dowan (D:6)
+  2 scorpions
+  A howler monkey (D:5)
+  2 bullfrog zombies
+  5 orc priests
+  A hound (D:4)
+  An iguana (D:4)
+  6 orc wizards
+  4 worker ants
+  2 worker ant zombies
+  6 adders
+  An ooze (D:4)
+  An adder skeleton (D:4)
+  4 worms
+  3 dart slugs
+  5 leopard geckos
+  15 orcs
+  8 bats
+  4 giant cockroaches
+  8 goblins
+  8 hobgoblins
+  3 jackals (D:3)
+  10 kobolds
+  3 quokkas
+  5 ball pythons
+  8 frilled lizards
+  A jackal skeleton (D:5)
+  2 jackal zombies (D:5)
+  2 quokka skeletons (D:4)
+  13 rats
+141 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Acoipn the Formicid Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   453 | D:1      | Reached XP level 2. HP: 20/20 MP: 5/5
+   457 | D:1      | Learned a level 2 spell: Passwall
+   506 | D:1      | Found a glowing golden altar of the Shining One.
+   553 | D:1      | Became a worshipper of the Shining One
+   681 | D:1      | Reached skill level 1 in Fighting
+   773 | D:1      | Reached skill level 1 in Short Blades
+  1138 | D:1      | Reached XP level 3. HP: 26/26 MP: 6/6
+  1806 | D:1      | Entered wizard mode.
+  1939 | D:2      | Found a sacrificial altar of Ru.
+  2559 | D:2      | Reached XP level 4. HP: 33/33 MP: 5/8
+  2569 | D:1      | Learned a level 3 spell: Stone Arrow
+  3195 | D:2      | Reached skill level 1 in Axes
+  3246 | D:2      | Found a burning altar of Makhleb.
+  3246 | D:2      | Noticed a balrug
+  3249 | D:2      | Noticed a smoke demon
+  3249 | D:2      | Noticed a smoke demon
+  3771 | D:3      | Reached skill level 1 in Conjurations
+  4019 | D:3      | Reached XP level 5. HP: 25/38 MP: 2/9
+  4165 | D:3      | Found a shattered altar of Ashenzari.
+  4165 | D:3      | Found an opulent altar of Gozag.
+  4166 | D:3      | Found a white marble altar of Elyvilon.
+  5122 | D:3      | Learned a level 1 spell: Magic Dart
+  5125 | D:3      | Learned a level 2 spell: Searing Ray
+  5151 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  5153 | D:3      | Found an ornate altar of the Wu Jian Council.
+  5153 | D:3      | Found a snail-covered altar of Cheibriados.
+  5218 | D:3      | Reached * piety under the Shining One
+  5486 | D:4      | Reached XP level 6. HP: 44/44 MP: 10/10
+  5647 | D:4      | Reached skill level 1 in Slings
+  5647 | D:4      | Reached skill level 5 in Earth Magic
+  5910 | D:4      | Reached skill level 1 in Polearms
+  5924 | D:4      | Reached skill level 1 in Armour
+  6023 | D:4      | Reached XP level 7. HP: 43/50 MP: 11/11
+  6774 | D:4      | You fall through a shaft for 2 floors!
+  6777 | D:6      | Reached skill level 1 in Long Blades
+  6888 | D:6      | Reached skill level 1 in Evocations
+  6896 | D:6      | Learned a level 3 spell: Dazzling Spray
+  6925 | D:5      | Entered Level 5 of the Dungeon
+  6939 | D:5      | Reached skill level 1 in Hexes
+  6939 | D:5      | Reached XP level 8. HP: 46/58 MP: 12/12
+  7028 | D:5      | Reached ** piety under the Shining One
+  7039 | D:5      | Found Jaseff's Antique Armour Shop.
+  7077 | D:5      | Reached skill level 1 in Bows
+  7227 | D:5      | Bought a steaming ring mail for 189 gold pieces
+  7227 | D:5      | Identified the +4 ring mail of Totoppi {-Tele rElec Int+5
+                  | Dex+4} (You bought it in a shop on level 5 of the Dungeon)
+  7247 | D:5      | You fall through a shaft for 2 floors!
+  7333 | D:7      | Found an iron altar of Okawaru.
+  7441 | D:6      | Found a glowing drain.
+  7441 | D:6      | Noticed Duvessa
+  7441 | D:6      | Noticed Dowan
+  7447 | D:6      | Killed Dowan
+  7447 | D:6      | Reached skill level 1 in Shields
+  7453 | D:6      | Killed Duvessa
+  7453 | D:6      | Reached skill level 1 in Throwing
+  7484 | Sewer    | Entered a sewer
+  7570 | Sewer    | Noticed Purgy
+  7573 | Sewer    | Killed Purgy
+  7786 | D:5      | Found Umnumom's Jewellery Shoppe.
+  7874 | D:5      | Reached XP level 9. HP: 65/65 MP: 13/13
+  7911 | D:5      | Reached skill level 5 in Shields
+  8240 | D:5      | Identified the +4 ring mail of Totoppi {-Tele rElec Int+5
+                  | Dex+4} (You bought it in a shop on level 5 of the Dungeon)
+  8240 | D:5      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Earth Magic    |  4              5          |  5.0
+Fighting       |     1  2           3  4    |  4.1
+Short Blades   |     1                 2    |  2.3
+Axes           |           1                |  1.0
+Spellcasting   |           3                |  3.0
+Conjurations   |           1     2          |  2.0
+Stealth        |           3                |  3.1
+Slings         |                 1          |  1.2
+Polearms       |                 1  2       |  2.4
+Armour         |                 2  3       |  3.7
+Long Blades    |                    1       |  1.3
+Evocations     |                    1       |  1.6
+Hexes          |                    1  2    |  2.0
+Bows           |                       1    |  1.1
+Shields        |                       4  5 |  5.3
+Throwing       |                       1    |  1.7
+Dodging        |                            |  1.7
+Transmutations |                            |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |  4118 |       |       ||  4118
+       Hand axe          |  4033 |  8082 |       || 12115
+       Falchion          |       |  8036 |     7 ||  8043
+       Short sword       |       |  4000 |    30 ||  4030
+       Trident           |       |  8030 |    42 ||  8072
+ Fire: Hunting sling     |       |    40 |    21 ||    61
+       Shortbow          |       |       |    23 ||    23
+ Cast: Sandblast         |     9 |    13 |    24 ||    46
+       Stone Arrow       |       |     3 |    11 ||    14
+       Magic Dart        |       |     1 |     3 ||     4
+       Dazzling Spray    |       |       |     1 ||     1
+Invok: Divine Shield     |       |       |     1 ||     1
+ Abil: Dig               |       |       |    14 ||    14
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Potion            |     2 |       |     3 ||     5
+       Scroll            |     1 |     9 |     4 ||    14
+ Stab: Sleeping          |     1 |       |       ||     1
+  Eat: Chunk             |     5 |     8 |    10 ||    23
+       Ration            |       |     1 |       ||     1
+Armor: Leather armour    |   575 |  1746 |       ||  2321
+       Ring mail         |       |     4 |    28 ||    32
+Dodge: Dodged            |  3774 | 12234 |    34 || 16042
+Block: Shield            |       |       |    19 ||    19
+Rpst.: Falchion          |       |  1139 |     2 ||  1141
+

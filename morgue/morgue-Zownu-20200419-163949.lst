@@ -1,0 +1,263 @@
+Zownu
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(12, 23, D:1)
+  a +0 dagger
+(19, -23, D:1)
+  a +0 whip
+(31, 11, D:1)
+  a +0 club
+(35, 12, D:1)
+  a +0 robe
+(38, -3, D:1)
+  a +0 club
+  a cursed -2 club
+(38, 24, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(3, -14, D:2)
+  a +0 club
+(4, -17, D:2)
+  a +0 mace
+(5, -5, D:2)
+  a +0 dagger
+(11, 1, D:2)
+  a +0 robe
+(14, -33, D:2)
+  a +0 leather armour
+(40, 4, D:2)
+  a +0 robe
+(43, -19, D:2)
+  a +0 club
+  a +0 robe
+(44, -3, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 animal skin
+(3, 19, D:3)
+  a +0 mace
+(16, 9, D:3)
+  a +0 whip
+(16, 17, D:3)
+  a +0 giant club
+(29, 30, D:3)
+  a +0 robe
+(32, 25, D:3)
+  a +0 scale mail
+  a +0 short sword
+(33, 24, D:3)
+  a +0 animal skin
+  a +0 animal skin
+(34, 24, D:3)
+  a +0 club
+(36, 25, D:3)
+  a +0 robe
+  a +0 dagger
+  a +0 club
+  a +0 robe
+  a +0 dagger
+(56, 30, D:3)
+  a +0 whip
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 animal skin
+(13, 6, D:4)
+  a +0 ring mail
+(16, 10, D:4)
+  a +0 dagger
+(16, 13, D:4)
+  a +0 robe
+  a +0 dagger
+(17, 25, D:4)
+  a +0 hand axe
+(21, 27, D:4)
+  a +0 war axe
+(22, 13, D:4)
+  a +0 robe
+(24, 22, D:4)
+  a +0 dagger
+(24, 24, D:4)
+  a +0 leather armour
+(24, 28, D:4)
+  a +0 robe
+  a +0 dagger
+(25, 22, D:4)
+  a +0 robe
+  a +0 dagger
+(26, 29, D:4)
+  a +0 robe
+  a +0 dagger
+(32, -1, D:4)
+  a +0 rapier
+(34, 29, D:4)
+  a +0 robe
+(39, 32, D:4)
+  a +0 hunting sling
+(43, 11, D:4)
+  a +0 giant club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 shortbow
+(7, 35, D:5)
+  a +0 giant club
+(12, 41, D:5)
+  a +0 club
+(14, 20, D:5)
+  a +0 scale mail
+  a +0 flail
+(14, 38, D:5)
+  a +0 club
+(15, 21, D:5)
+  a +0 giant spiked club
+(19, 45, D:5)
+  a +0 hand axe
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+(22, 31, D:5)
+  a +0 short sword
+(25, 43, D:5)
+  a +0 rapier
+  a +0 mace
+(25, 44, D:5)
+  a +0 whip
+  a +0 leather armour
+(35, 21, D:5)
+  a +0 giant club
+(41, -3, D:5)
+  a +0 ring mail
+(42, 13, D:5)
+  a +0 flail
+(43, 14, D:5)
+  a +0 rapier
+(43, 31, D:5)
+  a +0 helmet
+(54, 46, D:5)
+  a +0 flail
+(56, 41, D:5)
+  a +0 whip
+
+Level 6 of the Dungeon
+(5, -6, D:6)
+  a +0 leather armour
+(7, 6, D:6)
+  a +0 scale mail
+  a +0 chain mail
+  a +0 short sword
+(9, 7, D:6)
+  a +0 leather armour
+  a +0 scale mail
+  a +0 plate armour
+(9, 8, D:6)
+  the cursed +0 robe of Ding {Str+4}
+    It affects your strength (+4).
+    It has a curse placed upon it.
+(10, 6, D:6)
+  a +0 hand crossbow
+  a +0 hand axe of venom
+(10, 7, D:6)
+  2 needles of confusion
+  26 bolts
+  a cursed +2 mace
+  a cursed +0 scimitar
+  a +0 falchion
+  a +0 flail
+  a +2 quarterstaff of chaos
+  a +0 scimitar
+  13 sling bullets
+  a +0 spear
+  a +0 dagger
+(10, 12, D:6)
+  a scroll of enchant armour
+(10, 15, D:6)
+  a ration
+(10, 16, D:6)
+  19 gold pieces
+(11, 7, D:6)
+  a +0 quarterstaff
+(12, 6, D:6)
+  a scroll of silence
+  a scroll of enchant weapon
+  a potion of mutation
+  a potion of magic
+  a potion of resistance
+  a scroll of immolation
+  a scroll of remove curse
+(12, 7, D:6)
+  an uncursed staff of power
+  a wand of polymorph (2)
+  a potion of brilliance
+  2 scrolls of amnesia
+(12, 18, D:6)
+  a wand of acid (5)
+(14, 39, D:6)
+  a +0 robe
+  a cursed +0 dagger
+  a +0 robe
+(16, 31, D:6)
+  a +0 robe
+(17, 32, D:6)
+  a cursed +0 robe
+(18, 1, D:6)
+  a +0 ring mail
+(19, 32, D:6)
+  an uncursed amulet of guardian spirit
+(34, 16, D:6)
+  a cursed -3 shortbow
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 shortbow
+(2, -3, D:7)
+  a +0 giant club
+(6, 1, D:7)
+  a +0 mace
+(7, 26, D:7)
+  a +0 giant club
+(9, 31, D:7)
+  a +0 robe
+  a cursed -3 dagger
+(15, 19, D:7)
+  a potion of degeneration
+(15, 36, D:7)
+  a +0 dagger
+(16, 37, D:7)
+  a +0 ring mail
+  a +0 flail
+(17, 23, D:7)
+  a +0 falchion
+(18, 22, D:7)
+  a +0 giant club
+(25, 19, D:7)
+  a +0 dagger
+  a +0 robe
+(27, 37, D:7)
+  a +0 leather armour
+  a +0 quarterstaff
+  a +0 hunting sling
+(28, 21, D:7)
+  a +0 leather armour
+  a +0 dagger
+  a +0 chain mail
+(28, 22, D:7)
+  a +0 falchion
+  a +0 chain mail
+(28, 24, D:7)
+  a +0 flail
+  a +0 leather armour
+(48, 19, D:7)
+  a +0 club
+(51, 35, D:7)
+  a +0 spear
+
+the Ecumenical Temple
+

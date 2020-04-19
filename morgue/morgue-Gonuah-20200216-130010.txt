@@ -1,0 +1,193 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5762977117641453955
+
+574881 Gonuah the Intangible (level 27, 246/323 HPs) *WIZ*
+             Began as a Troll Monk on Feb 16, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:43 (33 turns).
+
+Gonuah the Intangible (Troll Monk)                    Turns: 33, Time: 00:02:44
+
+Health: 246/323    AC:  8    Str: 18    XL:     27
+Magic:  10/53      EV: 25    Int:  6    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  1.03/turn              c - ring of poison resistance
+MPRegen  0.33/turn              (no ring)
+
+@: mildly poisoned (246 -> 160)
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Jewellery
+ c - a ring of poison resistance (left claw)
+Comestibles
+ b - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+c - an uncursed ring of poison resistance
+Put on which piece of jewellery? (? for menu, Esc to quit)
+c - a ring of poison resistance (left claw)
+Enter Wizard Command (? - help): 
+You allow the flow of time to resume.
+You feel extremely sick.
+You feel extremely sick.
+You feel extremely sick.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+Okay, then.
+You remove your ring of poison resistance.
+You feel very sick.
+You feel extremely sick.
+You feel extremely sick.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+c - a ring of poison resistance (left claw)
+You feel very sick.
+You feel extremely sick.
+You feel extremely sick.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #
+   !       #
+# ##.     .##
+#.#..#####..##
+#...#.....#$$#
+#..#.......#..#
+  #....@....#
+#..#....)..#...
+ #..#.....#..#
+ ##..#####..##
+  ##.     .##
+   #       #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A black sun (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gonuah the Troll Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 81/81 MP: 0/29
+     0 | D:1      | Reached XP level 3. HP: 91/91 MP: 0/30
+     0 | D:1      | Reached XP level 4. HP: 101/101 MP: 0/32
+     0 | D:1      | Reached XP level 5. HP: 110/110 MP: 0/33
+     0 | D:1      | Reached XP level 6. HP: 120/120 MP: 0/35
+     0 | D:1      | Reached XP level 7. HP: 130/130 MP: 0/36
+     0 | D:1      | Reached XP level 8. HP: 140/140 MP: 0/38
+     0 | D:1      | Reached XP level 9. HP: 149/149 MP: 0/39
+     0 | D:1      | Reached XP level 10. HP: 159/159 MP: 0/40
+     0 | D:1      | Reached XP level 11. HP: 169/169 MP: 0/41
+     0 | D:1      | Reached XP level 12. HP: 179/179 MP: 0/42
+     0 | D:1      | Reached XP level 13. HP: 188/188 MP: 0/43
+     0 | D:1      | Reached XP level 14. HP: 198/198 MP: 0/44
+     0 | D:1      | Reached XP level 15. HP: 206/206 MP: 0/45
+     0 | D:1      | Reached XP level 16. HP: 217/217 MP: 0/46
+     0 | D:1      | Reached XP level 17. HP: 226/226 MP: 0/47
+     0 | D:1      | Reached XP level 18. HP: 236/236 MP: 0/48
+     0 | D:1      | Reached XP level 19. HP: 245/245 MP: 0/49
+     0 | D:1      | Reached XP level 20. HP: 256/256 MP: 0/50
+     0 | D:1      | Reached XP level 21. HP: 265/265 MP: 0/51
+     0 | D:1      | Reached XP level 22. HP: 275/275 MP: 0/52
+     0 | D:1      | Reached XP level 23. HP: 284/284 MP: 0/53
+     0 | D:1      | Reached XP level 24. HP: 295/295 MP: 0/53
+     0 | D:1      | Reached XP level 25. HP: 304/304 MP: 0/53
+     0 | D:1      | Reached XP level 26. HP: 314/314 MP: 0/53
+     0 | D:1      | Reached XP level 27. HP: 323/323 MP: 0/53
+    11 | D:1      | HP: 16/323 [black mamba (1)]
+    11 | D:1      | HP: 4/323 [black mamba (12)]
+    11 | D:1      | Slain by a black mamba (6 damage)
+    22 | D:1      | HP: 15/323 [poisoned by a black mamba]
+    23 | D:1      | HP: 6/323 [poisoned by a black mamba]
+    23 | D:1      | Slain by a black mamba (6 damage)
+    33 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Robe              |       |       |       |       |       |       |       |       |    10 ||    10
+Dodge: Dodged            |       |       |       |       |       |       |       |       |   175 ||   175
+

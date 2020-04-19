@@ -1,0 +1,407 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 202513765005175764
+
+2795 Curuzumu the Agent of Entropy (level 9, 68/68 HPs) *WIZ*
+             Began as a Demonspawn Abyssal Knight on Sept 13, 2019.
+             Was a Priest of Lugonu.
+             Quit the game on level 8 of the Dungeon on Apr 19, 2020.
+             The game lasted 02:37:16 (14700 turns).
+
+Curuzumu the Agent of Entropy (DsAK)               Turns: 14700, Time: 02:37:16
+
+Health: 68/68      AC: 13    Str: 16    XL:     9   Next: 43%
+Magic:  15/15      EV:  5    Int: 14    God:    Lugonu 80 (0)
+Gold:   164        SH: 11    Dex: 12    Spells: 7/8 levels left
+
+rFire    . . .     SeeInvis .   c - +0 long sword (protect)
+rCold    + . .     Gourm    .   z - +2 shield
+rNeg     . . .     Faith    .   J - +0 chain mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   P - +0 cloak (curse)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.21/turn              v - ring of protection from cold
+MPRegen  0.14/turn              (no ring)
+
+@: no status effects
+A: antennae 2, icy blue scales 2, demonic guardian 1, mutation resistance 1,
+screaming 1
+a: Depart the Abyss, Bend Space, Banish, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was most pleased with you.
+You were hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You visited the Abyss 1 time.
+
+You collected 367 gold pieces.
+You spent 203 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 dagger of venom
+ b - a +1 falchion
+ c - a +0 long sword of protection (weapon)
+ d - a +2 whip of electrocution
+ e - a +3 whip
+ f - a +0 morningstar
+ g - a +0 hand axe
+ h - a +0 war axe
+ i - a +0 spear
+ j - a +0 trident
+ k - a +0 hunting sling
+Missiles
+ m - 299 stones (quivered)
+ q - 59 sling bullets
+ r - 3 poisoned javelins {!f}
+ y - 186 arrows
+ C - 2 tomahawks
+ E - 20 poisoned needles
+ G - 24 bolts
+Armour
+ z - a +2 shield (worn)
+ J - a +0 chain mail (worn)
+ K - a +0 scale mail
+ L - a +1 plate armour of positive energy
+ P - a cursed +0 cloak (worn)
+Jewellery
+ s - an uncursed ring of ice
+ v - a ring of protection from cold (left hand)
+ M - an uncursed ring of teleportation
+Wands
+ N - a wand of random effects (14)
+Scrolls
+ o - a scroll of remove curse
+ A - a scroll of magic mapping
+ B - a scroll of amnesia
+ D - a scroll of fog
+ H - a scroll of blinking {unknown}
+ I - a scroll of noise {unknown}
+ O - 3 scrolls of teleportation
+Potions
+ l - 2 potions of brilliance
+ n - a potion of flight
+ t - 4 potions of heal wounds
+ u - 3 potions of berserk rage
+ w - 2 potions of mutation
+ x - 2 potions of agility
+Comestibles
+ p - 14 rations
+
+
+   Skills:
+ - Level 5.4 Fighting
+ - Level 3.1(3.7) Short Blades
+ - Level 3.0(3.7) Long Blades
+ - Level 1.9(3.2) Axes
+ - Level 2.4(2.8) Maces & Flails
+ - Level 2.8(3.2) Polearms
+ + Level 1.6(1.8) Slings
+ - Level 1.0(1.4) Throwing
+ - Level 4.1 Armour
+ - Level 2.8 Dodging
+ - Level 1.0 Stealth
+ - Level 4.0 Shields
+ - Level 1.1 Transmutations
+ + Level 8.6 Invocations
+ + Level 0.0 Evocations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           3 (50)       100%        1    50
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sticks to Snakes         Tmut           3 (100)      100%        2    100
+ Spider Form              Tmut/Pois      1 (200)      100%        3    150
+ Ice Form                 Ice/Tmut       1 (100)      100%        4    250
+ Blade Hands              Tmut           3 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:5         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+The Shining One
+
+Shops:
+D:4 *
+
+Annotations:
+D:6 pressure plate, exclusions: sensed monster (detected) and 1 more exclusion
+Abyss:1 Menkaure
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a pair of antennae on your head.
+You are mostly covered in icy blue scales. (AC +3)
+A weak demonic guardian rushes to your aid.
+You are somewhat resistant to further mutation.
+You occasionally shout uncontrollably at your foes.
+
+
+Message History
+
+You climb downwards.
+Found a ration. Found a stone staircase leading down.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You are feeling hungry.
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+Found a long sword.
+There is a stone staircase leading up here.
+Saving game... please wait.
+Welcome back, Curuzumu the Demonspawn Abyssal Knight.
+Lugonu says: Spread carnage and corruption!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.. #. ....
+...#.##..#
+##.#.....#
+.........##
+  ........
+   #...).#
+..###....#
+.......@.#
+.........#
+.##........
+ #...........
+...............
+..........##...
+........... ..#
+............ ##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Eustachio (D:6)
+  Duvessa (D:5)
+  A necrophage (D:6)
+  4 ogres
+  A centaur (D:5)
+  A scorpion (D:6)
+  Dowan (D:5)
+  4 killer bees (D:7)
+  A jelly (D:6)
+  A bullfrog zombie (D:7)
+  4 crimson imps
+  2 orc priests (D:6)
+  A hound (D:6)
+  An iguana (D:7)
+  Natasha (thrice) (D:2)
+  3 orc wizards
+  2 worker ants (D:4)
+  A howler monkey skeleton (D:4)
+  9 gnolls
+  5 adders
+  2 shadow imps
+  2 oozes
+  An adder zombie (D:7)
+  2 adder skeletons
+  5 leopard geckos
+  17 orcs
+  A ball python (D:2)
+  3 giant cockroaches
+  10 goblins
+  9 hobgoblins
+  5 jackals
+  A quokka (D:2)
+  5 bats
+  4 frilled lizards
+  9 kobolds
+  A leopard gecko zombie (D:5)
+  7 rats
+131 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  The ghost of Woitudef the Skirmisher, a novice HOFi of Beogh (D:5)
+  Joseph (D:7)
+  Grinder (D:5)
+  An orc warrior (D:6)
+  4 ogres
+  A centaur (D:7)
+  A howler monkey (D:4)
+  A hound (D:4)
+  A worker ant (D:4)
+  An adder (D:6)
+  A shadow imp (D:7)
+  4 orcs
+  A jackal (D:5)
+19 creatures vanquished.
+
+Grand Total: 150 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Curuzumu the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | D:1      | Escaped the Abyss
+   142 | D:1      | Reached skill level 1 in Dodging
+   265 | D:1      | Reached skill level 1 in Stealth
+   271 | D:1      | Reached * piety under Lugonu
+   477 | D:1      | Gained mutation: You are partially covered in icy blue
+                  | scales. (AC +2) [demonic ancestry]
+   477 | D:1      | Reached XP level 2. HP: 24/24 MP: 3/3
+  1451 | D:1      | Reached skill level 1 in Shields
+  1887 | D:2      | Gained mutation: You are mostly covered in icy blue scales.
+                  | (AC +3) [demonic ancestry]
+  1887 | D:2      | Reached XP level 3. HP: 29/29 MP: 4/4
+  2142 | D:2      | Noticed Natasha
+  2226 | D:2      | Killed Natasha
+  2419 | D:2      | Gained mutation: A weak demonic guardian rushes to your
+                  | aid. [demonic ancestry]
+  2419 | D:2      | Reached XP level 4. HP: 22/35 MP: 5/5
+  4762 | D:3      | Reached skill level 1 in Throwing
+  5064 | D:3      | Reached ** piety under Lugonu
+  5064 | D:3      | Gained mutation: You have a pair of small antennae on your
+                  | head. [demonic ancestry]
+  5064 | D:3      | Reached XP level 5. HP: 34/41 MP: 6/6
+  5225 | D:4      | Noticed an ogre
+  5237 | D:4      | Killed an ogre
+  5408 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  5483 | D:4      | Reached XP level 6. HP: 45/47 MP: 7/7
+  5644 | D:4      | Found an opulent altar of Gozag.
+  5975 | D:4      | Found a basalt altar of Yredelemnul.
+  6047 | D:4      | Found Zeax's General Store.
+  6052 | D:4      | Bought a scroll of identify for 28 gold pieces
+  6864 | D:4      | Reached skill level 1 in Maces & Flails
+  7114 | D:4      | Bought a potion of heal wounds for 70 gold pieces
+  7114 | D:4      | Bought a scroll of enchant armour for 105 gold pieces
+  7139 | D:4      | Reached skill level 1 in Short Blades
+  7180 | D:5      | Entered Level 5 of the Dungeon
+  7265 | D:4      | Gained mutation: You have a pair of antennae on your head.
+                  | [demonic ancestry]
+  7265 | D:4      | Reached XP level 7. HP: 55/55 MP: 8/8
+  7386 | D:5      | Noticed Grinder
+  7471 | D:5      | Reached skill level 5 in Fighting
+  7621 | D:5      | Killed Grinder
+  7741 | D:5      | Found a runed translucent door.
+  7744 | D:5      | Noticed Woitudef's ghost (novice HOFi)
+  8190 | D:5      | Found a shattered altar of Ashenzari.
+  8321 | D:5      | Found a staircase to the Ecumenical Temple.
+  8368 | D:4      | Learned a level 1 spell: Beastly Appendage
+  8464 | D:5      | Noticed Duvessa
+  8494 | D:5      | Noticed Dowan
+  8523 | D:5      | Killed Dowan
+  8523 | D:5      | Reached skill level 1 in Transmutations
+  8887 | D:4      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  8887 | D:4      | Gained mutation: You are somewhat resistant to further
+                  | mutation. [potion of mutation]
+  8950 | D:5      | Killed Duvessa
+  9096 | Temple   | Entered the Ecumenical Temple
+  9825 | D:6      | Reached XP level 8. HP: 62/63 MP: 9/9
+ 10649 | D:6      | Noticed Eustachio
+ 10783 | D:6      | Killed Eustachio
+ 10783 | D:6      | Reached skill level 1 in Axes
+ 11317 | D:6      | Reached *** piety under Lugonu
+ 11434 | D:6      | Reached skill level 3 in Invocations
+ 11446 | D:6      | Found a hazy altar of Hepliaklqana.
+ 11934 | D:6      | Reached skill level 4 in Invocations
+ 12083 | D:7      | Noticed Menkaure
+ 12188 | D:7      | Reached skill level 5 in Invocations
+ 12849 | D:7      | Found an ornate altar of the Wu Jian Council.
+ 13011 | D:2      | Noticed Natasha
+ 13018 | D:2      | Killed Natasha
+ 13114 | D:2      | Noticed Natasha
+ 13132 | D:2      | Killed Natasha
+ 13132 | D:2      | Reached skill level 6 in Invocations
+ 13278 | D:5      | Killed Woitudef's ghost
+ 13278 | D:5      | Reached XP level 9. HP: 55/68 MP: 13/13
+ 13499 | D:6      | Entered wizard mode.
+ 13624 | D:7      | Banished Menkaure
+ 13842 | D:7      | Noticed Joseph
+ 13857 | D:7      | Killed Joseph
+ 13857 | D:7      | Reached skill level 8 in Invocations
+ 14061 | D:7      | Reached skill level 1 in Slings
+ 14700 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Dodging        |  1        2                |  2.8
+Stealth        |  1                         |  1.0
+Long Blades    |  2        3                |  3.0
+Shields        |     1  2        3     4    |  4.0
+Throwing       |           1                |  1.0
+Fighting       |                 4  5       |  5.4
+Maces & Flails |                 1  2       |  2.4
+Short Blades   |                 1  3       |  3.1
+Transmutations |                    1       |  1.1
+Armour         |                    2  4    |  4.1
+Axes           |                       1    |  1.9
+Invocations    |                       6  8 |  8.6
+Polearms       |                       2    |  2.8
+Slings         |                          1 |  1.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |   112 |   167 |       ||   279
+       Dagger            |       |    50 |   122 ||   172
+       Whip              |       |     7 |  4065 ||  4072
+       Long sword        |       |       |  4067 ||  4067
+       Trident           |       |       |     6 ||     6
+ Fire: Hunting sling     |       |       |    12 ||    12
+Throw: Stone             |    33 |    55 |     9 ||    97
+       Javelin           |       |     6 |     6 ||    12
+       Throwing net      |       |     2 |     2 ||     4
+       Tomahawk          |       |     5 |    11 ||    16
+Invok: Depart the Abyss  |     1 |       |       ||     1
+       Bend Space        |       |     3 |     1 ||     4
+       Banish            |       |       |     1 ||     1
+  Use: Scroll            |     4 |     8 |     8 ||    20
+       Potion            |       |     3 |     3 ||     6
+  Eat: Chunk             |     5 |    11 |    17 ||    33
+       Ration            |       |     1 |     2 ||     3
+Armor: Leather armour    |    16 |       |       ||    16
+       Ring mail         |    24 |    77 |     3 ||   104
+       Scale mail        |       |       |    34 ||    34
+       Chain mail        |       |       |  2169 ||  2169
+Dodge: Dodged            |    49 |    68 |  1054 ||  1171
+Block: Shield            |    21 |    75 |  3279 ||  3375
+Rpst.: Falchion          |    20 |    10 |       ||    30
+       Long sword        |       |       |   175 ||   175
+

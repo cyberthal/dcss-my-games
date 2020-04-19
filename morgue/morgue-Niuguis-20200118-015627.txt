@@ -1,0 +1,220 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 900965438084780178
+
+574622 Niuguis the Trollish Barricade (level 27, 297/323 HPs) *WIZ*
+             Began as a Troll Fighter on Jan 18, 2020.
+             Was the Champion of Dithmenos.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 00:03:22 (11 turns).
+
+Niuguis the Trollish Barricade (Troll Fighter)        Turns: 11, Time: 00:03:23
+
+Health: 297/323    AC:  8    Str: 23    XL:     27
+Magic:  53/53      EV: 22    Int:  4    God:    Dithmenos 200 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    ++++++++++             (no amulet)
+HPRegen  1.03/turn              (no ring)
+MPRegen  0.33/turn              (no ring)
+
+@: wreathed by umbra
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: Shadow Step, Shadow Form, Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Dithmenos.
+Dithmenos was exalted by your worship.
+You were completely stuffed.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ e - a +0 eveningstar
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+Comestibles
+ d - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Defend: Player | No hits
+Defend:   Mons |     11.9 |     53 |  71% |   8.6 |   100  |  1.00 |      8.6
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 200, Enter for 0): 
+Setting piety to 10.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - bone dragon
+Aim: a bone dragon (black smoke, lightly damaged)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     25.7 |    104 |  88% |  22.8 |    50  |  2.00 |     45.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     12.2 |     54 |  73% |   8.9 |   100  |  1.00 |      8.9
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 10, Enter for 0): 
+Setting piety to 200.
+You are shrouded in an aura of darkness!
+You can now step into the shadows of nearby creatures.
+You will now sometimes bleed smoke when heavily injured by enemies.
+Your shadow now sometimes tangibly mimics your actions.
+You can now transform into a swirling mass of shadows.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+...................................###..#
+.............^.........^.............#..#
+.....##.#####....##########....#........#
+....#.......+....##       #....#........#
+....#.......#.....#      ##....#.....#..#
+............#....## ######.....#...%.#..#
+....#............#  #...###........?....#
+............#....#  #..####....#.....#..##
+............#....## #+## #..>..#.....+...#
+..................# #.#  ##....#........##
+....+.......+.)..## #.#   #....##..#.#..#
+....#######.#....####.#####.............#
+.....................000................#
+..............^......D@0................#
+...##########...?....000......(.........#
+...#  ###  ##........000................#
+...# ##.####....#####+###......######.#.#
+...# #......+...##.##+####...#........#(#
+...# #....###...##......++...#........+.#
+...# #....###...##....<.##..............#
+...###.....#....##......##...#........#.#
+....######.##...##......##...#........#.#
+...##########...###+######............#.#
+.....##.##.##...#..+######...###.###.#..##
+.........................................#
+.........................................#
+
+
+You could see a bone dragon.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Niuguis the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Dithmenos the Shadowed
+     0 | D:1      | Reached * piety under Dithmenos
+     0 | D:1      | Reached ** piety under Dithmenos
+     0 | D:1      | Reached *** piety under Dithmenos
+     0 | D:1      | Reached **** piety under Dithmenos
+     0 | D:1      | Reached ***** piety under Dithmenos
+     0 | D:1      | Reached ****** piety under Dithmenos
+     0 | Lair:1   | Entered Level 1 of the Lair of Beasts
+     1 | Lair:1   | Noticed a bone dragon
+     1 | Lair:1   | Reached XP level 2. HP: 81/81 MP: 0/29
+     1 | Lair:1   | Reached XP level 3. HP: 91/91 MP: 0/30
+     1 | Lair:1   | Reached XP level 4. HP: 101/101 MP: 0/32
+     1 | Lair:1   | Reached XP level 5. HP: 110/110 MP: 0/33
+     1 | Lair:1   | Reached XP level 6. HP: 120/120 MP: 0/35
+     1 | Lair:1   | Reached XP level 7. HP: 130/130 MP: 0/36
+     1 | Lair:1   | Reached XP level 8. HP: 140/140 MP: 0/38
+     1 | Lair:1   | Reached XP level 9. HP: 149/149 MP: 0/39
+     1 | Lair:1   | Reached XP level 10. HP: 159/159 MP: 0/40
+     1 | Lair:1   | Reached XP level 11. HP: 169/169 MP: 0/41
+     1 | Lair:1   | Reached XP level 12. HP: 179/179 MP: 0/42
+     1 | Lair:1   | Reached XP level 13. HP: 188/188 MP: 0/43
+     1 | Lair:1   | Reached XP level 14. HP: 198/198 MP: 0/44
+     1 | Lair:1   | Reached XP level 15. HP: 206/206 MP: 0/45
+     1 | Lair:1   | Reached XP level 16. HP: 217/217 MP: 0/46
+     1 | Lair:1   | Reached XP level 17. HP: 226/226 MP: 0/47
+     1 | Lair:1   | Reached XP level 18. HP: 236/236 MP: 0/48
+     1 | Lair:1   | Reached XP level 19. HP: 245/245 MP: 0/49
+     1 | Lair:1   | Reached XP level 20. HP: 256/256 MP: 0/50
+     1 | Lair:1   | Reached XP level 21. HP: 265/265 MP: 0/51
+     1 | Lair:1   | Reached XP level 22. HP: 275/275 MP: 0/52
+     1 | Lair:1   | Reached XP level 23. HP: 284/284 MP: 0/53
+     1 | Lair:1   | Reached XP level 24. HP: 295/295 MP: 0/53
+     1 | Lair:1   | Reached XP level 25. HP: 304/304 MP: 0/53
+     1 | Lair:1   | Reached XP level 26. HP: 314/314 MP: 0/53
+     1 | Lair:1   | Reached XP level 27. HP: 323/323 MP: 0/53
+    11 | Lair:1   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |  8005 ||  8005
+       Eveningstar       |       |       |       |       |       |       |       |       |     1 ||     1
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Robe              |       |       |       |       |       |       |       |       |  1423 ||  1423
+Dodge: Dodged            |       |       |       |       |       |       |       |       |  6713 ||  6713
+Block: Shield            |       |       |       |       |       |       |       |       |  9072 ||  9072
+

@@ -2,7 +2,13 @@
 
 Game seed: 14039207156094062591
 
-Vouxui the Fighter (Minotaur Berserker)            Turns: 37422, Time: 06:59:19
+76659 Vouxui the Fighter (level 15, 138/138 HPs) *WIZ*
+             Began as a Minotaur Berserker on Oct 13, 2019.
+             Was the Champion of Trog.
+             Quit the game on level 11 of the Dungeon on Apr 19, 2020.
+             The game lasted 06:59:22 (37422 turns).
+
+Vouxui the Fighter (Minotaur Berserker)            Turns: 37422, Time: 06:59:22
 
 Health: 138/138    AC: 22    Str: 27    XL:     15   Next: 13%
 Magic:  7/7        EV: 28    Int:  5    God:    Trog 161 (0)
@@ -25,15 +31,15 @@ magic resistance 1
 a: Berserk, Trog's Hand, Brothers in Arms, Renounce Religion
 
 
-You are on level 11 of the Dungeon.
-You worship Trog.
-Trog is exalted by your worship.
-You are not hungry.
+You were on level 11 of the Dungeon.
+You worshipped Trog.
+Trog was exalted by your worship.
+You were not hungry.
 
-You have visited 3 branches of the dungeon, and seen 22 of its levels.
+You visited 3 branches of the dungeon, and saw 22 of its levels.
 
-You have collected 1506 gold pieces.
-You have spent 819 gold pieces at shops.
+You collected 1506 gold pieces.
+You spent 819 gold pieces at shops.
 
 Inventory:
 
@@ -134,9 +140,9 @@ Comestibles
  - Level 10.8 Evocations
 
 
-You have 14 spell levels left.
-You don't know any spells.
-Your spell library contains the following spells:
+You had 14 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
 
  Spells                   Type           Power        Failure   Level  Hunger
  Animate Skeleton         Necr           N/A          94%         1    50
@@ -209,12 +215,6 @@ You are resistant to hostile enchantments. (MR+)
 
 Message History
 
-You climb upwards.
-There is a stone staircase leading down here.
-There is an open door here.
-Things that are here:
-a +0 quarterstaff; a +0 dire flail; a +0 shortbow
-Items here: (((((((( )))))))
 Saving game... please wait.
 Welcome back, Vouxui the Minotaur Berserker.
 Trog says: Kill them all!
@@ -229,6 +229,13 @@ Move the cursor to view the level map, or type ? for a list of commands.
 New annotation for D:15 (include '!' for warning): loot
 Returning to the game...
 Saving game... please wait.
+Welcome back, Vouxui the Minotaur Berserker.
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Quiver which item? (- for none, * to show all) (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
 
 .......[...#    #........'.....#######
 ...........#    #........#####.......####
@@ -256,7 +263,7 @@ Saving game... please wait.
  #.......[.....##.......### #.#######.#.#
 
 
-There are no monsters in sight!
+There were no monsters in sight!
 
 Vanquished Creatures
   A sphinx (D:14)
@@ -567,6 +574,7 @@ Turn   | Place    | Note
  36866 | D:15     | Noticed Louise
  37077 | D:15     | Found a staircase to the Depths.
  37301 | D:15     | Killed Louise
+ 37422 | D:11     | Quit the game
 
 Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
 ---------------+----------------------------------------------+-----
