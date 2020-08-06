@@ -1,0 +1,352 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5466534030388090693
+
+Taam the Ducker (Spriggan Arcane Marksman)         Turns: 10526, Time: 01:51:17
+
+Health: 39/39      AC:  3    Str:  6      XL:     8   Next: 4%
+Magic:  13/13      EV: 22    Int: 15      God:    Kikubaaqudgha [......]
+Gold:   83         SH:  0    Dex: 17 (18) Spells: 4/13 levels left
+
+rFire    . . .     SeeInvis +   d - +0 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     + . .     Faith    .   e - +1 robe
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.13/turn              j - ring of poison resistance
+MPRegen  0.13/turn              n - ring of positive energy
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Renounce Religion
+
+
+You are on level 5 of the Dungeon.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is noncommittal.
+You are hungry.
+
+You have visited 2 branches of the dungeon, and seen 6 of its levels.
+You have also visited: Sewer.
+
+You have collected 221 gold pieces.
+You have spent 138 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +5 dagger
+ b - a +0 trident of protection
+ c - a +2 trident of piercing
+ d - a +0 hunting sling (weapon)
+ u - a glowing dagger
+ x - a runed falchion
+ y - a +0 short sword of holy wrath
+ F - a runed long sword
+Missiles
+ h - 77 stones (quivered)
+ q - 31 poisoned needles
+ z - 23 sling bullets
+ C - 29 arrows
+Armour
+ e - a +1 robe (worn)
+Jewellery
+ f - an uncursed ring of resist corrosion
+ j - a ring of poison resistance (left hand)
+ n - a ring of positive energy (right hand)
+ B - a +3 ring of dexterity
+Wands
+ r - a wand of random effects (2)
+ E - a wand of disintegration (7)
+ G - a wand of iceblast (11)
+Scrolls
+ g - 5 scrolls of remove curse
+ i - a scroll of fear
+ k - 3 scrolls of immolation
+ m - 3 scrolls of blinking
+ o - a scroll of teleportation
+ v - 5 scrolls of fog
+ D - a scroll labeled ITSEM FANLOEC
+Potions
+ l - a potion of ambrosia
+ p - a potion of agility
+ s - 2 yellow potions {heal wounds?}
+ t - 3 potions of curing
+ w - 4 potions of flight
+ H - a grey potion
+Comestibles
+ A - a ration
+
+
+   Skills:
+ - Level 2.2 Fighting
+ - Level 2.0 Short Blades
+ - Level 1.0 Polearms
+ - Level 5.1 Slings
+ - Level 7.0 Dodging
+ - Level 4.0 Stealth
+ + Level 3.0 Spellcasting
+ - Level 5.0 Hexes
+ - Level 2.2 Translocations
+ + Level 0.0 Fire Magic
+ + Level 4.1 Evocations
+
+
+You have 4 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      2%          1    #......
+b - Slow                  Hex            ###.....     3%          2    ##.....
+c - Portal Projectile     Hex/Tloc       ##....       14%         3    ###....
+d - Inner Flame           Hex/Fire       #.......     22%         3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Cause Fear               Hex            ###.......   26%         4    #####..
+ Leda's Liquefaction      Hex/Erth       #.........   56%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 ?[?*
+
+Annotations:
+D:5 exclusion: adder, Blork the orc
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Unknown command.
+You now have 80 gold pieces (gained 13).
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+Found 3 gold pieces.
+Autopickup is now on.
+You now have 83 gold pieces (gained 3).
+Key pressed, stopping explore.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Press: ? - help, v - describe, . - travel, g - get item
+A broad axe.
+The floor.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Taam.txt'.
+
+##.#     #.##................#     #..###.##
+...#     #.....###.#####.###.#    ##.## ##.#
+##.#     #.##..# #.#   #.# #.#    #.##   ##.
+ #.#     #.##..# #.#   #.# #.#    ##.## ##.#
+ #.#######.##..###.#   #.# #.#     #..###.##
+ #.................#   #.# #.#   ###...#.###
+ #######.####..#####   #.###.#####..........
+       #.####..#########..............##...#
+    ####.............)##.###..####...#..#.#.
+    #.......#............####.#  #.#.#....#.
+    #.#####.##.######.#...###.#  #....#....#
+    #.#   #.##.#*   #^#.......#  #.......>..
+    #.#   #.....#####.......#.#  #.#..##....
+    #.#   #.##........@.....#.#  #=#.#..#...
+    #.#####.###.#####.........#  #.#....#.#.
+    #.......##*.#*  ###.......####.##..#...#
+    ##.#>....#,..**   #.....................
+     #...###.....,*   ###....<.###.#####....
+     #.### *......******#......# #.#   ##...
+     #.#   *,....S,,,..........# #.#  ##....
+     #.#   #.#o..#***######.#### #.####.....
+     #.#####.##.##        #.#    #..........
+     #..........#         #.#    ######.....
+     #.#####.#######      #.#         ##....
+     #.####...##...##     #.#          ##.#.
+     #.#........###.########## ##########.#.
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Sigmund (D:2)
+  Duvessa (D:3)
+  A big kobold (Sewer)
+  Dowan (D:4)
+  A quasit (D:5)
+  2 crimson imps
+  A hound (D:5)
+  A jelly (D:5)
+  An orc priest (D:3)
+  Terence (D:2)
+  Jessica (D:1)
+  Ijyb (D:3)
+  2 orc wizards
+  5 worker ants
+  Robin (D:1)
+  5 adders
+  3 river rats (Sewer)
+  An ooze (D:3)
+  An adder skeleton (D:4)
+  4 worms
+  7 dart slugs
+  3 leopard geckos
+  7 orcs
+  4 giant cockroaches
+  19 goblins
+  11 hobgoblins
+  10 kobolds
+  A quokka (D:2)
+  A ball python (D:1)
+  8 bats
+  5 frilled lizards
+  3 goblin skeletons (D:5)
+  A goblin zombie (D:5)
+  2 hobgoblin zombies (D:5)
+  A jackal zombie (D:5)
+  3 kobold skeletons (D:5)
+  A kobold zombie (D:5)
+  9 rats
+131 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Taam the Spriggan Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+     0 | D:1      | kiku elair fedmid jslab gozag
+   461 | D:1      | Reached skill level 1 in Stealth
+   461 | D:1      | Reached XP level 2. HP: 14/14 MP: 3/5
+   990 | D:1      | Learned a level 2 spell: Slow
+  1306 | D:1      | Reached skill level 4 in Dodging
+  2037 | D:1      | Reached XP level 3. HP: 17/17 MP: 4/6
+  2066 | D:2      | Noticed Sigmund
+  2110 | D:2      | Noticed Terence
+  2165 | D:2      | Noticed Robin
+  2309 | D:1      | You fall through a shaft!
+  2468 | D:2      | Reached skill level 1 in Short Blades
+  2628 | D:2      | Noticed Jessica
+  2988 | D:1      | Killed Jessica
+  2988 | D:1      | Reached skill level 1 in Fighting
+  2988 | D:1      | Reached XP level 4. HP: 15/22 MP: 4/8
+  3105 | D:1      | Learned a level 3 spell: Portal Projectile
+  3232 | D:3      | Reached skill level 1 in Translocations
+  3396 | D:3      | Found a burning altar of Makhleb.
+  3933 | D:3      | Noticed Ijyb
+  4220 | D:3      | Learned a level 3 spell: Inner Flame
+  4320 | D:3      | Killed Ijyb
+  4320 | D:3      | Reached XP level 5. HP: 25/25 MP: 3/10
+  5475 | D:3      | Reached skill level 1 in Evocations
+  5777 | D:2      | Killed Sigmund
+  5777 | D:2      | Reached skill level 6 in Dodging
+  5777 | D:2      | Reached XP level 6. HP: 27/30 MP: 8/11
+  5986 | D:2      | Found a basalt altar of Yredelemnul.
+  6162 | D:1      | Killed Robin
+  6594 | D:2      | Killed Terence
+  6848 | D:1      | Entered wizard mode.
+  7120 | D:4      | Found Hioxaump's Armour Boutique.
+  7120 | D:4      | Noticed Duvessa
+  7120 | D:4      | Noticed Dowan
+  7187 | D:4      | Found Ilanlez's Magic Scroll Emporium.
+  7198 | D:4      | Bought a scroll of identify for 24 gold pieces
+  7198 | D:4      | Bought a scroll of identify for 24 gold pieces
+  7198 | D:4      | Bought a scroll of identify for 24 gold pieces
+  7498 | D:4      | Found an opulent altar of Gozag.
+  7512 | D:4      | Bought a scroll of magic mapping for 42 gold pieces
+  7593 | D:4      | Reached XP level 7. HP: 31/33 MP: 8/12
+  7871 | D:4      | Killed Dowan
+  8154 | D:3      | Killed Duvessa
+  8581 | D:4      | Bought a scroll of fog for 24 gold pieces
+  8617 | D:4      | Found Pogaudiu's General Store.
+  8659 | D:4      | Found Huipp's Magic Scroll Shop.
+  8771 | D:5      | Entered Level 5 of the Dungeon
+  8889 | D:5      | Found a glowing drain.
+  8893 | Sewer    | Entered a sewer
+  9081 | Sewer    | Found a white marble altar of Elyvilon.
+  9215 | D:5      | Noticed Blork the orc
+  9508 | D:5      | Reached skill level 7 in Dodging
+  9615 | D:5      | Found a shadowy altar of Dithmenos.
+  9724 | D:5      | Reached skill level 1 in Polearms
+  9833 | D:5      | Found a staircase to the Ecumenical Temple.
+  9873 | Temple   | Entered the Ecumenical Temple
+ 10052 | Temple   | Became a worshipper of Kikubaaqudgha
+ 10150 | D:5      | Found a glowing golden altar of the Shining One.
+ 10238 | D:5      | Reached skill level 5 in Hexes
+ 10238 | D:5      | Reached XP level 8. HP: 32/39 MP: 1/13
+ 10313 | D:5      | Reached skill level 5 in Slings
+ 10328 | D:5      | Found a radiant altar of Vehumet.
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Stealth        |  1  2     3        4    |  4.0
+Dodging        |     4        6     7    |  7.0
+Short Blades   |        1           2    |  2.0
+Slings         |        3        4     5 |  5.1
+Spellcasting   |        2  3             |  3.0
+Fighting       |        1           2    |  2.2
+Translocations |           1  2          |  2.2
+Evocations     |              2  4       |  4.1
+Hexes          |                    5    |  5.0
+Polearms       |                    1    |  1.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Short sword       |    15 |  4049 |    36 ||  4100
+       Dagger            |       |  4004 |    16 ||  4020
+       Trident           |       |  8027 |   134 ||  8161
+ Fire: Hunting sling     |    86 |   218 |   137 ||   441
+ Cast: Corona            |    32 |    86 |    54 ||   172
+       Slow              |     8 |    36 |    20 ||    64
+       Inner Flame       |       |     1 |     2 ||     3
+Evoke: Wand              |       |    10 |     2 ||    12
+  Use: Potion            |     3 |       |     2 ||     5
+       Scroll            |     1 |     7 |     3 ||    11
+ Stab: Sleeping          |     1 |     2 |     2 ||     5
+  Eat: Ration            |       |     4 |     2 ||     6
+Armor: Robe              |     3 |   849 |    23 ||   875
+Dodge: Dodged            |    47 | 11974 |   189 || 12210
+

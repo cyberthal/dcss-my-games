@@ -1,0 +1,394 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17462810646262665976
+
+4620 Amnaqunimn the Prestidigitator (level 10, 74/87 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on July 29, 2020.
+             Was a Priest of Elyvilon.
+             Quit the game on level 8 of the Dungeon on July 30, 2020.
+             The game lasted 01:56:07 (10492 turns).
+
+Amnaqunimn the Prestidigitator (DDAr)              Turns: 10492, Time: 01:56:07
+
+Health: 74/87      AC:  7    Str: 16    XL:     10   Next: 19%
+Magic:  15/15      EV: 15    Int: 12    God:    Elyvilon 76 (0)
+Gold:   67         SH:  0    Dex: 16    Spells: 9/9 levels left
+
+rFire    + . .     SeeInvis .   n - +4 trident
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   E - +1 ring mail {rF+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   x - +0 pair of gloves
+MR       +++..                  (no boots)
+Stlth    ++........             i - amulet of the acrobat
+HPRegen  0.00/turn              l - ring of protection from magic
+MPRegen  0.14/turn              t - ring of protection from magic
+
+@: non-regenerating, lightly drained
+A: damage resistance, heal wounds, sense surroundings 2, no regeneration
+a: Heal Wounds, Lesser Healing, Heal Other, Purification, Divine Protection,
+Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Elyvilon.
+Elyvilon was most pleased with you.
+You were very hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You also visited: Sewer.
+
+You collected 411 gold pieces.
+You spent 344 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 dagger
+ b - a +1 short sword of freezing
+ c - a +3 great sword
+ d - a +2 dire flail of protection
+ e - a +3 war axe of freezing
+ f - a +4 spear
+ g - a +0 halberd
+ h - a +3 hunting sling
+ n - a +4 trident (weapon)
+ u - a +0 battleaxe
+ C - a cursed +0 scimitar
+ J - the +6 hand axe of Doom {drain, rC+ rN+ Int-2 Stlth+}
+   (You found it on level 4 of the Dungeon)   
+   
+   A truly terrible weapon, it drains the life of those it strikes.
+   
+   It affects your intelligence (-2).
+   It protects you from cold.
+   It protects you from negative energy.
+   It makes you more stealthy.
+   
+   Elyvilon disapproves of the use of such an item.
+Missiles
+ v - 22 arrows
+ w - 75 stones (quivered)
+ W - 30 sling bullets
+ Z - 4 tomahawks
+Armour
+ x - a +0 pair of gloves (worn)
+ E - a +1 ring mail of fire resistance (worn)
+Jewellery
+ i - an amulet of the acrobat (around neck)
+ j - a +3 ring of intelligence
+ l - a ring of protection from magic (left hand)
+ s - an uncursed ring of fire
+ t - a ring of protection from magic (right hand)
+ M - a +4 amulet of reflection
+Wands
+ p - a wand of paralysis (5)
+ y - a wand of acid (6)
+ D - a wand of enslavement (15)
+ I - a wand of flame (5)
+Scrolls
+ m - a scroll of fear
+ r - 2 scrolls of remove curse
+ z - a scroll of random uselessness {unknown}
+ A - a scroll of fog {unknown}
+ G - a scroll of amnesia {unknown}
+ H - a scroll of magic mapping
+ N - a scroll of blinking {unknown}
+ P - a scroll of holy word {unknown}
+ S - 4 scrolls of teleportation
+ X - a scroll of immolation {unknown}
+Potions
+ k - 6 potions of curing
+ o - a potion of haste
+ q - 2 potions of lignification
+ B - a potion of heal wounds
+ K - a potion of ambrosia
+ L - 2 potions of might
+ O - 2 potions of agility
+ R - a potion of berserk rage
+ Y - a potion of flight
+Comestibles
+ V - 11 rations
+
+
+   Skills:
+ + Level 4.9(4.4) Fighting
+ - Level 3.0 Short Blades
+ + Level 2.9(3.1) Long Blades
+ - Level 3.0(2.5) Axes
+ - Level 4.6(4.1) Slings
+ - Level 1.0(2.0) Throwing
+ - Level 3.0(2.4) Armour
+ - Level 7.0(6.4) Dodging
+ - Level 4.0(3.5) Stealth
+ - Level 9.0(8.3) Invocations
+ - Level 9.0(8.4) Evocations
+
+
+You had 9 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:5         
+  Lair: D:8-11      
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 !   D:6 *
+
+Annotations:
+D:2 exclusion: dart slug
+D:5 dig for loot
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map the area around you.
+You do not regenerate.
+
+
+Message History
+
+Your +3 war axe of freezing glows with a cold blue light!
+e - a +3 war axe of freezing (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.2 |     18 |  64% |   3.4 |   138  |  0.73 |      2.4
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.0 |      9 |  47% |   0.5 |   100  |  1.00 |      0.5
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +3 war axe of freezing stops glowing.
+n - a +4 trident (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.4 |     16 |  65% |   2.9 |   126  |  0.79 |      2.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.9 |     14 |  44% |   0.9 |   100  |  1.00 |      0.9
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#..###..##   #.## ##..#    #..######....##..
+###..#..######.#   #..##   #.........##....#
+  ##..........##   #...#   #.#######..###...
+   #####..##..#    ##..##  ###     ##.####..
+       ######.##  ##....#####       #..##..#
+            #..####..##..##.#       #..##..#
+            ##.##..#####...##       ##.....#
+        ###  #....##   #....##      ##..#...
+        #.####...##   ##..#..##    ##..####.
+        #...#...##   ##...##..#    #..##  ##
+        #........#####...###..######..#   ##
+        ##...............#......##....##  #.
+###      #...................##........## #.
+#.##    ##............@..########..##...###.
+...######................#      #...##......
+...##....................##     #....#......
+#.........................#     #.......####
+###.....########...#..##..##    #......####.
+  ##..###      ##.#...###..## ###...........
+  ##..#         #.##### ##..###.............
+ ##...#         ###      ##......#...#.....#
+ #....##########          ##..<.###..##...##
+##.............#         ##.....# ##.##....#
+..............##         #......#  #..#.....
+.........######          #......#  ##..#.###
+#...#....#               ######.##  #..###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A hippogriff (D:7)
+  A wyvern (D:8)
+  Edmund (D:6)
+  2 orc warriors
+  5 ice beasts
+  Purgy (Sewer)
+  4 sky beasts
+  3 ogres
+  3 centaurs
+  4 bullfrogs
+  A wyvern zombie (D:7)
+  7 scorpions
+  A water moccasin skeleton (D:5)
+  8 wights
+  7 crimson imps
+  A howler monkey (D:6)
+  2 bullfrog zombies
+  3 jellies
+  5 orc priests
+  2 hounds
+  2 bullfrog skeletons
+  2 centaur skeletons
+  A gnoll shaman (D:7)
+  4 orc wizards
+  3 worker ants
+  A worker ant zombie (D:5)
+  12 gnolls
+  3 adders
+  2 shadow imps
+  3 worms
+  3 dart slugs
+  8 leopard geckos
+  5 orcs
+  8 bats
+  4 giant cockroaches
+  10 goblins
+  5 hobgoblins
+  12 jackals
+  11 kobolds
+  5 quokkas
+  8 ball pythons
+  5 frilled lizards
+  A quokka zombie (D:6)
+  15 rats
+195 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Amnaqunimn the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+    29 | D:1      | Reached skill level 1 in Fighting
+    92 | D:1      | Reached skill level 1 in Short Blades
+   176 | D:1      | Reached XP level 2. HP: 23/25 MP: 5/5
+   472 | D:1      | Reached XP level 3. HP: 21/32 MP: 6/6
+  1228 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+  1655 | D:2      | Reached XP level 4. HP: 33/39 MP: 6/6
+  1958 | D:2      | Found a snail-covered altar of Cheibriados.
+  2273 | D:2      | Reached skill level 1 in Throwing
+  2342 | D:3      | Reached skill level 1 in Armour
+  2380 | D:3      | Found a hazy altar of Hepliaklqana.
+  2472 | D:3      | Found a shimmering altar of Xom.
+  2472 | D:3      | Found a shimmering altar of Xom.
+  2503 | D:3      | Found a glowing drain.
+  2548 | Sewer    | Entered a sewer
+  2574 | Sewer    | Noticed Purgy
+  2583 | Sewer    | Killed Purgy
+  2583 | Sewer    | Reached XP level 5. HP: 31/45 MP: 6/8
+  2988 | D:3      | Found a shadowy altar of Dithmenos.
+  3233 | D:3      | Found a shimmering altar of Xom.
+  3233 | D:3      | Found a shimmering altar of Xom.
+  3722 | D:4      | Noticed a centaur
+  3733 | D:4      | Killed a centaur
+  3733 | D:4      | Reached XP level 6. HP: 25/54 MP: 9/9
+  3748 | D:4      | Found Dingu's Distillery.
+  3751 | D:4      | Bought a potion of curing for 36 gold pieces
+  3751 | D:4      | Bought a potion of curing for 36 gold pieces
+  3751 | D:4      | Bought a potion of curing for 36 gold pieces
+  3816 | D:4      | Got a polished hand axe
+  4126 | D:4      | Bought a potion of might for 48 gold pieces
+  4175 | D:5      | Entered Level 5 of the Dungeon
+  4176 | D:5      | Noticed a sky beast
+  4297 | D:4      | Killed a sky beast
+  4297 | D:4      | Reached skill level 1 in Axes
+  4323 | D:5      | Noticed an ice beast
+  4323 | D:5      | Noticed a sky beast
+  4532 | D:4      | Killed a sky beast
+  4532 | D:4      | Reached XP level 7. HP: 40/62 MP: 10/10
+  4784 | D:4      | Bought a potion of agility for 48 gold pieces
+  4884 | D:5      | Found an opulent altar of Gozag.
+  5043 | D:5      | Reached skill level 5 in Dodging
+  5250 | D:5      | Found a staircase to the Ecumenical Temple.
+  5302 | D:5      | Reached XP level 8. HP: 53/69 MP: 12/12
+  5342 | Temple   | Entered the Ecumenical Temple
+  5349 | Temple   | Became a worshipper of Elyvilon the Healer
+  5418 | D:5      | Identified the +6 hand axe of Doom {drain, rC+ rN+ Int-2
+                  | Stlth+} (You found it on level 4 of the Dungeon)
+  5699 | D:4      | Bought a potion of berserk rage for 60 gold pieces
+  6129 | D:6      | Found Meafikh's General Store.
+  6134 | D:6      | Bought 22 stones for 28 gold pieces
+  6223 | D:6      | Reached * piety under Elyvilon
+  6324 | D:6      | Reached skill level 1 in Invocations
+  6537 | D:6      | Noticed Edmund
+  6547 | D:6      | Killed Edmund
+  7062 | D:5      | Reached skill level 1 in Long Blades
+  7062 | D:5      | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+  7062 | D:5      | Reached XP level 9. HP: 30/78 MP: 14/14
+  7459 | D:7      | Reached skill level 5 in Invocations
+  7863 | D:6      | Bought a potion of flight for 39 gold pieces
+  7863 | D:6      | Bought a scroll of noise for 13 gold pieces
+  8271 | D:7      | Reached ** piety under Elyvilon
+  9511 | D:8      | Reached *** piety under Elyvilon
+  9526 | D:8      | Found a bloodstained altar of Trog.
+  9757 | D:8      | Reached XP level 10. HP: 75/87 MP: 15/15
+ 10489 | D:8      | Entered wizard mode.
+ 10492 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  1     2        3     4       |  4.9
+Short Blades   |  1     2        3             |  3.0
+Stealth        |  2                 3  4       |  4.0
+Dodging        |        3        4  5  6     7 |  7.0
+Throwing       |           1                   |  1.0
+Armour         |           1        2     3    |  3.0
+Evocations     |           6        7  9       |  9.0
+Axes           |                 1  2     3    |  3.0
+Invocations    |                       4  9    |  9.0
+Long Blades    |                       1  2    |  2.9
+Slings         |                          4    |  4.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Short sword       |   189 |   174 |   222 |       ||   585
+       Halberd           |       |     8 |    61 |       ||    69
+       Dire flail        |       |       |   157 |  4054 ||  4211
+       Great sword       |       |       |       |  4000 ||  4000
+       War axe           |       |       |       |  4000 ||  4000
+       Trident           |       |       |       |  4000 ||  4000
+ Fire: Hunting sling     |       |       |   163 |    31 ||   194
+Throw: Stone             |    15 |    55 |    28 |       ||    98
+Invok: Lesser Healing    |       |       |    18 |     9 ||    27
+ Abil: Heal Wounds       |     1 |     3 |     8 |       ||    12
+Evoke: Wand              |       |     8 |    10 |       ||    18
+  Use: Scroll            |     1 |     5 |     7 |     1 ||    14
+       Potion            |     1 |     1 |       |       ||     2
+ Stab: Distracted        |     1 |       |       |       ||     1
+       Sleeping          |       |     1 |     1 |       ||     2
+       Paralysed         |       |       |     4 |       ||     4
+  Eat: Chunk             |     2 |    10 |    17 |     2 ||    31
+       Ration            |       |       |     1 |       ||     1
+Armor: Leather armour    |    33 |     7 |       |       ||    40
+       Scale mail        |       |    32 |       |       ||    32
+       Ring mail         |       |    14 |   130 |  3189 ||  3333
+Dodge: Dodged            |    93 |   105 |   260 |  8278 ||  8736
+Block: Other             |       |       |    65 |     4 ||    69
+       Reflection        |       |       |       |     1 ||     1
+Rpst.: Great sword       |       |       |       |   639 ||   639
+

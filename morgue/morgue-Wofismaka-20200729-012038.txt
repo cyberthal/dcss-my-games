@@ -1,0 +1,281 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14366454332827926316
+
+401 Wofismaka the Ducker (level 6, 30/30 HPs)
+             Began as a Spriggan Arcane Marksman on July 29, 2020.
+             Quit the game on level 5 of the Dungeon.
+             The game lasted 00:50:53 (5971 turns).
+
+Wofismaka the Ducker (Spriggan Arcane Marksman)     Turns: 5971, Time: 00:50:54
+
+Health: 30/30      AC:  2    Str:  6    XL:     6   Next: 54%
+Magic:  12/12      EV: 21    Int: 17    God:    
+Gold:   305        SH:  5    Dex: 16    Spells: 2/11 levels left
+
+rFire    . . .     SeeInvis +   b - +3 hunting sling
+rCold    . . .     Gourm    .   w - +0 buckler
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   k - scarf {cloud immunity}
+rCorr    +         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.10/turn              s - ring of wizardry
+MPRegen  0.13/turn              B - ring of resist corrosion
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 305 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger
+ b - a +3 hunting sling (weapon)
+ x - a cursed -2 spear
+Missiles
+ c - 181 stones (quivered)
+ d - 31 sling bullets
+ h - 8 tomahawks of returning
+ l - 6 tomahawks
+ n - 63 arrows
+ t - 7 needles of confusion
+ u - 21 bolts
+Armour
+ e - a +0 robe (worn)
+ k - a scarf of cloud immunity (worn)
+ w - a +0 buckler (worn)
+Jewellery
+ s - a ring of wizardry (left hand)
+ B - a ring of resist corrosion (right hand)
+Scrolls
+ i - a scroll of amnesia
+ j - a scroll of fog {unknown}
+ m - 2 scrolls of remove curse
+ r - 2 scrolls of noise {unknown}
+ v - a scroll of teleportation {unknown}
+ y - a scroll of fear {unknown}
+Potions
+ g - a potion of heal wounds
+ o - a potion of brilliance
+ p - 3 potions of magic
+ q - a potion of curing
+ z - a potion of might
+ A - a potion of ambrosia {unknown}
+Comestibles
+ f - 7 rations
+
+
+   Skills:
+ - Level 1.0 Fighting
+ - Level 1.1 Short Blades
+ - Level 3.5(3.6) Slings
+ + Level 1.0(2.1) Throwing
+ - Level 6.1 Dodging
+ - Level 3.7 Stealth
+ - Level 1.0 Shields
+ * Level 3.3 Spellcasting
+ + Level 3.6 Hexes
+ - Level 3.0 Translocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      2%          1    None
+b - Slow                  Hex            ###.....     3%          2    ##.....
+c - Portal Projectile     Hex/Tloc       ##....       9%          3    ###....
+d - Inner Flame           Hex/Fire       #.......     16%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Cause Fear               Hex            ###.......   24%         4    ####...
+ Leda's Liquefaction      Hex/Erth       #.........   43%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Hepliaklqana
+Ru
+Trog
+Xom
+Beogh
+
+Annotations:
+D:3 exclusion: orc priest
+D:4 Eustachio
+D:5 exclusions: shadow imp and worker ant
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+You see here a jackal corpse.
+c - 179 stones (gained 1)
+c - 180 stones (gained 1)
+You see here a jackal corpse.
+c - 181 stones (gained 1)
+You see here a jackal corpse.
+Key pressed, stopping explore.
+Autopickup is now off.
+You open the door.
+There is an open door here.
+There is a sacrificial altar of Ru here.
+You open the door.
+There is an open door here.
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+There is an open door here.
+Key pressed, stopping explore.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.........#.##.........#.#######.........###
+#.#####......#.#...................#####.###
+#.  ####.......###.##..#.###..##.#.#   #.##.
+#.  #..............##..#.###..##.#.### #.###
+#. #..##.##.......###.....##..##.....# #.# #
+#. #..#...#.##.##.# #....[##..##.#.#.# #.#
+#. #........#...#.###.....##..##.#.#.# #.#
+.. #..#...#............##.##..##.#.#.###.# #
+   a..##.#..#...#.####.##.##.>...........###
+  ...........#.##.# ##........##.....######.
+  .#.##.#.........###.###.######......####..
+   #Z ...#..#.##.###...##.######.....#.##...
+..  5......#...#........................'...
+..   #...#........##..@##.######.....####...
+..#..##.##.#...#..###.###.#    ###..##  ##..
+.##........##.##.## ##  #.#      #.##    ##.
+.#########.......#      #.#      #.#      ##
+.#       ##+.#####      #.#      #.#########
+.#        #..#       ####.#      #........#
+.###      #.######## #....#  #####..#####.#
+...#     ##....)...# #.####  #........###.##
+.#.#######...#####.# #.#     #.###..#.......
+................##.# #.#     #.# #..#..##.#.
+##.#######...##.##.# #.#     #.# #.....##.##
+...#     ##..##.##.###.#     #.# ##.......##
+####      ##.##........#     #.#  ###.#####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A sky beast (D:5)
+  A phantom (D:5)
+  A scorpion (D:3)
+  A jelly (D:5)
+  A bullfrog skeleton (D:5)
+  3 adders
+  An ooze (D:2)
+  An adder skeleton (D:5)
+  4 dart slugs
+  4 leopard geckos
+  An orc (D:3)
+  4 giant cockroaches (D:3)
+  2 goblins
+  9 hobgoblins
+  4 jackals
+  3 quokkas
+  3 ball pythons
+  3 bats
+  4 frilled lizards
+  6 kobolds
+  A leopard gecko skeleton (D:4)
+  8 rats
+66 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wofismaka the Spriggan Arcane Marksman began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 3/3
+    42 | D:1      | Reached skill level 1 in Stealth
+   423 | D:1      | Reached skill level 1 in Fighting
+   423 | D:1      | Reached XP level 2. HP: 14/14 MP: 5/5
+   427 | D:1      | Learned a level 2 spell: Slow
+   479 | D:1      | Reached skill level 1 in Short Blades
+  1509 | D:2      | Reached XP level 3. HP: 18/18 MP: 4/6
+  1814 | D:2      | Learned a level 3 spell: Portal Projectile
+  1898 | D:2      | Reached skill level 4 in Dodging
+  2411 | D:3      | Reached skill level 1 in Translocations
+  2828 | D:3      | Found a hazy altar of Hepliaklqana.
+  2829 | D:3      | Found a shimmering altar of Xom.
+  2829 | D:3      | Noticed an unseen horror
+  2830 | D:3      | Noticed a spectral ugly thing
+  2830 | D:3      | Noticed an unseen horror
+  2849 | D:3      | Found a roughly hewn altar of Beogh.
+  3098 | D:3      | Reached XP level 4. HP: 22/22 MP: 5/8
+  4119 | D:4      | Reached XP level 5. HP: 25/25 MP: 9/11
+  4124 | D:4      | Learned a level 3 spell: Inner Flame
+  4141 | D:4      | Noticed Eustachio
+  4498 | D:4      | Found a bloodstained altar of Trog.
+  4546 | D:5      | Entered Level 5 of the Dungeon
+  4857 | D:5      | Reached skill level 1 in Shields
+  4875 | D:5      | Found a sacrificial altar of Ru.
+  4983 | D:5      | Noticed a phantom
+  5018 | D:5      | Killed a phantom
+  5018 | D:5      | Reached skill level 6 in Dodging
+  5018 | D:5      | Reached XP level 6. HP: 20/30 MP: 8/12
+  5113 | D:5      | Noticed a sky beast
+  5343 | D:5      | Killed a sky beast
+  5822 | D:5      | Reached skill level 1 in Throwing
+  5971 | D:5      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Stealth        |  2              3 |  3.7
+Fighting       |  1                |  1.0
+Short Blades   |     1             |  1.1
+Spellcasting   |        2  3       |  3.3
+Dodging        |        4     6    |  6.1
+Translocations |        1        3 |  3.0
+Slings         |           3       |  3.5
+Shields        |              1    |  1.0
+Throwing       |                 1 |  1.0
+Hexes          |                   |  3.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    35 |    19 ||    54
+ Fire: Hunting sling     |   134 |   133 ||   267
+Throw: Tomahawk          |     1 |     1 ||     2
+ Cast: Corona            |    36 |    14 ||    50
+       Slow              |     4 |    12 ||    16
+  Use: Potion            |     3 |       ||     3
+       Scroll            |     5 |     5 ||    10
+ Stab: Sleeping          |     4 |       ||     4
+  Eat: Ration            |       |     2 ||     2
+Armor: Robe              |     4 |     3 ||     7
+Dodge: Dodged            |    51 |    21 ||    72
+Block: Buckler           |       |     2 ||     2
+

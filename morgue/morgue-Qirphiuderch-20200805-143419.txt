@@ -1,0 +1,142 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17363672186010602994
+
+0 Qirphiuderch the Ducker (level 1, 11/11 HPs)
+             Began as a Spriggan Abyssal Knight on Aug 5, 2020.
+             Was an Initiate of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:10 (129 turns).
+
+Qirphiuderch the Ducker (Spriggan Abyssal Knight)    Turns: 129, Time: 00:03:11
+
+Health: 11/11      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  2/3        EV: 18    Int: 13    God:    Lugonu [......]
+Gold:   0          SH:  0    Dex: 15    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis +   a - +1 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 spear (weapon)
+Missiles
+ f - 25 stones (quivered)
+Armour
+ b - a +0 robe (worn)
+Jewellery
+ d - an uncursed amulet of regeneration {unknown}
+Scrolls
+ e - a scroll of teleportation {unknown}
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 1.3 Polearms
+ + Level 3.5 Dodging
+ + Level 1.7 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Tentacles burst from the starspawn's body!
+2 starspawn tentacles come into view.
+The starspawn tentacle moves out of view.
+Found a scroll labeled TESCHU COUDDIEST.
+You see here a scroll labeled TESCHU COUDDIEST.
+e - a scroll labeled TESCHU COUDDIEST
+Found 25 stones.
+You see here 25 stones.
+f - 25 stones
+A large abomination comes into view.
+A starcursed mass comes into view.
+A starcursed mass splits.
+Found a ration.
+You see here a ration.
+c - 2 rations (gained 1)
+A small abomination comes into view.
+You pass through the gate.
+You can no longer depart the Abyss at will.
+There is a staircase leading out of the dungeon here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ## ##
+# .#. #
+#.#.#.#
+ #.@.#
+#.#.#.#
+# .#. #
+ ## ##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (others)
+  2 starspawn tentacles (Abyss:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Qirphiuderch the Spriggan Abyssal Knight began the quest
+                  | for the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 11/11 MP: 3/3
+    68 | Abyss:1  | Noticed a tentacled starspawn
+   105 | Abyss:1  | Noticed a large abomination
+   119 | Abyss:1  | Noticed a starcursed mass
+   126 | Abyss:1  | Noticed a small abomination
+   128 | D:1      | Escaped the Abyss
+   129 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Depart the Abyss  ||     1
+

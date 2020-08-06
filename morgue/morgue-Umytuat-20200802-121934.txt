@@ -1,0 +1,140 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2806946350301728681
+
+0 Umytuat the Shield-Bearer (level 1, 19/19 HPs) *WIZ*
+             Began as a Minotaur Fighter on Aug 2, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:20 (0 turns).
+
+Umytuat the Shield-Bearer (Minotaur Fighter)           Turns: 0, Time: 00:02:20
+
+Health: 19/19      AC:  6    Str: 20    XL:     1   Next: 0%
+Magic:  0/0        EV:  7    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 trident
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.9 Polearms
+ + Level 3.6 Armour
+ - Level 1.0 Dodging
+ + Level 3.6 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Which skill (by name)? pol
+Polearms
+To what level? 2
+Reset Polearms to skill level 2.0.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.9 |     23 |  89% |   3.5 |   128  |  0.78 |      2.7
+Attack:   Mons | No hits
+Defend: Player |      5.5 |     13 |   2% |   0.1 |   100  |  1.00 |      0.1
+Defend:   Mons |      5.3 |     17 |  82% |   4.4 |   100  |  1.00 |      4.4
+Enter Wizard Command (? - help): 
+Which skill (by name)? pol
+Polearms
+To what level? 2.9
+Increased Polearms to skill level 2.9.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.0 |     23 |  89% |   3.6 |   124  |  0.81 |      2.9
+Attack:   Mons | No hits
+Defend: Player |      4.9 |     12 |   2% |   0.1 |   100  |  1.00 |      0.1
+Defend:   Mons |      5.2 |     17 |  83% |   4.3 |   100  |  1.00 |      4.3
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ####.####
+  ###.......###
+  #.....}.....#
+   #..}...}..#
+    #.......#
+     #..}..#
+      #...#
+   ####...####
+  ##....@....####
+......(..........
+}....}.....}....}
+...}....#....}...
+.}....#####....}.
+....##     ##....
+#.##         ##.#
+##              #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Umytuat the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Trident           || 16000
+       Headbutt          ||  5564
+Armor: Scale mail        ||  4821
+Dodge: Dodged            ||  3996
+Block: Shield            ||  6190
+

@@ -1,0 +1,330 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17882740243912550874
+
+1297 Heojir the Vandal (level 8, 63/63 HPs) *WIZ*
+             Began as a Demigod Arcane Marksman on Aug 4, 2020.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 01:03:07 (7711 turns).
+
+Heojir the Vandal (Demigod Arcane Marksman)         Turns: 7711, Time: 01:03:08
+
+Health: 63/63      AC:  8    Str: 17    XL:     8   Next: 9%
+Magic:  25/25      EV: 12    Int: 24    God:    
+Gold:   283        SH:  0    Dex: 16    Spells: 4/13 levels left
+
+rFire    . . .     SeeInvis .   a - +1 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   C - +0 ring mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   c - +1 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  o - +0 pair of boots
+Stlth    +.........             E - amulet "Toaxag" {Regen+ Int+3}
+HPRegen  0.60/turn              O - ring of magical power
+MPRegen  0.19/turn              D - +4 ring of strength
+
+@: no status effects
+A: high mp 1
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 283 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling (weapon)
+ b - a +2 short sword of speed
+ x - a +0 morningstar
+ z - a +0 lajatang
+ A - a +0 war axe
+ G - a +0 trident
+ K - a +1 dagger of flaming
+ T - a +3 quarterstaff of chaos
+Missiles
+ d - 12 sling bullets (quivered)
+ g - 123 stones
+ k - 62 arrows
+ q - 2 javelins
+ r - 3 needles of sleeping
+Armour
+ c - a +1 cloak (worn)
+ l - a +0 scale mail
+ o - a +0 pair of boots (worn)
+ v - a +2 robe of magic resistance
+ y - a +0 chain mail
+ C - a +0 ring mail (worn)
+Jewellery
+ D - a +4 ring of strength (right hand)
+ E - the amulet "Toaxag" (around neck) {Regen+ Int+3}
+   (You found it on level 4 of the Dungeon)   
+   
+   [amulet of regeneration]
+   
+   It affects your intelligence (+3).
+   It increases your rate of regeneration.
+ M - an uncursed amulet of faith {unknown}
+ O - a ring of magical power (left hand)
+ P - the ring of Guvvimykk {rF+ Slay+1}
+   (You found it on level 5 of the Dungeon)   
+   
+   [ring of slaying]
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+1).
+   It protects you from fire.
+Wands
+ B - a wand of disintegration (11)
+ N - a wand of polymorph (4)
+ Q - a wand of paralysis (11)
+Scrolls
+ e - a scroll of fog {unknown}
+ h - a scroll of remove curse
+ i - 3 scrolls of teleportation
+ j - a scroll of fear {unknown}
+ m - 2 scrolls of magic mapping
+ p - 2 scrolls of immolation
+ t - 3 scrolls of noise
+ u - a scroll of amnesia
+ J - a scroll of blinking {unknown}
+Potions
+ n - a potion of haste {unknown}
+ s - a potion of lignification
+ w - 3 potions of curing
+ F - a potion of ambrosia {unknown}
+ H - a potion of cancellation
+ I - a potion of might {unknown}
+ L - a potion of mutation {unknown}
+ S - a potion of brilliance {unknown}
+Comestibles
+ f - 4 rations
+
+
+   Skills:
+ - Level 3.0 Fighting
+ - Level 3.0 Short Blades
+ - Level 1.2(1.7) Axes
+ - Level 1.2(1.4) Maces & Flails
+ - Level 1.2(1.4) Polearms
+ + Level 3.6 Slings
+ - Level 3.0 Armour
+ - Level 3.0 Dodging
+ - Level 1.0 Stealth
+ - Level 3.2 Spellcasting
+ - Level 3.0 Hexes
+ - Level 1.2 Translocations
+ - Level 1.0 Fire Magic
+ + Level 2.7 Evocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      5%          1    None
+b - Slow                  Hex            ###.....     9%          2    ##.....
+c - Portal Projectile     Hex/Tloc       ##....       24%         3    ###....
+d - Inner Flame           Hex/Fire       ##......     26%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Cause Fear               Hex            ###.......   47%         4    ####...
+ Leda's Liquefaction      Hex/Erth       ##........   71%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Annotations:
+D:2 do not use spellbook
+D:3 exclusion: upstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+There is a stone staircase leading down here.
+You start resting.
+Eating one of 2 chunks of flesh. You eat one of the 2 chunks of flesh. This raw
+flesh tastes terrible.
+Magic restored.
+You climb downwards.
+Found 8 gold pieces and 17 arrows.
+There is a stone staircase leading up here.
+Okay, then.
+Okay, then.
+You climb upwards.
+There is a stone staircase leading down here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+All of the chunks of flesh in your inventory have rotted away.
+There is a stone staircase leading down here.
+You climb downwards.
+Found a stone staircase leading down.
+There is a stone staircase leading up here.
+a - a +1 hunting sling (weapon)
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #############  #.
+ #..........<#   .#
+ ...########.#    .#
+.#..#      #.#     .#
+.#(.#      #.#     #.# ####
+ ...#      #.#     #.. ...
+##..#      #.#     #..#.#
+$.<.#      #.#     #>.@.#
+.####      #.#     #..###
+                   #..
+                   #..
+                   #.#
+                   ..
+                  ##.
+                   #.
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:4)
+  Menkaure (D:4)
+  A porcupine (D:4)
+  Duvessa (D:4)
+  A phantom (D:5)
+  An ogre (D:4)
+  A boggart (D:4)
+  Dowan (D:4)
+  A scorpion (D:4)
+  A howler monkey (D:5)
+  A crimson imp (D:5)
+  A bullfrog zombie (D:5)
+  A centaur skeleton (D:2)
+  An iguana (D:4)
+  6 worker ants (D:4)
+  5 adders
+  An ooze (D:1)
+  An adder skeleton (D:4)
+  3 dart slugs
+  3 leopard geckos
+  9 orcs
+  6 giant cockroaches
+  2 goblins
+  3 hobgoblins
+  2 quokkas
+  A ball python skeleton (D:4)
+  4 bats
+  3 frilled lizards
+  8 kobolds
+  A leopard gecko skeleton (D:4)
+  A leopard gecko zombie (D:5)
+  6 rats
+79 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Heojir the Demigod Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 4/4
+   259 | D:1      | Reached skill level 1 in Stealth
+   662 | D:1      | Reached XP level 2. HP: 22/22 MP: 5/5
+   760 | D:1      | Reached skill level 1 in Fighting
+   867 | D:1      | Learned a level 2 spell: Slow
+  1298 | D:2      | Reached skill level 1 in Armour
+  1416 | D:2      | Reached XP level 3. HP: 28/28 MP: 4/6
+  1496 | D:2      | Found a snail-covered altar of Cheibriados.
+  1499 | D:2      | Reached skill level 1 in Short Blades
+  2014 | D:3      | Reached XP level 4. HP: 34/36 MP: 6/8
+  2955 | D:2      | Entered wizard mode.
+  2955 | D:2      | Identified the Incunabulum of Spatial Moulding (Your
+                  | wizardly powers created it on level 2 of the Dungeon)
+  3563 | D:3      | Learned a level 3 spell: Portal Projectile
+  3566 | D:4      | Noticed Menkaure
+  3575 | D:4      | Killed Menkaure
+  3575 | D:4      | Reached skill level 1 in Axes
+  3575 | D:4      | Reached skill level 1 in Maces & Flails
+  3575 | D:4      | Reached skill level 1 in Polearms
+  3575 | D:4      | Reached XP level 5. HP: 41/41 MP: 7/11
+  3843 | D:4      | Got a slimy silver amulet
+  4238 | D:4      | Noticed Ijyb
+  4354 | D:4      | Reached XP level 6. HP: 27/48 MP: 7/12
+  4379 | D:4      | Found a runed translucent door.
+  4380 | D:4      | Noticed Crazy Yiuf
+  4613 | D:3      | Learned a level 3 spell: Inner Flame
+  4926 | D:4      | Reached skill level 1 in Evocations
+  5218 | D:4      | Noticed Grinder
+  5232 | D:4      | Killed Grinder
+  5232 | D:4      | Reached skill level 1 in Translocations
+  5232 | D:4      | Reached XP level 7. HP: 56/56 MP: 7/13
+  5306 | D:4      | Reached skill level 1 in Fire Magic
+  5317 | D:4      | Noticed Dowan
+  5790 | D:4      | Noticed Duvessa
+  6190 | D:4      | Killed Duvessa
+  6237 | D:4      | Killed Dowan
+  6442 | D:5      | Entered Level 5 of the Dungeon
+  6495 | D:5      | Found an iron altar of Okawaru.
+  6689 | D:5      | Found an ornate altar of the Wu Jian Council.
+  6692 | D:5      | Identified the amulet "Toaxag" {Regen+ Int+3} (You found it
+                  | on level 4 of the Dungeon)
+  7032 | D:5      | Got a scorched lead ring
+  7088 | D:5      | Identified the ring of Guvvimykk {rF+ Slay+1} (You found it
+                  | on level 5 of the Dungeon)
+  7204 | D:4      | Noticed Ijyb
+  7204 | D:4      | Ijyb changed into Ijyb the boggart
+  7208 | D:4      | Killed Ijyb the boggart
+  7208 | D:4      | Reached XP level 8. HP: 63/63 MP: 16/16
+  7438 | D:4      | Noticed Crazy Yiuf
+  7438 | D:4      | Crazy Yiuf changed into Crazy Yiuf the porcupine
+  7447 | D:4      | Killed Crazy Yiuf the porcupine
+  7711 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Dodging        |  2              3    |  3.0
+Stealth        |  1                   |  1.0
+Slings         |  2                 3 |  3.6
+Fighting       |     1  2           3 |  3.0
+Armour         |     1           2  3 |  3.0
+Short Blades   |        1  2        3 |  3.0
+Axes           |           1          |  1.2
+Maces & Flails |           1          |  1.2
+Polearms       |           1          |  1.2
+Spellcasting   |           2        3 |  3.2
+Evocations     |                 1  2 |  2.7
+Translocations |                 1    |  1.2
+Fire Magic     |                    1 |  1.0
+Hexes          |                    3 |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     1 |       |       ||     1
+       Dagger            |    25 |  4062 |     8 ||  4095
+       Lajatang          |       |  4000 |       ||  4000
+       Short sword       |       |       |    39 ||    39
+ Fire: Hunting sling     |    59 |    91 |    59 ||   209
+ Cast: Corona            |    23 |    37 |    19 ||    79
+       Slow              |       |    24 |    18 ||    42
+Evoke: Wand              |       |       |    12 ||    12
+  Use: Scroll            |     7 |     2 |     3 ||    12
+       Potion            |       |     2 |     1 ||     3
+  Eat: Chunk             |     4 |    10 |     4 ||    18
+       Ration            |       |       |     2 ||     2
+Armor: Leather armour    |    11 |  2245 |       ||  2256
+       Ring mail         |       |     4 |    15 ||    19
+       Skin              |       |     1 |       ||     1
+Dodge: Dodged            |    28 |  4148 |    30 ||  4206
+

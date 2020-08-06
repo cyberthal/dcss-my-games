@@ -1,0 +1,134 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17362250735011936921
+
+0 Jahush the Vandal (level 1, 12/12 HPs) *WIZ*
+             Began as a Halfling Arcane Marksman on Aug 4, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:32 (0 turns).
+
+Jahush the Vandal (Halfling Arcane Marksman)           Turns: 0, Time: 00:00:32
+
+Health: 12/12      AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  2/2        EV: 15    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 1/2 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: small, mutation resistance 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ e - a +0 robe (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 0.8 Fighting
+ + Level 3.0 Slings
+ + Level 2.1 Dodging
+ + Level 1.0 Spellcasting
+ + Level 2.4 Hexes
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            5 (90)       12%         1    39
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            5 (100)      19%         2    89
+ Inner Flame              Hex/Fire       3 (100)      52%         3    139
+ Portal Projectile        Hex/Tloc       3 (50)       52%         3    139
+ Cause Fear               Hex            5 (200)      77%         4    239
+ Leda's Liquefaction      Hex/Erth       3 (200)      89%         4    239
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+
+
+Message History
+
+Welcome, Jahush the Halfling Arcane Marksman.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - you
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.1 |     10 |  42% |   1.7 |   105  |  0.95 |      1.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.0 |      5 |  36% |   0.7 |    76  |  1.32 |      0.9
+Saving game... please wait.
+Welcome back, Jahush the Halfling Arcane Marksman.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#
+#P~
+#..~.####
+#~~~~..@#
+#########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jahush the Halfling Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 2/2
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Armor: Robe              ||   307
+Dodge: Dodged            ||  2558
+

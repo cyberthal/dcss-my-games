@@ -1,0 +1,443 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16232509000741062761
+
+Ruriag the Caregiver (Formicid Earth Elementalist) Turns: 17872, Time: 03:42:56
+
+Health: 80/81      AC:  4    Str: 14    XL:     11   Next: 41%
+Magic:  21/32      EV: 13    Int: 14    God:    Elyvilon [**....]
+Gold:   143        SH:  5    Dex: 14    Spells: 0/18 levels left
+
+rFire    . . .     SeeInvis +   I - staff of power {mHP +15}
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   k - +0 leather armour {rPois}
+rPois    +         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  +   (no cloak)
+rCorr    +         Harm     .   x - +0 pair of gloves
+MR       +....                  (no boots)
+Stlth    +++.......             B - +5 amulet of reflection
+HPRegen  0.23/turn              F - ring of stealth
+MPRegen  0.23/turn              r - ring of resist corrosion
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
+a: Dig, Shaft Self, Lesser Healing, Heal Other, Divine Protection, Renounce
+Religion
+
+
+You are on level 10 of the Dungeon.
+You worship Elyvilon.
+Elyvilon is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 11 of its levels.
+
+You have collected 555 gold pieces.
+You have spent 412 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of flaming
+ b - the +5 rapier of Youthful Indiscretion {venom, Int+2}
+   (You found it on level 6 of the Dungeon)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It affects your intelligence (+2).
+ c - a +0 falchion
+ d - a +2 flail of protection
+ e - a +2 hand axe of flaming
+ f - a +0 trident
+ g - a +2 blowgun
+ h - a +0 hunting sling
+Missiles
+ j - 14 arrows
+ l - 36 poisoned needles
+ q - 8 javelins
+ v - 150 stones
+ z - 115 sling bullets
+ H - 5 tomahawks (quivered)
+Armour
+ k - a +0 leather armour of poison resistance (worn)
+ x - a +0 pair of gloves (worn)
+ A - a +2 animal skin
+ G - a +0 shield
+ O - a +2 chain mail of magic resistance
+ W - a +0 robe of magic resistance
+Magical Staves
+ I - an uncursed staff of power (weapon) {mHP +15}
+Jewellery
+ r - a ring of resist corrosion (right hand)
+ B - a +5 amulet of reflection (around neck)
+ F - a ring of stealth (left hand)
+Wands
+ J - a wand of polymorph (9)
+ P - a wand of digging (3)
+ Q - a wand of iceblast (6)
+Scrolls
+ m - a scroll of identify
+ y - a scroll of immolation
+ L - a scroll of fear
+ R - a scroll of magic mapping
+Potions
+ i - a potion of ambrosia
+ n - 4 potions of brilliance
+ o - 2 potions of magic
+ w - 3 potions of curing
+ D - 4 potions of flight
+Comestibles
+ p - a chunk of flesh
+ C - 20 rations
+
+
+   Skills:
+ - Level 6.0 Fighting
+ - Level 2.4(3.0) Short Blades
+ - Level 2.3(2.9) Long Blades
+ + Level 3.1(3.6) Axes
+ - Level 2.7(4.0) Maces & Flails
+ - Level 3.0(3.5) Staves
+ - Level 3.5(4.0) Slings
+ - Level 2.1(3.0) Throwing
+ - Level 5.2 Armour
+ - Level 4.1 Dodging
+ - Level 4.2 Stealth
+ - Level 3.0 Shields
+ + Level 4.4 Spellcasting
+ + Level 2.5 Conjurations
+ - Level 4.0 Transmutations
+ + Level 1.7 Fire Magic
+ - Level 7.0 Earth Magic
+ - Level 7.2 Invocations
+ + Level 5.5 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           ###...       1%          1    None
+b - Flame Tongue          Conj/Fire      #....        10%         1    None
+c - Throw Flame           Conj/Fire      #.....       14%         2    ##.....
+d - Passwall              Tmut/Erth      ###.....     3%          2    ##.....
+e - Stone Arrow           Conj/Erth      ###...       10%         3    ###....
+f - Petrify               Tmut/Erth      ###.....     24%         4    ####...
+g - Lee's Rapid Deconstr  Erth           ###.......   34%         5    ######.
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Conjure Flame            Conj/Fire      #.......     28%         3    ###....
+ Inner Flame              Hex/Fire       #.......     43%         3    ###....
+ Sticky Flame             Conj/Fire      #.......     67%         4    ####...
+ Fireball                 Conj/Fire      #.........   95%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:7         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 =
+
+Annotations:
+D:7 stash
+D:9 exclusion: obsidian statue
+D:10 exclusion: orc priest
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+Your four strong arms can wield two-handed weapons with a shield.
+You have a pair of large antennae on your head. (SInv)
+
+
+Message History
+
+Key pressed, stopping explore.
+Unknown command.
+z - 111 sling bullets (gained 1)
+z - 112 sling bullets (gained 1)
+z - 113 sling bullets (gained 1)
+z - 114 sling bullets (gained 1)
+z - 115 sling bullets (gained 1)
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+An orc priest comes into view. It is wielding a +0 whip.
+Found a leather armour.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+Here: an orc priest, wielding a +0 whip and wearing a cursed +0 ring mail
+(resting)
+The floor.
+Placed new exclusion.
+Okay, then.
+Okay, then.
+Saving game... please wait.
+
+             ********,..#
+             *,,,,,,,,#.#
+             *,****####.##########
+***********  *,*   #.............#
+,,,,,,,,,,*  *,****#.##.########.#
+*********,*  *,,,,,*,#.........#.#
+        *,*  *****,*,#..#..)...#.#
+        *,*   ****,*,#..#......#.#
+*********,**  *,,,,,,#..#..#...#.#
+,,,,,,,,,,,*  *,,,,,,#..#..#<..#.#
+*********,,*  *,,,,,,#..#....#.#.#
+        *,,*  *,,,,,,#..#......#.#
+*********,,*  *,,{,,,#...........#
+*,,,,,,**,,****,,,,,,#@###########
+*,,,,,,**,,,,,,,,,,*,#........,,*
+*,,,,,,**,,,,,,,,,,*,.........,,*
+,,,,,,,,,,,,,,,,,,,,.........[,>*
+,,,,,,,,,,,,,,,,,*,#.#.$.!...#,**
+*********,**,**,**,#.#^#####.#,*#########
+        *,**,,,,,,,..#.#**,,,.,,.......<#
+        *,**,,,,,,o.,#..,,,,,*,*#########
+        *,,,,,,,,,,..#******,*,*
+    *****,***,,,,,,...,,,,,,,*,*
+    *,,,,** *,*****#.#******,*,*
+    *,,,,*  *,*#####.#     ***,*
+    *,,,,****.,,...#.#     *,,,*
+
+
+You can see an orc priest (sleeping).
+
+Vanquished Creatures
+  A hydra (D:8)
+  An unseen horror (D:10)
+  A hornet (D:8)
+  2 dream sheep (D:8)
+  A hippogriff (D:8)
+  2 yaks (D:8)
+  A wyvern (D:10)
+  Eustachio (D:5)
+  Menkaure (D:7)
+  Edmund (D:6)
+  A water moccasin (D:7)
+  6 orc warriors
+  A hornet zombie (D:8)
+  A necrophage (D:9)
+  3 sky beasts
+  A black bear (D:7)
+  4 phantoms
+  2 ogres
+  3 centaurs
+  A crocodile (D:10)
+  5 big kobolds
+  3 bullfrogs
+  3 scorpions
+  4 howler monkeys
+  4 wights
+  2 quasits
+  7 hounds
+  5 jellies
+  7 orc priests
+  4 centaur skeletons
+  A bullfrog skeleton (D:4)
+  Jessica (D:2)
+  5 iguanas
+  15 orc wizards
+  9 worker ants
+  2 hound skeletons
+  A howler monkey zombie (D:7)
+  A worker ant zombie (D:9)
+  Robin (D:1)
+  A howler monkey skeleton (D:10)
+  4 gnolls (D:2)
+  13 adders
+  6 shadow imps
+  An ooze (D:1)
+  An adder zombie (D:6)
+  An adder skeleton (D:4)
+  3 worms
+  5 leopard geckos
+  34 orcs
+  3 ball pythons
+  7 bats
+  5 giant cockroaches
+  12 hobgoblins
+  7 jackals
+  6 quokkas
+  3 frilled lizards
+  14 goblins
+  17 kobolds
+  9 rats
+267 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ruriag the Formicid Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   303 | D:1      | Reached skill level 1 in Fighting
+   303 | D:1      | Reached XP level 2. HP: 21/21 MP: 0/5
+   307 | D:1      | Learned a level 2 spell: Passwall
+  1023 | D:2      | Reached XP level 3. HP: 26/26 MP: 3/6
+  1026 | D:2      | Reached skill level 1 in Maces & Flails
+  1082 | D:2      | Noticed a sky beast
+  1088 | D:1      | Reached skill level 1 in Armour
+  1102 | D:1      | Learned a level 3 spell: Stone Arrow
+  2389 | D:1      | Killed a sky beast
+  2389 | D:1      | Reached skill level 1 in Short Blades
+  2389 | D:1      | Reached skill level 1 in Conjurations
+  2389 | D:1      | Reached XP level 4. HP: 23/33 MP: 1/7
+  2389 | D:1      | Reached XP level 5. HP: 26/38 MP: 1/8
+  2482 | D:1      | Entered wizard mode.
+  2613 | D:2      | Found a shimmering altar of Xom.
+  2718 | D:2      | Identified the +1 helmet of Trog's Righteous Anger {rElec
+                  | Str+2 Dex+4}
+  2718 | D:2      | Noticed Robin
+  2721 | D:2      | Reached skill level 1 in Slings
+  2761 | D:1      | Killed Robin
+  2832 | D:2      | Reached XP level 6. HP: 43/47 MP: 7/9
+  3098 | D:2      | Noticed Jessica
+  3149 | D:2      | Killed Jessica
+  3453 | D:2      | Found a snail-covered altar of Cheibriados.
+  3453 | D:2      | Found an ornate altar of the Wu Jian Council.
+  3453 | D:2      | Found a stormy altar of Qazlal.
+  3500 | D:2      | Found an ancient bone altar of Kikubaaqudgha.
+  3500 | D:2      | Found a hide-covered altar of Uskayaw.
+  3673 | D:2      | Learned a level 4 spell: Petrify
+  4553 | D:3      | Found a shimmering altar of Xom.
+  5103 | D:4      | Reached skill level 1 in Throwing
+  5211 | D:3      | Reached skill level 1 in Axes
+  5211 | D:3      | Reached XP level 7. HP: 42/52 MP: 6/11
+  5386 | D:4      | Reached skill level 1 in Evocations
+  6067 | D:4      | Reached skill level 5 in Earth Magic
+  6314 | D:4      | Reached XP level 8. HP: 38/60 MP: 8/12
+  6460 | D:4      | Found a glowing silver altar of Zin.
+  6905 | D:5      | Entered Level 5 of the Dungeon
+  7308 | D:5      | Found a bloodstained altar of Trog.
+  7506 | D:5      | Found Woshaam's Jewellery Shop.
+  7621 | D:5      | Bought an uncursed ring of stealth for 192 gold pieces
+  8309 | D:6      | Noticed Eustachio
+  8317 | D:5      | Killed Eustachio
+  8853 | D:6      | Found a shadowy altar of Dithmenos.
+  8934 | D:5      | Reached skill level 1 in Staves
+  9135 | D:6      | Reached skill level 1 in Long Blades
+  9135 | D:6      | Reached XP level 9. HP: 54/65 MP: 7/15
+  9357 | D:6      | Noticed Edmund
+  9433 | D:6      | Got a warped rapier
+  9507 | D:6      | Found a deep blue altar of Sif Muna.
+  9681 | D:6      | Killed Edmund
+  9733 | D:6      | Reached skill level 5 in Fighting
+  9964 | D:6      | Learned a level 5 spell: Lee's Rapid Deconstruction
+  9976 | D:7      | Noticed Menkaure
+ 10312 | D:7      | Reached skill level 5 in Armour
+ 11533 | D:7      | Reached skill level 5 in Evocations
+ 11572 | D:7      | Reached XP level 10. HP: 65/74 MP: 3/16
+ 11853 | D:7      | Found a staircase to the Ecumenical Temple.
+ 11880 | Temple   | Entered the Ecumenical Temple
+ 11920 | Temple   | Became a worshipper of Elyvilon the Healer
+ 12624 | D:7      | Killed Menkaure
+ 13422 | D:8      | Reached * piety under Elyvilon
+ 13784 | D:8      | Reached skill level 1 in Invocations
+ 13960 | D:8      | Found a deep blue altar of Sif Muna.
+ 14526 | D:8      | Noticed a two-headed hydra
+ 14664 | D:8      | Reached skill level 5 in Invocations
+ 15096 | D:8      | Killed a one-headed hydra
+ 15096 | D:8      | Reached XP level 11. HP: 54/81 MP: 17/17
+ 15233 | D:5      | Bought an uncursed ring of resist corrosion for 220 gold
+                  | pieces
+ 15307 | D:7      | Identified the +5 rapier of Youthful Indiscretion {venom,
+                  | Int+2} (You found it on level 6 of the Dungeon)
+ 15570 | D:8      | Learned a level 1 spell: Flame Tongue
+ 15573 | D:8      | Learned a level 2 spell: Throw Flame
+ 15682 | D:9      | Reached skill level 1 in Shields
+ 16258 | D:8      | Reached skill level 1 in Fire Magic
+ 16510 | D:9      | Noticed an obsidian statue
+ 16537 | D:9      | Found a burning altar of Makhleb.
+ 16581 | D:9      | Reached ** piety under Elyvilon
+ 17453 | D:10     | Entered Level 10 of the Dungeon
+ 17822 | D:10     | Noticed an unseen horror
+ 17832 | D:10     | Killed an unseen horror
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Dodging        |  2                    3  4       |  4.1
+Fighting       |  1     2     3     4     5  6    |  6.0
+Maces & Flails |        1     2                   |  2.7
+Armour         |        1              3  5       |  5.2
+Short Blades   |        1           2             |  2.4
+Conjurations   |        1                    2    |  2.5
+Earth Magic    |              4     5     6  7    |  7.0
+Slings         |              1     2           3 |  3.5
+Throwing       |                 1           2    |  2.1
+Spellcasting   |                 3     4          |  4.4
+Axes           |                 1           2  3 |  3.1
+Evocations     |                    2  3  5       |  5.5
+Transmutations |                    3           4 |  4.0
+Stealth        |                       3     4    |  4.2
+Staves         |                       1     3    |  3.0
+Long Blades    |                       1     2    |  2.3
+Invocations    |                             7    |  7.2
+Shields        |                                3 |  3.0
+Fire Magic     |                                1 |  1.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Whip              |    43 |  4031 |       |       ||  4074
+       Unarmed           |     3 |       |       |       ||     3
+       Dagger            |     1 |  8057 |    65 |     3 ||  8126
+       Mace              |       |  8014 |       |       ||  8014
+       Rapier            |       |  4000 |       |    28 ||  4028
+       Staff             |       |       |    47 |     8 ||    55
+       Scimitar          |       |       |    10 |    17 ||    27
+       Flail             |       |       |     2 |    85 ||    87
+       Hand axe          |       |       |       |     2 ||     2
+ Fire: Hunting sling     |       |   173 |    64 |   143 ||   380
+       Blowgun           |       |       |    28 |    24 ||    52
+Throw: Stone             |    13 |       |     5 |       ||    18
+       Tomahawk          |       |       |    12 |     8 ||    20
+       Javelin           |       |       |     3 |       ||     3
+ Cast: Sandblast         |    26 |    27 |    47 |    39 ||   139
+       Passwall          |       |     2 |     4 |     7 ||    13
+       Stone Arrow       |       |     1 |   103 |    79 ||   183
+Evoke: Wand              |       |     1 |     1 |       ||     2
+  Use: Potion            |     2 |     1 |       |       ||     3
+       Scroll            |       |     4 |     6 |     8 ||    18
+ Stab: Sleeping          |     1 |     1 |       |     2 ||     4
+  Eat: Chunk             |     2 |     9 |    29 |    22 ||    62
+       Ration            |     1 |       |     1 |     2 ||     4
+Armor: Robe              |     2 |       |       |       ||     2
+       Leather armour    |    18 |    13 |    18 |    55 ||   104
+       Animal skin       |       |  6050 |    11 |       ||  6061
+Dodge: Dodged            |    47 | 12015 |   119 |   131 || 12312
+Block: Other             |       |       |    33 |    48 ||    81
+       Reflection        |       |       |     3 |       ||     3
+Rpst.: Scimitar          |       |       |     3 |     6 ||     9
+

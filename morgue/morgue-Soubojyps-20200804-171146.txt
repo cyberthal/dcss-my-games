@@ -1,0 +1,123 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1359248198106496043
+
+0 Soubojyps the Vexing (level 1, 15/15 HPs) *WIZ*
+             Began as a Human Arcane Marksman on Aug 4, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:15 (0 turns).
+
+Soubojyps the Vexing (Human Arcane Marksman)           Turns: 0, Time: 00:00:15
+
+Health: 15/15      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  2/2        EV: 12    Int: 13    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 1/2 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   e - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ e - a +0 robe (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 1.0 Fighting
+ + Level 2.0 Slings
+ + Level 2.0 Dodging
+ + Level 1.0 Spellcasting
+ + Level 3.0 Hexes
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            8 (90)       9%          1    37
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            8 (100)      12%         2    87
+ Inner Flame              Hex/Fire       4 (100)      41%         3    137
+ Portal Projectile        Hex/Tloc       4 (50)       41%         3    137
+ Cause Fear               Hex            8 (200)      63%         4    237
+ Leda's Liquefaction      Hex/Erth       4 (200)      83%         4    237
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Soubojyps the Human Arcane Marksman.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found 21 stones and 8 gold pieces.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       .#
+ #     .#  # #
+  .    .# .#.
+  #. # . ...
+#.#.#.#.#.#.#
+ #.#.#.#.#.#
+  #.~~~~~.#
+   #~.@.~#
+  #.~...~.#
+ #.#~...~#.#
+#.#.~~~~~.#.#
+ #.#.#.#.#.#
+#$#.#.#.#.#(#
+#### # # ##...
+            ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Soubojyps the Human Arcane Marksman began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 2/2
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+

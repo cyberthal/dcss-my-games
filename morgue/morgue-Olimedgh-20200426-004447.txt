@@ -1,0 +1,512 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7683717118429095593
+
+11704 Olimedgh the Nimble (level 11, 76/87 HPs) *WIZ*
+             Began as a Merfolk Skald on Apr 19, 2020.
+             Was an Elder of Elyvilon.
+             Quit the game on level 1 of the Lair of Beasts on Apr 26, 2020.
+             The game lasted 04:09:06 (20100 turns).
+
+Olimedgh the Nimble (Merfolk Skald)                Turns: 20100, Time: 04:09:06
+
+Health: 76/87      AC:  8    Str: 11    XL:     11   Next: 81%
+Magic:  17/17      EV: 18    Int: 17    God:    Elyvilon 114 (0)
+Gold:   882        SH:  0    Dex: 17    Spells: 1/17 levels left
+
+rFire    + . .     SeeInvis .   g - +9 hunting sling (flame)
+rCold    + + .     Gourm    .   (no shield)
+rNeg     . . .     Faith    +   S - +0 troll leather armour
+rPois    .         Spirit   .   C - +0 helmet
+rElec    .         Reflect  .   G - scarf {rC+ rF+}
+rCorr    .         Harm     .   n - +2 pair of gloves
+MR       .....     NoTele   +   (no boots)
+Stlth    +++++.....             H - amulet of faith
+HPRegen  0.64/turn              F - ring "Xubb" {-Tele +Fly rC+ Int+4 Stlth+}
+MPRegen  0.15/turn              y - ring of stealth
+
+@: mildly poisoned (76 -> 75), shrouded (expiring)
+A: change form in water, swift swim, stealthy swim
+a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Protection,
+Renounce Religion, Evoke Flight
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Elyvilon.
+Elyvilon was greatly pleased with you.
+You were hungry.
+
+You visited 3 branches of the dungeon, and saw 13 of its levels.
+
+You collected 882 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 dagger of freezing
+ b - a +1 short sword of venom
+ c - a +3 long sword
+ d - a +0 spear
+ e - a +0 halberd
+ f - a +3 blowgun
+ g - a +9 hunting sling of flaming (weapon)
+Missiles
+ k - 5 curare-tipped needles
+ l - 341 stones
+ m - 4 throwing nets {!f}
+ r - 3 tomahawks
+ w - 62 sling bullets (quivered)
+ x - 5 needles of sleeping {!f}
+ B - 9 javelins
+ D - 67 poisoned needles
+Armour
+ n - a +2 pair of gloves (worn)
+ C - a +0 helmet (worn)
+ G - a scarf of resistance (worn)
+ L - a +1 scale mail of poison resistance
+ O - the +0 chain mail of Paranoia {-Cast rC+++ MR+++ Int-5}
+   (You took it off an orc on level 11 of the Dungeon)   
+   
+   It affects your intelligence (-5).
+   It renders you almost immune to cold.
+   It affects your resistance to hostile enchantments.
+   It prevents spellcasting.
+ S - a +0 troll leather armour (worn)
+ U - a +3 leather armour of fire resistance
+Magical Staves
+ X - an uncursed staff of power
+Jewellery
+ y - a ring of stealth (right hand)
+ F - the ring "Xubb" (left hand) {-Tele +Fly rC+ Int+4 Stlth+}
+   (You took it off an orc on level 11 of the Dungeon)   
+   
+   [ring of stealth]
+   
+   It affects your intelligence (+4).
+   It protects you from cold.
+   It lets you fly.
+   It prevents most forms of teleportation.
+   It makes you more stealthy.
+ H - an amulet of faith (around neck)
+ K - an uncursed ring of protection from magic
+Wands
+ h - a wand of polymorph (7)
+ J - a wand of flame (13)
+ P - a wand of iceblast (6)
+Scrolls
+ i - 2 scrolls of blinking
+ j - 2 scrolls of magic mapping {unknown}
+ p - 3 scrolls of remove curse
+ v - a scroll of fog
+ z - 6 scrolls of teleportation
+Potions
+ o - 2 potions of heal wounds
+ q - a potion of flight
+ s - 2 potions of might
+ t - a potion of agility
+ E - 2 potions of cancellation
+ I - 2 potions of curing
+ N - 2 potions of invisibility
+ R - a potion of magic
+ V - 2 potions of brilliance
+Comestibles
+ A - 18 rations
+
+
+   Skills:
+ - Level 8.3 Fighting
+ - Level 4.1(6.1) Short Blades
+ - Level 6.4(6.9) Long Blades
+ - Level 6.1 Polearms
+ - Level 2.2(2.7) Slings
+ - Level 3.0(3.5) Throwing
+ - Level 3.0 Armour
+ - Level 9.1 Dodging
+ - Level 4.0 Stealth
+ - Level 3.6 Spellcasting
+ + Level 4.6 Hexes
+ + Level 7.1 Charms
+ - Level 2.0 Translocations
+ - Level 8.4 Invocations
+ - Level 4.0 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           25 (25)      1%          1    0
+b - Confusing Touch       Hex            18 (50)      3%          1    0
+c - Song of Slaying       Chrm           27 (100)     1%          2    39
+d - Shroud of Golubria    Chrm/Tloc      18 (200)     4%          2    39
+e - Slow                  Hex            18 (100)     4%          2    39
+f - Blink                 Tloc           N/A          14%         2    39
+g - Confuse               Hex            18 (100)     10%         3    89
+h - Spectral Weapon       Hex/Chrm       23 (100)     5%          3    89
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          22%         1    0
+ Magic Dart               Conj           3 (25)       22%         1    0
+ Pain                     Necr           3 (25)       22%         1    0
+ Regeneration             Chrm/Necr      15 (200)     14%         3    89
+ Gell's Gravitas          Tloc           9 (200)      28%         3    89
+ Call Imp                 Summ           3 (100)      32%         2    39
+ Poisonous Vapours        Pois/Air       3 (50)       32%         2    39
+ Sublimation of Blood     Necr           3 (200)      32%         2    39
+ Conjure Flame            Conj/Fire      3 (100)      54%         3    89
+ Ignite Poison            Fire/Tmut/Pois 3 (100)      54%         3    89
+ Mephitic Cloud           Conj/Pois/Air  3 (100)      54%         3    89
+ Vampiric Draining        Necr           3 (200)      54%         3    89
+ Animate Dead             Necr           N/A          91%         4    189
+ Petrify                  Tmut/Erth      3 (100)      91%         4    189
+ Metabolic Englaciation   Hex/Ice        11 (200)     92%         5    339
+ Yara's Violent Unravell  Hex/Tmut       11 (200)     92%         5    339
+ Alistair's Intoxication  Tmut/Pois      3 (100)      99%         5    339
+ Irradiate                Conj/Tmut      3 (200)      99%         5    339
+ Freezing Cloud           Conj/Ice/Air   3 (200)      100%        6    489
+ Ring of Flames           Chrm/Fire      15 (200)     100%        7    639
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:4            Lair (1/6) D:11
+    Orc (0/2) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Lugonu
+
+Shops:
+D:9 (%
+
+Annotations:
+D:2 natasha
+D:3 exclusion: moth of wrath
+D:6 2 transporters, Seysh's ghost, novice MiFi
+D:8 exclusion: upstairs, Harold
+D:9 1 runed translucent door, Veogap's ghost, novice TrBe
+D:11 exclusions: 4 doors and 1 more exclusion
+
+Message History
+
+You shoot a sling bullet.
+The sling bullet completely misses the porcupine.
+You feel sick.
+Firing (i - inventory. (/) - cycle) w - 63 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - porcupine
+Aim: a porcupine (severely wounded)
+You shoot a sling bullet. The sling bullet hits the porcupine! The sling bullet
+burns the porcupine.
+You kill the porcupine!
+You feel sick.
+Saving game... please wait.
+Welcome back, Olimedgh the Merfolk Skald.
+Elyvilon says: Go forth and aid the weak!
+Press ? for a list of commands and other information.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting,
+(c)onfirm, m(e)nu], (s)ave? 
+Aborting.
+Search for what [? for help]? shield
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#........
+#../.....
+#........
+#........
+#........
+#........
+#.......$
+#@.......
+#........
+#........
+#........
+#(.......
+#........
+#........
+#.(......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:10)
+  Urug (D:10)
+  Sonja (D:10)
+  An unseen horror (D:10)
+  Joseph (D:8)
+  A spiny frog (Lair:1)
+  A komodo dragon (D:9)
+  4 trolls
+  Grinder (D:2)
+  A hippogriff (D:10)
+  A spriggan (D:7)
+  A wyvern (D:8)
+  3 wraiths
+  Grum (D:8)
+  Menkaure (D:6)
+  A porcupine (Lair:1)
+  A water moccasin (D:9)
+  3 ice beasts
+  7 orc warriors
+  An eye of draining (D:9)
+  A phantom (D:4)
+  4 sky beasts
+  3 black bears
+  2 wolves
+  4 centaurs
+  6 ogres
+  3 big kobolds
+  A wyvern zombie (D:11)
+  4 bullfrogs
+  An elf zombie (D:9)
+  4 scorpions
+  A troll zombie (D:9)
+  9 killer bees
+  9 wights
+  5 howler monkeys
+  3 crimson imps
+  A centaur zombie (D:8)
+  2 bullfrog zombies
+  2 hounds
+  5 human zombies (D:9)
+  A quasit (D:10)
+  3 jellies
+  6 orc priests
+  6 orc wizards
+  A centaur skeleton (D:9)
+  5 iguanas
+  Natasha (D:2)
+  5 worker ants
+  A killer bee zombie (D:10)
+  3 hound skeletons
+  A hound zombie (D:9)
+  2 mummies (D:9)
+  A howler monkey skeleton (D:7)
+  A worker ant zombie (D:7)
+  14 adders
+  4 shadow imps
+  4 oozes
+  5 worms
+  2 dart slugs
+  3 leopard geckos
+  25 orcs
+  4 ball pythons
+  4 bats
+  5 giant cockroaches
+  7 hobgoblins
+  8 jackals
+  23 kobolds
+  2 quokkas
+  3 frilled lizards
+  12 goblins
+  An orc skeleton (D:9)
+  A quokka skeleton (D:5)
+  3 quokka zombies
+  12 rats
+282 creatures vanquished.
+
+Vanquished Creatures (others)
+  6 plants (D:6)
+  2 spectral weapons
+8 creatures vanquished.
+
+Grand Total: 290 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Olimedgh the Merfolk Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+   350 | D:1      | Reached skill level 1 in Stealth
+   498 | D:1      | Reached XP level 2. HP: 23/23 MP: 0/5
+   713 | D:1      | Learned a level 2 spell: Song of Slaying
+   716 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   782 | D:1      | Reached skill level 3 in Dodging
+   949 | D:1      | Reached XP level 3. HP: 28/28 MP: 6/6
+  1286 | D:1      | Reached skill level 1 in Translocations
+  1629 | D:1      | Reached skill level 7 in Dodging
+  1629 | D:1      | Reached XP level 4. HP: 40/40 MP: 7/7
+  2066 | D:2      | Reached XP level 5. HP: 44/46 MP: 2/8
+  2884 | D:3      | Noticed Grinder
+  2969 | D:3      | Noticed Natasha
+  3006 | D:2      | Learned a level 3 spell: Spectral Weapon
+  3028 | D:2      | Paralysed by Grinder for 6 turns
+  3050 | D:2      | Killed Grinder
+  3050 | D:2      | Reached skill level 1 in Throwing
+  3050 | D:2      | Reached skill level 1 in Hexes
+  3050 | D:2      | Reached XP level 6. HP: 52/52 MP: 9/9
+  3113 | D:2      | Killed Natasha
+  3394 | D:3      | Found a hide-covered altar of Uskayaw.
+  3746 | D:3      | Noticed a moth of wrath
+  3749 | D:3      | Found a bloodstained altar of Trog.
+  4095 | D:3      | Learned a level 2 spell: Slow
+  4269 | D:4      | Found a glowing silver altar of Zin.
+  4269 | D:4      | Found a burning altar of Makhleb.
+  4270 | D:4      | Noticed a blizzard demon
+  4270 | D:4      | Noticed an angel
+  4278 | D:4      | Reached XP level 7. HP: 58/58 MP: 11/11
+  4477 | D:4      | Reached skill level 1 in Armour
+  4656 | D:4      | Found a staircase to the Ecumenical Temple.
+  5375 | D:4      | Learned a level 2 spell: Blink
+  5438 | Temple   | Entered the Ecumenical Temple
+  5484 | Temple   | Became a worshipper of Elyvilon the Healer
+  5570 | D:5      | Entered Level 5 of the Dungeon
+  5813 | D:4      | Reached skill level 1 in Polearms
+  5813 | D:4      | Reached XP level 8. HP: 59/64 MP: 5/13
+  5942 | D:5      | Reached skill level 1 in Invocations
+  6210 | D:5      | Found a radiant altar of Vehumet.
+  6210 | D:5      | Found a shattered altar of Ashenzari.
+  6220 | D:5      | Found an opulent altar of Gozag.
+  6226 | D:5      | Found a blossoming altar of Fedhas.
+  6228 | D:5      | Found an iron altar of Okawaru.
+  6837 | D:5      | Reached skill level 8 in Dodging
+  7275 | D:6      | Reached * piety under Elyvilon
+  7677 | D:6      | Identified the +7 trident of Impatience {pain, Dex+2}
+  7677 | D:6      | Identified the +10 scale mail "Fiqymaok" {rCorr Dex+3}
+  7677 | D:6      | Identified the cursed +0 shield of the Game of Life {Regen+
+                  | rCorr Str-2}
+  7765 | D:6      | Noticed Menkaure
+  7854 | D:5      | Reached skill level 9 in Dodging
+  7854 | D:5      | Reached XP level 9. HP: 46/69 MP: 11/14
+  8095 | D:6      | Killed Menkaure
+  8411 | D:6      | Found a transporter.
+  8412 | D:6      | Found a transporter.
+  8458 | D:6      | Noticed Seysh's ghost (novice MiFi)
+  8780 | D:6      | Reached skill level 5 in Polearms
+  8780 | D:6      | Reached skill level 1 in Evocations
+  8963 | D:6      | Reached skill level 1 in Short Blades
+  9382 | D:7      | Reached ** piety under Elyvilon
+  9435 | D:7      | Found a hide-covered altar of Uskayaw.
+ 10050 | D:8      | Noticed Grum
+ 10417 | D:7      | Reached skill level 5 in Invocations
+ 10436 | D:8      | Noticed Joseph
+ 10746 | D:8      | Noticed a two-headed ogre
+ 10913 | D:8      | Reached XP level 10. HP: 74/76 MP: 9/15
+ 11144 | D:8      | Noticed Harold
+ 11235 | D:8      | Found a snail-covered altar of Cheibriados.
+ 11288 | D:8      | Killed Joseph
+ 12019 | D:8      | Killed Grum
+ 12702 | D:8      | Found a stormy altar of Qazlal.
+ 12987 | D:9      | Found Edissomo's Food Shoppe.
+ 13083 | D:9      | Reached *** piety under Elyvilon
+ 13155 | D:9      | Found a shadowy altar of Dithmenos.
+ 13474 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+ 13661 | D:9      | Found a hazy altar of Hepliaklqana.
+ 13662 | D:9      | Found a shimmering altar of Xom.
+ 13663 | D:9      | Noticed a spectral ugly thing
+ 13693 | D:9      | Found a staircase to the Orcish Mines.
+ 13693 | D:9      | Found Gaufiosm's Weapon Emporium.
+ 14962 | D:9      | Found a runed translucent door.
+ 14963 | D:9      | Found a shimmering altar of Xom.
+ 14963 | D:9      | Noticed Veogap's ghost (novice TrBe)
+ 14964 | D:9      | Noticed a +2 trident of chaos
+ 15429 | D:10     | Entered Level 10 of the Dungeon
+ 15482 | D:9      | Reached skill level 1 in Slings
+ 15816 | D:10     | Reached XP level 11. HP: 85/85 MP: 16/16
+ 16127 | D:10     | Noticed a two-headed ogre
+ 16372 | D:10     | Killed a two-headed ogre
+ 16700 | D:10     | Noticed Sonja
+ 16720 | D:10     | Reached **** piety under Elyvilon
+ 17001 | D:10     | Killed Sonja
+ 17081 | D:10     | Noticed Urug
+ 17500 | D:10     | Killed an unseen horror
+ 17707 | D:10     | Killed Urug
+ 17960 | D:11     | Found a staircase to the Lair.
+ 18370 | D:10     | Learned a level 1 spell: Confusing Touch
+ 18374 | D:10     | Learned a level 3 spell: Confuse
+ 18840 | D:11     | Identified the +0 chain mail of Paranoia {-Cast rC+++ MR+++
+                  | Int-5}
+ 18841 | D:11     | Identified the cursed +1 dire flail "Xack" {drain, rElec
+                  | Dex+3}
+ 18841 | D:11     | Identified the ring "Xubb" {-Tele +Fly rC+ Int+4 Stlth+}
+ 19901 | D:11     | Noticed a two-headed ogre
+ 20082 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 20100 | Lair:1   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  1           2     3           4 |  4.0
+Dodging        |     3  7              9          |  9.1
+Translocations |        1                       2 |  2.0
+Fighting       |        6                    7  8 |  8.3
+Long Blades    |        6                         |  6.4
+Charms         |        6                       7 |  7.1
+Throwing       |              1     2        3    |  3.0
+Hexes          |              1     2  3        4 |  4.6
+Armour         |                    1  2     3    |  3.0
+Spellcasting   |                    3             |  3.6
+Polearms       |                    1  3  5     6 |  6.1
+Invocations    |                       1  5  7  8 |  8.4
+Evocations     |                          1  2  4 |  4.0
+Short Blades   |                          2  3  4 |  4.1
+Slings         |                             1  2 |  2.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Falchion          |  4061 |   124 |   236 |       ||  4421
+       Scimitar          |       |     6 |    58 |       ||    64
+       Tailslap          |       |       |     1 |       ||     1
+       Long sword        |       |       |    90 |   318 ||   408
+       Halberd           |       |       |    16 |    39 ||    55
+       Dagger            |       |       |     6 |    32 ||    38
+       Short sword       |       |       |       |    12 ||    12
+       Spear             |       |       |       |    10 ||    10
+ Fire: Blowgun           |       |       |    14 |    75 ||    89
+       Hunting sling     |       |       |       |   132 ||   132
+Throw: Stone             |     1 |    42 |    95 |       ||   138
+       Throwing net      |       |     1 |       |       ||     1
+       Javelin           |       |       |     7 |     8 ||    15
+       Tomahawk          |       |       |       |     9 ||     9
+ Cast: Infusion          |    12 |     6 |     1 |     1 ||    20
+       Shroud of Golubri |     1 |    19 |    50 |    72 ||   142
+       Song of Slaying   |       |    12 |    15 |    11 ||    38
+       Slow              |       |       |    10 |    38 ||    48
+       Spectral Weapon   |       |       |    13 |     8 ||    21
+       Confusing Touch   |       |       |       |    12 ||    12
+       Blink             |       |       |       |     6 ||     6
+Invok: Lesser Healing    |       |       |       |     5 ||     5
+Evoke: Wand              |       |       |     4 |     2 ||     6
+  Use: Scroll            |     3 |     2 |     8 |    13 ||    26
+       Potion            |     1 |     1 |     4 |     3 ||     9
+ Stab: Sleeping          |     1 |       |     6 |     9 ||    16
+       Distracted        |       |       |     1 |       ||     1
+       Confused          |       |       |       |    12 ||    12
+  Eat: Chunk             |     3 |     9 |    14 |    24 ||    50
+       Ration            |       |     2 |     4 |     4 ||    10
+Armor: Leather armour    |   618 |    26 |    49 |    77 ||   770
+       Skin              |       |    13 |     1 |       ||    14
+       Scale mail        |       |       |    45 |    80 ||   125
+Dodge: Dodged            |  2076 |    86 |   248 |   317 ||  2727
+Rpst.: Falchion          |   720 |    26 |    38 |       ||   784
+       Scimitar          |       |       |    11 |       ||    11
+       Long sword        |       |       |    17 |    71 ||    88
+

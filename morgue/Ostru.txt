@@ -1,0 +1,171 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9485852186914664301
+
+Ostru the Ducker (Spriggan Abyssal Knight)           Turns: 744, Time: 00:02:10
+
+Health: 11/11      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 18    Int: 13    God:    Lugonu 38 (0)
+Gold:   32         SH:  0    Dex: 15    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis +   a - +1 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+}: 1/15 runes: abyssal
+a: Depart the Abyss, Renounce Religion
+
+
+You are on level 4 of the Abyss.
+You worship Lugonu.
+Lugonu is aware of your devotion.
+You are not hungry.
+
+You have visited 0 branches of the dungeon, and seen 0 of its levels.
+You have visited the Abyss 1 time.
+
+You have collected 32 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Scrolls
+ d - 2 scrolls labeled VEINKE IFOUNN
+ f - a scroll labeled DEGGEO FEREPA
+Potions
+ e - a yellow potion
+ g - a viscous purple potion
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 1.3 Polearms
+ + Level 3.5 Dodging
+ + Level 1.7 Invocations
+
+
+You cannot memorise any spells.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Corpse Rot               Necr           N/A          43%         2    100
+ Sublimation of Blood     Necr           0 (200)      43%         2    100
+ Agony                    Necr           0 (100)      100%        5    400
+ Bolt of Draining         Conj/Necr      0 (200)      100%        5    400
+ Dispel Undead            Necr           0 (100)      100%        5    400
+ Excruciating Wounds      Chrm/Necr      0 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+Key pressed, stopping explore.
+You now have 32 gold pieces (gained 11).
+Key pressed, stopping explore.
+A demonic crawler comes into view.
+The demonic crawler gives a hideous shriek!
+A demonic crawler is nearby!
+A demonic crawler is nearby!
+A demonic crawler is nearby!
+A demonic crawler is nearby!
+A demonic crawler is nearby!
+A demonic crawler is nearby!
+
+            .#    .##
+             .#   ..#.
+         ##  #.   ....
+     ..   .#  .#  ...
+      .#   .###.##.#
+       .#   ..#....#
+      ##.####.##...#.#...
+      .#......#..@...0.#
+#.  ##  #..#.#...#...#...
+... #... #.#.0#.....##
+ #.##..#. #.s#.##.###
+#.....#. #.#.0. ###
+  . .#.#.#.##.#..#
+ #.##..#....##..##
+  #.....### # ...
+  ####. .##.# #...#
+...... #......##..#
+0.. ..#.#. ######.#
+##.#.##..#.#... .
+
+
+You can see a demonic crawler.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Ostru the Spriggan Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 11/11 MP: 3/3
+     0 | Abyss:1  | Entered wizard mode.
+    55 | Abyss:1  | Noticed a large abomination
+    93 | Abyss:1  | Noticed a sixfirhy
+   156 | Abyss:1  | Noticed a large abomination
+   156 | Abyss:1  | Noticed a phantasmal warrior
+   221 | Abyss:1  | Noticed a five-headed hydra zombie
+   238 | Abyss:1  | Found a transporter.
+   262 | Abyss:1  | Found a transporter.
+   324 | Abyss:1  | Noticed a starcursed mass
+   361 | Abyss:4  | Noticed a lightning spire
+   374 | Abyss:4  | Got an abyssal rune of Zot
+   433 | Abyss:4  | Noticed a wretched star
+   451 | Abyss:4  | Noticed an unseen horror
+   495 | Abyss:4  | Noticed a large abomination
+   550 | Abyss:4  | Noticed a large abomination
+   564 | Abyss:4  | Noticed a Hell Sentinel
+   580 | Abyss:4  | Noticed a starcursed mass
+   587 | Abyss:4  | Found a burning altar of Makhleb.
+   600 | Abyss:4  | Noticed a chaos spawn
+   630 | Abyss:4  | Noticed a smoke demon
+   630 | Abyss:4  | Noticed a smoke demon
+   657 | Abyss:4  | Noticed a chaos spawn
+   697 | Abyss:4  | Noticed a wretched star
+   706 | Abyss:4  | Noticed a neqoxec
+   743 | Abyss:4  | Noticed a demonic crawler
+

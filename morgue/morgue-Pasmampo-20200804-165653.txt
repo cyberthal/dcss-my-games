@@ -1,0 +1,608 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7937343666698843230
+
+28051 Pasmampo the Charmwright (level 3, 18/18 HPs) *WIZ*
+             Began as a Spriggan Skald on Aug 4, 2020.
+             Was an Initiate of Gozag.
+             Quit the game on level 1 of the Tomb of the Ancients.
+             The game lasted 01:05:33 (13401 turns).
+
+Pasmampo the Charmwright (Spriggan Skald)          Turns: 13401, Time: 01:05:34
+
+Health: 18/18      AC:  4    Str:  7    XL:     3   Next: 57%
+Magic:  8/8        EV: 25    Int: 15    God:    Gozag 15 (0)
+Gold:   156200     SH:  0    Dex: 20    Spells: 2/7 levels left
+
+rFire    + . .     SeeInvis +   a - +0 spear
+rCold    + . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   e - +2 robe
+rPois    +         Spirit   .   (helmet restricted)
+rElec    +         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: agile, resistant, flying, hasted, invisible, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+}: 2/15 runes: decaying, silver
+a: Potion Petition, Call Merchant, Bribe Branch, Renounce Religion
+
+
+You were on level 1 of the Tomb of the Ancients.
+You worshipped Gozag.
+Gozag was exalted by your worship.
+You were not hungry.
+
+You visited 10 branches of the dungeon, and saw 43 of its levels.
+You also visited: Gauntlet and Ice Cave.
+
+You collected 161246 gold pieces.
+You donated 123 gold pieces to Zin.
+You paid 4923 gold pieces to Gozag.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+ b - a +3 dagger
+ c - a +0 flail
+ o - a +0 hand axe
+Missiles
+ f - 58 bolts
+ k - 382 stones (quivered)
+ y - 7 curare-tipped needles
+ A - 74 sling bullets
+ C - 87 arrows
+Armour
+ e - a +2 robe (worn)
+Jewellery
+ m - an uncursed amulet of rage {unknown}
+ n - an uncursed amulet of guardian spirit {unknown}
+ p - an uncursed ring of poison resistance {unknown}
+ r - a +3 ring of dexterity {unknown}
+ u - an uncursed ring of stealth {unknown}
+ x - a +3 ring of strength {unknown}
+ G - an uncursed ring of stealth {unknown}
+ J - an uncursed ring of flight
+ O - an uncursed ring of resist corrosion {unknown}
+ P - an uncursed ring of flight
+ U - an uncursed ring of flight
+Wands
+ L - a wand of acid (13)
+ T - a wand of random effects (21)
+ Y - a wand of enslavement (7)
+Scrolls
+ i - 10 scrolls of identify {unknown}
+ j - 5 scrolls of enchant weapon {unknown}
+ l - a scroll of noise {unknown}
+ s - 6 scrolls of remove curse {unknown}
+ t - 2 scrolls of random uselessness {unknown}
+ w - 3 scrolls of amnesia
+ B - 8 scrolls of teleportation {unknown}
+ F - a scroll of fear {unknown}
+ M - 2 scrolls of blinking {unknown}
+ N - 2 scrolls of fog {unknown}
+ W - a scroll of acquirement
+ X - a scroll of enchant armour
+ Z - a scroll of summoning {unknown}
+Potions
+ d - 9 potions of curing {unknown}
+ g - 2 potions of lignification {unknown}
+ q - a potion of might {unknown}
+ v - 2 potions of brilliance {unknown}
+ z - 2 potions of ambrosia
+ D - a potion of agility {unknown}
+ E - a potion of cancellation {unknown}
+ H - 2 potions of mutation {unknown}
+ I - a potion of haste {unknown}
+ K - a potion of flight {unknown}
+ Q - 2 potions of magic {unknown}
+ R - a potion of degeneration {unknown}
+ S - a potion of heal wounds {unknown}
+ V - 2 potions of invisibility {unknown}
+Comestibles
+ h - 29 rations
+
+
+   Skills:
+ - Level 1.5 Fighting
+ - Level 1.6 Short Blades
+ - Level 1.3 Polearms
+ - Level 1.0 Throwing
+ - Level 4.0 Dodging
+ - Level 2.0 Stealth
+ - Level 2.6 Spellcasting
+ + Level 4.9 Charms
+ + Level 1.3 Translocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           16 (25)      2%          1    10
+b - Song of Slaying       Chrm           16 (100)     4%          2    60
+c - Shroud of Golubria    Chrm/Tloc      11 (200)     9%          2    60
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Apportation              Tloc           6 (50)       12%         1    10
+ Animate Skeleton         Necr           N/A          21%         1    10
+ Confusing Touch          Hex            2 (50)       21%         1    10
+ Freeze                   Ice            2 (25)       21%         1    10
+ Summon Small Mammal      Summ           2 (25)       21%         1    10
+ Throw Frost              Conj/Ice       2 (50)       30%         2    60
+ Ozocubu's Armour         Chrm/Ice       9 (100)      22%         3    110
+ Regeneration             Chrm/Necr      9 (200)      22%         3    110
+ Spectral Weapon          Hex/Chrm       9 (100)      22%         3    110
+ Gell's Gravitas          Tloc           6 (200)      34%         3    110
+ Recall                   Summ/Tloc      N/A          43%         3    110
+ Confuse                  Hex            2 (100)      52%         3    110
+ Petrify                  Tmut/Erth      2 (100)      90%         4    210
+ Summon Ice Beast         Ice/Summ       2 (100)      90%         4    210
+ Throw Icicle             Conj/Ice       2 (100)      90%         4    210
+ Aura of Abjuration       Summ           2 (200)      99%         5    360
+ Metabolic Englaciation   Hex/Ice        2 (200)      99%         5    360
+ Summon Demon             Summ           2 (200)      99%         5    360
+ Summon Forest            Summ/Tloc      4 (200)      99%         5    360
+ Summon Mana Viper        Hex/Summ       2 (100)      99%         5    360
+ Yara's Violent Unravell  Hex/Tmut       2 (200)      99%         5    360
+ Shadow Creatures         Summ           N/A          100%        6    510
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:7            Lair (6/6) D:11
+  Swamp (4/4) Lair:4       Spider (4/4) Lair:3        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (3/3) Orc:2        Vaults (5/5) D:14
+  Crypt (3/3) Vaults:3       Tomb (3/3)              Depths (1/5) D:15
+
+Altars:
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+D:13 (   Orc:2 ([%}   Elf:3 }}}=   Vaults:2 [   Vaults:4 *   Tomb:1 [}*
+
+Portals:
+Hell: Depths:1
+
+Annotations:
+D:7 1 transporter
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Okay, then.
+Unknown command.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? lurking
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+             ###############
+             #################
+             #################
+             #################
+             #################
+             #################
+############################################
+....................<.......................
+....................\\@.....................
+............................................
+............................................
+............................................
+#########################################...
+#########################################...
+.......................................##...
+^............................^...^.....##...
+..###################################..##...
+..#)...#..#^................#..#....#..##...
+..#....#..#.................#..#....#^.##...
+..#..^.#..#.................#..#....#..##...
+..#....#..#.................#..#....#..##...
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A gnoll (D:1)
+  An adder (D:1)
+  A leopard gecko (D:1)
+  2 bats (D:1)
+  2 giant cockroaches (D:1)
+  5 goblins (D:1)
+  2 hobgoblins (D:1)
+  4 jackals (D:1)
+  4 frilled lizards
+  6 kobolds (D:1)
+  2 rats (D:1)
+30 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Pasmampo the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+    36 | D:1      | Reached skill level 1 in Stealth
+   364 | D:1      | Reached XP level 2. HP: 14/14 MP: 6/6
+   440 | D:1      | Reached skill level 1 in Short Blades
+   496 | D:1      | Learned a level 2 spell: Song of Slaying
+   499 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1142 | D:1      | Reached skill level 1 in Translocations
+  1142 | D:1      | Reached XP level 3. HP: 16/18 MP: 5/8
+  2053 | D:2      | Reached skill level 1 in Throwing
+  2058 | D:2      | Found an iron altar of Okawaru.
+  2864 | D:2      | Found an ornate altar of the Wu Jian Council.
+  2917 | D:3      | Found a basalt altar of Yredelemnul.
+  2969 | D:3      | Found a bloodstained altar of Trog.
+  2992 | D:3      | Found a stormy altar of Qazlal.
+  3125 | D:3      | Found a faded altar of an unknown god.
+  3185 | D:3      | Found a glowing golden altar of the Shining One.
+  3448 | D:4      | Found a deep blue altar of Sif Muna.
+  3448 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  3710 | D:4      | Found a blossoming altar of Fedhas.
+  3903 | D:5      | Entered Level 5 of the Dungeon
+  3909 | D:5      | Found an opulent altar of Gozag.
+  4607 | D:7      | Found a staircase to the Ecumenical Temple.
+  4619 | D:7      | Found a transporter.
+  5328 | D:7      | Found a transporter.
+  5842 | D:8      | Found a burning altar of Makhleb.
+  6293 | D:9      | Found an ancient bone altar of Kikubaaqudgha.
+  6550 | D:9      | Found a sacrificial altar of Ru.
+  6661 | D:9      | Found a snail-covered altar of Cheibriados.
+  6729 | D:10     | Entered Level 10 of the Dungeon
+  7196 | D:11     | Found a staircase to the Lair.
+  7306 | D:11     | Found a white marble altar of Elyvilon.
+  7498 | D:11     | Found a staircase to the Orcish Mines.
+  7730 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  7730 | Lair:1   | Noticed a bullfrog
+  7741 | Lair:1   | Found an ancient bone altar of Kikubaaqudgha.
+  8404 | Lair:2   | Noticed a hippogriff
+  8468 | Lair:2   | Found a gate leading to a gauntlet.
+  8493 | Gauntlet | Entered a Gauntlet
+  8493 | Gauntlet | Found a transporter.
+  8493 | Gauntlet | Found a transporter.
+  8493 | Gauntlet | Found a transporter.
+  8493 | Gauntlet | Noticed a smoke demon
+  8493 | Gauntlet | Noticed a shadow
+  8494 | Gauntlet | Found a transporter.
+  8497 | Gauntlet | Found a transporter.
+  8511 | Gauntlet | Found a transporter.
+  8526 | Gauntlet | Found a transporter.
+  9017 | Lair:3   | Noticed a spriggan
+  9017 | Lair:3   | Noticed a wolf
+  9017 | Lair:3   | Noticed a polar bear
+  9017 | Lair:3   | Noticed a black bear
+  9017 | Lair:3   | Noticed a wolf
+  9017 | Lair:3   | Noticed a wolf
+  9017 | Lair:3   | Noticed a hippogriff
+  9017 | Lair:3   | Noticed a six-headed hydra
+  9140 | Lair:3   | Found a hole to the Spider Nest.
+  9181 | Lair:3   | Found a blossoming altar of Fedhas.
+  9597 | Lair:4   | Noticed a rime drake
+  9679 | Lair:4   | Found a staircase to the Swamp.
+  9782 | Lair:5   | Found a staircase to the Slime Pits.
+  9782 | Lair:5   | Found a viscous altar of Jiyva.
+  9782 | Lair:5   | Found a frozen archway.
+  9782 | Lair:5   | Noticed an ice devil
+  9782 | Lair:5   | Noticed an ice devil
+  9783 | IceCv    | Entered an ice cave
+  9783 | IceCv    | Noticed an ice beast
+  9783 | IceCv    | Noticed an ice beast
+  9783 | IceCv    | Noticed an ice beast
+  9783 | IceCv    | Noticed an ice beast
+  9783 | IceCv    | Noticed an ice beast
+  9783 | IceCv    | Noticed an ice beast
+  9993 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 10234 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 10234 | Orc:1    | Noticed an ogre
+ 10234 | Orc:1    | Noticed an orc knight
+ 10234 | Orc:1    | Noticed an orc warrior
+ 10234 | Orc:1    | Noticed an orc warrior
+ 10234 | Orc:1    | Noticed a warg
+ 10234 | Orc:1    | Noticed an orc warrior
+ 10445 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 10445 | Orc:2    | Noticed an orc warrior
+ 10445 | Orc:2    | Noticed an orc knight
+ 10445 | Orc:2    | Noticed an orc sorcerer
+ 10445 | Orc:2    | Noticed an orc warrior
+ 10450 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 10452 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 10452 | Orc:2    | Found Seprug's Food Shoppe.
+ 10452 | Orc:2    | Found Vuadui's Weapon Shoppe.
+ 10452 | Orc:2    | Found Souxosk's Gadget Boutique.
+ 10452 | Orc:2    | Found Tijoqaujusch's Antique Armour Boutique.
+ 10452 | Orc:2    | Found a staircase to the Elven Halls.
+ 10901 | D:13     | Noticed an eye of draining
+ 10901 | D:13     | Noticed a sky beast
+ 10902 | D:13     | Found Vaojus's Weapon Emporium.
+ 10902 | D:13     | Found a shimmering altar of Xom.
+ 10902 | D:13     | Found a white marble altar of Elyvilon.
+ 10941 | D:14     | Noticed a centaur warrior zombie
+ 10941 | D:14     | Noticed a yak
+ 10941 | D:14     | Noticed a yak
+ 10941 | D:14     | Noticed a yak
+ 10941 | D:14     | Noticed a yak
+ 10942 | D:14     | Found a gate to the Vaults.
+ 11019 | D:15     | Entered Level 15 of the Dungeon
+ 11175 | D:15     | Found a staircase to the Depths.
+ 11234 | Spider:1 | Entered Level 1 of the Spider Nest
+ 11234 | Spider:1 | Noticed a redback
+ 11234 | Spider:1 | Noticed a redback
+ 11234 | Spider:1 | Noticed a jumping spider
+ 11234 | Spider:1 | Noticed a demonic crawler
+ 11234 | Spider:1 | Noticed a demonic crawler
+ 11268 | Spider:2 | Noticed an orb spider
+ 11269 | Spider:2 | Found a runed translucent door.
+ 11366 | Spider:3 | Noticed a demonic crawler
+ 11366 | Spider:3 | Noticed a tarantella
+ 11366 | Spider:3 | Noticed a redback
+ 11366 | Spider:3 | Noticed a tarantella
+ 11463 | Spider:4 | Entered Level 4 of the Spider Nest
+ 11463 | Spider:4 | Noticed an emperor scorpion
+ 11463 | Spider:4 | Noticed a wolf spider
+ 11463 | Spider:4 | Noticed a jumping spider
+ 11463 | Spider:4 | Noticed a jumping spider
+ 11464 | Spider:4 | Found a runed translucent door.
+ 11648 | Swamp:1  | Entered Level 1 of the Swamp
+ 11656 | Swamp:1  | Noticed an eight-headed hydra
+ 11716 | Swamp:2  | Noticed a five-headed hydra
+ 11716 | Swamp:2  | Noticed a swamp worm
+ 11717 | Swamp:2  | Found a runed translucent gate.
+ 11717 | Swamp:2  | Found a runed translucent gate.
+ 11717 | Swamp:2  | Found a runed translucent gate.
+ 11848 | Swamp:3  | Noticed a vampire mosquito
+ 11848 | Swamp:3  | Noticed a vampire mosquito
+ 11848 | Swamp:3  | Noticed a vampire mosquito
+ 11848 | Swamp:3  | Noticed a spriggan rider
+ 11848 | Swamp:3  | Noticed a swamp worm
+ 11868 | Swamp:4  | Entered Level 4 of the Swamp
+ 11868 | Swamp:4  | Noticed a swamp drake
+ 11868 | Swamp:4  | Noticed a swamp drake
+ 11868 | Swamp:4  | Noticed a swamp drake
+ 11868 | Swamp:4  | Noticed a cyan ugly thing
+ 11868 | Swamp:4  | Noticed a cyan ugly thing
+ 11868 | Swamp:4  | Noticed a cyan ugly thing
+ 11868 | Swamp:4  | Noticed a cyan ugly thing
+ 11868 | Swamp:4  | Noticed a cyan ugly thing
+ 11868 | Swamp:4  | Noticed an alligator
+ 11868 | Swamp:4  | Noticed a swamp worm
+ 11944 | Swamp:4  | Got a decaying rune of Zot
+ 11946 | Elf:1    | Entered Level 1 of the Elven Halls
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11946 | Elf:1    | Noticed a deep elf mage
+ 11947 | Elf:1    | Found a radiant altar of Vehumet.
+ 11978 | Elf:2    | Found a radiant altar of Vehumet.
+ 11979 | Elf:2    | Found a runed translucent gate.
+ 11979 | Elf:2    | Found a runed translucent gate.
+ 11979 | Elf:2    | Found a runed translucent gate.
+ 12006 | Elf:3    | Entered Level 3 of the Elven Halls
+ 12007 | Elf:3    | Found Heapa's Gadget Shop.
+ 12007 | Elf:3    | Found Hadathac's Jewellery Emporium.
+ 12007 | Elf:3    | Found Loohagg's Gadget Shop.
+ 12007 | Elf:3    | Found Xis Null's Gadget Shoppe.
+ 12358 | Vaults:1 | Entered Level 1 of the Vaults
+ 12583 | Vaults:2 | Found Evor's Antique Armour Boutique.
+ 12747 | Vaults:3 | Noticed a great orb of eyes
+ 12747 | Vaults:3 | Noticed an ogre
+ 12747 | Vaults:3 | Noticed an ogre
+ 12747 | Vaults:3 | Noticed a vault warden
+ 12747 | Vaults:3 | Noticed a yaktaur
+ 12747 | Vaults:3 | Noticed a yaktaur
+ 12747 | Vaults:3 | Noticed a yaktaur
+ 12747 | Vaults:3 | Noticed a yaktaur
+ 12747 | Vaults:3 | Noticed a yaktaur
+ 12747 | Vaults:3 | Noticed an ironheart preserver
+ 12747 | Vaults:3 | Noticed a deep troll
+ 12747 | Vaults:3 | Noticed a deep troll
+ 12747 | Vaults:3 | Noticed a deep troll
+ 12748 | Vaults:3 | Found a staircase to the Crypt.
+ 12865 | Vaults:4 | Noticed an ogre mage
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed an ogre mage
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed an ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed a two-headed ogre
+ 12865 | Vaults:4 | Noticed an ogre
+ 12866 | Vaults:4 | Found Feklil's Assorted Antiques.
+ 13009 | Vaults:5 | Entered Level 5 of the Vaults
+ 13009 | Vaults:5 | Noticed a tengu reaver
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a yaktaur captain
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault guard
+ 13009 | Vaults:5 | Noticed a vault warden
+ 13111 | Vaults:5 | Got a silver rune of Zot
+ 13248 | Depths:1 | Entered Level 1 of the Depths
+ 13248 | Depths:1 | Noticed a yaktaur
+ 13248 | Depths:1 | Noticed a deep troll earth mage
+ 13248 | Depths:1 | Noticed a deep troll
+ 13248 | Depths:1 | Noticed a deep troll earth mage
+ 13248 | Depths:1 | Noticed a deep troll
+ 13248 | Depths:1 | Noticed an ettin
+ 13249 | Depths:1 | Found a runed translucent door.
+ 13249 | Depths:1 | Found a gateway to Hell.
+ 13399 | Depths:1 | Became a worshipper of Zin the Law-Giver
+ 13399 | Depths:1 | Reached * piety under Zin
+ 13399 | Depths:1 | Reached ** piety under Zin
+ 13399 | Depths:1 | Reached *** piety under Zin
+ 13399 | Depths:1 | Reached **** piety under Zin
+ 13399 | Depths:1 | Reached ***** piety under Zin
+ 13399 | Depths:1 | Reached ****** piety under Zin
+ 13399 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a mummy priest
+ 13399 | Tomb:3   | Noticed an ushabti
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed an ancient champion
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed an ancient champion
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a bennu
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a death scarab
+ 13399 | Tomb:3   | Noticed a death scarab
+ 13399 | Tomb:3   | Noticed a death scarab
+ 13399 | Tomb:3   | Noticed a death scarab
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a guardian mummy
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a flying skull
+ 13399 | Tomb:3   | Noticed a fire giant zombie
+ 13399 | Tomb:1   | Entered Level 1 of the Tomb of the Ancients
+ 13399 | Tomb:1   | Noticed a guardian mummy
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a mummy priest
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a death scarab
+ 13399 | Tomb:1   | Noticed a greater mummy
+ 13399 | Tomb:1   | Noticed a greater mummy
+ 13399 | Crypt:3  | Entered Level 3 of the Crypt
+ 13399 | Crypt:3  | Noticed a curse skull
+ 13399 | Crypt:3  | Found a basalt altar of Yredelemnul.
+ 13399 | Crypt:3  | Found a basalt altar of Yredelemnul.
+ 13399 | Crypt:3  | Found a staircase to the Tomb.
+ 13399 | Crypt:3  | Found an ancient bone altar of Kikubaaqudgha.
+ 13400 | Tomb:1   | Noticed a greater mummy
+ 13400 | Tomb:1   | Noticed a greater mummy
+ 13401 | Tomb:1   | Fell from the grace of Zin
+ 13401 | Tomb:1   | Became a worshipper of Gozag Ym Sagoz the Greedy
+ 13401 | Tomb:1   | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  2       |  2.0
+Dodging        |     4    |  4.0
+Short Blades   |     1    |  1.6
+Translocations |     1    |  1.3
+Throwing       |        1 |  1.0
+Fighting       |          |  1.5
+Polearms       |          |  1.3
+Spellcasting   |          |  2.6
+Charms         |          |  4.9
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||    82
+       Dagger            ||    12
+Throw: Stone             ||    38
+ Cast: Infusion          ||     8
+       Shroud of Golubri ||     3
+Invok: Call Merchant     ||     3
+       Potion Petition   ||     1
+  Use: Scroll            ||   123
+ Stab: Sleeping          ||     4
+  Eat: Ration            ||     3
+Armor: Robe              ||     5
+Dodge: Dodged            ||    37
+

@@ -1,0 +1,379 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3973081158467577614
+
+Ihushet the Skirmisher (Ogre Necromancer)           Turns: 7801, Time: 01:45:27
+
+Health: 94/94      AC:  4    Str: 17    XL:     9   Next: 47%
+Magic:  23/23      EV:  6    Int: 16    God:    Okawaru [**....]
+Gold:   14         SH: 15    Dex: 12    Spells: 2/14 levels left
+
+rFire    . . .     SeeInvis .   c - +3 hunting sling
+rCold    . . .     Gourm    .   H - +2 large shield
+rNeg     . . .     Faith    .   M - +1 robe {Archmagi}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   E - scarf {repulsion}
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             B - amulet of rage
+HPRegen  0.25/turn              r - +3 ring of dexterity
+MPRegen  0.18/turn              i - ring of magical power
+
+@: repel missiles
+A: large, unfitting armour, tough skin 1
+a: Heroism, Renounce Religion, Evoke Berserk Rage
+
+
+You are on level 7 of the Dungeon.
+You worship Okawaru.
+Okawaru is pleased with you.
+You are hungry.
+
+You have visited 2 branches of the dungeon, and seen 8 of its levels.
+
+You have collected 448 gold pieces.
+You have spent 434 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ b - a +0 trident
+ c - a +3 hunting sling (weapon)
+ f - a glowing short sword
+ o - a runed whip
+ u - a runed mace
+ x - a +3 quarterstaff of chaos
+ Q - a +2 dire flail of holy wrath
+Missiles
+ d - 26 sling bullets
+ j - 5 needles of sleeping
+ k - 76 arrows
+ n - 153 stones (quivered)
+ p - 31 bolts
+ y - 14 poisoned needles
+ I - 10 large rocks
+ O - 6 tomahawks
+ R - a throwing net
+Armour
+ h - a +1 cloak
+ E - a scarf of repulsion (worn)
+ H - a +2 large shield (worn)
+ M - a +1 robe of the Archmagi (worn)
+Magical Staves
+ A - an uncursed staff of earth
+Jewellery
+ i - a ring of magical power (right hand)
+ r - a +3 ring of dexterity (left hand)
+ B - an amulet of rage (around neck)
+ K - a large pearl amulet
+ L - an uncursed ring of protection from fire
+Wands
+ N - a wand of acid (6)
+ P - a wand of iceblast (7)
+Scrolls
+ q - 4 scrolls of remove curse
+ t - 3 scrolls of blinking
+ v - 3 scrolls of teleportation
+ C - 2 scrolls of fog
+ G - a scroll labeled ZEGRIU YCIO
+Potions
+ e - a potion of mutation
+ l - a potion of brilliance
+ m - a potion of heal wounds
+ s - a potion of flight
+ w - a potion of berserk rage
+ D - 3 potions of magic
+ F - 3 potions of curing
+ J - a bubbling blue potion
+Comestibles
+ z - 8 rations
+
+
+   Skills:
+ + Level 7.7 Fighting
+ - Level 1.0 Maces & Flails
+ - Level 4.1 Polearms
+ - Level 1.0(1.6) Slings
+ - Level 2.7(2.9) Throwing
+ - Level 1.8 Dodging
+ - Level 1.4 Stealth
+ - Level 4.1 Shields
+ - Level 3.4 Spellcasting
+ - Level 1.0 Charms
+ - Level 4.1 Necromancy
+ + Level 5.8 Invocations
+ - Level 3.2 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ###.         32%         1    None
+b - Animate Skeleton      Necr           N/A          32%         1    None
+c - Vampiric Draining     Necr           ###.......   69%         3    ###....
+d - Regeneration          Chrm/Necr      ###.......   88%         3    ###....
+e - Animate Dead          Necr           N/A          97%         4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 *%   D:7 }
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+Unknown command.
+Your orc skeleton crumbles into dust!
+Key pressed, stopping explore.
+Unknown command.
+Some of the chunks of flesh in your inventory have rotted away.
+Found a spear.
+Autopickup is now on.
+Autopickup is now off.
+You are feeling hungry.
+All of the chunks of flesh in your inventory have rotted away.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Autopickup is now on.
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? staff of d
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Saving game... please wait.
+
+.......#.#.#
+#####..#.#Z#
+#####..#.#.####
+#......ZZ.....#
+#####..#.#.#..#
+#####.Z#......#
+...##..#)#.#..#     ##
+.......#.#.#..######.#
+...Z...................
+........<.............
+##.###.#.#.#...#.#.#.#
+ #...............#.#.###
+##.###................!#
+...............#.#.#.#@####
+..........................#
+...............#.#.#.#.####
+.......#..##...#.#.#.#.#
+..............##.#.#.#.#
+...###.#..##.........#.#
+...##..#..##..##.#.#.#.#
+.....).................#
+........#.##..##.#.#.###
+...##..##.##..##.#.#.#
+.................#.#.#
+..........##..##.#.#.#
+.................#.#.##
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  2 hippogriffs
+  Sigmund (D:5)
+  An orc warrior (D:7)
+  A sky beast (D:7)
+  A phantom (D:7)
+  2 bullfrogs
+  4 killer bees (D:5)
+  A crimson imp (D:7)
+  A hound (D:7)
+  Crazy Yiuf (D:3)
+  A jelly (D:5)
+  2 orc priests (D:3)
+  A centaur skeleton (D:7)
+  4 orc wizards
+  3 worker ants
+  A hound zombie (D:7)
+  7 gnolls
+  12 adders
+  2 worms
+  3 dart slugs
+  3 leopard geckos
+  18 orcs
+  2 ball pythons
+  5 bats
+  4 giant cockroaches
+  11 goblins
+  11 hobgoblins
+  2 jackals (D:6)
+  2 quokkas
+  4 frilled lizards
+  6 kobolds
+  A leopard gecko zombie (D:5)
+  4 rats
+124 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Harold (D:7)
+  Robin (D:3)
+  An adder (D:5)
+  An adder zombie (D:5)
+  A worm (D:2)
+  2 goblins
+  5 hobgoblins
+  A leopard gecko zombie (D:5)
+  A rat (D:1)
+14 creatures vanquished.
+
+Grand Total: 138 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ihushet the Ogre Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     2 | D:1      | Learned a level 1 spell: Animate Skeleton
+    38 | D:1      | oka lug makh
+    93 | D:1      | Reached skill level 1 in Fighting
+   186 | D:1      | Reached skill level 2 in Fighting
+   186 | D:1      | Reached XP level 2. HP: 27/28 MP: 3/5
+   302 | D:1      | Reached skill level 1 in Maces & Flails
+   586 | D:1      | Reached XP level 3. HP: 35/36 MP: 3/6
+   818 | D:1      | Learned a level 3 spell: Vampiric Draining
+   924 | D:2      | Reached skill level 1 in Throwing
+  1061 | D:2      | Found a shadowy altar of Dithmenos.
+  1137 | D:2      | Reached skill level 3 in Fighting
+  1517 | D:2      | Reached XP level 4. HP: 45/45 MP: 7/7
+  1660 | D:2      | Reached skill level 1 in Evocations
+  2188 | D:3      | Reached skill level 4 in Fighting
+  2188 | D:3      | Reached XP level 5. HP: 54/54 MP: 9/9
+  2197 | D:3      | Reached skill level 1 in Polearms
+  2248 | D:3      | Noticed a hippogriff
+  2268 | D:2      | Learned a level 3 spell: Regeneration
+  2610 | D:3      | Noticed Robin
+  2623 | D:3      | Killed Robin
+  2676 | D:2      | Entered wizard mode.
+  2853 | D:3      | Reached skill level 1 in Charms
+  2960 | D:3      | Killed a hippogriff
+  2960 | D:3      | Reached skill level 6 in Fighting
+  2960 | D:3      | Reached XP level 6. HP: 49/68 MP: 10/10
+  3154 | D:3      | Found a runed translucent door.
+  3161 | D:3      | Noticed Crazy Yiuf
+  3252 | D:3      | Killed Crazy Yiuf
+  3360 | D:3      | Reached XP level 7. HP: 28/76 MP: 12/12
+  3523 | D:3      | Learned a level 4 spell: Animate Dead
+  3630 | D:3      | Found a stormy altar of Qazlal.
+  3786 | D:4      | Found a bloodstained altar of Trog.
+  4309 | D:5      | Entered Level 5 of the Dungeon
+  4371 | D:5      | Noticed Sigmund
+  4454 | D:5      | Reached skill level 1 in Slings
+  4573 | D:5      | Killed Sigmund
+  4573 | D:5      | Reached skill level 7 in Fighting
+  4573 | D:5      | Reached XP level 8. HP: 63/87 MP: 13/13
+  4651 | D:5      | Found Qerghit's Mass Market.
+  4669 | D:5      | Bought a +0 large shield for 58 gold pieces
+  4669 | D:5      | Bought 4 large rocks for 36 gold pieces
+  4669 | D:5      | Bought 6 large rocks for 54 gold pieces
+  4774 | D:5      | Reached skill level 1 in Shields
+  4791 | D:5      | Found Vourag's Food Boutique.
+  4905 | D:4      | Found a glowing golden altar of the Shining One.
+  6125 | D:6      | Found a staircase to the Ecumenical Temple.
+  6369 | Temple   | Entered the Ecumenical Temple
+  6457 | Temple   | Became a worshipper of Warmaster Okawaru
+  6897 | D:7      | Noticed a hippogriff
+  6915 | D:7      | Killed a hippogriff
+  6915 | D:7      | Reached * piety under Okawaru
+  7027 | D:7      | Reached skill level 1 in Invocations
+  7238 | D:7      | Noticed Harold
+  7310 | D:7      | Found Bacynaa's Gadget Shop.
+  7315 | D:7      | Bought a wand of acid (7) for 286 gold pieces
+  7402 | D:7      | Reached XP level 9. HP: 90/94 MP: 14/14
+  7666 | D:7      | Killed Harold
+  7666 | D:7      | Reached ** piety under Okawaru
+  7666 | D:7      | Reached skill level 5 in Invocations
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  2     3  4  6     7       |  7.7
+Maces & Flails |     1                      |  1.0
+Throwing       |        1              2    |  2.7
+Evocations     |           1        2     3 |  3.2
+Spellcasting   |           3                |  3.4
+Polearms       |              2     4       |  4.1
+Charms         |              1             |  1.0
+Slings         |                    1       |  1.0
+Necromancy     |                    4       |  4.1
+Shields        |                       4    |  4.1
+Invocations    |                       3  5 |  5.8
+Dodging        |                            |  1.8
+Stealth        |                            |  1.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Club              |    24 |       |       ||    24
+       Halberd           |       |  4059 |    15 ||  4074
+       Trident           |       |  4000 |   123 ||  4123
+       War axe           |       |     8 |     2 ||    10
+       Quarterstaff      |       |       |     6 ||     6
+ Fire: Hunting sling     |     6 |    70 |    97 ||   173
+Throw: Stone             |    11 |       |       ||    11
+       Large rock        |       |       |     2 ||     2
+ Cast: Pain              |    31 |    29 |    32 ||    92
+       Animate Skeleton  |    10 |    21 |    16 ||    47
+       Vampiric Draining |     1 |     2 |     1 ||     4
+       Regeneration      |       |     6 |    11 ||    17
+Invok: Heroism           |       |       |     1 ||     1
+ Abil: Evoke Berserk Rag |       |     3 |     3 ||     6
+Evoke: Wand              |       |       |     1 ||     1
+  Use: Scroll            |     2 |     4 |     9 ||    15
+       Potion            |     1 |     1 |     4 ||     6
+ Stab: Sleeping          |     3 |       |     1 ||     4
+       Distracted        |     1 |       |     2 ||     3
+  Eat: Chunk             |     2 |    10 |    15 ||    27
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |     4 |  1466 |    25 ||  1495
+       Skin              |       |       |    44 ||    44
+Dodge: Dodged            |    17 |  3034 |    36 ||  3087
+       Deflected         |       |       |     2 ||     2
+Block: Large shield      |       |       |   116 ||   116
+

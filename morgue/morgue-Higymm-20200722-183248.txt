@@ -1,0 +1,219 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3615932384875647318
+
+575876 Higymm the Politician (level 27, 72/249 HPs) *WIZ*
+             Began as a Vampire Enchanter on July 19, 2020.
+             Was the Champion of Wu Jian.
+             Quit the game on level 1 of the Dungeon on July 22, 2020.
+             The game lasted 00:07:24 (1279 turns).
+
+Higymm the Politician (Vampire Enchanter)           Turns: 1279, Time: 00:07:24
+
+Health: 72/249     AC:  4    Str:  7    XL:     27
+Magic:  54/54      EV: 31    Int: 17    God:    Wu Jian 200 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +   a - +1 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.51/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: fangs 3, see invisible, unbreathing
+a: Bat Form, Wall Jump, Serpent's Lash, Heavenly Storm, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was exalted by your worship.
+You were not thirsty.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +0 robe (worn)
+Potions
+ c - 7 potions of lignification
+ d - a potion of blood
+Miscellaneous
+ e - a phantom mirror
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            86 (90)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ensorcelled Hibernation  Hex/Ice        50 (50)      0%          2    0
+ Confuse                  Hex            86 (100)     0%          3    0
+ Dazzling Spray           Conj/Hex       50 (50)      0%          3    0
+ Tukima's Dance           Hex            86 (100)     0%          3    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You can survive without breathing.
+
+
+Message History
+
+You can now lightly attack and pin monsters in place by moving around them.
+You can now perform airborne attacks.
+You can now briefly move at supernatural speeds.
+You can now summon a storm of heavenly clouds to empower your attacks.
+The tentacled monstrosity tentacle-slaps you!
+The tentacled monstrosity closely misses you. x2
+The tentacled monstrosity grabs you.
+The tentacled monstrosity constricts you!
+The tentacled monstrosity's grasp on you weakens, but your attempt to escape
+fails.
+The tentacled monstrosity tentacle-slaps you!
+The tentacled monstrosity closely misses you. x2
+* * * LOW HITPOINT WARNING * * *
+The tentacled monstrosity constricts you!
+You escape the tentacled monstrosity's grasp.
+You spin and attack the tentacled monstrosity repeatedly.
+You hit the tentacled monstrosity but do no damage.
+You hit the tentacled monstrosity.
+The tentacled monstrosity is lightly wounded.
+There is a fountain of clear blue water here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #############
+  #...........#
+ ##.}.}.}.}.}.##
+##.....).......##
+#<.~~~~~~~~~~~.\.
+##.....X.......#
+ ##.}.@.}.}.}.##
+  #..........(#
+  #############
+
+
+You could see a tentacled monstrosity (pinned).
+
+Vanquished Creatures
+  A tentacled monstrosity (D:1)
+  A tentacled starspawn (D:1)
+  A rakshasa (D:1)
+  A tentacle (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Higymm the Vampire Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     3 | D:1      | Noticed a rakshasa
+    18 | D:1      | Reached XP level 2. HP: 42/63 MP: 6/30
+    18 | D:1      | Reached XP level 3. HP: 47/70 MP: 6/31
+    18 | D:1      | Reached XP level 4. HP: 53/78 MP: 6/33
+    18 | D:1      | Reached XP level 5. HP: 57/85 MP: 6/34
+    18 | D:1      | Reached XP level 6. HP: 63/93 MP: 6/36
+    18 | D:1      | Reached XP level 7. HP: 67/100 MP: 6/37
+    18 | D:1      | Reached XP level 8. HP: 73/108 MP: 6/39
+    18 | D:1      | Reached XP level 9. HP: 77/115 MP: 6/40
+    18 | D:1      | Reached XP level 10. HP: 83/123 MP: 6/41
+    18 | D:1      | Reached XP level 11. HP: 88/130 MP: 6/42
+    18 | D:1      | Reached XP level 12. HP: 93/138 MP: 6/43
+    18 | D:1      | Reached XP level 13. HP: 98/145 MP: 6/44
+    18 | D:1      | Reached XP level 14. HP: 103/153 MP: 6/45
+    18 | D:1      | Reached XP level 15. HP: 107/159 MP: 6/46
+    18 | D:1      | Reached XP level 16. HP: 113/167 MP: 6/47
+    18 | D:1      | Reached XP level 17. HP: 118/174 MP: 6/48
+    18 | D:1      | Reached XP level 18. HP: 123/182 MP: 6/49
+    18 | D:1      | Reached XP level 19. HP: 128/189 MP: 6/50
+    18 | D:1      | Reached XP level 20. HP: 133/197 MP: 6/51
+    18 | D:1      | Reached XP level 21. HP: 138/204 MP: 6/52
+    18 | D:1      | Reached XP level 22. HP: 144/212 MP: 6/53
+    18 | D:1      | Reached XP level 23. HP: 148/219 MP: 6/54
+    18 | D:1      | Reached XP level 24. HP: 153/227 MP: 6/54
+    18 | D:1      | Reached XP level 25. HP: 158/234 MP: 6/54
+    18 | D:1      | Reached XP level 26. HP: 164/242 MP: 6/54
+    18 | D:1      | Reached XP level 27. HP: 168/249 MP: 6/54
+   215 | D:1      | HP: 17/373 [tentacled monstrosity (7)]
+   218 | D:1      | HP: 7/373 [tentacled monstrosity (7)]
+   218 | D:1      | HP: 2/373 [tentacled monstrosity (5)]
+   219 | D:1      | Slain by a tentacled monstrosity (6 damage)
+  1268 | D:1      | Became a worshipper of the Wu Jian Council
+  1276 | D:1      | Reached * piety under Wu Jian
+  1276 | D:1      | Reached ** piety under Wu Jian
+  1276 | D:1      | Reached *** piety under Wu Jian
+  1276 | D:1      | Reached **** piety under Wu Jian
+  1276 | D:1      | Reached ***** piety under Wu Jian
+  1276 | D:1      | Reached ****** piety under Wu Jian
+  1279 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |       |       |       |       |       |       |       |       |     4 ||     4
+Invok: Lunge             |       |       |       |       |       |       |       |       |     1 ||     1
+       Whirlwind         |       |       |       |       |       |       |       |       |     1 ||     1
+ Abil: End Transformatio |       |       |       |       |       |       |       |       |     1 ||     1
+       Bat Form          |       |       |       |       |       |       |       |       |     1 ||     1
+  Use: Potion            |     1 |       |       |       |       |       |       |       |     4 ||     5
+Armor: Skin              |     4 |       |       |       |       |       |       |       |   207 ||   211
+       Robe              |       |       |       |       |       |       |       |       |     7 ||     7
+Dodge: Dodged            |     1 |       |       |       |       |       |       |       |    51 ||    52
+

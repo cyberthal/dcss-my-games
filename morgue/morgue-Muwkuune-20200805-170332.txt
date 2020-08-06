@@ -1,0 +1,240 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12130716521289094350
+
+0 Muwkuune the Charmwright (level 1, 10/10 HPs) *WIZ*
+             Began as a Spriggan Skald on Aug 5, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:41 (1 turns).
+
+Muwkuune the Charmwright (Spriggan Skald)              Turns: 1, Time: 00:06:41
+
+Health: 10/10      AC:  2    Str:  7    XL:     1   Next: 0%
+Magic:  0/5        EV: 18    Int: 14    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 4/5 levels left
+
+rFire    . . .     SeeInvis +   a - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: infused, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 1.5 Fighting
+ + Level 1.3 Polearms
+ + Level 3.5 Dodging
+ + Level 2.6 Spellcasting
+ + Level 4.4 Charms
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           14 (25)      3%          1    13
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Song of Slaying          Chrm           14 (100)     5%          2    63
+ Shroud of Golubria       Chrm/Tloc      8 (200)      14%         2    63
+ Regeneration             Chrm/Necr      8 (200)      26%         3    113
+ Spectral Weapon          Hex/Chrm       8 (100)      26%         3    113
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Enter new experience level: 
+Experience level set to 1.
+Unknown command.
+You are not religious.
+Enter Wizard Command (? - help): 
+Which skill (by name)? evo
+Evocations
+To what level? 0
+Lowered Evocations to skill level 0.0.
+Press: ? - help, v - describe, . - travel
+Here: an adder
+The floor.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      ###
+      #@#
+    #S.##
+  #..?#
+#....#
+....#
+...#
+..#
+.#
+
+
+You could see an adder.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Muwkuune the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 14/14 MP: 0/17
+     1 | D:1      | Reached XP level 3. HP: 18/18 MP: 0/19
+     1 | D:1      | Reached XP level 4. HP: 22/22 MP: 0/20
+     1 | D:1      | Reached XP level 5. HP: 25/25 MP: 0/22
+     1 | D:1      | Reached XP level 6. HP: 30/30 MP: 0/23
+     1 | D:1      | Reached XP level 7. HP: 33/33 MP: 0/25
+     1 | D:1      | Reached XP level 8. HP: 37/37 MP: 0/26
+     1 | D:1      | Reached XP level 9. HP: 41/41 MP: 0/27
+     1 | D:1      | Reached XP level 10. HP: 46/46 MP: 0/28
+     1 | D:1      | Reached XP level 11. HP: 49/49 MP: 0/29
+     1 | D:1      | Reached XP level 12. HP: 53/53 MP: 0/30
+     1 | D:1      | Reached XP level 13. HP: 57/57 MP: 0/31
+     1 | D:1      | Reached XP level 14. HP: 61/61 MP: 0/32
+     1 | D:1      | Reached XP level 15. HP: 65/65 MP: 0/33
+     1 | D:1      | Reached XP level 16. HP: 69/69 MP: 0/34
+     1 | D:1      | Reached XP level 17. HP: 72/72 MP: 0/35
+     1 | D:1      | Reached XP level 18. HP: 77/77 MP: 0/36
+     1 | D:1      | Reached XP level 19. HP: 80/80 MP: 0/37
+     1 | D:1      | Reached XP level 20. HP: 85/85 MP: 0/38
+     1 | D:1      | Reached XP level 21. HP: 88/88 MP: 0/39
+     1 | D:1      | Reached XP level 22. HP: 93/93 MP: 0/40
+     1 | D:1      | Reached XP level 23. HP: 96/96 MP: 0/41
+     1 | D:1      | Reached XP level 24. HP: 100/100 MP: 0/41
+     1 | D:1      | Reached XP level 25. HP: 104/104 MP: 0/41
+     1 | D:1      | Reached XP level 26. HP: 108/108 MP: 0/41
+     1 | D:1      | Reached XP level 27. HP: 112/112 MP: 0/41
+     1 | D:1      | Reached XP level 26. HP: 112/808 MP: 41/41
+     1 | D:1      | Reached XP level 25. HP: 112/804 MP: 41/41
+     1 | D:1      | Reached XP level 24. HP: 112/800 MP: 41/41
+     1 | D:1      | Reached XP level 23. HP: 112/796 MP: 41/41
+     1 | D:1      | Reached XP level 22. HP: 112/793 MP: 40/40
+     1 | D:1      | Reached XP level 21. HP: 112/788 MP: 39/39
+     1 | D:1      | Reached XP level 20. HP: 112/785 MP: 38/38
+     1 | D:1      | Reached XP level 19. HP: 112/780 MP: 37/37
+     1 | D:1      | Reached XP level 18. HP: 112/777 MP: 36/36
+     1 | D:1      | Reached XP level 17. HP: 112/772 MP: 35/35
+     1 | D:1      | Reached XP level 16. HP: 112/769 MP: 34/34
+     1 | D:1      | Reached XP level 15. HP: 112/765 MP: 33/33
+     1 | D:1      | Reached XP level 14. HP: 112/761 MP: 32/32
+     1 | D:1      | Reached XP level 13. HP: 112/757 MP: 31/31
+     1 | D:1      | Reached XP level 12. HP: 112/753 MP: 30/30
+     1 | D:1      | Reached XP level 11. HP: 112/749 MP: 29/29
+     1 | D:1      | Reached XP level 10. HP: 112/746 MP: 28/28
+     1 | D:1      | Reached XP level 9. HP: 112/741 MP: 27/27
+     1 | D:1      | Reached XP level 8. HP: 112/737 MP: 26/26
+     1 | D:1      | Reached XP level 7. HP: 112/733 MP: 25/25
+     1 | D:1      | Reached XP level 6. HP: 112/730 MP: 23/23
+     1 | D:1      | Reached XP level 5. HP: 112/725 MP: 22/22
+     1 | D:1      | Reached XP level 4. HP: 112/722 MP: 20/20
+     1 | D:1      | Reached XP level 3. HP: 112/718 MP: 19/19
+     1 | D:1      | Reached XP level 2. HP: 112/714 MP: 17/17
+     1 | D:1      | Reached XP level 1. HP: 112/710 MP: 16/16
+     1 | D:1      | Reached XP level 2. HP: 14/14 MP: 17/17
+     1 | D:1      | Reached XP level 3. HP: 18/18 MP: 19/19
+     1 | D:1      | Reached XP level 4. HP: 22/22 MP: 20/20
+     1 | D:1      | Reached XP level 5. HP: 25/25 MP: 22/22
+     1 | D:1      | Reached XP level 6. HP: 30/30 MP: 23/23
+     1 | D:1      | Reached XP level 7. HP: 33/33 MP: 25/25
+     1 | D:1      | Reached XP level 8. HP: 37/37 MP: 26/26
+     1 | D:1      | Reached XP level 9. HP: 41/41 MP: 27/27
+     1 | D:1      | Reached XP level 10. HP: 46/46 MP: 28/28
+     1 | D:1      | Reached XP level 11. HP: 49/49 MP: 29/29
+     1 | D:1      | Reached XP level 12. HP: 53/53 MP: 30/30
+     1 | D:1      | Reached XP level 13. HP: 57/57 MP: 31/31
+     1 | D:1      | Reached XP level 14. HP: 61/61 MP: 32/32
+     1 | D:1      | Reached XP level 15. HP: 65/65 MP: 33/33
+     1 | D:1      | Reached XP level 16. HP: 69/69 MP: 34/34
+     1 | D:1      | Reached XP level 17. HP: 72/72 MP: 35/35
+     1 | D:1      | Reached XP level 18. HP: 77/77 MP: 36/36
+     1 | D:1      | Reached XP level 19. HP: 80/80 MP: 37/37
+     1 | D:1      | Reached XP level 20. HP: 85/85 MP: 38/38
+     1 | D:1      | Reached XP level 21. HP: 88/88 MP: 39/39
+     1 | D:1      | Reached XP level 22. HP: 93/93 MP: 40/40
+     1 | D:1      | Reached XP level 23. HP: 96/96 MP: 41/41
+     1 | D:1      | Reached XP level 24. HP: 100/100 MP: 41/41
+     1 | D:1      | Reached XP level 25. HP: 104/104 MP: 41/41
+     1 | D:1      | Reached XP level 26. HP: 108/108 MP: 41/41
+     1 | D:1      | Reached XP level 27. HP: 112/112 MP: 41/41
+     1 | D:1      | Reached XP level 26. HP: 112/808 MP: 0/41
+     1 | D:1      | Reached XP level 25. HP: 112/804 MP: 0/41
+     1 | D:1      | Reached XP level 24. HP: 112/800 MP: 0/41
+     1 | D:1      | Reached XP level 23. HP: 112/796 MP: 0/41
+     1 | D:1      | Reached XP level 22. HP: 112/793 MP: 0/40
+     1 | D:1      | Reached XP level 21. HP: 112/788 MP: 0/39
+     1 | D:1      | Reached XP level 20. HP: 112/785 MP: 0/38
+     1 | D:1      | Reached XP level 19. HP: 112/780 MP: 0/37
+     1 | D:1      | Reached XP level 18. HP: 112/777 MP: 0/36
+     1 | D:1      | Reached XP level 17. HP: 112/772 MP: 0/35
+     1 | D:1      | Reached XP level 16. HP: 112/769 MP: 0/34
+     1 | D:1      | Reached XP level 15. HP: 112/765 MP: 0/33
+     1 | D:1      | Reached XP level 14. HP: 112/761 MP: 0/32
+     1 | D:1      | Reached XP level 13. HP: 112/757 MP: 0/31
+     1 | D:1      | Reached XP level 12. HP: 112/753 MP: 0/30
+     1 | D:1      | Reached XP level 11. HP: 112/749 MP: 0/29
+     1 | D:1      | Reached XP level 10. HP: 112/746 MP: 0/28
+     1 | D:1      | Reached XP level 9. HP: 112/741 MP: 0/27
+     1 | D:1      | Reached XP level 8. HP: 112/737 MP: 0/26
+     1 | D:1      | Reached XP level 7. HP: 112/733 MP: 0/25
+     1 | D:1      | Reached XP level 6. HP: 112/730 MP: 0/23
+     1 | D:1      | Reached XP level 5. HP: 112/725 MP: 0/22
+     1 | D:1      | Reached XP level 4. HP: 112/722 MP: 0/20
+     1 | D:1      | Reached XP level 3. HP: 112/718 MP: 0/19
+     1 | D:1      | Reached XP level 2. HP: 112/714 MP: 0/17
+     1 | D:1      | Reached XP level 1. HP: 112/710 MP: 0/16
+     1 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Spear             |  8000 |       |       |       |       |       |       |       |  4000 || 12000
+ Cast: Infusion          |     1 |       |       |       |       |       |       |       |       ||     1
+Armor: Robe              |   419 |       |       |       |       |       |       |       |   210 ||   629
+Dodge: Dodged            |  5771 |       |       |       |       |       |       |       |  2871 ||  8642
+

@@ -1,0 +1,258 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 297009010227186027
+
+204 Leck the Ruffian (level 5, 53/53 HPs) *WIZ*
+             Began as a Troll Chaos Knight on July 25, 2020.
+             Was a Plaything of Xom.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:54:41 (2691 turns).
+
+Leck the Ruffian (Troll Chaos Knight)               Turns: 2691, Time: 00:54:42
+
+Health: 53/53      AC:  8    Str: 21    XL:     5   Next: 52%
+Magic:  4/4        EV: 10    Int:  8    God:    Xom [......]
+Gold:   44         SH:  0    Dex:  9    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   c - +0 hunting sling
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   k - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.57/turn              A - ring of wizardry
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, hooves 2, deterioration 1, fast metabolism
+3, gourmand, regeneration 1, shaggy fur 1, tough skin 3, wild magic 1, evolution
+1
+a: Renounce Religion
+
+
+You were on level 3 of the Dungeon.
+You worshipped Xom.
+You were a very special plaything of Xom.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 44 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 mace of chaos
+ c - a +0 hunting sling (weapon)
+ l - a +2 mace of protection
+ x - a +0 quarterstaff of protection
+ y - a +0 trident
+Missiles
+ d - 2 throwing nets {!f}
+ e - 96 stones
+ n - 44 arrows
+ o - 18 sling bullets (quivered)
+ r - 3 javelins
+ u - 11 poisoned needles
+Armour
+ k - a +2 robe (worn)
+Jewellery
+ A - a ring of wizardry (left claw)
+Scrolls
+ f - a scroll of immolation {unknown}
+ g - 3 scrolls of magic mapping
+ m - 2 scrolls of remove curse
+ p - a scroll of enchant weapon {unknown}
+ q - a scroll of amnesia {unknown}
+ B - a scroll of teleportation {unknown}
+ C - a scroll of blinking {unknown}
+Potions
+ i - a potion of degeneration
+ j - a potion of agility
+ s - a potion of mutation
+ t - a potion of magic
+ v - a potion of ambrosia
+ w - 3 potions of flight {unknown}
+ z - a potion of curing
+Comestibles
+ a - 4 rations
+ h - 3 chunks of flesh
+
+
+   Skills:
+ - Level 3.0 Fighting
+ - Level 2.6 Maces & Flails
+ - Level 1.3(1.4) Slings
+ - Level 1.0(1.5) Throwing
+ - Level 1.9 Dodging
+ - Level 1.0 Stealth
+ + Level 3.4 Unarmed Combat
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Gozag
+Nemelex Xobeh
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You have hoof-like feet.
+Your body sometimes deteriorates upon taking damage.
+Your spells are a little harder to cast, but a little more powerful.
+You evolve.
+
+
+Message History
+
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Your magical contamination has completely faded away.
+You open the door.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.###.#     #.......#   ########.######  #.#
+#.# #.#     #.##.########.............#  #.#
+#.###.#######.##.###......######.##.#.####.#
+...##.........##.##..###..## ###....#....#.#
+.............###.#..##.##..###....####.#.#..
+...#########># #...##^..##.)##.#....#....###
+#.##       #.###..##.._..##).....##.#.#.<...
+#.#        #.##..##.......##...####...######
+#%#        #.##)##....^.^^.##........##    #
+#.#        #.##[#^..#####...#..#######     #
+#.#        #.##.##^'#.#.#'.##..#       #####
+#.#        #.##..###..#..###...#       #....
+#.#        #.##......###.....#.####    #.###
+#.#        #.##...##..@...........#### #.#
+#.##########.##.#####................###.###
+#............##.#   #....#.###.#####........
+############.##.#   #...###..#.#   #.#......
+           #.##.#   ##...#.#.#.#   #.#.#.###
+           #.##.#    #..#.##.#.#   #.#.#.#
+           #.##.#  ###..#.##.#.#####..#..#
+           #.##.#  #......##.#....)..###.#
+           #.##.#  #.#................#.##
+           #....#  #.##.####.####.####.##
+           #.#######.##.####.####.####.#
+           #.........##................#
+           #############################
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A bullfrog skeleton (D:3)
+  An orc priest (D:3)
+  4 adders
+  4 worms (D:2)
+  4 leopard geckos (D:2)
+  7 orcs
+  9 bats
+  6 giant cockroaches
+  6 goblins
+  8 hobgoblins
+  8 jackals
+  12 kobolds
+  3 ball pythons
+  4 frilled lizards
+  11 rats
+88 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Leck the Troll Chaos Knight began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+   153 | D:1      | XOM: harmless Chrm miscast
+   155 | D:1      | Reached skill level 1 in Unarmed Combat
+   159 | D:1      | Reached XP level 2. HP: 26/29 MP: 1/1
+   175 | D:1      | Entered wizard mode.
+   317 | D:1      | XOM: silly message
+   347 | D:1      | Reached skill level 1 in Throwing
+   507 | D:1      | XOM: cloud trail
+   579 | D:1      | XOM: divination: detect items
+   758 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+   815 | D:1      | XOM: divination: detect items
+  1095 | D:2      | XOM: medium Summ miscast
+  1096 | D:2      | Noticed a neqoxec
+  1100 | D:2      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [a neqoxec]
+  1124 | D:2      | Reached skill level 1 in Stealth
+  1291 | D:2      | Found an opulent altar of Gozag.
+  1294 | D:2      | XOM: 1-stop teleportation journey
+  1312 | D:2      | Reached XP level 4. HP: 44/44 MP: 3/3
+  1762 | D:2      | XOM: summons 3 hostile shadow creatures
+  1836 | D:2      | XOM: give mutations
+  1836 | D:2      | Gained mutation: You have large cloven feet. [Xom's grace]
+  1836 | D:2      | Gained mutation: You evolve. [Xom's grace]
+  1836 | D:2      | Gained mutation: You have hoof-like feet. [Xom's grace]
+  1836 | D:2      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [Xom's grace]
+  1980 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2176 | D:3      | Reached XP level 5. HP: 46/53 MP: 4/4
+  2406 | D:2      | Reached skill level 1 in Slings
+  2577 | D:3      | XOM: chaos cloud
+  2578 | D:3      | Paralysed by you for 2 turns
+  2691 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Unarmed Combat |  1     2  3    |  3.4
+Throwing       |     1          |  1.0
+Stealth        |        1       |  1.0
+Fighting       |           3    |  3.0
+Slings         |              1 |  1.3
+Maces & Flails |                |  2.6
+Dodging        |                |  1.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    58 |    61 ||   119
+       Mace              |    62 |    29 ||    91
+       Punch             |     1 |       ||     1
+       Kick              |       |    11 ||    11
+ Fire: Hunting sling     |     8 |    76 ||    84
+Throw: Throwing net      |     2 |       ||     2
+  Use: Scroll            |       |     8 ||     8
+ Stab: Distracted        |     1 |       ||     1
+       Held in net/web   |     1 |       ||     1
+       Sleeping          |     1 |       ||     1
+  Eat: Chunk             |    17 |    13 ||    30
+Armor: Robe              |    40 |    44 ||    84
+Dodge: Dodged            |    57 |    47 ||   104
+

@@ -1,0 +1,189 @@
+Taam
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(1, 0, D:1)
+  a +0 club
+  a +0 dagger
+(9, 1, D:1)
+  a robe
+(11, 6, D:1)
+  a cursed +0 helmet
+  a +0 animal skin
+  a +0 club
+(12, 54, D:1)
+  a cursed -2 short sword
+(14, 11, D:1)
+  a hand axe
+(15, 14, D:1)
+  a +0 club
+(19, 9, D:1)
+  a +0 club
+(22, 13, D:1)
+  a +0 robe
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(0, 19, D:2)
+  21 bolts
+(5, 3, D:2)
+  a +0 club
+(5, 15, D:2)
+  a robe
+(8, 14, D:2)
+  a +0 club
+(11, -4, D:2)
+  a cursed -1 club
+(15, 27, D:2)
+  a +0 trident
+(17, 6, D:2)
+  a +0 dagger
+(18, 0, D:2)
+  a +0 club
+(19, -1, D:2)
+  a +0 club
+  a +0 hunting sling
+(20, 0, D:2)
+  a +0 dagger
+(20, 1, D:2)
+  a +0 club
+(22, -2, D:2)
+  a +0 chain mail
+  a +0 robe
+  a +0 scythe
+(28, 9, D:2)
+  a +0 club
+(33, 7, D:2)
+  a +0 club
+  a +0 hunting sling
+(37, 7, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 hand axe
+(2, -1, D:3)
+  a +0 mace
+  a cursed +0 ring mail
+(9, 6, D:3)
+  a +0 leather armour
+(11, 19, D:3)
+  a +0 chain mail
+  a cursed -3 club
+(13, 20, D:3)
+  a +0 dagger
+  a +0 whip
+  a +0 robe
+  a +0 short sword
+(15, 31, D:3)
+  a +0 club
+(19, 3, D:3)
+  a +0 dagger
+(26, 9, D:3)
+  a +0 flail
+(32, 31, D:3)
+  a +0 leather armour
+  a +0 club
+(32, 34, D:3)
+  a +0 scale mail
+  a +0 flail
+(41, 5, D:3)
+  a whip
+  a robe
+(44, -3, D:3)
+  a mace
+(58, 20, D:3)
+  a runed helmet
+(62, 6, D:3)
+  a robe
+
+Level 4 of the Dungeon
+[Shop] Hioxaump's Armour Boutique
+  a +2 hat (224 gold)
+  a +4 plate armour of poison resistance (658 gold)
+  a +0 robe (9 gold)
+  a +0 scale mail (56 gold)
+  a +0 pair of gloves (63 gold)
+  the +2 leather armour of Iduesyani {rC+ Str+4 Stlth-} (462 gold)
+    It affects your strength (+4).
+    It protects you from cold.
+    It makes you less stealthy.
+  a +0 scale mail (56 gold)
+  a +0 large shield (63 gold)
+  a +0 robe (9 gold)
+  a +0 buckler (63 gold)
+  a +0 ring mail (56 gold)
+  a cursed +0 leather armour (1 gold)
+  a +0 leather armour (28 gold)
+  a +0 scale mail (56 gold)
+[Shop] Ilanlez's Magic Scroll Emporium
+  a scroll of remove curse (36 gold)
+  a scroll of teleportation (36 gold)
+  a scroll of fog (24 gold)
+  a scroll of brand weapon (unknown) (240 gold)
+  a scroll of silence (unknown) (90 gold)
+  a scroll of fear (42 gold)
+[Shop] Pogaudiu's General Store
+  a scroll of teleportation (42 gold)
+  a +0 chain mail (63 gold)
+  an uncursed ring of resist corrosion (280 gold)
+  a potion of curing (42 gold)
+  a +0 buckler (63 gold)
+  a scroll of identify (28 gold)
+  a potion of flight (42 gold)
+  a wand of disintegration (14) (252 gold)
+  a scroll of remove curse (42 gold)
+  a lightning rod (4/4) (560 gold)
+[Shop] Huipp's Magic Scroll Shop
+  a scroll of holy word (unknown) (97 gold)
+  a scroll of enchant weapon (unknown) (97 gold)
+  a scroll of identify (26 gold)
+  a scroll of brand weapon (unknown) (260 gold)
+  a scroll of holy word (unknown) (97 gold)
+  a scroll of teleportation (39 gold)
+  a scroll of identify (26 gold)
+  a scroll of amnesia (unknown) (45 gold)
+  a scroll of identify (26 gold)
+  a scroll of identify (26 gold)
+  a scroll of remove curse (39 gold)
+  a scroll of remove curse (39 gold)
+  a scroll of enchant weapon (unknown) (97 gold)
+(0, 0, D:4)
+  a +0 leather armour
+(1, 8, D:4)
+  a mace
+(7, 1, D:4)
+  a +0 robe
+  a +0 dagger
+(12, -15, D:4)
+  a plate armour
+(13, -7, D:4)
+  a whip
+(23, 4, D:4)
+  a +0 robe
+  a +0 dagger
+(27, -7, D:4)
+  a +0 leather armour
+  a +0 flail
+(32, 12, D:4)
+  28 bolts
+
+Level 5 of the Dungeon
+(10, -12, D:5)
+  a scale mail
+(20, -18, D:5)
+  a robe
+(32, 29, D:5)
+  a ring mail
+(34, -7, D:5)
+  a broad axe
+(47, -2, D:5)
+  a ring of poison resistance
+(66, -16, D:5)
+  a falchion
+
+the Ecumenical Temple
+

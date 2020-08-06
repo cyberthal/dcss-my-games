@@ -1,0 +1,185 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1073562265357572912
+
+297 Plog the Covert (level 6, 16/44 HPs) *WIZ*
+             Began as a Kobold Assassin on July 24, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:17:54 (1039 turns).
+
+Plog the Covert (Kobold Assassin)                   Turns: 1039, Time: 00:17:55
+
+Health: 16/44      AC:  3    Str:  8    XL:     6   Next: 62%
+Magic:  6/6        EV: 22    Int: 12    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 19    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   h - +0 dagger (venom)
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++++.....             (no amulet)
+HPRegen  0.14/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: small, carnivore
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger
+ b - a +0 blowgun
+ h - a +0 dagger of venom (weapon)
+ i - a +0 dagger of draining
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Potions
+ j - 8 potions of experience
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 7.9 Fighting
+ + Level 9.5 Short Blades
+ + Level 7.9 Throwing
+ + Level 8.4 Dodging
+ + Level 11.1 Stealth
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+You sense an unholy aura.
+i - a +0 dagger of draining (weapon)
+The troll closely misses you. The troll completely misses you. The troll claws
+you.
+You barely miss the troll.
+The troll is severely wounded.
+You hit the troll but do no damage. You drain the troll.
+The troll is almost dead.
+The troll bites you but does no damage. The troll barely misses you. The troll
+closely misses you.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +0 dagger of venom begins to drip with poison!
+h - a +0 dagger of venom (weapon)
+You hit the troll. The troll looks as sick as possible!
+The troll is almost dead.
+The troll bites you but does no damage. The troll claws you but does no damage.
+The troll closely misses you.
+You kill the troll!
+You have reached level 6!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel agile.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #...................777....7....# ###+#..
+ #.....#..............7.....7....#####+#..
+ #.....#.........###...77..77.............
+ #.....#.........#.....777.77##...........
+ #...........#####......?777  #...........
+ #........................#####...........
+ #........................#...............
+ #..[.....................#...............
+ #.........##.............#....[..........
+ #.........##.......................##....
+ #.........(........................###...
+ #....)..........................(..#.....
+ #............................##....#.....
+ #...............###@.........#...........
+ #...............# #..........#......##...
+ #####...........# #..........#...........
+    ######.......###......................
+    #.....................................
+    #.........#........#####.#....#.......
+    #.........#.........[....#....#...>...
+#####.........#..........#?..#....#.......
+#...#.....#####..........#.#.#....#.......
+#...+.....#   #........#.#(..#....#.......
+#.8.#.....#   #..........#........#.......
+#.(.#....##   #########..#.#####..########
+#...#....#            #...........#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A troll (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Plog the Kobold Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 12/12 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Noticed a troll
+     6 | D:1      | Slain by a troll (15 damage)
+     8 | D:1      | Reached skill level 5 in Short Blades
+     8 | D:1      | Reached skill level 7 in Stealth
+     8 | D:1      | Reached XP level 2. HP: 20/20 MP: 2/2
+    65 | D:1      | Slain by a troll (2 damage)
+   190 | D:1      | Slain by a troll (10 damage)
+   291 | D:1      | Reached skill level 5 in Fighting
+   291 | D:1      | Reached skill level 5 in Throwing
+   291 | D:1      | Reached skill level 5 in Dodging
+   291 | D:1      | Reached skill level 8 in Stealth
+   291 | D:1      | Reached XP level 3. HP: 27/27 MP: 3/3
+   341 | D:1      | Slain by a troll (7 damage)
+   357 | D:1      | Reached skill level 10 in Stealth
+   357 | D:1      | Reached XP level 4. HP: 32/32 MP: 4/4
+   780 | D:1      | Slain by a troll (6 damage)
+   883 | D:1      | Reached skill level 11 in Stealth
+   883 | D:1      | Reached XP level 5. HP: 39/39 MP: 5/5
+  1038 | D:1      | Killed a troll
+  1038 | D:1      | Reached XP level 6. HP: 16/44 MP: 6/6
+  1039 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  4  5  6  7 |  7.9
+Short Blades   |  5  6  8  9 |  9.5
+Throwing       |  4  5  7    |  7.9
+Dodging        |  4  5  7  8 |  8.4
+Stealth        |  7  8 10 11 | 11.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    22 |    68 ||    90
+  Use: Potion            |     3 |     1 ||     4
+Armor: Robe              |    11 |    10 ||    21
+Dodge: Dodged            |    25 |    95 ||   120
+

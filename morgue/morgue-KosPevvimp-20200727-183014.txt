@@ -1,0 +1,117 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11132063012846922315
+
+0 Kos Pevvimp the Shield-Bearer (level 1, 18/18 HPs) *WIZ*
+             Began as a Human Fighter on July 27, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:39 (0 turns).
+
+Kos Pevvimp the Shield-Bearer (Human Fighter)          Turns: 0, Time: 00:00:40
+
+Health: 18/18      AC:  6    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV:  6    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  8    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 long sword
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 long sword (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Long Blades
+ + Level 3.0 Armour
+ + Level 3.0 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Kos Pevvimp the Human Fighter.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found 18 arrows.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.4 |     12 |  33% |   1.5 |   138  |  0.72 |      1.1
+Attack:   Mons | No hits
+Defend: Player |      4.7 |     10 |   1% |   0.1 |    76  |  1.32 |      0.1
+Defend:   Mons |      0.9 |      4 |  50% |   0.4 |    76  |  1.32 |      0.6
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###########
+#....@....#
+#....(....#
+#.#.....#.#
+#.........#
+#.........#
+#.#.....#.#
+#.........#
+#.........#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kos Pevvimp the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Long sword        ||  4000
+Armor: Scale mail        ||  1190
+Dodge: Dodged            ||   708
+Block: Shield            ||  1291
+Rpst.: Long sword        ||   253
+

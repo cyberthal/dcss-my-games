@@ -1,0 +1,155 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2662687357556787348
+
+0 Mayhuv the Charmwright (level 1, 10/10 HPs) *WIZ*
+             Began as a Spriggan Skald on Aug 5, 2020.
+             Was the Champion of Elyvilon.
+             Quit the game on level 1 of the Dungeon on Aug 6, 2020.
+             The game lasted 00:05:12 (1 turns).
+
+Mayhuv the Charmwright (Spriggan Skald)                Turns: 1, Time: 00:05:13
+
+Health: 10/10      AC:  2    Str:  7    XL:     1   Next: 0%
+Magic:  5/5        EV: 18    Int: 14    God:    Elyvilon 200 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 4/5 levels left
+
+rFire    . . .     SeeInvis +   a - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Vigour,
+Divine Protection, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Elyvilon.
+Elyvilon was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 1.5 Fighting
+ + Level 1.3 Polearms
+ + Level 3.5 Dodging
+ + Level 2.6 Spellcasting
+ + Level 4.4 Charms
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           14 (25)      3%          1    13
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Song of Slaying          Chrm           14 (100)     5%          2    63
+ Shroud of Golubria       Chrm/Tloc      8 (200)      14%         2    63
+ Regeneration             Chrm/Necr      8 (200)      26%         3    113
+ Spectral Weapon          Hex/Chrm       8 (100)      26%         3    113
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Unknown command.
+Okay, then.
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? brand
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? *
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ## ##
+  #. .#
+###.7.###
+#.......#
+#.7.<.7.#
+#...@...#
+###.7.###
+  #. .#
+  ## ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mayhuv the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Elyvilon the Healer
+     1 | D:1      | Reached * piety under Elyvilon
+     1 | D:1      | Reached ** piety under Elyvilon
+     1 | D:1      | Reached *** piety under Elyvilon
+     1 | D:1      | Reached **** piety under Elyvilon
+     1 | D:1      | Reached ***** piety under Elyvilon
+     1 | D:1      | Reached ****** piety under Elyvilon
+     1 | D:1      | Quit the game
+

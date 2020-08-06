@@ -1,0 +1,262 @@
+Ihushet
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 short sword
+(9, 13, D:1)
+  a +0 short sword
+(13, -4, D:1)
+  a +0 club
+(19, -18, D:1)
+  a +0 ring mail
+(27, -18, D:1)
+  a +0 club
+(38, 24, D:1)
+  a +0 club
+(47, 19, D:1)
+  a +0 leather armour
+(50, 18, D:1)
+  a cursed -1 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 spear
+  a +0 dagger
+  a +0 club
+(11, -6, D:2)
+  a +0 dagger
+(15, -3, D:2)
+  a +0 club
+(16, -1, D:2)
+  a +0 leather armour
+(22, -30, D:2)
+  a +0 leather armour
+(23, -19, D:2)
+  a +0 dagger
+(40, -30, D:2)
+  a +0 hand axe
+(41, -14, D:2)
+  a +0 mace
+(41, -1, D:2)
+  a +0 plate armour
+(44, -21, D:2)
+  a +0 chain mail
+  a cursed +0 club
+(44, -20, D:2)
+  a +0 leather armour
+  a cursed +0 club
+(47, -31, D:2)
+  a +0 dagger
+(49, -41, D:2)
+  a +0 hand axe
+(51, -10, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(1, -22, D:3)
+  a +0 robe
+(2, -33, D:3)
+  a +0 war axe
+  a +0 leather armour
+(3, -32, D:3)
+  a +0 war axe
+  a +0 club
+  a +0 hand axe
+  a +0 scale mail
+(7, -13, D:3)
+  a +0 dagger
+(7, -10, D:3)
+  a +0 club
+  a +0 hunting sling
+(8, -10, D:3)
+  a +0 dagger
+  a +0 club
+(9, -21, D:3)
+  a +0 dagger
+(11, -21, D:3)
+  a +0 club
+(11, -20, D:3)
+  a +0 helmet
+  a +0 animal skin
+  a +0 spear
+(12, -31, D:3)
+  a +0 scale mail
+  a +0 hand axe
+  a +0 falchion
+(12, -11, D:3)
+  a +0 dagger
+  a +0 club
+(14, -30, D:3)
+  a +0 robe
+  a +0 dagger
+(20, -27, D:3)
+  a +0 mace
+(20, -16, D:3)
+  a +0 ring mail
+(25, -24, D:3)
+  a +0 ring mail
+(26, -31, D:3)
+  a +0 dagger
+(29, -29, D:3)
+  a +0 hand axe
+(30, -30, D:3)
+  a +0 dagger
+(30, -20, D:3)
+  a +0 hand axe
+(33, -33, D:3)
+  a +0 club
+(33, -21, D:3)
+  a cursed +0 leather armour
+(36, -12, D:3)
+  a +0 robe
+  a +0 dagger
+(38, -9, D:3)
+  a +0 hand axe
+(46, -29, D:3)
+  a +0 leather armour
+  a +0 falchion
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+  a +0 animal skin
+(3, 38, D:4)
+  a +0 hand crossbow
+(20, 14, D:4)
+  a cursed -2 rapier
+(35, 32, D:4)
+  a +0 helmet
+
+Level 5 of the Dungeon
+[Shop] Qerghit's Mass Market
+  a cursed -1 plate armour (195 gold)
+  a +0 plate armour (299 gold)
+  a +0 plate armour (299 gold)
+  a +0 plate armour (299 gold)
+  a +0 giant club (22 gold)
+  the +4 giant club of Stickiness {holy, +Blink rC+} (572 gold)
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It protects you from cold.
+    It lets you blink.
+  a +0 plate armour (299 gold)
+[Shop] Vourag's Food Boutique
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+(0, 0, D:5)
+  a +0 leather armour
+(16, 4, D:5)
+  a +0 chain mail
+(21, -8, D:5)
+  a +0 large shield
+(22, 28, D:5)
+  a +0 club
+(24, 22, D:5)
+  a +0 robe
+  (unseen)
+(25, -7, D:5)
+  a cursed amulet of inaccuracy
+(29, -10, D:5)
+  a +0 leather armour
+(31, -2, D:5)
+  a cursed -2 whip
+(31, 15, D:5)
+  a +0 great mace
+(36, 21, D:5)
+  a +0 spear
+(37, -2, D:5)
+  a +0 halberd
+(39, 26, D:5)
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(14, -17, D:6)
+  a +0 club
+(20, 24, D:6)
+  a +0 quarterstaff
+(21, -3, D:6)
+  a +0 spear
+
+Level 7 of the Dungeon
+[Shop] Bacynaa's Gadget Shop
+  a wand of paralysis (3) (65 gold)
+  a wand of paralysis (7) (117 gold)
+  a lamp of fire (520 gold)
+  a wand of flame (6) (52 gold)
+  a sack of spiders (260 gold)
+  a wand of digging (3) (182 gold)
+(0, 0, D:7)
+  a cursed +0 buckler
+(4, 27, D:7)
+  a +0 club
+(12, -3, D:7)
+  a +0 robe
+  a +0 dagger
+(12, 49, D:7)
+  a +0 ring mail
+(18, 41, D:7)
+  a +0 robe
+  a +0 dagger
+(20, 8, D:7)
+  a +0 glaive
+  a +0 plate armour
+(21, 7, D:7)
+  a +0 scale mail
+(23, 29, D:7)
+  a +0 hand axe
+(30, 47, D:7)
+  a +0 flail
+(31, 23, D:7)
+  a +0 hand axe
+(32, 21, D:7)
+  a +0 war axe
+(32, 39, D:7)
+  an uncursed staff of earth
+(42, 20, D:7)
+  a +0 spear
+(45, 6, D:7)
+  a +0 short sword
+(55, 20, D:7)
+  a +0 chain mail
+(60, 35, D:7)
+  a +0 scale mail
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 scale mail
+(2, 0, D:8)
+  5 sling bullets
+(7, -2, D:8)
+  a +0 hunting sling
+(11, -16, D:8)
+  a stone
+(13, -16, D:8)
+  a stone (still there?)
+  a +0 leather armour (still there?)
+(16, -16, D:8)
+  a stone
+(17, -11, D:8)
+  6 gold pieces
+(18, -15, D:8)
+  a +4 quarterstaff of crushing
+  (unseen)
+(19, -19, D:8)
+  15 poisoned needles
+(19, -16, D:8)
+  a wolf corpse
+(28, -19, D:8)
+  a +0 pair of gloves
+
+the Ecumenical Temple
+

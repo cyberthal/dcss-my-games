@@ -1,0 +1,503 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6869348842700571281
+
+14478 Yxeareramu the Spear-Bearer (level 11, 99/99 HPs) *WIZ*
+             Began as a Minotaur Berserker on Aug 1, 2020.
+             Was an Elder of Trog.
+             Quit the game on level 9 of the Dungeon on Aug 2, 2020.
+             The game lasted 02:39:04 (15596 turns).
+
+Yxeareramu the Spear-Bearer (Minotaur Berserker)   Turns: 15596, Time: 02:39:04
+
+Health: 99/99      AC: 19    Str: 21    XL:     11   Next: 89%
+Magic:  15/15      EV: 13    Int:  4    God:    Trog [****..]
+Gold:   542        SH:  0    Dex: 15    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   G - +2 plate armour of the Enchanted Forest {+Blink rCorr Str-4}
+rPois    .         Spirit   .   L - +2 hat
+rElec    .         Reflect  .   J - scarf {repulsion}
+rCorr    +         Harm     .   E - +2 pair of gloves
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.26/turn              N - +3 ring of evasion
+MPRegen  0.14/turn              b - +3 ring of strength
+
+@: repel missiles
+A: retaliatory headbutt, horns 2, thin skeletal structure 1, wild magic 1
+a: Berserk, Trog's Hand, Brothers in Arms, Renounce Religion, Evoke Blink
+
+
+You were on level 9 of the Dungeon.
+You worshipped Trog.
+Trog was greatly pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+
+You collected 827 gold pieces.
+You spent 285 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of chaos
+ c - a +2 dagger of electrocution
+ d - a +2 whip of flaming
+ e - a +2 whip of electrocution
+ f - a +2 broad axe of electrocution
+ g - the +2 trident of Xeliann {venom, rElec rC- Dex+6 Stlth+}
+   (You found it on level 11 of the Dungeon)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It affects your dexterity (+6).
+   It makes you vulnerable to cold.
+   It insulates you from electricity.
+   It makes you more stealthy.
+ h - a +3 trident of freezing
+ i - a +5 trident of protection
+ j - a +0 shortbow
+Missiles
+ n - 128 arrows
+ s - 5 javelins
+ B - 229 stones
+ Q - 7 tomahawks (quivered)
+Armour
+ E - a +2 pair of gloves (worn)
+ G - the +2 plate armour of the Enchanted Forest (worn) {+Blink rCorr Str-4}
+   (You found it on level 9 of the Dungeon)   
+   
+   It affects your strength (-4).
+   It lets you blink.
+   It provides partial protection from all sources of acid and corrosion.
+ J - a scarf of repulsion (worn)
+ K - a +2 robe of cold resistance
+ L - a +2 hat (worn)
+Magical Staves
+ q - an uncursed staff of cold
+Jewellery
+ b - a +3 ring of strength (right hand)
+ t - an uncursed ring of see invisible
+ I - an uncursed ring of flight
+ N - a +3 ring of evasion (left hand)
+Wands
+ m - a wand of acid (12)
+ o - a wand of flame (19)
+ A - a wand of polymorph (3)
+ M - a wand of scattershot (4)
+ V - a wand of iceblast (17)
+ X - a wand of random effects (15)
+ Y - a wand of digging (7)
+ Z - a wand of enslavement (18)
+Scrolls
+ k - 3 scrolls of immolation
+ r - 2 scrolls of blinking
+ u - 2 scrolls of magic mapping
+ v - a scroll of noise
+ y - 7 scrolls of teleportation
+ z - a scroll of fear
+ C - 3 scrolls of fog
+ P - a scroll of remove curse
+ T - a scroll of torment
+Potions
+ l - 5 potions of curing
+ p - a potion of resistance
+ w - a potion of heal wounds
+ D - 3 potions of flight
+ R - 2 potions of lignification
+ S - 3 potions of agility
+ U - 5 potions of haste
+Comestibles
+ x - 14 rations
+
+
+   Skills:
+ - Level 10.0 Fighting
+ - Level 5.1 Short Blades
+ - Level 6.1(9.3) Axes
+ - Level 3.0(4.9) Maces & Flails
+ - Level 10.5(11.1) Polearms
+ + Level 8.4 Bows
+ - Level 3.2 Throwing
+ - Level 6.0 Armour
+ * Level 6.8 Dodging
+ - Level 1.0 Stealth
+ - Level 7.1 Evocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Flame Tongue             Conj/Fire      #....        100%        1    ##.....
+ Infusion                 Chrm           #...         100%        1    ##.....
+ Magic Dart               Conj           #...         100%        1    ##.....
+ Sting                    Conj/Pois      #...         100%        1    ##.....
+ Blink                    Tloc           N/A          100%        2    ###....
+ Call Imp                 Summ           #.......     100%        2    ###....
+ Poisonous Vapours        Pois/Air       #.....       100%        2    ###....
+ Shroud of Golubria       Chrm/Tloc      #.........   100%        2    ###....
+ Slow                     Hex            #.......     100%        2    ###....
+ Song of Slaying          Chrm           #.......     100%        2    ###....
+ Throw Flame              Conj/Fire      #.....       100%        2    ###....
+ Conjure Flame            Conj/Fire      #.......     100%        3    ####...
+ Inner Flame              Hex/Fire       #.......     100%        3    ####...
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Regeneration             Chrm/Necr      #.........   100%        3    ####...
+ Spectral Weapon          Hex/Chrm       #.......     100%        3    ####...
+ Leda's Liquefaction      Hex/Erth       #.........   100%        4    #####..
+ Olgreb's Toxic Radiance  Pois           #.......     100%        4    #####..
+ Sticky Flame             Conj/Fire      #.......     100%        4    #####..
+ Bolt of Magma            Conj/Fire/Erth #.........   100%        5    ######.
+ Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Venom Bolt               Conj/Pois      #.........   100%        5    ######.
+ Iron Shot                Conj/Erth      #.........   100%        6    #######
+ Statue Form              Tmut/Erth      #........    100%        6    #######
+ Shatter                  Erth           #.........   100%        9    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:5            Lair (2/6) D:10
+    Orc (0/2) D:9         
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:10 *   D:11 %
+
+Annotations:
+D:9 7 runed translucent doors
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You have a somewhat thin skeletal structure. (Dex +2, Stealth)
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+a glowing mace; a runed mace; a scimitar
+H - a runed mace; O - a glowing mace
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +5 trident of protection goes still.
+Your +1 mace of protection hums with potential!
+H - a +1 mace of protection (weapon)
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +1 mace of protection goes still.
+Your +2 mace of protection hums with potential!
+O - a +2 mace of protection (weapon)
+Items here: (((( ))))))
+You drop a +1 mace of protection.
+Your +2 mace of protection goes still. You are now empty-handed. You drop a +2
+mace of protection.
+Okay, then.
+You see here a +4 quarterstaff.
+Items here: !!!! " === ??
+Drop what? 49/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a scroll of brand weapon.
+Enter Wizard Command (? - help): 
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       #.###########.#
+       #.#   #######.######
+  ######.#####............#
+  #..........#.####..###..#
+  #.#..........#  #..# #..#
+  #.#.##.###.###  #..# #..################
+  #.#.##.# #.#   ##).###..[..............#
+  #.#.##.###.#####.....##..#############.#
+  #.#.#............###..........###### #.#
+###.#.#............# #...............# #.#
+.....#..####.#.###.###..........####.# #.#
+###.###.#  #.#.# #..............#  #.# #.#
+  #..#..#  #.#.# ##[)...........#  #.# #.#
+  #...#.####.#.#  #[))@.........#  #.# #.#
+  #######....#.#  #[..=...>.....# ##.# #.#
+ ###>#########.#  #.............# #..# #.#
+ #8...8#     #.#  #.............# #.## #.#
+##.....##    #.#  ####.........## #.#  #.###
+#8.....8#    #.#    #..........#  #.#  #....
+##.....##    #.#    #..........# ##.#  ####.
+##8...8#     #.##   #..........# #..#     #.
+##.....##    #..#   #.####.##.####.########.
+#_....._#    ##.#   #.#  #...).........>....
+##.....## #####.#####.#  ####.####.#######..
+ #8...8#  #...........#     #[#  #.#     #..
+ ###8###  #.###.#############[# ##.#     #..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Snorg (D:10)
+  A hydra (Lair:2)
+  A two-headed ogre (D:8)
+  A tengu warrior (D:11)
+  An ugly thing (D:11)
+  A black mamba (Lair:2)
+  4 spiny frogs
+  A komodo dragon (Lair:2)
+  3 blink frogs (Lair:2)
+  A hippogriff (D:10)
+  2 wyverns
+  A hungry ghost (D:8)
+  2 soldier ants (D:11)
+  3 wargs
+  5 water moccasins
+  3 porcupines (Lair:2)
+  2 swamp drakes (D:9)
+  7 orc warriors
+  2 sky beasts
+  2 ice beasts
+  3 black bears
+  4 ogres
+  5 phantoms
+  11 wolves (Lair:2)
+  5 centaurs
+  2 crocodiles
+  A big kobold (D:6)
+  9 bullfrogs
+  A scorpion (D:10)
+  2 wyvern skeletons (D:10)
+  4 wights (D:11)
+  4 killer bees (D:9)
+  A howler monkey (D:6)
+  2 electric eels (Lair:2)
+  3 crimson imps
+  8 hounds
+  2 bullfrog zombies
+  2 centaur skeletons
+  5 jellies
+  8 orc priests
+  2 iguanas (D:11)
+  Terence (D:2)
+  18 orc wizards
+  10 worker ants
+  2 hound zombies
+  2 worker ant zombies
+  Robin (D:3)
+  3 gnolls (D:2)
+  6 adders
+  4 shadow imps
+  7 oozes
+  An adder zombie (D:5)
+  2 adder skeletons
+  3 worms
+  A dart slug (D:1)
+  4 leopard geckos
+  51 orcs
+  A giant cockroach (D:3)
+  12 goblins
+  10 hobgoblins
+  9 jackals
+  9 kobolds
+  4 quokkas
+  4 ball pythons
+  5 bats
+  9 frilled lizards
+  A quokka skeleton (D:9)
+  8 rats
+316 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hippogriff (D:11)
+  3 hungry ghosts (D:11)
+4 creatures vanquished.
+
+Grand Total: 320 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Yxeareramu the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+    74 | D:1      | Reached skill level 1 in Stealth
+   319 | D:1      | Reached XP level 2. HP: 24/27 MP: 1/1
+   995 | D:2      | Noticed Terence
+   997 | D:2      | Reached skill level 1 in Throwing
+  1003 | D:2      | Reached ** piety under Trog
+  1003 | D:2      | Reached XP level 3. HP: 33/33 MP: 2/2
+  1008 | D:2      | Killed Terence
+  1134 | D:1      | Entered wizard mode.
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1134 | D:1      | Noticed a hippogriff
+  1135 | D:1      | Slain by a hippogriff (7 damage)
+  1136 | D:1      | Slain by a hippogriff (7 damage)
+  1138 | D:1      | HP: 1/34 [hippogriff (3)]
+  1138 | D:1      | Slain by a hippogriff (3 damage)
+  1138 | D:1      | Slain by a hippogriff (4 damage)
+  1139 | D:1      | Slain by a hippogriff (5 damage)
+  1140 | D:1      | Slain by a hippogriff (2 damage)
+  1141 | D:1      | Slain by a hippogriff (1 damage)
+  1142 | D:1      | Slain by a hippogriff (4 damage)
+  1616 | D:2      | Reached XP level 4. HP: 41/41 MP: 3/3
+  1731 | D:2      | Reached skill level 5 in Fighting
+  1794 | D:2      | Reached skill level 5 in Polearms
+  2038 | D:3      | Reached skill level 1 in Maces & Flails
+  2038 | D:3      | Reached XP level 5. HP: 48/48 MP: 4/4
+  2122 | D:3      | Noticed Robin
+  2127 | D:3      | Reached *** piety under Trog
+  2135 | D:3      | Killed Robin
+  2394 | D:3      | Noticed a centaur
+  2406 | D:3      | Killed a centaur
+  2483 | D:3      | Reached XP level 6. HP: 55/56 MP: 5/5
+  2547 | D:3      | Reached skill level 1 in Bows
+  3207 | D:4      | Reached XP level 7. HP: 62/63 MP: 6/6
+  3255 | D:4      | Reached **** piety under Trog
+  3375 | D:4      | Reached skill level 1 in Short Blades
+  3495 | D:4      | Reached skill level 1 in Axes
+  3548 | D:4      | Found a blossoming altar of Fedhas.
+  3709 | D:5      | Entered Level 5 of the Dungeon
+  3870 | D:5      | Found a staircase to the Ecumenical Temple.
+  3932 | Temple   | Entered the Ecumenical Temple
+  4346 | D:5      | Found an opulent altar of Gozag.
+  4383 | D:5      | Reached XP level 8. HP: 71/71 MP: 7/7
+  4719 | D:6      | Reached skill level 1 in Evocations
+  5876 | D:7      | Reached XP level 9. HP: 81/81 MP: 9/9
+  6021 | D:7      | Reached ***** piety under Trog
+  6021 | D:7      | Reached skill level 5 in Armour
+  7417 | D:8      | Noticed a two-headed ogre
+  7423 | D:8      | Killed a two-headed ogre
+  7423 | D:8      | Reached skill level 10 in Polearms
+  7423 | D:8      | Reached XP level 10. HP: 91/91 MP: 11/11
+  8085 | D:9      | Found a staircase to the Orcish Mines.
+  8150 | D:9      | Found a runed translucent door.
+  8161 | D:9      | Found a runed translucent door.
+  8236 | D:9      | Noticed Psyche
+  8237 | D:9      | Noticed Psyche
+  8237 | D:9      | Psyche changed into Psyche the swamp drake
+  8244 | D:9      | Killed Psyche the swamp drake
+  8545 | D:9      | Found a runed translucent gate.
+  8545 | D:9      | Found a runed translucent gate.
+  8545 | D:9      | Found a runed translucent gate.
+  8547 | D:9      | Noticed a red very ugly thing
+  8547 | D:9      | Noticed a red ugly thing
+  8547 | D:9      | Noticed a glowing orange brain
+  8547 | D:9      | Noticed a brown ugly thing
+  8547 | D:9      | Noticed a green ugly thing
+  8548 | D:9      | Noticed a green ugly thing
+  8551 | D:9      | Got a tattered robe
+  8586 | D:9      | Found a basalt altar of Yredelemnul.
+  8588 | D:9      | Found a snail-covered altar of Cheibriados.
+  8688 | D:9      | Found a shattered altar of Ashenzari.
+  8749 | D:9      | Found a runed translucent door.
+  8793 | D:9      | Found a runed translucent door.
+  9257 | D:10     | Entered Level 10 of the Dungeon
+  9815 | D:10     | Found a staircase to the Lair.
+  9825 | D:10     | Reached skill level 5 in Axes
+ 10106 | D:10     | Reached skill level 10 in Fighting
+ 10367 | D:10     | Found Pynoacli's Assorted Antiques.
+ 10380 | D:10     | Bought a scroll labeled IHOTURGHAISM for 38 gold pieces
+ 10380 | D:10     | Bought a scroll labeled ULYOTAYPSA for 38 gold pieces
+ 10380 | D:10     | Bought a scroll of magic mapping for 133 gold pieces
+ 10380 | D:10     | Bought a wand of enslavement (13) for 76 gold pieces
+ 10720 | D:10     | Noticed Snorg
+ 10732 | D:10     | Killed Snorg
+ 10732 | D:10     | Reached skill level 5 in Dodging
+ 11112 | D:9      | Got a shimmering plate armour
+ 11286 | D:11     | Reached skill level 5 in Evocations
+ 11345 | D:9      | Identified the +2 plate armour of the Enchanted Forest
+                  | {+Blink rCorr Str-4} (You found it on level 9 of the
+                  | Dungeon)
+ 11480 | D:11     | Received a gift from Trog
+ 11552 | D:11     | Got a bone trident
+ 11610 | D:11     | Reached skill level 5 in Bows
+ 11628 | D:11     | Reached XP level 11. HP: 99/99 MP: 13/13
+ 11677 | D:11     | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+ 11677 | D:11     | Gained mutation: You have a somewhat thin skeletal
+                  | structure. (Dex +2, Stealth) [potion of mutation]
+ 11706 | D:11     | Identified the cursed +2 trident of Xeliann {venom, rElec
+                  | rC- Dex+6 Stlth+} (You found it on level 11 of the Dungeon)
+ 12093 | D:11     | Noticed a tengu warrior
+ 12120 | D:11     | Noticed a brown ugly thing
+ 12136 | D:11     | Killed a brown ugly thing
+ 12169 | D:11     | Killed a tengu warrior
+ 12169 | D:11     | Reached skill level 5 in Short Blades
+ 12815 | D:11     | Found Mynemnua's Food Shop.
+ 13005 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14237 | Lair:2   | Noticed a four-headed hydra
+ 14244 | Lair:2   | Killed a four-headed hydra
+ 15596 | D:9      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  1                               |  1.0
+Fighting       |     4     5     6     8  9 10    | 10.0
+Polearms       |     4     5        6  7 10       | 10.5
+Throwing       |     1        3                   |  3.2
+Maces & Flails |           1     2  3             |  3.0
+Dodging        |              3        4     5  6 |  6.8
+Bows           |                 1  2     4  5  8 |  8.4
+Short Blades   |                    2  3     4  5 |  5.1
+Axes           |                    1  3     6    |  6.1
+Armour         |                    3  4  5     6 |  6.0
+Evocations     |                       2  3  5  7 |  7.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |    50 |       |       |       ||    50
+       Headbutt          |     7 |    19 |    36 |  1189 ||  1251
+       Trident           |    19 |   128 |   212 |  4375 ||  4734
+       Dagger            |       |       |    14 |       ||    14
+       Whip              |       |       |     5 |       ||     5
+       Falchion          |       |       |       |  4000 ||  4000
+ Fire: Shortbow          |       |    34 |   141 |   216 ||   391
+Throw: Stone             |    30 |    31 |     2 |     1 ||    64
+       Tomahawk          |       |       |     2 |     5 ||     7
+Invok: Berserk           |     3 |     2 |     4 |     8 ||    17
+       Trog's Hand       |       |     1 |     1 |       ||     2
+       Brothers in Arms  |       |       |       |     4 ||     4
+ Abil: Evoke Flight      |       |       |       |     3 ||     3
+Evoke: Wand              |       |       |       |     3 ||     3
+  Use: Scroll            |     3 |     6 |     6 |    19 ||    34
+       Potion            |       |       |     2 |     2 ||     4
+  Eat: Chunk             |     5 |     8 |    14 |    20 ||    47
+       Ration            |       |       |     1 |     5 ||     6
+Armor: Scale mail        |    68 |    21 |       |       ||    89
+       Chain mail        |       |    17 |    25 |       ||    42
+       Plate armour      |       |       |    99 |  3531 ||  3630
+Dodge: Dodged            |    73 |    50 |    96 |  3311 ||  3530
+       Deflected         |       |       |     1 |    11 ||    12
+Rpst.: Falchion          |       |       |       |   494 ||   494
+

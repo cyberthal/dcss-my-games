@@ -1,0 +1,109 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16695550009395312384
+
+0 Koaff the Shield-Bearer (level 1, 22/22 HPs)
+             Began as a Troll Fighter on July 27, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:16 (0 turns).
+
+Koaff the Shield-Bearer (Troll Fighter)                Turns: 0, Time: 00:00:16
+
+Health: 22/22      AC:  6    Str: 23    XL:     1   Next: 0%
+Magic:  0/0        EV:  8    Int:  4    God:    
+Gold:   0          SH:  8    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 flail
+rCold    . . .     Gourm    +   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 flail (weapon)
+Armour
+ b - a +0 robe (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 1.7 Maces & Flails
+ + Level 2.4 Dodging
+ + Level 2.4 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Welcome, Koaff the Troll Fighter.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       #
+      .#
+     #.#
+ ####.#
+##...#
+#...#
+ #@#
+ ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Koaff the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Quit the game
+

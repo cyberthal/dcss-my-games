@@ -1,0 +1,116 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1690807724202679294
+
+0 Reuzer the Skirmisher (level 1, 22/22 HPs) *WIZ*
+             Began as a Minotaur Fighter on Aug 2, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:36 (0 turns).
+
+Reuzer the Skirmisher (Minotaur Fighter)               Turns: 0, Time: 00:00:37
+
+Health: 22/22      AC:  6    Str: 20    XL:     1   Next: 0%
+Magic:  0/0        EV:  7    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 trident
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 4.9 Fighting
+ + Level 2.4 Polearms
+ + Level 3.6 Armour
+ + Level 3.6 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which skill (by name)? fight
+Fighting
+To what level? m
+Okay, then.
+Enter Wizard Command (? - help): 
+Which skill (by name)? fight
+Fighting
+To what level? 4
+Increased Fighting to skill level 4.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? fight
+Fighting
+To what level? 4.9
+Increased Fighting to skill level 4.9.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####+#
+#.....#
+#..@..#
+#.....#
+#######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Reuzer the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+

@@ -1,0 +1,139 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10789502892376802917
+
+0 Zeivuall the Insei (level 1, 15/15 HPs) *WIZ*
+             Began as a Demigod Transmuter on Aug 4, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:54 (2 turns).
+
+Zeivuall the Insei (Demigod Transmuter)                Turns: 2, Time: 00:03:54
+
+Health: 15/15      AC:  2    Str: 13    XL:     1   Next: 0%
+Magic:  4/5        EV: 12    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 2/3 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots currently unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: appendage
+A: talons 3, high mp 1
+a: End Transformation
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You had grown temporary talons.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ a - 12 arrows
+Armour
+ b - a +0 robe (worn)
+Potions
+ c - 12 potions of experience
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 0.8 Fighting
+ - Level 1.7 Dodging
+ + Level 0.0 Stealth
+ - Level 2.6 Unarmed Combat
+ - Level 1.7 Spellcasting
+ - Level 1.7 Transmutations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           7 (50)       10%         1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sticks to Snakes         Tmut           7 (100)      14%         2    70
+ Spider Form              Tmut/Pois      4 (200)      38%         3    120
+ Ice Form                 Ice/Tmut       4 (100)      80%         4    220
+ Blade Hands              Tmut           7 (200)      95%         5    370
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+You have claws for feet.
+
+
+Message History
+
+Okay, then.
+Casting: Beastly Appendage (safe; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your feet morph into talons. The rat moves out of view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.7 |     15 |  42% |   2.0 |    95  |  1.05 |      2.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.1 |      5 |  47% |   1.0 |    76  |  1.32 |      1.3
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? !
+What type of item? exp
+Potion of experience
+Something appears before you!
+c - 12 potions of experience
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####
+#..@#
+#.###
+#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zeivuall the Demigod Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||  4000
+       Kick              ||   956
+       Punch             ||    40
+ Cast: Beastly Appendage ||     1
+Armor: Robe              ||   381
+Dodge: Dodged            ||  2100
+

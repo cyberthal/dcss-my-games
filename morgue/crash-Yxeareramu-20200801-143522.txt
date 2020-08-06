@@ -1,0 +1,1200 @@
+ERROR: range check error (246 / 57)
+
+Version: Dungeon Crawl Stone Soup 0.23.2
+Platform: unix (OS X)
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Command line: /Applications/Dungeon Crawl Stone Soup - Tiles.app/Contents/MacOS/Dungeon Crawl Stone Soup - Tiles
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #4: Illegal instruction: 4
+
+Obtained 18 stack frames.
+0x00000001041545b4: write_stack_trace(__sFILE*, int) + 116
+0x000000010415c846: do_crash_dump() + 1718
+0x00000001041542e0: crash_signal_handler(int) + 176
+0x00007fff6dc275fd: _sigtramp + 29
+0xffffffffffffffff: 0x0 + 18446744073709551615
+0x000000010415f440: _BreakStrToDebugger(char const*, bool) + 0
+0x000000010437e9a0: seen_item(item_def const&) + 320
+0x0000000104767382: Stash::add_item(item_def const&, bool) + 386
+0x0000000104766304: Stash::update() + 932
+0x00000001047654d7: LevelStashes::update_stash(coord_def const&) + 151
+0x00000001047651b5: StashTracker::update_visible_stashes() + 341
+0x0000000104834ed3: wizard_create_spec_object() + 1315
+0x000000010484d6d7: _do_wizard_command(int) + 1511
+0x000000010484cd34: handle_wizard_command() + 1156
+0x00000001048cf970: _input() + 2128
+0x00000001048ce7e5: _launch_game() + 8213
+0x00000001048cc16a: main + 1082
+0x000000010406ed44: start + 52
+
+/usr/bin/gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final) on Mar 30 2019 at 21:18:35
+Build platform: x86_64-apple-darwin16.7.0
+Platform: x86_64-apple-darwin16.7.0
+CFLAGS: -O2 -flto -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-apple-darwin16.7.0/include/SDL2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include/freetype2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="contrib/fonts/DejaVuSans.ttf" -DMONOSPACED_FONT="contrib/fonts/DejaVuSansMono.ttf" -DCLUA_BINDINGS -isystem /usr/include/ncurses
+LDFLAGS: -rdynamic -O2 -flto 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = corridors, absdepth0 = 0
+Level vaults:
+    sevenhm_arrival_forest_fort_small_3
+    layout_loops_ring
+    minivault_23
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker #0, type 0 at (23, 46): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You feel a strong urge to attack something.
+You feel your anger nearly subside. You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Key pressed, stopping travel.
+Unknown command.
+There is an open door here.
+You close the door.
+Press: ? - help, v - describe, . - travel
+The floor.
+There is a large open door here.
+Which direction?
+You close the large door.
+There is an open door here.
+Which direction?
+You close the door.
+As you close the door, it creaks loudly!
+You open the door.
+You feel yourself speed up.
+There is an open door here.
+You close the door.
+You start resting.
+You recover from your berserk rage.
+You start resting.
+HP restored.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+As you open the large door, it creaks loudly!
+There is a large open door here.
+You open the door.
+There is an open door here.
+Things that are here:
+a cursed -2 club; a hobgoblin corpse
+Autopickup is now on.
+Autopickup is now off.
+Autopickup is now on.
+You butcher the hobgoblin corpse.
+f - 2 chunks of flesh
+Things that are here:
+a cursed -2 club; a hobgoblin skeleton
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+e - a scroll labeled ISUFROSTRAN
+You see here a scale mail.
+g - a scale mail
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 animal skin. x4
+You finish taking off your +0 animal skin.
+You start putting on your armour.
+You continue putting on your scale mail. x5
+You finish putting on your +0 scale mail.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 2 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 3 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 4 stones (gained 1)
+Autopickup is now off.
+Press: ? - help, . - travel
+You can't see that place.
+[the floor.]
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Press: ? - help, . - travel
+You can't see that place.
+[the floor.]
+There is an escape hatch in the floor here.
+A kobold comes into view.
+The kobold shouts!
+The kobold throws a stone. The stone hits you but does no damage.
+You see here a stone.
+There is an escape hatch in the floor here.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - kobold
+Aim: a kobold
+You reach to attack! You hit the kobold but do no damage. The kobold throws a
+stone. The stone barely misses you.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - kobold
+Aim: a kobold
+You reach to attack! You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 5 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 6 stones (gained 1)
+You see here a kobold corpse.
+Autopickup is now off.
+Found a stone staircase leading down.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+There is a stone staircase leading down here.
+Key pressed, stopping explore.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+Key pressed, stopping travel.
+Unknown command.
+Autopickup is now on.
+Autopickup is now off.
+Found a scroll labeled UFOCKE EKLUT.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found a scroll labeled FERHUASHOKIU.
+All of the chunks of flesh in your inventory have rotted away.
+f - a scroll labeled UFOCKE EKLUT
+Autopickup is now off.
+Key pressed, stopping explore.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+h - a scroll labeled FERHUASHOKIU
+Autopickup is now off.
+A rat comes into view.
+Unknown command.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - rat
+Aim: a rat
+You reach to attack! You closely miss the rat.
+You hit the rat.
+You kill the rat!
+Trog accepts your kill.
+Autopickup is now on.
+You see here a rat corpse.
+You butcher the rat corpse.
+i - a chunk of flesh
+You see here a rat skeleton.
+Autopickup is now off.
+Found a scroll labeled PISAZUPRUNYH.
+Unknown command.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A kobold comes into view.
+The kobold shouts!
+A leopard gecko comes into view.
+The leopard gecko hisses angrily.
+You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - leopard gecko
+Aim: a leopard gecko (clinging)
+You reach to attack!
+You hit the leopard gecko but do no damage.
+You hit the leopard gecko.
+The leopard gecko is heavily wounded.
+The leopard gecko bites you.
+You hit the leopard gecko.
+You kill the leopard gecko!
+Trog accepts your kill.
+You have reached level 2!
+A bat comes into view.
+The bat moves out of view.
+Autopickup is now off.
+Autopickup is now on.
+You see here a leopard gecko corpse.
+You butcher the leopard gecko corpse.
+Things that are here:
+2 chunks of flesh; a leopard gecko skeleton
+Your scale mail prevents you from hitting the bat.
+You headbutt the bat.
+The bat is severely wounded.
+The bat barely misses you.
+You hit the bat.
+You kill the bat!
+Trog accepts your kill.
+i - 3 chunks of flesh (gained 2)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found 10 gold pieces.
+Found a scroll labeled UFOCKE EKLUT.
+j - a scroll labeled PISAZUPRUNYH
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+f - 2 scrolls labeled UFOCKE EKLUT (gained 1)
+Press: ? - help, v - describe, . - travel
+The floor.
+Autopickup is now off.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found a whip.
+You now have 10 gold pieces.
+Autopickup is now off.
+A hobgoblin comes into view. It is wielding a +0 club.
+The hobgoblin shouts!
+Unknown command.
+Throwing (i - inventory) d - 6 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - hobgoblin
+Aim: a hobgoblin, wielding a +0 club
+You throw a stone. The stone closely misses the hobgoblin.
+Throwing (i - inventory) d - 5 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club
+You throw a stone. The stone hits the hobgoblin.
+The hobgoblin is moderately wounded.
+Throwing (i - inventory) d - 4 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (moderately wounded)
+You throw a stone. The stone hits the hobgoblin.
+The hobgoblin is severely wounded.
+Throwing (i - inventory) d - 3 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (severely wounded)
+You throw a stone. The stone barely misses the hobgoblin.
+You closely miss the hobgoblin.
+The hobgoblin is severely wounded.
+You hit the hobgoblin but do no damage.
+The hobgoblin is severely wounded.
+The hobgoblin hits you with a +0 club.
+You closely miss the hobgoblin. You headbutt the hobgoblin.
+You kill the hobgoblin!
+Trog accepts your kill.
+Autopickup is now on.
+You see here a +0 club.
+d - 3 stones (gained 1)
+d - 4 stones (gained 1)
+d - 5 stones (gained 1)
+d - 6 stones (gained 1)
+Key pressed, stopping explore.
+Autopickup is now off.
+Autopickup is now on.
+k - a scroll labeled BIMAODGHAGU
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Okay, then.
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Found 23 arrows and 15 gold pieces.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Found an inky potion and 13 bolts.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+The floor.
+Found a robe.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found 4 large rocks.
+l - an inky potion
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+m - 13 bolts
+Autopickup is now off.
+You see here a robe.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+A rat comes into view.
+Unknown command.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - rat
+Aim: a rat
+You reach to attack! You puncture the rat!
+You kill the rat!
+Trog accepts your kill.
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+A dart slug comes into view.
+The dart slug launches a dart at you.
+The slug dart hits you.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - dart slug
+Aim: a dart slug (clinging)
+You reach to attack! You hit the dart slug but do no damage.
+You hit the dart slug. You headbutt the dart slug.
+The dart slug is almost dead.
+You hit the dart slug.
+You kill the dart slug!
+Trog accepts your kill.
+Autopickup is now on.
+Autopickup is now off.
+Okay, then.
+A rat comes into view.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - rat
+Aim: a rat
+You reach to attack! You hit the rat.
+The rat is heavily wounded.
+You hit the rat.
+You kill the rat!
+Trog accepts your kill.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+Autopickup is now off.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+Throwing (i - inventory) d - 6 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - frilled lizard
+Aim: a frilled lizard
+You throw a stone. The stone hits the frilled lizard.
+The frilled lizard is heavily wounded.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - frilled lizard
+Aim: a frilled lizard (heavily wounded)
+You reach to attack! You hit the frilled lizard.
+You kill the frilled lizard!
+Trog accepts your kill.
+Autopickup is now on.
+Press: ? - help, v - describe, . - travel, g - get item
+A frilled lizard corpse.
+The floor.
+You see here a frilled lizard corpse.
+You butcher the frilled lizard corpse.
+i - 4 chunks of flesh (gained 1)
+You see here a frilled lizard skeleton.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - 6 stones (gained 1)
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Some of the chunks of flesh in your inventory have rotted away.
+Key pressed, stopping explore.
+Unknown command.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+The floor.
+A bat comes into view.
+The bat hits you. The bat hits you but does no damage.
+You hit the bat.
+You kill the bat!
+Trog accepts your kill.
+Autopickup is now on.
+You see here a bat corpse.
+You butcher the bat corpse.
+i - 2 chunks of flesh (gained 1)
+You see here a bat skeleton.
+Press: ? - help, v - describe, . - travel
+The floor.
+A kobold comes into view. It is wielding a +0 club.
+The kobold shouts!
+Found a stone staircase leading down.
+Throwing (i - inventory) d - 6 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - kobold
+Aim: a kobold, wielding a +0 club
+You throw a stone. The stone closely misses the kobold.
+Throwing (i - inventory) d - 5 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - kobold
+Aim: a kobold, wielding a +0 club
+You throw a stone.
+The stone hits the kobold but does no damage.
+Throwing (i - inventory) d - 4 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - kobold
+Aim: a kobold, wielding a +0 club
+You throw a stone.
+The stone hits the kobold but does no damage.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - kobold
+Aim: a kobold, wielding a +0 club
+You reach to attack! You barely miss the kobold.
+You hit the kobold but do no damage. The kobold hits you with a +0 club.
+You barely miss the kobold. The kobold hits you with a +0 club.
+You hit the kobold.
+You kill the kobold!
+Trog accepts your kill.
+Press: ? - help, . - travel
+You can't see that place.
+[the floor.]
+You see here a bat skeleton.
+Press: ? - help, . - travel
+You can't see that place.
+[the floor.]
+You start resting.
+HP restored.
+Autopickup is now off.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A bat comes into view.
+The bat moves out of view.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a bat skeleton.
+You see here a +0 club.
+There is a stone staircase leading down here.
+d - 4 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found 7 gold pieces.
+d - 5 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You now have 17 gold pieces (gained 7).
+Autopickup is now off.
+The bat is too close now for your liking.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bat
+Aim: a bat
+You reach to attack! You hit the bat.
+You kill the bat!
+Trog accepts your kill.
+Training target 4.0 for Polearms reached!
+Training target 4.0 for Fighting reached!
+Your Fighting skill increases to level 4!
+Your Polearms skill increases to level 4!
+Autopickup is now on.
+Press: ? - help, v - describe, . - travel, g - get item
+A bat corpse.
+The floor.
+You see here a bat corpse.
+You butcher the bat corpse.
+i - 3 chunks of flesh (gained 1)
+You see here a bat skeleton.
+Autopickup is now off.
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Autopickup is now on.
+Autopickup is now off.
+Found a hand axe.
+Press: ? - help, v - describe, . - travel, g - get item
+A hand axe.
+The floor.
+A hobgoblin comes into view. It is wielding a +0 club.
+The hobgoblin shouts!
+There are no items here.
+Throwing (i - inventory) d - 5 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - hobgoblin
+Aim: a hobgoblin, wielding a +0 club
+You throw a stone. The stone barely misses the hobgoblin.
+Throwing (i - inventory) d - 4 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club
+You throw a stone. The stone hits the hobgoblin.
+The hobgoblin is moderately wounded.
+Throwing (i - inventory) d - 3 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (moderately wounded)
+You throw a stone. The stone barely misses the hobgoblin.
+Throwing (i - inventory) d - 2 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (moderately wounded)
+You throw a stone. The stone barely misses the hobgoblin.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club
+You reach to attack! You barely miss the hobgoblin.
+You hit the hobgoblin. Your headbutt misses the hobgoblin.
+The hobgoblin is severely wounded.
+The hobgoblin barely misses you. You furiously retaliate! You headbutt the
+hobgoblin!
+You kill the hobgoblin!
+Trog accepts your kill.
+Training target 4.0 for Polearms reached!
+Autopickup is now on.
+Things that are here:
+a +0 club; a hobgoblin corpse
+You butcher the hobgoblin corpse.
+i - 5 chunks of flesh (gained 2)
+Things that are here:
+a +0 club; a hobgoblin skeleton
+Autopickup is now off.
+Autopickup is now on.
+You see here a hand axe.
+There isn't anything to butcher here.
+d - 2 stones (gained 1)
+d - 3 stones (gained 1)
+d - 4 stones (gained 1)
+d - 5 stones (gained 1)
+Key pressed, stopping explore.
+Autopickup is now off.
+You see here a hand axe.
+Things that are here:
+a +0 club; a hobgoblin skeleton
+A goblin comes into view. It is wielding a +0 dagger.
+The goblin shouts! You hear a shout!
+Throwing (i - inventory) d - 5 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - goblin
+Aim: a goblin, wielding a +0 dagger
+You throw a stone. The stone closely misses the goblin.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - goblin
+Aim: a goblin, wielding a +0 dagger
+You reach to attack! You miss the goblin.
+You barely miss the goblin. You headbutt the goblin.
+The goblin is moderately wounded.
+The goblin barely misses you.
+You hit the goblin.
+You kill the goblin!
+Trog accepts your kill.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A goblin comes into view.
+The goblin shouts!
+You see here a +0 dagger.
+Autopickup is now off.
+Autopickup is now on.
+Autopickup is now off.
+Throwing (i - inventory) d - 4 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - goblin
+Aim: a goblin
+You throw a stone. The stone closely misses the goblin.
+A rat comes into view.
+Throwing (i - inventory) d - 3 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - rat, p - goblin
+Aim: a rat (hasn't noticed you)
+You throw a stone. The stone barely misses the goblin. The stone hits the rat.
+You kill the rat!
+Trog accepts your kill.
+Throwing (i - inventory) d - 2 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - goblin
+Aim: a goblin
+You throw a stone.
+The stone hits the goblin but does no damage.
+Throwing (i - inventory) d - a stone (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - goblin
+Aim: a goblin
+You throw a stone.
+The stone hits the goblin but does no damage.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - goblin
+Aim: a goblin
+You reach to attack! You hit the goblin.
+You kill the goblin!
+Trog accepts your kill.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+d - a stone
+You see here a goblin corpse.
+You butcher the goblin corpse.
+i - 7 chunks of flesh (gained 2)
+You see here a goblin skeleton.
+You are feeling hungry.
+Eat one of 7 chunks of flesh? (ye/n/q)
+You eat one of the 7 chunks of flesh. This raw flesh tastes terrible.
+d - 2 stones (gained 1)
+d - 3 stones (gained 1)
+d - 4 stones (gained 1)
+d - 5 stones (gained 1)
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+Found a scroll labeled FERHUASHOKIU.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+h - 2 scrolls labeled FERHUASHOKIU (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Autopickup is now off.
+Some of the chunks of flesh in your inventory have rotted away.
+Found a stone staircase leading down.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+There is a stone staircase leading down here.
+There is a stone staircase leading down here.
+There is an escape hatch in the floor here.
+You open the door.
+There is an open door here.
+As you open the door, it creaks loudly!
+There is an open door here.
+There is a large open door here.
+There is an open door here.
+Some of the chunks of flesh in your inventory have rotted away.
+Some of the chunks of flesh in your inventory have rotted away.
+Key pressed, stopping explore.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+n - 23 arrows
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You now have 32 gold pieces (gained 15).
+Autopickup is now off.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+All of the chunks of flesh in your inventory have rotted away.
+There is a stone staircase leading down here.
+Okay, then.
+Okay, then.
+You climb downwards.
+A bat, a quokka, a goblin and Terence come into view.
+Terence is wielding a +1 trident of protection.
+Terence shouts!
+There is a stone staircase leading up here.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty!
+You are feeling very hungry.
+The bat hits you but does no damage.
+The quokka bites you but does no damage.
+The bat hits you but does no damage.
+You barely miss the bat. The bat barely misses you. You furiously retaliate!
+You headbutt the bat!
+You kill the bat!
+Trog accepts your kill.
+Training target 1.0 for Throwing reached!
+Your Throwing skill increases to level 1!
+You hit the quokka.
+You kill the quokka!
+Trog accepts your kill.
+Terence closely misses you.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail
+You reach to attack! You closely miss Terence.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail
+You reach to attack! You puncture Terence!
+Terence is heavily wounded.
+Terence hits you but does no damage.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (heavily wounded)
+You reach to attack! You closely miss Terence.
+Terence is heavily wounded.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (heavily wounded)
+You reach to attack! You closely miss Terence.
+Terence is heavily wounded.
+Terence completely misses you.
+You puncture the goblin!
+You kill the goblin!
+Trog accepts your kill.
+You can now call upon Trog for regeneration and magic resistance.
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 21, Int 4, Dex 9.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel agile.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (heavily wounded)
+You reach to attack! You hit Terence but do no damage.
+Terence is heavily wounded.
+Terence closely misses you.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (heavily wounded)
+You reach to attack! You puncture Terence!
+Terence is almost dead.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (almost dead)
+You reach to attack! You barely miss Terence.
+Terence is almost dead.
+Terence barely misses you.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (almost dead)
+You reach to attack! You closely miss Terence.
+Terence is almost dead.
+Terence hits you from afar with a +1 trident of protection.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Terence
+Aim: Terence, wielding a +1 trident of protection and wearing a cursed +0 ring
+mail (almost dead)
+You reach to attack! You hit Terence.
+You kill Terence!
+Trog accepts your kill.
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+A +1 trident of protection.
+There is something else lying underneath.
+The floor, spattered with blood.
+Autopickup is now off.
+Autopickup is now on.
+You see here a quokka corpse.
+You butcher the quokka corpse.
+You feel a strong urge to attack something.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+i - a chunk of flesh
+You see here a quokka skeleton.
+Eat a chunk of flesh? (ye/n/q)
+You eat the chunk of flesh. This raw flesh tastes terrible.
+You see here a bat corpse.
+You butcher the bat corpse.
+i - a chunk of flesh
+You see here a bat skeleton.
+Press: ? - help, v - describe, . - travel, g - get item
+A +1 trident of protection.
+There is something else lying underneath.
+The floor, spattered with blood.
+Things that are here:
+a +1 trident of protection; a cursed +0 ring mail
+o - a +1 trident of protection; p - a cursed +0 ring mail
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A frilled lizard comes into view.
+The frilled lizard hisses angrily.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Unknown command.
+Drop what? 16/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a cursed +0 ring mail.
+Drop what? 15/52 slots (_ for help) (? for menu, Esc to quit)
+You are now empty-handed. You drop a +0 spear.
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+o - a +1 trident of protection
+Adjust to which letter?  (? for menu, Esc to quit)
+a - a +1 trident of protection
+Your +1 trident of protection hums with potential!
+a - a +1 trident of protection (weapon)
+There is a stone staircase leading down here.
+You start waiting.
+You feel yourself speed up.
+You climb downwards.
+The frilled lizard bites you but does no damage.
+There is a stone staircase leading up here.
+You closely miss the frilled lizard.
+The frilled lizard bites you but does no damage.
+You puncture the frilled lizard!
+Your weapon exudes an aura of protection.
+You kill the frilled lizard!
+Trog accepts your kill.
+Autopickup is now off.
+Autopickup is now on.
+You see here a frilled lizard corpse.
+You butcher the frilled lizard corpse.
+i - 2 chunks of flesh (gained 1)
+You see here a frilled lizard skeleton.
+There is a stone staircase leading up here.
+You climb upwards.
+You recover from your berserk rage.
+There is a stone staircase leading down here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+A frilled lizard, a worm and a kobold come into view.
+The kobold is wielding a +2 whip of electrocution.
+The frilled lizard hisses angrily. The kobold shouts!
+Found 2 gold pieces. Found a stone staircase leading down.
+There is a stone staircase leading up here.
+Press: ? - help, v - describe, . - travel
+Here: a kobold, wielding a +2 whip of electrocution
+The floor.
+A red film seems to cover your vision as you go berserk!
+You feel yourself moving faster! You feel mighty!
+You are feeling very hungry.
+The frilled lizard bites you but does no damage.
+You impale the kobold!!
+Your weapon exudes an aura of protection.
+You kill the kobold!
+Trog accepts your kill.
+The frilled lizard bites you but does no damage.
+You barely miss the frilled lizard.
+The frilled lizard bites you but does no damage.
+You barely miss the frilled lizard. You headbutt the frilled lizard.
+You kill the frilled lizard!
+Trog accepts your kill.
+Found 14 arrows.
+You puncture the worm! You headbutt the worm.
+You kill the worm!
+Trog accepts your kill.
+Things that are here:
+a +2 whip of electrocution; a kobold corpse
+o - a +2 whip of electrocution
+You feel a strong urge to attack something.
+You are no longer berserk.
+You are exhausted.
+You feel yourself slow down.
+There is a stone staircase leading up here.
+Eat one of 2 chunks of flesh? (ye/n/q)
+You eat one of the 2 chunks of flesh. This raw flesh tastes terrible.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +1 trident of protection goes still.
+You are now empty-handed.
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+o - a +2 whip of electrocution
+Adjust to which letter?  (? for menu, Esc to quit)
+a - a +2 whip of electrocution; o - a +1 trident of protection
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+o - a +1 trident of protection
+Adjust to which letter?  (? for menu, Esc to quit)
+b - a +1 trident of protection; o - a +0 animal skin
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+Okay, then.
+As you read the scroll labeled UFOCKE EKLUT, it crumbles to dust.
+The scroll dissolves into smoke. It was a scroll of fog.
+You climb upwards.
+There is a stone staircase leading down here.
+You start waiting.
+You feel yourself speed up.
+You climb downwards.
+There is a stone staircase leading up here.
+As you read the scroll labeled FERHUASHOKIU, it crumbles to dust.
+You feel strangely unstable. It was a scroll of teleportation.
+You climb upwards.
+There is a stone staircase leading down here.
+Your surroundings suddenly seem different.
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Eating a chunk of flesh. You eat the chunk of flesh. This raw flesh tastes
+terrible.
+You recover from your berserk rage.
+You see here a cursed -2 club.
+You see here a +0 club.
+There is a stone staircase leading down here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Press: ? - help, . - travel
+You can't see that place.
+[a rock wall.]
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+What kind of trap? 
+Okay, then.
+Enter Wizard Command (? - help): 
+You bring the flow of time to a stop.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A hippogriff comes into view.
+Move monster to where?
+Press: ? - help, Shift-Dir - straight line
+Move monster to where?
+Press: ? - help, Shift-Dir - straight line
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+There are monsters nearby!
+Move monster to where?
+Press: ? - help, Shift-Dir - straight line, p - hippogriff
+Move monster to where?
+Press: ? - help, Shift-Dir - straight line
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting, summoned)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+Press: ? - help, v - describe, . - travel
+A dispersal trap.
+Press: ? - help, v - describe, . - travel
+A rock wall.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting, summoned)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a hippogriff (resting)
+The floor.
+What summon longevity (1 to 6)? 6
+[a] clone [b] animated [c] chaos [d] miscast [e] zot
+[f] wrath [h] aid   [m] misc    [s] spell
+Which summon type? 
+Monster is now summoned.
+Enter Wizard Command (? - help): 
+You allow the flow of time to resume.
+Enter Wizard Command (? - help): 
+You bring the flow of time to a stop.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? scythe
++0 scythe
+What ego type? 
+Something appears at your feet!
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? -9 scythe
+What ego type? 
+Something appears at your feet!
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.23.2
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_WIZARD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [Yxeareramu]
+Species: Minotaur
+Job:     Berserker
+
+HP: 34/34; mods: 0/0
+MP: 2/2; mod: 0
+Stats: 21 (21) 4 (4) 10 (10)
+Position: (55, 23), god: Trog (10), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |    50    |    4  |    450 | 97/177
+Short Blades    |           |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/35
+Axes            |           |   0   |     0    |    0  |      0 | 0/35
+Maces & Flails  |     X     |   0   |     0    |    0  |      0 | 0/35
+Polearms        |     X     |   1   |    50    |    4  |    443 | 90/177
+Staves          |           |   0   |     0    |    0  |      0 | 0/35
+Slings          |           |   0   |     0    |    0  |      0 | 0/42
+Bows            |           |   0   |     0    |    0  |      0 | 0/42
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/42
+Throwing        |     X     |   0   |     0    |    1  |     53 | 3/100
+Armour          |     X     |   0   |     0    |    2  |    151 | 45/106
+Dodging         |     X     |   0   |     0    |    2  |    151 | 25/126
+Stealth         |     X     |   0   |     0    |    1  |     60 | 1/119
+Shields         |           |   0   |     0    |    0  |      0 | 0/35
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/42
+Spellcasting    |     X     |   0   |     0    |    0  |      0 | 0/100
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/100
+Charms          |           |   0   |     0    |    0  |      0 | 0/100
+Summonings      |           |   0   |     0    |    0  |      0 | 0/84
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/84
+Translocations  |           |   0   |     0    |    0  |      0 | 0/84
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/70
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/84
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/84
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/70
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/84
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |           |   0   |     0    |    0  |      0 | 0/59
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #12: 32
+    #27: 85
+    #49: 90
+    #59: 1
+
+Mutations:
+    horns: 2 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #6, inv slot #6: +0 scale mail
+
+}}}}}}}}}}}
+
+
+Screenshot:
+..............##############
+##########.................#
+###      #.##.############.#
+..#      #.##.#          #.#
+#.#      #.##.#          #.#
+#.#      #.##.#  #########.#####
+#.#      #.##.#  #.............#
+#.#      #.##.#  #.###.#######.#
+#.#      #.##.#  #.# #.#     #.#
+#.########.##.#  #.# #.#     #.#
+...........##.#  #.# #^#     #.#
+###.#########.#  #.###.#######.#
+##..#########.####.##HHH.......#
+#.#.##...............H@H.#####.#
+.##..#.####...####.##HHH##   #.#
+##.....#  #.###  #.###.##    #.#
+.#...######.######.# #.#     #.#
+#....#  #........#.###.#######.#
+##.#.#  #.#.####.#........(....#
+ #.#.#  #.#.#  #.#####.#######.#
+ #.#.#  #.#.#  #.............#.#
+ #.#.#  #.#.#  #.#####.#####.#[#######
+ #.#.#  #.#.## #.#   #.#   #.#.......#
+ #.#.#  #.#..# #.#   #.#####.#######.#
+ #.#.#  #.##.# #.#   #.##....#     #.#
+##.#.####.##.###.#   #.......#     #.#
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
