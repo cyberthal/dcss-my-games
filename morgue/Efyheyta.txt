@@ -1,0 +1,354 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6863482792564128179
+
+Efyheyta the Jinx (Vampire Enchanter)              Turns: 10753, Time: 02:33:42
+
+Health: 63/63      AC:  0    Str:  7    XL:     9   Next: 49%
+Magic:  8/13       EV: 25    Int: 18    God:    Wu Jian [*.....]
+Gold:   292        SH:  0    Dex: 22    Spells: 2/14 levels left
+
+rFire    . . .     SeeInvis +   (weapon currently unavailable)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    +   (armour currently unavailable)
+rPois    .         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  .   (cloak currently unavailable)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       .....                  (boots currently unavailable)
+Stlth    +++++++...             q - amulet of faith
+HPRegen  0.20/turn              (ring currently unavailable)
+MPRegen  0.13/turn              (ring currently unavailable)
+
+@: bat-form, flying, very quick
+A: tiny, fangs 3, see invisible
+a: End Transformation, Renounce Religion
+
+
+You are on level 7 of the Dungeon.
+You worship Wu Jian.
+Wu Jian is aware of your devotion.
+You are not thirsty.
+
+You are in vampire-bat-form.
+
+You have visited 1 branch of the dungeon, and seen 7 of its levels.
+You have also visited: Sewer.
+
+You have collected 292 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger of venom (melded)
+ b - a +0 great sword of protection
+ c - a +0 rapier
+ d - a +0 war axe
+ e - a +0 halberd
+ f - a +1 blowgun
+ g - a +0 hunting sling
+ C - a +0 spear
+ L - a +0 antimagic glaive
+ Q - a +0 falchion
+ S - a +1 whip of freezing
+ U - a +1 dagger
+Missiles
+ j - 104 arrows
+ n - 4 sling bullets
+ p - 99 bolts
+ v - 13 poisoned needles
+ w - 114 stones
+ x - 7 tomahawks (quivered)
+Armour
+ o - a chain mail
+ A - a +2 robe of cold resistance (melded)
+ J - a +1 cloak (melded)
+Magical Staves
+ I - an uncursed staff of poison
+Jewellery
+ q - an amulet of faith (around neck)
+ s - a ring of protection from magic (melded)
+ u - a ring of magical power (melded)
+ F - an uncursed ring of protection from cold
+Wands
+ O - a wand of iceblast (7)
+ T - a wand of acid (6)
+Scrolls
+ l - 2 scrolls of teleportation
+ r - 4 scrolls of remove curse
+ z - 2 scrolls of magic mapping
+ B - a scroll labeled YWU YQIBIE
+ D - a scroll labeled SEENATH DIDULA
+ G - a scroll labeled NUMNYE ZODE
+ K - a scroll labeled MUVEOGGOCAA
+ M - a scroll labeled SUOG DEPTOENNU
+ R - a scroll labeled ISICHEISEU
+Potions
+ h - 17 potions of blood
+ i - 3 potions of lignification
+ m - 2 potions of resistance
+ t - 4 potions of flight
+ y - a potion of brilliance
+ E - 2 potions of heal wounds
+ H - 2 potions of curing
+ N - a potion of invisibility
+ P - a potion of agility
+
+
+   Skills:
+ - Level 3.1 Fighting
+ - Level 4.0(4.5) Short Blades
+ * Level 2.8(3.7) Long Blades
+ - Level 3.0(3.6) Slings
+ + Level 2.9(3.5) Throwing
+ - Level 1.1 Armour
+ - Level 5.2 Dodging
+ - Level 9.1 Stealth
+ - Level 3.0 Spellcasting
+ - Level 1.0 Conjurations
+ - Level 9.7 Hexes
+ + Level 1.6 Ice Magic
+ - Level 2.0 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            #####..      1%          1    None
+b - Ensorcelled Hibernat  Hex/Ice        ###...       2%          2    ##.....
+c - Confuse               Hex            #####...     1%          3    ###....
+d - Tukima's Dance        Hex            #####...     1%          3    ###....
+e - Dazzling Spray        Conj/Hex       ###...       5%          3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Wu Jian
+Yredelemnul
+
+Annotations:
+D:3 3 runed translucent doors, Jagububb's ghost, amateur DsGl; Tophatdictator's
+ghost, amateur DECj
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+((You can survive without breathing.))
+
+
+Message History
+
+As you read the scroll of enchant weapon, it crumbles to dust.
+Your +0 blowgun glows red for a moment.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+There is an open door here.
+There is an open door here.
+You see here a +0 robe.
+There is a stone staircase leading up here.
+There is a stone staircase leading down here.
+Okay, then.
+You fly downwards.
+A necrophage comes into view.
+Found 17 arrows.
+There is a stone staircase leading up here.
+Enter Wizard Command (? - help): 
+Okay, then.
+Saving game... please wait.
+
+   ##        #
+    .       .#
+##  #.  ## .#
+(...#.##.#.#...
+  #............
+      #b#
+.n.....##
+..#.#.#
+   ...
+  #.#
+  #.
+  .
+ .
+
+
+You can see a necrophage (dormant).
+
+Vanquished Creatures
+  Pikel (D:6)
+  Prince Ribbit (D:6)
+  A dancing weapon (D:6)
+  2 orc warriors
+  A necrophage (D:5)
+  A phantom (D:4)
+  6 ogres
+  An ice beast (D:6)
+  A centaur (D:6)
+  A big kobold (Sewer)
+  3 bullfrogs (D:6)
+  2 howler monkeys (D:5)
+  2 crimson imps
+  A bullfrog zombie (D:5)
+  3 hounds
+  2 jellies (D:5)
+  A bullfrog skeleton (D:4)
+  An orc priest (D:5)
+  An iguana (D:6)
+  5 orc wizards
+  4 worker ants
+  4 gnolls
+  13 adders
+  3 river rats (Sewer)
+  A shadow imp (D:5)
+  2 oozes
+  An adder skeleton (D:6)
+  A worm (D:4)
+  3 dart slugs
+  7 leopard geckos
+  12 orcs
+  9 giant cockroaches
+  7 goblins
+  9 hobgoblins
+  16 jackals
+  10 kobolds
+  5 quokkas
+  3 ball pythons
+  7 bats
+  6 frilled lizards
+  2 jackal skeletons
+  8 rats
+170 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A gnoll (D:6)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A dancing weapon (D:6)
+  A slave (D:6)
+  A gnoll sergeant (D:6)
+  An orc wizard (D:6)
+  A gnoll (D:6)
+5 creatures vanquished.
+
+Grand Total: 176 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Efyheyta the Vampire Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   600 | D:1      | Reached skill level 1 in Fighting
+   600 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   604 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+   848 | D:1      | Reached skill level 1 in Ice Magic
+  1630 | D:1      | Reached XP level 3. HP: 26/26 MP: 6/6
+  2285 | D:2      | Reached skill level 5 in Stealth
+  2391 | D:2      | Found a basalt altar of Yredelemnul.
+  2459 | D:2      | Reached skill level 1 in Armour
+  2569 | D:2      | Reached XP level 4. HP: 33/33 MP: 4/7
+  2586 | D:1      | Learned a level 3 spell: Confuse
+  3025 | D:3      | Found a runed translucent gate.
+  3025 | D:3      | Found a runed translucent gate.
+  3025 | D:3      | Noticed Jagububb's ghost (amateur DsGl)
+  3025 | D:3      | Noticed Tophatdictator's ghost (amateur DECj)
+  3026 | D:3      | Found a runed translucent gate.
+  3575 | D:3      | Reached skill level 1 in Throwing
+  3575 | D:3      | Reached XP level 5. HP: 25/38 MP: 3/8
+  4161 | D:2      | Entered wizard mode.
+  4219 | D:3      | Reached skill level 5 in Hexes
+  4501 | D:3      | Found a burning altar of Makhleb.
+  4742 | D:4      | Noticed an ogre
+  4747 | D:4      | Killed an ogre
+  4747 | D:4      | Reached skill level 1 in Slings
+  4747 | D:4      | Reached XP level 6. HP: 42/44 MP: 6/9
+  5614 | D:3      | Learned a level 3 spell: Tukima's Dance
+  6025 | D:4      | Reached XP level 7. HP: 34/50 MP: 10/10
+  6821 | D:5      | Entered Level 5 of the Dungeon
+  6915 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  7030 | D:5      | Found a glowing drain.
+  7086 | Sewer    | Entered a sewer
+  7308 | Sewer    | Learned a level 3 spell: Dazzling Spray
+  7383 | Sewer    | Reached XP level 8. HP: 48/56 MP: 10/12
+  7434 | Sewer    | Found a white marble altar of Elyvilon.
+  7574 | D:5      | Found an ornate altar of the Wu Jian Council.
+  7900 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  7991 | D:5      | Became a worshipper of the Wu Jian Council
+  8232 | D:5      | Reached skill level 1 in Conjurations
+  9195 | D:6      | Reached * piety under Wu Jian
+  9433 | D:6      | Noticed Prince Ribbit
+  9848 | D:6      | Noticed Pikel
+  9858 | D:6      | Reached skill level 5 in Dodging
+  9868 | D:6      | Killed Pikel
+  9868 | D:6      | Reached XP level 9. HP: 63/63 MP: 10/13
+  9961 | D:6      | Reached skill level 1 in Long Blades
+ 10039 | D:6      | Found a shadowy altar of Dithmenos.
+ 10416 | D:6      | Killed Prince Ribbit
+ 10416 | D:6      | Reached skill level 1 in Evocations
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1     2              3    |  3.1
+Short Blades   |     2        3        4    |  4.0
+Ice Magic      |     1                      |  1.6
+Stealth        |        5     6  7     9    |  9.1
+Armour         |        1                   |  1.1
+Throwing       |           1        2       |  2.9
+Dodging        |              3        5    |  5.2
+Hexes          |              5     7  9    |  9.7
+Slings         |              1  2        3 |  3.0
+Spellcasting   |                    3       |  3.0
+Conjurations   |                       1    |  1.0
+Long Blades    |                          2 |  2.8
+Evocations     |                          2 |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |   129 |  4198 |    47 ||  4374
+       Bite              |    14 |  2596 |    18 ||  2628
+       Falchion          |       |  8015 |     1 ||  8016
+       Rapier            |       |  4042 |   152 ||  4194
+       Great sword       |       |       |     8 ||     8
+       Unarmed           |       |       |     3 ||     3
+ Fire: Hunting sling     |       |    26 |   155 ||   181
+       Blowgun           |       |    13 |    48 ||    61
+Throw: Stone             |    65 |    50 |       ||   115
+       Tomahawk          |       |       |     2 ||     2
+ Cast: Corona            |    33 |    59 |    66 ||   158
+       Ensorcelled Hiber |     1 |     9 |    16 ||    26
+       Confuse           |       |    12 |    10 ||    22
+       Tukima's Dance    |       |       |     4 ||     4
+       Dazzling Spray    |       |       |     2 ||     2
+Invok: Lunge             |       |       |     4 ||     4
+       Whirlwind         |       |       |     2 ||     2
+ Abil: Bat Form          |    12 |    20 |    67 ||    99
+       End Transformatio |    12 |    20 |    65 ||    97
+  Use: Potion            |     8 |    20 |    13 ||    41
+       Scroll            |     2 |     4 |     7 ||    13
+ Stab: Sleeping          |     9 |    12 |    12 ||    33
+       Confused          |       |     2 |     5 ||     7
+       Distracted        |       |       |     1 ||     1
+       Invisible         |       |       |     1 ||     1
+Armor: Robe              |     6 |  3252 |    55 ||  3313
+       Leather armour    |    15 |    36 |       ||    51
+Dodge: Dodged            |    89 | 10232 |   171 || 10492
+Rpst.: Falchion          |       |  1056 |       ||  1056
+       Great sword       |       |       |     3 ||     3
+

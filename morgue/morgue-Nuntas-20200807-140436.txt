@@ -1,0 +1,180 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1714370339173643506
+
+0 Nuntas the Invulnerable (level 1, 16/16 HPs) *WIZ*
+             Began as a Centaur Hunter on Aug 7, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:49 (11 turns).
+
+Nuntas the Invulnerable (Centaur Hunter)              Turns: 11, Time: 00:01:49
+
+Health: 16/16      AC: 23    Str: 23    XL:     1   Next: 0%
+Magic:  1/1        EV:  6    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    + . .     SeeInvis .   a - +1 shortbow
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   e - +0 gold dragon scales
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    ..........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 shortbow (weapon)
+ b - a +0 short sword
+Missiles
+ d - 20 arrows (quivered)
+Armour
+ c - a +0 leather armour
+ e - +0 gold dragon scales (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 1.0 Fighting
+ + Level 5.3 Bows
+ O Level 27 Armour
+ + Level 1.3 Dodging
+ + Level 0.4 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+You start putting on your armour.
+You continue putting on your +0 gold dragon scales. x5
+You finish putting on your +0 gold dragon scales.
+Enter Wizard Command (? - help): 
+Which skill (by name)? 
+That skill doesn't seem to exist.
+Enter Wizard Command (? - help): 
+Enter values for Str, Int, Dex (space separated): 
+Setting attributes (Str, Int, Dex) to: 23, 10, 9
+Enter Wizard Command (? - help): 
+[a] Weapon [b] Armour   [c] Jewellery [d] Book              
+[e] Staff  [f] Evocable [g] Food      [h] Gold (you have $0)
+What kind of item would you like to acquire? [\] known items 
+Okay, then.
+Enter Wizard Command (? - help): 
+Which skill (by name)? arm
+Armour
+To what level? 27
+Increased Armour to skill level 27.0.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #
+   #.
+    .
+    #.     #
+.####.####.####
+...............
+.......@.......
+$..............
+.####.####.####
+    #.     #
+    .
+   #.
+   #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nuntas the Centaur Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 24/24 MP: 2/2
+     0 | D:1      | Reached XP level 3. HP: 29/29 MP: 3/3
+     0 | D:1      | Reached XP level 4. HP: 36/36 MP: 4/4
+     0 | D:1      | Reached XP level 5. HP: 41/41 MP: 5/5
+     0 | D:1      | Reached XP level 6. HP: 48/48 MP: 6/6
+     0 | D:1      | Reached XP level 7. HP: 55/55 MP: 7/7
+     0 | D:1      | Reached XP level 8. HP: 61/61 MP: 8/8
+     0 | D:1      | Reached XP level 9. HP: 67/67 MP: 9/9
+     0 | D:1      | Reached XP level 10. HP: 73/73 MP: 10/10
+     0 | D:1      | Reached XP level 11. HP: 79/79 MP: 11/11
+     0 | D:1      | Reached XP level 12. HP: 85/85 MP: 12/12
+     0 | D:1      | Reached XP level 13. HP: 91/91 MP: 13/13
+     0 | D:1      | Reached XP level 14. HP: 99/99 MP: 14/14
+     0 | D:1      | Reached XP level 15. HP: 104/104 MP: 15/15
+     0 | D:1      | Reached XP level 16. HP: 111/111 MP: 16/16
+     0 | D:1      | Reached XP level 17. HP: 116/116 MP: 17/17
+     0 | D:1      | Reached XP level 18. HP: 123/123 MP: 18/18
+     0 | D:1      | Reached XP level 19. HP: 128/128 MP: 19/19
+     0 | D:1      | Reached XP level 20. HP: 135/135 MP: 20/20
+     0 | D:1      | Reached XP level 21. HP: 141/141 MP: 21/21
+     0 | D:1      | Reached XP level 22. HP: 148/148 MP: 22/22
+     0 | D:1      | Reached XP level 23. HP: 154/154 MP: 23/23
+     0 | D:1      | Reached XP level 24. HP: 160/160 MP: 23/23
+     0 | D:1      | Reached XP level 25. HP: 166/166 MP: 23/23
+     0 | D:1      | Reached XP level 26. HP: 172/172 MP: 23/23
+     0 | D:1      | Reached XP level 27. HP: 178/178 MP: 23/23
+     0 | D:1      | Reached XP level 26. HP: 273/1366 MP: 23/23
+     0 | D:1      | Reached XP level 25. HP: 273/1357 MP: 23/23
+     0 | D:1      | Reached XP level 24. HP: 273/1349 MP: 23/23
+     0 | D:1      | Reached XP level 23. HP: 273/1340 MP: 23/23
+     0 | D:1      | Reached XP level 22. HP: 273/1333 MP: 22/22
+     0 | D:1      | Reached XP level 21. HP: 273/1324 MP: 21/21
+     0 | D:1      | Reached XP level 20. HP: 273/1316 MP: 20/20
+     0 | D:1      | Reached XP level 19. HP: 273/1307 MP: 19/19
+     0 | D:1      | Reached XP level 18. HP: 273/1300 MP: 18/18
+     0 | D:1      | Reached XP level 17. HP: 273/1291 MP: 17/17
+     0 | D:1      | Reached XP level 16. HP: 273/1283 MP: 16/16
+     0 | D:1      | Reached XP level 15. HP: 273/1274 MP: 15/15
+     0 | D:1      | Reached XP level 14. HP: 273/1268 MP: 14/14
+     0 | D:1      | Reached XP level 13. HP: 273/1259 MP: 13/13
+     0 | D:1      | Reached XP level 12. HP: 273/1251 MP: 12/12
+     0 | D:1      | Reached XP level 11. HP: 273/1243 MP: 11/11
+     0 | D:1      | Reached XP level 10. HP: 273/1235 MP: 10/10
+     0 | D:1      | Reached XP level 9. HP: 273/1226 MP: 9/9
+     0 | D:1      | Reached XP level 8. HP: 273/1218 MP: 8/8
+     0 | D:1      | Reached XP level 7. HP: 273/1210 MP: 7/7
+     0 | D:1      | Reached XP level 6. HP: 273/1202 MP: 6/6
+     0 | D:1      | Reached XP level 5. HP: 273/1193 MP: 5/5
+     0 | D:1      | Reached XP level 4. HP: 273/1185 MP: 4/4
+     0 | D:1      | Reached XP level 3. HP: 273/1177 MP: 3/3
+     0 | D:1      | Reached XP level 2. HP: 273/1169 MP: 2/2
+     0 | D:1      | Reached XP level 1. HP: 273/1160 MP: 1/1
+    11 | D:1      | Quit the game
+

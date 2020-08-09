@@ -1,0 +1,117 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12778553058917843330
+
+Giromp the Vexing (Vampire Enchanter)                  Turns: 0, Time: 00:01:37
+
+Health: 13/13      AC:  2    Str:  7    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 17    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis +   a - +1 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: fangs 3, see invisible, unbreathing
+a: no special abilities
+
+
+You are on level 1 of the Dungeon.
+You are not thirsty.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +0 robe (worn)
+Potions
+ d - a potion of blood
+
+
+   Skills:
+ + Level 1.1 Short Blades
+ + Level 2.1 Dodging
+ + Level 4.4 Stealth
+ + Level 2.0 Spellcasting
+ + Level 4.4 Hexes
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      3%          1    #......
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confuse                  Hex            ###.....     10%         3    ###....
+ Tukima's Dance           Hex            ###.....     10%         3    ###....
+ Ensorcelled Hibernation  Hex/Ice        #.....       12%         2    ###....
+ Dazzling Spray           Conj/Hex       #.....       24%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You can survive without breathing.
+
+
+Message History
+
+Welcome, Giromp the Vampire Enchanter.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found 10 gold pieces.
+Found a staircase leading out of the dungeon.
+Okay, then.
+Sorry, you're not good enough to have a special ability.
+Saving game... please wait.
+Welcome back, Giromp the Vampire Enchanter.
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+     #+#
+  ####.####
+ # ..#.#.. #
+ #. .#.#. .#
+ #..#...#..#
+####.....####
++.....@..$..+
+####.....####
+ #..#...#..#
+ #. .#.#. .#
+ # ..#.#.. #
+  ####.####
+     #+#
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Giromp the Vampire Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+

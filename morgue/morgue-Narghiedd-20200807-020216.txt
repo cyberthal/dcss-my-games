@@ -1,0 +1,274 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2995975017128314204
+
+263 Narghiedd the Ducker (level 5, 26/26 HPs) *WIZ*
+             Began as a Spriggan Skald on Aug 6, 2020.
+             Quit the game on level 4 of the Dungeon on Aug 7, 2020.
+             The game lasted 00:51:37 (3908 turns).
+
+Narghiedd the Ducker (Spriggan Skald)               Turns: 3908, Time: 00:51:38
+
+Health: 26/26      AC:  6    Str:  7    XL:     5   Next: 97%
+Magic:  11/12      EV: 20    Int: 16    God:    
+Gold:   116        SH:  0    Dex: 15    Spells: 4/12 levels left
+
+rFire    . . .     SeeInvis +   a - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   g - +1 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   t - +2 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: infused, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 116 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+ b - a +0 dagger
+ c - a +0 short sword
+ d - a +0 hand axe
+ e - a +3 quarterstaff of chaos
+ r - a +4 mace
+Missiles
+ h - 46 sling bullets
+ l - 34 poisoned needles
+ m - 73 stones (quivered)
+ p - 22 bolts
+ q - 38 arrows
+ w - 4 tomahawks
+Armour
+ g - a +1 robe (worn)
+ t - a +2 cloak (worn)
+ y - a +0 robe of fire resistance
+Jewellery
+ j - an uncursed amulet of faith
+ n - an uncursed ring of resist corrosion {unknown}
+Scrolls
+ f - a scroll of magic mapping
+ o - 3 scrolls of blinking
+ u - a scroll of enchant weapon {unknown}
+ z - 2 scrolls of teleportation
+Potions
+ i - a potion of magic
+ k - 3 potions of curing
+ v - a potion of cancellation {unknown}
+ x - a potion of degeneration {unknown}
+ A - a potion of flight {unknown}
+ B - a potion of might {unknown}
+ C - a potion of agility {unknown}
+ D - a potion of lignification {unknown}
+Comestibles
+ s - a ration
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 1.0 Short Blades
+ - Level 1.3 Polearms
+ - Level 1.1 Throwing
+ * Level 5.5 Dodging
+ - Level 3.2 Stealth
+ - Level 4.1 Spellcasting
+ + Level 1.6 Hexes
+ - Level 5.0 Charms
+ - Level 2.0 Translocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           ###.         2%          1    None
+b - Shroud of Golubria    Chrm/Tloc      ##........   6%          2    ##.....
+c - Song of Slaying       Chrm           ###.....     3%          2    ##.....
+d - Spectral Weapon       Hex/Chrm       ##......     13%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Regeneration             Chrm/Necr      ##........   19%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Gozag
+Makhleb
+Uskayaw
+Wu Jian
+Zin
+
+Shops:
+D:4 ?
+
+Annotations:
+D:4 Natasha
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+You climb downwards.
+A frilled lizard, an adder, 2 quokkas, a worm, an ogre and Natasha come into
+view.
+The ogre shouts! Natasha hisses angrily. The adder hisses angrily. The frilled
+lizard hisses angrily. You hear an angry hiss.
+Natasha mumbles some strange words.
+You feel troubled.
+Natasha closely misses you.
+The ogre hits you with a +0 giant club!!
+Ouch! That really hurt!
+Die? 
+Thought so.
+An adder comes into view.
+Found Nefett's Magic Scroll Shoppe. Found an escape hatch in the ceiling.
+Found two stone staircases leading down.
+There is a stone staircase leading up, spattered with blood here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Okay, then.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     ###...##
+     >......##
+   ###.......##
+    ...........
+    #..........
+    #..r......#
+#.####wO.....#
+.l....h@S...#
+.....<.r....#
+.S##......\.#
+   #.##........
+  #.. #....####
+ ..#  .###.#
+...   .   .#
+##    .   >#
+
+
+You could see an ogre, a worm, Natasha, 2 adders, 2 quokkas and a frilled
+lizard.
+
+Vanquished Creatures
+  A hound (D:3)
+  An orc priest (D:3)
+  Crazy Yiuf (D:2)
+  An orc wizard (D:3)
+  A worker ant (D:3)
+  Terence (D:2)
+  An adder (D:3)
+  3 oozes
+  2 dart slugs
+  2 leopard geckos (D:1)
+  2 orcs (D:3)
+  3 ball pythons
+  15 bats
+  2 giant cockroaches
+  4 goblins
+  10 hobgoblins
+  8 kobolds
+  2 quokkas (D:2)
+  8 frilled lizards
+  6 rats
+74 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Narghiedd the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+   249 | D:1      | Reached skill level 1 in Stealth
+   388 | D:1      | Reached XP level 2. HP: 14/14 MP: 6/6
+   397 | D:1      | Learned a level 2 spell: Song of Slaying
+   400 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   614 | D:1      | Reached skill level 1 in Translocations
+  1244 | D:1      | Reached XP level 3. HP: 18/18 MP: 8/8
+  1438 | D:1      | Entered wizard mode.
+  1524 | D:1      | Reached skill level 5 in Charms
+  1760 | D:2      | Found a burning altar of Makhleb.
+  1803 | D:2      | Noticed an Executioner
+  1804 | D:2      | Found a glowing silver altar of Zin.
+  1804 | D:2      | Noticed an angel
+  1847 | D:2      | Reached skill level 1 in Short Blades
+  1856 | D:1      | Learned a level 3 spell: Spectral Weapon
+  2093 | D:2      | Found an opulent altar of Gozag.
+  2201 | D:2      | Noticed Terence
+  2339 | D:2      | Killed Terence
+  2339 | D:2      | Reached skill level 1 in Hexes
+  2339 | D:2      | Reached XP level 4. HP: 22/22 MP: 9/9
+  2436 | D:2      | Found an ornate altar of the Wu Jian Council.
+  2649 | D:2      | Found a runed translucent door.
+  2651 | D:2      | Noticed Crazy Yiuf
+  2695 | D:2      | Killed Crazy Yiuf
+  2695 | D:2      | Reached skill level 1 in Throwing
+  2695 | D:2      | Reached skill level 5 in Dodging
+  3251 | D:3      | Reached XP level 5. HP: 26/26 MP: 5/10
+  3381 | D:3      | Found a hide-covered altar of Uskayaw.
+  3907 | D:4      | Found Nefett's Magic Scroll Shoppe.
+  3907 | D:4      | Noticed Natasha
+  3907 | D:4      | Noticed an ogre
+  3907 | D:4      | Slain by an ogre
+                  | ... wielding a +0 giant club
+                  | (28 damage)
+  3908 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Stealth        |  2           3 |  3.2
+Dodging        |  4        5    |  5.5
+Translocations |     1  2       |  2.0
+Charms         |        5       |  5.0
+Spellcasting   |        3     4 |  4.1
+Short Blades   |        1       |  1.0
+Hexes          |        1       |  1.6
+Throwing       |           1    |  1.1
+Fighting       |              2 |  2.0
+Polearms       |                |  1.3
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Spear             |   190 |    87 ||   277
+Throw: Stone             |    28 |    32 ||    60
+ Cast: Infusion          |    16 |    10 ||    26
+       Shroud of Golubri |     5 |     2 ||     7
+       Song of Slaying   |     5 |     3 ||     8
+       Spectral Weapon   |       |     1 ||     1
+  Use: Scroll            |     7 |     2 ||     9
+ Stab: Sleeping          |     5 |       ||     5
+  Eat: Ration            |       |     1 ||     1
+Armor: Robe              |     7 |     8 ||    15
+Dodge: Dodged            |    79 |    44 ||   123
+

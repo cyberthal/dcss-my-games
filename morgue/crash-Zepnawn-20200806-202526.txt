@@ -1,0 +1,435 @@
+ERROR: range check error (-1 / 52)
+
+Version: Dungeon Crawl Stone Soup 0.23.2
+Platform: unix (OS X)
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Command line: /Applications/Dungeon Crawl Stone Soup - Tiles.app/Contents/MacOS/Dungeon Crawl Stone Soup - Tiles
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #4: Illegal instruction: 4
+
+Obtained 14 stack frames.
+0x00000001010625b4: write_stack_trace(__sFILE*, int) + 116
+0x000000010106a846: do_crash_dump() + 1718
+0x00000001010622e0: crash_signal_handler(int) + 176
+0x00007fff6f2ad5fd: _sigtramp + 29
+0xffffffffffffffff: 0x0 + 18446744073709551615
+0x000000010106d440: _BreakStrToDebugger(char const*, bool) + 0
+0x000000010173e850: _get_fight_data(monster&, int, bool) + 1520
+0x000000010173eb6c: wizard_quick_fsim() + 60
+0x000000010175b3a5: _do_wizard_command(int) + 693
+0x000000010175ad34: handle_wizard_command() + 1156
+0x00000001017dd970: _input() + 2128
+0x00000001017dc7e5: _launch_game() + 8213
+0x00000001017da16a: main + 1082
+0x0000000100f7cd44: start + 52
+
+/usr/bin/gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final) on Mar 30 2019 at 21:18:35
+Build platform: x86_64-apple-darwin16.7.0
+Platform: x86_64-apple-darwin16.7.0
+CFLAGS: -O2 -flto -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-apple-darwin16.7.0/include/SDL2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include/freetype2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="contrib/fonts/DejaVuSans.ttf" -DMONOSPACED_FONT="contrib/fonts/DejaVuSansMono.ttf" -DCLUA_BINDINGS -isystem /usr/include/ncurses
+LDFLAGS: -rdynamic -O2 -flto 
+>>>>>>>>>>>
+
+Place info:
+branch = 0, depth = 1
+
+Level id: D:1
+Level build method = random_map_for_place, level layout type  = rooms, absdepth0 = 0
+Level vaults:
+    dpeg_arrival_round_b
+    layout_basic
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker #0, type 0 at (28, 53): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Welcome, Zepnawn the Spriggan Skald.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Unknown command.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Okay, then.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+An orc warlord comes into view. It is wielding a +0 halberd and wearing a +6
+plate armour of ponderousness.
+Enter Wizard Command (? - help): 
+You bring the flow of time to a stop.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness (resting)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness (resting)
+The floor.
+The helpless orc warlord fails to defend itself.
+You hit the orc warlord.
+The orc warlord is lightly wounded.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+The floor.
+You hit the orc warlord but do no damage.
+You closely miss the orc warlord.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You barely miss the orc warlord.
+The orc warlord is lightly wounded.
+You closely miss the orc warlord.
+The orc warlord is lightly wounded.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+The floor.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      0.3 |      6 |  73% |   0.2 |   103  |  0.97 |      0.2
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     19.5 |     42 |  67% |  13.1 |   100  |  1.00 |     13.1
+Enter Wizard Command (? - help): 
+Which skill (by name)? pole
+Polearms
+To what level? 0
+Lowered Polearms to skill level 0.0.
+Firing (i - inventory) No suitable missiles.
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+Okay, then.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      0.3 |      6 |  72% |   0.2 |   110  |  0.91 |      0.2
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     19.6 |     42 |  66% |  12.9 |   100  |  1.00 |     12.9
+Enter Wizard Command (? - help): 
+Enter values for Str, Int, Dex (space separated): 
+Setting attributes (Str, Int, Dex) to: 1, 14, 15
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      0.2 |      5 |  72% |   0.1 |   110  |  0.91 |      0.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     19.7 |     43 |  66% |  13.2 |   100  |  1.00 |     13.2
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord.
+The orc warlord is lightly wounded.
+You barely miss the orc warlord.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+The floor.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? dagger
++0 dagger
+What ego type? 
+Something appears at your feet!
+c - a +0 dagger
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+c - a +0 dagger (weapon)
+Enter Wizard Command (? - help): 
+Okay, then.
+You completely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You completely miss the orc warlord.
+You barely miss the orc warlord.
+You hit the orc warlord but do no damage.
+You hit the orc warlord but do no damage.
+You barely miss the orc warlord.
+You barely miss the orc warlord.
+You hit the orc warlord.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You barely miss the orc warlord.
+The orc warlord is lightly wounded.
+You closely miss the orc warlord.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+You barely miss the orc warlord.
+The orc warlord is lightly wounded.
+You hit the orc warlord but do no damage.
+The orc warlord is lightly wounded.
+Press: ? - help, v - describe, . - travel
+Here: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+The floor.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      0.1 |      4 |  74% |   0.1 |   100  |  1.00 |      0.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     19.1 |     42 |  65% |  12.5 |   100  |  1.00 |     12.5
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? sling
++0 hunting sling
+What ego type? 
+Something appears at your feet!
+e - a +0 hunting sling
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+e - a +0 hunting sling (weapon)
+Really attack while wielding your +0 hunting sling? 
+You closely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You completely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You barely miss the orc warlord.
+You barely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You barely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You barely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You barely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You barely miss the orc warlord.
+You completely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You closely miss the orc warlord.
+You clumsily bash the orc warlord but do no damage.
+You clumsily bash the orc warlord but do no damage.
+You closely miss the orc warlord.
+You barely miss the orc warlord.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a +0 halberd and wearing a +6 plate armour of
+ponderousness
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.23.2
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_WIZARD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [Zepnawn]
+Species: Spriggan
+Job:     Skald
+
+HP: 999/999; mods: 0/0
+MP: 5/5; mod: 0
+Stats: 1 (1) 14 (14) 15 (15)
+Position: (28, 53), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: staircase leading out of the dungeon
+
+Skills (mode: manual)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   1   |    20    |    1  |    151 | 81/142
+Short Blades    |     X     |   0   |     0    |    0  |      0 | 0/42
+Long Blades     |           |   0   |     0    |    0  |      0 | 0/70
+Axes            |           |   0   |     0    |    0  |      0 | 0/70
+Maces & Flails  |           |   0   |     0    |    0  |      0 | 0/84
+Polearms        |     X     |   1   |    20    |    0  |      0 | 0/84
+Staves          |           |   0   |     0    |    0  |      0 | 0/84
+Slings          |     X     |   0   |     0    |    0  |      0 | 0/35
+Bows            |           |   0   |     0    |    0  |      0 | 0/35
+Crossbows       |           |   0   |     0    |    0  |      0 | 0/50
+Throwing        |     X     |   0   |     0    |    0  |      0 | 0/50
+Armour          |     X     |   0   |     0    |    0  |      0 | 0/84
+Dodging         |     X     |   1   |    20    |    3  |    202 | 52/100
+Stealth         |     X     |   0   |     0    |    0  |      0 | 0/21
+Shields         |           |   0   |     0    |    0  |      0 | 0/84
+Unarmed Combat  |     X     |   0   |     0    |    0  |      0 | 0/70
+Spellcasting    |     X     |   1   |    20    |    2  |    179 | 73/106
+Conjurations    |           |   0   |     0    |    0  |      0 | 0/84
+Hexes           |           |   0   |     0    |    0  |      0 | 0/35
+Charms          |     X     |   1   |    20    |    4  |    301 | 51/125
+Summonings      |           |   0   |     0    |    0  |      0 | 0/70
+Necromancy      |           |   0   |     0    |    0  |      0 | 0/59
+Translocations  |           |   0   |     0    |    0  |      0 | 0/25
+Transmutations  |           |   0   |     0    |    0  |      0 | 0/29
+Fire Magic      |           |   0   |     0    |    0  |      0 | 0/70
+Ice Magic       |           |   0   |     0    |    0  |      0 | 0/70
+Air Magic       |           |   0   |     0    |    0  |      0 | 0/59
+Earth Magic     |           |   0   |     0    |    0  |      0 | 0/59
+Poison Magic    |           |   0   |     0    |    0  |      0 | 0/50
+Invocations     |           |   0   |     0    |    0  |      0 | 0/50
+Evocations      |           |   0   |     0    |    0  |      0 | 0/29
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #49: 13
+    #59: 1
+
+Mutations:
+    see invisible: 1 (innate)
+    herbivore: 1 (innate)
+    speed: 3 (innate)
+    slow metabolism: 2 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #4: +0 hunting sling
+    eq slot #6, inv slot #1: +0 robe
+
+}}}}}}}}}}}
+
+
+Screenshot:
+ #.
+##.
+#..
+#..
+ ..##     .
+ #..#   ..#
+ #.o##...#
+  #@o..#
+  ######
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

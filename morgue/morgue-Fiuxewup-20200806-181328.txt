@@ -1,0 +1,396 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17307034009557266899
+
+6352 Fiuxewup the Vandal (level 10, 81/81 HPs) *WIZ*
+             Began as a Demigod Arcane Marksman on Aug 4, 2020.
+             Quit the game on level 8 of the Dungeon on Aug 6, 2020.
+             The game lasted 02:48:12 (13018 turns).
+
+Fiuxewup the Vandal (Demigod Arcane Marksman)      Turns: 13018, Time: 02:48:12
+
+Health: 81/81      AC: 13    Str: 13    XL:     10   Next: 38%
+Magic:  19/19      EV: 12    Int: 23    God:    No God 0 (0)
+Gold:   495        SH:  2    Dex: 16    Spells: 4/17 levels left
+
+rFire    + . .     SeeInvis .   a - +0 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   R - +0 scale mail
+rPois    .         Spirit   .   W - +2 hat
+rElec    .         Reflect  +   y - +0 cloak {+Inv}
+rCorr    .         Harm     .   I - +2 pair of gloves
+MR       +....                  (no boots)
+Stlth    +.........             H - +2 amulet of reflection
+HPRegen  0.23/turn              t - ring of wizardry
+MPRegen  0.16/turn              V - ring of protection from fire
+
+@: no status effects
+A: high mp 1
+a: Evoke Invisibility
+
+
+You were on level 8 of the Dungeon.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+You also visited: Sewer.
+
+You collected 495 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +2 flail of venom
+ c - a +1 dagger of chaos
+ d - a +2 dagger of venom
+ e - a +0 falchion of flaming
+ f - a +0 whip of freezing
+ g - a +1 mace of protection
+ h - a +3 war axe
+ i - a +0 halberd
+ k - a +2 dagger of speed
+ u - a cursed +0 battleaxe
+Missiles
+ m - 10 poisoned needles
+ o - 17 bolts
+ x - 217 stones (quivered)
+ z - 33 arrows
+ A - 7 tomahawks
+ D - 46 sling bullets
+ F - a throwing net
+Armour
+ y - a +0 cloak of invisibility (worn)
+ E - a +0 ring mail
+ I - a +2 pair of gloves (worn)
+ N - a +0 chain mail
+ R - a +0 scale mail (worn)
+ W - a +2 hat (worn)
+ X - a scarf of resistance
+ Y - a +0 robe of magic resistance
+Jewellery
+ l - an uncursed ring of protection from cold
+ t - a ring of wizardry (left hand)
+ H - a +2 amulet of reflection (around neck)
+ U - the ring of the Louse {+Fly rPois Stlth-}
+   (You took it off an orc on level 6 of the Dungeon)   
+   
+   [ring of attention]
+   
+   It protects you from poison.
+   It lets you fly.
+   It makes you less stealthy.
+ V - a ring of protection from fire (right hand)
+Wands
+ q - a wand of disintegration (3)
+ r - a wand of random effects (12)
+ K - a wand of iceblast (4)
+Scrolls
+ j - 2 scrolls of fog
+ p - 2 scrolls of remove curse
+ w - a scroll of magic mapping {unknown}
+ J - 3 scrolls of fear
+Potions
+ n - 3 potions of curing
+ s - 2 potions of heal wounds
+ v - 2 potions of might
+ B - a potion of ambrosia
+ G - a potion of brilliance
+ L - a potion of lignification
+ M - 3 potions of agility
+ O - a potion of magic
+Comestibles
+ C - 16 rations
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 2.6(2.8) Short Blades
+ - Level 1.2(2.1) Long Blades
+ + Level 1.1(3.0) Axes
+ - Level 4.4(4.5) Maces & Flails
+ - Level 0.2(1.1) Polearms
+   Level 1.0(2.9) Staves
+ - Level 5.8(6.0) Slings
+ - Level 1.8(4.1) Throwing
+ - Level 5.0 Armour
+ - Level 5.0 Dodging
+ + Level 3.1 Stealth
+ - Level 4.0 Spellcasting
+ - Level 5.0 Hexes
+ - Level 1.0 Translocations
+ - Level 1.7 Fire Magic
+ - Level 4.2 Evocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            27 (90)      2%          1    0
+b - Slow                  Hex            27 (100)     3%          2    8
+c - Portal Projectile     Hex/Tloc       18 (50)      16%         3    58
+d - Inner Flame           Hex/Fire       20 (100)     13%         3    58
+e - Cause Fear            Hex            27 (200)     22%         4    158
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Leda's Liquefaction      Hex/Erth       16 (200)     50%         4    158
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:5         
+  Lair: D:8-11      
+
+Annotations:
+D:3 1 runed translucent door, yiuf, 1 exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+There is an escape hatch in the ceiling here.
+You open the door.
+There is an open door here.
+All of the chunks of flesh in your inventory have rotted away.
+There is an escape hatch in the floor here.
+You slide downwards. The hatch slams shut behind you.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+There is a stone staircase leading down here.
+Unknown command.
+Unknown command.
+Saving game... please wait.
+Welcome back, Fiuxewup the Demigod Arcane Marksman.
+Press ? for a list of commands and other information.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..##..#.....#...#..#.....#.....[...##...####
+......'.....#...#..#.....#.........##'#####.
+......#.....#...#..#.....#..................
+......#.....#...#..#.....#..................
+####..#.....########.....############.......
+...#..#....##..######'##....[.......#.......
+...#..#....#...........#............'.......
+...#..#....#...........'............#...####
+...#..#....#############.....)......#...##..
+...#..#....................##)##....#....#..
+...'..#....................#.).#....#....#..
+...#..#....................#.).#....#....#..
+...#..#....................#...#....#....#..
+...#..#...............@....#...#....#....'..
+...#####...................#...#....######'#
+...#...'...................#+###.........#..
+...#...#.....###########'###.#######.....'..
+...#...#.....#...'.................'.....#..
+...#...#>....+...#.................#.....#..
+...#####.....#..###.#######'###'####...[.#'#
+.........#'###..###.######..###....#...<.#..
+.........#.......#..........#......#...).#..
+###......#.......#..........'......#.....#..
+  #......###########################.....###
+  ######.......############.........####....
+       #.......#......#...#.........#..#....
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A hydra (D:8)
+  Harold (D:8)
+  Pikel (D:5)
+  Maurice (D:8)
+  Psyche (D:8)
+  2 dream sheep (D:8)
+  Sigmund (D:5)
+  2 yaks
+  Edmund (D:4)
+  Menkaure (D:6)
+  3 orc warriors
+  A slave (D:3)
+  A sky beast (D:8)
+  An ogre (D:7)
+  A black bear (D:7)
+  3 centaurs
+  5 big kobolds
+  5 bullfrogs
+  3 scorpions
+  A howler monkey (D:6)
+  An electric eel (D:7)
+  4 crimson imps
+  2 hounds
+  3 orc priests
+  3 bullfrog skeletons
+  2 centaur skeletons
+  2 iguanas
+  7 orc wizards
+  4 worker ants
+  A hound skeleton (D:6)
+  2 hound zombies
+  A worker ant zombie (D:6)
+  2 howler monkey zombies
+  3 gnolls
+  8 adders
+  3 oozes
+  2 worms (D:2)
+  3 dart slugs
+  9 leopard geckos
+  21 orcs
+  5 ball pythons
+  4 giant cockroaches
+  8 goblins
+  4 hobgoblins
+  13 jackals
+  17 kobolds
+  7 quokkas
+  6 bats
+  12 frilled lizards
+  A jackal zombie (D:6)
+  9 rats
+205 creatures vanquished.
+
+Vanquished Creatures (others)
+  An adder (D:5)
+  A leopard gecko (D:5)
+  3 jackals (D:5)
+  3 toadstools (D:5)
+8 creatures vanquished.
+
+Grand Total: 213 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Fiuxewup the Demigod Arcane Marksman began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 4/4
+    74 | D:1      | You fall through a shaft!
+    75 | D:2      | Noticed a bullfrog
+    80 | D:2      | Killed a bullfrog
+    80 | D:2      | Reached XP level 2. HP: 8/22 MP: 3/5
+    80 | D:2      | Reached XP level 3. HP: 10/27 MP: 3/6
+   351 | D:2      | Learned a level 2 spell: Slow
+   453 | D:2      | Found a bloodstained altar of Trog.
+   454 | D:2      | Found a hide-covered altar of Uskayaw.
+   458 | D:2      | Found a deep blue altar of Sif Muna.
+   902 | D:1      | Reached XP level 4. HP: 34/34 MP: 5/8
+  2280 | D:3      | Found a runed translucent door.
+  2326 | D:2      | Learned a level 3 spell: Portal Projectile
+  2693 | D:3      | Reached skill level 1 in Fighting
+  2693 | D:3      | Reached XP level 5. HP: 40/40 MP: 8/10
+  2881 | D:3      | You fall through a shaft!
+  3040 | D:3      | Reached skill level 1 in Armour
+  3045 | D:3      | Reached skill level 1 in Translocations
+  3216 | D:3      | Reached skill level 1 in Staves
+  3536 | D:4      | Found a stormy altar of Qazlal.
+  4212 | D:4      | Entered wizard mode.
+  4361 | D:5      | Entered Level 5 of the Dungeon
+  4378 | D:5      | Noticed Edmund
+  4504 | D:4      | Killed Edmund
+  4504 | D:4      | Reached skill level 1 in Evocations
+  4504 | D:4      | Reached XP level 6. HP: 47/47 MP: 4/11
+  4682 | D:5      | Reached skill level 1 in Axes
+  4839 | D:5      | Found a glowing drain.
+  4858 | Sewer    | Entered a sewer
+  5212 | D:5      | Noticed Sigmund
+  5227 | D:5      | Killed Sigmund
+  5227 | D:5      | Reached XP level 7. HP: 30/55 MP: 7/13
+  5365 | D:4      | Learned a level 3 spell: Inner Flame
+  5446 | D:5      | Found a staircase to the Ecumenical Temple.
+  5469 | Temple   | Entered the Ecumenical Temple
+  5522 | D:5      | Noticed Pikel
+  6108 | D:5      | Killed Pikel
+  6108 | D:5      | Reached skill level 1 in Throwing
+  6108 | D:5      | Reached skill level 1 in Fire Magic
+  6168 | D:5      | Found a glowing golden altar of the Shining One.
+  6320 | D:5      | Reached XP level 8. HP: 61/62 MP: 14/14
+  7099 | D:6      | Found a sacrificial altar of Ru.
+  7167 | D:6      | You fall through a shaft!
+  7659 | D:6      | Found a blossoming altar of Fedhas.
+  7706 | D:6      | Noticed Menkaure
+  7721 | D:6      | Killed Menkaure
+  7913 | D:5      | Learned a level 4 spell: Cause Fear
+  7984 | D:6      | Identified the ring of the Louse {+Fly rPois Stlth-}
+  9267 | D:7      | Reached XP level 9. HP: 71/71 MP: 15/17
+  9787 | D:8      | Noticed Psyche
+  9792 | D:8      | Killed Psyche
+  9796 | D:8      | Noticed Maurice
+  9832 | D:8      | Killed Maurice
+  9832 | D:8      | Reached skill level 5 in Slings
+  9931 | D:8      | Noticed Harold
+  9983 | D:8      | Reached skill level 1 in Long Blades
+  9992 | D:8      | Reached skill level 5 in Fighting
+ 10829 | D:8      | Reached skill level 1 in Short Blades
+ 11989 | D:8      | Reached skill level 5 in Hexes
+ 12459 | D:8      | Killed Harold
+ 12459 | D:8      | Reached skill level 5 in Armour
+ 12459 | D:8      | Reached XP level 10. HP: 44/81 MP: 19/19
+ 12872 | D:8      | Reached skill level 5 in Dodging
+ 12910 | D:8      | Noticed a two-headed hydra
+ 12923 | D:8      | Killed a one-headed hydra
+ 13018 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Slings         |  2        3           4  5    |  5.8
+Dodging        |  2                 4        5 |  5.0
+Stealth        |  2                          3 |  3.1
+Spellcasting   |           2           3  4    |  4.0
+Fighting       |           1     2     4  5    |  5.0
+Armour         |              2     3  4  5    |  5.0
+Translocations |              1                |  1.0
+Staves         |              1                |  1.0
+Evocations     |              1           2  4 |  4.2
+Axes           |                 1             |  1.1
+Maces & Flails |                 2     3  4    |  4.4
+Hexes          |                 3     4  5    |  5.0
+Throwing       |                    1          |  1.8
+Fire Magic     |                    1          |  1.7
+Long Blades    |                          1    |  1.2
+Short Blades   |                          1  2 |  2.6
+Polearms       |                               |  0.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |       |     2 |    44 |       ||    46
+       Quarterstaff      |       |  4005 |       |       ||  4005
+       Flail             |       |    11 |   126 |    21 ||   158
+       Mace              |       |     8 |   106 |     9 ||   123
+       Whip              |       |       |     5 |       ||     5
+       Falchion          |       |       |       |     2 ||     2
+ Fire: Hunting sling     |    53 |   268 |   216 |    12 ||   549
+Throw: Tomahawk          |       |       |     8 |       ||     8
+ Cast: Corona            |    14 |    47 |    71 |     8 ||   140
+       Slow              |     1 |    21 |    35 |       ||    57
+ Abil: Evoke Flight      |       |       |     1 |       ||     1
+       Evoke Invisibilit |       |       |     3 |       ||     3
+Evoke: Wand              |       |     2 |     5 |       ||     7
+  Use: Scroll            |       |     3 |     9 |       ||    12
+       Potion            |       |     3 |     2 |       ||     5
+ Stab: Sleeping          |       |     2 |       |       ||     2
+       Invisible         |       |       |     3 |       ||     3
+  Eat: Chunk             |       |    12 |    18 |     2 ||    32
+       Ration            |       |     1 |     2 |       ||     3
+Armor: Robe              |     1 |     8 |       |       ||     9
+       Ring mail         |       |  3051 |    53 |       ||  3104
+       Leather armour    |       |    12 |    11 |       ||    23
+       Skin              |       |       |     9 |       ||     9
+       Scale mail        |       |       |    48 |    15 ||    63
+       Chain mail        |       |       |    20 |       ||    20
+Dodge: Dodged            |    22 |  3637 |   180 |    15 ||  3854
+Block: Other             |       |     1 |    15 |     1 ||    17
+       Reflection        |       |       |     3 |       ||     3
+

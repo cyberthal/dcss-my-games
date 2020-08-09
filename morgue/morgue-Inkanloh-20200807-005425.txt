@@ -1,0 +1,275 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12455515405156112041
+
+7680 Inkanloh the Cudgeler (level 11, 23/94 HPs) *WIZ*
+             Began as a Troll Chaos Knight on Aug 7, 2020.
+             Was a Plaything of Xom.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:47 (6173 turns).
+
+Inkanloh the Cudgeler (Troll Chaos Knight)          Turns: 6173, Time: 00:07:47
+
+Health: 23/94      AC:  7    Str: 16 (17) XL:     11   Next: 0%
+Magic:  10/10      EV: 10    Int:  4      God:    Xom 179 (0)
+Gold:   0          SH:  4    Dex:  8 (9)  Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   a - +0 mace (chaos)
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   b - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.65/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: poison vulnerable, slowed, very slow
+A: large, unfitting armour, claws 3, talons 1, large bone plates 1, blurry
+vision 2, deformed body, deterioration 1, dopey 2, fast metabolism 3, gourmand,
+poison resistance, regeneration 1, screaming 2, shaggy fur 1, tough skin 3, weak
+1, wild magic 1
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Xom.
+You were a beloved toy of Xom.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos (weapon)
+Armour
+ b - a +2 robe (worn)
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.6 Maces & Flails
+ + Level 1.9 Dodging
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You have sharp toenails.
+You are partially covered in large bone plates. (SH +4)
+Scrolls take you longer to read.
+Armour fits poorly on your strangely shaped body.
+Your body sometimes deteriorates upon taking damage.
+You are very dopey. (Int -4)
+Your system is resistant to poisons. (rPois)
+You sometimes yell uncontrollably at your foes.
+You are weak. (Str -2)
+Your spells are a little harder to cast, but a little more powerful.
+
+
+Message History
+
+Which god (default Xom)? 
+Xom's power touches on you for a moment.
+Your body is suffused with distortional energy.
+Large bone plates grow over parts of your arms.
+Icy blue scales grow over part of your body.
+You feel resistant to poisons. Your toenails lengthen and sharpen.
+Enter Wizard Command (? - help): 
+Which god (default Xom)? 
+You almost hear Xom's maniacal laughter.
+You are momentarily dazzled by a flash of light!
+Enter Wizard Command (? - help): 
+Which god (default Xom)? 
+Xom notices you.
+A spatial vortex comes into view.
+Enter Wizard Command (? - help): 
+Which god (default Xom)? 
+"Let me alter your body."
+Your body is suffused with distortional energy.
+You feel healthier. You feel stupid. Your icy blue scales disappear. You feel
+yourself wasting away.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##...#.....!........####............##
+###.####...............##..........##
+...$.......\.......##..^#...#.##.#######
+........##.........##....#..#.##.......#
+.......###...........##..#..#.#........#
+.......##.........##.....#....#.#......#
+..............0...####........#.#......#
+.........#.#...........................#
+.............#.#.......###.#...........#
+.........#.#.#....####.###......#......###
+##........................................
+##...........#.###.#000.....##..#.......##
+..!........###......0@0..........######.#
+.#.#.....#..(...###.v00...(##...........#
+##..............# ##.............########
+#.........#.....#  #>.......#.....##
+..........#..#.#####........#......#
+##.#.....###.#.###............#..#.##
+#..##...## #>..............#..##....###
+#.#######  ##......##......#..###.....#
+#.###########......##......#....#.....#
+#................#.........##.#.......#
+#.#.........#....##.........#.#####.#.#
+###.#########....##.........#.#   #...##
+
+
+You could see a spatial vortex (wandering).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Inkanloh the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Fell from the grace of Xom
+     0 | D:1      | Became a worshipper of Dithmenos the Shadowed
+  6171 | D:1      | XOM: summons 5 hostile demons
+  6171 | D:1      | Noticed an iron imp
+  6171 | D:1      | Noticed a chaos spawn
+  6171 | D:1      | Noticed a red devil
+  6171 | D:1      | Noticed a quasit
+  6171 | D:1      | XOM: 1-stop teleportation journey
+  6171 | D:1      | Fell from the grace of Dithmenos
+  6171 | D:1      | Became a worshipper of Xom of Chaos
+  6171 | D:1      | Was forgiven by Dithmenos
+  6171 | D:1      | XOM: harmless Necr miscast
+  6171 | D:1      | XOM: harmless Fire miscast
+  6171 | D:1      | XOM: harmless Tloc miscast
+  6171 | D:1      | XOM: mild Pois miscast
+  6172 | D:1      | XOM: harmless Hex miscast
+  6172 | D:1      | XOM: medium Summ miscast
+  6172 | D:1      | Noticed a rust devil
+  6172 | D:1      | XOM: medium Pois miscast
+  6172 | D:1      | XOM: mild Ice miscast
+  6172 | D:1      | XOM: mild Air miscast
+  6172 | D:1      | XOM: harmless Ice miscast
+  6172 | D:1      | XOM: harmless Hex miscast
+  6172 | D:1      | XOM: mild Erth miscast
+  6172 | D:1      | XOM: mild Erth miscast
+  6172 | D:1      | XOM: medium Tmut miscast
+  6172 | D:1      | XOM: noise
+  6172 | D:1      | XOM: harmless Ice miscast
+  6172 | D:1      | XOM: silly message
+  6172 | D:1      | XOM: harmless Chrm miscast
+  6172 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+  6172 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+  6172 | D:1      | Reached XP level 4. HP: 44/44 MP: 3/3
+  6172 | D:1      | Reached XP level 5. HP: 50/50 MP: 4/4
+  6172 | D:1      | Reached XP level 6. HP: 59/59 MP: 5/5
+  6172 | D:1      | Reached XP level 7. HP: 66/66 MP: 6/6
+  6172 | D:1      | Reached XP level 8. HP: 74/74 MP: 7/7
+  6172 | D:1      | Reached XP level 9. HP: 80/80 MP: 8/8
+  6172 | D:1      | Reached XP level 10. HP: 88/88 MP: 9/9
+  6172 | D:1      | Reached XP level 11. HP: 94/94 MP: 10/10
+  6172 | D:1      | XOM: mild Pois miscast
+  6172 | D:1      | XOM: medium Necr miscast
+  6172 | D:1      | XOM: mild Tmut miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: You are frail. (-10% HP) [Xom's mischief]
+  6173 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [Xom's mischief]
+  6173 | D:1      | Lost mutation: You are frail. (-10% HP) [Xom's mischief]
+  6173 | D:1      | XOM: severe Summ miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  6173 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [Xom's mischief]
+  6173 | D:1      | Lost mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  6173 | D:1      | Gained mutation: Scrolls take you longer to read. [Xom's
+                  | mischief]
+  6173 | D:1      | XOM: medium Chrm miscast
+  6173 | D:1      | XOM: noise
+  6173 | D:1      | XOM: silly message
+  6173 | D:1      | XOM: harmless Erth miscast
+  6173 | D:1      | XOM: medium Pois miscast
+  6173 | D:1      | XOM: noise
+  6173 | D:1      | XOM: harmless Hex miscast
+  6173 | D:1      | XOM: mild Ice miscast
+  6173 | D:1      | XOM: harmless Air miscast
+  6173 | D:1      | XOM: medium Air miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [Xom's mischief]
+  6173 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [Xom's mischief]
+  6173 | D:1      | Gained mutation: You are dopey. (Int -2) [Xom's mischief]
+  6173 | D:1      | XOM: mild Tmut miscast
+  6173 | D:1      | XOM: harmless Pois miscast
+  6173 | D:1      | XOM: harmless Erth miscast
+  6173 | D:1      | XOM: noise
+  6173 | D:1      | XOM: torment (43/94 hp)
+  6173 | D:1      | XOM: torment (23/94 hp)
+  6173 | D:1      | XOM: harmless Chrm miscast
+  6173 | D:1      | XOM: medium Tloc miscast
+  6173 | D:1      | XOM: god gift: 6 silver javelins
+  6173 | D:1      | XOM: mild Air miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: You sometimes yell uncontrollably at your
+                  | foes. [Xom's mischief]
+  6173 | D:1      | Lost mutation: Your body often deteriorates upon taking
+                  | damage. [Xom's mischief]
+  6173 | D:1      | Gained mutation: You are weak. (Str -2) [Xom's mischief]
+  6173 | D:1      | XOM: give mutation
+  6173 | D:1      | Gained mutation: You have a pair of small antennae on your
+                  | head. [Xom's mischief]
+  6173 | D:1      | XOM: silly message
+  6173 | D:1      | XOM: mild Tmut miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [Xom's mischief]
+  6173 | D:1      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [Xom's mischief]
+  6173 | D:1      | Lost mutation: You have a pair of small antennae on your
+                  | head. [Xom's mischief]
+  6173 | D:1      | XOM: stat loss: -1 Dex (8/9)
+  6173 | D:1      | XOM: noise
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Gained mutation: You are partially covered in large bone
+                  | plates. (SH +4) [Xom's grace]
+  6173 | D:1      | Gained mutation: You are partially covered in icy blue
+                  | scales. (AC +2) [Xom's grace]
+  6173 | D:1      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [Xom's grace]
+  6173 | D:1      | Gained mutation: You have sharp toenails. [Xom's grace]
+  6173 | D:1      | XOM: harmless Conj miscast
+  6173 | D:1      | XOM: medium Tloc miscast
+  6173 | D:1      | XOM: give mutations
+  6173 | D:1      | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [Xom's mischief]
+  6173 | D:1      | Gained mutation: You are very dopey. (Int -4) [Xom's
+                  | mischief]
+  6173 | D:1      | Lost mutation: You are partially covered in icy blue
+                  | scales. (AC +2) [Xom's mischief]
+  6173 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [Xom's mischief]
+  6173 | D:1      | Quit the game
+
