@@ -161,10 +161,6 @@ Level 6 of the Dungeon
   a +0 scale mail
   a +0 dagger
   a +0 mace
-  an orc skeleton
-  an orc skeleton
-  an orc skeleton
-  an orc skeleton
 (14, 17, D:6)
   12 gold pieces
 (15, 10, D:6)
@@ -182,6 +178,8 @@ Level 6 of the Dungeon
   a +0 robe
 (35, 19, D:6)
   a cursed +0 flail
+(45, 18, D:6)
+  a +0 flail
 (52, 26, D:6)
   a whip
 (57, -19, D:6)
@@ -190,6 +188,84 @@ Level 6 of the Dungeon
   a +0 giant club
 (65, -8, D:6)
   a +0 giant club
+
+Level 7 of the Dungeon
+[Shop] Ekyxedill's Gadget Shoppe
+  a wand of random effects (19) (unknown) (115 gold)
+  a fan of gales (440 gold)
+  a wand of scattershot (5) (unknown) (297 gold)
+  a phial of floods (440 gold)
+  a fan of gales (440 gold)
+  a box of beasts (220 gold)
+  a phantom mirror (330 gold)
+  a box of beasts (220 gold)
+  a phantom mirror (330 gold)
+  a wand of paralysis (7) (99 gold)
+  a box of beasts (220 gold)
+  a box of beasts (220 gold)
+(0, 0, D:7)
+  a +0 war axe
+(1, -1, D:7)
+  a +0 club
+(2, 3, D:7)
+  a +0 shortbow
+(6, -2, D:7)
+  a +0 dagger
+  a +0 leather armour
+  a +0 mace
+(10, 7, D:7)
+  a dagger
+(18, -15, D:7)
+  a quarterstaff
+(21, 32, D:7)
+  a robe
+(29, 39, D:7)
+  a +0 flail
+  a +0 spear
+(33, 3, D:7)
+  a leather armour
+(34, 26, D:7)
+  a +0 shortbow
+(46, 23, D:7)
+  a mace
+(57, 2, D:7)
+  a +0 shortbow
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 club
+(10, -39, D:8)
+  23 bolts
+(14, -14, D:8)
+  a leather armour
+(32, -28, D:8)
+  a falchion
+(38, -41, D:8)
+  a stone
+(39, -43, D:8)
+  a stone
+(40, -44, D:8)
+  a stone
+(41, -45, D:8)
+  a stone
+(41, -40, D:8)
+  a poisoned needle
+(41, -38, D:8)
+  a poisoned needle
+(41, -37, D:8)
+  a sling bullet
+(42, -47, D:8)
+  a poisoned needle
+(42, -46, D:8)
+  a stone
+(42, -45, D:8)
+  a poisoned needle
+(42, -37, D:8)
+  a sling bullet
+(43, -37, D:8)
+  a sling bullet
+(44, -39, D:8)
+  15 gold pieces
 
 the Ecumenical Temple
 
