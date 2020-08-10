@@ -1,0 +1,357 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7990048651906358878
+
+1854 Arunloin the Conjurer (level 8, 53/60 HPs) *WIZ*
+             Began as a Mummy Wizard on Aug 9, 2020.
+             Was an Initiate of Kikubaaqudgha.
+             Quit the game on level 6 of the Dungeon on Aug 10, 2020.
+             The game lasted 01:34:51 (9455 turns).
+
+Arunloin the Conjurer (Mummy Wizard)                Turns: 9455, Time: 01:34:51
+
+Health: 53/60      AC:  9    Str: 11    XL:     8   Next: 89%
+Magic:  10/15      EV: 10    Int: 19    God:    Kikubaaqudgha [......]
+Gold:   296        SH:  4    Dex: 10    Spells: 7/17 levels left
+
+rFire    x . .     SeeInvis .   a - +2 hunting sling
+rCold    + . .     Gourm    .   C - +0 buckler
+rNeg     + + +     Faith    +   F - +0 ring mail
+rPois    ?          Spirit   +   z - +2 hat
+rElec    .         Reflect  .   H - scarf {Spirit}
+rCorr    .         Harm     .   y - +0 pair of gloves
+MR       +....                  D - +0 pair of boots
+Stlth    +.........             B - amulet of faith
+HPRegen  0.20/turn              s - +4 ring of slaying
+MPRegen  0.14/turn              i - ring of wizardry
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 296 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling (weapon)
+ b - a +0 whip of freezing
+ c - a +0 dagger
+ d - a +0 flail
+ e - a +0 hand axe
+ f - a +0 spear
+ h - a +0 great sword
+Missiles
+ k - 47 sling bullets (quivered)
+ o - 85 arrows
+ t - 7 tomahawks
+ v - 78 bolts
+ x - 197 stones
+ G - 18 poisoned needles
+Armour
+ g - a +0 leather armour
+ l - a cursed +0 robe
+ n - a +0 scale mail
+ y - a +0 pair of gloves (worn)
+ z - a +2 hat (worn)
+ C - a +0 buckler (worn)
+ D - a +0 pair of boots (worn)
+ E - a +4 chain mail of fire resistance
+ F - a +0 ring mail (worn)
+ H - a scarf of spirit shield (worn)
+Jewellery
+ i - a ring of wizardry (right hand)
+ p - an uncursed ring of fire
+ s - a +4 ring of slaying (left hand)
+ u - a +6 ring of dexterity
+ B - an amulet of faith (around neck)
+Scrolls
+ j - 3 scrolls of blinking
+ m - a scroll of remove curse
+ q - a scroll of magic mapping {unknown}
+ r - a scroll of immolation
+ w - a scroll of teleportation
+ A - a scroll of random uselessness {unknown}
+
+
+   Skills:
+ - Level 4.0 Fighting
+ - Level 0.7 Long Blades
+ - Level 1.0 Maces & Flails
+ - Level 2.1(2.2) Slings
+ - Level 1.1(1.8) Throwing
+ - Level 2.1 Armour
+ - Level 2.0 Dodging
+ - Level 1.5 Stealth
+ - Level 2.1 Shields
+ - Level 5.1 Spellcasting
+ + Level 6.5 Conjurations
+ - Level 1.2 Hexes
+ - Level 1.0 Summonings
+ - Level 1.0 Translocations
+ - Level 1.3 Fire Magic
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         1%          1    N/A
+b - Slow                  Hex            #.......     14%         2    N/A
+c - Call Imp              Summ           #.......     16%         2    N/A
+d - Blink                 Tloc           N/A          16%         2    N/A
+e - Conjure Flame         Conj/Fire      ###.....     9%          3    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Mephitic Cloud           Conj/Pois/Air  ##......     17%         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Wu Jian
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+You hit the gnoll. You freeze the gnoll.
+You kill the gnoll!
+Kikubaaqudgha accepts your kill.
+Your +0 whip of freezing stops glowing.
+a - a +2 hunting sling (weapon)
+Autopickup is now on.
+Things that are here:
+a +0 spear; a gnoll corpse
+H - a +0 spear
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+H - a +0 spear
+Adjust to which letter?  (? for menu, Esc to quit)
+z - a +0 spear; H - a scarf of spirit shield (worn)
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+z - a +0 spear
+Adjust to which letter?  (? for menu, Esc to quit)
+f - a +0 spear; z - a +2 hat (worn)
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.....#......!.....#.........## #.........#
+.............................# #.........#
+.#.....##....................# #.........#
+.#.#...8#...........##.......# ###..####.#
+.#.#...########..........###.#   #..#  #.#
+##.#...#      #......##..# #.#   #..#  #.#
+##.#...##     #....#.##..# #.#####..#  #.#
+...#...8#     #....#..#..# #........#  #.###
+...#...########..........# ########.####....
+.......##....##)..###.#..#   #..........####
+.......##...[......<.....#   #...........###
+###8###}#.....#####.##...#####..............
+#############.##.............#..........####
+...##....####.##.##...@>.....#..........#  #
+...##.........##.#....##.....#..........#
+...##.....%...##.#.#.....#####..........#
+...##.........#..........#..##..........#
+...##........#####.#.#...#..##..........#
+...##..............#.#...#..##..........#
+#####......#########.#......##..........#
+    #..............#.#.#.##.#############
+    ######.###.#...>.#.#.##.#
+         #.# #.###.###.#.##)#
+         #.# #.###.# #.#.##.#
+         #.# #.....# #.#.##.#
+         #.###########.#.##.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Pikel (D:5)
+  Menkaure (D:5)
+  2 black bears (D:6)
+  3 slaves
+  A phantom (D:6)
+  A sky beast (D:6)
+  2 ogres (D:6)
+  A centaur (D:4)
+  A scorpion (D:5)
+  A howler monkey (D:5)
+  A crimson imp (D:5)
+  A bullfrog zombie (D:5)
+  A bullfrog skeleton (D:6)
+  A hound (D:5)
+  3 orc wizards
+  2 iguanas (D:4)
+  4 worker ants
+  A hound zombie (D:7)
+  5 adders
+  2 gnolls (D:6)
+  2 shadow imps
+  2 adder zombies
+  A dart slug (D:3)
+  2 leopard geckos
+  9 orcs
+  3 giant cockroaches (D:1)
+  10 goblins
+  6 hobgoblins
+  4 jackals
+  3 quokkas
+  8 bats
+  5 frilled lizards
+  8 kobolds
+  2 rats (D:1)
+100 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A slave (D:5)
+  A howler monkey (D:5)
+  A crimson imp (D:5)
+  A hound (D:5)
+  2 adders
+  A worm (D:3)
+  2 orcs
+  A goblin (D:2)
+  2 hobgoblins
+12 creatures vanquished.
+
+Vanquished Creatures (others)
+  A wizard (D:3)
+1 creature vanquished.
+
+Grand Total: 113 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Arunloin the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+   208 | D:1      | Reached skill level 1 in Conjurations
+   273 | D:1      | Reached skill level 1 in Fighting
+   330 | D:1      | Reached XP level 2. HP: 21/21 MP: 4/7
+   355 | D:1      | Learned a level 2 spell: Slow
+   358 | D:1      | Learned a level 2 spell: Call Imp
+   361 | D:1      | Learned a level 2 spell: Blink
+   998 | D:1      | Reached skill level 1 in Summonings
+  1078 | D:1      | Reached skill level 1 in Translocations
+  1588 | D:2      | Noticed Sigmund
+  1821 | D:2      | Reached XP level 3. HP: 23/26 MP: 3/8
+  2215 | D:2      | Noticed a centaur
+  2273 | D:3      | Learned a level 3 spell: Conjure Flame
+  2376 | D:3      | Found a glowing golden altar of the Shining One.
+  2707 | D:3      | Reached skill level 1 in Hexes
+  2762 | D:3      | Reached skill level 1 in Maces & Flails
+  2897 | D:3      | Reached XP level 4. HP: 30/33 MP: 6/10
+  3071 | D:3      | Found a bloodstained altar of Trog.
+  3072 | D:3      | Noticed a wizard
+  3077 | D:3      | Killed a wizard
+  3655 | D:4      | Reached skill level 1 in Throwing
+  3768 | D:3      | Reached skill level 1 in Fire Magic
+  4427 | D:4      | Reached XP level 5. HP: 31/38 MP: 7/11
+  4566 | D:4      | Reached skill level 1 in Slings
+  4890 | D:5      | Entered Level 5 of the Dungeon
+  5469 | D:4      | Entered wizard mode.
+  5705 | D:5      | Reached XP level 6. HP: 46/46 MP: 3/13
+  5951 | D:5      | Reached skill level 5 in Spellcasting
+  5969 | D:4      | Reached skill level 1 in Shields
+  6226 | D:5      | Noticed Menkaure
+  6244 | D:5      | Killed Menkaure
+  6244 | D:5      | Reached XP level 7. HP: 54/54 MP: 11/14
+  6708 | D:5      | Found a staircase to the Ecumenical Temple.
+  6731 | Temple   | Entered the Ecumenical Temple
+  6842 | Temple   | Became a worshipper of Kikubaaqudgha
+  7265 | D:6      | Reached skill level 1 in Armour
+  7909 | D:6      | Reached skill level 2 in Conjurations
+  8250 | D:6      | Reached skill level 3 in Conjurations
+  8250 | D:6      | Reached XP level 8. HP: 60/60 MP: 8/15
+  8340 | D:6      | Noticed Pikel
+  8367 | D:5      | Killed Pikel
+  8367 | D:5      | Reached skill level 5 in Conjurations
+  8372 | D:5      | Noticed an elephant
+  8373 | D:5      | Noticed an elephant
+  9140 | D:7      | Reached skill level 6 in Conjurations
+  9455 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Conjurations   |  1                 3  6 |  6.5
+Fighting       |  1     2        4       |  4.0
+Summonings     |     1                   |  1.0
+Translocations |     1                   |  1.0
+Hexes          |        1                |  1.2
+Maces & Flails |        1                |  1.0
+Throwing       |           1             |  1.1
+Fire Magic     |           1             |  1.3
+Slings         |              1  2       |  2.1
+Spellcasting   |                 5       |  5.1
+Shields        |                 2       |  2.1
+Armour         |                    2    |  2.1
+Dodging        |                    2    |  2.0
+Long Blades    |                         |  0.7
+Stealth        |                         |  1.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Whip              |    72 |    50 |  4051 ||  4173
+       Unarmed           |     1 |       |       ||     1
+       Great sword       |       |  4008 |       ||  4008
+       Flail             |       |  4011 |  4072 ||  8083
+ Fire: Hunting sling     |       |    98 |   110 ||   208
+Throw: Stone             |    22 |       |       ||    22
+ Cast: Magic Dart        |    82 |    11 |     2 ||    95
+       Call Imp          |     9 |    15 |    19 ||    43
+       Slow              |       |    14 |    14 ||    28
+       Conjure Flame     |       |     6 |    10 ||    16
+       Blink             |       |       |     3 ||     3
+  Use: Scroll            |     5 |     2 |     3 ||    10
+ Stab: Distracted        |       |     1 |       ||     1
+Armor: Robe              |    11 |       |       ||    11
+       Leather armour    |    19 |  3887 |       ||  3906
+       Ring mail         |       |    10 |  5022 ||  5032
+Dodge: Dodged            |    69 |  5355 |  4432 ||  9856
+Block: Buckler           |       |       |  1674 ||  1674
+Rpst.: Great sword       |       |   586 |       ||   586
+

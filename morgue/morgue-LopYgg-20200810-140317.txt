@@ -1,0 +1,837 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5855504161158955441
+
+782342 Lop Ygg the Ninja (level 27, 249/249 HPs) *WIZ*
+             Began as a Mummy Wizard on Aug 10, 2020.
+             Quit the game on level 27 of a ziggurat.
+             The game lasted 00:13:55 (633 turns).
+
+Lop Ygg the Ninja (Mummy Wizard)                     Turns: 633, Time: 00:13:56
+
+Health: 249/249    AC: 31    Str: 10    XL:     27
+Magic:  41/59      EV: 28    Int: 19    God:    No God 0 (0)
+Gold:   182        SH: 39    Dex: 10    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +   c - +8 autumn katana {slice, Clar}
+rCold    + . .     Gourm    .   l - +15 large shield "Bullseye" {EV-5}
+rNeg     + + +     Faith    .   m - +4 moon troll leather armour {Spirit, Regen++ MP+5}
+rPois    ?          Spirit   +   j - +3 crown of Dyrovepreva {rElec Int+2 SInv}
+rElec    +         Reflect  .   k - +4 dragonskin cloak
+rCorr    .         Harm     .   n - +3 pair of gauntlets of War {Slay+5}
+MR       +++++     Clarity  +   r - +2 pair of boots of the Assassin {Detection Stab+ Stlth++}
+Stlth    ++++++++++             o - amulet of the Four Winds {rN+ MR+++ Clar}
+HPRegen  1.31/turn              p - ring of Phasing {EV+8}
+MPRegen  0.36/turn              q - ring of Shadows {Umbra +Inv Stlth+}
+
+@: wreathed by umbra
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing, in touch with death 2
+}: 2/15 runes: decaying, slimy
+a: Evoke Invisibility
+
+
+You were on level 27 of a ziggurat.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 3 of its levels.
+You visited 1 ziggurat, and saw 27 of its levels.
+
+You collected 182 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ c - the +8 autumn katana (weapon) {slice, Clar}
+   (You found it on level 1 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It protects you against confusion.
+ d - the +6 blowgun of the Assassin {stab, +Inv Stlth++}
+   (You found it on level 1 of the Dungeon)   
+   
+   It lets you turn invisible.
+   It makes you much more stealthy.
+ e - the +? Axe of Woe
+   (You found it on level 1 of the Dungeon)
+ f - the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your AC (+5).
+   It greatly protects you from fire.
+   It greatly protects you from cold.
+   It insulates you from electricity.
+   It affects your resistance to hostile enchantments.
+ g - the +6 Lehudib's crystal spear {Int+3}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your intelligence (+3).
+ h - the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+   (You found it on level 1 of the Dungeon)   
+   
+   It inflicts no extra harm, but heals its wielder when it wounds a living
+   foe.
+   
+   It affects your intelligence (+6).
+   It affects your magic capacity (+6).
+Armour
+ a - a +0 robe
+ b - a +0 hat
+ i - the +27 Lear's hauberk
+   (You found it on level 1 of the Dungeon)
+ j - the +3 crown of Dyrovepreva (worn) {rElec Int+2 SInv}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your intelligence (+2).
+   It insulates you from electricity.
+   It lets you see invisible.
+ k - the +4 dragonskin cloak (worn)
+   (You found it on level 1 of the Dungeon)
+ l - the +15 large shield "Bullseye" (worn) {EV-5}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your evasion (-5).
+ m - the +4 moon troll leather armour (worn) {Spirit, Regen++ MP+5}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your magic capacity (+5).
+   It increases your rate of regeneration.
+ n - the +3 pair of gauntlets of War (worn) {Slay+5}
+   (You found it on level 1 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+5).
+ r - the +2 pair of boots of the Assassin (worn) {Detection Stab+ Stlth++}
+   (You found it on level 1 of the Dungeon)   
+   
+   It makes you much more stealthy.
+Jewellery
+ o - the amulet of the Four Winds (around neck) {rN+ MR+++ Clar}
+   (You found it on level 1 of the Dungeon)   
+   
+   [amulet of nothing]
+   
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It protects you against confusion.
+ p - the ring of Phasing (left hand) {EV+8}
+   (You found it on level 1 of the Dungeon)   
+   
+   [ring of evasion]
+   
+   It affects your evasion (+8).
+ q - the ring of Shadows (right hand) {Umbra +Inv Stlth+}
+   (You found it on level 1 of the Dungeon)   
+   
+   [ring of stealth]
+   
+   It lets you turn invisible.
+   It makes you more stealthy.
+ w - the amulet "Ozoeps" {Faith rPois Int+2, unknown}
+   (You found it on level 6 of a ziggurat)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   It affects your intelligence (+2).
+   It protects you from poison.
+ x - an uncursed ring of poison resistance {unknown}
+ y - a cursed ring of teleportation {unknown}
+ B - the ring "Foxkia Kywuy" {rPois Str+4 Int+4 Stlth+, unknown}
+   (You found it on level 14 of a ziggurat)   
+   
+   [ring of stealth]
+   
+   It affects your strength (+4).
+   It affects your intelligence (+4).
+   It protects you from poison.
+   It makes you more stealthy.
+ E - the amulet "Wegil" {Gourm +Blink rN+ Slay+3, unknown}
+   (You found it on level 20 of a ziggurat)   
+   
+   [amulet of the gourmand]
+   
+   It allows you to eat raw meat even when not hungry.
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It protects you from negative energy.
+   It lets you blink.
+Wands
+ t - a wand of iceblast (8)
+Scrolls
+ s - 4 scrolls of identify {unknown}
+ u - a scroll of immolation {unknown}
+ v - 5 scrolls of remove curse
+ z - 2 scrolls of magic mapping {unknown}
+ A - 2 scrolls of holy word {unknown}
+ C - 5 scrolls of teleportation {unknown}
+ D - 3 scrolls of fog {unknown}
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      0%          1    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    N/A
+ Apportation              Tloc           50 (50)      0%          1    N/A
+ Confusing Touch          Hex            50 (50)      0%          1    N/A
+ Shock                    Conj/Air       25 (25)      0%          1    N/A
+ Summon Small Mammal      Summ           25 (25)      0%          1    N/A
+ Blink                    Tloc           N/A          0%          2    N/A
+ Call Imp                 Summ           91 (100)     0%          2    N/A
+ Corpse Rot               Necr           N/A          0%          2    N/A
+ Passwall                 Tmut/Erth      91 (120)     0%          2    N/A
+ Slow                     Hex            91 (100)     0%          2    N/A
+ Sticks to Snakes         Tmut           91 (100)     0%          2    N/A
+ Swiftness                Chrm/Air       91 (100)     0%          2    N/A
+ Conjure Flame            Conj/Fire      91 (100)     0%          3    N/A
+ Mephitic Cloud           Conj/Pois/Air  91 (100)     0%          3    N/A
+ Static Discharge         Conj/Air       91 (100)     0%          3    N/A
+ Stone Arrow              Conj/Erth      50 (50)      0%          3    N/A
+ Airstrike                Air            91 (200)     0%          4    N/A
+ Passage of Golubria      Tloc           N/A          0%          4    N/A
+ Bolt of Magma            Conj/Fire/Erth 91 (200)     0%          5    N/A
+ Iskenderun's Battlesphe  Conj/Chrm      91 (100)     0%          5    N/A
+ Lee's Rapid Deconstruct  Erth           91 (200)     0%          5    N/A
+ Metabolic Englaciation   Hex/Ice        91 (200)     0%          5    N/A
+ Silence                  Hex/Air        91 (200)     0%          5    N/A
+ Venom Bolt               Conj/Pois      91 (200)     0%          5    N/A
+ Darkness                 Hex            91 (200)     0%          6    N/A
+ Death Channel            Necr           137 (200)    0%          6    N/A
+ Deflect Missiles         Chrm/Air       91 (200)     0%          6    N/A
+ Invisibility             Hex            91 (100)     0%          6    N/A
+ Iron Shot                Conj/Erth      91 (200)     0%          6    N/A
+ Orb of Destruction       Conj           91 (200)     1%          7    N/A
+ Spellforged Servitor     Conj/Summ      91 (200)     1%          7    N/A
+ Beastly Appendage        Tmut           Unusable     N/A         1    N/A
+ Spider Form              Tmut/Pois      Unusable     N/A         3    N/A
+ Ice Form                 Ice/Tmut       Unusable     N/A         4    N/A
+ Dragon Form              Tmut           Unusable     N/A         7    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+You are strongly in touch with the powers of death.
+
+
+Message History
+
+Mapping level.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 63 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found thirty-two items.
+Found two gates leading back out of this place.
+Found a stone staircase leading down.
+There is an empty arch of ancient stone here.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 84 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found thirty-nine items.
+Found two gates leading back out of this place.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###############
+#.............##
+...............##
+................##
+.................##
+.................$##
+.................![##
+................::)!##
+................!)}?|##
+................}[|=?\##
+................)))||@}#
+................?")}?\##
+................=}))|##
+.................[:?##
+.................:|##
+.................%##
+.................##
+................##
+...............##
+#.............##
+###############
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  17 ancient liches
+  5 greater mummies
+  3 Killer Klowns (Zig:17)
+  2 shard shrikes (Zig:22)
+  3 caustic shrikes (Zig:20)
+  4 golden dragons
+  A profane servitor (Zig:11)
+  A bone dragon (Zig:11)
+  4 Brimstone Fiends
+  4 iron giants (Zig:20)
+  2 Hell Sentinels (Zig:20)
+  11 acid blobs
+  7 deep elf master archers
+  An Ice Fiend (Zig:22)
+  2 liches (Zig:18)
+  8 pandemonium lords
+  12 titans
+  A quicksilver dragon (Zig:5)
+  7 deep elf blademasters
+  An Executioner (Zig:17)
+  A quicksilver dragon (shapeshifter) (Zig:17)
+  4 sphinxes (Zig:25)
+  2 tentacled starspawn (Zig:11)
+  A tengu reaver (Zig:18)
+  A shadow dragon (shapeshifter) (Zig:17)
+  A storm dragon (Zig:5)
+  5 nagarajas
+  7 azure jellies
+  4 draconian monks
+  A fire giant (shapeshifter) (Zig:17)
+  A warmonger (Zig:10)
+  2 fire giants
+  8 draconian knights
+  10 draconian scorchers
+  2 iron dragons (Zig:20)
+  6 ghost moths
+  2 balrugs
+  3 emperor scorpions (Zig:15)
+  A juggernaut zombie (Zig:22)
+  6 vault wardens
+  10 draconian annihilators
+  5 draconian shifters
+  An angel (Zig:10)
+  4 draconian stormcallers (Zig:21)
+  A caustic shrike zombie (Zig:14)
+  4 reapers (Zig:22)
+  5 ironheart preservers
+  5 very ugly things
+  5 stone giants
+  4 war gargoyles (Zig:20)
+  2 corrupters (Zig:10)
+  2 entropy weavers
+  9 deep elf demonologists
+  2 juggernaut skeletons (Zig:22)
+  4 bennus
+  3 black draconians
+  6 green draconians
+  A black sun (Zig:10)
+  2 white draconians (Zig:21)
+  16 deep elf annihilators
+  6 yellow draconians
+  3 red draconians
+  4 purple draconians
+  A dire elephant (Zig:3)
+  7 blizzard demons (Zig:22)
+  4 crystal guardians (Zig:20)
+  2 fire dragons (Zig:25)
+  2 death oozes (Zig:19)
+  A green death (Zig:10)
+  A merfolk javelineer (Zig:15)
+  2 ettins
+  11 deep elf high priests
+  7 mummy priests
+  5 great orbs of eyes
+  A hell beast (Zig:10)
+  4 yaktaur captains
+  4 ice dragons (Zig:22)
+  2 hydras
+  A death knight (Zig:8)
+  7 merfolk aquamancers
+  An alligator snapping turtle (shapeshifter) (Zig:17)
+  An anaconda (shapeshifter) (Zig:17)
+  An alligator snapping turtle (Zig:15)
+  3 ogre magi
+  2 two-headed ogres (shapeshifter) (Zig:25)
+  An alligator (Zig:15)
+  5 death scarabs
+  2 thrashing horrors (Zig:11)
+  A titan zombie (Zig:14)
+  5 dancing weapons
+  An orc high priest (Zig:24)
+  7 iron golems (Zig:20)
+  A wretched star (Zig:11)
+  10 deep elf knights
+  A fire crab (shapeshifter) (Zig:24)
+  2 golden dragon zombies
+  A spark wasp zombie (Zig:14)
+  3 skeletal warriors (Zig:22)
+  4 death drakes (Zig:5)
+  A deep troll (Zig:25)
+  2 salamander mystics (Zig:18)
+  A glowing orange brain (Zig:11)
+  A storm dragon skeleton (Zig:22)
+  A swamp dragon (shapeshifter) (Zig:17)
+  2 wizards (Zig:18)
+  3 swamp dragons (Zig:15)
+  4 tengu zombies
+  A lindwurm (shapeshifter) (Zig:17)
+  11 deep elf archers
+  7 ironbrand convokers
+  2 orc knights
+  5 sphinx zombies
+  An iron dragon zombie (Zig:22)
+  2 orc sorcerers (Zig:18)
+  3 ugly things (Zig:17)
+  4 necromancers
+  A wolf spider (Zig:25)
+  A tengu skeleton (Zig:22)
+  4 shining eyes
+  A faun (shapeshifter) (Zig:23)
+  2 wolf spiders (shapeshifter)
+  A manticore (Zig:15)
+  27 deep elf magi
+  A manticore (shapeshifter) (Zig:23)
+  2 large abominations (Zig:11)
+  3 moths of wrath (Zig:15)
+  A cyclops (shapeshifter) (Zig:23)
+  2 guardian serpents
+  An apocalypse crab (Zig:17)
+  2 vault sentinels
+  2 frost giant skeletons
+  A spriggan zombie (Zig:22)
+  A torpor snail (shapeshifter) (Zig:8)
+  A water nymph (shapeshifter) (Zig:23)
+  An orange demon (Zig:10)
+  A fire giant skeleton (Zig:12)
+  A spiny frog (Zig:15)
+  6 torpor snails (Zig:20)
+  A guardian serpent (shapeshifter) (Zig:25)
+  7 gargoyles (Zig:20)
+  3 eyes of devastation
+  2 elf skeletons
+  A spriggan skeleton (Zig:22)
+  4 ice devils
+  A yaktaur (Zig:25)
+  7 freezing wraiths
+  A komodo dragon (shapeshifter) (Zig:17)
+  2 tormentors
+  A rime drake (Zig:5)
+  An ancient zyme (Zig:11)
+  An efreet (Zig:1)
+  14 guardian mummies
+  A komodo dragon (Zig:3)
+  A merfolk (Zig:15)
+  2 jumping spiders (Zig:15)
+  A merfolk (shapeshifter) (Zig:23)
+  A blink frog (Zig:11)
+  An ice dragon zombie (Zig:2)
+  25 slime creatures
+  A snapping turtle (shapeshifter) (Zig:23)
+  A hippogriff (shapeshifter) (Zig:8)
+  An elf zombie (Zig:22)
+  A slime creature (shapeshifter) (Zig:8)
+  A dream sheep (shapeshifter) (Zig:25)
+  6 flying skulls
+  2 redbacks (shapeshifter) (Zig:25)
+  6 air elementals
+  2 tarantellas (shapeshifter)
+  A redback (Zig:15)
+  A shadow (Zig:15)
+  2 water elementals
+  A basilisk (Zig:11)
+  A ynoxinul (Zig:11)
+  7 fire elementals
+  4 ushabtiu
+  5 chaos spawn
+  A golden eye (Zig:19)
+  A neqoxec (Zig:11)
+  A naga (Zig:15)
+  A water moccasin (Zig:3)
+  A hell hound (Zig:1)
+  4 floating eyes
+  2 ice beasts (Zig:22)
+  A swamp drake (Zig:15)
+  8 eyes of draining
+  3 small abominations (Zig:11)
+  A glowing shapeshifter simulacrum (Zig:11)
+  8 earth elementals
+  36 mummies
+  6 white imps (Zig:22)
+  A starspawn tentacle (Zig:11)
+692 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Lop Ygg the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 19/19 MP: 7/7
+     0 | D:1      | Reached XP level 3. HP: 24/24 MP: 8/8
+     0 | D:1      | Reached XP level 4. HP: 30/30 MP: 10/10
+     0 | D:1      | Reached XP level 5. HP: 35/35 MP: 11/11
+     0 | D:1      | Reached XP level 6. HP: 41/41 MP: 12/12
+     0 | D:1      | Reached XP level 7. HP: 46/46 MP: 13/13
+     0 | D:1      | Reached XP level 8. HP: 52/52 MP: 14/14
+     0 | D:1      | Reached XP level 9. HP: 57/57 MP: 15/15
+     0 | D:1      | Reached XP level 10. HP: 63/63 MP: 16/16
+     0 | D:1      | Reached XP level 11. HP: 68/68 MP: 17/17
+     0 | D:1      | Reached XP level 12. HP: 74/74 MP: 18/18
+     0 | D:1      | Gained mutation: You are in touch with the powers of death.
+                  | [Mummy growth]
+     0 | D:1      | Reached XP level 13. HP: 79/79 MP: 19/19
+     0 | D:1      | Reached XP level 14. HP: 85/85 MP: 20/20
+     0 | D:1      | Reached XP level 15. HP: 90/90 MP: 21/21
+     0 | D:1      | Reached XP level 16. HP: 96/96 MP: 22/22
+     0 | D:1      | Reached XP level 17. HP: 101/101 MP: 23/23
+     0 | D:1      | Reached XP level 18. HP: 107/107 MP: 24/24
+     0 | D:1      | Reached XP level 19. HP: 112/112 MP: 25/25
+     0 | D:1      | Reached XP level 20. HP: 118/118 MP: 26/26
+     0 | D:1      | Reached XP level 21. HP: 123/123 MP: 27/27
+     0 | D:1      | Reached XP level 22. HP: 129/129 MP: 28/28
+     0 | D:1      | Reached XP level 23. HP: 134/134 MP: 29/29
+     0 | D:1      | Reached XP level 24. HP: 140/140 MP: 29/29
+     0 | D:1      | Reached XP level 25. HP: 145/145 MP: 29/29
+     0 | D:1      | Gained mutation: You are strongly in touch with the powers
+                  | of death. [Mummy growth]
+     0 | D:1      | Reached XP level 26. HP: 151/151 MP: 29/29
+     0 | D:1      | Reached XP level 27. HP: 156/156 MP: 29/29
+     0 | D:1      | Became a worshipper of Ashenzari the Shackled
+     3 | D:1      | Fell from the grace of Ashenzari
+     4 | D:1      | Found the +6 sword of Cerebov {flame}
+     4 | D:1      | Found the +4 staff of Dispater
+     4 | D:1      | Found the +7 sceptre of Asmodeus
+     4 | D:1      | Found the +2 faerie dragon scales {rF+ rCorr}
+     4 | D:1      | Found the +4 dragonskin cloak
+     4 | D:1      | Found the ring of the Octopus King {AC+1 EV+1 Str+1 Int+1
+                  | Dex+1 SInv}
+     4 | D:1      | Found the ring of the Octopus King {Wiz AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {rN+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {AC+1 EV+1 Str+1 Int+1
+                  | Dex+1 Stlth+}
+     4 | D:1      | Found the ring of the Octopus King {rF+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {MP+9 AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {rC+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {rCorr AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the +8 demon trident "Rift" {distort, reach+}
+     4 | D:1      | Found the +2 Maxwell's thermic engine {flame, freeze}
+     4 | D:1      | Found the amulet of invisibility {+Inv}
+     4 | D:1      | Found the +3 warlock's mirror {reflect}
+     4 | D:1      | Found the +12 armour of Talos {ponderous, rF+}
+     4 | D:1      | Found the +8 frozen axe "Frostbite" {freezing cloud, *Noise
+                  | +Fly rC+}
+     4 | D:1      | Found the +7 Kryia's mail coat {PotionHeal*2 rC+}
+     4 | D:1      | Found the +2 robe of Vines {NoPotionHeal Regen+7}
+     4 | D:1      | Found the cursed +3 crown of Eternal Torment {rTorment HP--
+                  | rN+++ SInv *Curse}
+     4 | D:1      | Found the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec
+                  | MP+4}
+     4 | D:1      | Found the +5 pair of quick blades "Gyre" and "Gimble"
+                  | {pierce, Dex-3}
+     4 | D:1      | Found the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+     4 | D:1      | Found the +8 orange crystal plate armour {Archmagi, Int+3
+                  | Clar}
+     4 | D:1      | Found the +7 great mace "Firestarter" {inner flame, rF++}
+     4 | D:1      | Found the +7 lajatang of Order {silver, rMut}
+     4 | D:1      | Found the +5 demon whip "Spellbinder" {antimagic, MR+}
+     4 | D:1      | Found the +8 arc blade {discharge, rElec}
+     4 | D:1      | Found the +2 hat of the High Council {Archmagi, Wiz-
+                  | Stlth-}
+     4 | D:1      | Found the +10 dark maul {crush}
+     4 | D:1      | Found the +3 pair of boots of the spider {obsolete, Stlth+}
+     4 | D:1      | Found the macabre finger necklace {rN+}
+     4 | D:1      | Found the +4 moon troll leather armour {Spirit, Regen++
+                  | MP+5}
+     4 | D:1      | Found the +? Axe of Woe
+     4 | D:1      | Found the ring of the Octopus King {rCorr AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {rC+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {MP+9 AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {rF+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {AC+1 EV+1 Str+1 Int+1
+                  | Dex+1 Stlth+}
+     4 | D:1      | Found the ring of the Octopus King {rN+ AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {Wiz AC+1 EV+1 Str+1
+                  | Int+1 Dex+1}
+     4 | D:1      | Found the ring of the Octopus King {AC+1 EV+1 Str+1 Int+1
+                  | Dex+1 SInv}
+     4 | D:1      | Found the +4 dragonskin cloak
+     4 | D:1      | Found the +6 shillelagh "Devastator" {shatter}
+     4 | D:1      | Found the +8 autumn katana {slice, Clar}
+     4 | D:1      | Found the amulet of Vitality {Regen+ HP+15}
+     4 | D:1      | Found the +10 Black Knight's horse barding {ponderous,
+                  | rPois rN+}
+     4 | D:1      | Found the +6 lightning scales {run, rElec}
+     4 | D:1      | Found the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+     4 | D:1      | Found the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+     4 | D:1      | Found the +3 robe of Clouds {+Thunder rCloud rElec}
+     4 | D:1      | Found the brooch of Shielding {Reflect SH+8}
+     4 | D:1      | Found the ring of the Mage {Wiz MR++ Int+3}
+     4 | D:1      | Found the ring of Robustness {AC+8}
+     4 | D:1      | Found the ring of Phasing {EV+8}
+     4 | D:1      | Found the cursed necklace of Bloodlust {*Rage +Rage MR++
+                  | Int-3 Slay+6 *Curse}
+     4 | D:1      | Found the amulet of the Four Winds {rN+ MR+++ Clar}
+     4 | D:1      | Found the amulet of Cekugob {Acrobat -Tele rElec rPois rN++
+                  | AC+1 EV+1}
+     4 | D:1      | Found the ring of Shadows {Umbra +Inv Stlth+}
+     4 | D:1      | Found the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+     4 | D:1      | Found the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+     4 | D:1      | Found the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1
+                  | Dex+1}
+     4 | D:1      | Found the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--}
+     4 | D:1      | Found the +0 pair of fencer's gloves {Riposte Dex+3}
+     4 | D:1      | Found the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+
+                  | MR+ rMut rCorr}
+     4 | D:1      | Found the +9 scales of the Dragon King {rPois rF+ rC+ MR+}
+     4 | D:1      | Found the +5 robe of Night {Dark MR+ SInv}
+     4 | D:1      | Found the +0 mask of the Dragon {MR+ Slay+3 SInv}
+     4 | D:1      | Found the +15 Maxwell's patent armour {-Cast -Tele rElec
+                  | MR+ rCorr}
+     4 | D:1      | Found the +3 robe of Folly {Archmagi, MR-- Int+5}
+     4 | D:1      | Found the +2 shield of Resistance {rF+ rC+ MR+}
+     4 | D:1      | Found the +3 pair of gauntlets of War {Slay+5}
+     4 | D:1      | Found the +3 salamander hide armour {+Rage rF++}
+     4 | D:1      | Found the +4 skin of Zhor {Hibernate rC+++ SInv}
+     4 | D:1      | Found the +27 Lear's hauberk
+     4 | D:1      | Found the +2 pair of boots of the Assassin {Detection Stab+
+                  | Stlth++}
+     4 | D:1      | Found the +3 cloak of Flash {+Fly EV+4}
+     4 | D:1      | Found the +5 robe of Misfortune {*Contam Harm *Corrode
+                  | *Drain *Slow EV+5}
+     4 | D:1      | Found the +2 hat of the Bear Spirit {Spirit, +Rage rN+
+                  | MR++}
+     4 | D:1      | Found the +3 crown of Dyrovepreva {rElec Int+2 SInv}
+     4 | D:1      | Found the +15 large shield "Bullseye" {EV-5}
+     4 | D:1      | Found the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+     4 | D:1      | Found the +4 robe of Augmentation {Str+4 Int+4 Dex+4}
+     4 | D:1      | Found the +10 large shield of Ignorance {rN+ Int-4}
+     4 | D:1      | Found the +8 storm bow {elec}
+     4 | D:1      | Found the +7 captain's cutlass {speed, disarm}
+     4 | D:1      | Found the +6 Lehudib's crystal spear {Int+3}
+     4 | D:1      | Found the +27 knife of Accuracy
+     4 | D:1      | Found the +8 whip "Snakebite" {curare, rPois}
+     4 | D:1      | Found the +7 great mace "Undeadhunter" {disrupt, rN+}
+     4 | D:1      | Found the +11 plutonium sword {*Contam Stlth-}
+     4 | D:1      | Found the +7 Spriggan's Knife {stab, EV+4 Stlth+}
+     4 | D:1      | Found the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+
+                  | AC+3}
+     4 | D:1      | Found the +6 blowgun of the Assassin {stab, +Inv Stlth++}
+     4 | D:1      | Found the +7 longbow "Piercer" {penet, EV-2}
+     4 | D:1      | Found the +9 heavy crossbow "Sniper" {velocity, Acc+? SInv}
+     4 | D:1      | Found the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5}
+     4 | D:1      | Found the +8 mithril axe "Arga" {speed, MR+}
+     4 | D:1      | Found the +8 trident of the Octopus King {venom, rElec
+                  | rPois MR+}
+     4 | D:1      | Found the +6 spear of the Botono {reap, Hex rPois rN+ HP-6}
+     4 | D:1      | Found the +10 morningstar "Eos" {elec, Halo rElec}
+     4 | D:1      | Found the +13 sword of the Doom Knight {pain, -Cast MR+}
+     4 | D:1      | Found the +6 arbalest "Damnation" {damnation}
+     4 | D:1      | Found the +10 zealot's sword {holy, *Rage rN+ EV+3}
+     4 | D:1      | Found the +8 glaive of the Guard {elec, +Rage AC+5 SInv}
+     4 | D:1      | Found the +3 giant club "Skullcrusher" {speed, Str+7}
+     4 | D:1      | Found the +8 longbow "Zephyr" {speed, Dex+3 SInv}
+     4 | D:1      | Found the +3 sling "Punk" {acid, rCorr}
+     4 | D:1      | Found the +5 scythe "Finisher" {speed, eviscerate}
+     4 | D:1      | Found the +4 dagger "Morg" {pain, MR+ Int+5}
+     4 | D:1      | Found the +9 dagger of Chilly Death {flash freeze, rPois
+                  | rF- rC++ MR+}
+     4 | D:1      | Found the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3}
+     4 | D:1      | Found the +1 eveningstar "Brilliance" {holy, rN+ AC+5
+                  | Int+5}
+     4 | D:1      | Found the +6 scimitar of Flaming Death {sticky flame, rPois
+                  | rF++ rC- MR+}
+     4 | D:1      | Found the +8 demon blade "Bloodbane" {slice, *Rage +Rage
+                  | Stlth-}
+     4 | D:1      | Found the +2 faerie dragon scales {rF+ rCorr}
+     4 | D:1      | Found the +7 sceptre of Asmodeus
+     4 | D:1      | Found the +4 staff of Dispater
+     4 | D:1      | Found the +6 sword of Cerebov {flame}
+     4 | D:1      | Found the +9 sword of Zonguldrok {reap}
+     4 | D:1      | Found the +7 sceptre of Torment {pain, torment}
+     4 | D:1      | Found the cursed +13 scythe of Curses {drain, *Curse}
+     4 | D:1      | Found the +12 Vampire's Tooth {vamp}
+     4 | D:1      | Found the +9 staff of Wucad Mu {channel}
+     4 | D:1      | Found the +9 staff of Olgreb {rPois}
+     4 | D:1      | Found the +0 sword of Power
+     4 | D:1      | Found the +12 glaive of Prune {chop}
+     4 | D:1      | Found the +7 mace of Variability {chain chaos}
+     4 | D:1      | Found the +8 Wrath of Trog {antimagic, *Rage}
+     4 | D:1      | Found the +7 Singing Sword {slice, sonic wave}
+    52 | Swamp:4  | Entered Level 4 of the Swamp
+    52 | Swamp:4  | Got a decaying rune of Zot
+    53 | Slime:5  | Entered Level 5 of the Pits of Slime
+    53 | Slime:5  | Got a slimy rune of Zot
+    55 | Zig:1    | Entered Level 1 of a ziggurat
+    67 | Zig:2    | Entered Level 2 of a ziggurat
+    81 | Zig:3    | Entered Level 3 of a ziggurat
+    93 | Zig:4    | Entered Level 4 of a ziggurat
+   106 | Zig:5    | Entered Level 5 of a ziggurat
+   120 | Zig:6    | Entered Level 6 of a ziggurat
+   139 | Zig:6    | Got a glittering amethyst amulet
+   144 | Zig:7    | Entered Level 7 of a ziggurat
+   161 | Zig:8    | Entered Level 8 of a ziggurat
+   178 | Zig:9    | Entered Level 9 of a ziggurat
+   199 | Zig:10   | Entered Level 10 of a ziggurat
+   208 | Zig:10   | Noticed Gihiv the pandemonium lord
+   212 | Zig:10   | Killed Gihiv the pandemonium lord
+   219 | Zig:11   | Entered Level 11 of a ziggurat
+   240 | Zig:12   | Entered Level 12 of a ziggurat
+   246 | Zig:12   | Noticed a greater mummy
+   247 | Zig:12   | Noticed a greater mummy
+   252 | Zig:12   | Killed a greater mummy
+   252 | Zig:12   | Killed a greater mummy
+   264 | Zig:13   | Entered Level 13 of a ziggurat
+   289 | Zig:14   | Entered Level 14 of a ziggurat
+   297 | Zig:14   | Noticed a greater mummy
+   298 | Zig:14   | Noticed a greater mummy
+   299 | Zig:14   | Noticed a greater mummy
+   302 | Zig:14   | Killed a greater mummy
+   302 | Zig:14   | Killed a greater mummy
+   302 | Zig:14   | Killed a greater mummy
+   311 | Zig:14   | Got a heavily runed wooden ring
+   314 | Zig:15   | Entered Level 15 of a ziggurat
+   335 | Zig:15   | Identified the Disquisition on the Arsonist
+   338 | Zig:16   | Entered Level 16 of a ziggurat
+   361 | Zig:17   | Entered Level 17 of a ziggurat
+   366 | Zig:17   | Noticed Asouxuab the pandemonium lord
+   367 | Zig:17   | Noticed Xuoruaha the pandemonium lord
+   368 | Zig:17   | Noticed Hyh Dexoin the pandemonium lord
+   368 | Zig:17   | Noticed Neleth the pandemonium lord
+   369 | Zig:17   | Killed Asouxuab the pandemonium lord
+   369 | Zig:17   | Killed Xuoruaha the pandemonium lord
+   369 | Zig:17   | Killed Neleth the pandemonium lord
+   370 | Zig:17   | Noticed Qaime the pandemonium lord
+   371 | Zig:17   | Noticed Fagriun the pandemonium lord
+   371 | Zig:17   | Killed Qaime the pandemonium lord
+   371 | Zig:17   | Killed Hyh Dexoin the pandemonium lord
+   371 | Zig:17   | Killed Fagriun the pandemonium lord
+   372 | Zig:17   | Noticed Sumoj the pandemonium lord
+   374 | Zig:17   | Paralysed by a floating eye for 4 turns
+   378 | Zig:17   | Killed Sumoj the pandemonium lord
+   390 | Zig:18   | Entered Level 18 of a ziggurat
+   398 | Zig:18   | Noticed an ancient lich
+   400 | Zig:18   | Killed an ancient lich
+   413 | Zig:18   | Identified the Almanac of Ashen Transmigration
+   415 | Zig:18   | Identified the Catalogue of Mutagenic Darkness
+   418 | Zig:19   | Entered Level 19 of a ziggurat
+   434 | Zig:19   | Was forgiven by Ashenzari
+   443 | Zig:20   | Entered Level 20 of a ziggurat
+   470 | Zig:20   | Got a heavily runed iron amulet
+   472 | Zig:21   | Entered Level 21 of a ziggurat
+   500 | Zig:22   | Entered Level 22 of a ziggurat
+   531 | Zig:23   | Entered Level 23 of a ziggurat
+   545 | Zig:23   | Noticed an ancient lich
+   545 | Zig:23   | Noticed an ancient lich
+   546 | Zig:23   | Noticed an ancient lich
+   547 | Zig:23   | Noticed an ancient lich
+   549 | Zig:23   | Killed an ancient lich
+   549 | Zig:23   | Killed an ancient lich
+   549 | Zig:23   | Killed an ancient lich
+   549 | Zig:23   | Killed an ancient lich
+   550 | Zig:23   | Noticed an ancient lich
+   551 | Zig:23   | Noticed an ancient lich
+   551 | Zig:23   | Noticed an ancient lich
+   555 | Zig:23   | Killed an ancient lich
+   555 | Zig:23   | Killed an ancient lich
+   555 | Zig:23   | Killed an ancient lich
+   559 | Zig:23   | Identified the Disquisition on Air
+   563 | Zig:24   | Entered Level 24 of a ziggurat
+   596 | Zig:25   | Entered Level 25 of a ziggurat
+   605 | Zig:25   | Noticed an ancient lich
+   605 | Zig:25   | Noticed an ancient lich
+   606 | Zig:25   | Noticed an ancient lich
+   607 | Zig:25   | Killed an ancient lich
+   607 | Zig:25   | Killed an ancient lich
+   607 | Zig:25   | Killed an ancient lich
+   607 | Zig:25   | Noticed an ancient lich
+   608 | Zig:25   | Noticed an ancient lich
+   609 | Zig:25   | Noticed an ancient lich
+   610 | Zig:25   | Noticed an ancient lich
+   610 | Zig:25   | Killed an ancient lich
+   610 | Zig:25   | Killed an ancient lich
+   610 | Zig:25   | Killed an ancient lich
+   610 | Zig:25   | Killed an ancient lich
+   610 | Zig:25   | Noticed an ancient lich
+   611 | Zig:25   | Noticed an ancient lich
+   615 | Zig:25   | Killed an ancient lich
+   615 | Zig:25   | Killed an ancient lich
+   626 | Zig:25   | Identified the Grimoire of the Evil Snowflakes
+   630 | Zig:26   | Entered Level 26 of a ziggurat
+   632 | Zig:27   | Entered Level 27 of a ziggurat
+   633 | Zig:27   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Katana            |       |       |       |       |       |       |       |       |    21 ||    21
+Invok: Renounce Religion |       |       |       |       |       |       |       |       |     1 ||     1
+Evoke: Figurine of a zig |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Troll leather arm |       |       |       |       |       |       |       |       |    13 ||    13
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    24 ||    24
+Block: Large shield      |       |       |       |       |       |       |       |       |    65 ||    65
+Rpst.: Katana            |       |       |       |       |       |       |       |       |     4 ||     4
+

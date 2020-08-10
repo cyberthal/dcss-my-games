@@ -1,0 +1,146 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2117960709651069291
+
+0 Xoisch the Magician (level 1, 13/13 HPs) *WIZ*
+             Began as a Mummy Wizard on Aug 10, 2020.
+             Quit the game on level 4 of the Dungeon.
+             The game lasted 00:02:50 (0 turns).
+
+Xoisch the Magician (Mummy Wizard)                     Turns: 0, Time: 00:02:50
+
+Health: 13/13      AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  5/5        EV: 12    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 7/8 levels left
+
+rFire    x . .     SeeInvis .   (no weapon)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 1.5 Stealth
+ + Level 4.0 Spellcasting
+ + Level 0.7 Conjurations
+   Level 0.7 Summonings
+   Level 0.7 Translocations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           5 (25)       12%         1    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          19%         2    N/A
+ Call Imp                 Summ           5 (100)      19%         2    N/A
+ Slow                     Hex            3 (100)      24%         2    N/A
+ Conjure Flame            Conj/Fire      4 (100)      38%         3    N/A
+ Mephitic Cloud           Conj/Pois/Air  4 (100)      41%         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+Annotations:
+D:3 Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Detected 31 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Regenerating level.
+A jackal comes into view.
+The jackal barks!
+A jackal comes into view.
+The jackal barks!
+Found a stone staircase leading up.
+2 jackals come into view.
+Enter Wizard Command (? - help): 
+Detected 13 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+A ball python skeleton comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a ball python skeleton (hasn't noticed you)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    #....#
+    #....+
+    #....#
+    #....#
+    #....#
+#+###....##
+#.........#
+    #.Z@.#
+    #....#
+    #....#
+    +....#
+    #....#
+    #....#
+    #....#
+    #....#
+
+
+You could see a ball python skeleton (wandering).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xoisch the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:3      | Noticed an orc priest
+     0 | D:3      | Noticed Grinder
+     0 | D:4      | Quit the game
+
