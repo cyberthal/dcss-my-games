@@ -1,0 +1,583 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4800614600705058365
+
+592895 Ifuu the Slayer (level 27, 201/237 HPs) *WIZ*
+             Began as a Barachi Summoner on Aug 12, 2020.
+             Was a High Priest of Ru.
+             Quit the game on level 21 of a ziggurat on Aug 13, 2020.
+             The game lasted 00:26:47 (303 turns).
+
+Ifuu the Slayer (Barachi Summoner)                   Turns: 303, Time: 00:26:48
+
+Health: 201/237    AC: 35    Str:  9    XL:     27
+Magic:  33/41      EV:  4    Int: 22    God:    Ru 143 (0)
+Gold:   0          SH: 23    Dex: 19    Spells: 64/65 levels left
+
+rFire    + + .     SeeInvis +   A - +2 dagger (protect) (curse)
+rCold    . . .     Gourm    +   k - +3 large shield of Beauty {rElec} (curse)
+rNeg     + . .     Faith    .   e - +0 crystal plate armour (curse)
+rPois    +         Spirit   .   d - +3 crown of Dyrovepreva {rElec Int+2 SInv} (curse)
+rElec    +         Reflect  .   p - scarf {rC+ rF+} (curse)
+rCorr    .         Harm     .   n - +2 pair of gloves {Str+3} (curse)
+MR       ++...                  m - +0 pair of boots {run} (curse)
+Stlth    ..........             r - amulet "Nakkaeng" {Gourm rPois rN+} (curse)
+HPRegen  0.49/turn              u - ring "Acudus" {Fire +Blink rPois} (curse)
+MPRegen  0.27/turn              v - ring "Buzoj" {Str-3 Int+5 Dex+7} (curse)
+
+@: exhausted, slowed, very slow
+A: +LOS, swims, horns 1, low mp 1, slowness 1, no stealth, unskilled 1, missing
+an eye, strong legs 2
+}: 2/15 runes: slimy, silver
+a: Hop, Draw Out Power, Power Leap, Apocalypse, Renounce Religion, Evoke Blink
+
+
+You were on level 21 of a ziggurat.
+You worshipped Ru.
+Ru was extremely pleased with you.
+You were completely stuffed.
+
+You visited 3 branches of the dungeon, and saw 3 of its levels.
+You visited 1 ziggurat, and saw 21 of its levels.
+
+Inventory:
+
+Hand Weapons
+ A - a cursed +2 dagger of protection (weapon)
+Armour
+ a - a +0 robe
+ d - the cursed +3 crown of Dyrovepreva (worn) {rElec Int+2 SInv}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your intelligence (+2).
+   It insulates you from electricity.
+   It lets you see invisible.
+   It has a curse placed upon it.
+ e - a cursed +0 crystal plate armour (worn)
+ f - a cursed +0 hat of magic resistance
+ g - a cursed +0 hat
+ h - the cursed +2 hat of Incorporation {Dex+4}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your dexterity (+4).
+   It has a curse placed upon it.
+ i - the cursed +0 hat of the Slorg {rN+ MR+ Slay+3}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It has a curse placed upon it.
+ j - a cursed +0 helmet of intelligence
+ k - the cursed +3 large shield of Beauty (worn) {rElec}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It insulates you from electricity.
+   It has a curse placed upon it.
+ l - the cursed +5 large shield of Oturudaw {*Drain +Blink Str+3}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your strength (+3).
+   It lets you blink.
+   It causes draining when unequipped.
+   It has a curse placed upon it.
+ m - a cursed +0 pair of boots of running (worn)
+ n - a cursed +2 pair of gloves of strength (worn)
+ o - a cursed +0 pair of gloves of dexterity
+ p - a cursed scarf of resistance (worn)
+ q - the cursed +0 shield of the Harvest {*Drain Dex+5}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It affects your dexterity (+5).
+   It causes draining when unequipped.
+   It has a curse placed upon it.
+Jewellery
+ r - the cursed amulet "Nakkaeng" (around neck) {Gourm rPois rN+}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of the gourmand]
+   
+   It allows you to eat raw meat even when not hungry.
+   It protects you from poison.
+   It protects you from negative energy.
+   It has a curse placed upon it.
+ s - the cursed amulet "Ysamp" {RegenMP *Contam +Inv rElec Str+7}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of magic regeneration]
+   
+   It increases your magic regeneration.
+   It affects your strength (+7).
+   It insulates you from electricity.
+   It lets you turn invisible.
+   It causes magical contamination when unequipped.
+   It has a curse placed upon it.
+ t - the cursed amulet of Ru's Whim {Faith -Tele rPois rC+ SInv}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   It protects you from cold.
+   It protects you from poison.
+   It lets you see invisible.
+   It prevents most forms of teleportation.
+   It has a curse placed upon it.
+ u - the cursed ring "Acudus" (left hand) {Fire +Blink rPois}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   It protects you from fire.
+   It makes you vulnerable to cold.
+   It protects you from poison.
+   It lets you blink.
+   It has a curse placed upon it.
+ v - the cursed ring "Buzoj" (right hand) {Str-3 Int+5 Dex+7}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of intelligence]
+   
+   It affects your strength (-3).
+   It affects your intelligence (+5).
+   It affects your dexterity (+7).
+   It has a curse placed upon it.
+ w - the cursed ring "Leorotib" {Ice *Contam rPois Int+6 Stlth+}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of ice]
+   
+   It enhances your ice magic.
+   It affects your intelligence (+6).
+   It makes you vulnerable to fire.
+   It protects you from cold.
+   It protects you from poison.
+   It causes magical contamination when unequipped.
+   It makes you more stealthy.
+   It has a curse placed upon it.
+ x - a cursed ring of flight
+ y - a cursed ring of magical power
+ z - a cursed ring of protection from fire
+Scrolls
+ b - 204 scrolls of acquirement
+ D - 2 scrolls of enchant armour {unknown}
+ E - a scroll of magic mapping {unknown}
+Potions
+ B - 45 potions of mutation
+ C - 2 potions of brilliance {unknown}
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 23.8 Fighting
+ - Level 19.5(21.9) Short Blades
+   Level 19.5(22.8) Long Blades
+   Level 19.5(25.1) Axes
+   Level 19.5(24.7) Maces & Flails
+   Level 19.5(24.0) Polearms
+   Level 19.5(25.1) Staves
+   Level 19.5(22.4) Slings
+   Level 19.5 Bows
+   Level 19.5 Crossbows
+ - Level 19.5(22.4) Throwing
+ - Level 19.5 Armour
+ - Level 19.5 Dodging
+   Level 0.0 Stealth
+ - Level 19.5 Shields
+ - Level 19.5 Unarmed Combat
+ - Level 19.5 Spellcasting
+   Level 19.5 Conjurations
+   Level 19.5 Hexes
+   Level 19.5 Charms
+ - Level 19.5 Summonings
+   Level 19.5 Necromancy
+   Level 19.5 Translocations
+   Level 19.5 Transmutations
+   Level 19.5 Fire Magic
+   Level 19.5 Ice Magic
+   Level 19.5 Air Magic
+   Level 19.5 Earth Magic
+   Level 19.5 Poison Magic
+   Level 19.5 Invocations
+ - Level 19.5 Evocations
+
+
+You had 64 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           25 (25)      1%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           82 (100)     1%          2    0
+ Call Canine Familiar     Summ           82 (100)     3%          3    0
+ Summon Guardian Golem    Hex/Summ       82 (100)     3%          3    0
+ Summon Ice Beast         Ice/Summ       82 (100)     10%         4    0
+ Summon Lightning Spire   Summ/Air       82 (100)     10%         4    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+ Crypt: Vaults:2-3  
+
+Altars:
+Jiyva
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You cannot be stealthy.
+You are somewhat unskilled. (-1 Apt)
+You are missing an eye, making it more difficult to aim.
+You can hop long distances.
+You have a pair of small horns on your head.
+Your magical capacity is low. (-10% MP)
+
+
+Message History
+
+The komodo dragon disappears in a puff of smoke!
+The death drake disappears in a puff of smoke!
+Press: ? - help, v - describe, . - travel, g - get item
+Here: a green draconian, wielding a +0 flail (almost dead, slow)
+A shiny chain mail.
+The floor.
+You kill the green draconian!
+Press: ? - help, v - describe, . - travel, g - get item
+A +0 long sword.
+There is something else lying underneath.
+The floor, spattered with blood.
+Press: ? - help, v - describe, . - travel, g - get item
+A +0 long sword.
+There is something else lying underneath.
+The floor, spattered with blood.
+Press: ? - help, v - describe, . - travel, g - get item
+A +0 long sword.
+There is something else lying underneath.
+The floor, spattered with blood.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       ###############
+      ##.............##
+     ##...............##
+    ##.................##
+   ##...................##
+  ##..................)[)##
+ ##.......#.......#....)})##
+##....................)[)))##
+#.....................))[?)\##
+.\....................@)))!>)#
+#.....................)[[))\##
+##....................[))))##
+ ##.......#.......#.....))##
+  ##...................))##
+   ##.................0)##
+    ##................0##
+     ##...............##
+      ##.............##
+       ###############
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A juggernaut (Zig:6)
+  7 greater mummies (Zig:20)
+  A shard shrike (Zig:8)
+  3 Ice Fiends (Zig:8)
+  3 acid blobs (Zig:7)
+  6 draconian monks (Zig:21)
+  2 azure jellies (Zig:7)
+  A nagaraja (Zig:5)
+  7 draconian knights (Zig:21)
+  A frost giant (Zig:8)
+  6 draconian shifters (Zig:21)
+  4 draconian scorchers (Zig:21)
+  5 draconian stormcallers (Zig:21)
+  A stone giant (Zig:6)
+  3 draconian annihilators (Zig:21)
+  2 bennus (Zig:20)
+  A green draconian (Zig:21)
+  A black draconian (Zig:21)
+  3 yellow draconians (Zig:21)
+  2 purple draconians (Zig:21)
+  2 white draconians (Zig:21)
+  A blizzard demon (Zig:8)
+  A death ooze (Zig:3)
+  7 mummy priests (Zig:20)
+  A great orb of eyes (Zig:4)
+  2 death scarabs (Zig:20)
+  A shock serpent (Zig:5)
+  2 large abominations (Zig:2)
+  An iron troll (Zig:6)
+  A skeletal warrior (Zig:9)
+  2 titan skeletons (Zig:20)
+  A naga ritualist (Zig:5)
+  An orc knight (Zig:6)
+  2 sphinx zombies
+  A tengu zombie (Zig:20)
+  2 shadow dragon skeletons
+  A cyclops (Zig:6)
+  A shining eye (Zig:3)
+  A fire giant skeleton (Zig:9)
+  A frost giant zombie (Zig:9)
+  A spriggan zombie (Zig:20)
+  A guardian serpent (Zig:5)
+  2 naga magi (Zig:5)
+  A black mamba (Zig:5)
+  2 eyes of devastation
+  4 freezing wraiths
+  A rime drake (Zig:8)
+  11 guardian mummies (Zig:20)
+  2 tormentors (Zig:9)
+  3 elf skeletons (Zig:20)
+  A shadow dragon simulacrum (Zig:20)
+  6 slime creatures
+  An iron dragon simulacrum (Zig:8)
+  2 spriggan skeletons (Zig:9)
+  6 flying skulls
+  5 ushabtiu (Zig:20)
+  A ynoxinul (Zig:1)
+  2 wraiths (Zig:9)
+  A golden eye (Zig:4)
+  2 nagas (Zig:5)
+  A warg (Zig:6)
+  A floating eye (Zig:4)
+  5 orc warriors (Zig:6)
+  2 ice beasts (Zig:8)
+  A deep troll simulacrum (Zig:1)
+  19 mummies (Zig:20)
+  2 white imps (Zig:9)
+178 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ifuu the Barachi Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Ashenzari the Shackled
+     0 | D:1      | Reached * piety under Ashenzari
+     0 | D:1      | Reached ** piety under Ashenzari
+     0 | D:1      | Reached *** piety under Ashenzari
+     0 | D:1      | Reached **** piety under Ashenzari
+     0 | D:1      | Reached ***** piety under Ashenzari
+     0 | D:1      | Reached ****** piety under Ashenzari
+   106 | D:1      | Found the cursed +3 crown of Dyrovepreva {rElec Int+2 SInv}
+   116 | D:1      | Got the cursed hat of Incorporation {Dex+4}
+   116 | D:1      | Got the cursed hat of the Slorg {rN+ MR+ Slay+3}
+   116 | D:1      | Got the cursed large shield of Beauty {rElec}
+   116 | D:1      | Got the cursed large shield of Oturudaw {*Drain +Blink
+                  | Str+3}
+   116 | D:1      | Got the cursed shield of the Harvest {*Drain Dex+5}
+   122 | D:1      | Identified the cursed +2 hat of Incorporation {Dex+4} (You
+                  | acquired it on level 1 of the Dungeon)
+   122 | D:1      | Identified the cursed +0 hat of the Slorg {rN+ MR+ Slay+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   138 | D:1      | Identified the cursed +3 large shield of Beauty {rElec}
+                  | (You acquired it on level 1 of the Dungeon)
+   138 | D:1      | Identified the cursed +5 large shield of Oturudaw {*Drain
+                  | +Blink Str+3} (You acquired it on level 1 of the Dungeon)
+   138 | D:1      | Identified the cursed +0 shield of the Harvest {*Drain
+                  | Dex+5} (You acquired it on level 1 of the Dungeon)
+   143 | D:1      | Identified a cursed +0 pair of boots of running (You
+                  | acquired it on level 1 of the Dungeon)
+   154 | D:1      | Identified the cursed amulet "Ysamp" {RegenMP *Contam +Inv
+                  | rElec Str+7} (You acquired it on level 1 of the Dungeon)
+   157 | D:1      | Identified the cursed ring "Buzoj" {Str-3 Int+5 Dex+7} (You
+                  | acquired it on level 1 of the Dungeon)
+   158 | D:1      | Identified the cursed ring "Acudus" {Fire +Blink rPois}
+                  | (You acquired it on level 1 of the Dungeon)
+   159 | D:1      | Identified the cursed ring "Leorotib" {Ice *Contam rPois
+                  | Int+6 Stlth+} (You acquired it on level 1 of the Dungeon)
+   160 | D:1      | Identified the cursed amulet "Nakkaeng" {Gourm rPois rN+}
+                  | (You acquired it on level 1 of the Dungeon)
+   162 | D:1      | Identified the cursed amulet of Ru's Whim {Faith -Tele
+                  | rPois rC+ SInv} (You acquired it on level 1 of the Dungeon)
+   172 | D:1      | Fell from the grace of Ashenzari
+   172 | D:1      | Became a worshipper of Ru the Awakened
+   174 | D:1      | Gained mutation: You cannot be stealthy. [Ru sacrifice]
+   174 | D:1      | Reached * piety under Ru
+   174 | D:1      | Reached ** piety under Ru
+   174 | D:1      | Reached *** piety under Ru
+   175 | D:1      | Gained mutation: You are somewhat unskilled. (-1 Apt) [Ru
+                  | sacrifice]
+   175 | D:1      | Reduced skill Fighting to level 19
+   175 | D:1      | Reached **** piety under Ru
+   175 | D:1      | Reached ***** piety under Ru
+   183 | D:1      | Noticed an orb of fire
+   185 | D:1      | Gained mutation: You are missing an eye, making it more
+                  | difficult to aim. [Ru sacrifice]
+   190 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [an orb of fire]
+   203 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [an orb of fire]
+   204 | D:1      | Gained mutation: Potions are less effective at restoring
+                  | your health. [an orb of fire]
+   208 | D:1      | Reached XP level 2. HP: 7/50 MP: 22/22
+   208 | D:1      | Reached XP level 3. HP: 8/57 MP: 24/24
+   208 | D:1      | Reached XP level 4. HP: 9/64 MP: 25/25
+   208 | D:1      | Reached XP level 5. HP: 10/70 MP: 27/27
+   208 | D:1      | Reached XP level 6. HP: 11/78 MP: 28/28
+   208 | D:1      | Reached XP level 7. HP: 12/84 MP: 30/30
+   208 | D:1      | Reached XP level 8. HP: 13/92 MP: 31/31
+   208 | D:1      | Reached XP level 9. HP: 14/98 MP: 32/32
+   208 | D:1      | Reached XP level 10. HP: 15/105 MP: 33/33
+   208 | D:1      | Reached XP level 11. HP: 16/112 MP: 34/34
+   208 | D:1      | Reached XP level 12. HP: 17/119 MP: 35/35
+   208 | D:1      | Gained mutation: You can hop long distances. [Barachi
+                  | growth]
+   208 | D:1      | Reached XP level 13. HP: 18/126 MP: 36/36
+   208 | D:1      | Reached XP level 14. HP: 19/133 MP: 37/37
+   208 | D:1      | Reached XP level 15. HP: 20/139 MP: 38/38
+   208 | D:1      | Reached XP level 16. HP: 21/147 MP: 39/39
+   208 | D:1      | Reached XP level 17. HP: 22/153 MP: 40/40
+   208 | D:1      | Reached XP level 18. HP: 23/160 MP: 41/41
+   208 | D:1      | Reached XP level 19. HP: 24/167 MP: 42/42
+   208 | D:1      | Reached XP level 20. HP: 25/174 MP: 43/43
+   208 | D:1      | Reached XP level 21. HP: 26/181 MP: 44/44
+   208 | D:1      | Reached XP level 22. HP: 27/188 MP: 45/45
+   208 | D:1      | Reached XP level 23. HP: 28/194 MP: 46/46
+   208 | D:1      | Reached XP level 24. HP: 29/202 MP: 46/46
+   208 | D:1      | Reached XP level 25. HP: 30/208 MP: 46/46
+   208 | D:1      | Reached XP level 26. HP: 31/216 MP: 46/46
+   208 | D:1      | Reached XP level 27. HP: 32/222 MP: 46/46
+   210 | D:1      | Lost mutation: Scrolls take you a little longer to read.
+                  | [potion of mutation]
+   210 | D:1      | Lost mutation: Potions are less effective at restoring your
+                  | health. [potion of mutation]
+   210 | D:1      | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+   210 | D:1      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+   210 | D:1      | Gained mutation: Your muscles are strong. (Str +2) [potion
+                  | of mutation]
+   211 | D:1      | Lost mutation: You are dopey. (Int -2) [potion of mutation]
+   211 | D:1      | Lost mutation: Your muscles are strong. (Str +2) [potion of
+                  | mutation]
+   211 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [potion of mutation]
+   211 | D:1      | Gained mutation: You can translocate small distances at
+                  | will. [potion of mutation]
+   212 | D:1      | Lost mutation: You can translocate small distances at will.
+                  | [potion of mutation]
+   212 | D:1      | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [potion of mutation]
+   212 | D:1      | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+   212 | D:1      | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+   215 | Slime:5  | Entered Level 5 of the Pits of Slime
+   215 | Slime:5  | Found a viscous altar of Jiyva.
+   238 | Slime:5  | Got a slimy rune of Zot
+   239 | Vaults:5 | Entered Level 5 of the Vaults
+   239 | Vaults:5 | Got a silver rune of Zot
+   242 | Zig:1    | Entered Level 1 of a ziggurat
+   243 | Zig:1    | Was forgiven by Ashenzari
+   245 | Zig:2    | Entered Level 2 of a ziggurat
+   247 | Zig:3    | Entered Level 3 of a ziggurat
+   249 | Zig:4    | Entered Level 4 of a ziggurat
+   251 | Zig:5    | Entered Level 5 of a ziggurat
+   253 | Zig:6    | Entered Level 6 of a ziggurat
+   258 | Zig:6    | Noticed a juggernaut
+   258 | Zig:6    | Found the +15 Maxwell's patent armour {-Cast -Tele rElec
+                  | MR+ rCorr}
+   258 | Zig:6    | Killed a juggernaut
+   258 | Zig:6    | Reached skill level 20 in Fighting
+   260 | Zig:7    | Entered Level 7 of a ziggurat
+   272 | Zig:8    | Entered Level 8 of a ziggurat
+   274 | Zig:9    | Entered Level 9 of a ziggurat
+   275 | Zig:9    | Reached skill level 21 in Fighting
+   276 | Zig:10   | Entered Level 10 of a ziggurat
+   278 | Zig:11   | Entered Level 11 of a ziggurat
+   280 | Zig:12   | Entered Level 12 of a ziggurat
+   282 | Zig:13   | Entered Level 13 of a ziggurat
+   284 | Zig:14   | Entered Level 14 of a ziggurat
+   285 | Zig:14   | Found the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+   286 | Zig:15   | Entered Level 15 of a ziggurat
+   288 | Zig:16   | Entered Level 16 of a ziggurat
+   290 | Zig:17   | Entered Level 17 of a ziggurat
+   292 | Zig:18   | Entered Level 18 of a ziggurat
+   294 | Zig:19   | Entered Level 19 of a ziggurat
+   295 | Zig:19   | Found the +8 whip "Snakebite" {curare, rPois}
+   296 | Zig:20   | Entered Level 20 of a ziggurat
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   297 | Zig:20   | Noticed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Reached skill level 22 in Fighting
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | Killed a greater mummy
+   298 | Zig:20   | HP: 8/225 [torment (4)]
+   301 | Zig:21   | Entered Level 21 of a ziggurat
+   303 | Zig:21   | Reached skill level 23 in Fighting
+   303 | Zig:21   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 |
+---------------+----------------------------------------------------------------------------------+-----
+Stealth        |  0                                                                               |  0.0
+Fighting       | 19                                                                            23 | 23.8
+Short Blades   | 19                                                                               | 19.5
+Long Blades    | 19                                                                               | 19.5
+Axes           | 19                                                                               | 19.5
+Maces & Flails | 19                                                                               | 19.5
+Polearms       | 19                                                                               | 19.5
+Staves         | 19                                                                               | 19.5
+Slings         | 19                                                                               | 19.5
+Bows           | 19                                                                               | 19.5
+Crossbows      | 19                                                                               | 19.5
+Throwing       | 19                                                                               | 19.5
+Armour         | 19                                                                               | 19.5
+Dodging        | 19                                                                               | 19.5
+Shields        | 19                                                                               | 19.5
+Unarmed Combat | 19                                                                               | 19.5
+Spellcasting   | 19                                                                               | 19.5
+Conjurations   | 19                                                                               | 19.5
+Hexes          | 19                                                                               | 19.5
+Charms         | 19                                                                               | 19.5
+Summonings     | 19                                                                               | 19.5
+Necromancy     | 19                                                                               | 19.5
+Translocations | 19                                                                               | 19.5
+Transmutations | 19                                                                               | 19.5
+Fire Magic     | 19                                                                               | 19.5
+Ice Magic      | 19                                                                               | 19.5
+Air Magic      | 19                                                                               | 19.5
+Earth Magic    | 19                                                                               | 19.5
+Poison Magic   | 19                                                                               | 19.5
+Invocations    | 19                                                                               | 19.5
+Evocations     | 19                                                                               | 19.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |  8022 |       |       |       |       |       |       |       |  4001 || 12023
+Invok: Reject Sacrifices |     9 |       |       |       |       |       |       |       |       ||     9
+       Sacrifice Stealth |     1 |       |       |       |       |       |       |       |       ||     1
+       Sacrifice Skill   |     1 |       |       |       |       |       |       |       |       ||     1
+       Sacrifice an Eye  |     1 |       |       |       |       |       |       |       |       ||     1
+       Apocalypse        |       |       |       |       |       |       |       |       |     2 ||     2
+Evoke: Figurine of a zig |       |       |       |       |       |       |       |       |     1 ||     1
+  Use: Scroll            |    24 |       |       |       |       |       |       |       |       ||    24
+       Potion            |       |       |       |       |       |       |       |       |     3 ||     3
+Armor: Crystal plate arm |     1 |       |       |       |       |       |       |       |    14 ||    15
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     3 ||     3
+Block: Large shield      |       |       |       |       |       |       |       |       |    10 ||    10
+

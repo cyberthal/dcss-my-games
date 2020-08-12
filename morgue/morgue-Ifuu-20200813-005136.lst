@@ -1,0 +1,582 @@
+Ifuu
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  26 arrows
+(3, 1, D:1)
+  17 gold pieces
+(3, 3, D:1)
+  a potion of berserk rage
+(21, -8, D:1)
+  a +0 chain mail
+(24, -2, D:1)
+  a potion of curing
+(30, -15, D:1)
+  a scroll of identify
+(30, -5, D:1)
+  a potion of berserk rage
+(32, 27, D:1)
+  a scroll of identify
+(34, -9, D:1)
+  3 gold pieces
+(35, -2, D:1)
+  a ration
+(38, -7, D:1)
+  an uncursed ring of resist corrosion
+(39, 19, D:1)
+  a potion of heal wounds
+(41, 19, D:1)
+  a scroll of identify
+(43, 18, D:1)
+  an uncursed ring of resist corrosion
+(47, 4, D:1)
+  12 gold pieces
+(48, 15, D:1)
+  a +0 hand axe
+(49, 9, D:1)
+  11 gold pieces
+(51, 17, D:1)
+  a ration
+(57, 22, D:1)
+  a +0 hunting sling
+(59, 26, D:1)
+  23 stones
+  (unseen)
+(61, 33, D:1)
+  a scroll of identify
+(62, 28, D:1)
+  25 sling bullets
+(62, 30, D:1)
+  a scroll of identify
+
+Level 5 of the Pits of Slime
+(0, 0, Slime:5)
+  a +0 glaive
+(0, 1, Slime:5)
+  32 gold pieces
+(0, 8, Slime:5)
+  a potion of lignification
+(0, 9, Slime:5)
+  a potion of degeneration
+(1, -1, Slime:5)
+  a cursed -3 arbalest
+(1, 0, Slime:5)
+  an uncursed ring of poison resistance
+(1, 1, Slime:5)
+  a scroll of identify
+(1, 2, Slime:5)
+  27 gold pieces
+(1, 7, Slime:5)
+  a wand of clouds (6)
+(1, 8, Slime:5)
+  an uncursed amulet of faith
+(1, 9, Slime:5)
+  a +2 arbalest of velocity
+(1, 10, Slime:5)
+  22 gold pieces
+(2, -2, Slime:5)
+  a +1 war axe of freezing
+(2, -1, Slime:5)
+  a +1 war axe of flaming
+(2, 0, Slime:5)
+  59 gold pieces
+(2, 1, Slime:5)
+  a book of Summonings
+(2, 2, Slime:5)
+  58 gold pieces
+(2, 7, Slime:5)
+  27 gold pieces
+(2, 8, Slime:5)
+  the +3 dagger of Seat {holy, *Noise Int+3 Dex+4}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your intelligence (+3).
+    It affects your dexterity (+4).
+    It may make noises in combat.
+(2, 9, Slime:5)
+  a +2 robe of cold resistance
+(2, 10, Slime:5)
+  a box of beasts
+(2, 11, Slime:5)
+  39 gold pieces
+(3, -3, Slime:5)
+  a potion of mutation
+(3, -2, Slime:5)
+  a +1 helmet of intelligence
+(3, -1, Slime:5)
+  a scroll of teleportation
+(3, 0, Slime:5)
+  a book of Ice
+(3, 1, Slime:5)
+  24 arrows
+(3, 8, Slime:5)
+  27 stones
+(3, 9, Slime:5)
+  a book of Death
+(3, 10, Slime:5)
+  7 curare-tipped needles
+(3, 11, Slime:5)
+  a +0 mace
+(3, 12, Slime:5)
+  30 gold pieces
+(4, -2, Slime:5)
+  a ration
+(4, 0, Slime:5)
+  an uncursed ring of ice
+(4, 2, Slime:5)
+  the +5 scale mail of Untold Secrets {Dex+4}
+    It affects your dexterity (+4).
+(4, 7, Slime:5)
+  an uncursed staff of cold
+(4, 9, Slime:5)
+  30 stones
+(4, 11, Slime:5)
+  a scroll of magic mapping
+(9, -2, Slime:5)
+  57 gold pieces
+(9, 0, Slime:5)
+  a scroll of random uselessness
+(9, 2, Slime:5)
+  the +9 spear "Voclujung" {pierce, Int+6 Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your intelligence (+6).
+    It makes you more stealthy.
+(9, 7, Slime:5)
+  an uncursed staff of death
+(9, 9, Slime:5)
+  a wand of flame (17)
+(9, 11, Slime:5)
+  39 gold pieces
+(10, -3, Slime:5)
+  33 gold pieces
+(10, -2, Slime:5)
+  44 gold pieces
+(10, -1, Slime:5)
+  a scroll of remove curse
+(10, 0, Slime:5)
+  the +0 cloak "Iwna Ibi" {Str-3 Int+3}
+    It affects your strength (-3).
+    It affects your intelligence (+3).
+(10, 8, Slime:5)
+  15 stones
+(10, 9, Slime:5)
+  a scarf of resistance
+(10, 10, Slime:5)
+  a +0 triple crossbow
+(10, 11, Slime:5)
+  a scroll of vulnerability
+(10, 12, Slime:5)
+  a ration
+(11, -2, Slime:5)
+  6 needles of sleeping
+(11, -1, Slime:5)
+  the cursed +0 chain mail of the Crushed Allies {Str+3}
+    It affects your strength (+3).
+    It has a curse placed upon it.
+(11, 1, Slime:5)
+  a crystal ball of energy
+(11, 2, Slime:5)
+  a +0 hunting sling
+(11, 7, Slime:5)
+  29 stones
+(11, 8, Slime:5)
+  the +6 rapier "Ogrebane" {venom, rPois rF+ rN+ Stlth-}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from fire.
+    It protects you from poison.
+    It protects you from negative energy.
+    It makes you less stealthy.
+(11, 9, Slime:5)
+  a +1 troll leather armour
+(11, 10, Slime:5)
+  the +5 glaive "Itetod" {drain, Str+2 Int+2 Dex-5}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It affects your strength (+2).
+    It affects your intelligence (+2).
+    It affects your dexterity (-5).
+(11, 11, Slime:5)
+  an uncursed staff of summoning
+(12, -1, Slime:5)
+  the +3 short sword of Day {vamp, +Blink MR- Stlth+}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your resistance to hostile enchantments.
+    It lets you blink.
+    It makes you more stealthy.
+(12, 0, Slime:5)
+  a +5 ring of evasion
+(12, 1, Slime:5)
+  a wand of enslavement (9)
+(12, 2, Slime:5)
+  21 arrows
+(12, 7, Slime:5)
+  a potion of curing
+(12, 8, Slime:5)
+  6 stones
+(12, 9, Slime:5)
+  a +0 rapier of electrocution
+(12, 10, Slime:5)
+  55 gold pieces
+(13, 0, Slime:5)
+  an uncursed amulet of the gourmand
+(13, 1, Slime:5)
+  9 arrows
+(13, 8, Slime:5)
+  49 gold pieces
+(13, 9, Slime:5)
+  38 gold pieces
+
+Level 5 of the Vaults
+(0, 0, Vaults:5)
+  a ration
+(0, 4, Vaults:5)
+  a ration
+(2, -33, Vaults:5)
+  a ration
+(2, -29, Vaults:5)
+  a +0 war axe
+(2, -25, Vaults:5)
+  a potion of curing
+(2, -21, Vaults:5)
+  19 stones
+(2, -17, Vaults:5)
+  a scroll of identify
+(6, -33, Vaults:5)
+  38 gold pieces
+(6, -29, Vaults:5)
+  a ration
+(6, -25, Vaults:5)
+  a +2 mace of protection
+(6, -21, Vaults:5)
+  Sif Muna's Volume of Supportive Evil
+    Spells                           Type                      Level
+     a - Pain                         Necromancy                    1
+     b - Call Imp                     Summoning                     2
+     c - Animate Dead                 Necromancy                    4
+     d - Dispel Undead                Necromancy                    5
+(6, -17, Vaults:5)
+  a potion of might
+(10, -33, Vaults:5)
+  a +1 robe of positive energy
+(10, -29, Vaults:5)
+  an uncursed ring of fire
+(10, -25, Vaults:5)
+  the +0 scale mail of Tartarus {+Fly rN+++ Str-3}
+    It affects your strength (-3).
+    It renders you almost immune to negative energy.
+    It lets you fly.
+(10, -21, Vaults:5)
+  an uncursed ring of stealth
+(10, -17, Vaults:5)
+  a wand of iceblast (12)
+(10, -8, Vaults:5)
+  56 gold pieces
+(10, 0, Vaults:5)
+  a ration
+(10, 4, Vaults:5)
+  19 bolts
+(10, 12, Vaults:5)
+  55 gold pieces
+(11, -15, Vaults:5)
+  15 stones
+(11, 2, Vaults:5)
+  18 arrows
+(12, -21, Vaults:5)
+  a potion of heal wounds
+(12, 1, Vaults:5)
+  a +0 falchion of draining
+(12, 2, Vaults:5)
+  26 arrows
+(12, 3, Vaults:5)
+  33 gold pieces
+(13, 2, Vaults:5)
+  an uncursed staff of death
+(14, -33, Vaults:5)
+  a scroll of remove curse
+(14, -29, Vaults:5)
+  a manual of Dodging
+(14, -25, Vaults:5)
+  an uncursed amulet of the acrobat
+(14, -21, Vaults:5)
+  a lamp of fire
+(14, -17, Vaults:5)
+  27 stones
+(14, -13, Vaults:5)
+  32 gold pieces
+(14, -8, Vaults:5)
+  a scroll of blinking
+(14, 0, Vaults:5)
+  a wand of flame (19)
+(14, 4, Vaults:5)
+  16 gold pieces
+(14, 12, Vaults:5)
+  a wand of paralysis (9)
+(16, -22, Vaults:5)
+  18 gold pieces
+(18, -33, Vaults:5)
+  a scroll of amnesia
+(18, -25, Vaults:5)
+  a phial of floods
+(18, -21, Vaults:5)
+  16 bolts
+(18, -17, Vaults:5)
+  24 stones
+(22, -33, Vaults:5)
+  2 potions of haste
+(22, -29, Vaults:5)
+  7 stones
+(22, -25, Vaults:5)
+  a +3 amulet of reflection
+(22, -21, Vaults:5)
+  27 gold pieces
+(22, -17, Vaults:5)
+  a +4 spear of venom
+(24, 0, Vaults:5)
+  a +0 short sword
+(24, 4, Vaults:5)
+  a potion of resistance
+(24, 9, Vaults:5)
+  39 gold pieces
+(26, 11, Vaults:5)
+  a book of Transfigurations
+(28, -17, Vaults:5)
+  24 gold pieces
+(32, -10, Vaults:5)
+  a scroll of enchant weapon
+(35, -34, Vaults:5)
+  a potion of curing
+(35, 2, Vaults:5)
+  34 gold pieces
+(36, 1, Vaults:5)
+  a potion of might
+(36, 2, Vaults:5)
+  a +0 scale mail
+(36, 3, Vaults:5)
+  a +1 leather armour of fire resistance
+(37, -23, Vaults:5)
+  53 gold pieces
+(37, -22, Vaults:5)
+  a +0 robe
+(37, -21, Vaults:5)
+  a scroll of enchant armour
+(37, 2, Vaults:5)
+  3 scrolls of enchant weapon
+(38, -21, Vaults:5)
+  a +0 rapier
+(39, -21, Vaults:5)
+  a +0 ring mail
+(40, 10, Vaults:5)
+  12 gold pieces
+(42, -27, Vaults:5)
+  an uncursed staff of earth
+(42, -4, Vaults:5)
+  a +0 chain mail
+(42, 8, Vaults:5)
+  5 large rocks
+(43, -35, Vaults:5)
+  a scroll of enchant armour
+(43, -5, Vaults:5)
+  an uncursed staff of wizardry
+(43, -4, Vaults:5)
+  a +0 chain mail
+(43, -3, Vaults:5)
+  40 gold pieces
+(43, 7, Vaults:5)
+  a +2 robe of positive energy
+(43, 8, Vaults:5)
+  a +0 war axe of electrocution
+(43, 9, Vaults:5)
+  a +0 glaive
+(44, -4, Vaults:5)
+  18 stones
+(44, 8, Vaults:5)
+  a scroll of magic mapping
+(47, -29, Vaults:5)
+  a +1 long sword of venom
+(47, 1, Vaults:5)
+  43 gold pieces
+(48, -29, Vaults:5)
+  15 sling bullets
+(48, 10, Vaults:5)
+  a cursed -1 scale mail
+(49, -29, Vaults:5)
+  357 gold pieces
+(49, -28, Vaults:5)
+  an uncursed staff of wizardry
+(49, -27, Vaults:5)
+  9 stones
+(49, 2, Vaults:5)
+  14 sling bullets
+(50, 1, Vaults:5)
+  15 stones
+(50, 2, Vaults:5)
+  a potion of curing
+(50, 3, Vaults:5)
+  the cursed +1 whip "Ulagatwa" {slash, +Rage Str-4 Dex+6 Stlth+}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your strength (-4).
+    It affects your dexterity (+6).
+    It lets you go berserk.
+    It makes you more stealthy.
+    It has a curse placed upon it.
+(51, -31, Vaults:5)
+  24 gold pieces
+(51, 2, Vaults:5)
+  36 gold pieces
+(51, 5, Vaults:5)
+  a potion of ambrosia
+(52, -30, Vaults:5)
+  33 gold pieces
+(53, -35, Vaults:5)
+  a scroll of enchant weapon
+(55, 7, Vaults:5)
+  24 stones
+(55, 9, Vaults:5)
+  a lamp of fire
+
+Level 21 of a ziggurat
+(0, 0, Zig:21)
+  a +4 battleaxe of electrocution
+  (unseen)
+(0, 2, Zig:21)
+  a +0 whip
+  (unseen)
+(0, 3, Zig:21)
+  a +2 war axe of electrocution
+  (unseen)
+(0, 4, Zig:21)
+  a +0 long sword
+  a +0 cloak
+(0, 5, Zig:21)
+  a +0 long sword
+  (unseen)
+(0, 6, Zig:21)
+  a +0 cloak
+  (unseen)
+(1, 0, Zig:21)
+  a +0 cloak
+(1, 1, Zig:21)
+  a +0 battleaxe
+(1, 2, Zig:21)
+  a +0 cloak
+(1, 3, Zig:21)
+  a +0 dagger (still there?)
+  a +2 dagger of venom (still there?)
+(1, 4, Zig:21)
+  a +0 mace (still there?)
+  5 large rocks (still there?)
+(1, 5, Zig:21)
+  a +0 cloak
+  (unseen)
+(1, 6, Zig:21)
+  a +2 whip of electrocution
+  (unseen)
+(1, 8, Zig:21)
+  a +0 short sword
+  (unseen)
+(1, 9, Zig:21)
+  a +0 long sword
+  (unseen)
+(2, 0, Zig:21)
+  a +0 trident of flaming (still there?)
+  24 gold pieces (still there?)
+(2, 1, Zig:21)
+  a box of beasts
+(2, 2, Zig:21)
+  a +0 whip (still there?)
+  a scroll of amnesia (still there?)
+(2, 3, Zig:21)
+  a +0 cloak (still there?)
+  the +4 demon trident of Tartarus {freeze, MR- Int+5 Dex+6} (still there?)
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your intelligence (+5).
+    It affects your dexterity (+6).
+    It affects your resistance to hostile enchantments.
+(2, 4, Zig:21)
+  a +0 dagger (still there?)
+  a +0 long sword (still there?)
+(2, 5, Zig:21)
+  a +0 cloak (still there?)
+  a +0 dire flail (still there?)
+(2, 6, Zig:21)
+  a +1 great sword of electrocution (still there?)
+  a +9 blowgun (still there?)
+(2, 7, Zig:21)
+  a +0 dagger (still there?)
+  a scroll of vulnerability (still there?)
+(2, 8, Zig:21)
+  a +0 short sword (still there?)
+  a ration (still there?)
+(3, 1, Zig:21)
+  a +0 long sword (still there?)
+  the Catalogue of the Ghastly Oath (still there?)
+    Spells                           Type                      Level
+     a - Confusing Touch              Hexes                         1
+     b - Corpse Rot                   Necromancy                    2
+     c - Bolt of Draining             Conjuration/Necromancy        5
+     d - Darkness                     Hexes                         6
+     e - Invisibility                 Hexes                         6
+(3, 2, Zig:21)
+  a +0 long sword (still there?)
+  a +2 flail of pain (still there?)
+(3, 3, Zig:21)
+  a scroll of blinking
+(3, 4, Zig:21)
+  a +2 great mace of protection (still there?)
+  a Fen Folio (still there?)
+(3, 5, Zig:21)
+  a +0 whip (still there?)
+  a +2 great sword of electrocution (still there?)
+(3, 6, Zig:21)
+  the +2 broad axe "Fihag" {antimagic, rElec rN+ Dex+2}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your dexterity (+2).
+    It insulates you from electricity.
+    It protects you from negative energy.
+(3, 7, Zig:21)
+  a +0 whip (still there?)
+  a scroll of holy word (still there?)
+(4, 2, Zig:21)
+  a +0 halberd (still there?)
+  the +1 leather armour "Eqearcharph" {Dex+2} (still there?)
+    It affects your dexterity (+2).
+(4, 3, Zig:21)
+  a +0 long sword (still there?)
+  the +3 cloak of the Game of Kings {rF+ MR+ rCorr Int-3} (still there?)
+    It affects your intelligence (-3).
+    It protects you from fire.
+    It affects your resistance to hostile enchantments.
+    It provides partial protection from all sources of acid and corrosion.
+(4, 4, Zig:21)
+  a potion of experience
+(4, 5, Zig:21)
+  a +0 trident (still there?)
+  a scroll of remove curse (still there?)
+(4, 6, Zig:21)
+  a +0 dagger (still there?)
+  a lightning rod (4/4) (still there?)
+(5, 3, Zig:21)
+  a cursed -3 whip (still there?)
+  a potion of experience (still there?)
+(5, 4, Zig:21)
+  a +1 great sword of draining (still there?)
+  a crystal ball of energy (still there?)
+(5, 5, Zig:21)
+  a cursed -2 rapier (still there?)
+  a scroll of silence (still there?)
+(6, 4, Zig:21)
+  a +0 flail (still there?)
+  a +2 chain mail of poison resistance (still there?)
+

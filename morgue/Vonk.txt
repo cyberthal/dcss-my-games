@@ -1,0 +1,427 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18015230519007411363
+
+Vonk the Skirmisher (Barachi Summoner)             Turns: 11090, Time: 02:43:19
+
+Health: 72/72      AC: 12    Str: 13    XL:     9   Next: 96%
+Magic:  16/16      EV: 13    Int: 16    God:    Ashenzari [......]
+Gold:   399        SH:  9    Dex: 15    Spells: 0/17 levels left
+
+rFire    . . .     SeeInvis .   b - +0 blowgun
+rCold    . . .     Gourm    .   X - +0 buckler
+rNeg     . . .     Faith    .   l - +0 leather armour
+rPois    .         Spirit   .   s - +2 helmet (curse)
+rElec    .         Reflect  +   H - +1 cloak
+rCorr    .         Harm     .   R - +0 pair of gloves
+MR       .....                  y - +2 pair of boots
+Stlth    ++........             p - +4 amulet of reflection
+HPRegen  0.22/turn              L - +3 ring of dexterity
+MPRegen  0.15/turn              E - ring of flight
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Curse Item, Renounce Religion, Evoke Flight
+
+
+You are on level 8 of the Dungeon.
+You worship Ashenzari.
+Ashenzari is noncommittal.
+You are very hungry.
+
+You have visited 2 branches of the dungeon, and seen 9 of its levels.
+
+You have collected 399 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 short sword of protection
+ b - a +0 blowgun (weapon)
+ c - a +1 dagger of speed
+ d - a +0 long sword
+ e - a +1 flail of protection
+ f - a +3 hand axe of freezing
+ g - a +0 spear
+ h - a +3 trident
+ i - a +0 hunting sling
+Missiles
+ j - 75 arrows
+ m - 99 stones
+ x - 7 javelins
+ A - 19 poisoned needles (quivered)
+ K - 2 exploding tomahawks
+ S - 45 bolts
+ U - 11 tomahawks
+Armour
+ l - a +0 leather armour (worn)
+ q - a +0 robe
+ s - a cursed +2 helmet (worn)
+ y - a +2 pair of boots (worn)
+ G - a +0 ring mail
+ H - a +1 cloak (worn)
+ R - a +0 pair of gloves (worn)
+ V - an uncursed crystal plate armour
+ X - a +0 buckler (worn)
+Jewellery
+ p - a +4 amulet of reflection (around neck)
+ E - a ring of flight (right hand)
+ L - a +3 ring of dexterity (left hand)
+Wands
+ O - a wand of enslavement (8)
+Scrolls
+ k - a scroll labeled AGUOZ XEPTUKAQ
+ o - 2 scrolls of amnesia
+ t - a scroll labeled SESHIT RAGEHE
+ u - a scroll labeled VOMODI FYIKHLIME
+ v - a scroll of remove curse
+ z - 3 scrolls of teleportation
+ B - a scroll labeled OLIWKY LA VAH
+ I - a scroll of immolation
+ J - a scroll labeled OWOSOS KAIRRO
+ M - a scroll of fear
+Potions
+ n - a potion of might
+ r - a potion of agility
+ w - 2 potions of berserk rage
+ C - 2 potions of curing
+ F - a fuming purple potion
+ N - 2 red potions
+ P - a cyan potion
+ T - 2 potions of brilliance
+Comestibles
+ Q - 17 rations
+
+
+   Skills:
+ + Level 7.5 Fighting
+ - Level 6.0 Short Blades
+ - Level 2.1(3.0) Axes
+ - Level 2.0(2.5) Maces & Flails
+ - Level 2.0(2.3) Polearms
+ - Level 2.0(2.4) Slings
+ - Level 2.0(2.4) Throwing
+ - Level 3.0 Dodging
+ - Level 2.0 Stealth
+ - Level 4.0 Shields
+ + Level 4.9 Spellcasting
+ - Level 4.0 Hexes
+ - Level 7.0 Summonings
+ - Level 1.2 Necromancy
+ - Level 2.1 Ice Magic
+ - Level 2.1 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      3%          1    None
+b - Confusing Touch       Hex            ###...       3%          1    None
+c - Animate Skeleton      Necr           N/A          12%         1    None
+d - Call Imp              Summ           ####....     1%          2    ##.....
+e - Ensorcelled Hibernat  Hex/Ice        ##....       9%          2    ##.....
+f - Call Canine Familiar  Summ           ####....     3%          3    ###....
+g - Summon Guardian Gole  Hex/Summ       ###.....     6%          3    ###....
+h - Summon Ice Beast      Ice/Summ       ###.....     30%         4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Small Mammal      Summ           ####         1%          1    None
+ Confuse                  Hex            ###.....     12%         3    ###....
+ Tukima's Dance           Hex            ###.....     12%         3    ###....
+ Apportation              Tloc           #.....       21%         1    None
+ Dazzling Spray           Conj/Hex       ##....       26%         3    ###....
+ Summon Lightning Spire   Summ/Air       ###.....     41%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:6         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:4 dig for vault
+D:7 hatch
+D:8 2 transporters, exclusion: orange crystal statue, Jawnasyh's ghost, novice
+GrFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+You are feeling very hungry.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+The floor.
+Press: ? - help, . - travel, g - get item
+You can't see that place.
+[Stash: a +0 robe (...1)]
+[the floor.]
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Jawnasyh's ghost whispers, "There is no future for you."
+Jawnasyh's ghost says, "I was once a great warrior, and I still am!"
+Jawnasyh's ghost whispers, "It is all a dream - a grotesque and foolish dream."
+Jawnasyh's ghost whispers, "There is no future for you."
+Things that are here:
+a +0 ring mail; a +0 hand axe
+Jawnasyh's ghost sneers, "Do you call that fighting?"
+There is a stone staircase leading down here.
+Okay, then.
+You have 399 gold pieces.
+
+.'.........'.ZZ[....####   #h######
+##.........#######..#      #o#..h.#
+ #.......<.#     #..#      #...##.#
+ #.........#     #..#      ######.###
+ #.........#     #..#        #......#
+##################..######   #.##.#.#
+................##..#....#   #.##h#.#
+..#############..........#   #.##.#.#
+..#.......?...#.####.....#   #....#.#
+#.#...........#.#  #)....#   ####...#
+..#..###.###..#.#  ##.###########.###
+..#..#8#.#8#..#.##  #.## #.....##.#
+..#!.........V#..####..###.###.##8#
+.^#)....^....W#^...[..@..#.# #.##.#
+..#$........ZW#....###..##.# #Z...#
+<.#..#8#.#8#.W#............# ######
+..#..###.###.V#.##.###...###
+..#..........W#.##.# #.#.#
+..#..........W#..#.# #.#.#
+..#############..#.# #.#.#
+...................# #...##
+...#########.#########....#
+.#.#       #..............##
+...#       #############...#
+...#                   #...#
+..##                   ##..###########
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:8)
+  A hippogriff (D:8)
+  Sigmund (D:5)
+  2 black bears
+  An ice beast (D:6)
+  A phantom (D:7)
+  A centaur (D:8)
+  5 bullfrogs
+  A scorpion (D:5)
+  2 wights
+  4 crimson imps
+  2 orc priests (D:8)
+  3 hounds
+  An orc wizard (D:4)
+  3 bullfrog skeletons
+  3 iguanas
+  3 worker ants
+  A killer bee zombie (D:8)
+  A hound skeleton (D:5)
+  A howler monkey zombie (D:8)
+  2 worker ant zombies
+  9 adders
+  2 dart slugs
+  5 leopard geckos
+  17 orcs
+  3 giant cockroaches
+  A goblin (D:2)
+  2 hobgoblins
+  5 jackals
+  2 quokkas
+  3 ball pythons (D:3)
+  6 bats
+  2 frilled lizards
+  8 kobolds
+  A leopard gecko skeleton (D:7)
+  A quokka skeleton (D:7)
+  4 rats
+111 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 water moccasins
+  An orc warrior (D:7)
+  A sky beast (D:7)
+  A centaur (D:8)
+  A scorpion (D:6)
+  A wight (D:8)
+  A howler monkey (D:5)
+  3 orc priests
+  7 orc wizards
+  2 worker ants (D:5)
+  2 hound zombies (D:7)
+  A gnoll (D:1)
+  4 adders
+  A worm (D:2)
+  2 leopard geckos
+  8 orcs
+  A ball python (D:1)
+  A giant cockroach (D:1)
+  2 goblins (D:1)
+  3 hobgoblins
+  A jackal (D:1)
+  5 kobolds
+  A bat (D:2)
+  3 frilled lizards
+55 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc priest (D:8)
+  An orc (D:8)
+2 creatures vanquished.
+
+Grand Total: 168 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Vonk the Barachi Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   235 | D:1      | Reached skill level 1 in Fighting
+   368 | D:1      | Reached skill level 1 in Short Blades
+   754 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   769 | D:1      | Learned a level 2 spell: Call Imp
+  1487 | D:2      | Reached XP level 3. HP: 26/28 MP: 4/6
+  1765 | D:2      | Learned a level 3 spell: Call Canine Familiar
+  2188 | D:2      | Found a faded altar of an unknown god.
+  2322 | D:3      | Reached skill level 1 in Throwing
+  2610 | D:3      | Reached XP level 4. HP: 30/34 MP: 7/7
+  2993 | D:2      | Reached skill level 1 in Axes
+  3680 | D:4      | Reached XP level 5. HP: 41/41 MP: 0/8
+  4221 | D:4      | Noticed a two-headed ogre
+  4532 | D:4      | Learned a level 3 spell: Summon Guardian Golem
+  4533 | D:5      | Entered Level 5 of the Dungeon
+  4556 | D:5      | Reached skill level 1 in Hexes
+  4556 | D:5      | Reached XP level 6. HP: 45/48 MP: 10/10
+  4672 | D:4      | Entered wizard mode.
+  4672 | D:4      | testing armor skill impact
+  4692 | D:4      | armor not worth training yet
+  4868 | D:5      | Reached skill level 5 in Summonings
+  4938 | D:5      | Found a white marble altar of Elyvilon.
+  5006 | D:5      | Reached skill level 1 in Slings
+  5120 | D:5      | Noticed Sigmund
+  5138 | D:5      | Killed Sigmund
+  5138 | D:5      | Reached skill level 1 in Polearms
+  5138 | D:5      | Reached XP level 7. HP: 55/55 MP: 3/11
+  5359 | D:5      | Reached skill level 5 in Fighting
+  5400 | D:5      | Learned a level 1 spell: Confusing Touch
+  5402 | D:5      | Learned a level 1 spell: Animate Skeleton
+  5788 | D:5      | Reached skill level 1 in Necromancy
+  5864 | D:5      | killed sigmund with invis pot.  can't run if he wakes
+  6111 | D:6      | Found a glowing silver altar of Zin.
+  6255 | D:6      | Reached XP level 8. HP: 55/63 MP: 12/14
+  6592 | D:6      | Found a staircase to the Ecumenical Temple.
+  6633 | Temple   | Entered the Ecumenical Temple
+  6653 | Temple   | Became a worshipper of Ashenzari the Shackled
+  6785 | Temple   | had to lig vs a water moccasin.  could've played it better.
+                  | careless.
+  7298 | D:6      | Reached skill level 5 in Short Blades
+  7713 | D:6      | Learned a level 4 spell: Summon Ice Beast
+  8007 | D:7      | Reached skill level 1 in Ice Magic
+  8396 | D:7      | armor still not worth training
+  8426 | D:7      | Reached skill level 1 in Evocations
+  8640 | D:7      | dodge is worth training a level.  wrong to delay it.
+  8664 | D:7      | Reached XP level 9. HP: 70/72 MP: 12/15
+  8702 | D:7      | Learned a level 1 spell: Corona
+  9354 | D:7      | char is already OP
+  9354 | D:7      | are notes timestamped?
+  9742 | D:8      | Found a transporter.
+  9744 | D:8      | Noticed Jawnasyh's ghost (novice GrFi)
+  9764 | D:8      | Reached skill level 1 in Shields
+  9861 | D:8      | Noticed a two-headed ogre
+  9876 | D:8      | Killed a two-headed ogre
+ 10160 | D:8      | Reached skill level 1 in Maces & Flails
+ 10236 | D:8      | Noticed an orange crystal statue
+ 10578 | D:8      | Found a transporter.
+ 10774 | D:8      | Learned a level 2 spell: Ensorcelled Hibernation
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Fighting       |  1  2     3  4     5  7    |  7.5
+Short Blades   |  1     2  3     4     5  6 |  6.0
+Throwing       |        1              2    |  2.0
+Axes           |           1              2 |  2.1
+Spellcasting   |              3     4       |  4.9
+Hexes          |              1  2        4 |  4.0
+Summonings     |                 5     6  7 |  7.0
+Slings         |                 1     2    |  2.0
+Polearms       |                 1        2 |  2.0
+Necromancy     |                    1       |  1.2
+Stealth        |                       2    |  2.0
+Ice Magic      |                       2    |  2.1
+Evocations     |                       2    |  2.1
+Dodging        |                          3 |  3.0
+Shields        |                          4 |  4.0
+Maces & Flails |                          2 |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |    12 |       |    52 ||    64
+       Short sword       |    99 |   127 |   148 ||   374
+       Spear             |       |       |    38 ||    38
+       Hand axe          |       |       |     9 ||     9
+       Trident           |       |       |     7 ||     7
+       Flail             |       |       |     2 ||     2
+ Fire: Blowgun           |       |    15 |    37 ||    52
+       Hunting sling     |       |    12 |   132 ||   144
+Throw: Stone             |    51 |    64 |     3 ||   118
+       Tomahawk          |       |       |     2 ||     2
+ Cast: Summon Small Mamm |    23 |       |     1 ||    24
+       Call Imp          |     7 |    19 |    21 ||    47
+       Call Canine Famil |     2 |     4 |    10 ||    16
+       Confusing Touch   |       |       |    29 ||    29
+       Animate Skeleton  |       |       |    23 ||    23
+       Summon Guardian G |       |       |    11 ||    11
+       Corona            |       |       |     7 ||     7
+Invok: Curse Item        |       |       |     1 ||     1
+  Use: Scroll            |     4 |     5 |     9 ||    18
+       Potion            |       |     1 |     3 ||     4
+ Stab: Sleeping          |     2 |     1 |     1 ||     4
+       Distracted        |       |     1 |     5 ||     6
+       Invisible         |       |     1 |       ||     1
+       Confused          |       |       |    12 ||    12
+  Eat: Chunk             |     8 |    10 |    23 ||    41
+Armor: Robe              |     2 |       |       ||     2
+       Leather armour    |    30 |    36 |    51 ||   117
+       Skin              |       |       |    21 ||    21
+Dodge: Dodged            |    78 |    66 |    74 ||   218
+Block: Other             |     6 |    26 |    22 ||    54
+       Buckler           |       |       |    21 ||    21
+       Reflection        |       |       |     1 ||     1
+
