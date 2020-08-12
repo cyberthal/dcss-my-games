@@ -1,0 +1,451 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7362457592501528592
+
+Acaemana the Thaumaturge (Mummy Wizard)            Turns: 12522, Time: 02:22:56
+
+Health: 68/68      AC: 14    Str: 11    XL:     9   Next: 97%
+Magic:  22/22      EV: 11    Int: 23    God:    Kikubaaqudgha [**....]
+Gold:   63         SH:  0    Dex: 10    Spells: 6/26 levels left
+
+rFire    x . .     SeeInvis .   a - staff of wizardry
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   A - +0 leather armour
+rPois    ?          Spirit   .   I - +2 helmet {Int+3}
+rElec    .         Reflect  .   L - +1 cloak
+rCorr    .         Harm     .   m - +2 pair of gloves
+MR       ++...                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.21/turn              P - ring of protection from magic
+MPRegen  0.18/turn              v - +3 ring of protection
+
+@: studying Axes
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You are on level 8 of the Dungeon.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 9 of its levels.
+
+You have collected 338 gold pieces.
+You have spent 275 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ b - a +2 dagger of protection
+ c - a +0 dagger of venom
+ d - a +4 dagger
+ e - a +2 short sword of electrocution
+ f - a +5 flail of crushing
+ g - a +0 vampiric battleaxe
+ h - a +0 lajatang
+ i - a +0 halberd
+ j - a +0 shortbow
+ E - a +2 flail of protection
+ R - a +3 falchion
+Missiles
+ l - 75 arrows
+ B - a throwing net
+ G - 5 tomahawks
+ J - 4 poisoned tomahawks
+ M - 208 stones (quivered)
+ N - 22 sling bullets
+ O - 102 bolts
+Armour
+ m - a +2 pair of gloves (worn)
+ p - a +0 ring mail
+ A - a +0 leather armour (worn)
+ C - a +0 hat
+ I - a +2 helmet of intelligence (worn)
+ L - a +1 cloak (worn)
+Magical Staves
+ a - an uncursed staff of wizardry (weapon)
+ w - an uncursed staff of air
+ S - an uncursed staff of summoning
+Jewellery
+ r - a +3 ring of strength
+ v - a +3 ring of protection (right hand)
+ y - a dented zirconium amulet
+ P - a ring of protection from magic (left hand)
+Wands
+ n - a wand of polymorph (5)
+ u - a wand of random effects (37)
+ z - a wand of flame (12)
+ K - a wand of digging (6)
+Scrolls
+ k - 4 scrolls of remove curse
+ o - a scroll of magic mapping
+ q - a scroll of fear
+ s - a scroll labeled MOPNESEAST
+ t - 3 scrolls of teleportation
+ x - 2 scrolls of amnesia
+ D - a scroll labeled PIASIST IGOT
+ F - a scroll labeled IWA VIRCHAERUG
+Books
+ Q - a manual of Axes
+
+
+   Skills:
+ + Level 5.3 Fighting
+ - Level 4.0 Short Blades
+ + Level 1.1(2.0) Axes
+ - Level 1.1(1.4) Maces & Flails
+ - Level 2.0(2.2) Polearms
+ - Level 1.0 Bows
+ - Level 1.3 Throwing
+ - Level 1.0 Armour
+ - Level 2.0 Dodging
+ - Level 2.0 Stealth
+ - Level 9.0 Spellcasting
+ - Level 2.0 Conjurations
+ - Level 1.0 Hexes
+ - Level 1.0 Summonings
+ + Level 5.3 Necromancy
+ - Level 1.0 Translocations
+ - Level 1.1 Fire Magic
+ - Level 1.0 Air Magic
+ - Level 1.0 Poison Magic
+ - Level 4.0 Evocations
+
+
+You have 6 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ###.         1%          1    N/A
+b - Pain                  Necr           ####         1%          1    N/A
+c - Animate Skeleton      Necr           N/A          1%          1    N/A
+d - Slow                  Hex            ###.....     3%          2    N/A
+e - Call Imp              Summ           ###.....     3%          2    N/A
+f - Corpse Rot            Necr           N/A          1%          2    N/A
+g - Blink                 Tloc           N/A          3%          2    N/A
+h - Mephitic Cloud        Conj/Pois/Air  ###.....     6%          3    N/A
+i - Conjure Flame         Conj/Fire      ###.....     5%          3    N/A
+j - Vampiric Draining     Necr           #####.....   1%          3    N/A
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Lugonu
+
+Shops:
+D:7 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 leather armour. x4
+You finish taking off your +0 leather armour.
+You start putting on your armour.
+You continue putting on your +0 ring mail. x5
+You finish putting on your +0 ring mail.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-handed.
+a - an uncursed staff of wizardry (weapon)
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 ring mail. x4
+You finish taking off your +0 ring mail.
+You start putting on your armour.
+You continue putting on your +0 leather armour. x5
+You finish putting on your +0 leather armour.
+There is a stone staircase leading down here.
+Char dumped to '/Users/leo3/Library/Application Support/Dungeon Crawl Stone
+Soup/morgue/Acaemana.txt'.
+Enter note: char overpowered now
+
+####.#!.Z##.#.#    ##....#      #....#.#.#
+.....#..ZZ.#.## ####.....##     #....#.#.###
+###..#..[####.###.........###   #....#......
+  #..#########..............#   #.#..###%###
+  #..####P.~~~..###......##'### #........# #
+###..##...~~....'.#......#....# #..##.#### #
+.....#P.........###......#....# #.....#
+.##..###.####............###### #.###.###
+.##..# ###..'[.........##########.......####
+.###.#   ####.......##'#...#...##...#.......
+## #.#      ##....####.#..)'.[.##.#.#...####
+####.#       ##..##  #.....#.).##...#.###  #
+.....###########.#   ############.#.#.#    #
+#####.........##)#   #@[............#.#    #
+#   #.#####[#....#   #.####.###...#.#.#    #
+#   #.....#.#.########.####.###.......#    #
+#   #.###.#.#..<#............##...##..######
+#####.....#.#.###.####.......##............<
+......#.#.#.#.# #.#  #.......####.###.######
+#######.#.#.#.# #.#  #..#####..............Z
+#     #.#.#...# #.#  #.[#   #.###.###.######
+#     #.#.##### #.#  #..#   #.# #.# #.#
+###   #.......# #.#  #..#####.# #.# #.#
+..#####.#####.# #.#  #........# #.# #.######
+#.##........#.# #.#  #.######## #.# #.......
+#.##.##.###.#.# #.#  #.#        #.# ########
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A deep elf mage (D:8)
+  2 hippogriffs (D:8)
+  Edmund (D:5)
+  4 orc warriors (D:8)
+  A sky beast (D:6)
+  4 ogres
+  2 phantoms
+  A centaur (D:8)
+  2 bullfrogs (D:7)
+  A wyvern skeleton (D:8)
+  2 scorpions
+  3 killer bees (D:7)
+  4 howler monkeys
+  2 bullfrog zombies (D:8)
+  A crimson imp (D:8)
+  3 bullfrog skeletons
+  2 hounds
+  2 orc priests
+  9 orc wizards
+  Natasha (D:2)
+  Ijyb (D:4)
+  3 worker ants
+  A worker ant zombie (D:6)
+  A howler monkey skeleton (D:8)
+  4 gnolls
+  7 adders
+  A shadow imp (D:6)
+  An adder skeleton (D:4)
+  2 worms
+  3 leopard geckos
+  26 orcs
+  5 giant cockroaches
+  7 goblins
+  4 hobgoblins
+  13 jackals
+  5 kobolds
+  3 quokkas
+  A ball python (D:3)
+  4 bats
+  3 frilled lizards
+  A leopard gecko zombie (D:5)
+  2 quokka zombies (D:8)
+  4 rats
+150 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Sigmund (D:3)
+  A human (D:6)
+  An ogre (D:8)
+  2 bullfrogs
+  A wyvern skeleton (D:6)
+  A howler monkey (D:5)
+  A crimson imp (D:8)
+  An orc priest (D:6)
+  A hound (D:8)
+  An orc wizard (D:5)
+  Natasha (twice) (D:2)
+  A gnoll (D:4)
+  An adder (D:5)
+  An adder skeleton (D:6)
+  A worm (D:2)
+  An orc (D:6)
+  A bat (D:3)
+  2 giant cockroaches (D:1)
+  A goblin (D:6)
+  A hobgoblin (D:2)
+  A jackal (D:8)
+  2 kobolds
+  A rat (D:3)
+27 creatures vanquished.
+
+Vanquished Creatures (others)
+  A plant (D:5)
+1 creature vanquished.
+
+Grand Total: 178 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Acaemana the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+    86 | D:1      | Reached skill level 1 in Conjurations
+    86 | D:1      | Reached XP level 2. HP: 19/19 MP: 0/7
+   101 | D:1      | Learned a level 2 spell: Call Imp
+   305 | D:1      | Learned a level 2 spell: Blink
+   308 | D:1      | Learned a level 2 spell: Slow
+  1579 | D:2      | Reached skill level 1 in Summonings
+  1645 | D:2      | Found a sacrificial altar of Ru.
+  1652 | D:2      | Found a hide-covered altar of Uskayaw.
+  1652 | D:2      | Found a shimmering altar of Xom.
+  1653 | D:2      | Found a glowing golden altar of the Shining One.
+  1655 | D:2      | Found an iron altar of Okawaru.
+  1747 | D:2      | Reached skill level 1 in Translocations
+  1747 | D:2      | Reached XP level 3. HP: 25/25 MP: 6/8
+  1760 | D:1      | Learned a level 3 spell: Mephitic Cloud
+  2172 | D:2      | Entered wizard mode.
+  2235 | D:3      | Reached skill level 1 in Fighting
+  2372 | D:3      | Reached skill level 1 in Hexes
+  2375 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  2375 | D:3      | Found an ornate altar of the Wu Jian Council.
+  2577 | D:3      | Became a worshipper of Kikubaaqudgha
+  2613 | D:3      | Reached XP level 4. HP: 32/32 MP: 8/10
+  2627 | D:3      | Noticed Sigmund
+  2710 | D:3      | Noticed Natasha
+  2773 | D:2      | Killed Natasha
+  2773 | D:2      | Reached skill level 1 in Short Blades
+  3021 | D:2      | Noticed Natasha
+  3121 | D:2      | Killed Natasha
+  3121 | D:2      | Reached skill level 1 in Air Magic
+  3121 | D:2      | Reached skill level 1 in Poison Magic
+  3186 | D:2      | Noticed Natasha
+  3240 | D:2      | Killed Natasha
+  3240 | D:2      | Reached skill level 1 in Throwing
+  3331 | D:3      | Noticed a phantom
+  3534 | D:2      | Killed a phantom
+  3534 | D:2      | Reached skill level 1 in Evocations
+  3534 | D:2      | Reached XP level 5. HP: 34/38 MP: 4/11
+  3843 | D:3      | Killed Sigmund
+  3843 | D:3      | Reached XP level 6. HP: 47/47 MP: 1/12
+  4326 | D:3      | testing armor skill impact on spell failure now
+  4731 | D:3      | Reached skill level 5 in Spellcasting
+  4940 | D:4      | Reached XP level 7. HP: 44/52 MP: 14/14
+  5113 | D:3      | Learned a level 3 spell: Conjure Flame
+  5324 | D:4      | Found a staircase to the Ecumenical Temple.
+  5335 | Temple   | Entered the Ecumenical Temple
+  5646 | D:4      | Reached * piety under Kikubaaqudgha
+  5646 | D:4      | Identified Kikubaaqudgha's Tome of Darkness (Kikubaaqudgha
+                  | gifted it to you on level 4 of the Dungeon)
+  5646 | D:4      | Received a gift from Kikubaaqudgha
+  5657 | D:3      | Learned a level 1 spell: Animate Skeleton
+  5659 | D:3      | Learned a level 1 spell: Pain
+  5932 | D:5      | Entered Level 5 of the Dungeon
+  6156 | D:5      | Noticed Ijyb
+  6172 | D:4      | Killed Ijyb
+  6574 | D:5      | Reached skill level 1 in Necromancy
+  6695 | D:5      | Reached skill level 1 in Polearms
+  7153 | D:6      | Noticed Edmund
+  7194 | D:4      | Learned a level 2 spell: Corpse Rot
+  7257 | D:5      | Killed Edmund
+  7257 | D:5      | Reached skill level 1 in Fire Magic
+  7257 | D:5      | Reached XP level 8. HP: 61/61 MP: 4/16
+  7482 | D:6      | Found a bloodstained altar of Trog.
+  7596 | D:6      | Reached skill level 6 in Spellcasting
+  7684 | D:6      | Reached skill level 1 in Maces & Flails
+  7684 | D:6      | Reached skill level 1 in Bows
+  8414 | D:6      | Found a stormy altar of Qazlal.
+  8944 | D:7      | Reached skill level 7 in Spellcasting
+  8949 | D:7      | Learned a level 3 spell: Vampiric Draining
+  9176 | D:7      | Found Senasas's General Store.
+  9395 | D:7      | Reached skill level 5 in Fighting
+  9974 | D:7      | just crushing floors now!  build's awesome power achieved
+  9989 | D:7      | Reached XP level 9. HP: 54/68 MP: 12/19
+ 10251 | D:8      | Reached skill level 5 in Necromancy
+ 10390 | D:8      | Reached ** piety under Kikubaaqudgha
+ 10564 | D:8      | Found a glowing silver altar of Zin.
+ 11186 | D:8      | Reached skill level 1 in Armour
+ 11495 | D:8      | Noticed a deep elf mage
+ 11511 | D:8      | Killed a deep elf mage
+ 11511 | D:8      | Reached skill level 9 in Spellcasting
+ 11993 | D:8      | Reached skill level 1 in Axes
+ 12413 | D:7      | Bought an uncursed staff of summoning for 275 gold pieces
+ 12522 | D:8      | char overpowered now
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |  1              2          |  2.0
+Summonings     |     1                      |  1.0
+Translocations |     1                      |  1.0
+Fighting       |        1     3     4  5    |  5.3
+Hexes          |        1                   |  1.0
+Short Blades   |           1  2     3     4 |  4.0
+Air Magic      |           1                |  1.0
+Poison Magic   |           1                |  1.0
+Throwing       |           1                |  1.3
+Evocations     |           1           3  4 |  4.0
+Spellcasting   |                 5     7  9 |  9.0
+Necromancy     |                    1  4  5 |  5.3
+Polearms       |                    1     2 |  2.0
+Fire Magic     |                    1       |  1.1
+Maces & Flails |                       1    |  1.1
+Bows           |                       1    |  1.0
+Dodging        |                          2 |  2.0
+Armour         |                          1 |  1.0
+Stealth        |                          2 |  2.0
+Axes           |                          1 |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |     9 |       |       ||     9
+       Short sword       |    44 |    92 |   141 ||   277
+       Halberd           |       |       |    24 ||    24
+       Dagger            |       |       |    61 ||    61
+       Battleaxe         |       |       |     2 ||     2
+       Staff             |       |       |     1 ||     1
+ Fire: Shortbow          |       |       |    67 ||    67
+Throw: Stone             |    29 |    37 |    21 ||    87
+ Cast: Magic Dart        |    35 |     6 |    21 ||    62
+       Call Imp          |     7 |    26 |    28 ||    61
+       Slow              |     1 |     9 |    20 ||    30
+       Mephitic Cloud    |       |     5 |    28 ||    33
+       Animate Skeleton  |       |       |    44 ||    44
+       Pain              |       |       |    84 ||    84
+       Blink             |       |       |     3 ||     3
+       Corpse Rot        |       |       |     8 ||     8
+       Conjure Flame     |       |       |     8 ||     8
+       Vampiric Draining |       |       |     1 ||     1
+Evoke: Wand              |       |       |     5 ||     5
+  Use: Scroll            |     6 |       |     4 ||    10
+ Stab: Sleeping          |     1 |       |       ||     1
+       Distracted        |       |     1 |       ||     1
+       Confused          |       |     2 |     6 ||     8
+Armor: Leather armour    |    25 |    18 |    97 ||   140
+       Ring mail         |       |     6 |       ||     6
+Dodge: Dodged            |    32 |    48 |   138 ||   218
+

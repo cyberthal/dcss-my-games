@@ -1,0 +1,286 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12928963365952969111
+
+128 Hyidwuc the Magician (level 4, 0/33 HPs)
+             Began as a Mummy Wizard on Aug 10, 2020.
+             Killed by divine providence
+             ... invoked by an orc priest
+              (14 damage)
+             ... on level 3 of the Dungeon.
+             The game lasted 00:40:00 (5483 turns).
+
+Hyidwuc the Magician (Mummy Wizard)                 Turns: 5483, Time: 00:40:01
+
+Health: 0/33       AC:  7    Str: 11    XL:     4   Next: 87%
+Magic:  3/10       EV: 11    Int: 17    God:    
+Gold:   214        SH:  3    Dex: 10    Spells: 1/11 levels left
+
+rFire    x . .     SeeInvis .   b - +2 spear (freeze)
+rCold    + . .     Gourm    .   g - +0 buckler
+rNeg     + + +     Faith    .   w - +0 robe
+rPois    ?          Spirit   .   p - +2 helmet
+rElec    .         Reflect  .   s - +0 cloak
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  m - +0 pair of boots
+Stlth    ++........             (no amulet)
+HPRegen  0.11/turn              y - ring of resist corrosion
+MPRegen  0.12/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 5 of its levels.
+
+You collected 214 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling
+ b - a +2 spear of freezing (weapon)
+ c - a +0 dagger
+ e - a +1 dagger of holy wrath
+ j - a +0 hand axe
+ k - a +0 halberd
+ x - a +0 trident
+Missiles
+ o - 43 stones
+ q - 6 tomahawks (quivered)
+ t - 5 bolts
+Armour
+ d - a +0 ring mail
+ g - a +0 buckler (worn)
+ h - a +0 scale mail
+ m - a +0 pair of boots (worn)
+ p - a +2 helmet (worn)
+ s - a +0 cloak (worn)
+ w - a +0 robe (worn)
+Jewellery
+ y - a ring of resist corrosion (left hand)
+Scrolls
+ i - a scroll of remove curse
+ l - a scroll of noise
+ n - a scroll of blinking
+ r - a scroll of immolation {unknown}
+ u - a scroll of fear {unknown}
+ v - a scroll of amnesia
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 0.2 Short Blades
+   Level 0.6 Maces & Flails
+ + Level 0.4 Polearms
+ + Level 0.9 Slings
+ - Level 1.0 Armour
+ - Level 1.5 Dodging
+ - Level 1.5 Stealth
+ - Level 1.0 Shields
+ - Level 4.0 Spellcasting
+ - Level 1.2 Conjurations
+ - Level 1.0 Hexes
+ - Level 1.0 Summonings
+ - Level 1.0 Translocations
+ + Level 0.7 Fire Magic
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           #...         14%         1    N/A
+b - Slow                  Hex            #.......     22%         2    N/A
+c - Call Imp              Summ           #.......     22%         2    N/A
+d - Blink                 Tloc           N/A          22%         2    N/A
+e - Conjure Flame         Conj/Fire      #.......     43%         3    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Mephitic Cloud           Conj/Pois/Air  #.......     52%         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (1/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Fedhas
+Hepliaklqana
+Makhleb
+Okawaru
+Ru
+Sif Muna
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+There is a stone staircase leading down, spattered with blood here.
+You see here a +0 dagger.
+Casting: Slow (safe; 22% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+A beastly little devil appears in a puff of flame.
+The orc priest hits you with a +0 mace.
+Casting: Call Imp (safe; 22% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+A beastly little devil appears in a puff of frigid air.
+The orc priest hits you with a +0 mace.
+Casting: Call Imp (safe; 22% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+A beastly little devil appears in a puff of flame.
+Your white imp barely misses the orc priest.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +2 spear of freezing glows with a cold blue light!
+b - a +2 spear of freezing (weapon)
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+
+    #<....................#
+    ###.....#############.#
+      #.....#           #.#
+ ######.....#  ######   #.#
+ #......%...#  #....#   #.#
+ #.......####  #....#   #.#
+##.......#######....#   #.#
+.'..................#   #.#
+##.......#######....#   #.#
+ #####.......# #....#   #.#
+     ###.###.# ##'###   #.#
+ #######.# #.#  #.##  ###.#
+##.......###%####..####.#.#
+...%.................5@o#.#
+##.#########.#####.###.5#.####
+##.#       #.#   #.###5.#....#
+##.#      ##'#####..##..#.##.#######
+##.#      #.......................%##
+##.#      #.....###.................#
+##.#      #.....# ##..........##.#.##
+...#      #.....#  #...........#.#.#
+##.#      #.....#  #....###...##.#.#
+##.#      #%....####......#.%....#.#
+##.#      #.....#.......###...####.#
+##.#      #######.%................#
+ #.#            #.......###....#.###
+
+
+You could see an orc priest, 2 friendly crimson imps and a friendly white imp.
+
+Vanquished Creatures
+  An adder (D:3)
+  A gnoll (D:2)
+  2 dart slugs
+  A leopard gecko (D:3)
+  2 orcs (D:4)
+  4 giant cockroaches
+  15 goblins
+  10 hobgoblins
+  A quokka (D:4)
+  7 bats
+  9 frilled lizards
+  8 kobolds
+  5 rats
+66 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Robin (D:3)
+  3 gnolls (D:2)
+  2 worms
+  An orc (D:2)
+  A goblin (D:3)
+  A rat (D:3)
+9 creatures vanquished.
+
+Grand Total: 75 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hyidwuc the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+   234 | D:1      | Reached skill level 1 in Conjurations
+   431 | D:1      | Reached skill level 1 in Fighting
+   845 | D:1      | Reached XP level 2. HP: 21/21 MP: 0/7
+  1003 | D:1      | Learned a level 2 spell: Blink
+  1006 | D:1      | Learned a level 2 spell: Call Imp
+  1009 | D:1      | Learned a level 2 spell: Slow
+  2042 | D:2      | Reached skill level 1 in Summonings
+  2042 | D:2      | Reached XP level 3. HP: 26/26 MP: 6/8
+  2071 | D:2      | Reached skill level 1 in Shields
+  2071 | D:2      | Reached skill level 1 in Translocations
+  2412 | D:2      | You fall through a shaft!
+  2413 | D:3      | that was an illegitimate wizmode shafting, but I'll play it
+  2423 | D:3      | Learned a level 3 spell: Conjure Flame
+  3400 | D:2      | Reached skill level 1 in Hexes
+  3402 | D:2      | Reached XP level 4. HP: 33/33 MP: 8/10
+  3924 | D:3      | Noticed Robin
+  4936 | D:3      | Killed Robin
+  5157 | D:4      | Reached skill level 1 in Armour
+  5226 | D:4      | Found a staircase to the Ecumenical Temple.
+  5236 | Temple   | Entered the Ecumenical Temple
+  5483 | D:3      | Killed from afar by an orc priest
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Conjurations   |  1          |  1.2
+Fighting       |  1        2 |  2.0
+Summonings     |     1       |  1.0
+Shields        |        1    |  1.0
+Translocations |        1    |  1.0
+Hexes          |        1    |  1.0
+Armour         |           1 |  1.0
+Short Blades   |             |  0.2
+Maces & Flails |             |  0.6
+Polearms       |             |  0.4
+Slings         |             |  0.9
+Dodging        |             |  1.5
+Stealth        |             |  1.5
+Spellcasting   |             |  4.0
+Fire Magic     |             |  0.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Club              |    19 |       ||    19
+       Dagger            |     7 |       ||     7
+       Flail             |    41 |    64 ||   105
+       Spear             |     4 |    28 ||    32
+       Trident           |       |     5 ||     5
+ Fire: Hunting sling     |       |    46 ||    46
+Throw: Stone             |    27 |    29 ||    56
+ Cast: Magic Dart        |    54 |    13 ||    67
+       Call Imp          |     5 |    14 ||    19
+       Slow              |     3 |     6 ||     9
+       Conjure Flame     |     1 |       ||     1
+  Use: Scroll            |     4 |     1 ||     5
+ Stab: Sleeping          |     2 |       ||     2
+Armor: Robe              |     9 |    52 ||    61
+Dodge: Dodged            |    44 |    64 ||   108
+Block: Buckler           |     9 |    22 ||    31
+

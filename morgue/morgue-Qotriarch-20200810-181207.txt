@@ -1,0 +1,167 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16810430505622772686
+
+5 Qotriarch the Magician (level 1, 13/13 HPs) *WIZ*
+             Began as a Mummy Wizard on Aug 10, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:07:30 (143 turns).
+
+Qotriarch the Magician (Mummy Wizard)                Turns: 143, Time: 00:07:31
+
+Health: 13/13      AC:  2    Str: 10    XL:     1   Next: 66%
+Magic:  0/5        EV: 12    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 7/8 levels left
+
+rFire    x . .     SeeInvis .   (no weapon)
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 1.7 Stealth
+ + Level 4.1 Spellcasting
+ + Level 1.0 Conjurations
+   Level 0.7 Summonings
+   Level 0.7 Translocations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           6 (25)       11%         1    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          17%         2    N/A
+ Call Imp                 Summ           5 (100)      17%         2    N/A
+ Slow                     Hex            3 (100)      24%         2    N/A
+ Conjure Flame            Conj/Fire      5 (100)      36%         3    N/A
+ Mephitic Cloud           Conj/Pois/Air  4 (100)      38%         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Casting: Magic Dart (safe; 11% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart (safe; 11% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - goblin
+Aim: a goblin, wielding a +0 club (heavily wounded)
+The magic dart hits the goblin.
+The goblin is heavily wounded.
+Press: ? - help, v - describe, . - travel
+Here: a goblin, wielding a +0 club (heavily wounded)
+The floor, spattered with blood.
+Enter Wizard Command (? - help): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+           ###..##...........#
+          ##.........7#7#7#7##
+          #......#.##########
+          #.................#
+       ####.##.######.##.##.###
+   #####>......#    #.##.#....#
+   #........##.#    #.##....###
+   #........##.###  ####...##
+   #........##...#######...#
+   #..(.######...........###
+   #....#...##....######.#
+ ###....#.7.7.7.7.#    #.#
+ #.....)..........######g####
+ #.##.##.#7#7.7#7.....@.....#
+##.##.##.##.#.# #....########
+...##.##....7.7 #..####
+##.##.##.#b...# #.....#
+ #..........### #.###.#
+ #######.##.#   #.# #.#
+       #....#   #<###.#
+       ######   #.....#
+                ###.#)#
+                  #...#
+                  #####
+
+
+You could see a goblin.
+
+Vanquished Creatures
+  4 jackals (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qotriarch the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+    29 | D:1      | Slain by a jackal (1 damage)
+    78 | D:1      | Slain by a jackal (3 damage)
+    93 | D:1      | Slain by a jackal (2 damage)
+   125 | D:1      | Reached skill level 1 in Conjurations
+   128 | D:1      | Slain by a jackal (1 damage)
+   141 | D:1      | Slain by a jackal (3 damage)
+   143 | D:2      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Conjurations   |  1 |  1.0
+Dodging        |    |  1.7
+Stealth        |    |  1.7
+Spellcasting   |    |  4.1
+Summonings     |    |  0.7
+Translocations |    |  0.7
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||  4063
+ Cast: Magic Dart        ||    21
+Armor: Robe              ||   607
+Dodge: Dodged            ||  2342
+

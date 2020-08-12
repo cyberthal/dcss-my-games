@@ -1,0 +1,456 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5003910669668965575
+
+3679 Domown the Thaumaturge (level 9, 19/68 HPs) *WIZ*
+             Began as a Mummy Wizard on Aug 10, 2020.
+             Was a Believer of Kikubaaqudgha.
+             Quit the game on level 8 of the Dungeon on Aug 11, 2020.
+             The game lasted 02:52:24 (18299 turns).
+
+Domown the Thaumaturge (Mummy Wizard)              Turns: 18299, Time: 02:52:24
+
+Health: 19/68      AC:  4    Str: 10    XL:     9   Next: 90%
+Magic:  11/21      EV: 26    Int: 26    God:    Kikubaaqudgha [**....]
+Gold:   511        SH:  0    Dex: 10    Spells: 3/24 levels left
+
+rFire    x . .     SeeInvis .   b - +4 quarterstaff (protect)
+rCold    + + .     Gourm    .   (shield currently unavailable)
+rNeg     + + +     Faith    .   j - +1 leather armour
+rPois    ?          Spirit   .   p - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    +.........             l - amulet of the acrobat
+HPRegen  0.21/turn              o - +5 ring of intelligence
+MPRegen  0.17/turn              A - ring of protection from cold
+
+@: acrobat, very slightly contaminated
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+You also visited: Bailey.
+
+You collected 511 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 hunting sling
+ b - a +4 quarterstaff of protection (weapon)
+ c - a +4 dagger of speed
+ d - a +0 trident
+ e - a +1 hand axe of flaming
+ t - a +0 hand axe of chopping
+ y - a +0 shortbow
+ B - a +1 long sword of protection
+Missiles
+ f - 77 bolts
+ g - 64 sling bullets
+ h - 151 arrows
+ i - 29 poisoned needles
+ r - 138 stones
+ x - 4 steel javelins
+ C - a tomahawk (quivered)
+Armour
+ j - a +1 leather armour (worn)
+ m - a +0 ring mail
+ n - a +0 plate armour
+ p - a +0 hat (worn)
+ u - a +0 large shield
+Jewellery
+ l - an amulet of the acrobat (around neck)
+ o - a +5 ring of intelligence (left hand)
+ A - a ring of protection from cold (right hand)
+Wands
+ k - a wand of clouds (6)
+ v - a wand of random effects (13)
+Scrolls
+ q - 2 scrolls of remove curse
+ s - 2 scrolls of immolation
+ w - 2 scrolls of identify
+ z - 2 scrolls of amnesia
+
+
+   Skills:
+ - Level 5.2 Fighting
+ - Level 3.0 Short Blades
+ - Level 3.0 Polearms
+ + Level 3.5 Slings
+ - Level 4.0 Armour
+ - Level 1.5 Dodging
+ - Level 1.5 Stealth
+ - Level 8.1 Spellcasting
+ - Level 2.8 Conjurations
+ - Level 2.0 Hexes
+ - Level 2.0 Summonings
+ - Level 2.0 Necromancy
+ - Level 1.0 Translocations
+ - Level 1.0 Fire Magic
+ - Level 4.1 Evocations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         2%          1    N/A
+b - Pain                  Necr           ###.         3%          1    N/A
+c - Summon Small Mammal   Summ           ###.         3%          1    N/A
+d - Animate Skeleton      Necr           N/A          3%          1    N/A
+e - Slow                  Hex            ###.....     4%          2    N/A
+f - Call Imp              Summ           ###.....     4%          2    N/A
+g - Corpse Rot            Necr           N/A          4%          2    N/A
+h - Blink                 Tloc           N/A          8%          2    N/A
+i - Call Canine Familiar  Summ           ###.....     10%         3    N/A
+j - Summon Guardian Gole  Hex/Summ       ###.....     10%         3    N/A
+k - Conjure Flame         Conj/Fire      ###.....     10%         3    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sandblast                Erth           ##....       8%          1    N/A
+ Vampiric Draining        Necr           ###.......   10%         3    N/A
+ Passwall                 Tmut/Erth      ##......     11%         2    N/A
+ Stone Arrow              Conj/Erth      ###...       12%         3    N/A
+ Mephitic Cloud           Conj/Pois/Air  ###.....     16%         3    N/A
+ Animate Dead             Necr           N/A          32%         4    N/A
+ Summon Ice Beast         Ice/Summ       ###.....     43%         4    N/A
+ Summon Lightning Spire   Summ/Air       ###.....     43%         4    N/A
+ Petrify                  Tmut/Erth      ##......     58%         4    N/A
+ Lee's Rapid Deconstruct  Erth           ##........   90%         5    N/A
+ Regeneration             Chrm/Necr      Unusable     N/A         3    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:5         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 !
+
+Annotations:
+D:4 deadly orc pack
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Your guardian golem is engulfed in blazing flames.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: a guardian golem (flame, severely damaged, friendly, summoned)
+A tomahawk.
+The floor.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+Retreat in which direction?
+Press: ? - help, Dir - move target cursor
+Fall back!
+Your guardian golem is engulfed in blazing flames.
+Your guardian golem is engulfed in blazing flames.
+Your guardian golem is engulfed in blazing flames.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   ##...........##.#.#..#.####..# #.#
+  ##......########.##......###.## #.#
+ ##.......#      #.##.#.#....#%%# #.#
+ #......###      #.##.#.##.########.#
+ ##....## ########......#...#   #...#
+  ##.#..# #.......###.###.#.#   #...# ##
+ ###.##.###...............#.#####...###.
+ #................8##.....#.............
+ #.~~~~~~~...........>.#######..........
+##.)#####~......000##.....#.........[...
+#..~#...#~.......00##.##..#.#####...###.
+#..~#.\.)~.......000......#.# ###.[.###.
+#..~#.))#~.#######0##.##....# #.......##
+#..~#####~.#     #@##..#.#### #.#...#.##
+#..~~~~~~~.#     #.###.#.#    #.#.......
+#..........#  ####.......#    #.#...#.##
+#......#..##  #......#.###  ###.#...#.#
+#####.###.##  #.####.#.#    #.........#
+  ##.## ##.####.#......#    #.#.###.#.#
+ ##.##   ##..........### ####.#..)..#.##
+ #...## ##.####.#....#   #...[...#......
+ #.##.###.##  #......#   #.##.#.###.#.##
+ #.###.#.######.##########.##.#.###.#.#
+ #......~......!#     #.).............##
+ #.:.~..~~...~..#     #.##.....###...<..
+ ##....~~~~~....#    ##.##.....###.#####
+
+
+You could see a friendly guardian golem.
+
+Vanquished Creatures
+  An orc knight (Bailey)
+  A yak (D:5)
+  An orc warrior (Bailey)
+  An ice beast (D:4)
+  A sky beast (D:5)
+  2 phantoms (D:8)
+  2 wolves (D:8)
+  A bullfrog (D:6)
+  2 scorpions
+  4 howler monkeys
+  2 crimson imps
+  A bullfrog skeleton (D:6)
+  A hound (D:7)
+  An orc wizard (D:6)
+  A centaur skeleton (D:4)
+  An orc priest (D:7)
+  An iguana (D:7)
+  3 worker ants
+  2 hound skeletons (D:6)
+  8 adders
+  2 shadow imps
+  2 oozes
+  An adder zombie (D:9)
+  A worm (D:6)
+  3 dart slugs (D:1)
+  A leopard gecko (D:6)
+  15 orcs
+  7 bats
+  6 giant cockroaches
+  10 goblins
+  7 hobgoblins
+  3 jackals (D:5)
+  4 kobolds
+  3 quokkas
+  5 frilled lizards
+  A quokka zombie (D:8)
+  16 rats
+124 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Grinder (D:6)
+  A spriggan (D:8)
+  2 yaks
+  A hungry ghost (D:7)
+  Menkaure (D:7)
+  Duvessa (D:7)
+  2 orc warriors
+  A necrophage (D:8)
+  2 centaurs
+  2 ogres
+  Dowan (D:7)
+  A crimson imp (D:5)
+  8 orc priests
+  Jessica (D:7)
+  An iguana (D:3)
+  6 orc wizards
+  4 worms
+  2 orcs
+  A bat (D:1)
+  A goblin (D:8)
+  A hobgoblin (D:1)
+  A jackal (D:5)
+  A kobold (D:1)
+43 creatures vanquished.
+
+Vanquished Creatures (others)
+  A two-headed ogre (D:8)
+  An orc warrior (D:6)
+  An ooze (D:7)
+3 creatures vanquished.
+
+Grand Total: 170 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Domown the Mummy Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 5/5
+    39 | D:1      | Reached skill level 1 in Conjurations
+   141 | D:1      | Reached skill level 1 in Fighting
+   145 | D:1      | Entered wizard mode.
+   455 | D:1      | Reached XP level 2. HP: 15/21 MP: 0/7
+   532 | D:1      | Learned a level 2 spell: Slow
+   535 | D:1      | Learned a level 2 spell: Call Imp
+   538 | D:1      | Learned a level 2 spell: Blink
+  1453 | D:1      | Reached skill level 1 in Summonings
+  1453 | D:1      | Reached skill level 1 in Translocations
+  1687 | D:1      | Reached skill level 1 in Hexes
+  1698 | D:1      | Reached XP level 3. HP: 27/27 MP: 6/8
+  2740 | D:2      | Reached skill level 1 in Short Blades
+  3625 | D:2      | Reached XP level 4. HP: 24/34 MP: 8/10
+  3632 | D:2      | Learned a level 3 spell: Conjure Flame
+  4202 | D:3      | Found a sacrificial altar of Ru.
+  4659 | D:3      | Found an iron altar of Okawaru.
+  4874 | D:3      | Found an opulent altar of Gozag.
+  4979 | D:3      | Found a glowing golden altar of the Shining One.
+  5078 | D:3      | Found a shadowy altar of Dithmenos.
+  5078 | D:3      | Found a shimmering altar of Xom.
+  5080 | D:3      | Found a white marble altar of Elyvilon.
+  5081 | D:3      | Found a deep blue altar of Sif Muna.
+  5188 | D:3      | Found an ornate altar of the Wu Jian Council.
+  5517 | D:3      | Reached skill level 1 in Armour
+  6205 | D:4      | Reached XP level 5. HP: 33/41 MP: 5/11
+  7032 | D:4      | deadly orc pack ambush behind door - 3 priests and a fire
+                  | wizard.  cost me my teleport and fog scroll to survive,
+                  | down to 10 HP!
+  7034 | D:5      | Entered Level 5 of the Dungeon
+  7139 | D:5      | Found a staircase to the Ecumenical Temple.
+  7158 | D:5      | Noticed an ice beast
+  7160 | Temple   | Entered the Ecumenical Temple
+  7253 | Temple   | Became a worshipper of Kikubaaqudgha
+  7508 | D:4      | Killed an ice beast
+  7508 | D:4      | Reached skill level 1 in Polearms
+  7508 | D:4      | Reached skill level 1 in Slings
+  7511 | D:4      | Learned a level 1 spell: Summon Small Mammal
+  7721 | D:5      | Noticed a sky beast
+  7839 | D:5      | Found Pulah's Distillery.
+  7899 | D:5      | Found a radiant altar of Vehumet.
+  8020 | D:5      | Killed a sky beast
+  8020 | D:5      | Reached skill level 1 in Fire Magic
+  8020 | D:5      | Reached XP level 6. HP: 47/47 MP: 4/12
+  8750 | D:5      | Reached skill level 5 in Spellcasting
+  8797 | D:5      | Learned a level 3 spell: Call Canine Familiar
+  9439 | D:6      | Noticed Grinder
+  9446 | D:6      | Paralysed by Grinder for 6 turns
+  9454 | D:6      | Paralysed by Grinder for 4 turns
+  9573 | D:6      | Killed Grinder
+  9573 | D:6      | Reached XP level 7. HP: 53/53 MP: 8/14
+  9633 | D:6      | Noticed a moth of wrath
+  9636 | D:6      | Found a bloodstained altar of Trog.
+  9658 | D:6      | Noticed a yak
+  9682 | D:6      | Noticed a yak
+  9688 | D:6      | Noticed a yak
+  9734 | D:6      | Killed a yak
+ 10075 | D:5      | Killed a yak
+ 10075 | D:5      | Reached skill level 1 in Evocations
+ 10660 | D:5      | Killed a yak
+ 11210 | D:5      | Learned a level 3 spell: Summon Guardian Golem
+ 11216 | D:5      | Reached XP level 8. HP: 58/60 MP: 16/16
+ 11444 | D:6      | Reached * piety under Kikubaaqudgha
+ 11444 | D:6      | Identified Kikubaaqudgha's Disquisition on Sinister Rituals
+                  | (Kikubaaqudgha gifted it to you on level 6 of the Dungeon)
+ 11444 | D:6      | Received a gift from Kikubaaqudgha
+ 11448 | D:6      | Learned a level 1 spell: Animate Skeleton
+ 11801 | D:7      | Noticed Menkaure
+ 11932 | D:7      | Killed Menkaure
+ 12042 | D:7      | Noticed Jessica
+ 12045 | D:7      | Killed Jessica
+ 12066 | D:7      | Found a hazy altar of Hepliaklqana.
+ 12077 | D:7      | Reached skill level 1 in Necromancy
+ 12185 | D:7      | Reached skill level 6 in Spellcasting
+ 12472 | D:7      | Found a deep blue altar of Sif Muna.
+ 12534 | D:7      | Learned a level 1 spell: Pain
+ 12549 | D:7      | Noticed Dowan
+ 13309 | D:7      | Noticed Duvessa
+ 13347 | D:7      | Killed Duvessa
+ 13347 | D:7      | Killed Dowan
+ 14370 | D:7      | facing another priest-heavy orc pack cost me a Blink
+                  | scroll.  maybe avoidable.
+ 14646 | D:6      | Reached XP level 9. HP: 52/65 MP: 14/19
+ 15609 | D:4      | Reached skill level 7 in Spellcasting
+ 16513 | D:7      | Learned a level 2 spell: Corpse Rot
+ 16665 | D:8      | Noticed a two-headed ogre
+ 16680 | D:8      | Killed a two-headed ogre
+ 16680 | D:8      | Reached skill level 5 in Fighting
+ 16817 | D:8      | Found a stormy altar of Qazlal.
+ 16869 | D:8      | Found a flagged portal.
+ 16885 | Bailey   | Entered a bailey
+ 16885 | Bailey   | Noticed an orc knight
+ 16890 | Bailey   | Killed an orc knight
+ 16913 | Bailey   | Reached skill level 8 in Spellcasting
+ 16918 | Bailey   | Noticed an orc knight
+ 17509 | D:8      | Reached ** piety under Kikubaaqudgha
+ 18299 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Conjurations   |  1                       2 |  2.8
+Fighting       |  1     2  3        4     5 |  5.2
+Summonings     |     1                 2    |  2.0
+Translocations |     1                      |  1.0
+Hexes          |     1                 2    |  2.0
+Short Blades   |        1     2        3    |  3.0
+Armour         |           1     2     3  4 |  4.0
+Polearms       |              1        3    |  3.0
+Slings         |              1     2  3    |  3.5
+Fire Magic     |              1             |  1.0
+Spellcasting   |                 5     6  8 |  8.1
+Evocations     |                    2  3  4 |  4.1
+Necromancy     |                       2    |  2.0
+Dodging        |                            |  1.5
+Stealth        |                            |  1.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Dagger            |  4080 |   108 |   134 ||  4322
+       Club              |  4000 |       |       ||  4000
+       Trident           |       |     7 |    60 ||    67
+       Quarterstaff      |       |       |    45 ||    45
+ Fire: Hunting sling     |       |    44 |   154 ||   198
+Throw: Stone             |    15 |    15 |       ||    30
+       Javelin           |       |       |     1 ||     1
+       Tomahawk          |       |       |     1 ||     1
+ Cast: Magic Dart        |    80 |    25 |    13 ||   118
+       Call Imp          |    18 |    38 |    41 ||    97
+       Slow              |     4 |     3 |    18 ||    25
+       Conjure Flame     |       |     5 |       ||     5
+       Call Canine Famil |       |       |    25 ||    25
+       Summon Guardian G |       |       |    32 ||    32
+       Pain              |       |       |    10 ||    10
+       Animate Skeleton  |       |       |    15 ||    15
+       Blink             |       |       |    31 ||    31
+       Corpse Rot        |       |       |     1 ||     1
+Invok: Receive Corpses   |       |       |     1 ||     1
+Evoke: Wand              |       |       |     5 ||     5
+  Use: Scroll            |     6 |     7 |     8 ||    21
+ Stab: Sleeping          |     1 |       |       ||     1
+       Distracted        |       |     1 |     2 ||     3
+Armor: Robe              |  1123 |       |       ||  1123
+       Leather armour    |     3 |    15 |    33 ||    51
+Dodge: Dodged            |  4668 |    47 |   103 ||  4818
+

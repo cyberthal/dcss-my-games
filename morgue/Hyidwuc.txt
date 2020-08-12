@@ -2,7 +2,7 @@
 
 Game seed: 12928963365952969111
 
-Hyidwuc the Magician (Mummy Wizard)                 Turns: 2412, Time: 00:12:30
+Hyidwuc the Magician (Mummy Wizard)                 Turns: 2413, Time: 00:14:26
 
 Health: 27/27      AC:  3    Str: 11    XL:     3   Next: 50%
 Magic:  8/8        EV: 11    Int: 17    God:    
@@ -25,10 +25,10 @@ resistance 3, torment resistance, unbreathing
 a: no special abilities
 
 
-You are on level 2 of the Dungeon.
+You are on level 3 of the Dungeon.
 You are not hungry.
 
-You have visited 1 branch of the dungeon, and seen 2 of its levels.
+You have visited 1 branch of the dungeon, and seen 3 of its levels.
 
 You have collected 93 gold pieces.
 
@@ -105,52 +105,44 @@ You can survive without breathing.
 
 Message History
 
-You hit the gnoll.
-You kill the gnoll!
-You see here a +0 halberd.
-k - a +0 halberd
-Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
-You are now empty-handed.
-Adjust (i)tems, (s)pells, or (a)bilities? 
-Adjust which item? (? for menu, Esc to quit)
-Okay, then.
-Move the cursor to view the level map, or type ? for a list of commands.
-Returning to the game...
-There is a stone staircase leading up here.
-You climb upwards.
-There is a stone staircase leading down here.
 You start resting.
 Magic restored.
 You climb downwards.
 There is a stone staircase leading up here.
 a - a +0 flail (weapon)
 Saving game... please wait.
+Welcome back, Hyidwuc the Mummy Wizard.
+Press ? for a list of commands and other information.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? imp
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Saving game... please wait.
+Welcome back, Hyidwuc the Mummy Wizard.
+Press ? for a list of commands and other information.
+Autopickup is now off.
+You fall through a shaft!
+The shaft crumbles and collapses.
+Enter note: that was an illegitimate wizmode shafting, but I'll play it
+Saving game... please wait.
 
-       ....#
-       ....###
-       ......#
-       #.....#  #
-       #.....#  #.
-       #.....#  #..
- #######.....#  #...####
- ............+  +..gg..g
- #####.......#  #...####
-     #.......#  #..    #
-     #.......#  #.     #
- #####..######  #      #
- #@.....#              #
- #####.##              #
-     #.#               #
-     #.#               #
-######.#               #
-#......#               #
-#.###### ###############
-#.#      #.....)........
-#.#      #.#############
-#.#      #.#
-#.#      #.#
-#.#      #.#
-#.#      #.#
+      #.#
+#     #.#
+#.    #.#
+#..   #.#
+....  #.#
+#....##.#
+#.......#
+      #@#
+      #.#
+      #.#
+      #.#
+      #.#
+      ###
 
 
 There are no monsters in sight!
@@ -187,6 +179,8 @@ Turn   | Place    | Note
   2042 | D:2      | Reached XP level 3. HP: 26/26 MP: 6/8
   2071 | D:2      | Reached skill level 1 in Shields
   2071 | D:2      | Reached skill level 1 in Translocations
+  2412 | D:2      | You fall through a shaft!
+  2413 | D:3      | that was an illegitimate wizmode shafting, but I'll play it
 
 Skill      XL: |  1  2  3 |
 ---------------+----------+-----
