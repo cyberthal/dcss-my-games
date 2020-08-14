@@ -8,7 +8,7 @@ Level 1 of the Dungeon
 (12, 20, D:1)
   a +0 club
 (24, 19, D:1)
-  a spear
+  a +0 spear
 (25, 12, D:1)
   a +0 dagger
 (40, -5, D:1)
@@ -39,9 +39,9 @@ Level 2 of the Dungeon
 
 Level 3 of the Dungeon
 (0, 0, D:3)
-  a ring mail
+  a +0 ring mail
 (14, 27, D:3)
-  a mace
+  a +0 mace
 (18, 3, D:3)
   a +0 dagger
   a cursed +0 robe
@@ -51,7 +51,7 @@ Level 3 of the Dungeon
   a +0 leather armour
   a +0 flail
 (25, 17, D:3)
-  a leather armour
+  a +0 leather armour
 (28, 0, D:3)
   a +0 ring mail
   a +0 falchion
@@ -69,7 +69,7 @@ Level 3 of the Dungeon
 (33, 9, D:3)
   a +0 dagger
 (34, 9, D:3)
-  a robe
+  a +0 robe
 
 Level 4 of the Dungeon
 [Shop] Okinudd's Magic Scroll Boutique
@@ -136,7 +136,7 @@ Level 4 of the Dungeon
 (34, -29, D:4)
   a +0 halberd
 (34, -22, D:4)
-  a plate armour
+  a +0 plate armour
 (35, -23, D:4)
   a +0 whip
 (36, -23, D:4)
@@ -153,14 +153,14 @@ Level 4 of the Dungeon
 (43, -37, D:4)
   a +0 whip
 (56, -34, D:4)
-  a leather armour
+  a +0 leather armour
 
 Level 5 of the Dungeon
 (0, 0, D:5)
   a +0 robe
   a +0 dagger
 (7, 8, D:5)
-  a mace
+  a +0 mace
 (8, 4, D:5)
   3 scrolls of random uselessness
 (8, 26, D:5)
@@ -168,15 +168,15 @@ Level 5 of the Dungeon
 (17, 14, D:5)
   a +0 club
 (38, 26, D:5)
-  a scale mail
+  a +0 scale mail
 (40, -9, D:5)
-  a helmet
+  a +0 helmet
 (40, 46, D:5)
-  a leather armour
+  a +0 leather armour
 (41, 13, D:5)
   a +0 club
 (56, 17, D:5)
-  a flail
+  a +0 flail
 
 Level 6 of the Dungeon
 (0, 0, D:6)
@@ -195,13 +195,13 @@ Level 6 of the Dungeon
 (1, 1, D:6)
   a +0 mace
 (2, 1, D:6)
-  a spear
+  a +0 spear
 (9, 20, D:6)
-  a long sword
+  a +0 long sword
 
 Level 7 of the Dungeon
 (0, 0, D:7)
-  a leather armour
+  a +0 leather armour
 (3, -44, D:7)
   a scroll of random uselessness
 (4, -15, D:7)
@@ -215,7 +215,7 @@ Level 7 of the Dungeon
   a +0 robe
   a +0 shortbow
 (30, -16, D:7)
-  a leather armour
+  a +0 leather armour
 (37, -23, D:7)
   a +3 scale mail
 (39, -22, D:7)
@@ -233,31 +233,31 @@ Level 7 of the Dungeon
 (47, -30, D:7)
   a +0 hand axe
 (49, -24, D:7)
-  a helmet
+  a +0 helmet
 
 Level 8 of the Dungeon
 (0, 0, D:8)
-  a pair of boots
+  a +0 pair of boots
 (11, -33, D:8)
-  a whip
+  a +0 whip
 (23, -27, D:8)
-  a buckler
+  a +0 buckler
 (30, -15, D:8)
   a +0 flail
 (36, -42, D:8)
-  a robe
+  a +0 robe
 (44, -25, D:8)
   a +0 short sword
 (44, -24, D:8)
   a +0 short sword
 (45, -16, D:8)
-  a club
+  a +0 club
 (47, -21, D:8)
   a +0 short sword
 (47, -20, D:8)
   a +0 short sword
 (48, 14, D:8)
-  a short sword
+  a cursed -2 short sword
 (49, -20, D:8)
   a +0 club
   a +0 dagger
@@ -299,14 +299,14 @@ Level 9 of the Dungeon
   a +0 robe
   a +0 giant club
 (24, 5, D:9)
-  ice dragon scales
+  +0 ice dragon scales
   a +4 chain mail of cold resistance
   a +2 pair of gloves of dexterity
 (24, 6, D:9)
   the cursed +0 chain mail of Satwi {Str+3}
     It affects your strength (+3).
     It has a curse placed upon it.
-  a glowing buckler
+  a +2 buckler of protection
   a +2 pair of gloves
   +0 acid dragon scales
   a +2 cloak
@@ -336,7 +336,7 @@ Level 9 of the Dungeon
   a +0 rapier of electrocution
   a +0 mace of protection
   a +0 long sword of freezing
-  a broad axe
+  a +0 broad axe
   a +2 scimitar of flaming
   a +0 hunting sling of flaming
   a +1 dagger of venom
@@ -367,7 +367,7 @@ Level 9 of the Dungeon
 (29, 10, D:9)
   a +0 animal skin
 (30, 26, D:9)
-  a whip
+  a +0 whip
 (38, 44, D:9)
   a cursed -1 club
   a +0 ring mail
@@ -413,34 +413,33 @@ Level 9 of the Dungeon
 Level 10 of the Dungeon
 [Shop] Gihuam's Distillery
   a potion of mutation (96 gold)
-  a potion of berserk rage (60 gold)
   2 potions of resistance (240 gold)
   a potion of mutation (96 gold)
   a potion of degeneration (12 gold)
 (0, 0, D:10)
-  a hand axe
+  a +0 hand axe
 (12, -8, D:10)
-  a mace
+  a +0 mace
 (13, 5, D:10)
   a +0 whip
   a cursed +0 club
   a +0 dagger
   a +0 robe
 (29, -10, D:10)
-  a morningstar
+  a +0 morningstar
 (32, -19, D:10)
-  a robe
+  a +0 robe
 (34, -1, D:10)
-  a falchion
+  a +0 falchion
 
 Level 11 of the Dungeon
 [Shop] Xaulylef's Jewellery Shoppe
   a +3 ring of protection (315 gold)
   a cursed ring of teleportation (67 gold)
   a +2 ring of strength (112 gold)
-  a cursed amulet of inaccuracy (unknown) (30 gold)
+  a cursed amulet of inaccuracy (30 gold)
   an uncursed ring of see invisible (225 gold)
-  a cursed -2 ring of dexterity (unknown) (30 gold)
+  a cursed -2 ring of dexterity (30 gold)
   an uncursed amulet of the gourmand (450 gold)
 (0, 0, D:11)
   the ring "Helymp" {*Drain rPois Str+6 Dex-3 Stlth-}
@@ -460,14 +459,14 @@ Level 11 of the Dungeon
     (-5).
     It lets you see invisible.
     It lets you turn invisible.
-  a staff of energy
+  an uncursed staff of energy
   a phial of floods
   a phial of floods
   a +1 ring of protection
 (7, 0, D:11)
-  a robe
+  a +0 robe
 (19, 28, D:11)
-  a long sword
+  a +0 long sword
 (21, 10, D:11)
   a +0 dagger
 (22, 1, D:11)
@@ -490,7 +489,7 @@ Level 11 of the Dungeon
 (24, -4, D:11)
   a +0 giant spiked club
 (25, 29, D:11)
-  a ring mail
+  a +0 ring mail
 (27, 3, D:11)
   a +0 dagger
   a +0 shortbow
@@ -533,7 +532,7 @@ Level 11 of the Dungeon
   a +0 robe
   a +0 dagger
 (32, 21, D:11)
-  a flail
+  a +0 flail
   a +0 dagger
   a +0 blowgun
 (34, 18, D:11)
@@ -542,7 +541,7 @@ Level 11 of the Dungeon
   a cursed -3 giant club
   a +0 giant club
 (36, -6, D:11)
-  a chain mail
+  a +0 chain mail
 (39, 12, D:11)
   a +0 shortbow
   a +0 shortbow
@@ -560,9 +559,9 @@ Level 11 of the Dungeon
 
 Level 12 of the Dungeon
 (0, 0, D:12)
-  a robe
+  a +0 robe
 (0, 10, D:12)
-  a trident
+  a +0 trident
 (1, 0, D:12)
   a +0 scale mail of poison resistance
 (2, -3, D:12)
@@ -576,14 +575,14 @@ Level 12 of the Dungeon
   a +0 chain mail
   a +2 long sword of flaming
 (6, -17, D:12)
-  a pair of gloves
+  a +0 pair of gloves
 (15, -18, D:12)
   a +0 giant club
   a +0 giant club
 (27, -14, D:12)
-  a pair of boots
+  a +0 pair of boots
 (34, -6, D:12)
-  a runed robe
+  a cursed +0 robe
 (51, 12, D:12)
   a +0 war axe
   a +0 robe
@@ -630,7 +629,7 @@ Level 13 of the Dungeon
   a +0 dagger
   a +0 hand axe
 (11, 13, D:13)
-  a leather armour
+  a +0 leather armour
 (12, 28, D:13)
   a +0 trident
 (27, 9, D:13)
@@ -656,7 +655,7 @@ Level 14 of the Dungeon
   a +0 hand axe
   a +0 robe
 (4, -21, D:14)
-  a chain mail
+  a +0 chain mail
 (5, -2, D:14)
   a +0 hand axe
 (7, -21, D:14)
@@ -666,37 +665,25 @@ Level 14 of the Dungeon
 (30, -2, D:14)
   a large rock
 (31, -27, D:14)
-  a dagger
-(31, -5, D:14)
-  a fabulously ornate robe
+  a +0 dagger
 (31, -4, D:14)
   a +0 large shield
-  a +4 plate armour of fire resistance
-  +0 fire dragon scales
+  a scarf of spirit shield
   a +1 plate armour of magic resistance
   a scarf of cloud immunity
   a +2 cloak of invisibility
   the +7 chain mail "Asuudghaw" {rElec}
     It insulates you from electricity.
+  the +2 plate armour of the Sneaky Gods {+Fly}
+    It lets you fly.
+  a +4 plate armour of fire resistance
 (31, -3, D:14)
+  the cursed +1 robe "Teaxuo" {rC+}
+    It protects you from cold.
+    It has a curse placed upon it.
   a +3 chain mail
 (32, -4, D:14)
   a +4 fustibalus of freezing
-  30 tomahawks
-  a +9 blowgun
-  149 poisoned needles
-  18 curare-tipped needles {!f}
-  a +3 short sword of protection
-  the +3 dagger "Kenu" {elec, rF+}
-    Occasionally, upon striking a foe, it will discharge some electrical energy
-    and cause terrible harm.
-    
-    It protects you from fire.
-  a +1 spear of venom
-  987 stones
-  a +3 antimagic war axe
-  a +2 hand axe of electrocution
-  a +2 long sword of protection
   a +1 demon trident of freezing
   a +8 eveningstar of draining
   the +9 demon blade of the Vulture {elec, rPois}
@@ -709,7 +696,7 @@ Level 14 of the Dungeon
   3 tomahawks of dispersal
   83 sling bullets
   a +2 antimagic rapier
-  a +3 broad axe of chopping
+  a +2 long sword of protection
   a +2 short sword of distortion
   4 javelins
   12 needles of sleeping
@@ -718,11 +705,15 @@ Level 14 of the Dungeon
   8 needles of confusion
   5 poisoned javelins
   5 javelins of penetration
-  1059 bolts
   a +2 scimitar of flaming
-  a +5 scimitar of holy wrath
+  a +9 blowgun
+  a +3 short sword of protection
   a +3 scimitar of holy wrath
-  a +2 morningstar of holy wrath
+  the +3 dagger "Kenu" {elec, rF+}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It protects you from fire.
   a +2 morningstar of crushing
   a +2 morningstar of freezing
   a +5 mace of protection
@@ -743,19 +734,25 @@ Level 14 of the Dungeon
     It affects your resistance to hostile enchantments.
     
     Elyvilon disapproves of the use of such an item.
+  a +1 spear of venom
   a +2 dagger of chaos
   a +2 dagger of speed
   a +1 dagger of venom
   a +3 broad axe
+  149 poisoned needles
+  24 curare-tipped needles {!f}
+  a +5 scimitar of holy wrath
+  a +3 broad axe of chopping
+  a +2 rapier of electrocution
+  1017 stones
+  30 tomahawks
 (32, 3, D:14)
   3 large rocks
 (32, 7, D:14)
   a +0 giant club
 (33, -4, D:14)
   a +2 battleaxe of freezing
-  a +5 antimagic quarterstaff
   a +3 shortbow of flaming
-  a +0 antimagic lajatang
   a +6 shortbow of flaming
   a +2 shortbow of freezing
   a +3 quarterstaff
@@ -769,20 +766,31 @@ Level 14 of the Dungeon
   a +2 halberd of venom
   a +2 great sword
   a +1 battleaxe of flaming
+  a +0 antimagic lajatang
   a +2 dire flail of draining
+  a +5 antimagic quarterstaff
   a +4 arbalest of flaming
+  1303 arrows
+  the +7 shortbow of Zumeffo {velocity, +Blink rC+}
+    Any arrow fired from it inflicts extra damage.
+    
+    It protects you from cold.
+    It lets you blink.
+  a +1 glaive of protection
+  a +2 antimagic halberd
+  a +3 battleaxe of chopping
+  a +2 great mace of holy wrath
+  a +5 great sword of slicing
 (34, -5, D:14)
-  a ring of magical power
-  a ring of ice
+  an uncursed ring of magical power
+  an uncursed ring of ice
 (34, -4, D:14)
-  an uncursed ring of protection from cold
-  a crystal ball of energy
   8 potions of heal wounds
   16 scrolls of remove curse
   a scroll of immolation
-  7 scrolls of fog
+  8 scrolls of fog
   a scroll of brand weapon
-  7 scrolls of amnesia
+  9 scrolls of amnesia
   a sack of spiders
   a wand of enslavement (3)
   a cursed ring of teleportation
@@ -791,13 +799,12 @@ Level 14 of the Dungeon
   5 potions of magic
   10 potions of lignification
   3 scrolls of blinking
-  4 potions of invisibility
-  9 potions of brilliance
+  5 potions of invisibility
+  a phantom mirror
   a scroll of silence
-  a potion of berserk rage
   7 potions of ambrosia
   a scroll of torment
-  2 scrolls of summoning
+  3 scrolls of summoning
   a +4 ring of strength
   an uncursed ring of resist corrosion
   an uncursed ring of protection from fire
@@ -814,23 +821,26 @@ Level 14 of the Dungeon
     It affects your intelligence (+4).
     It insulates you from electricity.
   an uncursed staff of cold
-  an uncursed staff of wizardry
   an uncursed staff of summoning
   an uncursed staff of earth
   an uncursed staff of death
   an uncursed staff of conjuration
   an uncursed staff of air
+  2 potions of resistance
+  2 potions of berserk rage
   an uncursed ring of magical power
-  16 scrolls of identify
+  2 potions of cancellation
+  an uncursed ring of protection from cold
+  14 scrolls of identify
   an uncursed staff of energy
   a wand of random effects (29)
-  7 potions of flight
+  an uncursed ring of protection from fire
   7 scrolls of magic mapping
 (41, -29, D:14)
   a +0 chain mail
   a +2 war axe
 (43, -23, D:14)
-  a robe
+  a +0 robe
 (45, -20, D:14)
   a large rock
 (45, -19, D:14)
@@ -858,7 +868,7 @@ Level 15 of the Dungeon
 (0, 0, D:15)
   a +0 robe
 (5, -9, D:15)
-  a glowing centaur barding
+  a +2 centaur barding of fire resistance
 (12, -8, D:15)
   a +0 robe
   a +0 dagger
@@ -969,16 +979,16 @@ Level 1 of the Orcish Mines
 
 Level 2 of the Orcish Mines
 [Shop] Ziariynk's Gadget Shoppe
-  a wand of disintegration (8) (unknown) (180 gold)
+  a wand of disintegration (8) (180 gold)
   a phial of floods (600 gold)
   a fan of gales (600 gold)
   a box of beasts (300 gold)
   a wand of paralysis (8) (150 gold)
-  a wand of disintegration (9) (unknown) (195 gold)
+  a wand of disintegration (9) (195 gold)
   a wand of polymorph (7) (135 gold)
   a sack of spiders (300 gold)
   a crystal ball of energy (300 gold)
-  a wand of scattershot (6) (unknown) (450 gold)
+  a wand of scattershot (6) (450 gold)
   a wand of digging (6) (300 gold)
   a crystal ball of energy (300 gold)
 [Shop] Zutain's Armour Shoppe
@@ -1180,7 +1190,7 @@ Level 1 of the Elven Halls
   a +0 scale mail
   a +0 long sword
 (12, 1, Elf:1)
-  a giant spiked club
+  a +0 giant spiked club
 (16, 5, Elf:1)
   a +0 long sword
 (19, -4, Elf:1)
@@ -1220,7 +1230,7 @@ Level 1 of the Elven Halls
 (38, 5, Elf:1)
   a +0 long sword
 (41, 11, Elf:1)
-  a buckler
+  a +0 buckler
 (45, -6, Elf:1)
   a +0 ring mail
   a +0 rapier
@@ -1242,13 +1252,13 @@ Level 1 of the Elven Halls
   a +0 short sword
   a +0 longbow
 (58, 47, Elf:1)
-  a long sword
+  a +0 long sword
 (59, 32, Elf:1)
-  a cloak
+  a +0 cloak
 (60, -3, Elf:1)
-  a morningstar
+  a +0 morningstar
 (60, 24, Elf:1)
-  an arbalest
+  a +0 arbalest
 (60, 28, Elf:1)
   a +0 rapier
 (61, 26, Elf:1)
@@ -1261,9 +1271,9 @@ Level 1 of the Elven Halls
 (61, 28, Elf:1)
   a +0 long sword
 (63, -3, Elf:1)
-  a shortbow
+  a +0 shortbow
 (66, 24, Elf:1)
-  a robe
+  a +0 robe
 (68, 28, Elf:1)
   a +0 scale mail
   a +0 long sword
@@ -1284,24 +1294,24 @@ Level 2 of the Elven Halls
 (6, 2, Elf:2)
   a +0 short sword
 (6, 5, Elf:2)
-  a chain mail
+  a +0 chain mail
 (8, -15, Elf:2)
   a +2 ring of slaying
   a +0 long sword
   a +0 long sword
 (8, 9, Elf:2)
-  a chain mail
+  a +0 chain mail
 (11, -15, Elf:2)
-  a dagger
+  a +0 dagger
   a +0 leather armour
 (11, -3, Elf:2)
   a +0 short sword
 (13, -13, Elf:2)
-  a dagger
+  a +0 dagger
 (13, -9, Elf:2)
-  a dagger
+  a +0 dagger
 (16, -4, Elf:2)
-  a rapier
+  a +0 rapier
 (21, -9, Elf:2)
   a cursed +0 ring mail
   a +1 long sword of holy wrath
@@ -1385,7 +1395,7 @@ Level 2 of the Elven Halls
   a cursed +0 robe
   a +0 long sword
 (42, -10, Elf:2)
-  a trident
+  a +0 trident
 (44, -8, Elf:2)
   a +0 chain mail
   a +2 long sword of slicing
@@ -1399,11 +1409,11 @@ Level 2 of the Elven Halls
   a +0 scale mail
   a +0 short sword
 (52, 5, Elf:2)
-  a quarterstaff
+  a +0 quarterstaff
 (57, 5, Elf:2)
   a +0 long sword
 (60, 3, Elf:2)
-  a short sword
+  a +0 short sword
 
 Level 3 of the Elven Halls
 (0, 0, Elf:3)
@@ -1412,30 +1422,30 @@ Level 3 of the Elven Halls
   a +1 long sword of slicing
   a +0 falchion of freezing
 (0, 1, Elf:3)
-  a hand axe
+  a cursed -2 hand axe
 (0, 4, Elf:3)
-  a short sword
+  a +0 short sword
 (1, -2, Elf:3)
-  a rapier
+  a +0 rapier
 (2, -3, Elf:3)
-  a plate armour
+  a +0 plate armour
 (2, 4, Elf:3)
-  a cloak
+  a +0 cloak
 (2, 5, Elf:3)
   a +2 pair of boots
   a +2 plate armour of fire resistance
 (3, 5, Elf:3)
-  a dagger
+  a +0 dagger
 (5, 7, Elf:3)
-  a short sword
+  a +0 short sword
 (6, 6, Elf:3)
-  a short sword
+  a +0 short sword
 (7, -3, Elf:3)
-  a hunting sling
+  a +0 hunting sling
 (7, 5, Elf:3)
-  a staff of cold
+  an uncursed staff of cold
 (8, -3, Elf:3)
-  a short sword
+  a +0 short sword
 (8, 5, Elf:3)
   a lamp of fire
 (9, 4, Elf:3)
@@ -1488,7 +1498,7 @@ Level 3 of the Elven Halls
 (25, 36, Elf:3)
   a +0 rapier
 (26, 3, Elf:3)
-  a dagger
+  a +0 dagger
 (26, 36, Elf:3)
   a +0 leather armour
   a +0 short sword
@@ -1498,32 +1508,32 @@ Level 3 of the Elven Halls
   a +0 short sword
   a +0 longbow
 (27, -2, Elf:3)
-  a short sword
+  a +0 short sword
 (27, 37, Elf:3)
   a +0 long sword
 (27, 43, Elf:3)
-  a robe
+  a +0 robe
 (28, 4, Elf:3)
-  a long sword
+  a +0 long sword
 (28, 5, Elf:3)
-  a long sword
+  a +0 long sword
 (28, 41, Elf:3)
   a +0 leather armour
   a +0 long sword
 (29, -4, Elf:3)
-  a staff of cold
+  an uncursed staff of cold
 (30, -4, Elf:3)
   a +0 scale mail
   a +0 arbalest
   a +0 falchion
 (30, 6, Elf:3)
-  a helmet
+  a +0 helmet
 (30, 41, Elf:3)
   a +0 rapier
 (31, -4, Elf:3)
-  a runed robe
+  a +2 robe of positive energy
 (35, 4, Elf:3)
-  a runed scale mail
+  a +2 scale mail of poison resistance
 (35, 40, Elf:3)
   a +0 rapier
 (39, 39, Elf:3)
@@ -1580,33 +1590,33 @@ Level 3 of the Elven Halls
 (58, 13, Elf:3)
   a +2 scimitar of holy wrath
 (58, 30, Elf:3)
-  a mace
+  a +0 mace
 
 Level 1 of the Lair of Beasts
 (10, 24, Lair:1)
-  a pair of gloves
+  a +0 pair of gloves
 (11, 3, Lair:1)
-  a rapier
+  a +0 rapier
 (27, -5, Lair:1)
-  a falchion
+  a +0 falchion
 (30, 15, Lair:1)
-  a robe
+  a +0 robe
 
 Level 2 of the Lair of Beasts
 (0, 0, Lair:2)
-  a leather armour
+  a +0 leather armour
 (12, -14, Lair:2)
-  a dagger
+  a +0 dagger
 (12, 0, Lair:2)
-  a quarterstaff
+  a +0 quarterstaff
 (14, -13, Lair:2)
   a scroll of random uselessness
 (26, -10, Lair:2)
-  a helmet
+  a +0 helmet
 (32, -3, Lair:2)
-  a pair of boots
+  a +0 pair of boots
 (45, 10, Lair:2)
-  a trident
+  a +0 trident
 
 Level 3 of the Lair of Beasts
 (0, 0, Lair:3)
@@ -1614,65 +1624,65 @@ Level 3 of the Lair of Beasts
 (5, 33, Lair:3)
   a scroll of random uselessness
 (27, 23, Lair:3)
-  a shortbow
+  a +0 shortbow
 
 Level 4 of the Lair of Beasts
 (0, 0, Lair:4)
-  a ring mail
+  a +0 ring mail
 (13, 4, Lair:4)
-  a chain mail
+  a +0 chain mail
 (16, 23, Lair:4)
-  a robe
+  a +0 robe
 (21, -12, Lair:4)
   a +0 rapier
 (31, -18, Lair:4)
-  a dagger
+  a +0 dagger
 (35, -8, Lair:4)
-  a runed naga barding
+  a +2 naga barding of fire resistance
 (35, -7, Lair:4)
   a +2 robe of magic resistance
   a +0 dagger
 (37, -18, Lair:4)
-  a dagger
+  a +0 dagger
 (37, -14, Lair:4)
   a cursed +0 centaur barding
 (37, -12, Lair:4)
-  a scimitar
+  a +0 scimitar
 (47, -10, Lair:4)
-  a glaive
+  a +0 glaive
 
 Level 5 of the Lair of Beasts
 (0, 0, Lair:5)
-  a broad axe
+  a +0 broad axe
 
 Level 6 of the Lair of Beasts
 (0, 0, Lair:6)
   the +1 ring mail of Baldness {rC+}
     It protects you from cold.
 (11, -27, Lair:6)
-  a long sword
+  a +0 long sword
 (16, -46, Lair:6)
-  a ring mail
+  a +0 ring mail
 (25, -24, Lair:6)
-  a robe
+  a +0 robe
 (29, -23, Lair:6)
-  a hand axe
+  a +0 hand axe
 (49, -27, Lair:6)
-  a plate armour
+  a +0 plate armour
 
 Level 1 of the Swamp
 (0, 0, Swamp:1)
-  a glaive
+  a +0 glaive
 (6, -17, Swamp:1)
-  a pair of gloves
+  a +0 pair of gloves
 (6, 11, Swamp:1)
-  a scale mail
+  a +0 scale mail
 (8, 11, Swamp:1)
-  a club
+  a +0 club
 (24, -23, Swamp:1)
-  a robe
+  a +0 robe
 (29, -23, Swamp:1)
-  a cloak
+  a +0 cloak
 (40, -1, Swamp:1)
   a +2 plate armour of fire resistance
 (48, -24, Swamp:1)
@@ -1680,22 +1690,22 @@ Level 1 of the Swamp
   a +0 spear
   a +0 spear
 (58, -5, Swamp:1)
-  a quarterstaff
+  a +0 quarterstaff
 
 Level 2 of the Swamp
 (0, 0, Swamp:2)
-  a ring mail
+  a +0 ring mail
 (7, 4, Swamp:2)
   a +0 shield
 (11, 1, Swamp:2)
-  a robe
+  a +0 robe
 
 Level 3 of the Swamp
 (0, 0, Swamp:3)
   a +0 quarterstaff
   (unseen)
 (3, -5, Swamp:3)
-  a great sword
+  a +0 great sword
 (6, -3, Swamp:3)
   +0 swamp dragon scales
 (6, 8, Swamp:3)
@@ -1708,18 +1718,18 @@ Level 3 of the Swamp
   a +0 robe
   a +0 quarterstaff
 (8, 21, Swamp:3)
-  a shield
+  a +0 shield
 (18, 43, Swamp:3)
-  a scale mail
+  a +0 scale mail
 (19, 8, Swamp:3)
   a +0 robe
 (20, 8, Swamp:3)
   a cursed +0 robe
   a +0 dagger
 (23, 0, Swamp:3)
-  a war axe
+  a +0 war axe
 (30, 26, Swamp:3)
-  a great mace
+  a +0 great mace
 (33, 6, Swamp:3)
   a +0 robe
   a +0 quarterstaff of speed
@@ -1731,102 +1741,102 @@ Level 3 of the Swamp
 (38, 21, Swamp:3)
   2 large rocks
 (39, 23, Swamp:3)
-  a leather armour
+  a +0 leather armour
 (40, 40, Swamp:3)
-  a ring mail
+  a +0 ring mail
 
 Level 4 of the Swamp
 (0, 0, Swamp:4)
-  a buckler
+  a +0 buckler
 (9, -22, Swamp:4)
   a scroll of amnesia
 (12, -28, Swamp:4)
-  a ring mail
+  a +0 ring mail
 (14, -6, Swamp:4)
-  a hunting sling
+  a +0 hunting sling
 (15, -2, Swamp:4)
-  a leather armour
+  a +0 leather armour
 (22, -5, Swamp:4)
-  a cloak
+  a +0 cloak
 (24, -14, Swamp:4)
   a +0 quarterstaff
   a cursed +0 robe
 (27, -11, Swamp:4)
-  a buckler
+  a +0 buckler
 (31, -9, Swamp:4)
-  a hunting sling
+  a +0 hunting sling
 (33, -31, Swamp:4)
-  a halberd
+  a +0 halberd
 (44, -12, Swamp:4)
-  a pair of gloves
+  a +0 pair of gloves
 (53, -29, Swamp:4)
-  a scimitar
+  a +0 scimitar
 
 Level 1 of the Spider Nest
 (0, 0, Spider:1)
   an uncursed staff of poison
 (17, 15, Spider:1)
-  a spear
+  a +0 spear
 (56, -17, Spider:1)
-  a robe
+  a +0 robe
 (60, -5, Spider:1)
-  a ring mail
+  a +0 ring mail
 (67, -22, Spider:1)
-  a short sword
+  a +0 short sword
 
 Level 2 of the Spider Nest
 (0, 0, Spider:2)
-  a long sword
+  a +0 long sword
 (12, 19, Spider:2)
-  a long sword
+  a +0 long sword
 (12, 22, Spider:2)
-  a plate armour
+  a +0 plate armour
 (14, 12, Spider:2)
   a +2 scimitar of freezing
 (15, 1, Spider:2)
   a +0 shield
   a +0 plate armour
 (17, -2, Spider:2)
-  a war axe
+  a +0 war axe
 (28, 35, Spider:2)
-  a short sword
+  a +0 short sword
 (32, 19, Spider:2)
   a +0 shield
   a +0 leather armour
 (33, -14, Spider:2)
-  a falchion
+  a +0 falchion
 
 Level 3 of the Spider Nest
 (0, 0, Spider:3)
-  a flail
+  a +0 flail
 (3, 10, Spider:3)
-  a hand crossbow
+  a +0 hand crossbow
 (5, 1, Spider:3)
-  a robe
+  a +0 robe
 (22, 48, Spider:3)
-  a war axe
+  a +0 war axe
 (56, 23, Spider:3)
-  a chain mail
+  a +0 chain mail
 (58, 35, Spider:3)
-  a falchion
+  a +0 falchion
 (62, 39, Spider:3)
-  a long sword
+  a +0 long sword
 (64, 11, Spider:3)
-  a cloak
+  a +0 cloak
 
 Level 4 of the Spider Nest
 (0, 0, Spider:4)
-  a glaive
+  a +0 glaive
 (9, -1, Spider:4)
-  a plate armour
+  a +0 plate armour
 (10, -10, Spider:4)
-  a pair of gloves
+  a +0 pair of gloves
 (18, 0, Spider:4)
-  a dagger
+  a +0 dagger
 (26, -19, Spider:4)
-  a ring mail
+  a +0 ring mail
 (35, -32, Spider:4)
-  a pair of boots
+  a +0 pair of boots
 
 Level 1 of the Vaults
 [Shop] Efeun's Food Shoppe
@@ -1951,7 +1961,7 @@ Level 1 of the Vaults
   a +0 scale mail
   a +0 great mace
 (51, -25, Vaults:1)
-  a runed shortbow {god gift}
+  a +4 shortbow of flaming
 (51, -16, Vaults:1)
   a +0 chain mail
   a +3 battleaxe
@@ -1959,9 +1969,9 @@ Level 1 of the Vaults
   a +0 dire flail
   a +0 robe
 (53, 2, Vaults:1)
-  a dagger
+  a +0 dagger
 (55, 9, Vaults:1)
-  a ring mail
+  a +0 ring mail
 (72, 19, Vaults:1)
   2 potions of brilliance
 
@@ -2000,7 +2010,7 @@ Level 2 of the Vaults
 (8, -4, Vaults:2)
   2 large rocks
 (8, 12, Vaults:2)
-  a chain mail
+  a +0 chain mail
 (9, -22, Vaults:2)
   a +0 battleaxe
   a +0 chain mail
@@ -2009,7 +2019,7 @@ Level 2 of the Vaults
   a cursed +0 robe
   a large rock
 (10, -14, Vaults:2)
-  a ring mail
+  a +0 ring mail
 (16, -21, Vaults:2)
   a +0 arbalest
   11 bolts
@@ -2073,13 +2083,13 @@ Level 2 of the Vaults
 (39, -4, Vaults:2)
   a +0 hand axe
 (39, 3, Vaults:2)
-  a dire flail
+  a cursed +0 dire flail
 (40, -11, Vaults:2)
   a +0 glaive
 (40, -4, Vaults:2)
   a +0 dire flail
 (45, -1, Vaults:2)
-  a whip
+  a +0 whip
 (46, -23, Vaults:2)
   a bolt
 (46, -19, Vaults:2)
@@ -2117,7 +2127,7 @@ Level 2 of the Vaults
 (52, -6, Vaults:2)
   a bolt
 (53, 32, Vaults:2)
-  a runed shortbow {god gift}
+  a +5 shortbow of velocity
 (54, -5, Vaults:2)
   7 bolts
 (55, -17, Vaults:2)
@@ -2135,7 +2145,7 @@ Level 2 of the Vaults
 (61, -4, Vaults:2)
   2 bolts
   a cursed -1 arbalest
-  a ring of protection from magic
+  an uncursed ring of protection from magic
 (62, 2, Vaults:2)
   a +5 arbalest
   31 bolts
@@ -2156,51 +2166,51 @@ Level 2 of the Vaults
 (64, 12, Vaults:2)
   2 bolts
 (65, -4, Vaults:2)
-  a ring of fire
+  an uncursed ring of fire
 (65, 7, Vaults:2)
   a potion of ambrosia
 (66, 7, Vaults:2)
-  a brass ring
+  a +5 ring of dexterity
 (67, -12, Vaults:2)
   a potion of cancellation
 (67, 7, Vaults:2)
   48 gold pieces
 
+Level 2 of the Abyss
+(0, 0, Abyss:2)
+  5 bolts
+
 Level 1 of the Depths
 (0, 0, Depths:1)
-  2 scrolls of amnesia
-(5, 24, Depths:1)
-  a shield
-(8, 5, Depths:1)
-  a glaive
-(10, 1, Depths:1)
+  a +0 glaive
+(2, -4, Depths:1)
   2 large rocks
-(12, -17, Depths:1)
+(4, -22, Depths:1)
   a +0 giant spiked club
   a +0 giant club
   a +0 giant club
-(13, -17, Depths:1)
+(5, -22, Depths:1)
   a +0 dire flail
   a +0 giant spiked club
-(13, -16, Depths:1)
+(5, -21, Depths:1)
   a +0 robe
   a +0 halberd
-(13, -1, Depths:1)
-  a giant club
-  a giant spiked club
-(14, -18, Depths:1)
+(5, -6, Depths:1)
+  a +0 giant club
+  a +0 giant spiked club
+(6, -23, Depths:1)
   a +1 great sword of flaming
   a +0 giant club
-(14, -17, Depths:1)
+(6, -22, Depths:1)
   +0 fire dragon scales
   a +0 giant spiked club
   a +0 giant spiked club
-(14, -15, Depths:1)
+(6, -20, Depths:1)
   a +0 arbalest
   a +0 pair of gloves
   a +1 cloak of invisibility
   a +1 rapier of electrocution
-(14, -9, Depths:1)
+(6, -14, Depths:1)
   a +0 giant club
   a +0 giant spiked club
   a +0 giant spiked club
@@ -2209,73 +2219,73 @@ Level 1 of the Depths
   a +0 giant spiked club
   a +0 giant club
   a +0 giant club
-(15, -14, Depths:1)
+(7, -19, Depths:1)
   a +0 giant club
-(15, -13, Depths:1)
+(7, -18, Depths:1)
   a +0 arbalest
-(15, -12, Depths:1)
+(7, -17, Depths:1)
   +0 fire dragon scales
-(15, -10, Depths:1)
+(7, -15, Depths:1)
   a +0 robe
   a +0 dagger
-(15, 6, Depths:1)
+(7, 1, Depths:1)
   a potion of degeneration
   a +0 robe
   a cursed -1 club
-(16, -12, Depths:1)
+(8, -17, Depths:1)
   a +0 robe
   a +0 dagger
-(16, -1, Depths:1)
+(8, -6, Depths:1)
   a +0 arbalest
-(16, 8, Depths:1)
+(8, 3, Depths:1)
   a cursed -1 arbalest
-(17, -16, Depths:1)
+(9, -21, Depths:1)
   a +0 arbalest
-(17, 2, Depths:1)
+(9, -3, Depths:1)
   2 large rocks
-(26, -13, Depths:1)
+(18, -18, Depths:1)
   a +0 animal skin
-(27, -14, Depths:1)
+(19, -19, Depths:1)
   a +0 plate armour of magic resistance
   a +0 long sword
-(30, 13, Depths:1)
+(22, 8, Depths:1)
   a +0 arbalest
-(35, -9, Depths:1)
-  a robe
-(39, -8, Depths:1)
+(27, -14, Depths:1)
+  a +0 robe
+(31, -13, Depths:1)
   a +0 great mace
   a +0 scale mail
-(48, 24, Depths:1)
+(40, 19, Depths:1)
   a +0 giant club
   a +0 robe
   a +1 spear of flaming
-(48, 25, Depths:1)
+(40, 20, Depths:1)
   a cursed -2 giant club
   a +0 giant club
-(49, 7, Depths:1)
+(41, 2, Depths:1)
   a +0 dire flail
   a +0 dire flail
-(49, 19, Depths:1)
+(41, 14, Depths:1)
   a +0 giant spiked club
-(49, 27, Depths:1)
+(41, 22, Depths:1)
   a +0 giant club
-(50, 27, Depths:1)
+(42, 22, Depths:1)
   a cursed -2 giant club
   a +0 giant spiked club
-(51, 27, Depths:1)
+(43, 22, Depths:1)
   a +0 dire flail
   a +0 giant club
   a +0 giant spiked club
   a +0 giant club
-(52, 22, Depths:1)
+(44, 17, Depths:1)
   a scroll of random uselessness
-(52, 24, Depths:1)
-  a robe
-(53, 23, Depths:1)
-  a shiny ring mail
-(57, 15, Depths:1)
+(44, 19, Depths:1)
+  a +0 robe
+(45, 18, Depths:1)
+  a +0 ring mail of cold resistance
+(49, 10, Depths:1)
   a +0 shortbow
-(57, 23, Depths:1)
+(49, 18, Depths:1)
   a +0 long sword
 
 Level 2 of the Depths
@@ -2289,13 +2299,13 @@ Level 2 of the Depths
   a lamp of fire (640 gold)
   a wand of random effects (17) (152 gold)
 (0, 0, Depths:2)
-  a scale mail
+  a +0 scale mail
 (11, 6, Depths:2)
-  a morningstar
+  a +0 morningstar
 (18, 23, Depths:2)
-  a falchion
+  a +0 falchion
 (19, 25, Depths:2)
-  a dagger
+  a +0 dagger
 (24, -1, Depths:2)
   22 arrows
 (29, 30, Depths:2)
@@ -2308,23 +2318,23 @@ Level 2 of the Depths
   a +0 robe
   a +0 long sword
 (32, 21, Depths:2)
-  a ring mail
+  a +0 ring mail
 (35, 6, Depths:2)
-  a robe
+  a +0 robe
 (36, 16, Depths:2)
-  a rapier
+  a +0 rapier
 (38, -6, Depths:2)
-  a robe
+  a +0 robe
 (39, 14, Depths:2)
-  a whip
+  a +0 whip
 (39, 20, Depths:2)
   a crystal ball of energy
 (39, 30, Depths:2)
   3 large rocks
 (41, 14, Depths:2)
-  a ring mail
+  a +0 ring mail
 (41, 26, Depths:2)
-  a falchion
+  a +0 falchion
 (41, 39, Depths:2)
   a +0 chain mail
   a +1 halberd
@@ -2339,7 +2349,7 @@ Level 2 of the Depths
   a +0 dire flail
   a +0 great mace
 (49, 33, Depths:2)
-  a club
+  a +0 club
 (49, 34, Depths:2)
   a +0 arbalest
 (49, 39, Depths:2)
@@ -2413,7 +2423,7 @@ Level 2 of the Depths
 
 Level 3 of the Depths
 (0, 0, Depths:3)
-  a plate armour
+  a +0 plate armour
 (8, -39, Depths:3)
   a large rock
 (9, -6, Depths:3)
@@ -2453,9 +2463,9 @@ Level 3 of the Depths
   a +0 giant club
   a +0 giant club
 (19, 9, Depths:3)
-  a trident
+  a +0 trident
 (20, -16, Depths:3)
-  a centaur barding
+  a +0 centaur barding
 (20, -12, Depths:3)
   a +0 giant spiked club
 (20, 0, Depths:3)
@@ -2465,7 +2475,7 @@ Level 3 of the Depths
   a +0 robe
   a +0 long sword
 (23, -24, Depths:3)
-  a ring mail
+  a +0 ring mail
 (24, -39, Depths:3)
   a +0 leather armour
   a +0 robe
@@ -2481,11 +2491,21 @@ Level 3 of the Depths
 (26, -33, Depths:3)
   a +0 troll leather armour
 (28, -41, Depths:3)
-  a dagger
+  a +0 dagger
 (28, -33, Depths:3)
   a +0 troll leather armour
+(31, -39, Depths:3)
+  a scroll of immolation
+  a scroll of remove curse
+  2 scrolls of identify
+  a potion of magic
+  a wand of random effects (21)
+(31, -38, Depths:3)
+  a +0 hat
 (31, 3, Depths:3)
   a +0 arbalest
+(32, -39, Depths:3)
+  a +0 dire flail
 (35, 4, Depths:3)
   a +0 shortbow
   a +0 arbalest

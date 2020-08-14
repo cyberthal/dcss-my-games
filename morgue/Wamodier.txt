@@ -1,0 +1,802 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7063201121821551933
+
+Wamodier the Nimble (Merfolk Skald)                Turns: 55642, Time: 21:22:20
+
+Health: 120/120    AC: 19    Str: 16    XL:     16   Next: 2%
+Magic:  25/25      EV: 33    Int: 15    God:    Elyvilon [******]
+Gold:   2086       SH:  0    Dex: 22    Spells: 1/27 levels left
+
+rFire    + . .     SeeInvis .   h - +8 longbow {freeze, +Blink rN+ Str+2 Dex+4}
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   u - +5 scale mail {rF+}
+rPois    .         Spirit   .   S - +0 helmet {Int+3}
+rElec    .         Reflect  .   X - +2 cloak {MR+}
+rCorr    .         Harm     .   I - +2 pair of gloves
+MR       ++...                  (no boots)
+Stlth    ++++++....             P - amulet of the acrobat
+HPRegen  0.30/turn              G - ring of stealth
+MPRegen  0.19/turn              M - ring of stealth
+
+@: singing, acrobat
+A: change form in water, swift swim, stealthy swim
+a: Lesser Healing, Heal Other, Purification, Greater Healing, Divine Vigour,
+Divine Protection, Renounce Religion, Evoke Blink
+
+
+You are on level 15 of the Dungeon.
+You worship Elyvilon.
+Elyvilon is exalted by your worship.
+You are not hungry.
+
+You have visited 4 branches of the dungeon, and seen 24 of its levels.
+You have also visited: Ossuary and Gauntlet.
+
+You have collected 2835 gold pieces.
+You have spent 749 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of electrocution
+ b - a +0 short sword of speed
+ c - a +2 rapier of venom
+ d - a +5 rapier of protection
+ e - a +4 double sword of flaming
+ f - the +5 hand axe of Anguish {flame, MP+9}
+   (You took it off a minotaur in a Gauntlet)   
+   
+   It has been specially enchanted to burn those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. Big, fiery blades are also staple armaments of
+   hydra-hunters.
+   
+   It affects your magic capacity (+9).
+ g - the +3 trident of the Forgotten Mice {pierce, Dex+2}
+   (You took it off an orc on level 9 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your dexterity (+2).
+ h - the +8 longbow of Honour (weapon) {freeze, +Blink rN+ Str+2 Dex+4}
+   (You found it on level 9 of the Dungeon)   
+   
+   It causes projectiles fired from it to freeze those they strike, causing
+   extra injury to most foes and up to half again as much damage against
+   particularly susceptible opponents. They can also slow down cold-blooded
+   creatures.
+   
+   It affects your strength (+2).
+   It affects your dexterity (+4).
+   It protects you from negative energy.
+   It lets you blink.
+ i - a +2 hunting sling of freezing
+ j - a +5 blowgun
+Missiles
+ o - 404 arrows (quivered)
+ y - 66 poisoned needles
+ E - 2 throwing nets {!f}
+ H - 425 stones
+ N - 24 tomahawks
+ T - 84 sling bullets
+ W - 15 javelins
+ Z - 3 curare-tipped needles {!f}
+Armour
+ u - a +5 scale mail of fire resistance (worn)
+ w - a scarf of cloud immunity
+ A - a +0 troll leather armour
+ B - the +1 scale mail "Komiot" {rPois Int+3 Stlth-}
+   (You found it in a Gauntlet)   
+   
+   It affects your intelligence (+3).
+   It protects you from poison.
+   It makes you less stealthy.
+ F - a scarf of resistance
+ I - a +2 pair of gloves (worn)
+ O - a +0 shield
+ S - a +0 helmet of intelligence (worn)
+ X - a +2 cloak of magic resistance (worn)
+Jewellery
+ k - a +4 ring of protection
+ p - a +4 ring of protection
+ t - an uncursed ring of positive energy
+ D - an uncursed ring of wizardry
+ G - a ring of stealth (left hand)
+ L - an uncursed ring of protection from magic
+ M - a ring of stealth (right hand)
+ P - an amulet of the acrobat (around neck)
+Wands
+ m - a wand of acid (6)
+ n - a wand of iceblast (55)
+ q - a wand of digging (13)
+ z - a wand of scattershot (4)
+ K - a wand of polymorph (14)
+ R - a wand of paralysis (41)
+Scrolls
+ l - a scroll of magic mapping
+ x - 13 scrolls of teleportation
+ J - 2 scrolls of fear
+Potions
+ r - 2 potions of curing
+ s - a potion of magic
+ v - 2 potions of lignification
+ Q - a potion of flight
+ V - 3 potions of haste
+Miscellaneous
+ Y - 2 boxes of beasts
+Comestibles
+ C - 9 rations
+ U - 2 chunks of flesh
+
+
+   Skills:
+ - Level 9.2 Fighting
+ - Level 5.2(6.1) Short Blades
+ - Level 4.2(5.3) Long Blades
+ - Level 8.2 Polearms
+ - Level 2.7(3.6) Slings
+ - Level 2.0 Bows
+ - Level 4.4(5.0) Throwing
+ - Level 4.0 Armour
+ - Level 11.0 Dodging
+ - Level 10.0 Stealth
+ + Level 7.9 Shields
+ - Level 4.0 Unarmed Combat
+ - Level 6.0 Spellcasting
+ + Level 7.9 Hexes
+ - Level 9.0 Charms
+ - Level 4.0 Summonings
+ - Level 2.0 Translocations
+ - Level 11.0 Transmutations
+   Level 1.2 Ice Magic
+ - Level 2.0 Earth Magic
+ - Level 4.0 Poison Magic
+ - Level 9.0 Invocations
+ + Level 7.8 Evocations
+
+
+You have one spell level left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ####...      1%          1    None
+b - Confusing Touch       Hex            ####..       1%          1    None
+c - Beastly Appendage     Tmut           #####.       1%          1    None
+d - Apportation           Tloc           ##....       22%         1    None
+e - Shroud of Golubria    Chrm/Tloc      ###.......   8%          2    #......
+f - Song of Slaying       Chrm           ####....     1%          2    #......
+g - Sticks to Snakes      Tmut           #####...     1%          2    #......
+h - Blink                 Tloc           N/A          32%         2    #......
+i - Passwall              Tmut/Erth      ###.....     5%          2    #......
+j - Confuse               Hex            ####....     6%          3    ##.....
+k - Summon Guardian Gole  Hex/Summ       ###.....     13%         3    ##.....
+l - Spectral Weapon       Hex/Chrm       ####....     4%          3    ##.....
+m - Spider Form           Tmut/Pois      ####......   7%          3    ##.....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Infusion                 Chrm           ####         1%          1    None
+ Summon Small Mammal      Summ           ###.         10%         1    None
+ Sandblast                Erth           ##....       22%         1    None
+ Animate Skeleton         Necr           N/A          45%         1    None
+ Pain                     Necr           #...         45%         1    None
+ Tukima's Dance           Hex            ####....     6%          3    ##.....
+ Ensorcelled Hibernation  Hex/Ice        ###...       12%         2    #......
+ Call Imp                 Summ           ###.....     14%         2    #......
+ Blade Hands              Tmut           #####.....   16%         5    ######.
+ Ignite Poison            Fire/Tmut/Pois ###.....     19%         3    ##.....
+ Regeneration             Chrm/Necr      ###.......   24%         3    ##.....
+ Call Canine Familiar     Summ           ###.....     28%         3    ##.....
+ Dazzling Spray           Conj/Hex       ###...       30%         3    ##.....
+ Petrify                  Tmut/Erth      ###.....     34%         4    ####...
+ Ice Form                 Ice/Tmut       ###.....     38%         4    ####...
+ Gell's Gravitas          Tloc           ##........   54%         3    ##.....
+ Lesser Beckoning         Tloc           ##........   54%         3    ##.....
+ Teleport Other           Tloc           ##......     54%         3    ##.....
+ Stone Arrow              Conj/Erth      #.....       69%         3    ##.....
+ Vampiric Draining        Necr           #.........   83%         3    ##.....
+ Summon Ice Beast         Ice/Summ       ##......     86%         4    ####...
+ Passage of Golubria      Tloc           N/A          91%         4    ####...
+ Summon Lightning Spire   Summ/Air       ##......     91%         4    ####...
+ Animate Dead             Necr           N/A          99%         4    ####...
+ Lee's Rapid Deconstruct  Erth           ##........   99%         5    ######.
+ Fireball                 Conj/Fire      #.........   100%        5    ######.
+ Bolt of Fire             Conj/Fire      #.........   100%        6    #######
+ Ring of Flames           Chrm/Fire      ###.......   100%        7    #######
+ Ignition                 Fire           #.........   100%        8    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (1/1) D:5            Lair (6/6) D:10
+ Shoals (0/4) Lair:3       Spider (0/4) Lair:4        Slime (0/5) Lair:5
+    Orc (2/2) D:11            Elf (0/3) Orc:2        Vaults (0/5) D:14
+ Depths (0/5) D:15        
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+
+Shops:
+D:4 :   D:10 (   D:13 (
+
+Annotations:
+D:12 loot
+D:13 1 transporter, 2 runed translucent doors. loot., exclusion: player ghost,
+Vext's ghost, journeyman SpEn
+D:14 loot
+Orc:1 loot
+
+Message History
+
+Your +4 double sword of flaming stops flaming.
+The +5 hand axe of Anguish {flame, MP+9} bursts into flame!
+f - the +5 hand axe of Anguish (weapon) {flame, MP+9}
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You can't wield that with a shield.
+Autopickup is now on.
+Autopickup is now off.
+Take off which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 shield. x4
+You finish taking off your +0 shield.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+The +5 hand axe of Anguish {flame, MP+9} stops flaming.
+The +8 longbow of Honour {freeze, +Blink rN+ Str+2 Dex+4} is covered in frost.
+h - the +8 longbow of Honour (weapon) {freeze, +Blink rN+ Str+2 Dex+4}
+Autopickup is now on.
+Autopickup is now off.
+Done exploring.
+Unknown command.
+Done exploring.
+Saving game... please wait.
+
+#.#  #.# #.###.##.#.....########..#   #...
+#.####'###.# #.##.#...............##  #...
+#.##.....#.# #.##.#.....#########..####...
+#.##.....#.# #.##.#.....#       ##.#......
+#.##.....#.# #....####'##        #.#......
+#.##.....#.#########.#.#         #.#......
+#.####.#.............#.#         #........
+#.#  #.#.#.#########.#.#         ##.......
+#.#  #.#...#       #.#.# ##########.......
+#.#  #.#####       #.#.# #................
+#.#  #.#           #.#.###.#########..##..
+#.#  #.#           #.#.##......#  #...##.#
+#.#  #.#           #@#.##......#  #....#.#
+#.#  #.#           #.#.##......#  #....#.#
+#.#  #.#############.#.##......#  #......#
+#.#  #...............#.###.#####  #...#..#
+#.# ##################.# #.#      #...#?.#
+#.# #........#       #.# #.#      ########
+#.###.######.###     #.# #.#
+#.##...........#     #.# #.#
+#.##..######.#.#     #.# #.#
+#.##..#   #..#.#     #.# #.#
+#.##..#   #.##.#     #.###.#############
+#.##..#####.##.#     #.#...............#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Jorgrun (D:11)
+  A fire giant (D:15)
+  An orc warlord (Orc:1)
+  The ghost of prawnwizard the Phalangite, a journeyman MfMo of Hepliaklqana (Orc:1)
+  A minotaur (Gauntlet)
+  Snorg (D:14)
+  10 hydras
+  Erica (Lair:2)
+  3 centaur warriors
+  5 two-headed ogres
+  A dancing weapon (D:12)
+  A death scarab (Gauntlet)
+  7 death yaks
+  Sonja (Lair:4)
+  Nergalle (D:10)
+  A deep elf knight (D:12)
+  3 fire crabs
+  2 skeletal warriors (D:14)
+  3 unseen horrors
+  2 deep elf magi
+  A lindwurm (Lair:5)
+  2 orc knights
+  A necromancer (D:14)
+  5 cyclopes
+  4 orc sorcerers
+  An ugly thing (D:12)
+  An oklob plant (Orc:1)
+  3 manticores
+  Joseph (D:8)
+  5 elephants (Lair:3)
+  4 black mambas
+  14 spiny frogs
+  2 gargoyles
+  An efreet (D:12)
+  8 komodo dragons
+  A kobold demonologist (D:12)
+  A queen bee (D:9)
+  4 trolls
+  A wolf spider simulacrum (D:14)
+  3 meliai (Gauntlet)
+  6 hornets
+  A spectral dream sheep (Gauntlet)
+  2 harpy skeletons (D:15)
+  9 polar bears
+  2 meliai zombies (D:13)
+  8 hippogriffs
+  3 blink frogs (Lair:6)
+  A dream sheep (Lair:5)
+  12 spriggans
+  2 vampires
+  A water elemental (D:11)
+  3 wraiths
+  20 yaks
+  A human (D:6)
+  A steam dragon (D:13)
+  3 basilisks
+  3 wyverns
+  2 hogs
+  A hungry ghost (D:15)
+  7 vampire mosquitoes
+  Menkaure (D:7)
+  4 wargs
+  3 acid dragons
+  11 water moccasins
+  11 porcupines
+  3 ice beasts
+  5 phantoms
+  17 ogres
+  31 orc warriors
+  6 black bears
+  An eye of draining (D:13)
+  4 sky beasts
+  30 wolves
+  8 boggarts
+  20 centaurs
+  12 crocodiles
+  4 big kobolds
+  15 bullfrogs
+  2 scorpions (D:10)
+  14 killer bees
+  3 wights (D:13)
+  3 electric eels
+  8 howler monkeys
+  3 crimson imps
+  A bullfrog zombie (D:13)
+  3 bullfrog skeletons
+  5 hounds
+  7 jellies
+  5 centaur skeletons
+  A gnoll shaman (D:8)
+  3 centaur zombies
+  17 orc priests
+  31 orc wizards
+  5 iguanas
+  14 worker ants
+  A killer bee zombie (D:5)
+  2 hound zombies (D:7)
+  2 hound skeletons
+  2 worker ant zombies
+  12 gnolls
+  A howler monkey skeleton (D:7)
+  10 adders
+  2 shadow imps
+  2 oozes
+  An adder zombie (D:6)
+  An adder skeleton (D:4)
+  7 worms
+  5 dart slugs (D:1)
+  9 leopard geckos
+  106 orcs
+  9 giant cockroaches
+  3 goblins (D:1)
+  8 hobgoblins
+  13 jackals
+  23 kobolds
+  4 quokkas
+  8 bats
+  11 frilled lizards
+  A leopard gecko skeleton (D:8)
+  A leopard gecko zombie (D:5)
+  A quokka zombie (D:6)
+  9 rats
+  A fungus (Lair:4)
+  6 spectral weapons
+770 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Harold (D:12)
+  An orc high priest (Orc:2)
+  2 unseen horrors
+  2 black mambas
+  Maurice (D:13)
+  A rime drake (Lair:4)
+  A komodo dragon (Lair:4)
+  2 spriggans (Lair:6)
+  A wyvern (D:12)
+  2 basilisks
+  A hungry ghost (D:11)
+  A warg (Orc:1)
+  3 water moccasins
+  A black bear (Lair:6)
+  2 orc warriors
+  A centaur (D:15)
+  An ogre (D:13)
+  2 crocodiles
+  A scorpion (D:5)
+  4 orc priests
+  Crazy Yiuf (D:5)
+  A worker ant (D:12)
+  An orc wizard (Orc:1)
+  10 orcs
+  A kobold (D:11)
+45 creatures vanquished.
+
+Vanquished Creatures (others)
+  A centaur warrior (D:15)
+  Urug (D:12)
+  A skeletal warrior (D:14)
+  A komodo dragon (Lair:6)
+  A hornet (Lair:6)
+  A polar bear (Lair:6)
+  A porcupine (Lair:5)
+  A water moccasin (Lair:6)
+  A wolf (Lair:6)
+  An orc wizard (Orc:2)
+  An orc (D:12)
+  3 bushes
+  27 demonic plants (Gauntlet)
+  16 fungi
+  10 plants
+  10 spectral weapons
+77 creatures vanquished.
+
+Grand Total: 892 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Wamodier the Merfolk Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+   268 | D:1      | Reached skill level 1 in Stealth
+   317 | D:1      | Reached XP level 2. HP: 15/22 MP: 1/5
+   418 | D:1      | Learned a level 2 spell: Song of Slaying
+   524 | D:1      | Reached skill level 1 in Throwing
+  1038 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1044 | D:1      | Reached XP level 3. HP: 28/28 MP: 6/6
+  1868 | D:1      | Reached skill level 1 in Translocations
+  2181 | D:2      | Found a glowing silver altar of Zin.
+  2212 | D:2      | Reached XP level 4. HP: 35/35 MP: 2/7
+  3395 | D:2      | Learned a level 1 spell: Confusing Touch
+  4058 | D:3      | Reached XP level 5. HP: 40/41 MP: 3/8
+  4361 | D:3      | Reached skill level 1 in Hexes
+  5402 | D:4      | Found a sand-covered staircase.
+  5412 | Ossuary  | Entered an ossuary
+  5818 | D:4      | Reached skill level 1 in Polearms
+  5845 | D:4      | Found a burning altar of Makhleb.
+  5940 | D:3      | Reached XP level 6. HP: 43/47 MP: 2/10
+  6247 | D:4      | Found a snail-covered altar of Cheibriados.
+  6279 | D:4      | Found an opulent altar of Gozag.
+  6291 | D:4      | Found a shattered altar of Ashenzari.
+  6451 | D:4      | Found an iron altar of Okawaru.
+  6451 | D:4      | Noticed a phantom
+  6560 | D:4      | Found Badal's Book Shop.
+  6917 | D:3      | Killed a phantom
+  6917 | D:3      | Reached skill level 1 in Armour
+  7074 | D:4      | Found a bloodstained altar of Trog.
+  7124 | D:5      | Entered Level 5 of the Dungeon
+  7124 | D:5      | Noticed a sky beast
+  7248 | D:4      | Killed a sky beast
+  7436 | D:5      | Reached XP level 7. HP: 35/53 MP: 8/11
+  7942 | D:4      | Entered wizard mode.
+  8335 | D:5      | Found a staircase to the Ecumenical Temple.
+  9376 | Temple   | Entered the Ecumenical Temple
+  9396 | Temple   | Became a worshipper of Elyvilon the Healer
+  9502 | D:5      | Reached skill level 1 in Short Blades
+  9571 | D:5      | Reached XP level 8. HP: 56/60 MP: 4/12
+ 10264 | D:5      | Reached skill level 5 in Dodging
+ 10685 | D:5      | Found a runed translucent door.
+ 10728 | D:5      | Learned a level 3 spell: Spectral Weapon
+ 11054 | D:6      | Found a shimmering altar of Xom.
+ 11054 | D:6      | Found a shimmering altar of Xom.
+ 11315 | D:6      | Reached * piety under Elyvilon
+ 11476 | D:6      | Reached skill level 1 in Invocations
+ 11476 | D:6      | Reached skill level 1 in Evocations
+ 12699 | D:6      | Reached skill level 5 in Invocations
+ 12758 | D:6      | Reached XP level 9. HP: 64/65 MP: 7/13
+ 13773 | D:6      | Found a shimmering altar of Xom.
+ 13922 | D:7      | Reached ** piety under Elyvilon
+ 14206 | D:4      | Bought a book of Changes for 275 gold pieces
+ 14208 | D:4      | Learned a level 1 spell: Beastly Appendage
+ 14211 | D:4      | Learned a level 2 spell: Sticks to Snakes
+ 14386 | D:7      | Reached skill level 1 in Transmutations
+ 14501 | D:7      | Noticed Menkaure
+ 15313 | D:8      | Reached skill level 5 in Transmutations
+ 15414 | D:8      | Noticed Joseph
+ 15445 | D:8      | Killed Joseph
+ 15850 | D:6      | Reached XP level 10. HP: 57/73 MP: 10/15
+ 16063 | D:7      | Reached skill level 5 in Fighting
+ 16219 | D:7      | Killed Menkaure
+ 16306 | D:7      | Learned a level 3 spell: Spider Form
+ 16364 | D:7      | Reached skill level 5 in Charms
+ 16746 | D:7      | Reached *** piety under Elyvilon
+ 16817 | D:7      | Reached skill level 1 in Poison Magic
+ 18305 | D:8      | Reached skill level 1 in Slings
+ 19236 | D:9      | Reached **** piety under Elyvilon
+ 19686 | D:9      | Reached skill level 5 in Stealth
+ 19939 | D:9      | Identified the cursed +3 trident of the Forgotten Mice
+                  | {pierce, Dex+2}
+ 20203 | D:9      | Reached skill level 5 in Spellcasting
+ 20270 | D:9      | Learned a level 1 spell: Corona
+ 20328 | D:9      | Found a roughly hewn altar of Beogh.
+ 20437 | D:9      | Found an ornate altar of the Wu Jian Council.
+ 20486 | D:10     | Entered Level 10 of the Dungeon
+ 20487 | D:10     | Identified 2 scrolls of acquirement
+ 20504 | D:9      | Got a faintly glowing chain mail
+ 20598 | D:10     | Reached XP level 11. HP: 79/79 MP: 17/19
+ 20803 | D:10     | Found Quodukul's Antique Weapon Shop.
+ 20811 | D:10     | Reached skill level 1 in Unarmed Combat
+ 20860 | D:10     | Found a staircase to the Lair.
+ 20891 | D:10     | Bought a glowing hunting sling for 144 gold pieces
+ 21023 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 21033 | Lair:1   | Noticed a six-headed hydra
+ 21049 | Lair:1   | Killed a six-headed hydra
+ 21049 | Lair:1   | Reached skill level 5 in Polearms
+ 21085 | Lair:1   | Learned a level 2 spell: Ensorcelled Hibernation
+ 21122 | Lair:1   | Reached skill level 1 in Ice Magic
+ 21193 | Lair:1   | Found a gate leading to a gauntlet.
+ 21204 | Gauntlet | Entered a Gauntlet
+ 21204 | Gauntlet | Found a transporter.
+ 21217 | Gauntlet | Found a transporter.
+ 21228 | Gauntlet | Found a transporter.
+ 21233 | Gauntlet | Found a transporter.
+ 21247 | Gauntlet | Noticed a hell beast
+ 21252 | Gauntlet | Found a transporter.
+ 21264 | Gauntlet | Noticed a red ugly thing
+ 21267 | Gauntlet | Found a transporter.
+ 21267 | Gauntlet | Noticed a great orb of eyes
+ 21277 | Gauntlet | Noticed a green ugly thing
+ 21279 | Gauntlet | Found a transporter.
+ 21279 | Gauntlet | Noticed a great orb of eyes
+ 21288 | Gauntlet | Noticed a death scarab
+ 21289 | Gauntlet | Noticed a spectral death yak
+ 21291 | Gauntlet | Found a transporter.
+ 21302 | Gauntlet | Noticed a death scarab
+ 21304 | Gauntlet | Reached ***** piety under Elyvilon
+ 21310 | Gauntlet | Found a transporter.
+ 21310 | Gauntlet | Noticed a reaper
+ 21322 | Gauntlet | Found a transporter.
+ 21328 | Gauntlet | Found a transporter.
+ 21350 | Gauntlet | Found a transporter.
+ 21367 | Gauntlet | Found a transporter.
+ 21369 | Gauntlet | Found a runed translucent gate.
+ 21369 | Gauntlet | Found a runed translucent gate.
+ 21369 | Gauntlet | Found a runed translucent gate.
+ 21372 | Gauntlet | Found a large runed translucent door.
+ 21372 | Gauntlet | Found a large runed translucent door.
+ 21372 | Gauntlet | Found a large runed translucent door.
+ 21372 | Gauntlet | Found a large runed translucent door.
+ 21375 | Gauntlet | Found a large runed translucent door.
+ 21375 | Gauntlet | Found a large runed translucent door.
+ 21376 | Gauntlet | Found a large runed translucent door.
+ 21376 | Gauntlet | Found a large runed translucent door.
+ 21379 | Gauntlet | Found a large runed translucent door.
+ 21379 | Gauntlet | Found a large runed translucent door.
+ 21379 | Gauntlet | Found a runed translucent door.
+ 21379 | Gauntlet | Found a runed translucent door.
+ 21380 | Gauntlet | Found a large runed translucent door.
+ 21381 | Gauntlet | Found a large runed translucent door.
+ 21390 | Gauntlet | Found a large runed translucent door.
+ 21390 | Gauntlet | Found a large runed translucent door.
+ 21391 | Gauntlet | Found a large runed translucent door.
+ 21391 | Gauntlet | Noticed a death scarab
+ 21392 | Gauntlet | Found a large runed translucent door.
+ 21392 | Gauntlet | Found a transporter.
+ 21394 | Gauntlet | Found a transporter.
+ 21414 | Gauntlet | Found a transporter.
+ 21432 | Gauntlet | Found a transporter.
+ 21462 | Gauntlet | Found a transporter.
+ 21468 | Gauntlet | Learned a level 1 spell: Apportation
+ 21522 | Gauntlet | Killed a death scarab
+ 22037 | Gauntlet | Identified the +5 hand axe of Anguish {flame, MP+9}
+ 22037 | Gauntlet | Noticed a minotaur
+ 22197 | Gauntlet | Killed a minotaur
+ 22208 | Gauntlet | Got a smoking scale mail
+ 22273 | Gauntlet | Identified the cursed +1 scale mail "Komiot" {rPois Int+3
+                  | Stlth-} (You found it in a Gauntlet)
+ 22821 | Lair:1   | You fall through a shaft!
+ 23730 | Lair:1   | Reached skill level 5 in Evocations
+ 24013 | Lair:1   | Reached XP level 12. HP: 55/88 MP: 11/20
+ 24469 | Lair:1   | Reached skill level 5 in Hexes
+ 24813 | Lair:2   | Noticed Erica
+ 24936 | Lair:2   | Killed Erica
+ 25387 | Lair:2   | You fall through a shaft!
+ 26678 | D:9      | Identified the +0 chain mail "Qagga" {Str+4} (You acquired
+                  | it on level 9 of the Dungeon)
+ 26959 | Lair:3   | Found a staircase to the Shoals.
+ 28802 | Lair:4   | Noticed a seven-headed hydra
+ 29218 | Lair:4   | Found a hole to the Spider Nest.
+ 29307 | Lair:4   | Reached XP level 13. HP: 75/96 MP: 21/21
+ 29836 | Lair:4   | Reached skill level 10 in Transmutations
+ 29919 | Lair:4   | Reached ****** piety under Elyvilon
+ 29948 | Lair:4   | Learned a level 3 spell: Confuse
+ 29965 | Lair:4   | Noticed Sonja
+ 29976 | Lair:4   | Killed Sonja
+ 30802 | Lair:5   | You fall through a shaft!
+ 30802 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 30903 | Lair:6   | Reached skill level 10 in Dodging
+ 31439 | Lair:5   | Found a viscous altar of Jiyva.
+ 31441 | Lair:5   | Found a staircase to the Slime Pits.
+ 33252 | D:4      | Bought a book of Callings for 330 gold pieces
+ 33355 | D:5      | Noticed Crazy Yiuf
+ 33369 | D:5      | Killed Crazy Yiuf
+ 34697 | D:11     | Noticed Nergalle
+ 34704 | D:10     | Killed Nergalle
+ 34813 | D:11     | Found a burning altar of Makhleb.
+ 36303 | D:11     | Reached XP level 14. HP: 101/105 MP: 20/22
+ 36315 | D:11     | Learned a level 2 spell: Blink
+ 36723 | D:11     | Found a staircase to the Orcish Mines.
+ 37163 | D:10     | Learned a level 3 spell: Summon Guardian Golem
+ 37394 | Lair:6   | Reached skill level 1 in Summonings
+ 38350 | Lair:6   | Reached skill level 5 in Short Blades
+ 40303 | Lair:6   | Reached skill level 1 in Shields
+ 42083 | D:9      | Got a crystal longbow
+ 42277 | D:10     | Identified the +8 longbow of Honour {freeze, +Blink rN+
+                  | Str+2 Dex+4} (You found it on level 9 of the Dungeon)
+ 42384 | D:9      | Reached skill level 1 in Bows
+ 42505 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 42753 | Orc:1    | Found a runed translucent gate.
+ 42754 | Orc:1    | Found a runed translucent gate.
+ 42792 | Orc:1    | Found a runed translucent gate.
+ 42813 | Orc:1    | Noticed prawnwizard's ghost (journeyman MfMo)
+ 43409 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 44071 | Orc:1    | Killed prawnwizard's ghost
+ 44210 | D:12     | Noticed Jorgrun
+ 44289 | D:11     | Killed Jorgrun
+ 45169 | D:12     | Reached XP level 15. HP: 113/113 MP: 24/24
+ 45752 | D:12     | Noticed Harold
+ 45862 | D:12     | Noticed Urug
+ 46079 | D:12     | Killed Urug
+ 46163 | D:12     | Killed Harold
+ 46856 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 46940 | Orc:2    | Reached skill level 5 in Shields
+ 47531 | Orc:2    | Found a staircase to the Elven Halls.
+ 47801 | Orc:2    | Noticed an orc warlord
+ 48309 | Orc:1    | Killed an orc warlord
+ 49416 | D:10     | Learned a level 2 spell: Passwall
+ 50018 | D:13     | Found a transporter.
+ 50050 | D:13     | Noticed Maurice
+ 50057 | D:13     | Reached skill level 1 in Earth Magic
+ 50082 | D:13     | Killed Maurice
+ 50341 | D:13     | Found a large runed translucent door.
+ 50342 | D:13     | Found a large runed translucent door.
+ 50345 | D:13     | Noticed Vext's ghost (journeyman SpEn)
+ 50500 | D:13     | Found a transporter.
+ 50504 | D:13     | Found Juow's Weapon Emporium.
+ 50655 | D:13     | Reached skill level 10 in Stealth
+ 51263 | D:13     | Noticed a tengu reaver
+ 52448 | D:14     | Found a gate to the Vaults.
+ 53775 | D:15     | Entered Level 15 of the Dungeon
+ 54536 | D:15     | Noticed a fire giant
+ 54551 | D:15     | Found a staircase to the Depths.
+ 54624 | D:15     | Killed a fire giant
+ 54873 | D:14     | Noticed Snorg
+ 54898 | D:14     | Killed Snorg
+ 55437 | D:15     | Reached XP level 16. HP: 120/120 MP: 23/25
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 |
+---------------+----------------------------------------------+-----
+Stealth        |  1                 2        5  7  8  9    10 | 10.0
+Throwing       |     1                    2           3     4 |  4.4
+Translocations |        1                          2          |  2.0
+Fighting       |        3           4        5  6  7  8  9    |  9.2
+Dodging        |           3     4     6     7  8  9 10 11    | 11.0
+Long Blades    |           3  4                               |  4.2
+Hexes          |              1        2        4  6     7    |  7.9
+Polearms       |              2     3  4        5  6     7  8 |  8.2
+Armour         |                 1        2     3     4       |  4.0
+Spellcasting   |                 3           5           6    |  6.0
+Charms         |                    4        5  6  7  8  9    |  9.0
+Short Blades   |                    1  2     4           5    |  5.2
+Invocations    |                       5  6        7  8  9    |  9.0
+Evocations     |                       1  3     5  6  7       |  7.8
+Transmutations |                          6  7     9 10    11 | 11.0
+Poison Magic   |                             2     3        4 |  4.0
+Slings         |                             1     2          |  2.7
+Unarmed Combat |                                3     4       |  4.0
+Ice Magic      |                                1             |  1.2
+Summonings     |                                         3  4 |  4.0
+Shields        |                                         3  7 |  7.9
+Bows           |                                         2    |  2.0
+Earth Magic    |                                            2 |  2.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 || total
+-------------------------+-------+-------+-------+-------+-------+-------++-------
+Melee: Falchion          |   105 |   177 |   150 |       |       |       ||   432
+       Trident           |       |    67 |    95 |   254 |   425 |    11 ||   852
+       Dagger            |       |    21 |    79 |     7 |  8047 |       ||  8154
+       Spear             |       |    14 |   174 |    18 |       |       ||   206
+       Tailslap          |       |     1 |       |     1 |     1 |       ||     3
+       Halberd           |       |       |   111 |   110 |       |       ||   221
+       Long sword        |       |       |    60 |    44 |       |       ||   104
+       Short sword       |       |       |    15 |    91 |   228 |     2 ||   336
+       Headbutt          |       |       |     9 |    54 |    99 |       ||   162
+       Unarmed           |       |       |       |    94 |   177 |       ||   271
+       Punch             |       |       |       |     5 |   462 |       ||   467
+       Rapier            |       |       |       |    62 |  8151 |       ||  8213
+       Scimitar          |       |       |       |     1 |  4091 |       ||  4092
+       Hand axe          |       |       |       |       |     3 |       ||     3
+       Double sword      |       |       |       |       |   103 |     1 ||   104
+ Fire: Blowgun           |       |       |    32 |   116 |    84 |       ||   232
+       Hunting sling     |       |       |    10 |   190 |   231 |       ||   431
+       Longbow           |       |       |       |       |   249 |       ||   249
+Throw: Stone             |    60 |    86 |    62 |     6 |     6 |       ||   220
+       Tomahawk          |       |       |       |     6 |    32 |     1 ||    39
+       Javelin           |       |       |       |     6 |    43 |       ||    49
+       Throwing net      |       |       |       |     1 |       |       ||     1
+ Cast: Infusion          |    10 |     4 |     1 |       |       |       ||    15
+       Song of Slaying   |     9 |    23 |    31 |    30 |    64 |     1 ||   158
+       Shroud of Golubri |    12 |    38 |    60 |   108 |   174 |       ||   392
+       Confusing Touch   |       |    32 |   134 |   109 |   194 |     1 ||   470
+       Spectral Weapon   |       |       |    17 |    39 |    45 |       ||   101
+       Beastly Appendage |       |       |     7 |    41 |    67 |       ||   115
+       Sticks to Snakes  |       |       |     7 |    55 |   136 |       ||   198
+       Spider Form       |       |       |       |    36 |    28 |       ||    64
+       Corona            |       |       |       |     5 |    41 |     1 ||    47
+       Confuse           |       |       |       |       |    35 |       ||    35
+       Summon Guardian G |       |       |       |       |    65 |       ||    65
+       Blink             |       |       |       |       |    21 |       ||    21
+Invok: Lesser Healing    |       |       |       |    13 |     5 |       ||    18
+       Greater Healing   |       |       |       |     2 |       |       ||     2
+       Heal Other        |       |       |       |       |     4 |       ||     4
+       Purification      |       |       |       |       |     1 |       ||     1
+ Abil: End Transformatio |       |       |       |     8 |     3 |       ||    11
+       Evoke Blink       |       |       |       |       |     5 |       ||     5
+Evoke: Wand              |       |       |     1 |     4 |    14 |       ||    19
+  Use: Scroll            |     6 |     2 |     8 |    20 |    20 |       ||    56
+       Potion            |       |       |       |     7 |     6 |       ||    13
+ Stab: Confused          |       |    30 |    72 |    53 |   104 |     3 ||   262
+       Sleeping          |       |       |     2 |     5 |     7 |       ||    14
+       Paralysed         |       |       |     3 |     1 |     1 |       ||     5
+       Distracted        |       |       |       |     1 |     3 |       ||     4
+  Eat: Chunk             |     6 |    15 |    27 |    41 |    75 |       ||   164
+       Ration            |       |     2 |     4 |     5 |    10 |       ||    21
+Armor: Leather armour    |    29 |    52 |   124 |    63 |       |       ||   268
+       Ring mail         |       |     7 |       |       |       |       ||     7
+       Skin              |       |       |       |     5 |    35 |       ||    40
+       Scale mail        |       |       |       |   116 | 11623 |       || 11739
+       Troll leather arm |       |       |       |       |     7 |     3 ||    10
+Dodge: Dodged            |    77 |   137 |   405 |   584 | 15864 |     6 || 17073
+Block: Buckler           |       |       |       |       |  2257 |       ||  2257
+       Shield            |       |       |       |       |     4 |     6 ||    10
+Rpst.: Falchion          |    20 |    30 |    43 |       |       |       ||    93
+       Long sword        |       |       |    15 |    10 |       |       ||    25
+       Scimitar          |       |       |       |     5 |   634 |       ||   639
+       Double sword      |       |       |       |       |    31 |     1 ||    32
+

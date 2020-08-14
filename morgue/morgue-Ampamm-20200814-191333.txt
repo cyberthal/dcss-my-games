@@ -1,0 +1,456 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1684748145200583645
+
+9552 Ampamm the Thaumaturge (level 11, 94/94 HPs) *WIZ*
+             Began as a Purple Draconian Warper on Aug 14, 2020.
+             Was a Believer of Makhleb.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 03:15:10 (18684 turns).
+
+Ampamm the Thaumaturge (Purple Draconian Warper)   Turns: 18684, Time: 03:15:10
+
+Health: 94/94      AC:  9    Str: 13    XL:     11   Next: 24%
+Magic:  20/23      EV: 13    Int: 15    God:    Makhleb [**....]
+Gold:   510        SH:  0    Dex: 13    Spells: 0/26 levels left
+
+rFire    . . .     SeeInvis +   V - staff of conjuration
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   +   S - +2 hat {SInv}
+rElec    .         Reflect  .   Q - scarf {Spirit}
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.25/turn              C - ring of stealth
+MPRegen  0.18/turn              (no ring)
+
+@: short of breath
+A: breathe power, unfitting armour, cold-blooded, AC +7
+a: Breathe Dispelling Energy, Minor Destruction, Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Makhleb.
+Makhleb was pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 11 of its levels.
+
+You collected 510 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling
+ b - a +2 halberd of venom
+ c - a +0 dagger
+ d - a +0 whip of flaming
+ e - a +1 mace of protection
+ f - a cursed +3 dire flail
+ g - a +0 war axe
+ h - a +3 halberd of freezing
+ E - a +0 short sword of speed
+ N - a +0 shortbow
+ W - a +4 long sword
+Missiles
+ l - 92 arrows
+ o - 29 poisoned needles
+ p - 5 javelins
+ x - 31 bolts
+ A - 6 tomahawks (quivered)
+ H - 4 curare-tipped needles
+ I - 8 sling bullets
+ J - 4 tomahawks of dispersal {!f}
+ K - 273 stones
+Armour
+ Q - a scarf of spirit shield (worn)
+ S - a +2 hat of see invisible (worn)
+Magical Staves
+ V - an uncursed staff of conjuration (weapon)
+Jewellery
+ w - a cursed ring of teleportation
+ C - a ring of stealth (left hand)
+ T - an uncursed amulet of the acrobat {unknown}
+Wands
+ O - a wand of clouds (6)
+Scrolls
+ m - 2 scrolls of magic mapping
+ q - 2 scrolls of amnesia
+ r - 2 scrolls of teleportation
+ t - a scroll of enchant armour
+ y - a scroll of silence
+ B - a scroll of fog
+ F - a scroll of immolation
+ L - a scroll of remove curse
+ P - a scroll of acquirement {unknown}
+Potions
+ i - a potion of ambrosia
+ j - a potion of mutation
+ k - 3 potions of brilliance
+ n - 3 potions of lignification
+ s - 5 potions of curing
+ u - 2 potions of heal wounds
+ v - a potion of magic
+ z - 2 potions of might
+ D - a potion of haste
+ G - a potion of flight
+ R - a potion of cancellation {unknown}
+Comestibles
+ M - 9 rations
+ U - a chunk of flesh
+
+
+   Skills:
+ - Level 8.0 Fighting
+ - Level 1.0 Short Blades
+ - Level 3.1 Maces & Flails
+ - Level 5.1 Polearms
+ + Level 5.6(6.0) Slings
+ + Level 3.0(4.7) Throwing
+ - Level 3.1 Dodging
+ - Level 3.0 Stealth
+ - Level 8.0 Spellcasting
+ + Level 1.6 Conjurations
+ - Level 6.0 Hexes
+ - Level 2.1 Charms
+ + Level 2.2 Summonings
+ - Level 7.1 Translocations
+ - Level 2.0 Ice Magic
+ * Level 1.2 Invocations
+ - Level 4.0 Evocations
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      1%          1    None
+b - Shroud of Golubria    Chrm/Tloc      ###.......   2%          2    None
+c - Slow                  Hex            ###.....     1%          2    None
+d - Call Imp              Summ           ##......     8%          2    None
+e - Ensorcelled Hibernat  Hex/Ice        ###...       3%          2    None
+f - Blink                 Tloc           N/A          1%          2    None
+g - Confuse               Hex            ###.....     3%          3    ##.....
+h - Gell's Gravitas       Tloc           ####......   1%          3    ##.....
+i - Dazzling Spray        Conj/Hex       ####..       8%          3    ##.....
+j - Lesser Beckoning      Tloc           ####......   1%          3    ##.....
+k - Teleport Other        Tloc           ####....     1%          3    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Tukima's Dance           Hex            ###.....     3%          3    ##.....
+ Magic Dart               Conj           ###.         6%          1    None
+ Passage of Golubria      Tloc           N/A          6%          4    ####...
+ Conjure Flame            Conj/Fire      ##......     26%         3    ##.....
+ Mephitic Cloud           Conj/Pois/Air  ##......     28%         3    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4            Lair (2/6) D:8
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+Lair:1 exclusions: adder, downstairs and electric eel
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe bolts of dispelling energy.
+Your rich purple scales are hard. (AC +7)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+
+
+Message History
+
+The yak is splashed with acid.
+You kill the yak!
+Makhleb accepts your kill.
+Training target 4.0 for Evocations reached!
+Your Evocations skill increases to level 4!
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +2 halberd of venom stops dripping with poison.
+V - an uncursed staff of conjuration (weapon)
+Enter note: char oP.  reached minor destruction blink draconian, final form!
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+HP restored.
+There is a staircase back to the Dungeon, spattered with blood here.
+Your magical contamination has completely faded away.
+There is a stone staircase leading down here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+              ##;      SSSS.###
+               ~~##    ~S.S #.####
+               ~~~##   ~S.  #...P###
+              ##~~~  ##~.#  #......#
+               ~~~~###%.S   #####..##
+               #~~##$....       ##..#
+               #~...((.##        ##.#
+               #~.#  #..##       #..##
+              ##~.## ##.%#       ##..#
+           ####~~..#####.#        ##.##
+ ###########~~~~~........#         #..#
+ #......................##         #..#
+ #....................#.P#         ##..
+ #...............@.......### ###    #..
+ #.......................#.###P######).
+ #...............<...............#.##..
+ #.....................................
+ #...........)........#.....7...77.....
+ #....................#....777.7777....
+ #....................#...7.7..7777....
+##.........................77...77.....
+#.....................#>...............
+#.....................#............^...
+##.....................................
+ #................^...#................
+ #..[..................................
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  3 two-headed ogres (D:8)
+  Urug (Lair:2)
+  A black mamba (Lair:1)
+  3 spiny frogs
+  A komodo dragon (Lair:1)
+  2 hippogriffs (D:8)
+  8 yaks
+  5 water moccasins
+  2 orc warriors
+  2 ice beasts
+  A sky beast (D:6)
+  A black bear (D:7)
+  4 ogres
+  A centaur (D:7)
+  A big kobold (D:7)
+  A crocodile (Lair:1)
+  6 bullfrogs
+  A gnoll sergeant (D:8)
+  A wyvern skeleton (D:8)
+  4 scorpions
+  5 killer bees
+  3 wights
+  A howler monkey (D:3)
+  2 crimson imps
+  2 centaur zombies
+  A quasit (D:8)
+  A bullfrog skeleton (D:7)
+  A centaur skeleton (D:7)
+  A gnoll shaman (D:4)
+  2 hounds
+  2 orc priests
+  2 iguanas
+  A jelly (D:6)
+  3 orc wizards
+  Jessica (D:3)
+  8 worker ants
+  A statue (D:6)
+  14 adders
+  7 gnolls
+  A shadow imp (D:7)
+  4 oozes
+  An adder zombie (D:7)
+  5 worms
+  3 dart slugs
+  5 leopard geckos
+  19 orcs
+  3 ball pythons
+  9 bats
+  6 giant cockroaches
+  5 goblins
+  8 hobgoblins
+  16 jackals
+  7 quokkas
+  10 frilled lizards
+  15 kobolds
+  A leopard gecko skeleton (D:8)
+  A quokka skeleton (D:4)
+  11 rats
+237 creatures vanquished.
+
+Vanquished Creatures (others)
+  11 fungi (D:8)
+  11 plants (D:8)
+22 creatures vanquished.
+
+Grand Total: 259 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ampamm the Draconian Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+    18 | D:1      | Reached skill level 1 in Throwing
+   113 | D:1      | Reached skill level 1 in Stealth
+   130 | D:1      | Reached XP level 2. HP: 21/25 MP: 5/5
+   179 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   182 | D:1      | Learned a level 2 spell: Blink
+   468 | D:1      | Reached skill level 1 in Charms
+   650 | D:1      | Reached XP level 3. HP: 29/31 MP: 3/6
+  1775 | D:2      | Found a shattered altar of Ashenzari.
+  2136 | D:2      | Reached XP level 4. HP: 37/38 MP: 7/7
+  2228 | D:2      | Found a faded altar of an unknown god.
+  2332 | D:2      | Found a bloodstained altar of Trog.
+  2608 | D:2      | Learned a level 3 spell: Teleport Other
+  3359 | D:3      | Noticed Jessica
+  3695 | D:3      | Killed Jessica
+  3695 | D:3      | Reached XP level 5. HP: 45/45 MP: 9/9
+  4952 | D:3      | Reached skill level 1 in Slings
+  5023 | D:4      | Found a stormy altar of Qazlal.
+  5228 | D:4      | Found a sparkling altar of Nemelex Xobeh.
+  5235 | D:4      | Noticed an ogre
+  5246 | D:3      | Reached skill level 1 in Maces & Flails
+  5337 | D:4      | Found a shadowy altar of Dithmenos.
+  5408 | D:4      | Found a bloodstained altar of Trog.
+  5718 | D:3      | Reached XP level 6. HP: 39/52 MP: 5/10
+  6938 | D:4      | Found a staircase to the Ecumenical Temple.
+  6945 | Temple   | Entered the Ecumenical Temple
+  7010 | Temple   | Became a worshipper of Makhleb the Destroyer
+  8123 | D:5      | Entered Level 5 of the Dungeon
+  8433 | D:5      | Your scales start taking on a rich purple colour.
+  8433 | D:5      | Reached XP level 7. HP: 60/60 MP: 12/12
+  8507 | D:4      | Learned a level 3 spell: Gell's Gravitas
+  8570 | D:4      | Learned a level 3 spell: Lesser Beckoning
+  8585 | D:5      | Found a snail-covered altar of Cheibriados.
+  8810 | D:5      | Found a sacrificial altar of Ru.
+  9335 | D:5      | Learned a level 1 spell: Corona
+  9516 | D:6      | Reached skill level 1 in Hexes
+  9516 | D:6      | Reached skill level 1 in Invocations
+  9721 | D:5      | Reached skill level 5 in Fighting
+  9836 | D:6      | Reached skill level 5 in Spellcasting
+  9960 | D:6      | Reached XP level 8. HP: 68/68 MP: 10/15
+ 10027 | D:6      | Learned a level 2 spell: Ensorcelled Hibernation
+ 10306 | D:6      | Reached skill level 1 in Short Blades
+ 10306 | D:6      | Reached skill level 1 in Ice Magic
+ 10631 | D:6      | Found a radiant altar of Vehumet.
+ 12686 | D:6      | Reached skill level 1 in Evocations
+ 12980 | D:8      | Found a hazy altar of Hepliaklqana.
+ 12980 | D:8      | Found a blossoming altar of Fedhas.
+ 12980 | D:8      | Found an ornate altar of the Wu Jian Council.
+ 12980 | D:8      | Found a basalt altar of Yredelemnul.
+ 12980 | D:8      | Noticed a two-headed ogre
+ 12986 | D:7      | Reached XP level 9. HP: 74/74 MP: 14/17
+ 12991 | D:7      | Learned a level 3 spell: Confuse
+ 13101 | D:8      | Reached * piety under Makhleb
+ 13550 | D:8      | Reached skill level 5 in Translocations
+ 13903 | D:8      | Noticed a two-headed ogre
+ 14214 | D:8      | Noticed a two-headed ogre
+ 14317 | D:8      | Killed a two-headed ogre
+ 14317 | D:8      | Reached skill level 5 in Hexes
+ 14940 | D:8      | Found a staircase to the Lair.
+ 15205 | D:8      | Reached XP level 10. HP: 70/84 MP: 11/20
+ 15947 | D:8      | Killed a two-headed ogre
+ 16273 | D:8      | Killed a two-headed ogre
+ 16273 | D:8      | Reached skill level 5 in Slings
+ 16333 | D:8      | Learned a level 2 spell: Slow
+ 16336 | D:8      | Learned a level 2 spell: Call Imp
+ 16363 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 16382 | D:8      | Reached skill level 1 in Summonings
+ 16464 | Lair:1   | Noticed a spiny frog
+ 16828 | D:8      | Killed a spiny frog
+ 17305 | Lair:1   | Noticed a spiny frog
+ 17441 | Lair:1   | Noticed a spiny frog
+ 17465 | Lair:1   | Noticed a black mamba
+ 17469 | Lair:1   | Killed a spiny frog
+ 17479 | Lair:1   | Killed a black mamba
+ 17769 | Lair:1   | Reached XP level 11. HP: 94/94 MP: 17/23
+ 17791 | Lair:1   | Reached skill level 5 in Polearms
+ 18423 | Lair:1   | Learned a level 3 spell: Dazzling Spray
+ 18517 | Lair:2   | Noticed Urug
+ 18545 | Lair:2   | Killed Urug
+ 18545 | Lair:2   | Reached skill level 1 in Conjurations
+ 18639 | Lair:1   | Reached ** piety under Makhleb
+ 18675 | Lair:1   | char oP.  reached minor destruction blink draconian, final
+                  | form!
+ 18684 | Lair:1   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Throwing       |  1                          2  3 |  3.0
+Stealth        |  1                    2        3 |  3.0
+Charms         |     1              2             |  2.1
+Fighting       |     3           4  5     6  7  8 |  8.0
+Polearms       |           3                 4  5 |  5.1
+Spellcasting   |           3        5     7  8    |  8.0
+Slings         |              1  3     4     5    |  5.6
+Maces & Flails |              1     2  3          |  3.1
+Translocations |                 4        5  7    |  7.1
+Hexes          |                    2     5  6    |  6.0
+Invocations    |                    1             |  1.2
+Dodging        |                       3          |  3.1
+Short Blades   |                       1          |  1.0
+Ice Magic      |                       2          |  2.0
+Evocations     |                       1  3     4 |  4.0
+Summonings     |                             2    |  2.2
+Conjurations   |                                1 |  1.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |   134 |   139 |       |       ||   273
+       Tailslap          |     6 |    33 |    26 |     9 ||    74
+       Mace              |       |   154 |   168 |    11 ||   333
+       Halberd           |       |       |    88 |   100 ||   188
+       Dagger            |       |       |     1 |       ||     1
+       Whip              |       |       |    15 |       ||    15
+ Fire: Hunting sling     |       |   194 |   218 |    80 ||   492
+Throw: Stone             |    85 |    53 |       |       ||   138
+       Tomahawk          |     1 |       |     3 |     2 ||     6
+ Cast: Shroud of Golubri |     7 |    38 |    44 |    22 ||   111
+       Blink             |     3 |     8 |    12 |    11 ||    34
+       Teleport Other    |       |     1 |       |     2 ||     3
+       Corona            |       |       |    96 |    13 ||   109
+       Ensorcelled Hiber |       |       |     4 |       ||     4
+       Gell's Gravitas   |       |       |     1 |       ||     1
+       Confuse           |       |       |     6 |    34 ||    40
+       Call Imp          |       |       |       |     6 ||     6
+       Slow              |       |       |       |     5 ||     5
+Invok: Minor Destruction |       |       |       |     2 ||     2
+ Abil: Breathe Dispellin |       |       |     4 |     2 ||     6
+  Use: Scroll            |     2 |    11 |     8 |     1 ||    22
+       Potion            |     1 |     2 |       |     1 ||     4
+ Stab: Sleeping          |     1 |     1 |     3 |     2 ||     7
+       Distracted        |     1 |       |       |       ||     1
+       Confused          |       |       |     3 |     4 ||     7
+       Invisible         |       |       |       |     3 ||     3
+  Eat: Chunk             |     1 |    17 |    20 |     3 ||    41
+       Ration            |     1 |     2 |     1 |     3 ||     7
+Armor: Skin              |    33 |   110 |   155 |    20 ||   318
+Dodge: Dodged            |    74 |   198 |   249 |    66 ||   587
+

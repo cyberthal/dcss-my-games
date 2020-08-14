@@ -1,0 +1,155 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12045922653065190951
+
+0 Hahon the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Berserker on Apr 14, 2020.
+             Was an Initiate of Elyvilon.
+             Quit the game in the Ecumenical Temple.
+             The game lasted 00:01:04 (18 turns).
+
+Hahon the Skirmisher (Hill Orc Berserker)             Turns: 18, Time: 00:01:05
+
+Health: 19/19      AC:  2    Str: 19    XL:     1   Next: 0%
+Magic:  1/1        EV: 12    Int:  7    God:    Elyvilon 15 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    +   b - +0 animal skin
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             d - amulet of faith
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Renounce Religion
+
+
+You were in the Ecumenical Temple.
+You worshipped Elyvilon.
+Elyvilon was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Jewellery
+ d - an amulet of faith (around neck)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 3.2 Polearms
+ + Level 2.1 Armour
+ + Level 1.5 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Makhleb
+Nemelex Xobeh
+Okawaru
+Ru
+Sif Muna
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Message History
+
+You kneel at the altar of Elyvilon.
+You have lost your religion!
+Trog does not appreciate desertion!
+Elyvilon welcomes you!
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Okay, then.
+Really renounce your faith, foregoing its fabulous benefits? 
+Are you sure you won't change your mind later? 
+You have lost your religion!
+Put on which piece of jewellery? (? for menu, Esc to quit)
+You feel a strange surge of divine interest.
+d - an amulet of faith (around neck)
+You kneel at the altar of Elyvilon.
+Elyvilon welcomes you back!
+Your amulet flashes!
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+               #############
+           #####...........##
+        ####.................
+      ###....................
+    ###.........._..._..._...
+   ##........_...............
+  ##.........................
+ ##......._..................
+ #...........................
+##.................}...}.....
+#.......@....................
+#............................
+#................}...<...}...
+#............................
+#......._....................
+##.................}...}.....
+ #...........................
+ ##......._..................
+  ##.........................
+   ##........_...............
+    ###.........._..._..._...
+      ###....................
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hahon the Hill Orc Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | Temple   | Entered the Ecumenical Temple
+    14 | Temple   | Fell from the grace of Trog
+    14 | Temple   | Became a worshipper of Elyvilon the Healer
+    15 | Temple   | Fell from the grace of Elyvilon
+    17 | Temple   | Became a worshipper of Elyvilon the Healer
+    18 | Temple   | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Renounce Religion ||     1
+

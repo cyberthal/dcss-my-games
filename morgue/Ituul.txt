@@ -1,0 +1,906 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1106949679802663125
+
+Ituul the Minotaur Porcupine (Minotaur Berserker)   Turns: 2118, Time: 02:00:20
+
+Health: 234/273    AC: 49    Str: 26    XL:     27
+Magic:  53/53      EV: 25    Int: 12    God:    Ru 10 (0)
+Gold:   1289       SH: 43    Dex: 17    Spells: 7/80 levels left
+
+rFire    . . .     SeeInvis +   J - +9 war axe (elec)
+rCold    . . .     Gourm    .   p - +8 large shield {AC+3}
+rNeg     . . .     Faith    .   L - +12 plate armour of Jatt {rCorr}
+rPois    .         Spirit   .   q - +0 hat of the Grey Skies {Regen+ rCorr Int+3}
+rElec    .         Reflect  +   h - +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+rCorr    +         Harm     .   K - +2 pair of gloves {Str+3}
+MR       ++...                  w - +2 pair of boots {Stlth+}
+Stlth    ++++++++++             M - brooch of Shielding {Reflect SH+8}
+HPRegen  0.95/turn              G - ring of see invisible
+MPRegen  0.33/turn              v - ring of Shadows {Umbra +Inv Stlth+}
+
+@: wreathed by umbra
+A: retaliatory headbutt, horns 2
+}: 2/15 runes: serpentine, barnacled
+a: Sacrifice Nimbleness, Sacrifice Essence, Sacrifice Skill, Reject Sacrifices,
+Renounce Religion, Evoke Fog, Evoke Invisibility
+
+
+You are on level 27 of a ziggurat.
+You worship Ru.
+Ru is noncommittal.
+You are hungry.
+
+You have visited 3 branches of the dungeon, and seen 3 of its levels.
+You have visited 15 ziggurats (completing 1), and seen 54 of their levels.
+
+You have collected 1289 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ t - the +7 scimitar of Rekhlonu {holy, rC+}
+   (You found it on level 24 of a ziggurat)   
+   
+   It has been blessed by the Shining One to cause great damage to the undead
+   and demons.
+   
+   It protects you from cold.
+ A - the +9 staff of Wucad Mu {channel}
+   (You found it on level 13 of a ziggurat)
+ B - the +8 hand crossbow of Tomorrow {speed, Int+5 Dex-3 SInv}
+   (You found it on level 12 of a ziggurat)   
+   
+   Attacks with this weapon are significantly faster.
+   
+   It affects your intelligence (+5).
+   It affects your dexterity (-3).
+   It lets you see invisible.
+ J - a +9 war axe of electrocution (weapon)
+ Z - the +8 autumn katana {slice, Clar}
+   (You found it on level 11 of a ziggurat)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It protects you against confusion.
+Missiles
+ R - 193 bolts
+Armour
+ h - the +2 cloak of the Thief (worn) {+Fog Slay-2 SInv Stlth+}
+   (You found it on level 19 of a ziggurat)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (-2).
+   It lets you see invisible.
+   It makes you more stealthy.
+ p - a +8 large shield of protection (worn)
+ q - the +0 hat of the Grey Skies (worn) {Regen+ rCorr Int+3}
+   (You acquired it on level 16 of a ziggurat)   
+   
+   It affects your intelligence (+3).
+   It increases your rate of regeneration.
+   It provides partial protection from all sources of acid and corrosion.
+ w - a +2 pair of boots of stealth (worn)
+ K - a +2 pair of gloves of strength (worn)
+ L - the +12 plate armour of Jatt (worn) {rCorr}
+   (You found it on level 27 of a ziggurat)   
+   
+   It provides partial protection from all sources of acid and corrosion.
+Magical Staves
+ u - an uncursed staff of energy
+ V - an uncursed staff of wizardry
+Jewellery
+ b - the amulet of Crawling {Acrobat +Fly rN+ MR+ Stlth+}
+   (You found it on level 13 of a ziggurat)   
+   
+   [amulet of the acrobat]
+   
+   It helps you evade while moving and waiting.
+   It protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+   It lets you fly.
+   It makes you more stealthy.
+ m - the amulet "Fiuriadoup" {+Rage rElec rPois Int+5}
+   (You found it on level 13 of a ziggurat)   
+   
+   [amulet of rage]
+   
+   It affects your intelligence (+5).
+   It insulates you from electricity.
+   It protects you from poison.
+   It lets you go berserk.
+ v - the ring of Shadows (right hand) {Umbra +Inv Stlth+}
+   (You found it on level 20 of a ziggurat)   
+   
+   [ring of stealth]
+   
+   It lets you turn invisible.
+   It makes you more stealthy.
+ G - a ring of see invisible (left hand)
+ M - the brooch of Shielding (around neck) {Reflect SH+8}
+   (You found it on level 13 of a ziggurat)   
+   
+   [amulet of reflection]
+   
+   It shields you and reflects attacks.
+   It affects your SH (+8).
+ O - the amulet of Understanding {Faith +Inv Int+4}
+   (You found it on level 17 of a ziggurat)   
+   
+   [amulet of faith]
+   
+   It allows you to gain divine favour quickly.
+   It affects your intelligence (+4).
+   It lets you turn invisible.
+ W - the ring "Huirigaxos" {rPois MP+9 Str+4 Int+4}
+   (You found it on level 16 of a ziggurat)   
+   
+   [ring of magical power]
+   
+   It affects your strength (+4).
+   It affects your intelligence (+4).
+   It protects you from poison.
+   It affects your magic capacity (+9).
+Wands
+ e - a wand of disintegration (12)
+ x - a wand of random effects (29)
+ E - a wand of polymorph (5)
+ F - a wand of enslavement (13)
+ P - a wand of iceblast (8)
+Scrolls
+ f - 3 scrolls of immolation
+ g - 6 scrolls of silence
+ j - 31 scrolls of fog
+ k - 36 scrolls of amnesia
+ n - 32 scrolls of remove curse
+ z - 6 scrolls of holy word
+ C - 12 scrolls of blinking
+ I - 2 scrolls of vulnerability
+ U - 25 scrolls of teleportation
+Potions
+ d - 6 potions of curing
+ l - 3 potions of invisibility
+ o - a potion of might
+ y - 11 potions of heal wounds
+ N - 11 potions of haste
+ Q - 18 potions of mutation
+ T - a potion of brilliance
+Miscellaneous
+ a - a fan of gales
+ i - a lamp of fire
+ r - a sack of spiders
+ s - a phial of floods
+ H - 5 boxes of beasts
+ X - 6 phantom mirrors
+ Y - a lightning rod (4/4)
+Comestibles
+ c - 30 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You have 7 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Aura of Abjuration    Summ           69 (200)     0%          5    76
+b - Summon Guardian Gole  Hex/Summ       69 (100)     0%          3    0
+c - Summon Butterflies    Summ           69 (100)     0%          1    0
+d - Blink                 Tloc           N/A          0%          2    0
+e - Irradiate             Conj/Tmut      69 (200)     0%          5    76
+f - Summon Mana Viper     Hex/Summ       69 (100)     0%          5    76
+g - Shroud of Golubria    Chrm/Tloc      69 (200)     0%          2    0
+h - Cause Fear            Hex            69 (200)     0%          4    0
+i - Song of Slaying       Chrm           69 (100)     0%          2    0
+j - Olgreb's Toxic Radia  Pois           69 (100)     0%          4    0
+k - Metabolic Englaciati  Hex/Ice        69 (200)     0%          5    76
+l - Swiftness             Chrm/Air       69 (100)     0%          2    0
+m - Passage of Golubria   Tloc           N/A          0%          4    0
+n - Alistair's Intoxicat  Tmut/Pois      69 (100)     0%          5    76
+o - Gell's Gravitas       Tloc           69 (200)     0%          3    0
+p - Ignite Poison         Fire/Tmut/Pois 69 (100)     0%          3    0
+q - Summon Lightning Spi  Summ/Air       69 (100)     0%          4    0
+r - Borgnjor's Vile Clut  Necr/Erth      69 (200)     0%          5    76
+s - Portal Projectile     Hex/Tloc       50 (50)      0%          3    0
+t - Regeneration          Chrm/Necr      69 (200)     0%          3    0
+u - Spectral Weapon       Hex/Chrm       69 (100)     0%          3    0
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Apportation              Tloc           50 (50)      0%          1    0
+ Beastly Appendage        Tmut           50 (50)      0%          1    0
+ Confusing Touch          Hex            50 (50)      0%          1    0
+ Corona                   Hex            69 (90)      0%          1    0
+ Flame Tongue             Conj/Fire      40 (40)      0%          1    0
+ Freeze                   Ice            25 (25)      0%          1    0
+ Infusion                 Chrm           25 (25)      0%          1    0
+ Magic Dart               Conj           25 (25)      0%          1    0
+ Pain                     Necr           25 (25)      0%          1    0
+ Sandblast                Erth           50 (50)      0%          1    0
+ Shock                    Conj/Air       25 (25)      0%          1    0
+ Sting                    Conj/Pois      25 (25)      0%          1    0
+ Summon Small Mammal      Summ           25 (25)      0%          1    0
+ Call Imp                 Summ           69 (100)     0%          2    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Ensorcelled Hibernation  Hex/Ice        50 (50)      0%          2    0
+ Passwall                 Tmut/Erth      69 (120)     0%          2    0
+ Poisonous Vapours        Pois/Air       50 (50)      0%          2    0
+ Searing Ray              Conj           50 (50)      0%          2    0
+ Slow                     Hex            69 (100)     0%          2    0
+ Sticks to Snakes         Tmut           69 (100)     0%          2    0
+ Sublimation of Blood     Necr           69 (200)     0%          2    0
+ Throw Flame              Conj/Fire      50 (50)      0%          2    0
+ Throw Frost              Conj/Ice       50 (50)      0%          2    0
+ Call Canine Familiar     Summ           69 (100)     0%          3    0
+ Confuse                  Hex            69 (100)     0%          3    0
+ Conjure Flame            Conj/Fire      69 (100)     0%          3    0
+ Dazzling Spray           Conj/Hex       50 (50)      0%          3    0
+ Inner Flame              Hex/Fire       69 (100)     0%          3    0
+ Lesser Beckoning         Tloc           69 (200)     0%          3    0
+ Mephitic Cloud           Conj/Pois/Air  69 (100)     0%          3    0
+ Ozocubu's Armour         Chrm/Ice       69 (100)     0%          3    0
+ Recall                   Summ/Tloc      N/A          0%          3    0
+ Spider Form              Tmut/Pois      69 (200)     0%          3    0
+ Static Discharge         Conj/Air       69 (100)     0%          3    0
+ Stone Arrow              Conj/Erth      50 (50)      0%          3    0
+ Teleport Other           Tloc           69 (100)     0%          3    0
+ Tukima's Dance           Hex            69 (100)     0%          3    0
+ Vampiric Draining        Necr           69 (200)     0%          3    0
+ Airstrike                Air            69 (200)     0%          4    0
+ Animate Dead             Necr           N/A          0%          4    0
+ Force Lance              Conj/Tloc      69 (100)     0%          4    0
+ Fulminant Prism          Conj/Hex       69 (200)     0%          4    0
+ Ice Form                 Ice/Tmut       69 (100)     0%          4    0
+ Iskenderun's Mystic Bla  Conj           69 (100)     0%          4    0
+ Leda's Liquefaction      Hex/Erth       69 (200)     0%          4    0
+ Petrify                  Tmut/Erth      69 (100)     0%          4    0
+ Sticky Flame             Conj/Fire      69 (100)     0%          4    0
+ Summon Ice Beast         Ice/Summ       69 (100)     0%          4    0
+ Throw Icicle             Conj/Ice       69 (100)     0%          4    0
+ Agony                    Necr           69 (100)     0%          5    76
+ Blade Hands              Tmut           69 (200)     0%          5    76
+ Bolt of Draining         Conj/Necr      69 (200)     0%          5    76
+ Bolt of Magma            Conj/Fire/Erth 69 (200)     0%          5    76
+ Dispel Undead            Necr           69 (100)     0%          5    76
+ Excruciating Wounds      Chrm/Necr      69 (200)     0%          5    76
+ Fireball                 Conj/Fire      69 (200)     0%          5    76
+ Iskenderun's Battlesphe  Conj/Chrm      69 (100)     0%          5    76
+ Lee's Rapid Deconstruct  Erth           69 (200)     0%          5    76
+ Lightning Bolt           Conj/Air       69 (200)     0%          5    76
+ Silence                  Hex/Air        69 (200)     0%          5    76
+ Summon Demon             Summ           69 (200)     0%          5    76
+ Summon Forest            Summ/Tloc      69 (200)     0%          5    76
+ Venom Bolt               Conj/Pois      69 (200)     0%          5    76
+ Yara's Violent Unravell  Hex/Tmut       69 (200)     0%          5    76
+ Bolt of Cold             Conj/Ice       69 (200)     0%          6    226
+ Bolt of Fire             Conj/Fire      69 (200)     0%          6    226
+ Conjure Ball Lightning   Conj/Air       69 (200)     0%          6    226
+ Darkness                 Hex            69 (200)     0%          6    226
+ Death Channel            Necr           69 (200)     0%          6    226
+ Deflect Missiles         Chrm/Air       69 (200)     0%          6    226
+ Dispersal                Tloc           69 (200)     0%          6    226
+ Freezing Cloud           Conj/Ice/Air   69 (200)     0%          6    226
+ Hydra Form               Tmut           69 (200)     0%          6    226
+ Invisibility             Hex            69 (100)     0%          6    226
+ Iron Shot                Conj/Erth      69 (200)     0%          6    226
+ Ozocubu's Refrigeration  Ice            69 (200)     0%          6    226
+ Poison Arrow             Conj/Pois      69 (200)     0%          6    226
+ Shadow Creatures         Summ           N/A          0%          6    226
+ Simulacrum               Ice/Necr       69 (200)     0%          6    226
+ Statue Form              Tmut/Erth      69 (150)     0%          6    226
+ Dragon Form              Tmut           69 (200)     1%          7    376
+ Haunt                    Necr/Summ      69 (200)     1%          7    376
+ Malign Gateway           Summ/Tloc      69 (200)     1%          7    376
+ Monstrous Menagerie      Summ           69 (200)     1%          7    376
+ Orb of Destruction       Conj           69 (200)     1%          7    376
+ Ring of Flames           Chrm/Fire      69 (200)     1%          7    376
+ Spellforged Servitor     Conj/Summ      69 (200)     1%          7    376
+ Summon Greater Demon     Summ           69 (200)     1%          7    376
+ Summon Hydra             Summ           69 (200)     1%          7    376
+ Borgnjor's Revivificati  Necr           69 (200)     1%          8    526
+ Chain Lightning          Conj/Air       69 (200)     1%          8    526
+ Controlled Blink         Tloc           N/A          1%          8    526
+ Death's Door             Chrm/Necr      69 (200)     1%          8    526
+ Discord                  Hex            69 (200)     1%          8    526
+ Disjunction              Tloc           69 (200)     1%          8    526
+ Ignition                 Fire           69 (200)     1%          8    526
+ Infestation              Necr           69 (200)     1%          8    526
+ Lehudib's Crystal Spear  Conj/Erth      69 (200)     1%          8    526
+ Necromutation            Tmut/Necr      69 (200)     1%          8    526
+ Summon Horrible Things   Summ           69 (200)     1%          8    526
+ Dragon's Call            Summ           69 (200)     10%         9    676
+ Fire Storm               Conj/Fire      69 (200)     10%         9    676
+ Glaciate                 Conj/Ice       69 (200)     10%         9    676
+ Shatter                  Erth           69 (200)     10%         9    676
+ Tornado                  Air            69 (200)     10%         9    676
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Nemelex Xobeh
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 108 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Regenerating level.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 89 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found twenty-six items.
+Found two gates leading back out of this place.
+2 bone dragons, 8 deep elf death magi, 2 reapers, 2 ghouls, 14 vampires, 6
+flayed ghosts, 11 wraiths, 8 liches, 3 curse skulls, 5 profane servitors, 11
+ancient champions, 6 revenants and a jiangshi come into view.
+A reaper is wielding a +1 vampiric scythe. A profane servitor is wielding a +1
+demon whip of venom. An ancient champion is wielding a +2 great mace of
+draining. A reaper is wielding a +4 scythe of protection. An ancient champion
+is wielding a +1 battleaxe of chopping. An ancient champion is wielding a +1
+great sword of slicing. A deep elf death mage is wielding a +2 long sword of
+holy wrath. A vampire knight is wielding a +3 war axe of electrocution. An
+ancient champion is wielding a +0 great sword of draining. An ancient champion
+is wielding a +2 great mace of flaming. An ancient champion is wielding a +3
+great mace of draining. A profane servitor is wielding a +2 demon whip of
+venom. A vampire knight is wielding a +2 war axe of venom. A profane servitor
+is wielding a +3 demon whip of electrocution.
+Press: ? - help, v - describe, . - travel
+Here: a vampire knight, wielding a +3 war axe of electrocution and wearing a +0
+chain mail (hasn't noticed you, umbra)
+The floor.
+Saving game... please wait.
+
+......................###
+........................##
+.8^.............^8.8^....###
+.88.............88.88......##
+............................##
+.88.............88.88........#
+.8^.............^8.8^........##
+........................WeLLAL#
+........................WzzLWV##
+........................AeezVzW#
+........................zVzeVDz#
+........................WLVLWAW#
+........................WeDVV2V##
+......................@ezVWzVLL2#
+........................eWLVALV##
+........................WV2Lznz#
+........................zzWLWVz#
+........................WVWWLzD#
+........................zeWzVL##
+........................WLAWnV#
+.8^.............^8.8^........##
+.88.............88.88........#
+............................##
+.88.............88.88......##
+.8^.............^8.8^....###
+........................##
+
+
+You can see 2 bone dragons, 5 profane servitors, 2 ghouls, 2 ancient liches, 6
+revenants, 6 liches, 2 reapers, 9 vampire knights, 3 eidola, 11 ancient
+champions, 8 deep elf death magi, a jiangshi (wandering), 6 flayed ghosts, 5
+vampire magi, 7 shadow wraiths, 3 curse skulls and a phantasmal warrior
+(wandering).
+
+Vanquished Creatures
+  5 deep elf master archers (Zig:20)
+  4 deep elf blademasters (Zig:20)
+  2 deep elf demonologists (Zig:20)
+  4 deep elf annihilators (Zig:20)
+  6 deep elf high priests (Zig:20)
+  6 dancing weapons (Zig:20)
+  6 deep elf knights (Zig:20)
+  4 deep elf archers (Zig:20)
+  24 deep elf magi (Zig:20)
+  A redback (shapeshifter) (Zig:21)
+  3 water elementals (Zig:20)
+  An air elemental (Zig:20)
+  3 fire elementals (Zig:20)
+  An earth elemental (Zig:20)
+70 creatures vanquished.
+
+Vanquished Creatures (others)
+  A deep elf master archer (Zig:20)
+  A deep elf mage (Zig:20)
+  2 water elementals (Zig:20)
+  A golden eye (shapeshifter) (Zig:20)
+5 creatures vanquished.
+
+Grand Total: 75 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ituul the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Reached XP level 2. HP: 69/69 MP: 0/29
+     3 | D:1      | Reached XP level 3. HP: 77/77 MP: 0/30
+     4 | D:1      | Reached XP level 4. HP: 85/85 MP: 0/32
+     5 | D:1      | Reached XP level 5. HP: 93/93 MP: 0/33
+     6 | D:1      | Reached XP level 6. HP: 102/102 MP: 0/35
+     7 | D:1      | Reached XP level 7. HP: 110/110 MP: 1/36
+     8 | D:1      | Reached XP level 8. HP: 118/118 MP: 1/38
+     9 | D:1      | Reached XP level 9. HP: 126/126 MP: 1/39
+    10 | D:1      | Reached XP level 10. HP: 135/135 MP: 1/40
+    11 | D:1      | Reached XP level 11. HP: 143/143 MP: 2/41
+    12 | D:1      | Reached XP level 12. HP: 151/151 MP: 2/42
+    13 | D:1      | Reached XP level 13. HP: 159/159 MP: 2/43
+    14 | D:1      | Reached XP level 14. HP: 168/168 MP: 3/44
+    15 | D:1      | Reached XP level 15. HP: 174/174 MP: 3/45
+    16 | D:1      | Reached XP level 16. HP: 183/183 MP: 3/46
+    17 | D:1      | Reached XP level 17. HP: 191/191 MP: 3/47
+    18 | D:1      | Reached XP level 18. HP: 200/200 MP: 4/48
+    19 | D:1      | Reached XP level 19. HP: 207/207 MP: 4/49
+    20 | D:1      | Reached XP level 20. HP: 216/216 MP: 4/50
+    21 | D:1      | Reached XP level 21. HP: 224/224 MP: 5/51
+    22 | D:1      | Reached XP level 22. HP: 233/233 MP: 5/52
+    23 | D:1      | Reached XP level 23. HP: 240/240 MP: 5/53
+    24 | D:1      | Reached XP level 24. HP: 249/249 MP: 6/53
+    25 | D:1      | Reached XP level 25. HP: 257/257 MP: 6/53
+    26 | D:1      | Reached XP level 26. HP: 266/266 MP: 6/53
+    27 | D:1      | Reached XP level 27. HP: 273/273 MP: 7/53
+    29 | D:1      | Fell from the grace of Trog
+    29 | D:1      | Became a worshipper of Uskayaw the Reveler
+    29 | D:1      | Was forgiven by Trog
+    31 | Shoals:4 | Entered Level 4 of the Shoals
+    31 | Shoals:4 | Noticed Ilsuiw
+    84 | Shoals:4 | Got a fine platinum ring
+   115 | Shoals:4 | Identified the Incunabulum of Ice and Enhancements
+   231 | Shoals:4 | Got a barnacled rune of Zot
+   232 | Snake:4  | Entered Level 4 of the Snake Pit
+   232 | Snake:4  | Found a sparkling altar of Nemelex Xobeh.
+   234 | Snake:4  | Got a serpentine rune of Zot
+   235 | D:1      | Identified the ring of the Prince {rC+ Str+4} (You found it
+                  | on level 4 of the Shoals)
+   239 | Zig:1    | Entered Level 1 of a ziggurat
+   255 | Zig:2    | Entered Level 2 of a ziggurat
+   260 | Zig:3    | Entered Level 3 of a ziggurat
+   273 | Zig:4    | Entered Level 4 of a ziggurat
+   282 | Zig:4    | Got a brightly glowing rapier
+   282 | Zig:4    | Got a polished dagger
+   282 | Zig:4    | Identified the +4 rapier "Niudghysi" {holy, Str+6 Dex-5}
+                  | (You found it on level 4 of a ziggurat)
+   282 | Zig:4    | Identified the cursed +0 dagger of Baphod {antimagic, rF++}
+                  | (You found it on level 4 of a ziggurat)
+   283 | Zig:5    | Entered Level 5 of a ziggurat
+   299 | Zig:5    | Got a dazzling dire flail
+   308 | Zig:5    | Identified the +5 dire flail of Compulsion {holy, rN+ MR+
+                  | Str-3 Int+4} (You found it on level 5 of a ziggurat)
+   309 | Zig:6    | Entered Level 6 of a ziggurat
+   320 | Zig:6    | Identified the Catalogue of Attacks
+   323 | Zig:7    | Entered Level 7 of a ziggurat
+   324 | Zig:7    | Noticed Beluq the pandemonium lord
+   344 | Zig:7    | Got a pitted shield
+   346 | Zig:7    | Got a jewelled glaive
+   350 | Zig:7    | Identified the ring of the Prince {rC+ Str+4} (You found it
+                  | on level 4 of the Shoals)
+   350 | Zig:7    | Identified the +4 rapier "Niudghysi" {holy, Str+6 Dex-5}
+                  | (You found it on level 4 of a ziggurat)
+   350 | Zig:7    | Identified the cursed +0 dagger of Baphod {antimagic, rF++}
+                  | (You found it on level 4 of a ziggurat)
+   350 | Zig:7    | Identified the +5 dire flail of Compulsion {holy, rN+ MR+
+                  | Str-3 Int+4} (You found it on level 5 of a ziggurat)
+   350 | Zig:7    | Identified the +2 shield of Elyvilon's Delight {*Contam
+                  | rC++} (You found it on level 7 of a ziggurat)
+   350 | Zig:7    | Identified the +4 glaive of Disgust {venom, rPois} (You
+                  | found it on level 7 of a ziggurat)
+   350 | Zig:7    | Identified 2 scrolls of acquirement
+   374 | Zig:8    | Entered Level 8 of a ziggurat
+   375 | Zig:8    | Noticed Yfaumora the pandemonium lord
+   375 | Zig:8    | Found the +6 lightning scales {run, rElec}
+   402 | Zig:8    | Got a crystal short sword
+   402 | Zig:8    | Identified the +8 short sword of Seiboew {drain, Dex+4}
+                  | (You found it on level 8 of a ziggurat)
+   405 | Zig:9    | Entered Level 9 of a ziggurat
+   439 | Zig:10   | Entered Level 10 of a ziggurat
+   476 | Zig:10   | Got an ebony hand axe
+   480 | Zig:10   | Identified the +1 hand axe of Freehold {chop, rF+} (You
+                  | found it on level 10 of a ziggurat)
+   480 | Zig:10   | Identified the cursed +1 robe of Gaw Tyota {+Blink rF+ rC-
+                  | Dex+7}
+   489 | Zig:11   | Entered Level 11 of a ziggurat
+   490 | Zig:11   | Found the +8 frozen axe "Frostbite" {freezing cloud, *Noise
+                  | +Fly rC+}
+   506 | Zig:11   | Identified Pegoil's Handbook of Lightness and Bewitchment
+   508 | Zig:11   | Got a jewelled battleaxe
+   508 | Zig:11   | Got a shimmering long sword
+   508 | Zig:11   | Identified the cursed +3 battleaxe "Pare Pua" {freeze,
+                  | rC++} (You found it on level 11 of a ziggurat)
+   508 | Zig:11   | Identified the +9 long sword of Ossonked {flame, MP+9 Int+4
+                  | Dex+2} (You found it on level 11 of a ziggurat)
+   508 | Zig:11   | Identified the +7 lajatang of the Countless Dances {slice,
+                  | rElec Dex-5 SInv Stlth+} (You found it on level 11 of a
+                  | ziggurat)
+   509 | Zig:12   | Entered Level 12 of a ziggurat
+   526 | Zig:12   | Identified the +1 spear "Doateaqou" {venom, +Fly Str+7
+                  | Dex+4}
+   526 | Zig:12   | Identified the +4 scythe "Gini" {venom, rC+ rN+}
+   528 | Zig:13   | Entered Level 13 of a ziggurat
+   529 | Zig:13   | Found the +9 staff of Wucad Mu {channel}
+   572 | Zig:13   | Identified the +3 chain mail "Ecuinwox" {MP+9}
+   572 | Zig:13   | Identified the amulet of Crawling {Acrobat +Fly rN+ MR+
+                  | Stlth+} (You found it on level 13 of a ziggurat)
+   578 | Zig:14   | Entered Level 14 of a ziggurat
+   579 | Zig:14   | Found the amulet of Vitality {Regen+ HP+15}
+   582 | Zig:14   | Got a wavering ruby amulet
+   596 | Zig:14   | Identified the amulet of Gadevif {Gourm Str+3} (You found
+                  | it on level 14 of a ziggurat)
+   596 | Zig:14   | Identified the +2 mace of Dyteqer {drain, rElec MP+9 Str+2
+                  | Dex+2}
+   613 | Zig:15   | Entered Level 15 of a ziggurat
+   614 | Zig:15   | Identified the Tome of Air
+   638 | Zig:15   | Identified the +6 whip of Tiefef {drain, Str+2} (You found
+                  | it on level 15 of a ziggurat)
+   638 | Zig:15   | Identified the +5 helmet of Hucrocof {rN+ rCorr Int-2}
+   638 | Zig:15   | Identified the +7 halberd of Dissent {freeze, +Blink rElec
+                  | rF-}
+   642 | Zig:16   | Entered Level 16 of a ziggurat
+   645 | Zig:16   | Identified the Papyrus of Poison
+   665 | Zig:16   | Identified the ring "Huirigaxos" {rPois MP+9 Str+4 Int+4}
+   682 | Zig:16   | Identified the +0 hat of the Grey Skies {Regen+ rCorr
+                  | Int+3} (You acquired it on level 16 of a ziggurat)
+   695 | Zig:17   | Entered Level 17 of a ziggurat
+   696 | Zig:17   | Noticed a juggernaut
+   696 | Zig:17   | Noticed a juggernaut
+   696 | Zig:17   | Noticed a juggernaut
+   696 | Zig:17   | Noticed a juggernaut
+   696 | Zig:17   | Noticed a juggernaut
+   696 | Zig:17   | Noticed a juggernaut
+   699 | Zig:17   | Identified the +6 hunting sling of the Jolly Suns {speed,
+                  | rPois rF+ Int+6 Dex-2}
+   699 | Zig:17   | Identified the cursed ring of Beitidet {rN+ EV-3 Dex+3}
+                  | (You found it on level 17 of a ziggurat)
+   699 | Zig:17   | Identified the cursed +2 hand crossbow of Daruowkox {speed,
+                  | rElec}
+   716 | Zig:18   | Entered Level 18 of a ziggurat
+   731 | Zig:19   | Entered Level 19 of a ziggurat
+   732 | Zig:19   | Found the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+   739 | Zig:19   | Identified Meosisuh's Catalogue of Aid and Dark Rites
+   750 | Zig:19   | Identified the cursed +1 halberd "Zievvef" {freeze, Fragile
+                  | rPois MR+}
+   800 | Zig:20   | Entered Level 20 of a ziggurat
+   813 | Zig:20   | Identified the +8 falchion of Liluhif {slice, rElec Str+4
+                  | Int+2 Dex+2}
+   813 | Zig:20   | Identified the +1 hunting sling "Peunkoj" {flame, +Inv rN+
+                  | Str+2 Dex+2}
+   816 | Zig:21   | Entered Level 21 of a ziggurat
+   817 | Zig:21   | Noticed Xiadiceo the pandemonium lord
+   817 | Zig:21   | Noticed Honos the pandemonium lord
+   817 | Zig:21   | Noticed Lyntoc the pandemonium lord
+   817 | Zig:21   | Noticed Ladub the pandemonium lord
+   817 | Zig:21   | Noticed Fyskeuts the pandemonium lord
+   817 | Zig:21   | Noticed Qaezeh the pandemonium lord
+   817 | Zig:21   | Noticed Zegun the pandemonium lord
+   817 | Zig:21   | Noticed Ricose the pandemonium lord
+   817 | Zig:21   | Noticed Aduiwuasm the pandemonium lord
+   819 | Zig:21   | Identified the cursed +0 double sword "Icazier" {freeze,
+                  | rF+ Dex+2}
+   819 | Zig:21   | Identified the cursed +0 robe "Emiuras" {Stlth+}
+   855 | Zig:22   | Entered Level 22 of a ziggurat
+   885 | Zig:23   | Entered Level 23 of a ziggurat
+   905 | Zig:23   | Identified the +10 arbalest of Valiance {penet, rPois
+                  | Str+3}
+   909 | Zig:24   | Entered Level 24 of a ziggurat
+   910 | Zig:24   | Found the +3 giant club "Skullcrusher" {speed, Str+7}
+   910 | Zig:24   | Found the +3 robe of Folly {Archmagi, MR-- Int+5}
+   910 | Zig:24   | Identified the cursed +2 broad axe "Oxtewk" {freeze, Int+4}
+   910 | Zig:24   | Identified the +7 scimitar of Rekhlonu {holy, rC+}
+   910 | Zig:24   | Identified the Catalogue of the Creative Traveller
+   942 | Zig:25   | Entered Level 25 of a ziggurat
+   943 | Zig:25   | Noticed Gerinaul the pandemonium lord
+   950 | Zig:25   | Identified the cursed ring "Xyfesu Gyisch" {+Fly rF+ Int-3}
+                  | (You found it on level 25 of a ziggurat)
+   950 | Zig:25   | Identified the +6 quarterstaff of Yhyelaje {flame, +Rage
+                  | Str+3}
+   950 | Zig:25   | Identified the +0 leather armour "Wanerphui" {*Contam *Slow
+                  | rCorr Int+8}
+   973 | Zig:26   | Entered Level 26 of a ziggurat
+   974 | Zig:26   | Found the +2 hat of the Bear Spirit {Spirit, +Rage rN+
+                  | MR++}
+   974 | Zig:26   | Found the +9 sword of Zonguldrok {reap}
+   974 | Zig:27   | Entered Level 27 of a ziggurat
+   974 | Zig:27   | Noticed Asityuno the pandemonium lord
+   976 | Zig:27   | Identified the Incunabulum of Destructive Flight
+   986 | Zig:27   | Identified the Disquisition on Cold and the Escort
+   990 | Zig:27   | Identified Sif Muna's Collected Works on Feathery Darkness
+   997 | Zig:27   | Identified the +4 whip "Newtslayer" {freeze, -Tele rPois
+                  | Int+3 Stlth+}
+   997 | Zig:27   | Identified the +12 plate armour of Jatt {rCorr}
+   997 | Zig:27   | Identified the +2 hat of Viwniq {Str+3}
+   997 | Zig:27   | Identified the ring of Olitan {Fire Str+6 Slay-5} (You
+                  | found it on level 27 of a ziggurat)
+   997 | Zig:27   | Identified the Disquisition on Contamination
+   997 | Zig:27   | Identified the amulet "Aneatoi" {rElec MR- Regen+ Str+5}
+   997 | Zig:27   | Identified the +9 short sword of the Sage {pierce, rPois
+                  | rC+}
+  1017 | Zig:1    | Entered Level 1 of a ziggurat
+  1028 | Zig:2    | Entered Level 2 of a ziggurat
+  1037 | Zig:3    | Entered Level 3 of a ziggurat
+  1042 | Zig:3    | Identified the Compendium of Freezing Attacks
+  1047 | Zig:4    | Entered Level 4 of a ziggurat
+  1056 | Zig:5    | Entered Level 5 of a ziggurat
+  1073 | Zig:5    | Identified the cursed +1 hand crossbow of Dishonour {speed,
+                  | Str+3} (You found it on level 5 of a ziggurat)
+  1076 | Zig:6    | Entered Level 6 of a ziggurat
+  1077 | Zig:6    | Noticed an ancient lich
+  1077 | Zig:6    | Identified the Collected Works on the Creative Birds
+  1080 | Zig:7    | Entered Level 7 of a ziggurat
+  1093 | Zig:7    | Identified the +8 dagger of Defiance {pierce, rF++ rN+
+                  | Str-5} (You found it on level 7 of a ziggurat)
+  1093 | Zig:7    | Identified the +4 shortbow of the Pyrrhic Victory {venom,
+                  | rN+ Str+5 Dex+2}
+  1096 | Zig:8    | Entered Level 8 of a ziggurat
+  1104 | Zig:8    | Identified the Grimoire of Freezing Shape Shifting
+  1114 | Zig:9    | Entered Level 9 of a ziggurat
+  1137 | Zig:10   | Entered Level 10 of a ziggurat
+  1146 | Zig:11   | Entered Level 11 of a ziggurat
+  1147 | Zig:11   | Found the +8 autumn katana {slice, Clar}
+  1147 | Zig:11   | Noticed Puux Feq the pandemonium lord
+  1148 | Zig:11   | Identified Sif Muna's Incunabulum of Supportive Ice
+  1172 | Zig:12   | Entered Level 12 of a ziggurat
+  1193 | Zig:12   | Identified the +8 hand crossbow of Tomorrow {speed, Int+5
+                  | Dex-3 SInv}
+  1199 | Zig:13   | Entered Level 13 of a ziggurat
+  1200 | Zig:13   | Found the brooch of Shielding {Reflect SH+8}
+  1203 | Zig:13   | Got a vibrating wooden ring
+  1204 | Zig:13   | Identified the ring "Haulluh" {+Fly Stlth+} (You found it
+                  | on level 13 of a ziggurat)
+  1204 | Zig:13   | Identified the +3 scimitar of Jeeho {slice, -Tele Str+3
+                  | Dex+4}
+  1204 | Zig:13   | Identified the amulet "Fiuriadoup" {+Rage rElec rPois
+                  | Int+5}
+  1204 | Zig:13   | Identified the amulet of Hedonism {Inacc rPois Str+5 Dex-4}
+  1226 | Zig:14   | Entered Level 14 of a ziggurat
+  1227 | Zig:14   | Noticed an ancient lich
+  1242 | Zig:14   | Identified the +6 glaive "Teleuzau" {drain, rElec MR++
+                  | Int-4}
+  1243 | Zig:15   | Entered Level 15 of a ziggurat
+  1257 | Zig:15   | Got a vibrating iron ring
+  1258 | Zig:15   | Identified the ring "Ygaetera" {rC+ Dex+5} (You found it on
+                  | level 15 of a ziggurat)
+  1258 | Zig:15   | Identified the +9 hand crossbow of Kococh {freeze, *Contam
+                  | MR+ Int+4 Dex+7}
+  1258 | Zig:15   | Identified the +6 hand axe of the Jester {drain, rElec rC+
+                  | Str-5 Dex+4}
+  1258 | Zig:15   | Identified the +4 morningstar of Reason {crush, *Corrode
+                  | +Inv rPois MP+9}
+  1258 | Zig:15   | Identified the +2 arbalest "Noegir" {penet, rElec rF++
+                  | Str+2 Int-5}
+  1258 | Zig:15   | Identified the cursed +1 scale mail of Feasting {rN+ Str+2
+                  | Int-3 Dex+2}
+  1275 | Zig:16   | Entered Level 16 of a ziggurat
+  1275 | Zig:16   | Noticed an ancient lich
+  1276 | Zig:16   | Noticed an ancient lich
+  1276 | Zig:16   | Noticed an ancient lich
+  1276 | Zig:16   | Identified the amulet of Crawling {Acrobat +Fly rN+ MR+
+                  | Stlth+} (You found it on level 13 of a ziggurat)
+  1276 | Zig:16   | Found the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+  1276 | Zig:16   | Identified the amulet "Fiuriadoup" {+Rage rElec rPois
+                  | Int+5} (You found it on level 13 of a ziggurat)
+  1276 | Zig:16   | Identified the +0 hat of the Grey Skies {Regen+ rCorr
+                  | Int+3} (You acquired it on level 16 of a ziggurat)
+  1276 | Zig:16   | Identified the +7 scimitar of Rekhlonu {holy, rC+} (You
+                  | found it on level 24 of a ziggurat)
+  1276 | Zig:16   | Found the +9 staff of Wucad Mu {channel}
+  1276 | Zig:16   | Identified the +8 hand crossbow of Tomorrow {speed, Int+5
+                  | Dex-3 SInv} (You found it on level 12 of a ziggurat)
+  1276 | Zig:16   | Identified the +12 plate armour of Jatt {rCorr} (You found
+                  | it on level 27 of a ziggurat)
+  1276 | Zig:16   | Found the brooch of Shielding {Reflect SH+8}
+  1276 | Zig:16   | Identified the +8 short sword of Seiboew {drain, Dex+4}
+                  | (You found it on level 8 of a ziggurat)
+  1276 | Zig:16   | Identified the ring "Huirigaxos" {rPois MP+9 Str+4 Int+4}
+                  | (You found it on level 16 of a ziggurat)
+  1276 | Zig:16   | Found the +8 autumn katana {slice, Clar}
+  1276 | Zig:16   | Identified the cursed +1 short sword of the Madman {drain,
+                  | *Slow +Rage rN+ Dex+5}
+  1276 | Zig:16   | Identified the +6 halberd of Harmony {venom, rN+}
+  1276 | Zig:16   | Identified the +12 spear of the Ass {venom, Str+4 Dex-4}
+  1276 | Zig:16   | Identified the +4 broad axe of the Sea {pain, rPois MR+}
+  1276 | Zig:16   | Identified Luitsast's Almanac of Weightlessness and the
+                  | Rocks
+  1276 | Zig:16   | Identified the +5 war axe "Vusiek" {vamp, rF- MP+9 Str+4
+                  | Dex+2}
+  1300 | Zig:17   | Entered Level 17 of a ziggurat
+  1303 | Zig:17   | Got a bound diamond amulet
+  1304 | Zig:17   | Identified the cursed +1 great mace "Imp's Bane" {crush,
+                  | rElec rN++ Str+4 Int-4}
+  1304 | Zig:17   | Identified the Tome of Captivating Changing
+  1304 | Zig:17   | Identified the amulet of Understanding {Faith +Inv Int+4}
+                  | (You found it on level 17 of a ziggurat)
+  1338 | Zig:18   | Entered Level 18 of a ziggurat
+  1339 | Zig:18   | Noticed an ancient lich
+  1339 | Zig:18   | Noticed an ancient lich
+  1339 | Zig:18   | Noticed an ancient lich
+  1339 | Zig:18   | Noticed an ancient lich
+  1347 | Zig:18   | Identified the Guide on Ashen Battle Magic
+  1347 | Zig:18   | Identified the +0 pair of boots of Neyshreh {rC+ rCorr}
+                  | (You acquired it on level 18 of a ziggurat)
+  1347 | Zig:18   | Identified the Collected Works on Earth and Hexes
+  1347 | Zig:18   | Identified the +6 short sword "Jaferat" {speed, rC+ rN+
+                  | Int-5 Dex+6}
+  1359 | Zig:19   | Entered Level 19 of a ziggurat
+  1360 | Zig:19   | Noticed Ibarr the pandemonium lord
+  1360 | Zig:19   | Noticed Afetaatost the pandemonium lord
+  1360 | Zig:19   | Noticed Vilacuh the pandemonium lord
+  1360 | Zig:19   | Noticed Fyroessa the pandemonium lord
+  1360 | Zig:19   | Noticed Heybecw the pandemonium lord
+  1360 | Zig:19   | Noticed Demibb the pandemonium lord
+  1360 | Zig:19   | Noticed Cuetuwk the pandemonium lord
+  1360 | Zig:19   | Noticed Yclerize the pandemonium lord
+  1362 | Zig:19   | Identified the Papyrus of Stones
+  1365 | Zig:19   | Got a fine tin ring
+  1366 | Zig:19   | Identified the ring of Capliynn {AC+3 Str+4 Int-4 Dex+4}
+  1366 | Zig:19   | Identified the ring "Doudgh" {rElec Str+4 Int-2 Slay+3}
+  1366 | Zig:19   | Identified the ring "Vetoefeg" {rPois rF+ Int+6} (You found
+                  | it on level 19 of a ziggurat)
+  1372 | Zig:19   | Identified the -4 hat "Etepsemp" {Int+3} (You acquired it
+                  | on level 19 of a ziggurat)
+  1378 | Zig:19   | Learned a level 1 spell: Beastly Appendage
+  1379 | Zig:19   | Learned a level 1 spell: Corona
+  1380 | Zig:19   | Learned a level 1 spell: Summon Butterflies
+  1382 | Zig:19   | Learned a level 2 spell: Blink
+  1384 | Zig:19   | Learned a level 2 spell: Corpse Rot
+  1386 | Zig:19   | Learned a level 2 spell: Poisonous Vapours
+  1388 | Zig:19   | Learned a level 2 spell: Shroud of Golubria
+  1390 | Zig:19   | Learned a level 2 spell: Slow
+  1392 | Zig:19   | Learned a level 2 spell: Song of Slaying
+  1394 | Zig:19   | Learned a level 2 spell: Sticks to Snakes
+  1396 | Zig:19   | Learned a level 2 spell: Sublimation of Blood
+  1398 | Zig:19   | Learned a level 2 spell: Swiftness
+  1401 | Zig:19   | Learned a level 3 spell: Confuse
+  1404 | Zig:19   | Learned a level 3 spell: Dazzling Spray
+  1407 | Zig:19   | Learned a level 3 spell: Gell's Gravitas
+  1410 | Zig:19   | Learned a level 3 spell: Ignite Poison
+  1413 | Zig:19   | Learned a level 3 spell: Inner Flame
+  1416 | Zig:19   | Learned a level 3 spell: Mephitic Cloud
+  1419 | Zig:19   | Learned a level 3 spell: Portal Projectile
+  1422 | Zig:19   | Learned a level 3 spell: Regeneration
+  1425 | Zig:19   | Learned a level 3 spell: Spectral Weapon
+  1433 | Zig:19   | Learned a level 3 spell: Summon Guardian Golem
+  1437 | Zig:19   | Learned a level 4 spell: Animate Dead
+  1441 | Zig:19   | Learned a level 4 spell: Olgreb's Toxic Radiance
+  1468 | Zig:19   | Learned a level 4 spell: Cause Fear
+  1473 | Zig:19   | Learned a level 4 spell: Passage of Golubria
+  1478 | Zig:19   | Learned a level 4 spell: Summon Lightning Spire
+  1485 | Zig:19   | Learned a level 5 spell: Alistair's Intoxication
+  1493 | Zig:19   | Learned a level 5 spell: Aura of Abjuration
+  1499 | Zig:19   | Learned a level 5 spell: Borgnjor's Vile Clutch
+  1506 | Zig:19   | Learned a level 5 spell: Irradiate
+  1514 | Zig:19   | Learned a level 5 spell: Metabolic Englaciation
+  1521 | Zig:19   | Learned a level 5 spell: Summon Mana Viper
+  1522 | Zig:20   | Entered Level 20 of a ziggurat
+  1523 | Zig:20   | Found the ring of Shadows {Umbra +Inv Stlth+}
+  1561 | Zig:20   | Reached * piety under Uskayaw
+  1581 | Zig:20   | Reached ** piety under Uskayaw
+  1594 | Zig:20   | Reached *** piety under Uskayaw
+  1599 | Zig:20   | Reached **** piety under Uskayaw
+  1614 | Zig:20   | Reached ***** piety under Uskayaw
+  1636 | Zig:20   | Reached ****** piety under Uskayaw
+  2075 | Zig:20   | Identified the Grimoire of Battle Magic and the Entourage
+  2108 | Zig:20   | Fell from the grace of Uskayaw
+  2108 | Zig:20   | Became a worshipper of Ru the Awakened
+  2108 | Zig:20   | Was forgiven by Uskayaw
+  2113 | Zig:21   | Entered Level 21 of a ziggurat
+  2114 | Zig:21   | Noticed an ancient lich
+  2114 | Zig:21   | Noticed an ancient lich
+  2114 | Zig:21   | Noticed an ancient lich
+  2114 | Zig:21   | Noticed an ancient lich
+  2114 | Zig:21   | Noticed an ancient lich
+  2114 | Zig:21   | Noticed an ancient lich
+  2118 | Zig:22   | Entered Level 22 of a ziggurat
+  2118 | Zig:23   | Entered Level 23 of a ziggurat
+  2118 | Zig:24   | Entered Level 24 of a ziggurat
+  2118 | Zig:25   | Entered Level 25 of a ziggurat
+  2118 | Zig:26   | Entered Level 26 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the ring of the Octopus King
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Identified the +6 large shield of Wrong Decisions {rF+ rC+
+                  | Regen+ Stlth+}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the +12 glaive of Prune {chop}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the +6 arbalest "Damnation" {damnation}
+  2118 | Zig:27   | Found the +0 pair of fencer's gloves {Riposte Dex+3}
+  2118 | Zig:27   | Found the +7 great mace "Undeadhunter" {disrupt, rN+}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the ring of Phasing {EV+8}
+  2118 | Zig:27   | Found the +8 demon trident "Rift" {distort, reach+}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the cursed necklace of Bloodlust {*Rage +Rage MR++
+                  | Int-3 Slay+6 *Curse}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec
+                  | MP+4}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the +3 robe of Clouds {+Thunder rCloud rElec}
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Entered Level 27 of a ziggurat
+  2118 | Zig:27   | Found the ring of the Mage {Wiz MR++ Int+3}
+  2118 | Zig:27   | Noticed an ancient lich
+  2118 | Zig:27   | Noticed an ancient lich
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |       |       |       |       |       |       |       |       |    43 ||    43
+       Headbutt          |       |       |       |       |       |       |       |       |    12 ||    12
+       Katana            |       |       |       |       |       |       |       |       |     4 ||     4
+       Short sword       |       |       |       |       |       |       |       |       |     3 ||     3
+ Fire: Hand crossbow     |       |       |       |       |       |       |       |       |   128 ||   128
+ Cast: Summon Butterflie |       |       |       |       |       |       |       |       |     3 ||     3
+       Alistair's Intoxi |       |       |       |       |       |       |       |       |     2 ||     2
+       Olgreb's Toxic Ra |       |       |       |       |       |       |       |       |     1 ||     1
+       Regeneration      |       |       |       |       |       |       |       |       |     1 ||     1
+       Ignite Poison     |       |       |       |       |       |       |       |       |     1 ||     1
+       Aura of Abjuratio |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Reject Sacrifices |       |       |       |       |       |       |       |       |     2 ||     2
+       Grand Finale      |       |       |       |       |       |       |       |       |     2 ||     2
+ Abil: Evoke Fog         |       |       |       |       |       |       |       |       |     2 ||     2
+Evoke: Figurine of a zig |       |       |       |       |       |       |       |       |     2 ||     2
+  Use: Potion            |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     3 |     4 ||    28
+       Scroll            |       |       |       |       |       |       |       |       |    45 ||    45
+ Stab: Paralysed         |       |       |       |       |       |       |       |       |     3 ||     3
+       Confused          |       |       |       |       |       |       |       |       |     2 ||     2
+Armor: Plate armour      |       |       |       |       |       |       |       |       |    12 ||    12
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    18 ||    18
+Block: Large shield      |       |       |       |       |       |       |       |       |   101 ||   101
+       Reflection        |       |       |       |       |       |       |       |       |    17 ||    17
+

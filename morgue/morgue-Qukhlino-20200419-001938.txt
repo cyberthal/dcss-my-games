@@ -1,0 +1,341 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8765249308221466056
+
+28 Qukhlino the Minotaur Porcupine (level 3, 77/77 HPs) *WIZ*
+             Began as a Minotaur Fighter on Apr 19, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:08 (8 turns).
+
+Qukhlino the Minotaur Porcupine (Minotaur Fighter)     Turns: 8, Time: 00:03:09
+
+Health: 77/77      AC: 13    Str: 20    XL:     3   Next: 0%
+Magic:  30/30      EV: 22    Int:  5    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 55/56 levels left
+
+rFire    . . .     SeeInvis .   a - +0 trident
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.22/turn              (no ring)
+MPRegen  0.22/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+ e - 46 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 55 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           33 (50)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Apportation              Tloc           33 (50)      0%          1    0
+ Confusing Touch          Hex            33 (50)      0%          1    0
+ Corona                   Hex            33 (90)      0%          1    0
+ Flame Tongue             Conj/Fire      33 (40)      0%          1    0
+ Freeze                   Ice            25 (25)      0%          1    0
+ Infusion                 Chrm           25 (25)      0%          1    0
+ Magic Dart               Conj           25 (25)      0%          1    0
+ Pain                     Necr           25 (25)      0%          1    0
+ Sandblast                Erth           33 (50)      0%          1    0
+ Shock                    Conj/Air       25 (25)      0%          1    0
+ Sting                    Conj/Pois      25 (25)      0%          1    0
+ Summon Butterflies       Summ           33 (100)     0%          1    0
+ Summon Small Mammal      Summ           25 (25)      0%          1    0
+ Blink                    Tloc           N/A          0%          2    0
+ Call Imp                 Summ           33 (100)     0%          2    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Ensorcelled Hibernation  Hex/Ice        33 (50)      0%          2    0
+ Passwall                 Tmut/Erth      33 (120)     0%          2    0
+ Poisonous Vapours        Pois/Air       33 (50)      0%          2    0
+ Searing Ray              Conj           33 (50)      0%          2    0
+ Shroud of Golubria       Chrm/Tloc      33 (200)     0%          2    0
+ Slow                     Hex            33 (100)     0%          2    0
+ Song of Slaying          Chrm           33 (100)     0%          2    0
+ Sticks to Snakes         Tmut           33 (100)     0%          2    0
+ Sublimation of Blood     Necr           33 (200)     0%          2    0
+ Swiftness                Chrm/Air       33 (100)     0%          2    0
+ Throw Flame              Conj/Fire      33 (50)      0%          2    0
+ Throw Frost              Conj/Ice       33 (50)      0%          2    0
+ Call Canine Familiar     Summ           33 (100)     0%          3    15
+ Confuse                  Hex            33 (100)     0%          3    15
+ Conjure Flame            Conj/Fire      33 (100)     0%          3    15
+ Dazzling Spray           Conj/Hex       33 (50)      0%          3    15
+ Gell's Gravitas          Tloc           33 (200)     0%          3    15
+ Ignite Poison            Fire/Tmut/Pois 33 (100)     0%          3    15
+ Inner Flame              Hex/Fire       33 (100)     0%          3    15
+ Lesser Beckoning         Tloc           33 (200)     0%          3    15
+ Mephitic Cloud           Conj/Pois/Air  33 (100)     0%          3    15
+ Ozocubu's Armour         Chrm/Ice       33 (100)     0%          3    15
+ Portal Projectile        Hex/Tloc       33 (50)      0%          3    15
+ Recall                   Summ/Tloc      N/A          0%          3    15
+ Regeneration             Chrm/Necr      33 (200)     0%          3    15
+ Spectral Weapon          Hex/Chrm       33 (100)     0%          3    15
+ Spider Form              Tmut/Pois      33 (200)     0%          3    15
+ Static Discharge         Conj/Air       33 (100)     0%          3    15
+ Stone Arrow              Conj/Erth      33 (50)      0%          3    15
+ Summon Guardian Golem    Hex/Summ       33 (100)     0%          3    15
+ Teleport Other           Tloc           33 (100)     0%          3    15
+ Tukima's Dance           Hex            33 (100)     0%          3    15
+ Vampiric Draining        Necr           33 (200)     0%          3    15
+ Airstrike                Air            33 (200)     0%          4    115
+ Animate Dead             Necr           N/A          0%          4    115
+ Cause Fear               Hex            33 (200)     0%          4    115
+ Force Lance              Conj/Tloc      33 (100)     0%          4    115
+ Fulminant Prism          Conj/Hex       33 (200)     0%          4    115
+ Ice Form                 Ice/Tmut       33 (100)     0%          4    115
+ Iskenderun's Mystic Bla  Conj           33 (100)     0%          4    115
+ Leda's Liquefaction      Hex/Erth       33 (200)     0%          4    115
+ Olgreb's Toxic Radiance  Pois           33 (100)     0%          4    115
+ Passage of Golubria      Tloc           N/A          0%          4    115
+ Petrify                  Tmut/Erth      33 (100)     0%          4    115
+ Sticky Flame             Conj/Fire      33 (100)     0%          4    115
+ Summon Ice Beast         Ice/Summ       33 (100)     0%          4    115
+ Summon Lightning Spire   Summ/Air       33 (100)     0%          4    115
+ Throw Icicle             Conj/Ice       33 (100)     0%          4    115
+ Agony                    Necr           33 (100)     0%          5    265
+ Alistair's Intoxication  Tmut/Pois      33 (100)     0%          5    265
+ Aura of Abjuration       Summ           33 (200)     0%          5    265
+ Blade Hands              Tmut           33 (200)     0%          5    265
+ Bolt of Draining         Conj/Necr      33 (200)     0%          5    265
+ Bolt of Magma            Conj/Fire/Erth 33 (200)     0%          5    265
+ Borgnjor's Vile Clutch   Necr/Erth      33 (200)     0%          5    265
+ Dispel Undead            Necr           33 (100)     0%          5    265
+ Excruciating Wounds      Chrm/Necr      33 (200)     0%          5    265
+ Fireball                 Conj/Fire      33 (200)     0%          5    265
+ Irradiate                Conj/Tmut      33 (200)     0%          5    265
+ Iskenderun's Battlesphe  Conj/Chrm      33 (100)     0%          5    265
+ Lee's Rapid Deconstruct  Erth           33 (200)     0%          5    265
+ Lightning Bolt           Conj/Air       33 (200)     0%          5    265
+ Metabolic Englaciation   Hex/Ice        33 (200)     0%          5    265
+ Silence                  Hex/Air        33 (200)     0%          5    265
+ Summon Demon             Summ           33 (200)     0%          5    265
+ Summon Forest            Summ/Tloc      33 (200)     0%          5    265
+ Summon Mana Viper        Hex/Summ       33 (100)     0%          5    265
+ Venom Bolt               Conj/Pois      33 (200)     0%          5    265
+ Yara's Violent Unravell  Hex/Tmut       33 (200)     0%          5    265
+ Bolt of Cold             Conj/Ice       33 (200)     0%          6    415
+ Bolt of Fire             Conj/Fire      33 (200)     0%          6    415
+ Conjure Ball Lightning   Conj/Air       33 (200)     0%          6    415
+ Darkness                 Hex            33 (200)     0%          6    415
+ Death Channel            Necr           33 (200)     0%          6    415
+ Deflect Missiles         Chrm/Air       33 (200)     0%          6    415
+ Dispersal                Tloc           33 (200)     0%          6    415
+ Freezing Cloud           Conj/Ice/Air   33 (200)     0%          6    415
+ Hydra Form               Tmut           33 (200)     0%          6    415
+ Invisibility             Hex            33 (100)     0%          6    415
+ Iron Shot                Conj/Erth      33 (200)     0%          6    415
+ Ozocubu's Refrigeration  Ice            33 (200)     0%          6    415
+ Poison Arrow             Conj/Pois      33 (200)     0%          6    415
+ Shadow Creatures         Summ           N/A          0%          6    415
+ Simulacrum               Ice/Necr       33 (200)     0%          6    415
+ Statue Form              Tmut/Erth      33 (150)     0%          6    415
+ Dragon Form              Tmut           33 (200)     1%          7    565
+ Haunt                    Necr/Summ      33 (200)     1%          7    565
+ Malign Gateway           Summ/Tloc      33 (200)     1%          7    565
+ Monstrous Menagerie      Summ           33 (200)     1%          7    565
+ Orb of Destruction       Conj           33 (200)     1%          7    565
+ Ring of Flames           Chrm/Fire      33 (200)     1%          7    565
+ Spellforged Servitor     Conj/Summ      33 (200)     1%          7    565
+ Summon Greater Demon     Summ           33 (200)     1%          7    565
+ Summon Hydra             Summ           33 (200)     1%          7    565
+ Borgnjor's Revivificati  Necr           33 (200)     1%          8    715
+ Chain Lightning          Conj/Air       33 (200)     1%          8    715
+ Controlled Blink         Tloc           N/A          1%          8    715
+ Death's Door             Chrm/Necr      33 (200)     1%          8    715
+ Discord                  Hex            33 (200)     1%          8    715
+ Disjunction              Tloc           33 (200)     1%          8    715
+ Ignition                 Fire           33 (200)     1%          8    715
+ Infestation              Necr           33 (200)     1%          8    715
+ Lehudib's Crystal Spear  Conj/Erth      33 (200)     1%          8    715
+ Necromutation            Tmut/Necr      33 (200)     1%          8    715
+ Summon Horrible Things   Summ           33 (200)     1%          8    715
+ Dragon's Call            Summ           33 (200)     9%          9    865
+ Fire Storm               Conj/Fire      33 (200)     9%          9    865
+ Glaciate                 Conj/Ice       33 (200)     9%          9    865
+ Shatter                  Erth           33 (200)     9%          9    865
+ Tornado                  Air            33 (200)     9%          9    865
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Potion of experience
+Something appears at your feet!
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? !
+What type of item? exp
+Potion of experience
+Something appears at your feet!
+e - 48 potions of experience
+You feel more experienced!
+You feel omnipotent. You cannot train any new skills!
+Welcome back to level 2!
+You feel more experienced!
+You feel omnipotent.
+Welcome back to level 3!
+No previous command to re-do.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #####
+   ###...###
+  ##.......##
+  #.........#
+  #(...@....#
+ #..........#
+..##.......##
+   ###...###
+     #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qukhlino the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     5 | D:1      | Learned a level 1 spell: Beastly Appendage
+     5 | D:1      | Reached XP level 2. HP: 69/69 MP: 29/29
+     5 | D:1      | Reached XP level 3. HP: 77/77 MP: 30/30
+     5 | D:1      | Reached XP level 4. HP: 85/85 MP: 32/32
+     5 | D:1      | Reached XP level 5. HP: 93/93 MP: 33/33
+     5 | D:1      | Reached XP level 6. HP: 102/102 MP: 35/35
+     5 | D:1      | Reached XP level 7. HP: 110/110 MP: 36/36
+     5 | D:1      | Reached XP level 8. HP: 118/118 MP: 38/38
+     5 | D:1      | Reached XP level 9. HP: 126/126 MP: 39/39
+     5 | D:1      | Reached XP level 10. HP: 135/135 MP: 40/40
+     5 | D:1      | Reached XP level 11. HP: 143/143 MP: 41/41
+     5 | D:1      | Reached XP level 12. HP: 151/151 MP: 42/42
+     5 | D:1      | Reached XP level 13. HP: 159/159 MP: 43/43
+     5 | D:1      | Reached XP level 14. HP: 168/168 MP: 44/44
+     5 | D:1      | Reached XP level 15. HP: 174/174 MP: 45/45
+     5 | D:1      | Reached XP level 16. HP: 183/183 MP: 46/46
+     5 | D:1      | Reached XP level 17. HP: 191/191 MP: 47/47
+     5 | D:1      | Reached XP level 18. HP: 200/200 MP: 48/48
+     5 | D:1      | Reached XP level 19. HP: 207/207 MP: 49/49
+     5 | D:1      | Reached XP level 20. HP: 216/216 MP: 50/50
+     5 | D:1      | Reached XP level 21. HP: 224/224 MP: 51/51
+     5 | D:1      | Reached XP level 22. HP: 233/233 MP: 52/52
+     5 | D:1      | Reached XP level 23. HP: 240/240 MP: 53/53
+     5 | D:1      | Reached XP level 24. HP: 249/249 MP: 53/53
+     5 | D:1      | Reached XP level 25. HP: 257/257 MP: 53/53
+     5 | D:1      | Reached XP level 26. HP: 266/266 MP: 53/53
+     5 | D:1      | Reached XP level 27. HP: 273/273 MP: 53/53
+     5 | D:1      | Reached XP level 26. HP: 273/1366 MP: 53/53
+     5 | D:1      | Reached XP level 25. HP: 273/1357 MP: 53/53
+     5 | D:1      | Reached XP level 24. HP: 273/1349 MP: 53/53
+     5 | D:1      | Reached XP level 23. HP: 273/1340 MP: 53/53
+     5 | D:1      | Reached XP level 22. HP: 273/1333 MP: 52/52
+     5 | D:1      | Reached XP level 21. HP: 273/1324 MP: 51/51
+     5 | D:1      | Reached XP level 20. HP: 273/1316 MP: 50/50
+     5 | D:1      | Reached XP level 19. HP: 273/1307 MP: 49/49
+     5 | D:1      | Reached XP level 18. HP: 273/1300 MP: 48/48
+     5 | D:1      | Reached XP level 17. HP: 273/1291 MP: 47/47
+     5 | D:1      | Reached XP level 16. HP: 273/1283 MP: 46/46
+     5 | D:1      | Reached XP level 15. HP: 273/1274 MP: 45/45
+     5 | D:1      | Reached XP level 14. HP: 273/1268 MP: 44/44
+     5 | D:1      | Reached XP level 13. HP: 273/1259 MP: 43/43
+     5 | D:1      | Reached XP level 12. HP: 273/1251 MP: 42/42
+     5 | D:1      | Reached XP level 11. HP: 273/1243 MP: 41/41
+     5 | D:1      | Reached XP level 10. HP: 273/1235 MP: 40/40
+     5 | D:1      | Reached XP level 9. HP: 273/1226 MP: 39/39
+     5 | D:1      | Reached XP level 8. HP: 273/1218 MP: 38/38
+     5 | D:1      | Reached XP level 7. HP: 273/1210 MP: 36/36
+     5 | D:1      | Reached XP level 6. HP: 273/1202 MP: 35/35
+     5 | D:1      | Reached XP level 5. HP: 273/1193 MP: 33/33
+     5 | D:1      | Reached XP level 4. HP: 273/1185 MP: 32/32
+     5 | D:1      | Reached XP level 3. HP: 273/1177 MP: 30/30
+     5 | D:1      | Reached XP level 2. HP: 273/1169 MP: 29/29
+     5 | D:1      | Reached XP level 1. HP: 273/1160 MP: 27/27
+     6 | D:1      | Reached XP level 2. HP: 69/69 MP: 29/29
+     7 | D:1      | Reached XP level 3. HP: 77/77 MP: 30/30
+     8 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+  Use: Potion            |     2 |       |       |       |       |       |       |       |       ||     2
+

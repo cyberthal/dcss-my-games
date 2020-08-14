@@ -1,0 +1,181 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18362934792590059119
+
+0 Ticked the Trollish Porcupine (level 1, 71/71 HPs) *WIZ*
+             Began as a Troll Fighter on Apr 21, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:17 (39 turns).
+
+Ticked the Trollish Porcupine (Troll Fighter)         Turns: 39, Time: 00:03:17
+
+Health: 71/71      AC:  8    Str: 23    XL:     1   Next: 0%
+Magic:  23/27      EV: 22    Int:  4    God:    No God 0 (0)
+Gold:   0          SH: 18    Dex:  9    Spells: 53/54 levels left
+
+rFire    . . .     SeeInvis .   e - +0 spear
+rCold    . . .     Gourm    +   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.61/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident
+ e - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - 2 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 53 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Confusing Touch       Hex            27 (50)      0%          1    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Aim: an iguana (confused, chance to confuse on hit: 70%)
+You reach to attack! You hit the iguana but do no damage. The iguana appears
+confused.
+Casting: Confusing Touch (safe; 0% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your claws begin to glow red. You block the iguana's attack.
+You hit the iguana but do no damage.
+You hit the iguana but do no damage. The iguana appears confused. You block the
+iguana's attack.
+Casting: Confusing Touch (safe; 0% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your claws begin to glow red. You block the iguana's attack.
+You hit the iguana but do no damage. The iguana appears confused.
+Press: ? - help, v - describe, . - travel
+Here: an iguana (confused)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.....#      #.=#    ####.####.........#
+#.....#      #..#    #......##......[..#
+#.....#      #..#    #......##.........#
+#######      #..#    #......##.........#
+#######      #..#    #......##.........#
+......#      #..#    #####.###.........#
+......#      #..#        #..###+########
+......#      #..###########.###.#
+......# ######..................#
+......# #....#.#####........###.#
+......###....#.....#.}...}...##.#
+.............+.......l###....##.#
+......###....#...#...@#<#.....#.#
+......# #....#######..#'#..##.#.#
+......# #[...#.....#.}...}.##...#
+.(...## #....#.###.#.......###..#
+.....#  #....#.# #.######.## #..##
+.....#########.# #.#####..#####..#
+.....##........# #...........?...###
+##.####........##########..........#
+ #.........?.....................>.#
+ ######.......#.#########..........#
+      #....?..#.#...?..............#
+      #.......#.#......#.........?.#
+
+
+You could see an iguana (confused).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ticked the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     3 | D:1      | Learned a level 1 spell: Confusing Touch
+     3 | D:1      | Noticed an ettin
+    11 | D:1      | Noticed an iguana
+    39 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Spear             ||    17
+ Cast: Confusing Touch   ||     9
+ Stab: Confused          ||     2
+Dodge: Dodged            ||     3
+Block: Shield            ||     9
+

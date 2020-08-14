@@ -1,0 +1,199 @@
+Ituul
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a ration
+(0, 4, D:1)
+  6 javelins
+(1, 3, D:1)
+  a scroll of identify
+(3, -13, D:1)
+  13 stones
+  (unseen)
+(6, -36, D:1)
+  12 arrows
+(10, -36, D:1)
+  27 stones
+(10, -30, D:1)
+  a scroll of identify
+(10, 0, D:1)
+  46 potions of experience
+(14, -23, D:1)
+  a dagger
+(18, -31, D:1)
+  a scroll of remove curse
+(18, 3, D:1)
+  a scroll of fear
+(19, -8, D:1)
+  25 stones
+(25, -13, D:1)
+  a hand axe
+(31, -29, D:1)
+  19 stones
+(34, -35, D:1)
+  a leather armour
+(39, -37, D:1)
+  a scroll of fog
+(39, 2, D:1)
+  a scroll of identify
+(39, 3, D:1)
+  a ration
+(43, -16, D:1)
+  2 potions of curing
+(48, -27, D:1)
+  16 gold pieces
+(51, -2, D:1)
+  9 gold pieces
+(52, -32, D:1)
+  18 stones
+(53, 3, D:1)
+  9 gold pieces
+
+Level 4 of the Shoals
+(0, 0, Shoals:4)
+  a lamp of fire
+(2, 1, Shoals:4)
+  6 needles of sleeping
+(23, -8, Shoals:4)
+  22 sling bullets
+(30, -18, Shoals:4)
+  a long sword
+(30, 9, Shoals:4)
+  a book of the Earth
+(37, 3, Shoals:4)
+  a runed plate armour
+(44, 21, Shoals:4)
+  a staff of cold
+(47, -26, Shoals:4)
+  12 sling bullets
+(47, -22, Shoals:4)
+  a hand crossbow
+(48, 26, Shoals:4)
+  a robe
+(56, 17, Shoals:4)
+  a flail
+
+Level 4 of the Snake Pit
+(0, 0, Snake:4)
+  14 stones
+(18, 41, Snake:4)
+  a hand crossbow
+(19, 44, Snake:4)
+  a scale mail
+(20, 25, Snake:4)
+  6 gold pieces
+(24, 19, Snake:4)
+  12 gold pieces
+(24, 37, Snake:4)
+  a war axe
+(27, 6, Snake:4)
+  a ration
+(27, 34, Snake:4)
+  15 gold pieces
+(31, 26, Snake:4)
+  a potion of mutation
+(45, 12, Snake:4)
+  301 gold pieces
+(46, -3, Snake:4)
+  22 sling bullets
+(49, -8, Snake:4)
+  a long sword
+(49, 41, Snake:4)
+  a scroll of immolation
+(52, -4, Snake:4)
+  2 potions of curing
+(52, 6, Snake:4)
+  21 gold pieces
+(55, 1, Snake:4)
+  15 arrows
+(59, 21, Snake:4)
+  a scroll of magic mapping
+(62, -18, Snake:4)
+  a potion of ambrosia
+(64, -7, Snake:4)
+  a plate armour
+
+Level 27 of a ziggurat
+(0, 0, Zig:27)
+  an ancient scale mail
+(0, 1, Zig:27)
+  a potion of mutation
+(0, 2, Zig:27)
+  a potion of mutation
+(0, 3, Zig:27)
+  a scroll of teleportation
+(0, 4, Zig:27)
+  a glowing shortbow
+(0, 5, Zig:27)
+  a scroll of enchant weapon
+(0, 6, Zig:27)
+  a book of Geomancy
+(1, 0, Zig:27)
+  a trident
+(1, 1, Zig:27)
+  a scroll of teleportation
+(1, 2, Zig:27)
+  a glowing scimitar
+(1, 3, Zig:27)
+  a runed quarterstaff
+(1, 4, Zig:27)
+  a transparent rapier
+(1, 5, Zig:27)
+  a runed leather armour
+(1, 6, Zig:27)
+  a glowing mace
+(2, -1, Zig:27)
+  a ring of ice
+(2, 0, Zig:27)
+  a leather armour
+(2, 1, Zig:27)
+  a runed short sword
+(2, 2, Zig:27)
+  a runed trident
+(2, 3, Zig:27)
+  a scroll of teleportation
+(2, 4, Zig:27)
+  a crystal ball of energy
+(2, 5, Zig:27)
+  2 scrolls of amnesia
+(2, 6, Zig:27)
+  a book of Power
+(3, -1, Zig:27)
+  a book of Enchantments
+(3, 0, Zig:27)
+  a potion of curing
+(3, 1, Zig:27)
+  a faintly humming leather armour
+(3, 2, Zig:27)
+  a fan of gales
+(3, 3, Zig:27)
+  a book of Enchantments
+  (unseen)
+(3, 4, Zig:27)
+  a glowing leather armour
+(3, 5, Zig:27)
+  a scroll of magic mapping
+(3, 6, Zig:27)
+  a box of beasts
+(4, 0, Zig:27)
+  a ration
+(4, 1, Zig:27)
+  a potion of experience
+(4, 2, Zig:27)
+  a ring of attention
+(4, 3, Zig:27)
+  a potion of experience
+(4, 4, Zig:27)
+  a glowing trident
+(4, 5, Zig:27)
+  2 scrolls of blinking
+(4, 6, Zig:27)
+  the ring of the Mage {Wiz MR++ Int+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+(5, 3, Zig:27)
+  a staff of wizardry
+

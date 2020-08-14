@@ -1,0 +1,232 @@
+Ampamm
+
+Level 1 of the Dungeon
+(2, 5, D:1)
+  a +0 dagger
+(4, -15, D:1)
+  a +0 chain mail
+(9, 1, D:1)
+  a +0 dagger
+  a +0 club
+(10, -16, D:1)
+  a cursed +0 dagger
+(16, -26, D:1)
+  a +0 club
+(30, -8, D:1)
+  a +0 club
+(42, -4, D:1)
+  a +0 club
+(42, 0, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(2, 50, D:2)
+  a +0 short sword
+(6, 3, D:2)
+  a +0 leather armour
+(14, 9, D:2)
+  a +0 mace
+(14, 20, D:2)
+  a +0 club
+(37, 14, D:2)
+  a +0 hunting sling
+(50, 9, D:2)
+  a +0 leather armour
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(7, -1, D:3)
+  a +0 club
+(12, 10, D:3)
+  a +0 robe
+  a +0 dagger
+(12, 12, D:3)
+  a +0 club
+(13, 57, D:3)
+  a +0 club
+  a +0 robe
+(29, 44, D:3)
+  a +0 club
+(32, 34, D:3)
+  a +0 chain mail
+(39, 21, D:3)
+  a +0 whip
+(42, 21, D:3)
+  a +0 leather armour
+(44, 8, D:3)
+  a +0 robe
+(49, 18, D:3)
+  a +0 leather armour
+(52, 0, D:3)
+  a +0 leather armour
+(56, 36, D:3)
+  a +0 helmet
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 chain mail
+(0, 7, D:4)
+  a +0 dagger
+(2, 0, D:4)
+  a +0 mace
+(3, 6, D:4)
+  a +0 dagger
+  a +0 ring mail
+(23, 10, D:4)
+  a +0 chain mail
+  a +0 mace
+(24, -2, D:4)
+  a +0 flail
+(30, 12, D:4)
+  a +0 leather armour
+  a +0 mace
+(33, 5, D:4)
+  a +0 scale mail
+  a +0 hand axe
+(34, 11, D:4)
+  a +0 spear
+(36, 10, D:4)
+  a +0 whip
+  a +0 hunting sling
+  a +0 robe
+
+Level 5 of the Dungeon
+(27, -22, D:5)
+  a +0 leather armour
+(28, -6, D:5)
+  a +0 leather armour
+(37, -21, D:5)
+  a +0 scale mail
+(37, -20, D:5)
+  a +0 club
+  a +0 leather armour
+(44, -36, D:5)
+  a +0 robe
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 ring mail
+(12, -39, D:6)
+  a +0 battleaxe
+  a +0 chain mail
+(16, -7, D:6)
+  a +1 robe of fire resistance
+  a +0 spear
+(17, -41, D:6)
+  a +0 hunting sling
+(17, -29, D:6)
+  a +0 giant club
+(20, -9, D:6)
+  a +0 leather armour
+(21, -29, D:6)
+  a cursed +0 leather armour
+(21, -28, D:6)
+  a +0 robe
+  a +0 dagger
+(21, -24, D:6)
+  a +0 club
+(23, -25, D:6)
+  a +0 hand axe
+(43, -28, D:6)
+  a +0 dagger
+(44, -13, D:6)
+  a +0 giant club
+(45, 11, D:6)
+  a +2 robe of resistance
+  a cursed +0 mace
+
+Level 7 of the Dungeon
+(24, 20, D:7)
+  a +0 short sword
+(26, 29, D:7)
+  a +0 robe
+  a +0 dagger
+(28, -13, D:7)
+  a +0 short sword
+(34, 37, D:7)
+  a +0 short sword
+(35, 37, D:7)
+  a +0 club
+(43, -11, D:7)
+  a +0 giant spiked club
+(43, 5, D:7)
+  a +0 leather armour
+(50, 15, D:7)
+  a +0 ring mail
+(52, -14, D:7)
+  a +0 war axe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 giant club
+  a +0 giant club
+(0, 18, D:8)
+  a +0 robe
+(3, 23, D:8)
+  a +0 giant spiked club
+(10, 33, D:8)
+  a +0 scale mail
+  a +0 spear
+(11, 5, D:8)
+  a +0 robe
+(37, -5, D:8)
+  a +0 giant club
+  a +0 giant club
+(44, 34, D:8)
+  a +0 club
+(48, -2, D:8)
+  a +0 leather armour
+  a +0 war axe
+(48, 28, D:8)
+  a +0 dagger
+(53, -3, D:8)
+  a +0 chain mail
+(54, 0, D:8)
+  a cursed +0 whip
+(54, 1, D:8)
+  a +0 giant spiked club
+  a +0 giant club
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 chain mail
+(3, 6, Lair:1)
+  a +0 scale mail
+(9, -8, Lair:1)
+  a +0 rapier
+(10, 5, Lair:1)
+  a bullfrog skeleton
+(15, 19, Lair:1)
+  a cursed -2 quarterstaff
+(16, -20, Lair:1)
+  17 gold pieces
+(16, -19, Lair:1)
+  a stone
+(17, -19, Lair:1)
+  a stone
+(18, -21, Lair:1)
+  a ration
+(33, -11, Lair:1)
+  a +0 mace
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 falchion
+(1, 0, Lair:2)
+  a sling bullet
+(1, 3, Lair:2)
+  a sling bullet
+(2, 0, Lair:2)
+  a water moccasin corpse (skeletalised by now)
+(2, 1, Lair:2)
+  a sling bullet
+(35, 14, Lair:2)
+  19 gold pieces
+(45, 15, Lair:2)
+  a +0 chain mail
+  4 chunks of flesh
+  the orc skeleton of Urug
+

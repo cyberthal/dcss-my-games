@@ -1,0 +1,380 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10101327092281540656
+
+264840 Xuazawuy the Poker (level 20, 131/131 (140) HPs) *WIZ*
+             Began as a Minotaur Berserker on Apr 14, 2020.
+             Was an Initiate of Trog.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 00:10:35 (469 turns).
+
+Xuazawuy the Poker (Minotaur Berserker)              Turns: 469, Time: 00:10:35
+
+HP:   131/131 (140) AC:  2    Str: 13 (21) XL:     20   Next: 0%
+MP:   19/19         EV: 12    Int:  4      God:    Trog 15 (0)
+Gold: 0             SH:  0    Dex:  7      Spells: 19/19 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 animal skin
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.31/turn              (no ring)
+MPRegen  0.16/turn              (no ring)
+
+@: slowed, very slow
+A: retaliatory headbutt, horns 2, clumsy 1
+a: Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Trog.
+Trog was noncommittal.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 7 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 3.6 Polearms
+ + Level 2.4 Armour
+ + Level 2.1 Dodging
+
+
+You had 19 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+You are clumsy. (Dex -2)
+
+
+Message History
+
+A two-headed ogre, an iron troll, 2 giants and 2 bears come into view.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 6 monsters.
+Enter Wizard Command (? - help): 
+Which god (default Trog)? 
+You feel Trog's fiery rage upon you!
+There is a sudden and violent explosion of flames!
+The fireball engulfs you!!!
+Die? 
+Thought so.
+Enter Wizard Command (? - help): 
+Which god (default Trog)? 
+Trog sends monsters to punish you.
+A black bear, 2 ogres, a troll and 2 giants come into view.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 6 monsters.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #...............##.#####....
+ #...............####  ##..?.
+##..#............### ###.....
+#......#.........#.###.##....
+#........#...................
+##.....####..................
+ #.....#..#####..............
+##..#..#....# #..............
+#...##.##.#.# #..............
+##..##..###.# #....#.###+#...
+#....##.....###....#......#..
+##.......#...#.........>.....
+ #.....@...........#......#..
+ #.........###.......##..##..
+ #..........###..............
+ #.........####..............
+ #.#####.#..##...............
+##.#.....#.####..............
+#........#..##.......?....###
+##.#.....#.####...........#
+#..+.......# ##..###.##.#.#
+##.........###...#........#
+ #.#........###.........#.# #
+ #.##.#..#.###...#$.......# #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xuazawuy the Minotaur Berserker began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | Dis:7    | Entered Level 7 of the Iron City of Dis
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found a gateway to Hell.
+     0 | Dis:7    | Found the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+     0 | Dis:6    | Noticed a tormentor
+     0 | Dis:6    | Found a gateway to Hell.
+     0 | Dis:6    | Found a gateway to Hell.
+     0 | Dis:6    | Found a gateway to Hell.
+     0 | Dis:5    | Found a gateway to Hell.
+     0 | Dis:5    | Found a gateway to Hell.
+     0 | Dis:5    | Found a gateway to Hell.
+     0 | Dis:5    | Found a gateway to Hell.
+     0 | Dis:4    | Noticed a shadow
+     0 | Dis:4    | Noticed a reaper
+     0 | Dis:4    | Found a gateway to Hell.
+     0 | Dis:4    | Found a gateway to Hell.
+     0 | Dis:4    | Found a gateway to Hell.
+     0 | Dis:4    | Found a gateway to Hell.
+     0 | Dis:1    | Entered Level 1 of the Iron City of Dis
+     0 | Dis:1    | Fell from the grace of Trog
+     0 | Dis:1    | Became a worshipper of Elyvilon the Healer
+    20 | Dis:1    | Noticed a rust devil
+    20 | Dis:1    | Noticed a spiny frog zombie
+    20 | Dis:1    | Noticed a hell hound
+    20 | Dis:1    | Noticed a hell hound
+    20 | Dis:1    | Noticed a hell hound
+    20 | Dis:1    | Noticed a hell hound
+    20 | Dis:1    | Noticed a hell hound
+    20 | Dis:1    | Noticed a flying skull
+    20 | Dis:1    | Noticed a flying skull
+    20 | Dis:1    | Noticed a flying skull
+    20 | Dis:1    | Noticed a reaper
+    42 | Dis:1    | Noticed a wraith
+    42 | Dis:1    | Noticed a wight
+    42 | Dis:1    | Noticed a wight
+    42 | Dis:1    | Noticed a wight
+    42 | Dis:1    | Noticed a wight
+    42 | Dis:1    | Noticed a skeletal warrior
+    42 | Dis:1    | Noticed a skeletal warrior
+    42 | Dis:1    | Noticed a skeletal warrior
+    42 | Dis:1    | Noticed a skeletal warrior
+    42 | Dis:1    | Noticed a skeletal warrior
+    43 | Dis:1    | Gained mutation: You are clumsy. (Dex -2) [mutagenic glow]
+    84 | Dis:1    | Killed by the effects of Hell (25 damage)
+   135 | Dis:1    | Noticed a balrug
+   135 | Dis:1    | Noticed an iron imp
+   135 | Dis:1    | Noticed an alligator zombie
+   135 | Dis:1    | Noticed a snapping turtle zombie
+   172 | Dis:1    | Noticed a soul eater
+   172 | Dis:1    | Noticed a hellion
+   172 | Dis:1    | Noticed an eight-headed hydra zombie
+   172 | Dis:1    | Noticed a reaper
+   172 | Dis:1    | Noticed an iron imp
+   246 | Dis:1    | Killed by the effects of Hell (18 damage)
+   352 | Dis:1    | Noticed a hell beast
+   410 | Dis:1    | Killed by the effects of Hell (35 damage)
+   438 | Dis:1    | Reached * piety under Elyvilon
+   439 | Lair:1   | Entered Level 1 of the Lair of Beasts
+   439 | Lair:1   | Noticed a porcupine
+   439 | Lair:1   | Noticed a porcupine
+   439 | Lair:1   | Fell from the grace of Elyvilon
+   439 | Lair:1   | Became a worshipper of Trog the Wrathful
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Killed by the fiery rage of Trog (33 damage)
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Noticed a polar bear
+   439 | Lair:1   | Noticed a black bear
+   439 | Lair:1   | Paralysed by Trog for 6 turns
+   440 | Lair:1   | Slain by a black bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   440 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Mangled by a black bear (11 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a black bear (4 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a polar bear (4 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Mangled by a polar bear (28 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   441 | Lair:1   | Slain by a black bear (7 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   442 | Lair:1   | Slain by a polar bear (4 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   442 | Lair:1   | Slain by a polar bear (15 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   442 | Lair:1   | Slain by a polar bear (7 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   442 | Lair:1   | Mangled by a polar bear (13 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   442 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Mangled by a polar bear (13 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Mangled by a polar bear (18 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (14 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a black bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Demolished by a polar bear (26 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Mangled by a polar bear (23 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (5 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (18 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Mangled by a polar bear (18 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (7 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (17 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   443 | Lair:1   | Slain by a polar bear (7 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Demolished by a polar bear (28 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Slain by a polar bear (3 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Demolished by a polar bear (29 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Slain by a black bear (4 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Mangled by a polar bear (27 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Slain by a polar bear (6 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   444 | Lair:1   | Slain by a polar bear (15 damage)
+                  | ... created by the rage of Trog
+                  | ... while paralysed
+   445 | Lair:1   | Noticed a polar bear
+   445 | Lair:1   | Noticed a polar bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a polar bear
+   445 | Lair:1   | Noticed a polar bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Noticed a black bear
+   445 | Lair:1   | Paralysed by Trog for 7 turns
+   452 | Lair:1   | Noticed a black bear
+   452 | Lair:1   | Noticed a polar bear
+   452 | Lair:1   | Noticed a polar bear
+   452 | Lair:1   | Noticed a polar bear
+   452 | Lair:1   | Noticed a polar bear
+   452 | Lair:1   | Noticed a black bear
+   452 | Lair:1   | Noticed a black bear
+   452 | Lair:1   | Noticed a black bear
+   452 | Lair:1   | Noticed a black bear
+   452 | Lair:1   | Noticed a polar bear
+   452 | Lair:1   | Reached XP level 2. HP: 17/26 MP: 1/1
+   452 | Lair:1   | Reached XP level 3. HP: 21/31 MP: 2/2
+   452 | Lair:1   | Reached XP level 4. HP: 26/39 MP: 3/3
+   452 | Lair:1   | Reached XP level 5. HP: 31/45 MP: 4/4
+   452 | Lair:1   | Reached XP level 6. HP: 35/51 MP: 5/5
+   452 | Lair:1   | Reached XP level 7. HP: 39/57 MP: 6/6
+   452 | Lair:1   | Reached XP level 8. HP: 44/64 MP: 7/7
+   452 | Lair:1   | Reached XP level 9. HP: 48/70 MP: 8/8
+   452 | Lair:1   | Reached XP level 10. HP: 53/77 MP: 9/9
+   452 | Lair:1   | Paralysed by Trog for 6 turns
+   458 | Lair:1   | Paralysed by Trog for 4 turns
+   462 | Lair:1   | Reached XP level 11. HP: 28/77 MP: 10/10
+   462 | Lair:1   | Reached XP level 12. HP: 31/85 MP: 11/11
+   462 | Lair:1   | Reached XP level 13. HP: 32/90 MP: 12/12
+   462 | Lair:1   | Reached XP level 14. HP: 35/97 MP: 13/13
+   462 | Lair:1   | Reached XP level 15. HP: 37/102 MP: 14/14
+   462 | Lair:1   | Reached XP level 16. HP: 40/110 MP: 15/15
+   462 | Lair:1   | Reached XP level 17. HP: 42/116 MP: 16/16
+   462 | Lair:1   | Reached XP level 18. HP: 44/122 MP: 17/17
+   462 | Lair:1   | Reached XP level 19. HP: 46/128 MP: 18/18
+   462 | Lair:1   | Reached XP level 20. HP: 49/135 MP: 19/19
+   462 | Lair:1   | Paralysed by Trog for 7 turns
+   469 | Lair:1   | Killed by the fiery rage of Trog (36 damage)
+   469 | Lair:1   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Animal skin       |    12 |       |       |       |       |       |       ||    12
+Dodge: Dodged            |     4 |       |       |       |       |       |       ||     4
+

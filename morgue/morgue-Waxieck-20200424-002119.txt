@@ -1,0 +1,670 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9632457627749293081
+
+0 Waxieck the Invulnerable (level 1, 16/16 HPs) *WIZ*
+             Began as a Merfolk Skald on Apr 24, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:11 (531 turns).
+
+Waxieck the Invulnerable (Merfolk Skald)             Turns: 531, Time: 00:06:11
+
+Health: 16/16      AC:  6    Str: 11    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 12    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+ c - the +2 pair of boots of the Assassin {Detection Stab+ Stlth++}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   It makes you much more stealthy.
+Jewellery
+ e - the ring "Lupon" {Ice *Drain Str+4 Dex+7}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of ice]
+   
+   It enhances your ice magic.
+   It affects your strength (+4).
+   It affects your dexterity (+7).
+   It makes you vulnerable to fire.
+   It protects you from cold.
+   It causes draining when unequipped.
+ f - the ring of Zutuman {rCorr *Drain rF+ Str+2}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of resist corrosion]
+   
+   It affects your strength (+2).
+   It protects you from fire.
+   It causes draining when unequipped.
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 2.1 Long Blades
+ O Level 27 Armour
+ + Level 2.6 Dodging
+ + Level 2.0 Spellcasting
+ + Level 3.2 Charms
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           9 (25)       8%          1    26
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Song of Slaying          Chrm           9 (100)      12%         2    76
+ Shroud of Golubria       Chrm/Tloc      5 (200)      24%         2    76
+ Regeneration             Chrm/Necr      5 (200)      43%         3    126
+ Spectral Weapon          Hex/Chrm       5 (100)      43%         3    126
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+[e] Staff  [f] Evocable [g] Food      [h] Gold (you have $0)
+What kind of item would you like to acquire? [\] known items 
+Something appears at your feet!
+[a] Weapon [b] Armour   [c] Jewellery [d] Book              
+[e] Staff  [f] Evocable [g] Food      [h] Gold (you have $0)
+What kind of item would you like to acquire? [\] known items 
+Something appears at your feet!
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+No previous command to re-do.
+Enter Wizard Command (? - help): 
+You feel a rush of knowledge.
+Search for what [? for help]? drain
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       #######
+      ##.....####
+     ##..#.......
+######..#.#......
+#......#...#.....
+#.#####.....#####
+#..#...........#.
+ #..#..=?<....#..
+ #..#..)@.....#..
+...#...........#.
+#.#####.....#####
+#......#...#.....
+#.......#.#......
+#####.#..#..#.#.#
+    .......##.#.#
+   #.#....##  #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Waxieck the Merfolk Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+    27 | D:1      | Found the +3 warlock's mirror {reflect}
+    57 | D:1      | Found the +8 orange crystal plate armour {Archmagi, Int+3
+                  | Clar}
+    66 | D:1      | Found the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+
+                  | MR+ rMut rCorr}
+    67 | D:1      | Found the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+    97 | D:1      | Found the +2 pair of boots of the Assassin {Detection Stab+
+                  | Stlth++}
+    99 | D:1      | Identified the +3 cloak of Ethics {+Fly MR+} (You acquired
+                  | it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 pair of gloves of the Purple Skies {rElec
+                  | Dex+2} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified a +1 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 helmet of Ulaudigo {Regen+ Int+4} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 crystal plate armour of Defence {rElec
+                  | rC- Dex+4 Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+    99 | D:1      | Identified the -1 pair of gloves "Miydwaz" {Int+5} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified a +2 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the +2 chain mail of the Cast Vote {rF+ Str+3}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 buckler of Boridy {MR+} (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 hat "Ogipext" {rElec rPois rC++} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 pair of gloves of Purpose {Regen+ Str+5
+                  | Slay-5 Stlth+} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +3 cloak of Cowardice {rN+} (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the -3 pair of gloves of the Evening {rN+ rCorr
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 helmet "Ciqoext" {*Slow +Blink rElec
+                  | Dex+3} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 crystal plate armour "Kiv Gask" {rC+}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 helmet "Uttulott" {Dex+3} (You acquired
+                  | it on level 1 of the Dungeon)
+    99 | D:1      | Identified a +1 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 buckler of Heme Fea {MR++ rCorr Str-2}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 hat of Fortification {rN+ Int+3 Stlth-}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 buckler "Qiuqi" {rF++ Int+2} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +14 chain mail of the Garden {-Cast +Fly
+                  | rPois} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +5 shadow dragon scales of the Black Moon
+                  | {MR- Str+7 Dex+2 Slay+3 Stlth++++} (You acquired it on
+                  | level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of gloves "Tevigant" {+Fly rPois rF+
+                  | rC++} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of gloves of Least Resistance
+                  | {rPois} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of boots of the Fisher {rCorr Int+3}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +5 pair of gloves "Cicobb" {*Corrode Int+9
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +4 plate armour "Ynurr" {Str+5} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +5 cloak of Knowledge {+Fly rElec Slay+3}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +6 scale mail of Lugonu's Scorn {Int+2} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of gloves "Vuppompol" {*Slow Regen+
+                  | Dex+6} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 buckler "Etufoh Yshop" {*Slow rElec rF++
+                  | Int+2} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of boots of the Black Moon {rF+ rN+
+                  | Int-3} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 helmet of Kiboater {rElec rPois Slay+3}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +13 crystal plate armour "Qiejotot" {Regen+}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +6 chain mail of Chimes {MR+ Dex+2} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 pair of boots "Lyl Nievop" {rElec SInv}
+                  | (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +2 shield of Naneutwiami {+Inv Int+3} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +2 cloak "Edaoq" {rPois Dex+2 Stlth-} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +4 buckler of the Fisher {Dex+4 Slay+2} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +1 buckler of Gallantry {rF+} (You acquired
+                  | it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +0 buckler of Distrogu {rF+ Str-4 Int+4
+                  | SInv} (You acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified a +1 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+    99 | D:1      | Identified the +2 cloak of Yturugg {rC- Str+2 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified the +2 scale mail of the Maze {rCorr Dex+3} (You
+                  | acquired it on level 1 of the Dungeon)
+    99 | D:1      | Identified a +2 pair of boots of running (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Omnohab" {*Slow rElec rC+ Int+9} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Nite" {Fire +Fly rElec rN+ MR+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Qyczala" {rC+ Dex+4} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Qedghaxt" {rCorr rPois rN+ MR-} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Qerph" {*Corrode rElec MR+ Dex+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Xeceraob" {rPois rN+ Dex+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Qismyshro {RegenMP rPois MR+++}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Nuhuibia" {+Inv rF+++ rC+ MR+ Stlth-}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Ramaykk {Fire MR+ Str+4} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Monotheism {Gourm rPois} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Cisicheq" {rC+ MR+ AC+5 Str+3 Dex+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Fanaticism {rF+ MR- Str+3 Dex+4
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Hienoisa" {Reflect rPois rC+ SH+6}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Sif Muna's Hatred {Ice Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Qeffax" {*Corrode MR+ AC+5 Int+7} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Ugyinn" {rElec Int+5 Dex-2 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Sanlaf {rN+ Int-5 Dex+3 SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Pyriteski" {+Fly AC+1 Str+3 Int+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Canwutto" {+Rage rC- rN++} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Qijill {+Rage Str-4 Dex+2 Slay+5
+                  | SInv} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Vezuun {rF+ MR+ Int+3} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Pylaengo" {rN+ Dex+2 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Jiepiefugg {Spirit rN+++ Int-2
+                  | Dex-2 SInv} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Zyozae {rCorr rF++ Dex+5 SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Hecseb" {Reflect +Fly Str+4 SH+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Lupon" {Ice *Drain Str+4 Dex+7} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Rihih {Fire rElec} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Gozag's Favour {+Blink rC+ Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Duyh" {Faith +Fly rPois rC- Dex+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Entrepreneurial Spirit {rElec MR+
+                  | Str+3 Dex+2} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Hoerr" {rC+ AC+2 Str+9} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Xom's Malicious Joy {rPois MR++
+                  | Int+5 Stlth-} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Irrepressible Laughter {rPois rF+
+                  | MR- Dex+4} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Suspicion {*Slow +Blink rN+ Int+5}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Quteoc" {rF+ EV+5} (You acquired it on
+                  | level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Piqoupp" {rPois rF- MR+ Str+4 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Pantheism {+Rage rPois Str+9
+                  | Dex-5} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Sinitt" {RegenMP rC+} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Deuf {-Tele rN+ Regen+ Str+5
+                  | Slay+3} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Qaimi" {Fire MR++} (You acquired it on
+                  | level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Ehieli" {rElec rPois MR- Int+5 Dex+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Unkadede" {Gourm rN+} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Vitetepn {Slay+2 SInv} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Urys" {rC+ MR- Int+4 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Wuin {Acrobat MR+} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Oxomuah" {Spirit Int-5 Dex+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Ufrafi" {rCorr Str+4} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Sesokla {rPois MP+9 Str+4 Dex+2}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Yriun {+Rage Str+5} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Asaziun" {Wiz rC+ MR++} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Roomestucol {rF+ MR+ Dex+3 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Dawn {+Rage rElec rC+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Tiovuxo {rN+ Str+3 Int-4 Dex+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Poynov" {Fire *Corrode rN+ MR+ SInv}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Zutuman {rCorr *Drain rF+ Str+2}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Wuigauce" {+Blink Str+2} (You acquired
+                  | it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet of Twilight {Spirit +Blink rF- MR+++
+                  | SInv} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Dukoume {Ice Slay+6 SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Bezapid {+Inv rPois MR+++ EV+3
+                  | Str-5} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Bikh" {Harm *Drain rC- rN+ Dex+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of the Foremost Eyes {Ice rPois} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Lanus" {Faith MR+} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Weriapp {rPois MP+9 EV+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Wohuwoec" {*Corrode rC+ rN+ Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Paezy" {rElec EV+2 Int-5 Slay+5} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Lahic" {rF+ rN+++ Int+5 Dex-5 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Hywoics" {rCorr rF+++ Str-4 Int+3
+                  | Dex+7} (You acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Xyvy" {rC++ rN+ MR+ Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of the Firefly {Ice Int+8} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Wuagayvo {-Tele +Fly rC+ Int+7} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Koonik" {rN+ Str+6} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring of Pyejasot {MR+ MP+9 Int+5 Dex-5} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the amulet "Reif" {Harm *Drain Dex+5} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Fibul" {Str+4 Dex+2} (You acquired it
+                  | on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Lici" {rElec rPois Int+4 Dex+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   212 | D:1      | Identified the ring "Enge" {Wiz *Slow rF++ rC+ Dex+8} (You
+                  | acquired it on level 1 of the Dungeon)
+   223 | D:1      | Found the +10 zealot's sword {holy, *Rage rN+ EV+3}
+   240 | D:1      | Found the +8 longbow "Zephyr" {speed, Dex+3 SInv}
+   302 | D:1      | Found the +11 plutonium sword {*Contam Stlth-}
+   303 | D:1      | Found the +9 sword of Zonguldrok {reap}
+   320 | D:1      | Found the +13 scythe of Curses {drain, *Curse}
+   419 | D:1      | Found the +5 scythe "Finisher" {speed, eviscerate}
+   419 | D:1      | Identified the +3 eveningstar "Vonumayc" {holy, MP+9 Dex+9}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +4 hunting sling of the Head {flame, rF+ rC+
+                  | Dex+3} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +9 arbalest of Insufficient Pleasure {elec,
+                  | Int+7} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +5 great sword "Gaplyx" {elec, Dex+4} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +5 great sword "Piufebos" {venom, *Corrode
+                  | rPois Str-4 Dex+10} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +6 fustibalus of Plague {velocity, rPois
+                  | Str+7 Int-4 Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +7 broad axe "Jonkal" {venom, Str+3 Int+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +7 hunting sling "Nuschu Axke" {venom, Str+4
+                  | Int+2} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +8 arbalest of Hol Uvimn {elec, rC+ Str+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +4 demon blade "Banisher" {protect, rC+
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +7 lajatang of Puaxitaa {antimagic, *Rage
+                  | rPois rF++ Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +5 battleaxe of the Iron City of Dis {venom,
+                  | rN+ Str+4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +5 triple crossbow of Kynuric {flame, -Tele
+                  | rPois Dex+7} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +7 shortbow of Soucsoxisi {freeze, +Inv
+                  | rPois rF+ Dex+3} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +5 triple sword of Forced Transition {venom,
+                  | +Blink rN++ MR- Str-2 Stlth+} (You acquired it on level 1
+                  | of the Dungeon)
+   419 | D:1      | Identified the +11 hunting sling of Eskacos {velocity,
+                  | rPois Dex+4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 double sword "Quaq" {drain, Str+3 Dex+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +9 broad axe of Kismet {freeze, MR+} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +8 lajatang of Blind Justice {pain, *Slow
+                  | +Inv Int+6 Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +1 lajatang of the Omega Point {freeze,
+                  | rElec rPois rN+ Int+4} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +9 longbow of Theory {flame, -Tele rN+
+                  | Str+2} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +2 longbow "Jellybane" {speed, MR+} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +0 scimitar "Waxieck's Peril" {freeze,
+                  | *Noise MP+9 SInv Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +1 arbalest "Spiderslayer" {speed, -Tele
+                  | rPois rN+++} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +6 quick blade of Recklessness {pierce,
+                  | *Noise rN+++ Str+4 Dex+5} (You acquired it on level 1 of
+                  | the Dungeon)
+   419 | D:1      | Identified the +5 demon blade of Welfare {elec, +Rage rPois
+                  | Int-4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +4 hunting sling of Kutad {flame, +Blink}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 hunting sling of Indignation {freeze,
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 shortbow of the Butterfly {venom, *Contam
+                  | +Inv +Fly rPois} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +5 lajatang of Catih {slice, rC+ Dex+4} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 longbow of Voplet Ebboh {speed, *Contam
+                  | rN+++ MR+ Int+2} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +10 spear of the Trees {drain, +Inv Str+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +3 scimitar of Trial by Ordeal {distort,
+                  | rElec rF+} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +6 great sword of the Living Dead {venom,
+                  | +Fly rC+ MR+++ Dex-4} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +8 arbalest "Merfolk's Doom" {elec, +Inv
+                  | rPois MR+++ Int-3} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +3 scimitar "Zuoh" {vamp, Str+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +10 demon blade of Epaip {freeze, rF++ MP+9
+                  | Dex-3 SInv} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +6 double sword "Suetoe" {freeze, rC+ rN+
+                  | Int+2 Dex-4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +5 arbalest of Coadikao {penet, *Contam
+                  | Int-3 SInv Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +7 triple sword "Ygof App" {slice, rF- Str+5
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 hand crossbow of Ute Olabb {freeze, rPois
+                  | rF- rC- Int+6} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +8 scimitar of World Downfall {holy, MR+}
+                  | (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +6 scimitar "Jagukiek" {freeze, rElec rPois
+                  | rF+ Int-2} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +7 great sword of the Shoals {elec, -Tele
+                  | rElec rF- rC+++} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +6 triple sword of Uskayaw's Outrage
+                  | {protect, rF+ Int+2} (You acquired it on level 1 of the
+                  | Dungeon)
+   419 | D:1      | Identified the +2 rapier "Leuptiuc" {venom, rF- Int+3} (You
+                  | acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +8 scimitar "Buejuin" {freeze, *Rage +Fly
+                  | Str+3} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 rapier "Kaim Joi" {pain, Fragile Str+3
+                  | Int+2} (You acquired it on level 1 of the Dungeon)
+   419 | D:1      | Identified the +1 arbalest of the Unliving {venom, rF+}
+                  | (You acquired it on level 1 of the Dungeon)
+   426 | D:1      | Found the +7 Kryia's mail coat {PotionHeal*2 rC+}
+   428 | D:1      | Found the +15 Maxwell's patent armour {-Cast -Tele rElec
+                  | MR+ rCorr}
+   439 | D:1      | Found the +0 pair of fencer's gloves {Riposte Dex+3}
+   458 | D:1      | Found the +2 hat of the Bear Spirit {Spirit, +Rage rN+
+                  | MR++}
+   469 | D:1      | Found the +3 pair of gauntlets of War {Slay+5}
+   496 | D:1      | Found the +2 shield of Resistance {rF+ rC+ MR+}
+   513 | D:1      | Found the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec
+                  | MP+4}
+   531 | D:1      | Identified the +2 cloak of the Vestibule of Hell {rElec rC+
+                  | MP+9} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of boots of Vufod {Int-3 Dex+3
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 pair of gloves "Wural" {Regen+} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 buckler "Tuann" {Str+2 Int+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 buckler "Hadgh" {rElec rF+ Str-3} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 shield of the Zebra {rPois MR+ Int-2}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 hat of Janwafing {*Contam *Slow rElec
+                  | Str+8} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 cloak of Hedging {rC+ Int-2 Stlth+} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 helmet of the Present {*Contam *Slow
+                  | rElec rCorr} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 buckler of the Land of Plenty {rPois
+                  | rCorr Dex-5 Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   531 | D:1      | Identified the +0 hat of the Gloaming {rPois rC++} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 storm dragon scales "Maerroag" {rElec
+                  | Regen+ Str+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 hat of Ysapral {rC- rN++} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the -2 pair of gloves of Atheism {-Tele rN+
+                  | Str+3 Dex+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 pair of gloves "Kudetaxt" {rN++} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves of the Loofah {rC+} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +5 shield of Xoabawnu {rC- rN+ Int+8 Dex+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 buckler of the Realms {MR+} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 crystal plate armour of the Bulwark
+                  | {Str+4} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 scale mail of Cihat {+Blink +Fly rElec
+                  | rCorr} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 ring mail of the World {rF- SInv Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of boots "Jotolab" {rN+ Str+4 Int+2}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 pair of gloves "Efuvedi" {Dex+2} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +4 pair of gloves of the Boiling Point
+                  | {*Corrode +Inv Int+4 SInv} (You acquired it on level 1 of
+                  | the Dungeon)
+   531 | D:1      | Identified the -1 shield of Valiance {rC- rCorr SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +10 crystal plate armour "Iwkets" {*Corrode
+                  | Regen+ Int+5 Stlth+} (You acquired it on level 1 of the
+                  | Dungeon)
+   531 | D:1      | Identified the +2 helmet of Music {Str+4} (You acquired it
+                  | on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 hat "Azoshrir" {Int+4} (You acquired it
+                  | on level 1 of the Dungeon)
+   531 | D:1      | Identified the +12 crystal plate armour "Bocedum" {-Cast
+                  | Str+6 SInv} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 cloak of Dim Light {rN+} (You acquired it
+                  | on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 buckler "Itso Eso" {rCorr} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves "Lutroex" {rElec Str+4
+                  | Int-5} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 hat of Submission {+Blink rPois rCorr
+                  | Str-4} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 pair of gloves "Qafe" {rF+ Regen+} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 helmet of Dyiwk {*Drain Str+2 Dex+5} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 pair of gloves of Spring {rN+ Str+3
+                  | Dex+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of boots of the Ancient Gods
+                  | {*Corrode rC+++ Regen+ Int-2} (You acquired it on level 1
+                  | of the Dungeon)
+   531 | D:1      | Identified the -1 buckler of Baldness {rPois rC+ Int+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 pair of boots of Isseunno {rN+ rCorr}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 shield of Fortitude {rN+} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 hat of Trog's Envy {*Contam rElec Str-3
+                  | Dex+5} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 pair of boots "Bioppi Didurph" {Slay+2
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves "Noud" {rElec rN++ rCorr
+                  | SInv} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 buckler "Qofejad" {rF+ rN+ Dex+4 Stlth+}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 plate armour of the Slug {rF+ Str+4
+                  | Dex+3} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 crystal plate armour "Rijywn" {+Inv} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 helmet "Cijih" {*Drain Str+4 Int+6} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 shield "Xeepysist" {Str+4} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 ring mail of the Gravedigger {-Tele
+                  | *Drain rElec Dex+8} (You acquired it on level 1 of the
+                  | Dungeon)
+   531 | D:1      | Identified the +1 buckler "Zuodoz" {MR+} (You acquired it
+                  | on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 buckler of the Ageless Lives {rN++ Dex+3
+                  | Stlth+} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 buckler of Duceezat {Str+6} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 cloak of Resonance {rC- Regen+ rCorr
+                  | Slay+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the -4 buckler "Iguaxany" {rC+ Regen+} (You
+                  | acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves of Absence {rC+ Dex+4}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +1 scale mail "Zado" {rC+ MR++ Str-2 Int+3}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 cloak of the Everdark {+Blink rF- rN+}
+                  | (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves of Youthful Indiscretion
+                  | {rPois rN+ rCorr Dex-3} (You acquired it on level 1 of the
+                  | Dungeon)
+   531 | D:1      | Identified the +0 pair of gloves "Weucsue" {*Corrode Str+3
+                  | Dex+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +2 plate armour "Tisoagam" {rElec Str+3
+                  | Dex+2} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +4 shield of Liberty {rPois} (You acquired
+                  | it on level 1 of the Dungeon)
+   531 | D:1      | Identified the +3 pair of gloves of Laderir {rN+ rCorr
+                  | Dex+3} (You acquired it on level 1 of the Dungeon)
+   531 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Use: Scroll            ||   516
+
