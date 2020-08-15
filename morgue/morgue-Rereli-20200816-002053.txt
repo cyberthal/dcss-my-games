@@ -1,0 +1,126 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11369171218813910298
+
+0 Rereli the Gusty (level 1, 10/10 HPs) *WIZ*
+             Began as a Tengu Air Elementalist on Aug 16, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:00:41 (1 turns).
+
+Rereli the Gusty (Tengu Air Elementalist)              Turns: 1, Time: 00:00:42
+
+Health: 10/10      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  4/4        EV: 12    Int: 15    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: beak, talons 3
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.3 Conjurations
+ + Level 4.0 Air Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Shock                 Conj/Air       9 (25)       8%          1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Swiftness                Chrm/Air       7 (100)      14%         2    70
+ Static Discharge         Conj/Air       9 (100)      22%         3    120
+ Airstrike                Air            13 (200)     38%         4    220
+ Lightning Bolt           Conj/Air       9 (200)      90%         5    370
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+
+
+Message History
+
+Welcome, Rereli the Tengu Air Elementalist.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+You climb downwards. Found a stone staircase leading down.
+There is a stone staircase leading up here.
+A hobgoblin comes into view.
+The hobgoblin shouts!
+Drop what? 2/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Enter Wizard Command (? - help): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   ..+.....
+   #.#..g.
+    ......
+    #....
+     ....
+  ####..#####
+  #.........#
+ ##.###@###.#
+.......><...#
+###.#########
+
+
+You could see a hobgoblin.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rereli the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     1 | D:2      | Quit the game
+

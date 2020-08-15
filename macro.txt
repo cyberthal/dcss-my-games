@@ -9,9 +9,6 @@ A:\{6}corpse
 M:1
 A:PTPD<Ps>wi
 
-M:2
-A:PFPD<Ps>we
-
 M:3
 A:Pl>Pc<
 

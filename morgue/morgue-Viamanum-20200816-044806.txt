@@ -1,0 +1,489 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14246769180857280028
+
+5379 Viamanum the Zephyrmancer (level 10, 59/59 HPs) *WIZ*
+             Began as a Tengu Air Elementalist on Aug 16, 2020.
+             Was a Priest of Vehumet.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 04:06:18 (16026 turns).
+
+Viamanum the Zephyrmancer (Tengu Air Elementalist) Turns: 16026, Time: 04:06:19
+
+Health: 59/59      AC:  6    Str:  8    XL:     10   Next: 66%
+Magic:  17/17      EV: 16    Int: 20    God:    Vehumet [***...]
+Gold:   120        SH:  8    Dex: 14    Spells: 1/17 levels left
+
+rFire    + . .     SeeInvis .   a - +0 hunting sling
+rCold    + + .     Gourm    .   Y - +0 shield
+rNeg     . . .     Faith    .   x - +2 robe {rC+ rF+}
+rPois    +         Spirit   +   (helmet restricted)
+rElec    .         Reflect  .   q - +0 cloak
+rCorr    .         Harm     .   E - +0 pair of gloves
+MR       .....                  (boots unavailable)
+Stlth    ++........             v - amulet of guardian spirit
+HPRegen  0.19/turn              n - ring of poison resistance
+MPRegen  0.15/turn              J - ring of protection from cold
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, able to fly
+a: Stop Flying, Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Vehumet.
+Vehumet was most pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 10 of its levels.
+You also visited: Ice Cave.
+
+You collected 523 gold pieces.
+You spent 403 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +1 long sword of protection
+ c - a +1 lajatang of electrocution
+ d - a +2 flail of holy wrath
+ e - a +1 antimagic hand axe
+ f - a +4 hand axe of freezing
+ g - a +0 spear
+ j - a +0 hand crossbow
+ p - a +2 scimitar of freezing
+ X - a +2 short sword
+Missiles
+ i - 8 poisoned tomahawks
+ l - 4 tomahawks of returning
+ m - 206 stones (quivered)
+ y - 14 tomahawks
+Armour
+ q - a +0 cloak (worn)
+ r - a +3 leather armour of fire resistance
+ x - a +2 robe of resistance (worn)
+ E - a +0 pair of gloves (worn)
+ R - a +2 robe of positive energy
+ Y - a +0 shield (worn)
+Magical Staves
+ h - an uncursed staff of wizardry
+Jewellery
+ n - a ring of poison resistance (left hand)
+ v - an amulet of guardian spirit (around neck)
+ w - an uncursed ring of positive energy
+ J - a ring of protection from cold (right hand)
+ P - a +3 amulet of reflection
+ V - an uncursed ring of fire
+Wands
+ o - a wand of flame (14)
+ A - a wand of iceblast (11)
+ L - a wand of random effects (13)
+Scrolls
+ D - 3 scrolls of remove curse
+ F - a scroll of fear {unknown}
+ M - a scroll of fog
+ S - 4 scrolls of magic mapping
+ T - a scroll of immolation {unknown}
+ U - a scroll of teleportation
+Potions
+ t - 2 potions of haste
+ C - 3 potions of lignification
+ H - 5 potions of curing
+ N - a potion of flight
+ Q - a potion of cancellation {unknown}
+Comestibles
+ k - 3 chunks of flesh
+ I - 14 rations
+
+
+   Skills:
+ - Level 5.0 Fighting
+ - Level 3.0(3.7) Short Blades
+ - Level 3.2(3.8) Long Blades
+ - Level 2.6(3.4) Axes
+ - Level 2.8(3.3) Maces & Flails
+ - Level 1.2(2.1) Polearms
+ - Level 3.0(3.5) Slings
+   Level 2.0 Bows
+ - Level 2.5(3.3) Throwing
+ - Level 6.3 Dodging
+ + Level 2.3 Stealth
+ * Level 4.3 Shields
+ - Level 4.1 Spellcasting
+ - Level 4.0 Conjurations
+ - Level 1.0 Charms
+ - Level 4.5 Summonings
+ - Level 8.1 Air Magic
+ - Level 5.1 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ###.         2%          1    None
+b - Shock                 Conj/Air       ####         1%          1    None
+c - Swiftness             Chrm/Air       ###.....     12%         2    #......
+d - Call Imp              Summ           ###.....     12%         2    #......
+e - Static Discharge      Conj/Air       ####....     3%          3    ###....
+f - Call Canine Familiar  Summ           ###.....     24%         3    ###....
+g - Airstrike             Air            #####.....   4%          4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Stone Arrow              Conj/Erth      ##....       17%         3    ###....
+ Summon Small Mammal      Summ           ###.         8%          1    None
+ Freeze                   Ice            #...         13%         1    None
+ Mephitic Cloud           Conj/Pois/Air  ###.....     8%          3    ###....
+ Throw Frost              Conj/Ice       ##....       9%          2    #......
+ Conjure Flame            Conj/Fire      ##......     17%         3    ###....
+ Lightning Bolt           Conj/Air       ####......   28%         5    ######.
+ Summon Lightning Spire   Summ/Air       ####....     36%         4    ####...
+ Throw Icicle             Conj/Ice       ##......     45%         4    ####...
+ Summon Guardian Golem    Hex/Summ       ##......     52%         3    ###....
+ Blink                    Tloc           N/A          58%         2    #......
+ Slow                     Hex            #.......     58%         2    #......
+ Ozocubu's Armour         Chrm/Ice       #.......     77%         3    ###....
+ Summon Ice Beast         Ice/Summ       ##......     89%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4            Lair (1/6) D:8
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 ((}*   D:6 *
+
+Annotations:
+D:4 exclusion: downstairs
+D:6 shop
+D:7 3 runed translucent doors, Divap's ghost, novice HaHu
+Lair:1 exclusions: crocodile and water moccasin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly continuously.
+
+
+Message History
+
+Found a ring mail.
+There is a staircase back to the Dungeon here.
+Press: ? - help, v - describe, . - travel
+A staircase back to the Dungeon.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a collapsed entrance here.
+Items here: !! )) / = ?? [
+p - a +2 scimitar of freezing; X - a +2 short sword
+r - a +3 leather armour of fire resistance
+V - an uncursed ring of fire; A - a wand of iceblast (11); F - a scroll labeled
+TUADGH ZUTA; T - a scroll labeled WUKOINL CAAXT; N - a potion of flight
+Q - a red potion
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a staircase back to the Dungeon here.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a staircase back to the Dungeon here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+,,,,,,,,,+,,**,,,,,,,,,,*,,,,,~~~,,,,,,,,,,*
+,,,,,,,,,***,*,,,,,,,,,,,,*,,,~,~,,,,,,,,,,*
+8,,,,,***,****,,,,,,,,,,,,,,,,,,~,,,,,,,,,,*
+,,,,,***,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,*
+,,,,,,,,,,,,,.......,...[...,,,,,,,,,,,,,,,*
+*,,,8,,,,,,,................,,,,,,,,,,,,,,,*
+**,,,,..,,.S................,..,,,,,,,,,,,,*
+,,*,,,...,................,....,,,,,,,,,,,,*
+,****,,..##.##...........,,...,.#,,,**,***,*
+***,,,.##....#......P.P####.##..#*****,***,*
+,**,,,.......#......#........+..**,,,,,,,*,*
+,**,,,,#.....#..................#*,,....*,,*
+,*,,,,,#.....#......+.@......#..#*......**,*
+,,*,,,,#............#........#..#,......,*,*
+,,*,,,.......#...............#..##.....,**,*
+***,,,.#!....#......#..%.....#...#...,,,**,,
+*,*,,,,#.#.###......#........#..##.##*****,*
+,,,,,,..............#..###.###......####.,,*
+,,,,,,...................................,,*
+******.t#.##.####.#############......###****
+     *###**##*  ###           #......#
+                              #......#
+                              ####...#
+                                 *####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An ugly thing (IceCv)
+  A komodo dragon (Lair:1)
+  A polar bear (Lair:1)
+  2 hippogriffs
+  2 porcupines (D:8)
+  8 ice beasts
+  3 orc warriors (D:7)
+  3 sky beasts
+  A black bear (D:8)
+  2 ogres (D:7)
+  A crocodile (D:8)
+  2 big kobolds
+  3 bullfrogs
+  2 scorpions (D:8)
+  5 wights (D:7)
+  2 howler monkeys
+  2 crimson imps
+  A bullfrog zombie (D:6)
+  2 centaur zombies
+  3 orc priests
+  9 hounds
+  Jessica (D:3)
+  Natasha (thrice) (D:4)
+  3 iguanas
+  3 worker ants
+  6 orc wizards
+  A hound zombie (D:7)
+  A worker ant zombie (D:5)
+  12 adders
+  3 gnolls (D:6)
+  2 shadow imps
+  12 white imps (Lair:1)
+  An ooze (D:3)
+  An adder zombie (D:7)
+  An adder skeleton (D:4)
+  A worm (D:2)
+  3 dart slugs
+  2 leopard geckos (D:1)
+  35 orcs
+  6 bats
+  5 giant cockroaches
+  9 goblins
+  7 hobgoblins
+  3 jackals (D:6)
+  16 kobolds
+  6 quokkas
+  A ball python (D:1)
+  5 frilled lizards
+  A quokka skeleton (D:4)
+  3 rats
+209 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A spriggan (D:7)
+  An orc warrior (D:5)
+  2 ogres
+  A necrophage (D:8)
+  A centaur (D:5)
+  2 orc wizards (D:8)
+  2 orc priests
+  A worker ant (D:8)
+  A leopard gecko (D:8)
+  3 orcs
+15 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:8)
+  4 fungi (D:8)
+  A plant (D:8)
+6 creatures vanquished.
+
+Grand Total: 230 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Viamanum the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+   576 | D:1      | Reached XP level 2. HP: 15/15 MP: 3/6
+   580 | D:1      | Learned a level 2 spell: Swiftness
+   862 | D:1      | Reached skill level 1 in Short Blades
+  1054 | D:1      | Reached XP level 3. HP: 19/19 MP: 3/7
+  1320 | D:1      | Learned a level 3 spell: Static Discharge
+  1502 | D:2      | Reached skill level 1 in Charms
+  1831 | D:2      | Reached skill level 1 in Fighting
+  2432 | D:2      | Reached skill level 1 in Evocations
+  2432 | D:2      | Reached XP level 4. HP: 25/25 MP: 5/8
+  2621 | D:3      | Noticed Jessica
+  2828 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2844 | D:3      | Killed Jessica
+  2844 | D:3      | Reached skill level 1 in Throwing
+  2952 | D:3      | Gained mutation: You can fly continuously. [Tengu growth]
+  2952 | D:3      | Reached XP level 5. HP: 28/29 MP: 4/9
+  3811 | D:3      | Reached skill level 5 in Air Magic
+  3934 | D:4      | Found Ysaigyg's Gadget Shop.
+  3983 | D:4      | Bought a wand of iceblast (8) for 120 gold pieces
+  4039 | D:4      | Found a staircase to the Ecumenical Temple.
+  4116 | D:3      | Learned a level 2 spell: Call Imp
+  4135 | D:4      | Reached skill level 1 in Summonings
+  4135 | D:4      | Reached XP level 6. HP: 24/35 MP: 3/10
+  4258 | D:4      | Found Ytal's Antique Weapon Shop.
+  4587 | Temple   | Entered the Ecumenical Temple
+  4632 | Temple   | Became a worshipper of Vehumet
+  4739 | D:4      | Noticed Natasha
+  5437 | D:4      | Found Zophusel's Antique Weapon Shop.
+  5738 | D:4      | Found Bocoanti's Assorted Antiques.
+  5741 | D:4      | Bought a white potion for 19 gold pieces
+  5888 | D:4      | Killed Natasha
+  5988 | D:4      | Found Ysaigyg's Gadget Shop.
+  6045 | D:4      | Found Bocoanti's Assorted Antiques.
+  6090 | D:4      | Found a staircase to the Ecumenical Temple.
+  6165 | D:4      | Found Ytal's Antique Weapon Shop.
+  6381 | D:4      | Noticed Natasha
+  6397 | D:4      | Killed Natasha
+  6518 | D:4      | Found Zophusel's Antique Weapon Shop.
+  6599 | D:4      | Found Ytal's Antique Weapon Shop.
+  6669 | D:4      | Found a staircase to the Ecumenical Temple.
+  6706 | D:4      | Noticed Natasha
+  6756 | D:4      | Killed Natasha
+  6776 | D:5      | Entered Level 5 of the Dungeon
+  6912 | D:4      | Reached XP level 7. HP: 35/40 MP: 7/12
+  7034 | D:4      | Learned a level 3 spell: Call Canine Familiar
+  7392 | D:4      | Bought a scroll of identify for 44 gold pieces
+  7525 | D:5      | Reached skill level 1 in Axes
+  7525 | D:5      | Reached skill level 1 in Maces & Flails
+  7525 | D:5      | Reached skill level 1 in Slings
+  7581 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  7856 | D:5      | Reached skill level 1 in Polearms
+  7939 | D:5      | Found a sacrificial altar of Ru.
+  8371 | D:4      | Bought a scroll of fog for 44 gold pieces
+  8519 | D:5      | Found an ancient bone altar of Kikubaaqudgha.
+  8764 | D:5      | Reached XP level 8. HP: 39/46 MP: 6/13
+  8834 | D:6      | Found Hyilem's Assorted Antiques.
+  8892 | D:6      | Reached * piety under Vehumet
+  8892 | D:6      | Offered knowledge of Sandblast by Vehumet.
+  8911 | D:6      | Reached skill level 1 in Bows
+ 10540 | D:6      | Reached skill level 6 in Air Magic
+ 10889 | D:4      | Bought 3 scrolls labeled ITHRUF BURUAPLE for 66 gold pieces
+ 11005 | D:7      | Found a snail-covered altar of Cheibriados.
+ 11012 | D:7      | Found a shimmering altar of Xom.
+ 11074 | D:7      | Found a runed translucent gate.
+ 11074 | D:7      | Found a runed translucent gate.
+ 11074 | D:7      | Found a runed translucent gate.
+ 11075 | D:7      | Noticed Divap's ghost (novice HaHu)
+ 11075 | D:7      | Noticed a kobold demonologist
+ 11075 | D:7      | Identified the +5 dagger of Arrival {chaos, rElec MR++}
+ 11227 | D:7      | Reached XP level 9. HP: 44/52 MP: 7/14
+ 11251 | D:6      | Offered knowledge of Magic Dart by Vehumet.
+ 11965 | D:6      | Learned a level 1 spell: Magic Dart
+ 11989 | D:7      | Reached ** piety under Vehumet
+ 11989 | D:7      | Reached skill level 5 in Dodging
+ 12104 | D:7      | Reached skill level 1 in Shields
+ 12371 | D:7      | Reached skill level 1 in Long Blades
+ 12514 | D:4      | Bought a dyed leather armour for 110 gold pieces
+ 13590 | D:8      | Found a bloodstained altar of Trog.
+ 13827 | D:8      | Found a glowing golden altar of the Shining One.
+ 13882 | D:8      | Reached XP level 10. HP: 48/56 MP: 12/16
+ 13968 | D:7      | Learned a level 4 spell: Airstrike
+ 14406 | D:8      | Reached skill level 7 in Air Magic
+ 14865 | D:8      | Offered knowledge of Stone Arrow by Vehumet.
+ 14892 | D:8      | Found a staircase to the Lair.
+ 14976 | D:8      | Reached skill level 5 in Fighting
+ 15209 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 15217 | Lair:1   | Found a frozen archway.
+ 15224 | Lair:1   | Reached *** piety under Vehumet
+ 15453 | IceCv    | Entered an ice cave
+ 15453 | IceCv    | Noticed a white ugly thing
+ 15460 | IceCv    | Reached skill level 8 in Air Magic
+ 15483 | IceCv    | Killed a white ugly thing
+ 15483 | IceCv    | Reached skill level 5 in Evocations
+ 15671 | IceCv    | Found a transporter.
+ 15694 | IceCv    | Noticed an ice statue
+ 15694 | IceCv    | Noticed an ice statue
+ 15694 | IceCv    | Noticed a white ugly thing
+ 15696 | IceCv    | Found a transporter.
+ 16026 | Lair:1   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Conjurations   |  2  3                    4    |  4.0
+Short Blades   |     1        2  3             |  3.0
+Charms         |        1                      |  1.0
+Fighting       |        1     2     3  4     5 |  5.0
+Evocations     |        1        2     3  4  5 |  5.1
+Dodging        |           3           4  5  6 |  6.3
+Throwing       |           1                 2 |  2.5
+Air Magic      |              5        6     8 |  8.1
+Summonings     |              1  2  3     4    |  4.5
+Spellcasting   |                    3        4 |  4.1
+Axes           |                    1  2       |  2.6
+Maces & Flails |                    1  2       |  2.8
+Slings         |                    1     2  3 |  3.0
+Polearms       |                    1          |  1.2
+Bows           |                       1  2    |  2.0
+Shields        |                          4    |  4.3
+Long Blades    |                          3    |  3.2
+Stealth        |                               |  2.3
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Short sword       |    12 |    26 |  4023 |       ||  4061
+       Peck              |     1 |     1 |  3038 |     5 ||  3045
+       Kick              |       |     5 |  4661 |    13 ||  4679
+       Hand axe          |       |       |  8068 |       ||  8068
+       Flail             |       |       |    33 |    10 ||    43
+       Halberd           |       |       |     3 |       ||     3
+       Scimitar          |       |       |    19 |    12 ||    31
+       Long sword        |       |       |    14 |    15 ||    29
+       Spear             |       |       |     2 |       ||     2
+ Fire: Hunting sling     |       |       |    60 |    54 ||   114
+       Shortbow          |       |       |    66 |       ||    66
+Throw: Stone             |    14 |    38 |     1 |       ||    53
+       Tomahawk          |       |       |     2 |       ||     2
+ Cast: Shock             |    59 |    89 |   134 |    36 ||   318
+       Call Imp          |       |     6 |    28 |     2 ||    36
+       Swiftness         |       |     1 |       |     1 ||     2
+       Call Canine Famil |       |       |    11 |     1 ||    12
+       Static Discharge  |       |       |    16 |    18 ||    34
+       Magic Dart        |       |       |     9 |     5 ||    14
+       Airstrike         |       |       |       |     2 ||     2
+ Abil: Fly               |       |     1 |       |       ||     1
+Evoke: Wand              |       |       |       |     3 ||     3
+  Use: Potion            |     1 |       |     2 |     6 ||     9
+       Scroll            |       |    10 |     5 |     2 ||    17
+ Stab: Sleeping          |       |     1 |       |       ||     1
+       Distracted        |       |       |     2 |       ||     2
+  Eat: Chunk             |     5 |    13 |    19 |     5 ||    42
+       Ration            |       |     1 |     1 |     1 ||     3
+Armor: Robe              |     1 |     1 |  1699 |    10 ||  1711
+       Leather armour    |     1 |     6 |       |    10 ||    17
+Dodge: Dodged            |    10 |    34 |  9037 |    56 ||  9137
+Block: Shield            |       |       |    28 |    13 ||    41
+       Buckler           |       |       |       |     4 ||     4
+       Reflection        |       |       |       |     1 ||     1
+Rpst.: Scimitar          |       |       |     3 |     5 ||     8
+       Long sword        |       |       |     2 |     8 ||    10
+
