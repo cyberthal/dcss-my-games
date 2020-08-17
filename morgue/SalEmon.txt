@@ -1,0 +1,362 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7528288156575002421
+
+Sal Emon the Schismatic (DsAK)                     Turns: 11171, Time: 01:44:26
+
+Health: 62/65      AC: 10    Str: 13    XL:     9   Next: 2%
+Magic:  14/14      EV: 10    Int: 15    God:    Lugonu [****..]
+Gold:   226        SH:  5    Dex: 14    Spells: 2/10 levels left
+
+rFire    + . .     SeeInvis .   b - +1 falchion
+rCold    + . .     Gourm    .   o - +0 buckler
+rNeg     . . .     Faith    .   P - +0 ring mail
+rPois    .         Spirit   .   M - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  N - +0 pair of boots
+Stlth    +.........             (no amulet)
+HPRegen  0.20/turn              C - ring of protection from fire
+MPRegen  0.14/turn              H - ring of resist corrosion
+
+@: no status effects
+A: hooves 1, yellow scales 1, cold resistance 1, freezing cloud immunity
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Lugonu.
+Lugonu is greatly pleased with you.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 7 of its levels.
+You have visited the Abyss 1 time.
+
+You have collected 400 gold pieces.
+You have spent 174 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling
+ b - a +1 falchion (weapon)
+ c - a +1 dagger of venom
+ d - a +3 flail
+ e - a +0 war axe
+ f - a +0 trident
+ O - a +3 dagger
+Missiles
+ h - 38 bolts
+ i - 3 tomahawks
+ k - 65 arrows
+ r - 15 sling bullets
+ u - 250 stones
+ B - a throwing net (quivered) {!f}
+ G - 4 curare-tipped needles
+Armour
+ l - a +0 scale mail
+ n - a +0 shield
+ o - a +0 buckler (worn)
+ M - a +0 helmet (worn)
+ N - a +0 pair of boots (worn)
+ P - a +0 ring mail (worn)
+ Q - a +0 chain mail
+Jewellery
+ C - a ring of protection from fire (left hand)
+ H - a ring of resist corrosion (right hand)
+ K - an uncursed ring of wizardry
+Wands
+ x - a wand of acid (7)
+ z - a wand of random effects (15)
+ I - a wand of iceblast (9)
+Scrolls
+ j - a scroll labeled CENGANATHRU
+ p - a scroll labeled FEYKYS IZEAGAIHIA
+ q - a scroll of fear
+ t - a scroll of remove curse
+ E - a scroll labeled VITOEJ VEUNUBB
+ F - 2 scrolls of amnesia
+ J - a scroll labeled XUSIHI HITUI
+Potions
+ g - a potion of might
+ m - 3 potions of curing
+ s - a potion of brilliance
+ v - a potion of lignification
+ w - a potion of resistance
+ y - 2 potions of flight
+ D - a potion of haste
+ L - a potion of mutation
+Comestibles
+ A - 11 rations
+
+
+   Skills:
+ - Level 4.0 Fighting
+ - Level 1.2(2.9) Short Blades
+ - Level 4.0(4.1) Long Blades
+ - Level 1.0 Maces & Flails
+ + Level 0.7 Polearms
+ - Level 3.6(3.7) Slings
+ - Level 1.0(2.5) Throwing
+ + Level 3.4 Armour
+ - Level 1.1 Dodging
+ + Level 1.0 Stealth
+ + Level 3.4 Shields
+ + Level 1.0 Spellcasting
+ + Level 0.0 Charms
+ * Level 1.0 Necromancy
+ - Level 7.9 Invocations
+ - Level 4.1 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Animate Skeleton      Necr           N/A          34%         1    ##.....
+b - Pain                  Necr           #...         34%         1    ##.....
+c - Vampiric Draining     Necr           #.........   71%         3    ####...
+d - Regeneration          Chrm/Necr      #.........   78%         3    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Dead             Necr           N/A          98%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (0/1) D:7         
+
+Altars:
+Ashenzari
+Gozag
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Trog
+Zin
+
+Shops:
+D:4 *
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have large cloven feet.
+You are partially covered in yellow scales. (AC +2)
+Your flesh is cold resistant. (rC+)
+You are immune to freezing clouds.
+
+
+Message History
+
+This spell is very dangerous to cast!
+Memorise Regeneration, consuming 3 spell levels and leaving 2? 
+You start memorising the spell. You continue memorising. x3
+You finish memorising. Spell assigned to 'd'.
+Okay, then.
+Unknown command.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+(D) Dungeon        (T) Temple         
+Where to? (Enter - D:5 @ (x,y), ? - help) 
+Things that are here:
+a +0 robe; a cursed +0 dagger
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+
+......#...######............#    ##..###..##
+.#........####.z.#####.####.###   #....#..#.
+........#.##...###   #.## #...##  ##.#.#..#.
+..........##.###     #.)# #.#..##  #.#......
+.............###     ##.# #.##..####.##.....
+...............########.###.......##.##...#.
+..........................................##
+..........####....................####.#..##
+..........#  ####..##..................#..##
+.#...<....#     ##..#..............###......
+#..###....###    ##.#.......................
+..## #......##    #....####.................
+.##  #.......##   ####@...........####......
+.#   #........#      ######..)....#  #......
+##   ##.......#      ######.>.....## #......
+#     #.......########.....#.......# #......
+      ##.................).........######.##
+      #.......######....<)................#
+      #.......#    #..........<.....#######
+      #.._....#    #................#
+      #......##    #........[.......#
+      #......#     #................#
+      ###....#     #................#
+        ######     ##..............##
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A hornet (D:7)
+  A hippogriff (D:6)
+  Sigmund (D:5)
+  A sky beast (D:5)
+  4 ogres
+  A centaur (D:6)
+  3 scorpions
+  A vampire bat (D:6)
+  4 wights
+  2 crimson imps
+  A hound (D:7)
+  2 orc priests (D:3)
+  2 iguanas
+  4 worker ants
+  Ijyb (D:3)
+  2 orc wizards
+  Robin (D:3)
+  5 gnolls
+  3 adders
+  A shadow imp (D:6)
+  2 adder zombies
+  3 worms
+  2 dart slugs
+  5 leopard geckos
+  10 orcs
+  3 ball pythons
+  4 bats (D:3)
+  A bat skeleton (D:6)
+  4 bat zombies (D:6)
+  3 giant cockroaches
+  23 goblins
+  7 hobgoblins
+  9 jackals
+  2 quokkas
+  4 frilled lizards
+  A jackal skeleton (D:5)
+  A jackal zombie (D:7)
+  11 kobolds
+  7 rats
+143 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Sal Emon the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+    82 | Abyss:1  | Found a corrupted altar of Lugonu.
+    91 | D:1      | Escaped the Abyss
+   347 | D:1      | Reached skill level 1 in Stealth
+   413 | D:1      | Gained mutation: You have large cloven feet. [demonic
+                  | ancestry]
+   413 | D:1      | Reached XP level 2. HP: 24/24 MP: 3/3
+   756 | D:1      | Reached skill level 1 in Throwing
+  1274 | D:1      | Entered wizard mode.
+  1583 | D:1      | Reached XP level 3. HP: 29/29 MP: 4/4
+  1585 | D:1      | Reached ** piety under Lugonu
+  2216 | D:2      | Found an opulent altar of Gozag.
+  2217 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2758 | D:2      | Reached skill level 1 in Shields
+  2822 | D:1      | Reached XP level 4. HP: 20/36 MP: 5/5
+  3578 | D:3      | Reached XP level 5. HP: 41/41 MP: 6/6
+  4819 | D:3      | Noticed Ijyb
+  4840 | D:3      | Killed Ijyb
+  5043 | D:4      | Found Ejan's Assorted Antiques.
+  5363 | D:4      | Reached skill level 1 in Slings
+  5363 | D:4      | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [demonic ancestry]
+  5363 | D:4      | Reached XP level 6. HP: 44/47 MP: 7/7
+  5375 | D:4      | Bought an amethyst potion for 27 gold pieces
+  5375 | D:4      | Bought a silvery potion for 27 gold pieces
+  5534 | D:3      | Reached skill level 1 in Evocations
+  5724 | D:4      | Reached skill level 1 in Dodging
+  6141 | D:4      | Noticed Robin
+  6143 | D:4      | Reached *** piety under Lugonu
+  6626 | D:3      | Killed Robin
+  6626 | D:3      | Reached XP level 7. HP: 52/53 MP: 8/8
+  6683 | D:4      | Bought a copper wand for 120 gold pieces
+  6695 | D:5      | Entered Level 5 of the Dungeon
+  6893 | D:5      | Reached skill level 3 in Invocations
+  7302 | D:5      | Noticed Sigmund
+  7307 | D:5      | Killed Sigmund
+  7307 | D:5      | Reached skill level 4 in Invocations
+  7415 | D:5      | Found an iron altar of Okawaru.
+  7528 | D:5      | Found a glowing silver altar of Zin.
+  7991 | D:6      | Reached skill level 5 in Invocations
+  8118 | D:6      | Found an opulent altar of Gozag.
+  8365 | D:5      | Gained mutation: You are partially covered in yellow
+                  | scales. (AC +2) [demonic ancestry]
+  8365 | D:5      | Reached XP level 8. HP: 56/60 MP: 12/12
+  8574 | D:5      | Reached skill level 6 in Invocations
+  8674 | D:6      | Found a bloodstained altar of Trog.
+  9421 | D:5      | Reached skill level 7 in Invocations
+  9671 | D:6      | Reached **** piety under Lugonu
+  9697 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+  9803 | D:6      | Reached skill level 1 in Maces & Flails
+ 10040 | D:7      | Found a staircase to the Ecumenical Temple.
+ 10377 | D:7      | Found a shattered altar of Ashenzari.
+ 10466 | D:7      | Found a stormy altar of Qazlal.
+ 10468 | D:7      | Noticed an air elemental
+ 10531 | D:7      | Noticed a hippogriff
+ 10570 | D:6      | Killed a hippogriff
+ 10746 | D:6      | Learned a level 1 spell: Animate Skeleton
+ 10748 | D:6      | Learned a level 1 spell: Pain
+ 10752 | D:6      | Learned a level 3 spell: Vampiric Draining
+ 10984 | D:7      | Reached skill level 1 in Necromancy
+ 11045 | D:7      | Noticed a hornet
+ 11061 | D:7      | Killed a hornet
+ 11061 | D:7      | Reached skill level 1 in Short Blades
+ 11061 | D:7      | Reached skill level 1 in Spellcasting
+ 11061 | D:7      | Gained mutation: You are immune to freezing clouds.
+                  | [demonic ancestry]
+ 11061 | D:7      | Reached XP level 9. HP: 47/65 MP: 14/14
+ 11154 | D:5      | Learned a level 3 spell: Regeneration
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Stealth        |  1                      |  1.0
+Long Blades    |  2        3           4 |  4.0
+Throwing       |     1                   |  1.0
+Shields        |        1  2     3       |  3.4
+Armour         |              2        3 |  3.4
+Slings         |              1  2  3    |  3.6
+Evocations     |                 2  3  4 |  4.1
+Dodging        |                 1       |  1.1
+Invocations    |                    5  7 |  7.9
+Fighting       |                       4 |  4.0
+Maces & Flails |                       1 |  1.0
+Necromancy     |                       1 |  1.0
+Short Blades   |                       1 |  1.2
+Spellcasting   |                       1 |  1.0
+Polearms       |                         |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Falchion          |  8101 |   126 |   102 ||  8329
+       Kick              |  2013 |    43 |     8 ||  2064
+       Dagger            |       |    32 |    50 ||    82
+ Fire: Hunting sling     |       |    60 |   137 ||   197
+Throw: Stone             |   101 |    36 |       ||   137
+       Throwing net      |       |     3 |     1 ||     4
+       Tomahawk          |       |     1 |     2 ||     3
+ Cast: Animate Skeleton  |       |       |     3 ||     3
+Invok: Bend Space        |       |     4 |    21 ||    25
+Evoke: Wand              |       |       |     3 ||     3
+  Use: Potion            |       |     2 |     2 ||     4
+       Scroll            |       |     2 |    10 ||    12
+ Stab: Sleeping          |     1 |       |       ||     1
+  Eat: Chunk             |     6 |    10 |    13 ||    29
+       Ration            |       |       |     1 ||     1
+Armor: Leather armour    |  1191 |     4 |       ||  1195
+       Scale mail        |       |    56 |    84 ||   140
+Dodge: Dodged            |  2728 |    50 |    77 ||  2855
+Block: Shield            |   992 |       |     3 ||   995
+       Buckler           |   434 |    27 |    39 ||   500
+Rpst.: Falchion          |   922 |    15 |    13 ||   950
+

@@ -1,0 +1,380 @@
+Sal Emon
+
+Level 1 of the Dungeon
+(30, -33, D:1)
+  a +0 whip
+(42, -27, D:1)
+  a +0 dagger
+(48, -18, D:1)
+  a +0 club
+(50, -29, D:1)
+  a +0 dagger
+(50, 2, D:1)
+  a +0 club
+(57, -4, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(2, 4, D:2)
+  a +0 hand axe
+(5, -6, D:2)
+  a +0 short sword
+(6, -25, D:2)
+  a +0 dagger
+(9, -27, D:2)
+  a +0 dagger
+(10, -22, D:2)
+  a +0 mace
+(11, -8, D:2)
+  a +0 dagger
+(14, -7, D:2)
+  a +0 dagger
+(19, 2, D:2)
+  a +0 club
+(22, -17, D:2)
+  a +0 short sword
+(28, -2, D:2)
+  a +0 dagger
+(39, 8, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 hunting sling
+(9, 6, D:3)
+  a +0 club
+(10, 1, D:3)
+  a +0 hunting sling
+(10, 4, D:3)
+  a +0 dagger
+  a +0 scale mail
+(10, 5, D:3)
+  a +0 club
+(11, 10, D:3)
+  a +0 dagger
+(13, -23, D:3)
+  a +0 short sword
+(13, 11, D:3)
+  a +0 club
+(17, 5, D:3)
+  a cursed -1 war axe
+(18, 8, D:3)
+  a +0 hunting sling
+(21, 9, D:3)
+  a +0 giant spiked club
+(32, -18, D:3)
+  a +0 dagger
+  a +0 animal skin
+(36, -10, D:3)
+  a +0 dagger
+(44, -44, D:3)
+  a +0 mace
+(55, -13, D:3)
+  a cursed -3 club
+(58, -10, D:3)
+  a +0 falchion
+(67, -10, D:3)
+  a +0 club
+(68, -9, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+[Shop] Ejan's Assorted Antiques
+  a +0 leather armour (60 gold)
+  a +0 hand crossbow (105 gold)
+  a +0 helmet (135 gold)
+  a +0 trident (105 gold)
+(0, 0, D:4)
+  a +0 ring mail
+(8, -18, D:4)
+  a +0 club
+(8, -17, D:4)
+  a +0 mace
+(23, -15, D:4)
+  a +0 robe
+(31, -13, D:4)
+  a +0 scale mail
+(46, -7, D:4)
+  a +0 robe
+  a +0 dagger
+  a +0 hand axe
+(48, 19, D:4)
+  a +0 club
+(50, -7, D:4)
+  a +0 dagger
+(54, -2, D:4)
+  a +0 dagger
+  a cursed -1 club
+(55, -2, D:4)
+  a +0 dagger
+  a +0 hunting sling
+(55, -1, D:4)
+  a +0 dagger
+(56, -2, D:4)
+  a +0 club
+(61, -6, D:4)
+  a +0 club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 scythe
+  a +0 robe
+(13, -15, D:5)
+  a cursed -3 whip
+(15, -16, D:5)
+  a +0 club
+(20, -20, D:5)
+  a +0 ring mail
+(21, -14, D:5)
+  a +0 leather armour
+  a +0 mace
+(22, 5, D:5)
+  a +0 giant spiked club
+(23, -5, D:5)
+  a +0 mace
+  a +0 robe
+(24, -2, D:5)
+  a +0 robe
+(32, -5, D:5)
+  a cursed -2 leather armour
+(33, -28, D:5)
+  a cursed -3 club
+(36, -28, D:5)
+  a +0 leather armour
+(36, -26, D:5)
+  a +0 giant spiked club
+(40, 16, D:5)
+  a +0 giant spiked club
+(55, 11, D:5)
+  a +0 hand axe
+(61, -14, D:5)
+  a +0 robe
+  a cursed +0 dagger
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 robe
+  a cursed +1 hand axe
+(3, 11, D:6)
+  a +0 hunting sling
+  a +0 hand axe
+  a +0 shield
+(6, -3, D:6)
+  a +0 robe
+  a cursed +0 mace
+(16, 15, D:6)
+  a +0 great sword
+(17, 4, D:6)
+  a +0 dagger
+  a +0 animal skin
+(18, 28, D:6)
+  a +0 dagger
+(18, 29, D:6)
+  a +0 hand axe
+(20, -5, D:6)
+  a +0 morningstar
+(21, 32, D:6)
+  a +0 chain mail
+(22, 25, D:6)
+  a +0 shortbow
+(31, 9, D:6)
+  a +0 plate armour
+  a +0 war axe
+
+Level 7 of the Dungeon
+(5, 36, D:7)
+  a +0 short sword
+  a +0 chain mail
+  a +0 ring mail
+(7, 34, D:7)
+  a +0 leather armour
+(11, 44, D:7)
+  a +0 flail
+(17, 12, D:7)
+  an uncursed ring of attention
+(29, -7, D:7)
+  a potion of degeneration
+(40, 10, D:7)
+  a +0 spear
+(41, 19, D:7)
+  a +0 trident
+(45, 31, D:7)
+  a +0 spear
+(46, 33, D:7)
+  a +0 flail
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 trident
+(7, 3, D:8)
+  a +0 robe
+  a +0 dagger
+(7, 14, D:8)
+  a +0 ring mail
+  a +0 club
+(8, -10, D:8)
+  a +0 leather armour
+  a +0 flail
+(12, -11, D:8)
+  a cursed -1 quarterstaff
+(19, -34, D:8)
+  a +0 scale mail
+(22, -19, D:8)
+  a +0 ring mail
+(23, -19, D:8)
+  a +0 leather armour
+(26, -26, D:8)
+  a +0 whip
+(30, -15, D:8)
+  a +0 spear
+(32, -27, D:8)
+  a +0 robe
+(33, -36, D:8)
+  a +0 animal skin
+(37, -14, D:8)
+  a +0 ring mail
+(42, -10, D:8)
+  a +0 robe
+  a +0 dagger
+(43, -9, D:8)
+  a +0 dagger
+(44, -11, D:8)
+  a +0 leather armour
+(44, -10, D:8)
+  a +0 shortbow
+(46, -29, D:8)
+  a +0 chain mail
+(53, -15, D:8)
+  a +0 giant spiked club
+(54, -16, D:8)
+  a +0 whip
+(57, -9, D:8)
+  a +0 helmet
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 giant club
+(8, -5, D:9)
+  a +0 short sword
+(14, 15, D:9)
+  a +0 scale mail
+(17, 17, D:9)
+  a +0 mace
+(19, -8, D:9)
+  a +0 dagger
+(24, -5, D:9)
+  a +0 ring mail
+  a +0 trident
+(33, -1, D:9)
+  a +0 club
+  (unseen)
+(33, 0, D:9)
+  a -2 fustibalus
+(34, 0, D:9)
+  a +0 flail
+(36, 9, D:9)
+  a +0 flail
+  a +0 leather armour
+  a cursed -3 club
+(36, 10, D:9)
+  a +0 scale mail
+  a +0 flail
+  a +0 whip
+
+Level 10 of the Dungeon
+[Shop] Heux Keyl's Antique Weapon Emporium
+  the +5 pair of quick blades "Gyre" and "Gimble" {pierce, Dex-3} (1108 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-3).
+  a cursed -2 dagger (2 gold)
+  a +0 club (23 gold)
+  a +0 dire flail (92 gold)
+  a +0 hunting sling (34 gold)
+  a +0 hunting sling (34 gold)
+  a +0 long sword (80 gold)
+  a +0 whip (57 gold)
+  a +0 flail (80 gold)
+(0, 0, D:10)
+  a +0 robe
+  a +0 dagger of venom
+(5, 20, D:10)
+  a +0 ring mail
+(7, -16, D:10)
+  a +0 flail
+(7, -14, D:10)
+  a +0 dagger
+  a +0 robe
+  a +0 giant club
+  a +0 plate armour
+  a +0 long sword
+(8, -17, D:10)
+  a +0 club
+  a +0 animal skin
+  2 potions of degeneration
+(8, -16, D:10)
+  a +0 leather armour
+  a +0 short sword
+  4 potions of degeneration
+(8, -5, D:10)
+  a +0 club
+(8, 3, D:10)
+  a +0 shortbow
+(9, -15, D:10)
+  a +0 club
+  a +0 animal skin
+(10, 2, D:10)
+  a +0 club
+(16, -15, D:10)
+  a +0 robe
+  a +0 dagger
+(17, 6, D:10)
+  a +0 mace
+(24, 21, D:10)
+  a +0 war axe
+(36, -14, D:10)
+  a +0 club
+  (unseen)
+(37, 8, D:10)
+  a +0 giant club
+  a +0 giant spiked club
+(40, -3, D:10)
+  a +0 dagger
+(40, 6, D:10)
+  a +0 plate armour
+  a +0 short sword
+(41, 5, D:10)
+  a +0 trident
+(42, 5, D:10)
+  a +0 morningstar
+(43, 1, D:10)
+  a +0 war axe
+(46, 8, D:10)
+  a +0 scale mail
+(54, 13, D:10)
+  2 potions of degeneration
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  18 gold pieces
+(4, -3, Lair:1)
+  23 bolts
+(4, 8, Lair:1)
+  a +0 club
+(5, 2, Lair:1)
+  a wolf corpse
+(7, 5, Lair:1)
+  a wolf corpse
+(9, 1, Lair:1)
+  a wolf corpse
+(10, 10, Lair:1)
+  a scroll of remove curse
+(11, 8, Lair:1)
+  a scroll of identify
+(17, 1, Lair:1)
+  a ration
+
