@@ -1,0 +1,132 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8433851489150928088
+
+0 Quitobef the Ducker (level 1, 9/16 HPs)
+             Began as a Human Gladiator on Aug 17, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:26 (99 turns).
+
+Quitobef the Ducker (Human Gladiator)                 Turns: 99, Time: 00:03:26
+
+Health: 9/16       AC:  4    Str: 14    XL:     1   Next: 11%
+Magic:  1/1        EV: 13    Int:  8    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 quarterstaff
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Missiles
+ d - 3 throwing nets (quivered) {!f}
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 3.0 Staves
+ - Level 2.0 Throwing
+ - Level 3.0 Dodging
+ + Level 0.2 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+A kobold comes into view. It is wielding a +0 short sword.
+You barely miss the rat. The rat bites you.
+You closely miss the rat. The rat barely misses you.
+You hit the rat but do no damage. The rat bites you.
+You closely miss the rat. The rat bites you but does no damage.
+You hit the rat.
+You kill the rat!
+You closely miss the kobold.
+The kobold hits you with a +0 short sword.
+You hit the kobold.
+The kobold is severely wounded.
+The kobold hits you with a +0 short sword.
+The kobold hits you with a +0 short sword.
+There is a staircase leading out of the dungeon here.
+You open the door. The kobold closely misses you.
+There is an open door here.
+Press: ? - help, v - describe, . - travel
+The floor.
+The kobold hits you but does no damage.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                 #####
+            #+#  #...#
+            #.####...####.
+            #.#...........
+      ..#####.#.##...####
+      ...............+
+       .#####.#.#....#
+            #.#.#.......#
+            #.#.##...##.#
+          ###.#K##...#  #
+#         #...#@##...#
+...   #####...#........
+...$.##...#.#.#########
+......%.<.'.#.#
+......#...###.#
+####. ##### #.#
+   #        #.#
+            #.#
+            #.#
+
+
+You could see a kobold.
+
+Vanquished Creatures
+  A rat (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Quitobef the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+    99 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Quarterstaff      ||     7
+Armor: Leather armour    ||     1
+Dodge: Dodged            ||     2
+
