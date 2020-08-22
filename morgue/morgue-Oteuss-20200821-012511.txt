@@ -1,0 +1,158 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2550456376400219380
+
+1 Oteuss the Conjurer (level 1, 7/7 HPs)
+             Began as a Felid Conjurer on Aug 21, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:17 (60 turns).
+
+Oteuss the Conjurer (Felid Conjurer)                  Turns: 60, Time: 00:02:18
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 16%
+Magic:  2/4        EV: 18    Int: 16    God:    
+Gold:   6          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 6 gold pieces.
+
+Inventory:
+
+Comestibles
+ b - a ration
+
+
+   Skills:
+ * Level 0.2 Fighting
+ - Level 2.6 Dodging
+ - Level 2.6 Stealth
+ + Level 0.1 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         4%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           ##....       7%          2    ###....
+ Dazzling Spray           Conj/Hex       #.....       30%         3    ###....
+ Iskenderun's Mystic Bla  Conj           ##......     43%         4    #####..
+ Force Lance              Conj/Tloc      #.......     69%         4    #####..
+ Fulminant Prism          Conj/Hex       #.........   69%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 exclusions: dart slug and kobold
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Aiming: Magic Dart (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (moderately wounded)
+The magic dart hits the hobgoblin.
+The hobgoblin is almost dead.
+You barely miss the hobgoblin.
+The hobgoblin is almost dead.
+The hobgoblin hits you with a +0 club.
+Casting: Magic Dart (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - hobgoblin
+Aim: a hobgoblin, wielding a +0 club (almost dead)
+The magic dart hits the hobgoblin.
+You kill the hobgoblin!
+Things that are here:
+a +0 club; a hobgoblin corpse
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+              ##...#
+               ##..#
+       #.#    ##...#
+K.     #..    #....#
+..#    #.#### #.<.##
+...#   #..... #....#
+ #..#  #..#.# ##...#
+  #..# #.##w#  ##..#
+   #..##..#.# ##..##
+    #..#.#..###...#
+     #...#.)##...##
+     ##..##.#...##
+      ##....@..##
+       #..##..##
+       #.##..##
+       #....##
+       ######
+
+
+You could see a dart slug.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Oteuss the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+    60 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||     1
+ Cast: Magic Dart        ||     3
+

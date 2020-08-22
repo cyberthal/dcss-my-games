@@ -1,0 +1,364 @@
+Tetoxkin
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(5, -1, D:1)
+  a +2 whip of freezing
+(7, 14, D:1)
+  a +0 club
+(10, 4, D:1)
+  a scroll of enchant armour
+(11, 32, D:1)
+  a +0 club
+(14, 4, D:1)
+  a +0 helmet
+  a +0 animal skin
+  a +0 falchion
+(19, 9, D:1)
+  a +0 club
+(21, 0, D:1)
+  a +0 club
+(23, 0, D:1)
+  a +0 club
+(28, 17, D:1)
+  a +0 short sword
+(33, -1, D:1)
+  a +0 dagger
+(36, 15, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(5, -3, D:2)
+  a +0 club
+(14, 19, D:2)
+  a +0 club
+(19, -2, D:2)
+  a +0 pair of gloves
+(27, 14, D:2)
+  23 stones
+(29, -12, D:2)
+  a cursed -2 club
+(32, 18, D:2)
+  9 bolts
+(33, 18, D:2)
+  a stone
+  a +0 dagger
+(35, 0, D:2)
+  4 stones
+(39, 17, D:2)
+  a +0 whip
+(39, 22, D:2)
+  28 stones
+(40, 25, D:2)
+  a +0 hand axe
+(42, 15, D:2)
+  a +0 mace
+
+Level 3 of the Dungeon
+(3, 27, D:3)
+  24 stones
+(6, 8, D:3)
+  a +0 blowgun
+  a +0 dagger
+  10 poisoned needles
+(8, 5, D:3)
+  a +0 flail
+(9, 8, D:3)
+  a +0 dagger
+  a poisoned needle
+(10, 8, D:3)
+  a poisoned needle
+(11, -15, D:3)
+  a cursed +0 leather armour
+(13, -9, D:3)
+  a tomahawk
+(15, -8, D:3)
+  a +0 whip
+(16, -7, D:3)
+  a +0 short sword
+(17, -6, D:3)
+  a tomahawk
+  a +0 short sword
+(18, 13, D:3)
+  a +0 scimitar
+(21, 13, D:3)
+  a +0 leather armour
+  a cursed -3 dagger
+(22, -4, D:3)
+  a +0 robe
+(28, 12, D:3)
+  2 needles of sleeping
+(37, 34, D:3)
+  a +0 club
+(39, 13, D:3)
+  a +0 leather armour
+(49, 9, D:3)
+  a scroll of enchant weapon
+(51, -3, D:3)
+  a scroll of enchant armour
+(56, 34, D:3)
+  26 arrows
+(56, 36, D:3)
+  a stone
+(57, 21, D:3)
+  14 stones
+(57, 39, D:3)
+  a +0 short sword
+  4 stones
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 flail of protection
+(1, -3, D:4)
+  a +1 leather armour of magic resistance
+(1, 2, D:4)
+  a +0 flail
+(1, 5, D:4)
+  a +0 flail
+(2, 0, D:4)
+  13 arrows
+(2, 4, D:4)
+  a scroll of enchant armour
+(3, 4, D:4)
+  a +0 mace
+(4, 16, D:4)
+  a +0 robe
+  a +0 dagger
+(10, 22, D:4)
+  a +0 short sword
+(11, 3, D:4)
+  the +8 chain mail of Dyepniemn {+Blink Regen+ Str-5 Int+6}
+    It affects your strength (-5).
+    It affects your intelligence (+6).
+    It lets you blink.
+    It increases your rate of regeneration.
+(12, 15, D:4)
+  a scroll of random uselessness
+(15, 20, D:4)
+  6 poisoned needles
+(16, -10, D:4)
+  a +0 chain mail
+(17, -6, D:4)
+  22 arrows
+  27 stones
+(18, -10, D:4)
+  a scroll of enchant armour
+(21, -4, D:4)
+  a +0 spear
+(27, 25, D:4)
+  a +0 chain mail
+  a +0 short sword
+(29, -9, D:4)
+  21 sling bullets
+(42, 17, D:4)
+  a +0 robe
+(42, 19, D:4)
+  a +0 hand axe
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 giant spiked club
+(2, -3, D:5)
+  6 needles of sleeping
+(7, 19, D:5)
+  13 stones
+(12, -8, D:5)
+  a +0 scale mail of magic resistance
+(14, 1, D:5)
+  a +0 robe
+(19, 3, D:5)
+  a +0 ring mail
+(21, 11, D:5)
+  a +0 ring mail
+(22, -6, D:5)
+  a +0 falchion
+(23, -17, D:5)
+  a +0 ring mail
+(29, -8, D:5)
+  29 stones
+(30, 0, D:5)
+  12 arrows
+(41, -16, D:5)
+  a +0 plate armour
+  a +0 mace
+(44, 6, D:5)
+  11 stones
+
+Level 6 of the Dungeon
+(6, -12, D:6)
+  a +0 club
+(7, -27, D:6)
+  a +0 dire flail
+(17, -13, D:6)
+  17 stones
+(17, -6, D:6)
+  3 tomahawks
+  a +0 club
+(23, -43, D:6)
+  a +0 giant club
+(27, -25, D:6)
+  a +0 mace
+(30, -33, D:6)
+  15 stones
+(31, 2, D:6)
+  a +0 dagger
+  a +0 robe
+(34, -18, D:6)
+  a +4 quarterstaff of chaos
+  a +0 cloak
+(53, -34, D:6)
+  a +0 robe
+  a +0 dagger
+(54, -35, D:6)
+  a +0 robe
+(57, 6, D:6)
+  a +0 short sword
+(61, -50, D:6)
+  a +0 mace
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 leather armour
+  a +0 dagger
+(2, -51, D:7)
+  a scroll of enchant weapon
+(2, -2, D:7)
+  a +0 buckler
+(6, -21, D:7)
+  a +0 chain mail
+(6, -3, D:7)
+  2 potions of degeneration
+(12, -55, D:7)
+  16 stones
+(20, -21, D:7)
+  a +0 plate armour
+  a cursed -3 trident
+(22, -22, D:7)
+  a +0 club
+(29, -2, D:7)
+  a +0 ring mail
+(35, -54, D:7)
+  a cursed +3 halberd
+  a +0 robe
+(36, -10, D:7)
+  a scroll of enchant armour
+  a cursed +0 robe
+  a cursed -1 hand axe
+(39, -13, D:7)
+  13 stones
+(40, -6, D:7)
+  29 sling bullets
+(41, -44, D:7)
+  a +0 robe
+  a cursed +3 dire flail
+(44, -49, D:7)
+  a +0 robe
+  a +1 great sword
+(46, -22, D:7)
+  4 stones
+  a +2 whip of draining
+(47, -28, D:7)
+  3 stones
+(47, -25, D:7)
+  a +0 dagger
+(48, -46, D:7)
+  a +0 giant club
+(50, -23, D:7)
+  13 poisoned needles
+  a +0 blowgun
+(58, -50, D:7)
+  a +0 long sword
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  15 bolts
+(4, 10, D:8)
+  a +2 robe of cold resistance
+  a +2 scimitar of flaming
+(6, -15, D:8)
+  a sling bullet
+(7, -18, D:8)
+  a +0 robe
+  a +2 halberd
+(7, -16, D:8)
+  a +0 robe
+  a +0 flail
+(7, -12, D:8)
+  a +0 leather armour
+  19 sling bullets
+  a +0 quarterstaff of draining
+  a +3 hunting sling of flaming
+  a potion of curing
+(7, -10, D:8)
+  a +0 ring mail
+  a +0 dagger
+(11, -17, D:8)
+  17 stones
+(15, -39, D:8)
+  a stone
+(16, -33, D:8)
+  a stone
+(16, -18, D:8)
+  a +0 ring mail
+(17, -33, D:8)
+  a stone
+(17, -22, D:8)
+  a scroll of enchant weapon
+(18, -33, D:8)
+  3 stones
+(18, -32, D:8)
+  2 stones
+(20, -21, D:8)
+  24 stones
+(27, -33, D:8)
+  2 stones
+(30, -20, D:8)
+  a +0 short sword
+(31, -33, D:8)
+  a +0 giant spiked club
+(33, -21, D:8)
+  17 stones
+(35, -30, D:8)
+  a +0 rapier
+  a +0 hand crossbow
+(36, -22, D:8)
+  a +0 blowgun
+(37, -22, D:8)
+  a poisoned needle
+(39, -23, D:8)
+  a stone
+(43, -27, D:8)
+  a stone
+  2 poisoned needles
+(44, -2, D:8)
+  a +0 robe
+  a +0 dagger
+  a +0 war axe
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 quarterstaff
+(0, 11, Lair:1)
+  a +0 flail
+(8, 57, Lair:1)
+  a +0 whip
+(10, 28, Lair:1)
+  28 bolts
+(10, 39, Lair:1)
+  a +0 rapier
+(11, 29, Lair:1)
+  a scroll of enchant armour
+(13, 12, Lair:1)
+  a +0 club
+(15, 31, Lair:1)
+  a +0 spear
+(19, 5, Lair:1)
+  a scroll of identify
+(25, 20, Lair:1)
+  the +1 leather armour of the Albatross {MR+ Dex+3}
+    It affects your dexterity (+3).
+    It affects your resistance to hostile enchantments.
+
