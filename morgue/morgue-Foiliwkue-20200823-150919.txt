@@ -1,0 +1,573 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14006535821095758688
+
+9949 Foiliwkue the Thaumaturge (level 11, 57/57 HPs) *WIZ*
+             Began as a Deep Elf Wizard on Aug 22, 2020.
+             Was an Elder of Kikubaaqudgha.
+             Quit the game on level 9 of the Dungeon on Aug 23, 2020.
+             The game lasted 04:29:58 (17880 turns).
+
+Foiliwkue the Thaumaturge (Deep Elf Wizard)        Turns: 17880, Time: 04:29:58
+
+Health: 57/57      AC:  9    Str:  4    XL:     11   Next: 29%
+Magic:  37/37      EV: 16    Int: 31    God:    Kikubaaqudgha [****..]
+Gold:   610        SH:  3    Dex: 13    Spells: 1/32 levels left
+
+rFire    + . .     SeeInvis .   a - +1 scythe (distort)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + + .     Faith    .   i - +4 robe of the Gastropod {rElec rF+ rN++ MR+}
+rPois    +         Spirit   .   v - +2 hat
+rElec    +         Reflect  +   m - scarf {repulsion}
+rCorr    .         Harm     .   Q - +0 pair of gloves
+MR       ++...                  (no boots)
+Stlth    +++.......             B - +3 amulet of reflection
+HPRegen  0.19/turn              p - +4 ring of intelligence
+MPRegen  0.25/turn              C - ring of magical power
+
+@: repel missiles
+A: mutation resistance 1, poison resistance, wild magic 1, MP-powered wands
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 9 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was greatly pleased with you.
+You were very hungry.
+
+You visited 3 branches of the dungeon, and saw 12 of its levels.
+You also visited: Sewer.
+
+You collected 610 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 scythe of distortion (weapon)
+ b - a +0 short sword of draining
+ J - a +0 morningstar
+ K - a +0 longbow
+ P - a +0 quarterstaff
+ V - a +0 blowgun
+Missiles
+ k - 340 stones (quivered)
+ r - 16 bolts
+ u - 76 poisoned needles
+ w - 8 javelins
+ x - 4 curare-tipped needles
+ z - 121 arrows
+ D - 7 tomahawks
+Armour
+ i - the +4 robe of the Gastropod (worn) {rElec rF+ rN++ MR+}
+   (You found it on level 9 of the Dungeon)   
+   
+   It protects you from fire.
+   It insulates you from electricity.
+   It greatly protects you from negative energy.
+   It affects your resistance to hostile enchantments.
+ m - a scarf of repulsion (worn)
+ v - a +2 hat (worn)
+ Q - a +0 pair of gloves (worn)
+Magical Staves
+ Z - an uncursed staff of power {unknown}
+Jewellery
+ c - a cursed amulet of rage
+ p - a +4 ring of intelligence (left hand)
+ q - a +4 ring of slaying
+ B - a +3 amulet of reflection (around neck)
+ C - a ring of magical power (right hand)
+ E - an uncursed ring of protection from magic
+Wands
+ h - a wand of iceblast (6)
+ S - a wand of acid (9)
+ X - a wand of flame (41)
+ Y - a wand of clouds (4)
+Scrolls
+ f - 2 scrolls of remove curse
+ s - a scroll of blinking
+ y - 3 scrolls of amnesia {unknown}
+ A - 2 scrolls of fear
+ F - 2 scrolls of immolation {unknown}
+ G - 2 scrolls of enchant weapon {unknown}
+ I - a scroll of fog
+ M - 2 scrolls of magic mapping {unknown}
+ O - a scroll of vulnerability {unknown}
+ R - 2 scrolls of teleportation
+ U - a scroll of noise {unknown}
+Potions
+ e - a potion of resistance
+ g - 2 potions of magic
+ j - 3 potions of flight
+ l - a potion of heal wounds
+ n - a potion of haste {unknown}
+ o - a potion of agility
+ t - a potion of lignification
+ H - a potion of might
+ L - a potion of invisibility
+ N - a potion of brilliance
+ T - a potion of curing {unknown}
+ W - 2 potions of cancellation
+Comestibles
+ d - 34 rations
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 2.0 Short Blades
+ + Level 4.3 Polearms
+ - Level 3.0 Throwing
+ - Level 7.0 Dodging
+ * Level 6.6 Stealth
+ - Level 11.4 Spellcasting
+ - Level 4.0 Conjurations
+ - Level 4.0 Hexes
+ - Level 3.0 Charms
+ - Level 3.0 Summonings
+ - Level 6.1 Necromancy
+ - Level 2.3 Translocations
+ - Level 4.0 Transmutations
+ - Level 3.0 Fire Magic
+ - Level 2.0 Air Magic
+ - Level 3.0 Poison Magic
+ - Level 6.0 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         1%          1    None
+b - Sting                 Conj/Pois      ####         1%          1    None
+c - Pain                  Necr           ####         1%          1    None
+d - Beastly Appendage     Tmut           ######       1%          1    None
+e - Animate Skeleton      Necr           N/A          1%          1    None
+f - Slow                  Hex            ######..     1%          2    None
+g - Call Imp              Summ           #####...     2%          2    None
+h - Sticks to Snakes      Tmut           ######..     1%          2    None
+i - Sublimation of Blood  Necr           ######....   1%          2    None
+j - Blink                 Tloc           N/A          3%          2    None
+k - Conjure Flame         Conj/Fire      ######..     3%          3    None
+l - Mephitic Cloud        Conj/Pois/Air  #####...     4%          3    None
+m - Spider Form           Tmut/Pois      ######....   3%          3    None
+n - Regeneration          Chrm/Necr      ######....   2%          3    None
+o - Animate Dead          Necr           N/A          4%          4    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confusing Touch          Hex            ######       1%          1    None
+ Poisonous Vapours        Pois/Air       #####.       3%          2    None
+ Confuse                  Hex            ######..     3%          3    None
+ Gell's Gravitas          Tloc           #####.....   5%          3    None
+ Agony                    Necr           ######..     10%         5    ##.....
+ Dispel Undead            Necr           ######..     10%         5    ##.....
+ Olgreb's Toxic Radiance  Pois           #####...     13%         4    None
+ Bolt of Draining         Conj/Necr      ######....   14%         5    ##.....
+ Ice Form                 Ice/Tmut       #####...     17%         4    None
+ Petrify                  Tmut/Erth      #####...     17%         4    None
+ Excruciating Wounds      Chrm/Necr      ######....   17%         5    ##.....
+ Blade Hands              Tmut           ######....   22%         5    ##.....
+ Yara's Violent Unravell  Hex/Tmut       ######....   22%         5    ##.....
+ Venom Bolt               Conj/Pois      ######....   26%         5    ##.....
+ Metabolic Englaciation   Hex/Ice        #####.....   43%         5    ##.....
+ Freezing Cloud           Conj/Ice/Air   #####.....   92%         6    ####...
+ Ring of Flames           Chrm/Fire      #####.....   100%        7    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:4            Lair (1/6) D:10
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:4 dig for loot
+D:9 loot
+Abyss:1 Harold
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are somewhat resistant to further mutation.
+Your system is resistant to poisons. (rPois)
+Your spells are a little harder to cast, but a little more powerful.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+Items here: ! ?????
+a scroll labeled ANOZXOREXI; a scroll labeled FUH CYOSKUJU; a blue potion; a
+scroll labeled AMUBIO YBOA; a scroll labeled AMU KE BAADE; a scroll labeled
+YKAUGAKOLI
+O - a scroll labeled AMU KE BAADE
+F - 2 scrolls labeled AMUBIO YBOA (gained 1)
+U - a scroll labeled ANOZXOREXI
+G - 2 scrolls labeled FUH CYOSKUJU (gained 1)
+y - 3 scrolls labeled YKAUGAKOLI (gained 1)
+T - a blue potion
+You see here a curved glowing staff.
+Z - a curved glowing staff
+Items here: ( )))
+a +0 vampiric short sword; a +1 dagger of holy wrath; a +0 dagger of
+distortion; 64 sling bullets
+Press: ? - help, v - describe, . - travel, g - get item
+A potion of berserk rage.
+There is something else lying underneath.
+The floor.
+Things that are here:
+a potion of berserk rage; a potion of mutation; an uncursed ring of
+teleportation
+Enter note: thanks for reading
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+...##          #.........)#        #.#
+#.##           ##...#######        #.#
+#.#        #######.##              #.#
+#.#        #.......###########     #.#
+#.##########.####............#     #.#
+#.................#....#####.#     #.#
+#######>............##.#   #.#     #.#
+#######.####<##.##.....#   #.#     #.#
+........#  #.##.##..##.#   #.#     #.##
+#########  #.##.##..##.#####.#     #..#
+#######    #.##.##..##.......#     ##<#
+...5..#    #.##.##........#.#####   #.#
+#####.######.##.##..).@.....#...##  #.#
+    #...5....##.......!..........## #.#
+    ###########.##.>###...#.......###.#
+              #.##....................#
+             ##.##..###.#.#.......#####
+             #............[......##
+             #..##.#####.####...##
+             #..##.)#  #.#  ##.##
+             #..###.#  #.#   #.#
+             #..###.####.#   #.#
+#            #...........#   #.#
+##           ##.###.######   #.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Snorg (D:10)
+  2 two-headed ogres
+  Sonja (D:10)
+  2 trolls
+  3 hippogriffs
+  2 orc warriors
+  3 sky beasts
+  2 black bears (D:10)
+  4 ogres
+  2 phantoms (D:8)
+  A necrophage (D:10)
+  A centaur (D:6)
+  A big kobold (D:10)
+  3 bullfrogs
+  5 scorpions
+  5 killer bees (D:8)
+  3 wights (D:9)
+  4 crimson imps
+  A centaur skeleton (D:9)
+  7 orc priests
+  4 hounds
+  2 jellies
+  Natasha (thrice) (D:3)
+  4 iguanas
+  3 worker ants
+  3 orc wizards
+  A hound skeleton (D:4)
+  A mummy (D:10)
+  2 gnolls (D:8)
+  11 adders
+  A river rat (Sewer)
+  2 oozes
+  An adder skeleton (D:5)
+  5 worms
+  6 leopard geckos
+  21 orcs
+  8 ball pythons
+  7 bats
+  3 giant cockroaches
+  7 goblins
+  7 hobgoblins
+  6 jackals
+  5 quokkas
+  6 frilled lizards
+  22 kobolds
+  A leopard gecko skeleton (D:6)
+  A leopard gecko zombie (D:6)
+  A quokka skeleton (D:9)
+  A quokka zombie (D:6)
+  4 rats
+  A fungus (D:10)
+203 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A cyclops (D:10)
+  A rime drake (Lair:1)
+  Prince Ribbit (D:9)
+  A wyvern (D:8)
+  A hungry ghost (D:9)
+  2 sky beasts
+  A necrophage (D:10)
+  3 orc warriors
+  5 ogres
+  3 centaurs
+  4 big kobolds
+  7 bullfrogs
+  A gnoll sergeant (D:8)
+  A scorpion (D:9)
+  2 crimson imps
+  A quasit (D:9)
+  A jelly (D:5)
+  2 hounds
+  3 orc priests
+  5 orc wizards
+  A worker ant zombie (D:10)
+  3 gnolls (D:8)
+  8 adders
+  12 orcs
+  A giant cockroach (D:5)
+  A goblin (D:2)
+  4 jackals
+  A quokka (D:9)
+  A ball python (Sewer)
+  8 kobolds
+  2 fungi (D:10)
+88 creatures vanquished.
+
+Vanquished Creatures (others)
+  A black mamba (Lair:1)
+  A troll (D:8)
+  A sky beast (D:7)
+  A wyvern skeleton (D:6)
+  A wight (D:10)
+  2 centaur zombies
+  2 mummies (D:10)
+  A quokka (D:4)
+  3 fungi (D:10)
+  2 plants (D:10)
+15 creatures vanquished.
+
+Grand Total: 306 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Foiliwkue the Deep Elf Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 7/7
+   664 | D:1      | Reached XP level 2. HP: 15/15 MP: 2/9
+   680 | D:1      | Learned a level 2 spell: Slow
+   683 | D:1      | Learned a level 2 spell: Call Imp
+   686 | D:1      | Learned a level 2 spell: Blink
+   831 | D:1      | Found a shimmering altar of Xom.
+  1033 | D:1      | Reached skill level 1 in Hexes
+  1544 | D:2      | Reached XP level 3. HP: 11/19 MP: 0/10
+  1848 | D:2      | Reached skill level 1 in Throwing
+  1926 | D:1      | Learned a level 3 spell: Conjure Flame
+  3215 | D:3      | Noticed Natasha
+  3235 | D:3      | Reached skill level 1 in Fire Magic
+  3479 | D:2      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  3479 | D:2      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [potion of mutation]
+  3479 | D:2      | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+  3479 | D:2      | Gained mutation: You are somewhat resistant to further
+                  | mutation. [potion of mutation]
+  3866 | D:3      | Reached skill level 1 in Short Blades
+  3990 | D:3      | Entered wizard mode.
+  4137 | D:3      | Reached skill level 1 in Fighting
+  4137 | D:3      | Reached XP level 4. HP: 25/25 MP: 9/12
+  4138 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  5091 | D:3      | Reached skill level 5 in Spellcasting
+  5211 | D:2      | Learned a level 3 spell: Mephitic Cloud
+  5298 | D:3      | Killed Natasha
+  5479 | D:3      | Noticed Natasha
+  5490 | D:3      | Killed Natasha
+  5490 | D:3      | Reached skill level 1 in Air Magic
+  5490 | D:3      | Reached skill level 1 in Poison Magic
+  5490 | D:3      | Reached XP level 5. HP: 29/29 MP: 4/14
+  5609 | D:3      | Noticed Natasha
+  5678 | D:3      | Killed Natasha
+  5866 | D:4      | Noticed an ogre
+  5881 | D:4      | Killed an ogre
+  6008 | D:4      | Reached skill level 6 in Spellcasting
+  6008 | D:4      | Reached XP level 6. HP: 34/34 MP: 7/17
+  7134 | D:4      | Found a staircase to the Ecumenical Temple.
+  7155 | Temple   | Entered the Ecumenical Temple
+  7193 | Temple   | Became a worshipper of Kikubaaqudgha
+  7352 | D:5      | Entered Level 5 of the Dungeon
+  7443 | D:5      | Reached XP level 7. HP: 36/38 MP: 9/18
+  7536 | D:4      | Learned a level 1 spell: Beastly Appendage
+  7539 | D:4      | Learned a level 2 spell: Sticks to Snakes
+  7607 | D:5      | Found a glowing drain.
+  7723 | D:5      | Learned a level 3 spell: Spider Form
+  7724 | Sewer    | Entered a sewer
+  7782 | Sewer    | Reached skill level 1 in Transmutations
+  8113 | Sewer    | Reached * piety under Kikubaaqudgha
+  8113 | Sewer    | Identified Kikubaaqudgha's Reference Book on Necromancy
+                  | (Kikubaaqudgha gifted it to you in a sewer)
+  8113 | Sewer    | Received a gift from Kikubaaqudgha
+  8828 | D:5      | Reached skill level 7 in Spellcasting
+  9377 | D:5      | Learned a level 1 spell: Animate Skeleton
+ 10188 | D:6      | Reached skill level 1 in Polearms
+ 10188 | D:6      | Reached XP level 8. HP: 43/43 MP: 19/21
+ 10252 | D:6      | Learned a level 1 spell: Pain
+ 10366 | D:6      | Reached skill level 8 in Spellcasting
+ 10378 | D:5      | Learned a level 2 spell: Sublimation of Blood
+ 10529 | D:6      | Reached skill level 1 in Necromancy
+ 10996 | D:7      | Reached skill level 1 in Evocations
+ 11001 | D:7      | Reached ** piety under Kikubaaqudgha
+ 11178 | D:7      | Reached skill level 9 in Spellcasting
+ 11436 | D:7      | Noticed a two-headed ogre
+ 11986 | D:8      | Noticed a hippogriff
+ 11990 | D:8      | Killed a hippogriff
+ 11990 | D:8      | Reached XP level 9. HP: 47/47 MP: 24/24
+ 12002 | D:7      | Reached skill level 5 in Dodging
+ 12663 | D:8      | Noticed a two-headed ogre
+ 12696 | D:8      | Killed a two-headed ogre
+ 12696 | D:8      | Reached skill level 11 in Spellcasting
+ 12711 | D:8      | Learned a level 3 spell: Regeneration
+ 12750 | D:8      | Reached *** piety under Kikubaaqudgha
+ 12750 | D:8      | Identified Kikubaaqudgha's Papyrus of Sinister Magic
+                  | (Kikubaaqudgha gifted it to you on level 8 of the Dungeon)
+ 12750 | D:8      | Received a gift from Kikubaaqudgha
+ 12753 | D:8      | Reached skill level 1 in Charms
+ 12904 | D:8      | Reached XP level 10. HP: 45/53 MP: 26/27
+ 13368 | D:8      | Learned a level 4 spell: Animate Dead
+ 13604 | D:8      | Learned a level 1 spell: Sting
+ 13643 | D:9      | Killed a two-headed ogre
+ 14043 | D:9      | Noticed Prince Ribbit
+ 14460 | D:9      | Killed Prince Ribbit
+ 14663 | D:9      | Got a faintly glowing robe
+ 14731 | D:8      | Identified the +4 robe of the Gastropod {rElec rF+ rN++
+                  | MR+} (You found it on level 9 of the Dungeon)
+ 14731 | D:8      | I had cancellation so I could risk blind wearing the
+                  | artifact robe, if it was *contam.  nice robe!
+ 14737 | D:8      | this game's gear is increasingly absurd
+ 14802 | D:10     | Entered Level 10 of the Dungeon
+ 14803 | D:10     | I'm Kiku's reaper!
+ 14915 | D:10     | behold the power of Slow+Sting!
+ 14915 | D:10     | Noticed Sonja
+ 14916 | D:10     | sonja gets nerfed by mephitic
+ 15057 | D:10     | Noticed Snorg
+ 15058 | D:10     | snorg is low HD too
+ 15058 | D:10     | sort of
+ 15127 | D:10     | Reached skill level 5 in Stealth
+ 15226 | D:10     | Reached **** piety under Kikubaaqudgha
+ 15367 | D:10     | Noticed a cyclops
+ 15371 | D:10     | party started
+ 15714 | D:10     | Noticed Harold
+ 15797 | D:10     | Killed Sonja
+ 15797 | D:10     | Reached skill level 5 in Necromancy
+ 15798 | D:10     | sloppy, got hit by the disto dagger once, needlessly
+ 15804 | D:10     | woulda done ok in the abyss, likely
+ 15836 | D:10     | Reached skill level 5 in Evocations
+ 15888 | D:10     | Killed a cyclops
+ 15888 | D:10     | Reached XP level 11. HP: 57/57 MP: 28/28
+ 15926 | D:10     | Found a staircase to the Lair.
+ 15987 | D:10     | wait for confuse to hurt snorg, else zerk
+ 16433 | D:10     | Killed Snorg
+ 16440 | D:10     | unseen horror
+ 16442 | D:10     | maybe confused adder
+ 16702 | D:10     | Banished Harold
+ 16703 | D:10     | should've mephitic'd harold immediately to steal his
+                  | paralysis wand.  oh well.
+ 16940 | D:10     | 32 rations at lair entrance.  absurd.  could've played so
+                  | much more slowly and carefully.  strong build.
+ 16943 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 17123 | Lair:1   | confusing touch isn't even worth learning with mephitic and
+                  | the disto scythe
+ 17811 | Lair:1   | ok that's lair:1 done.  build is obviously OP.  no need to
+                  | belabor the point further.
+ 17880 | D:9      | thanks for reading
+ 17880 | D:9      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Conjurations   |  2              3           4    |  4.0
+Hexes          |     2           3           4    |  4.0
+Throwing       |        1                 2  3    |  3.0
+Fire Magic     |        1              2     3    |  3.0
+Short Blades   |        1           2             |  2.0
+Fighting       |        1                 2       |  2.0
+Spellcasting   |           5  6     7  9 11       | 11.4
+Air Magic      |           1                 2    |  2.0
+Poison Magic   |           1        2        3    |  3.0
+Stealth        |              3           4  5  6 |  6.6
+Summonings     |                 2           3    |  3.0
+Dodging        |                 4        6  7    |  7.0
+Transmutations |                    3        4    |  4.0
+Polearms       |                    1  2  3  4    |  4.3
+Necromancy     |                       2     5  6 |  6.1
+Evocations     |                       2     5  6 |  6.0
+Translocations |                       2          |  2.3
+Charms         |                          1  3    |  3.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Club              |     2 |       |       |       ||     2
+       Short sword       |    19 |    73 |    34 |       ||   126
+       Dagger            |       |     1 |    16 |       ||    17
+       Scythe            |       |       |    89 |   157 ||   246
+       Kick              |       |       |     1 |       ||     1
+       Unarmed           |       |       |       |     2 ||     2
+Throw: Stone             |    18 |     7 |     6 |       ||    31
+       Tomahawk          |       |     4 |       |       ||     4
+ Cast: Magic Dart        |    76 |    49 |   126 |    38 ||   289
+       Call Imp          |     8 |    20 |    46 |    31 ||   105
+       Slow              |     4 |    10 |    37 |    41 ||    92
+       Conjure Flame     |     1 |     2 |    10 |    14 ||    27
+       Mephitic Cloud    |       |     9 |    36 |    10 ||    55
+       Blink             |       |     1 |     6 |     1 ||     8
+       Sticks to Snakes  |       |       |     9 |    13 ||    22
+       Beastly Appendage |       |       |     3 |     5 ||     8
+       Animate Skeleton  |       |       |    31 |    30 ||    61
+       Spider Form       |       |       |     1 |     2 ||     3
+       Pain              |       |       |    22 |    19 ||    41
+       Regeneration      |       |       |     2 |     5 ||     7
+       Sting             |       |       |       |    34 ||    34
+       Animate Dead      |       |       |       |     6 ||     6
+       Sublimation of Bl |       |       |       |     2 ||     2
+ Abil: End Transformatio |       |       |     1 |     2 ||     3
+  Use: Scroll            |     3 |     4 |     8 |     4 ||    19
+       Potion            |     2 |     2 |     5 |       ||     9
+ Stab: Confused          |       |     3 |     5 |     2 ||    10
+       Distracted        |       |       |     2 |     1 ||     3
+       Invisible         |       |       |     1 |       ||     1
+       Sleeping          |       |       |     1 |     9 ||    10
+       Paralysed         |       |       |       |     1 ||     1
+  Eat: Chunk             |    10 |    10 |    17 |    13 ||    50
+       Ration            |       |       |       |     1 ||     1
+Armor: Robe              |     6 |     2 |    29 |    23 ||    60
+Dodge: Dodged            |    22 |    38 |    73 |    89 ||   222
+       Deflected         |       |       |       |     3 ||     3
+Block: Other             |       |       |     5 |    11 ||    16
+
