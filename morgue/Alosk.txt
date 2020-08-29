@@ -1,0 +1,373 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2522134710183939882
+
+Alosk the Stinger (Naga Venom Mage)                 Turns: 6298, Time: 01:27:35
+
+Health: 68/68      AC:  7    Str: 10    XL:     8   Next: 25%
+Magic:  14/14      EV: 12    Int: 17    God:    
+Gold:   306        SH:  0    Dex: 13    Spells: 0/15 levels left
+
+rFire    . . .     SeeInvis +   a - +0 blowgun
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   I - +0 robe
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   A - +0 cloak
+rCorr    .         Harm     .   m - +2 pair of gloves
+MR       +....     Rnd*Rage +   (no barding)
+Stlth    +++.......             (no amulet)
+HPRegen  0.21/turn              (no ring)
+MPRegen  0.14/turn              (no ring)
+
+@: very slow
+A: large, repulsion field 1, see invisible, berserk 1, deformed body, poison
+resistance, slowness 2, slow metabolism 1, spit poison 1, AC +2
+a: Spit Poison
+
+
+You are on level 5 of the Dungeon.
+You are hungry.
+
+You have visited 1 branch of the dungeon, and seen 6 of its levels.
+
+You have collected 306 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 blowgun (weapon)
+ b - a +2 flail of crushing
+ c - a +0 dagger
+ d - a +0 spear
+ e - a +0 halberd
+ f - a +2 quarterstaff of chaos
+ g - a +0 shortbow
+ k - a hand axe
+ r - a falchion
+ t - a runed quarterstaff
+ L - a runed spear
+ Z - a +0 trident
+Missiles
+ n - 99 arrows
+ q - 166 stones
+ v - 74 bolts
+ x - 50 sling bullets
+ G - 12 poisoned needles (quivered)
+Armour
+ m - a +2 pair of gloves (worn)
+ y - a +0 leather armour
+ A - a +0 cloak (worn)
+ F - a +3 plate armour
+ I - a +0 robe (worn)
+Jewellery
+ i - an uncursed amulet of faith
+ J - a large bronze amulet
+ N - a large marble ring
+Wands
+ B - a wand of iceblast (5)
+ C - a wand of flame (17)
+Scrolls
+ h - a scroll labeled WAEZXE AZOUPOW
+ p - 2 scrolls of fog
+ s - 2 scrolls of blinking
+ w - 3 scrolls of remove curse
+ E - a scroll labeled JAEPRA LALUT
+ K - 4 scrolls labeled SAETUPL HEMIZ
+Potions
+ j - a potion of might
+ l - a potion of resistance
+ o - 2 potions of curing
+ u - a potion of mutation
+ D - a potion of cancellation
+ H - 2 potions of ambrosia
+ O - a sapphire potion
+ P - 2 potions of lignification
+Comestibles
+ z - 13 rations
+
+
+   Skills:
+ * Level 2.8 Fighting
+ - Level 1.0 Short Blades
+ + Level 0.9(1.2) Maces & Flails
+ - Level 1.0(1.3) Polearms
+ - Level 1.1(1.5) Staves
+ - Level 1.1 Throwing
+ - Level 1.5 Dodging
+ + Level 4.8 Stealth
+ - Level 4.0 Spellcasting
+ + Level 2.4 Conjurations
+ - Level 1.2 Hexes
+ - Level 1.1 Necromancy
+ + Level 2.4 Air Magic
+ + Level 7.6 Poison Magic
+ - Level 1.0 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      ###.         1%          1    None
+b - Confusing Touch       Hex            #.....       10%         1    None
+c - Animate Skeleton      Necr           N/A          10%         1    None
+d - Poisonous Vapours     Pois/Air       ###...       3%          2    ##.....
+e - Mephitic Cloud        Conj/Pois/Air  ###.....     9%          3    ###....
+f - Static Discharge      Conj/Air       ##......     17%         3    ###....
+g - Olgreb's Toxic Radia  Pois           ####....     7%          4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Shock                    Conj/Air       ##..         6%          1    None
+ Swiftness                Chrm/Air       #.......     14%         2    ##.....
+ Apportation              Tloc           #.....       16%         1    None
+ Summon Small Mammal      Summ           #...         16%         1    None
+ Airstrike                Air            ##........   50%         4    ####...
+ Venom Bolt               Conj/Pois      ###.......   50%         5    ######.
+ Lightning Bolt           Conj/Air       ##........   85%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Ashenzari
+Makhleb
+Okawaru
+Wu Jian
+The Shining One
+
+Annotations:
+D:5 water loot?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear boots.
+Your serpentine skin is tough. (AC +2)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You have a slow metabolism.
+You can spit poison.
+You are surrounded by a mild repulsion field. (EV +2)
+You tend to lose your temper in combat.
+
+
+Message History
+
+g - a +0 shortbow; z - 13 rations
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+d - a +2 flail of crushing
+Adjust to which letter?  (? for menu, Esc to quit)
+b - a +2 flail of crushing; d - a +0 halberd
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+d - a +0 halberd
+Adjust to which letter?  (? for menu, Esc to quit)
+e - a +0 halberd; d - a +0 spear
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+Okay, then.
+a - a +0 blowgun (weapon)
+You start resting.
+Magic restored.
+You start resting.
+HP restored.
+Saving game... please wait.
+
+#....#...#...#...#...#...#..####~
+#..#...#...#...#...#...#...#### #
+#.#..#...#...#...#)..#..>.....#
+#...#..#...#...#...#........#.##
+###.###..#...#...#..........##.##
+  #.# ###..#...#..##........##..#
+  #.#   ###..#..#...............(
+  #.#     ###.#.........#........
+  #.#       ####...###.......####
+  #.#        ##....#.........#..#
+  #.######## #.........#.....#..#
+  #........###........###.#..#..#
+  #######..@#.........###.#.###'#
+        #..)..............#.#...#
+        ##.).#........##....#.Z.#
+       ##....#).......##..#.##Z##
+       #.......#.....###.##..#Z.#
+       ###.....#..#..#....#..#Z.#
+         ###......##...>.....##'#
+           #....[.............#..
+          ###.................#..
+          #.................#####
+          #._....[..........#...'
+          #.................#)..#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Eustachio (D:4)
+  3 ogres (D:4)
+  A centaur (D:6)
+  A scorpion (D:4)
+  A howler monkey (D:5)
+  Crazy Yiuf (D:2)
+  Jessica (D:2)
+  2 worker ants
+  An orc wizard (D:5)
+  A hound zombie (D:5)
+  10 adders
+  6 gnolls
+  An adder zombie (D:5)
+  An adder skeleton (D:4)
+  4 worms
+  A dart slug (D:4)
+  5 leopard geckos
+  11 orcs
+  2 giant cockroaches
+  8 goblins
+  13 hobgoblins
+  8 jackals
+  2 ball pythons
+  11 bats
+  7 frilled lizards
+  18 kobolds
+  5 rats
+126 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A howler monkey (D:4)
+  A crimson imp (D:5)
+  A jackal (D:5)
+  A kobold (D:5)
+4 creatures vanquished.
+
+Grand Total: 130 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Alosk the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+   266 | D:1      | Reached XP level 2. HP: 24/24 MP: 3/5
+   270 | D:1      | Learned a level 2 spell: Poisonous Vapours
+   458 | D:1      | Reached skill level 1 in Fighting
+   464 | D:1      | jackals aren't worth kiting.  pvape instead
+   475 | D:1      | Reached skill level 1 in Air Magic
+   707 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/6
+   748 | D:1      | Learned a level 3 spell: Mephitic Cloud
+   956 | D:1      | safe to engage the gnoll on the shaft
+  1215 | D:1      | D1 cleared despite some surprisingly dense foe
+                  | concentrations near the map edge tunnels.  NaVM has great
+                  | tunnel endurance.
+  1492 | D:2      | Reached skill level 1 in Short Blades
+  1492 | D:2      | Reached XP level 4. HP: 38/38 MP: 7/7
+  1538 | D:2      | Reached skill level 5 in Poison Magic
+  1675 | D:2      | Found an iron altar of Okawaru.
+  1849 | D:2      | Noticed Jessica
+  1867 | D:2      | Killed Jessica
+  2079 | D:2      | Reached XP level 5. HP: 44/44 MP: 0/8
+  2236 | D:2      | Reached skill level 1 in Evocations
+  2597 | D:2      | Found a runed translucent door.
+  2598 | D:2      | Noticed Crazy Yiuf
+  2608 | D:2      | Killed Crazy Yiuf
+  2608 | D:2      | Reached skill level 6 in Poison Magic
+  2618 | D:2      | traded an agi for a cloak and +2 chaos qstaff.  yiuf got no
+                  | hits.  staff is safish to use on confused foes when I'm on
+                  | stairs. sinv helps.
+  3038 | D:3      | Found an ornate altar of the Wu Jian Council.
+  3240 | D:3      | Found a shattered altar of Ashenzari.
+  3423 | D:3      | oops
+  3829 | D:3      | Reached XP level 6. HP: 45/51 MP: 6/10
+  3871 | D:4      | kek
+  3878 | D:3      | Learned a level 4 spell: Olgreb's Toxic Radiance
+  3911 | D:3      | 0 EV in plate!
+  3963 | D:4      | Reached skill level 1 in Throwing
+  4048 | D:4      | air theme fits poorly with chei.  pass.
+  4203 | D:4      | oops
+  4388 | D:4      | Reached skill level 1 in Polearms
+  4388 | D:4      | Reached skill level 1 in Staves
+  4395 | D:4      | Learned a level 1 spell: Animate Skeleton
+  4477 | D:4      | Reached XP level 7. HP: 61/61 MP: 0/11
+  4634 | D:4      | Reached skill level 7 in Poison Magic
+  4735 | D:3      | with animate skeleton, NaVM now dominant
+  4739 | D:3      | Learned a level 1 spell: Confusing Touch
+  4766 | D:5      | Entered Level 5 of the Dungeon
+  4767 | D:5      | open layout is bad
+  4777 | D:5      | Found a burning altar of Makhleb.
+  5060 | D:5      | chaos staff nicely counters undead, a weakness of NaVm
+  5220 | D:5      | Gained mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+  5220 | D:5      | Gained mutation: You often lose your temper in combat.
+                  | [potion of mutation]
+  5220 | D:5      | Lost mutation: You often lose your temper in combat.
+                  | [potion of mutation]
+  5220 | D:5      | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [potion of mutation]
+  5221 | D:5      | kek berserkitis.  not a big problem.
+  5381 | D:5      | Noticed Eustachio
+  5447 | D:5      | don't want eustachio to catch me in the open
+  5472 | D:4      | Killed Eustachio
+  5472 | D:4      | Reached skill level 1 in Hexes
+  5472 | D:4      | Reached skill level 1 in Necromancy
+  5472 | D:4      | Reached XP level 8. HP: 59/68 MP: 1/14
+  5555 | D:4      | static discharge could be handy
+  5555 | D:4      | shock is a poor fit due to inability to position for
+                  | bounces
+  5559 | D:4      | Learned a level 3 spell: Static Discharge
+  5559 | D:4      | ah right I already train air magic and conjurations, so
+                  | it's a great fit
+  5559 | D:4      | besides swiftness and to a lesser extent shock
+  5579 | D:4      | leather armor isn't worth the spell failure
+  6087 | D:5      | Found a glowing golden altar of the Shining One.
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Conjurations   |     2                |  2.4
+Fighting       |     1           2    |  2.8
+Air Magic      |     1              2 |  2.4
+Short Blades   |        1             |  1.0
+Poison Magic   |           5  6     7 |  7.6
+Evocations     |              1       |  1.0
+Throwing       |                 1    |  1.1
+Polearms       |                 1    |  1.0
+Staves         |                 1    |  1.1
+Stealth        |                 4    |  4.8
+Spellcasting   |                 3  4 |  4.0
+Hexes          |                    1 |  1.2
+Necromancy     |                    1 |  1.1
+Maces & Flails |                      |  0.9
+Dodging        |                      |  1.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Club              |    14 |       |       ||    14
+       Unarmed           |     2 |       |       ||     2
+       Dagger            |    20 |    22 |     4 ||    46
+       Trident           |       |    18 |     6 ||    24
+       Quarterstaff      |       |     2 |     6 ||     8
+       Halberd           |       |       |    46 ||    46
+       Spear             |       |       |     3 ||     3
+       Flail             |       |       |     3 ||     3
+ Fire: Blowgun           |       |     4 |     8 ||    12
+Throw: Stone             |     8 |    15 |    19 ||    42
+ Cast: Sting             |    27 |    50 |    29 ||   106
+       Poisonous Vapours |     4 |     7 |     1 ||    12
+       Mephitic Cloud    |     1 |     5 |     1 ||     7
+       Animate Skeleton  |       |     1 |    18 ||    19
+       Olgreb's Toxic Ra |       |     1 |     1 ||     2
+       Confusing Touch   |       |       |     3 ||     3
+ Abil: Spit Poison       |    32 |    46 |    28 ||   106
+  Use: Scroll            |     5 |     7 |     1 ||    13
+       Potion            |     2 |     1 |     1 ||     4
+ Stab: Sleeping          |       |     1 |     8 ||     9
+  Eat: Chunk             |     4 |    12 |     6 ||    22
+Armor: Robe              |    12 |    17 |    29 ||    58
+Dodge: Dodged            |    42 |    29 |    34 ||   105
+

@@ -1,0 +1,746 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8853926292853896539
+
+23679 Niquwkymm the Tainter (level 13, 111/111 HPs) *WIZ*
+             Began as a Naga Venom Mage on Aug 29, 2020.
+             Was the Champion of Cheibriados.
+             Quit the game on level 11 of the Dungeon on Aug 30, 2020.
+             The game lasted 05:55:06 (22128 turns).
+
+Niquwkymm the Tainter (Naga Venom Mage)            Turns: 22128, Time: 05:55:07
+
+Health: 111/111    AC: 23    Str: 28    XL:     13   Next: 8%
+Magic:  30/30      EV:  8    Int: 38    God:    Cheibriados 163 (0)
+Gold:   170        SH: 12    Dex: 32    Spells: 3/23 levels left
+
+rFire    . . .     SeeInvis +   a - +3 hunting sling (flame)
+rCold    . . .     Gourm    .   l - +0 shield
+rNeg     . . .     Faith    .   V - +3 scale mail
+rPois    +         Spirit   .   z - -1 hat of the Dwarven Hall {rElec MR+ Int+4}
+rElec    +         Reflect  .   m - +2 cloak {+Inv}
+rCorr    .         Harm     .   n - +2 pair of gloves
+MR       ++...                  O - +2 naga barding {Fly}
+Stlth    ++++......             C - amulet "Qut Otit" {Regen+ Dex+3 SInv}
+HPRegen  0.68/turn              r - ring of magical power
+MPRegen  0.22/turn              w - +3 ring of strength
+
+@: flying, very slow
+A: large, claws 1, see invisible, deformed body, poison resistance, screaming 1,
+slowness 2, slow metabolism 1, spit poison 1, MP-powered wands, constrict 1, AC
++4
+a: Spit Poison, Bend Time, Temporal Distortion, Slouch, Step From Time, Renounce
+Religion, Evoke Invisibility, Stop Flying
+
+
+You were on level 11 of the Dungeon.
+You worshipped Cheibriados.
+Cheibriados was exalted by your worship.
+You were not hungry.
+
+You visited 4 branches of the dungeon, and saw 15 of its levels.
+You also visited: Gauntlet.
+
+You collected 1602 gold pieces.
+You spent 1432 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 hunting sling of flaming (weapon)
+ b - a +2 war axe of electrocution
+ c - a +2 dagger of freezing
+ d - a +2 falchion of venom
+ e - a +2 antimagic falchion
+ f - a +3 scimitar of flaming
+ h - a +2 mace of protection
+ i - a +1 hand axe of venom
+ L - the +4 glaive of Kismet {holy, MP+9}
+   (You took it off a minotaur in a Gauntlet)   
+   
+   It has been blessed by the Shining One to cause great damage to the undead
+   and demons.
+   
+   It affects your magic capacity (+9).
+Missiles
+ g - 48 bolts
+ j - 13 steel javelins
+ G - 2 tomahawks of dispersal {!f}
+ H - 21 sling bullets
+ N - 30 tomahawks
+ T - 302 stones (quivered)
+Armour
+ l - a +0 shield (worn)
+ m - a +2 cloak of invisibility (worn)
+ n - a +2 pair of gloves (worn)
+ z - the -1 hat of the Dwarven Hall (worn) {rElec MR+ Int+4}
+   (You found it in a Gauntlet)   
+   
+   It affects your intelligence (+4).
+   It insulates you from electricity.
+   It affects your resistance to hostile enchantments.
+ O - a +2 naga barding of flying (worn)
+ P - a +2 chain mail of fire resistance
+ S - +0 acid dragon scales
+ V - a +3 scale mail (worn)
+Magical Staves
+ X - an uncursed staff of summoning
+Jewellery
+ r - a ring of magical power (left hand)
+ w - a +3 ring of strength (right hand)
+ B - an uncursed ring of protection from cold
+ C - the amulet "Qut Otit" (around neck) {Regen+ Dex+3 SInv}
+   (You acquired it in a Gauntlet)   
+   
+   [amulet of regeneration]
+   
+   It affects your dexterity (+3).
+   It lets you see invisible.
+   It increases your rate of regeneration.
+Wands
+ t - a wand of iceblast (12)
+ A - a wand of flame (28)
+ F - a wand of disintegration (5)
+ K - a wand of paralysis (2)
+ Q - a wand of polymorph (8)
+ W - a wand of acid (10)
+Scrolls
+ k - 2 scrolls of fear
+ s - a scroll of brand weapon
+ x - 2 scrolls of remove curse
+ E - a scroll of torment
+Potions
+ o - 3 potions of lignification
+ p - 2 potions of ambrosia
+ u - 5 potions of curing
+ D - a potion of heal wounds
+ I - 3 potions of might
+ J - a potion of cancellation
+ M - a potion of brilliance
+Miscellaneous
+ y - a phial of floods
+ U - a sack of spiders
+Comestibles
+ v - 17 rations
+ R - 2 chunks of flesh
+
+
+   Skills:
+ - Level 6.0 Fighting
+ - Level 1.1(1.8) Short Blades
+ - Level 2.1(2.3) Long Blades
+ - Level 4.2(5.0) Axes
+ - Level 3.8(4.9) Maces & Flails
+ - Level 1.0(3.0) Polearms
+ - Level 1.5(3.0) Staves
+ - Level 4.9(5.2) Slings
+ - Level 2.3(4.0) Throwing
+ - Level 4.0 Armour
+ - Level 4.0 Dodging
+ - Level 9.0 Stealth
+ - Level 4.0 Shields
+ + Level 5.5 Spellcasting
+ - Level 4.9 Conjurations
+ - Level 6.0 Hexes
+ - Level 3.0 Air Magic
+ - Level 10.0 Poison Magic
+ - Level 8.2 Invocations
+ + Level 6.0 Evocations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            54 (90)      1%          1    0
+b - Sting                 Conj/Pois      25 (25)      1%          1    0
+c - Poisonous Vapours     Pois/Air       50 (50)      1%          2    0
+d - Mephitic Cloud        Conj/Pois/Air  54 (100)     4%          3    0
+e - Confuse               Hex            54 (100)     4%          3    0
+f - Tukima's Dance        Hex            54 (100)     4%          3    0
+g - Dazzling Spray        Conj/Hex       50 (50)      6%          3    0
+h - Olgreb's Toxic Radia  Pois           72 (100)     3%          4    40
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ensorcelled Hibernation  Hex/Ice        33 (50)      9%          2    0
+ Venom Bolt               Conj/Pois      61 (200)     26%         5    190
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:5            Lair (1/6) D:11
+    Orc (2/2) D:10            Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:4 *   D:6 *   Orc:2 *
+
+Annotations:
+D:6 1 runed translucent door, DeadEndRoad's ghost, amateur GnWn
+Orc:1 loot
+Orc:2 loot
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear boots.
+Your serpentine skin is tough. (AC +4)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You have a slow metabolism.
+You can spit poison.
+You can use your snake-like lower body to constrict enemies.
+You have sharp fingernails.
+You occasionally shout uncontrollably at your foes.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+You drop an uncursed amulet of regeneration.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +3 scale mail. x4
+You finish taking off your +3 scale mail.
+You start putting on your armour.
+You continue putting on your +2 chain mail of fire resistance. x5
+You finish putting on your +2 chain mail of fire resistance.
+You feel resistant to fire.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +2 chain mail of fire resistance. x4
+You finish taking off your +2 chain mail of fire resistance.
+You feel less resistant to fire.
+You start putting on your armour.
+You continue putting on your +3 scale mail. x5
+You finish putting on your +3 scale mail.
+Enter note: almost ready for chainmail.  could wear it.
+Enter note: anyway, that's enough NaVM demo.  Character's well established, and
+the rush of knowledge is affecting the game.  Thanks for watching!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                     ####        ###
+                    ##>.#     ####.## ######
+     ###            #.@.#######.##..###.##..
+     #.####         ###....##.#...#....##...
+#######...####       ######.#......#......##
+.......###...###     #.#.##..............#.#
+######## ####..#### ###..........#...###..#.
+#           #.....###...?....#####...##.##..
+#           ###.........###.#.## ##.########
+#             ##########.#..##.# #.#.#   #.%
+#                      ######### #####   ###
+#                                  ########
+####################################......##
+............................................
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An entropy weaver (Gauntlet)
+  A minotaur (Gauntlet)
+  A hydra (D:11)
+  Erica (D:8)
+  2 two-headed ogres
+  2 orc high priests (Orc:2)
+  A soul eater (Orc:2)
+  An unseen horror (D:11)
+  An orc knight (Orc:2)
+  A wolf spider (Gauntlet)
+  An ugly thing (D:11)
+  2 orc sorcerers (Orc:2)
+  A shining eye (Gauntlet)
+  A manticore (D:11)
+  A gargoyle (D:6)
+  A komodo dragon (D:11)
+  A red devil (Orc:2)
+  A troll (D:11)
+  2 large abominations (Gauntlet)
+  4 hippogriffs
+  A redback (Gauntlet)
+  A shadow (D:11)
+  Sigmund (D:5)
+  6 small abominations (Gauntlet)
+  2 wyverns (D:11)
+  A vampire (D:10)
+  A golden eye (Gauntlet)
+  2 chaos spawn (Orc:2)
+  A hungry ghost (D:10)
+  2 wargs (Orc:2)
+  Menkaure (D:5)
+  An acid dragon (D:11)
+  A water moccasin (Lair:1)
+  A floating eye (Gauntlet)
+  Duvessa (D:7)
+  4 black bears
+  An eye of draining (D:11)
+  24 orc warriors
+  A phantom (D:6)
+  5 ice beasts
+  A sky beast (D:6)
+  A necrophage (D:10)
+  8 ogres
+  13 centaurs
+  3 crocodiles
+  A big kobold (D:9)
+  5 bullfrogs
+  A wyvern zombie (D:8)
+  A wyvern skeleton (D:11)
+  A scorpion (D:7)
+  Dowan (D:7)
+  14 killer bees
+  13 wights
+  3 crimson imps
+  A quasit (D:7)
+  A bullfrog zombie (D:11)
+  2 centaur zombies (D:10)
+  25 orc priests
+  A gnoll shaman (D:7)
+  6 hounds
+  A bullfrog skeleton (D:4)
+  A jelly (D:10)
+  A centaur skeleton (D:7)
+  Terence (D:2)
+  2 iguanas (D:8)
+  7 orc wizards
+  5 worker ants
+  A killer bee zombie (D:7)
+  A hound skeleton (D:7)
+  A worker ant zombie (D:8)
+  A howler monkey zombie (D:10)
+  5 gnolls (D:8)
+  8 adders
+  2 shadow imps
+  An adder skeleton (D:4)
+  5 worms
+  2 dart slugs
+  3 leopard geckos
+  67 orcs
+  A ball python (D:1)
+  7 giant cockroaches
+  3 hobgoblins
+  8 jackals (D:7)
+  2 quokkas
+  7 bats
+  5 frilled lizards
+  2 goblins (D:1)
+  11 kobolds
+  A quokka skeleton (D:9)
+  4 rats
+353 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 orc warriors (Orc:2)
+  An ogre (Orc:2)
+4 creatures vanquished.
+
+Vanquished Creatures (others)
+  A dancing weapon (Orc:2)
+  6 demonic plants (Gauntlet)
+  A fungus (Gauntlet)
+8 creatures vanquished.
+
+Grand Total: 365 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Niquwkymm the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | nice start.  escape staircase in starting vault
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | hm didn't mean to discover the names of the other level
+                  | vaults.  doesn't matter, I don't recognize them anyway.
+     0 | D:1      | just did it for reference because previously I've been left
+                  | wondering with no way to find out after the game ended
+   142 | D:1      | stick to the tunnels!
+   372 | D:1      | i'll restart to ensure no wizmode trap bugs.  nah nevermind
+                  | there shouldn't be.
+   372 | D:1      | restart the client I mean
+   677 | D:1      | super kobold
+   828 | D:1      | Reached XP level 2. HP: 24/24 MP: 5/5
+  1174 | D:1      | Learned a level 2 spell: Poisonous Vapours
+  1280 | D:2      | Found an opulent altar of Gozag.
+  1410 | D:2      | Reached skill level 1 in Fighting
+  1620 | D:2      | Found a shimmering altar of Xom.
+  1773 | D:2      | Reached XP level 3. HP: 31/31 MP: 4/6
+  1778 | D:2      | Learned a level 3 spell: Mephitic Cloud
+  1839 | D:2      | Noticed Terence
+  1841 | D:2      | the value of stealth
+  1971 | D:2      | small risk
+  2048 | D:2      | failed to note the wand of flames.  whoops
+  2049 | D:2      | also the ring.  going too fast
+  2058 | D:2      | Killed Terence
+  2058 | D:2      | Reached skill level 1 in Short Blades
+  2058 | D:2      | Reached skill level 1 in Slings
+  2058 | D:2      | Reached skill level 1 in Air Magic
+  2157 | D:2      | Reached XP level 4. HP: 38/38 MP: 7/7
+  3122 | D:3      | Noticed an ogre
+  3427 | D:3      | Reached skill level 1 in Evocations
+  3618 | D:4      | ambush hunter
+  3621 | D:4      | Reached skill level 1 in Polearms
+  3821 | D:4      | Reached XP level 5. HP: 36/44 MP: 8/8
+  3991 | D:4      | Found Xerraus's Assorted Antiques.
+  4007 | D:4      | Bought a scroll labeled FELUNU AN QUKA for 28 gold pieces
+  4007 | D:4      | Bought a copper wand for 112 gold pieces
+  4233 | D:4      | don't toy wit hthe worm
+  4427 | D:4      | Found a sacrificial altar of Ru.
+  4714 | D:5      | Entered Level 5 of the Dungeon
+  4740 | D:4      | too open
+  4972 | D:5      | Noticed a centaur
+  4979 | D:5      | yikes
+  5038 | D:4      | Learned a level 1 spell: Corona
+  5064 | D:5      | ouch
+  5069 | D:5      | Killed a centaur
+  5069 | D:5      | Reached skill level 1 in Hexes
+  5069 | D:5      | Reached skill level 5 in Poison Magic
+  5069 | D:5      | Reached XP level 6. HP: 40/51 MP: 9/9
+  5144 | D:5      | Noticed Menkaure
+  5145 | D:5      | nooooo
+  5145 | D:5      | I mean, eat flame, deadhead
+  5148 | D:5      | Killed Menkaure
+  5176 | D:5      | played it safe with lig.  extremely dangerous foe.
+  5217 | D:5      | knock knock
+  5287 | D:5      | Reached skill level 6 in Poison Magic
+  5290 | D:5      | saving up for OTR first
+  5354 | D:5      | Found a glowing golden altar of the Shining One.
+  5354 | D:5      | Noticed Sigmund
+  5389 | D:5      | Found a staircase to the Ecumenical Temple.
+  5408 | Temple   | Entered the Ecumenical Temple
+  5414 | Temple   | Became a worshipper of Cheibriados the Contemplative
+  5534 | D:5      | risky having sigmund on floor, can't stairdance then
+                  | mephitic
+  5613 | D:3      | Reached XP level 7. HP: 57/57 MP: 11/11
+  5666 | D:4      | Bought a scroll of teleportation for 84 gold pieces
+  5737 | D:5      | Found a basalt altar of Yredelemnul.
+  5741 | D:5      | interesting...
+  5743 | D:5      | Noticed a profane servitor
+  5763 | D:5      | hahaha it worked!  suckered Sigmund into miasma of yred
+  5764 | D:5      | Killed Sigmund
+  5770 | D:5      | just curious
+  5777 | D:5      | Noticed an angel
+  5977 | D:6      | doh
+  6043 | D:5      | Learned a level 4 spell: Olgreb's Toxic Radiance
+  6136 | D:6      | Found Taf Goo's Assorted Antiques.
+  6167 | D:6      | Bought a scroll labeled KADWAM JIMIF for 31 gold pieces
+  6225 | D:6      | Found a runed translucent door.
+  6228 | D:6      | Noticed DeadEndRoad's ghost (amateur GnWn)
+  6254 | D:6      | Reached XP level 8. HP: 61/63 MP: 12/12
+  6255 | D:6      | skipping Ensorcelled Hibernation
+  6301 | D:6      | caution pays
+  6630 | D:6      | Noticed a gargoyle
+  6751 | D:6      | Reached skill level 5 in Invocations
+  6753 | D:6      | Reached * piety under Cheibriados
+  6755 | D:6      | now I can start upgrading armor and doding
+  6809 | D:6      | Reached skill level 7 in Poison Magic
+  7059 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  7140 | D:5      | 15 10%
+  7150 | D:5      | 16 12%
+  7160 | D:5      | 16 21%
+  7170 | D:5      | evo is supplying my missing MR checks
+  7398 | D:6      | Reached skill level 5 in Stealth
+  7460 | D:6      | Killed a gargoyle
+  7460 | D:6      | Reached XP level 9. HP: 39/69 MP: 13/13
+  7628 | D:6      | which weapon is best?
+  7668 | D:6      | Learned a level 3 spell: Dazzling Spray
+  7717 | D:7      | I should train laja for rF+ foes
+  8026 | D:7      | Reached skill level 1 in Staves
+  8182 | D:7      | Noticed Dowan
+  8189 | D:7      | Noticed Duvessa
+  8202 | D:7      | Killed Dowan
+  8254 | D:7      | Killed Duvessa
+  8599 | D:7      | Reached ** piety under Cheibriados
+  8643 | D:6      | Bought a long fluorescent wand for 124 gold pieces
+  9252 | D:7      | Found a shadowy altar of Dithmenos.
+  9498 | D:7      | Reached skill level 1 in Long Blades
+  9499 | D:7      | that wasn't worthwile
+  9855 | D:7      | Found a white marble altar of Elyvilon.
+  9856 | D:7      | Found a shattered altar of Ashenzari.
+  9912 | D:8      | Reached XP level 10. HP: 69/79 MP: 16/16
+  9913 | D:8      | Reached skill level 8 in Poison Magic
+  9925 | D:8      | mass destruction
+ 10002 | D:7      | Learned a level 3 spell: Confuse
+ 10023 | D:8      | Reached *** piety under Cheibriados
+ 10089 | D:8      | Noticed Erica
+ 10100 | D:8      | Killed Erica
+ 10100 | D:8      | Reached skill level 5 in Evocations
+ 10231 | D:8      | Reached skill level 9 in Poison Magic
+ 10362 | D:8      | bloodbath
+ 10388 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+ 10520 | D:8      | best dressed orc
+ 10669 | D:8      | Reached skill level 1 in Shields
+ 11108 | D:7      | Identified a scroll of acquirement
+ 11109 | D:7      | picked armor hoping for barding.  don't have all slots
+                  | filled yet
+ 11110 | D:7      | success!
+ 11115 | D:7      | chuckle ok
+ 11115 | D:7      | i'm like a chinese dragon now I suppose
+ 11144 | D:9      | Found a blossoming altar of Fedhas.
+ 11185 | D:9      | Reached **** piety under Cheibriados
+ 11690 | D:9      | Found a stormy altar of Qazlal.
+ 12210 | D:10     | Entered Level 10 of the Dungeon
+ 12222 | D:10     | Reached skill level 1 in Armour
+ 12596 | D:10     | Noticed a two-headed ogre
+ 12630 | D:10     | Found a staircase to the Orcish Mines.
+ 12695 | D:10     | crimson imps: still relevant on D10 for blocking corridors!
+ 12716 | D:10     | Reached ***** piety under Cheibriados
+ 12908 | D:10     | Found a roughly hewn altar of Beogh.
+ 12983 | D:10     | Reached skill level 5 in Spellcasting
+ 12983 | D:10     | Reached XP level 11. HP: 89/89 MP: 19/19
+ 12988 | D:10     | Learned a level 3 spell: Tukima's Dance
+ 12988 | D:10     | hexes go well with huge Chei int and extra MP
+ 12988 | D:10     | tukima's dance reduces incoming damage, important for Na
+ 13080 | D:10     | Killed a two-headed ogre
+ 13748 | D:10     | strong enough to take an early peek into orc
+ 13776 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 13885 | D:10     | whoah, clear entrance on first try?
+ 14061 | Orc:1    | Found a roughly hewn altar of Beogh.
+ 14260 | D:10     | 10% 17+9=26
+ 14270 | D:10     | 16% 17+8=23
+ 14450 | D:9      | more teleport is always good for Na, especially with regen
+ 14564 | D:4      | Bought a scroll of teleportation for 84 gold pieces
+ 14564 | D:4      | Bought a scroll of enchant weapon for 210 gold pieces
+ 14564 | D:4      | Bought a garnet ring for 140 gold pieces
+ 14570 | D:4      | accuracy on the elec whip will help vs high ev foes
+ 14977 | Orc:1    | nearly ready for Lair.  need body armor and XL13
+ 14977 | Orc:1    | still somewhat weak vs death yaks
+ 15094 | D:11     | Noticed a two-headed ogre
+ 15100 | D:11     | nah too many.  I nerfed the ogre, good enough
+ 15282 | D:11     | Noticed a five-headed hydra
+ 15283 | D:11     | hello hydra
+ 15296 | D:11     | Killed a one-headed hydra
+ 15296 | D:11     | Reached skill level 5 in Hexes
+ 15602 | D:11     | Killed a two-headed ogre
+ 15608 | D:11     | Reached skill level 5 in Fighting
+ 15658 | D:11     | observe how noisy triple visitation disrupts pack cohesion,
+                  | permitting defeat in detail!
+ 15914 | D:11     | Noticed a purple ugly thing
+ 15952 | D:11     | ugly things are scary
+ 16044 | D:6      | Bought a scroll of teleportation for 93 gold pieces
+ 16044 | D:6      | Bought a scroll of teleportation for 93 gold pieces
+ 16112 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 16120 | Orc:2    | Noticed an orc sorcerer
+ 16129 | Orc:2    | Killed an orc sorcerer
+ 16173 | Orc:2    | Noticed an orc sorcerer
+ 16180 | Orc:2    | Killed an orc sorcerer
+ 16825 | Orc:2    | Reached ****** piety under Cheibriados
+ 17094 | Orc:2    | Noticed an orc high priest
+ 17104 | Orc:2    | Reached skill level 1 in Throwing
+ 17121 | Orc:2    | Killed an orc high priest
+ 17121 | Orc:2    | Reached XP level 12. HP: 98/102 MP: 6/20
+ 17297 | Orc:2    | Found a staircase to the Elven Halls.
+ 17909 | Orc:2    | Reached skill level 1 in Axes
+ 18012 | Orc:2    | Noticed a soul eater
+ 18025 | Orc:2    | Killed a soul eater
+ 18459 | Orc:2    | Found Rasececs's General Store.
+ 18599 | Orc:2    | 6% 17+10=27
+ 18609 | Orc:2    | 14% 21+8=29
+ 18817 | Orc:2    | tukima's dance is great because it has higher MR
+                  | penetration than Confuse
+ 18821 | Orc:2    | now it can't hop away while i try to elec whip it
+ 18821 | Orc:2    | saves me iceblast
+ 18970 | Orc:2    | Noticed an orc high priest
+ 18972 | Orc:2    | oops
+ 18975 | Orc:2    | Noticed a soul eater
+ 18979 | Orc:2    | Killed an orc high priest
+ 18985 | Orc:2    | well that was expensive
+ 19050 | Orc:1    | when it starts to cost, go elsewhere
+ 19881 | D:11     | Found a burning altar of Makhleb.
+ 20131 | D:11     | Found a staircase to the Lair.
+ 20177 | D:11     | Reached skill level 10 in Poison Magic
+ 20311 | D:11     | still dont' have a great answer to death yaks
+ 20311 | D:11     | even those orc high priests are safer.
+ 20311 | D:11     | well acid works, but it's expensive
+ 20311 | D:11     | probably worth breaching lair at least, to test the cost
+ 20609 | D:6      | Bought a potion of lignification for 93 gold pieces
+ 20609 | D:6      | Bought a scroll of magic mapping for 108 gold pieces
+ 20609 | D:6      | Bought a scroll of enchant weapon for 232 gold pieces
+ 20609 | D:6      | touch choice what to enchant
+ 20611 | D:6      | definitely the axe, then
+ 20612 | D:6      | that mostly solves Lair right there
+ 20725 | D:11     | accidentally wizmode ID'd my inventory, but i think it all
+                  | already was anyway
+ 20725 | D:11     | hit y instead of ctrl-y
+ 20725 | D:11     | hurrying
+ 20726 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 20821 | Lair:1   | oops forgot the gauntlet
+ 20828 | Lair:1   | Found a gate leading to a gauntlet.
+ 20842 | Gauntlet | Entered a Gauntlet
+ 20842 | Gauntlet | Found a transporter.
+ 20852 | Gauntlet | Found a transporter.
+ 20867 | Gauntlet | Found a transporter.
+ 20872 | Gauntlet | Found a transporter.
+ 20887 | Gauntlet | Found a transporter.
+ 20903 | Gauntlet | Noticed a balrug
+ 20906 | Gauntlet | Found a transporter.
+ 20918 | Gauntlet | Found a transporter.
+ 20920 | Gauntlet | Noticed a blizzard demon
+ 20930 | Gauntlet | Found a transporter.
+ 20930 | Gauntlet | Noticed an entropy weaver
+ 20941 | Gauntlet | Noticed a great orb of eyes
+ 20942 | Gauntlet | Found a transporter.
+ 20954 | Gauntlet | Found a transporter.
+ 20960 | Gauntlet | Found a transporter.
+ 20960 | Gauntlet | Found a transporter.
+ 21001 | Gauntlet | Found a transporter.
+ 21027 | Gauntlet | Found a transporter.
+ 21027 | Gauntlet | Found a transporter.
+ 21047 | Gauntlet | Found a transporter.
+ 21125 | Gauntlet | Found a transporter.
+ 21145 | Gauntlet | Found a transporter.
+ 21301 | Gauntlet | ok, I assume the first room is obligatory, then it's a
+                  | choice
+ 21304 | Gauntlet | how do I know it's brand weapon?  is that from rush of
+                  | knowledge?
+ 21304 | Gauntlet | yep.  oops.
+ 21304 | Gauntlet | spider one is easy
+ 21304 | Gauntlet | if I want to risk the shining eye
+ 21316 | Gauntlet | i'll try step from time here to try putting the foes back
+                  | to sleep
+ 21331 | Gauntlet | not good
+ 21467 | Gauntlet | more stealth for the eyeballs
+ 21547 | Gauntlet | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [a shining eye]
+ 21551 | Gauntlet | Gained mutation: You are occasionally teleported next to
+                  | monsters. [a shining eye]
+ 21569 | Gauntlet | Lost mutation: You are occasionally teleported next to
+                  | monsters. [potion of mutation]
+ 21569 | Gauntlet | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [potion of mutation]
+ 21569 | Gauntlet | Gained mutation: You have sharp fingernails. [potion of
+                  | mutation]
+ 21569 | Gauntlet | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+ 21569 | Gauntlet | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+ 21583 | Gauntlet | nice!
+ 21704 | Gauntlet | i should just wreck the spiders with slouch and OTR
+ 21748 | Gauntlet | Killed an entropy weaver
+ 21748 | Gauntlet | Gained mutation: You can use your snake-like lower body to
+                  | constrict enemies. [Naga growth]
+ 21748 | Gauntlet | Reached XP level 13. HP: 72/111 MP: 2/21
+ 21761 | Gauntlet | Got a shimmering hat
+ 21762 | Gauntlet | Identified the -1 hat of the Dwarven Hall {rElec MR+ Int+4}
+                  | (You found it in a Gauntlet)
+ 21886 | Gauntlet | fight was harder than it needed to be cuz I forgot mephitic
+                  | at first
+ 21896 | Gauntlet | should I get ensorc hib?
+ 21906 | Gauntlet | nah
+ 21948 | Gauntlet | also forgot my invis
+ 21948 | Gauntlet | Identified the +4 glaive of Kismet {holy, MP+9}
+ 21948 | Gauntlet | Noticed a minotaur
+ 21968 | Gauntlet | Killed a minotaur
+ 21979 | Gauntlet | what to acquire?
+ 21979 | Gauntlet | don't have much jewelry.  book of callings is mildly
+                  | tempting.  too expensive.  school's a poor fit, spire
+                  | excepted
+ 21980 | Gauntlet | Got a scintillating zirconium amulet
+ 22104 | D:11     | i'm done with this character anyway, may as well ID his
+                  | stuff
+ 22104 | D:11     | Identified the amulet "Qut Otit" {Regen+ Dex+3 SInv} (You
+                  | acquired it in a Gauntlet)
+ 22104 | D:11     | mild upgrade amulet
+ 22128 | D:11     | almost ready for chainmail.  could wear it.
+ 22128 | D:11     | anyway, that's enough NaVM demo.  Character's well
+                  | established, and the rush of knowledge is affecting the
+                  | game.  Thanks for watching!
+ 22128 | D:11     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Fighting       |     1                    2  3  5  6    |  6.0
+Short Blades   |        1                               |  1.1
+Slings         |        1     2        3  4             |  4.9
+Air Magic      |        1                 2        3    |  3.0
+Evocations     |           1     2     3  4  5  6       |  6.0
+Polearms       |           1                            |  1.0
+Hexes          |              1           2  3  5  6    |  6.0
+Poison Magic   |              5  6     7     9    10    | 10.0
+Spellcasting   |                 3        4  5          |  5.5
+Conjurations   |                 2        3           4 |  4.9
+Invocations    |                    4  5     6  7  8    |  8.2
+Stealth        |                    4  8           9    |  9.0
+Dodging        |                       2  3  4          |  4.0
+Staves         |                          1             |  1.5
+Long Blades    |                          1  2          |  2.1
+Shields        |                             3  4       |  4.0
+Armour         |                             1     4    |  4.0
+Maces & Flails |                                3       |  3.8
+Throwing       |                                1  2    |  2.3
+Axes           |                                   4    |  4.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Whip              |     2 |       |       | 12067 |       || 12069
+       Dagger            |     1 |       |  4000 |     1 |       ||  4002
+       Mace              |       |       |  4000 |       |       ||  4000
+       Lajatang          |       |       |  4000 |       |       ||  4000
+       Scimitar          |       |       |       |     5 |       ||     5
+       Trident           |       |       |       |     1 |       ||     1
+       War axe           |       |       |       |  4024 |       ||  4024
+       Falchion          |       |       |       |    14 |       ||    14
+       Hand axe          |       |       |       |     1 |       ||     1
+ Fire: Hunting sling     |    16 |    40 |   215 |   471 |       ||   742
+Throw: Stone             |     2 |       |       |       |       ||     2
+ Cast: Sting             |    17 |    12 |    20 |    56 |     1 ||   106
+       Poisonous Vapours |     1 |     5 |     7 |    12 |       ||    25
+       Mephitic Cloud    |     1 |     3 |    14 |    91 |     3 ||   112
+       Corona            |       |     1 |    17 |    66 |       ||    84
+       Olgreb's Toxic Ra |       |       |     6 |    45 |     1 ||    52
+       Dazzling Spray    |       |       |     4 |    14 |       ||    18
+       Confuse           |       |       |       |    53 |       ||    53
+       Tukima's Dance    |       |       |       |    26 |       ||    26
+Invok: Bend Time         |       |       |     2 |     5 |       ||     7
+       Step From Time    |       |       |       |     1 |       ||     1
+       Slouch            |       |       |       |       |     1 ||     1
+ Abil: Spit Poison       |    26 |    27 |    25 |    97 |     2 ||   177
+       Evoke Invisibilit |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     4 |     6 |     3 ||    13
+  Use: Scroll            |       |    10 |     1 |    19 |     2 ||    32
+       Potion            |       |     3 |     1 |     5 |       ||     9
+ Stab: Distracted        |       |       |       |     1 |       ||     1
+       Invisible         |       |       |       |    13 |       ||    13
+       Confused          |       |       |       |     6 |       ||     6
+       Sleeping          |       |       |       |     1 |       ||     1
+  Eat: Chunk             |     4 |    10 |    11 |    32 |     1 ||    58
+       Ration            |       |     1 |       |     1 |       ||     2
+Armor: Robe              |     7 |     2 |    12 |  6308 |       ||  6329
+       Leather armour    |       |       |  2138 |       |       ||  2138
+       Skin              |       |       |     3 |     4 |       ||     7
+       Scale mail        |       |       |       |  1901 |       ||  1901
+       Acid dragon scale |       |       |       |     7 |       ||     7
+Dodge: Dodged            |    12 |     7 |  6663 |  5154 |       || 11836
+Block: Shield            |       |       |       |  9228 |     1 ||  9229
+Rpst.: Falchion          |       |       |       |     1 |       ||     1
+

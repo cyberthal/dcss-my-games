@@ -1,0 +1,524 @@
+Alosk
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a cursed -1 short sword
+(1, 0, D:1)
+  a +0 short sword
+(1, 7, D:1)
+  a +0 club
+(2, 6, D:1)
+  a +0 dagger
+(2, 12, D:1)
+  a +0 club
+(2, 14, D:1)
+  a +0 club
+(6, 2, D:1)
+  a +0 club
+(6, 5, D:1)
+  a +0 whip
+(11, -25, D:1)
+  a +0 club
+(12, -24, D:1)
+  a +0 chain mail
+(14, 18, D:1)
+  a +0 club
+  a +0 dagger
+(25, -22, D:1)
+  a +0 club
+(26, -17, D:1)
+  a +0 dagger
+(31, -7, D:1)
+  a cursed -2 club
+(43, -16, D:1)
+  a +0 hand axe
+(47, -16, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 hand axe
+(7, 23, D:2)
+  a +0 mace
+(8, -7, D:2)
+  a +0 dagger
+(9, 25, D:2)
+  a +0 hand axe
+(15, 0, D:2)
+  a +0 club
+  a +0 robe
+(16, 20, D:2)
+  a +0 dagger
+(48, -1, D:2)
+  a +0 mace
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 ring mail
+(7, -9, D:3)
+  a +0 club
+(27, -21, D:3)
+  an uncursed ring of poison resistance
+(34, 6, D:3)
+  a cursed -3 club
+(38, -29, D:3)
+  a stone
+(42, -9, D:3)
+  a +0 club
+(51, 4, D:3)
+  a +0 robe
+(53, -11, D:3)
+  a +0 leather armour
+  a +0 whip
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 cloak
+(2, -3, D:4)
+  a +0 giant club
+(17, -28, D:4)
+  a +0 leather armour
+(22, -34, D:4)
+  a +0 falchion
+(29, -28, D:4)
+  a +0 ring mail
+(30, -19, D:4)
+  a cursed -3 giant spiked club
+(34, -33, D:4)
+  a +0 leather armour
+  a +0 rapier
+(36, -29, D:4)
+  a +0 whip
+(38, -3, D:4)
+  a +0 flail
+(41, -1, D:4)
+  a +0 short sword
+(43, 3, D:4)
+  a +0 giant spiked club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 flail
+(0, 1, D:5)
+  a +0 falchion
+(1, 9, D:5)
+  a +0 whip
+  (unseen)
+(3, 2, D:5)
+  a +0 mace
+(5, 6, D:5)
+  a +0 ring mail
+(6, 9, D:5)
+  a +0 robe
+  a +0 dagger
+(7, -11, D:5)
+  a +0 quarterstaff
+(8, 14, D:5)
+  a cursed +0 pair of gloves
+(12, 6, D:5)
+  a +0 robe
+(18, 10, D:5)
+  a +0 short sword
+(20, 18, D:5)
+  a +0 short sword
+(23, -1, D:5)
+  a +0 halberd
+(23, 12, D:5)
+  a +0 halberd
+(23, 19, D:5)
+  a +0 dagger
+(24, -2, D:5)
+  a +0 leather armour
+(25, 7, D:5)
+  a +0 dagger
+(26, -2, D:5)
+  a +0 club
+(27, 7, D:5)
+  a +0 whip
+(30, -9, D:5)
+  a +0 scale mail
+(31, -1, D:5)
+  a +0 dagger
+  a +0 chain mail
+(34, -3, D:5)
+  a +0 spear
+(34, 9, D:5)
+  a +0 spear
+(34, 12, D:5)
+  a +0 rapier
+(36, 3, D:5)
+  a +0 leather armour
+(36, 4, D:5)
+  a +0 chain mail
+(37, 0, D:5)
+  a +0 leather armour
+(55, 6, D:5)
+  a +0 ring mail
+
+Level 6 of the Dungeon
+(6, 8, D:6)
+  a +0 dagger
+(7, 7, D:6)
+  a +0 chain mail
+  a +0 mace
+(16, -12, D:6)
+  a +0 shortbow
+(25, -14, D:6)
+  a +0 scale mail
+(30, -14, D:6)
+  a +0 short sword
+  a +0 plate armour
+(31, -15, D:6)
+  a +0 falchion
+(35, -15, D:6)
+  a +0 robe
+  a +0 dagger
+  a +0 dagger
+(35, 21, D:6)
+  a +0 trident
+  a +0 spear
+(36, 20, D:6)
+  a +0 scythe
+  a +0 robe
+(37, -13, D:6)
+  a +0 robe
+  a +0 dagger
+(38, -13, D:6)
+  a +0 chain mail
+(38, -12, D:6)
+  a cursed +0 leather armour
+  a +0 club
+(38, 19, D:6)
+  a +0 blowgun
+(47, 8, D:6)
+  a +0 falchion
+  a +0 hand axe
+
+Level 7 of the Dungeon
+[Shop] Peacimes's Assorted Antiques
+  a +0 dagger (46 gold)
+(0, 0, D:7)
+  a +0 ring mail
+(3, -25, D:7)
+  a +0 war axe
+(4, -26, D:7)
+  a +0 club
+(4, -4, D:7)
+  a +0 dagger
+(9, -33, D:7)
+  a +0 trident
+(16, -13, D:7)
+  a +0 hand axe
+(22, -8, D:7)
+  a +0 mace
+  a +0 scale mail
+(36, -8, D:7)
+  a +0 short sword
+(38, 1, D:7)
+  a +0 cloak
+(42, 22, D:7)
+  a +0 hand axe
+(45, -24, D:7)
+  a +0 leather armour
+  a +0 whip
+(45, -23, D:7)
+  a +0 mace
+(45, -5, D:7)
+  a +3 plate armour
+  a +0 leather armour
+(45, -4, D:7)
+  the +0 robe "Dutea" {Dex+6 SInv Stlth-}
+    It affects your dexterity (+6).
+    It lets you see invisible.
+    It makes you less stealthy.
+(46, -5, D:7)
+  50 sling bullets
+  74 bolts
+  a +3 vampiric dagger
+(46, 10, D:7)
+  a wand of random effects (3)
+(47, -19, D:7)
+  a +0 club
+(47, -6, D:7)
+  a cursed +0 quarterstaff
+(47, -5, D:7)
+  a +2 quarterstaff of chaos
+(47, 10, D:7)
+  a book of Necromancy
+(48, -5, D:7)
+  an uncursed amulet of harm
+(59, -24, D:7)
+  a +0 ring mail
+(60, -23, D:7)
+  a +0 hand axe
+  a +0 leather armour
+(60, -22, D:7)
+  a cursed -3 war axe
+  a +0 leather armour
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a ration
+(1, 2, D:8)
+  20 arrows
+(3, 1, D:8)
+  a ration
+(13, -17, D:8)
+  a +0 dagger
+  a +0 robe
+(13, 23, D:8)
+  a +0 ring mail
+(21, 18, D:8)
+  a +0 dagger
+(29, 4, D:8)
+  a +0 short sword
+  a +0 giant club
+(44, 23, D:8)
+  a +0 leather armour
+(52, 34, D:8)
+  a +0 giant spiked club
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 spear
+(6, 4, D:9)
+  a +0 leather armour
+(15, 7, D:9)
+  a +0 shortbow
+(19, 32, D:9)
+  a +0 shortbow
+(27, -11, D:9)
+  a +0 leather armour
+(41, 36, D:9)
+  a +0 helmet
+(45, 25, D:9)
+  a +0 giant club
+  (unseen)
+(46, 26, D:9)
+  a +0 robe
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 ring mail
+(8, 1, D:10)
+  a +0 hand axe
+  (unseen)
+(11, 28, D:10)
+  a ration
+(12, 28, D:10)
+  a ration
+(14, 26, D:10)
+  a ration
+(16, -14, D:10)
+  a +0 dagger
+  (unseen)
+(17, -19, D:10)
+  a +0 dagger
+(23, 2, D:10)
+  a +0 dagger
+  a +0 robe
+(33, 21, D:10)
+  a +0 shortbow
+(42, 36, D:10)
+  a +0 robe
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 chain mail
+(5, -22, D:11)
+  a +0 dagger
+  a +0 scale mail
+(6, -3, D:11)
+  a +0 quarterstaff of crushing
+(7, -4, D:11)
+  a +0 chain mail
+  a +0 long sword
+  a +0 plate armour
+  a +0 short sword
+(7, -2, D:11)
+  a potion of degeneration
+(8, -3, D:11)
+  a +0 plate armour
+(8, -2, D:11)
+  a +0 chain mail
+  a +0 scimitar
+(9, -1, D:11)
+  a +0 leather armour
+  a +0 club
+(13, 16, D:11)
+  3 large rocks
+(14, 16, D:11)
+  a large rock
+(17, -30, D:11)
+  a +0 dagger
+(20, 13, D:11)
+  a +0 giant club
+(29, -26, D:11)
+  a +0 chain mail
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a +1 pair of boots
+(0, 19, D:12)
+  23 bolts
+(0, 20, D:12)
+  a wand of random effects (21)
+  a +0 robe of fire resistance
+  a scroll of amnesia
+  an uncursed amulet of guardian spirit
+  an uncursed amulet of faith
+(1, 21, D:12)
+  a +0 long sword of slicing
+(2, 7, D:12)
+  a +0 short sword
+  (unseen)
+(2, 8, D:12)
+  a +0 troll leather armour
+(2, 21, D:12)
+  a +0 blowgun
+  a +0 blowgun
+(3, 21, D:12)
+  a +0 blowgun
+(4, 20, D:12)
+  a +0 blowgun
+(4, 21, D:12)
+  a +0 blowgun
+(4, 22, D:12)
+  a +0 blowgun
+(10, 34, D:12)
+  a +0 ring mail
+(19, 16, D:12)
+  a large rock
+(20, 16, D:12)
+  3 large rocks
+(21, -4, D:12)
+  a +0 falchion
+(22, 2, D:12)
+  a +0 troll leather armour
+(35, 36, D:12)
+  a +0 shortbow
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a cursed +0 club
+(3, 6, Orc:1)
+  a +0 giant club
+  a +0 robe
+  a +0 dagger
+(4, 5, Orc:1)
+  a +0 hand axe
+(5, -14, Orc:1)
+  a +0 hand axe
+  a +0 ring mail
+  a +0 dagger
+(5, 4, Orc:1)
+  a +0 plate armour
+  a +0 hand axe
+(5, 6, Orc:1)
+  a +0 scale mail
+  a +0 club
+(5, 7, Orc:1)
+  +0 steam dragon scales
+  a +0 chain mail
+  a +0 trident
+  a +0 dire flail
+(5, 9, Orc:1)
+  a +0 scale mail
+  a +0 whip
+(5, 12, Orc:1)
+  a +0 flail
+(6, -14, Orc:1)
+  a +0 flail
+(6, -11, Orc:1)
+  a +0 robe
+  a +0 dagger
+(6, -10, Orc:1)
+  a +0 robe
+  a +0 dagger
+(6, -8, Orc:1)
+  a +0 hand axe
+(6, 7, Orc:1)
+  a +0 dagger
+  a +0 ring mail
+  a +0 trident
+(7, -14, Orc:1)
+  a +0 short sword
+(7, -11, Orc:1)
+  a +0 robe
+  a +0 dagger
+(7, 2, Orc:1)
+  a +0 hand axe
+(7, 3, Orc:1)
+  a +0 ring mail
+  a +1 flail of venom
+(7, 6, Orc:1)
+  a +0 plate armour
+  a +0 battleaxe
+(7, 8, Orc:1)
+  a +0 scale mail
+  a +0 flail
+  a +0 plate armour
+  a +0 glaive
+(7, 9, Orc:1)
+  a +0 robe
+  a +0 dagger
+(8, -17, Orc:1)
+  a +0 flail
+(8, -14, Orc:1)
+  a +0 leather armour
+  a +0 hand axe
+(9, -16, Orc:1)
+  a +0 chain mail
+  a +0 halberd
+(9, 9, Orc:1)
+  a +0 robe
+  a +0 dagger
+  a +0 leather armour
+(9, 10, Orc:1)
+  a +0 robe
+  a cursed +0 dagger
+  a cursed +0 club
+(9, 12, Orc:1)
+  a +0 dagger
+(10, -13, Orc:1)
+  a +0 chain mail
+  a +0 flail
+  a +0 giant spiked club
+(10, -10, Orc:1)
+  a +0 robe
+(10, -8, Orc:1)
+  a +0 robe
+  a +0 dagger
+(10, 12, Orc:1)
+  a +0 leather armour
+  a +0 hand axe
+(10, 13, Orc:1)
+  a +0 ring mail
+  a +0 dagger
+(11, -14, Orc:1)
+  a +0 plate armour
+  a +1 long sword of slicing
+(11, -11, Orc:1)
+  a +0 leather armour
+(11, 9, Orc:1)
+  a +0 dagger
+(11, 11, Orc:1)
+  a +0 leather armour
+  a +0 hand axe
+(11, 12, Orc:1)
+  a +0 dagger
+  a +0 dagger
+(12, 11, Orc:1)
+  a +0 leather armour
+  a +0 dagger
+(12, 13, Orc:1)
+  a +0 flail
+(13, 12, Orc:1)
+  a +0 scale mail
+  a +0 mace
+(18, -10, Orc:1)
+  a +0 leather armour
+  a +0 hand axe
+
