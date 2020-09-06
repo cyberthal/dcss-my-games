@@ -1,0 +1,492 @@
+Geovyiss
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a cursed -3 short sword
+(12, -4, D:1)
+  4 large rocks
+(30, -6, D:1)
+  a +0 short sword
+(30, 11, D:1)
+  a +0 leather armour
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(4, -9, D:2)
+  a +0 club
+(8, -25, D:2)
+  a +0 robe
+(8, -19, D:2)
+  a cursed -1 mace
+(9, -27, D:2)
+  a +0 dagger
+(30, -11, D:2)
+  a +0 robe
+(51, -14, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(1, -2, D:3)
+  a +0 leather armour
+(10, 23, D:3)
+  a cursed -1 club
+(12, 4, D:3)
+  a +0 club
+(18, 27, D:3)
+  a +0 short sword
+(20, -5, D:3)
+  a +0 club
+(35, 24, D:3)
+  a +0 club
+(37, 6, D:3)
+  a +0 club
+(49, 5, D:3)
+  a +0 mace
+(51, 5, D:3)
+  a +0 hand axe
+  a +0 leather armour
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+  a +0 leather armour
+  a +0 leather armour
+
+Level 4 of the Dungeon
+[Shop] Tyckat's Assorted Antiques
+  a lamp of fire (1120 gold)
+  the +3 war axe of the Ten Allies {vamp, +Inv rElec Int+4 Dex+2} (1654 gold)
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your intelligence (+4).
+    It affects your dexterity (+2).
+    It insulates you from electricity.
+    It lets you turn invisible.
+  a +0 dagger (56 gold)
+  a +0 leather armour (56 gold)
+  a +0 quarterstaff (112 gold)
+  a +0 robe (19 gold)
+  a +0 robe (19 gold)
+[Shop] Dirunn's Weapon Emporium
+  a +0 dagger (20 gold)
+  a +0 scimitar (40 gold)
+  the +9 war axe "Zit Peno" {venom, *Contam rElec Str+4 Dex+8} (828 gold)
+    It poisons the flesh of those it strikes.
+    
+    It affects your strength (+4).
+    It affects your dexterity (+8).
+    It insulates you from electricity.
+    It causes magical contamination when unequipped.
+  the +4 falchion of Lurea {freeze, rPois MR++ Str+4 Dex-5} (429 gold)
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your strength (+4).
+    It affects your dexterity (-5).
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  a +0 rapier (40 gold)
+  a +0 quarterstaff of protection (68 gold)
+  17 stones (17 gold)
+  11 sling bullets (55 gold)
+  a +0 trident (35 gold)
+  a +3 broad axe of electrocution (270 gold)
+[Shop] Nietta's Book Shoppe
+  a book of Party Tricks (600 gold)
+  the Grimoire of Stones and the Voyage (608 gold)
+    Spells                           Type                      Level
+     a - Sandblast                    Earth                         1
+     b - Blink                        Translocation                 2
+     c - Passwall                     Transmutation/Earth           2
+     d - Portal Projectile            Hexes/Translocation           3
+     e - Leda's Liquefaction          Hexes/Earth                   4
+     f - Passage of Golubria          Translocation                 4
+     g - Petrify                      Transmutation/Earth           4
+  a book of the Earth (780 gold)
+  a book of Spatial Translocations (780 gold)
+  a book of Necromancy (360 gold)
+  a book of Flames (420 gold)
+  a book of Fire (780 gold)
+  a book of Frost (420 gold)
+(0, 0, D:4)
+  a +0 ring mail
+(4, 35, D:4)
+  a +0 leather armour
+  a +0 hand axe
+(7, 8, D:4)
+  a +0 mace
+(9, 4, D:4)
+  a +0 club
+(14, 11, D:4)
+  a +0 quarterstaff
+(30, 10, D:4)
+  a +0 hand axe
+  a +0 leather armour
+(37, 20, D:4)
+  a +0 falchion
+(37, 21, D:4)
+  a +0 leather armour
+(37, 22, D:4)
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+(45, 12, D:4)
+  a cursed +0 robe
+(46, 7, D:4)
+  a +0 robe
+
+Level 5 of the Dungeon
+[Shop] Hoeperas's Food Emporium
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+  a ration (60 gold)
+(5, -5, D:5)
+  a +0 shortbow
+(6, -5, D:5)
+  a +0 halberd
+(8, 3, D:5)
+  a +0 club
+  a +0 robe
+(18, -2, D:5)
+  a potion of degeneration
+(24, 10, D:5)
+  a +0 shortbow
+(27, -3, D:5)
+  a +0 robe
+  a +0 dagger
+(28, 26, D:5)
+  a +0 short sword
+(42, 21, D:5)
+  a +0 shortbow
+(45, 23, D:5)
+  a +0 rapier
+(50, -3, D:5)
+  a +0 flail
+(58, -14, D:5)
+  a +0 mace
+
+Level 6 of the Dungeon
+(0, 4, D:6)
+  a +0 ring mail
+  a +0 hand axe
+  a +0 short sword
+(4, -5, D:6)
+  a +0 shortbow
+(9, -10, D:6)
+  a +0 falchion
+(9, -9, D:6)
+  a +0 halberd
+  a +0 plate armour
+(23, 29, D:6)
+  a +0 dagger
+(36, 34, D:6)
+  a +0 rapier
+  a +0 flail
+(51, 13, D:6)
+  a +0 chain mail
+(51, 20, D:6)
+  a potion of degeneration
+(52, 13, D:6)
+  a +0 ring mail
+(57, 10, D:6)
+  an uncursed amulet of rage
+
+Level 7 of the Dungeon
+[Shop] Muplur's Assorted Antiques
+  a +0 chain mail (162 gold)
+  a scroll of remove curse (108 gold)
+  the +7 sceptre of Torment {pain, torment} (4320 gold)
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+  a +0 robe (25 gold)
+  a +0 robe (25 gold)
+(9, 7, D:7)
+  a +0 dagger
+  a +0 robe
+(14, 4, D:7)
+  a cursed -3 club
+(16, 4, D:7)
+  a +0 leather armour
+  a +0 mace
+(18, 27, D:7)
+  a scroll of amnesia
+(29, 23, D:7)
+  a sack of spiders
+(29, 24, D:7)
+  a +1 glaive of freezing
+(29, 32, D:7)
+  5 gold pieces
+(30, 24, D:7)
+  11 gold pieces
+(30, 25, D:7)
+  a book of the Earth
+(30, 32, D:7)
+  19 sling bullets
+(31, 6, D:7)
+  a cursed +0 chain mail
+  a +0 flail
+(32, 30, D:7)
+  a +0 animal skin
+  a cursed +0 animal skin
+(34, 8, D:7)
+  a +0 quarterstaff
+(35, 41, D:7)
+  a cursed +0 robe
+(35, 42, D:7)
+  a +0 dagger
+  a +0 robe
+(37, 29, D:7)
+  a cursed +0 ring mail
+  a +0 trident
+(40, 31, D:7)
+  a +0 long sword
+  a +0 dagger
+  a +0 animal skin
+  a +0 leather armour
+(41, 1, D:7)
+  a +0 leather armour
+  a +0 dagger
+  a cursed +0 great sword
+  a +0 robe
+(45, 1, D:7)
+  a +0 falchion
+  a +0 robe
+(46, 1, D:7)
+  a +0 flail
+(47, 26, D:7)
+  a +0 scale mail
+  a +0 ring mail
+  a potion of mutation
+  a +0 spear
+(59, 14, D:7)
+  a +0 whip
+(61, 19, D:7)
+  a +0 shortbow
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 whip
+(16, 9, D:8)
+  a +0 giant spiked club
+  a +0 whip of freezing
+(18, -22, D:8)
+  a +0 halberd
+  a +0 spear
+(27, 11, D:8)
+  a +0 dagger
+(28, 9, D:8)
+  a cursed +0 leather armour
+(28, 10, D:8)
+  a +0 robe
+(31, 6, D:8)
+  a +0 scale mail
+(31, 25, D:8)
+  a +0 long sword
+  a +0 plate armour
+(34, 28, D:8)
+  a +0 mace
+  a +0 ring mail
+(35, 11, D:8)
+  a +2 robe of positive energy
+  a +0 dagger
+(51, -10, D:8)
+  a +0 robe
+(52, 21, D:8)
+  a +0 whip
+  a +0 leather armour
+  a cursed -1 whip
+(53, -24, D:8)
+  a +0 flail
+(53, 21, D:8)
+  a +0 shortbow
+(54, -25, D:8)
+  a +0 dagger
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  15 gold pieces
+(3, 6, D:9)
+  2 potions of agility
+(4, -4, D:9)
+  a scroll of acquirement
+(5, -4, D:9)
+  the +5 short sword "Ovif Sigh" {protect, Str+4}
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your strength (+4).
+(6, -4, D:9)
+  a +0 leather armour
+(6, -2, D:9)
+  a +1 falchion of draining
+(9, 1, D:9)
+  a +0 dagger
+(12, -8, D:9)
+  a +0 leather armour
+  a +0 falchion
+(12, 0, D:9)
+  a +0 ring mail
+  a +0 hand axe
+(12, 1, D:9)
+  a +0 plate armour
+  a +0 trident
+(20, -24, D:9)
+  a +0 shortbow
+(21, -15, D:9)
+  a potion of berserk rage
+(21, -14, D:9)
+  a +0 ring mail
+(21, -1, D:9)
+  a +0 long sword
+(31, -23, D:9)
+  a +0 cloak
+(31, -22, D:9)
+  a +0 helmet
+(32, -26, D:9)
+  a +0 giant club
+(32, -24, D:9)
+  a +0 whip of venom
+  a +1 flail of holy wrath
+(32, -22, D:9)
+  a +0 hand crossbow
+(33, -23, D:9)
+  242 arrows
+  a +2 dire flail of protection
+(34, -23, D:9)
+  a scroll of immolation
+  3 scrolls of noise
+  an uncursed ring of teleportation
+(37, -6, D:9)
+  a cursed -1 glaive
+(39, -12, D:9)
+  a +0 spear
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 dagger
+(2, 39, D:10)
+  a +0 whip
+(2, 41, D:10)
+  a +0 giant club
+(4, 1, D:10)
+  a +0 whip
+  a +0 falchion
+(7, 2, D:10)
+  a +0 ring mail
+(8, 2, D:10)
+  a +0 flail
+(12, 4, D:10)
+  a +0 chain mail
+  a +0 scimitar
+(16, 37, D:10)
+  a +0 ring mail
+  a +0 short sword
+(20, 4, D:10)
+  a +0 leather armour
+(20, 37, D:10)
+  a +0 leather armour
+  a +0 dagger
+(26, 7, D:10)
+  a +0 robe
+  a +0 dagger
+(27, 9, D:10)
+  a scroll of random uselessness
+(39, 47, D:10)
+  a +0 hand axe
+  a +0 short sword
+  a +0 club
+(40, 47, D:10)
+  a +0 plate armour
+  a +0 chain mail
+(41, 1, D:10)
+  a +0 leather armour
+  a +0 dagger
+  a +0 war axe
+  a +0 leather armour
+  a +0 hand axe
+(41, 2, D:10)
+  a cursed +0 leather armour
+  a +0 short sword
+(42, 1, D:10)
+  a +0 dagger
+(42, 2, D:10)
+  a +0 leather armour
+  a +0 short sword
+(42, 47, D:10)
+  a +0 spear
+(43, 1, D:10)
+  a +0 club
+(44, 22, D:10)
+  a +0 chain mail
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 trident
+(6, 7, D:11)
+  a -1 hunting sling
+(8, -24, D:11)
+  a +0 shortbow
+(14, 18, D:11)
+  a cursed +0 flail
+(15, -11, D:11)
+  the cursed +0 helmet "Biadup" {rN+}
+    It protects you from negative energy.
+    It has a curse placed upon it.
+(16, -12, D:11)
+  a +0 trident
+(19, 7, D:11)
+  a +0 chain mail
+(19, 15, D:11)
+  a +0 robe
+(28, 6, D:11)
+  a +0 scale mail
+(32, 5, D:11)
+  a +0 leather armour
+  a +0 dagger
+(32, 6, D:11)
+  a +0 hand axe
+(34, 1, D:11)
+  a +0 whip
+(37, -2, D:11)
+  a +0 mace
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 scimitar
+(11, -7, Lair:1)
+  a phial of floods (inert)
+  an uncursed ring of wizardry
+  2 scrolls of magic mapping
+  11 tomahawks
+  a wand of paralysis (1)
+  81 arrows
+  a +1 mace of crushing
+(19, -11, Lair:1)
+  a +0 leather armour
+(21, -19, Lair:1)
+  a +0 war axe
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a wand of flame (16)
+(0, 14, Lair:2)
+  a cursed +0 ring mail
+(4, -4, Lair:2)
+  a +0 blowgun
+(7, -7, Lair:2)
+  a ration
+
