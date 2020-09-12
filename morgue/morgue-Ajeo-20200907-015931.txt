@@ -1,0 +1,718 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14123313982068704487
+
+9912 Ajeo the Thaumaturge (level 11, 83/83 HPs) *WIZ*
+             Began as a Gnoll Wanderer on Sept 6, 2020.
+             Was a High Priest of Okawaru.
+             Quit the game on level 8 of the Dungeon on Sept 7, 2020.
+             The game lasted 03:57:57 (17656 turns).
+
+Ajeo the Thaumaturge (Gnoll Wanderer)              Turns: 17656, Time: 03:57:57
+
+Health: 83/83      AC: 20    Str: 14    XL:     11   Next: 53%
+Magic:  32/32      EV: 16    Int: 16    God:    Okawaru [*****.]
+Gold:   120        SH:  7    Dex: 17    Spells: 1/26 levels left
+
+rFire    + . .     SeeInvis .   a - +0 hunting sling
+rCold    . . .     Gourm    .   E - +1 buckler {AC+3}
+rNeg     . . .     Faith    .   C - +3 leather armour {rPois}
+rPois    +         Spirit   .   x - +2 helmet
+rElec    .         Reflect  .   J - +2 cloak {rF+}
+rCorr    .         Harm     .   Y - +2 pair of gloves
+MR       .....                  H - +0 pair of boots (curse)
+Stlth    ++++......             l - amulet of the acrobat
+HPRegen  0.23/turn              Q - ring of magical power
+MPRegen  0.23/turn              M - ring of stealth
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was extremely pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 11 of its levels.
+You also visited: Volcano.
+
+You collected 536 gold pieces.
+You spent 416 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +1 war axe of draining
+ c - a +1 dagger of draining
+ d - a +1 short sword of venom
+ e - a +2 short sword of speed
+ f - a +3 flail of protection
+ g - a +1 hand axe of venom
+ h - a +0 spear
+ i - a +0 trident
+ j - the +8 lajatang "Huorisum" {holy, *Rage rF+ Str+3 Int+3}
+   (You found it on level 7 of the Dungeon)   
+   
+   It has been blessed by the Shining One to cause great damage to the undead
+   and demons.
+   
+   It affects your strength (+3).
+   It affects your intelligence (+3).
+   It protects you from fire.
+   It may make you go berserk in combat.
+ k - a +0 blowgun
+Missiles
+ t - 6 curare-tipped needles {!f}
+ z - 196 stones
+ D - 30 sling bullets (quivered)
+ K - 2 throwing nets {!f}
+ T - 20 tomahawks
+ W - 26 bolts
+Armour
+ x - a +2 helmet (worn)
+ A - a +0 large shield
+ B - a +4 ring mail of fire resistance
+ C - a +3 leather armour of poison resistance (worn)
+ E - a +1 buckler of protection (worn)
+ H - a cursed +0 pair of boots (worn)
+ J - a +2 cloak of fire resistance (worn)
+ N - a +0 troll leather armour
+ Y - a +2 pair of gloves (worn)
+Magical Staves
+ S - an uncursed staff of air
+Jewellery
+ l - an amulet of the acrobat (around neck)
+ o - a +3 amulet of reflection {unknown}
+ F - an uncursed amulet of magic regeneration
+ M - a ring of stealth (right hand)
+ Q - a ring of magical power (left hand)
+ Z - an uncursed amulet of regeneration {unknown}
+Wands
+ p - a wand of enslavement (7)
+ u - a wand of paralysis (6)
+ w - a wand of random effects (24)
+ I - a wand of clouds (10)
+ O - a wand of disintegration (9)
+ V - a wand of acid (8)
+Scrolls
+ n - 3 scrolls of teleportation
+ y - 2 scrolls of blinking
+ R - 4 scrolls of identify
+ U - a scroll of enchant weapon {unknown}
+ X - 6 scrolls of remove curse
+Potions
+ m - 2 potions of brilliance
+ q - 3 potions of might
+ r - a potion of haste
+ s - 3 potions of cancellation
+ v - 2 potions of lignification
+ G - 3 potions of berserk rage
+ L - 5 potions of curing
+Comestibles
+ P - 22 rations
+
+
+   Skills:
+ + Level 6.8 Fighting
+ + Level 6.2 Short Blades
+ + Level 6.2 Long Blades
+ + Level 6.2 Axes
+ + Level 6.2 Maces & Flails
+ + Level 6.2 Polearms
+ + Level 6.8 Staves
+ + Level 6.2 Slings
+ + Level 6.2 Bows
+ + Level 6.2 Crossbows
+ + Level 6.8 Throwing
+ + Level 6.2 Armour
+ + Level 6.8 Dodging
+ + Level 6.2 Stealth
+ + Level 6.2 Shields
+ + Level 6.2 Unarmed Combat
+ + Level 8.1 Spellcasting
+ + Level 5.2 Conjurations
+ + Level 5.2 Hexes
+ + Level 5.2 Charms
+ + Level 5.6 Summonings
+ + Level 6.5 Necromancy
+ + Level 5.2 Translocations
+ + Level 5.2 Transmutations
+ + Level 5.2 Fire Magic
+ + Level 5.2 Ice Magic
+ + Level 5.2 Air Magic
+ + Level 5.2 Earth Magic
+ + Level 5.2 Poison Magic
+ + Level 6.9 Invocations
+ + Level 6.8 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ###.         1%          1    None
+b - Sting                 Conj/Pois      ###.         1%          1    None
+c - Sandblast             Erth           ###...       1%          1    None
+d - Confusing Touch       Hex            ###...       1%          1    None
+e - Animate Skeleton      Necr           N/A          1%          1    None
+f - Poisonous Vapours     Pois/Air       ###...       2%          2    None
+g - Slow                  Hex            ###.....     2%          2    None
+h - Call Imp              Summ           ###.....     1%          2    None
+i - Blink                 Tloc           N/A          2%          2    None
+j - Stone Arrow           Conj/Erth      ###...       4%          3    #......
+k - Ozocubu's Armour      Chrm/Ice       ###.....     4%          3    #......
+l - Mephitic Cloud        Conj/Pois/Air  ###.....     4%          3    #......
+m - Conjure Flame         Conj/Fire      ###.....     4%          3    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Apportation              Tloc           ###...       1%          1    None
+ Beastly Appendage        Tmut           ###...       1%          1    None
+ Freeze                   Ice            ###.         1%          1    None
+ Summon Small Mammal      Summ           ###.         1%          1    None
+ Sticks to Snakes         Tmut           ###.....     2%          2    None
+ Throw Frost              Conj/Ice       ###...       2%          2    None
+ Gell's Gravitas          Tloc           ###.......   4%          3    #......
+ Portal Projectile        Hex/Tloc       ###...       4%          3    #......
+ Spider Form              Tmut/Pois      ###.......   4%          3    #......
+ Summon Ice Beast         Ice/Summ       ###.....     14%         4    ###....
+ Force Lance              Conj/Tloc      ###.....     16%         4    ###....
+ Ice Form                 Ice/Tmut       ###.....     16%         4    ###....
+ Olgreb's Toxic Radiance  Pois           ###.....     16%         4    ###....
+ Throw Icicle             Conj/Ice       ###.....     16%         4    ###....
+ Blade Hands              Tmut           ###.......   41%         5    #####..
+ Venom Bolt               Conj/Pois      ###.......   41%         5    #####..
+ Dispersal                Tloc           ###.......   94%         6    ######.
+ Controlled Blink         Tloc           N/A          100%        8    #######
+ Disjunction              Tloc           ###.......   100%        8    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:7            Lair (1/6) D:9
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 }   D:8 [
+
+Annotations:
+D:7 exclusion: upstairs
+Lair:1 3 runed translucent doors, loot, Zusoliwk's ghost, journeyman CeHu
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+There is a stone staircase leading up, spattered with blood here.
+You climb upwards.
+There is a stone staircase leading down, spattered with blood here.
+You see here a +0 shortbow.
+Press: ? - help, v - describe, . - travel, g - get item
+A scroll labeled REFASHRO AFERATS.
+There is something else lying underneath.
+The floor.
+Things that are here:
+a long sword; a runed spear
+You see here an arbalest.
+Items here: "" ?????
+a scroll labeled REFASHRO AFERATS; a scroll labeled LOEL YHYTTO; a dented
+filigree amulet; a tiny citrine amulet; a scroll labeled DYLUSE ENODO
+a scroll labeled BEISOOCIPU; a scroll labeled AWKOTAHEHU
+Enter note: just tons of loot
+Enter note: not gonna loot Lair:1
+o - a dented filigree amulet; Z - a tiny citrine amulet
+You can't carry that many items.
+Enter note: thanks for watching
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+### ##.....###.>....#..##.##..##  #.0.#..#.#
+#.###..#...........#####..#....#  #...###...
+#.....###...........## ##......######## ##..
+..##### ##.....).....#  ##........####   ##.
+.##  ####............## #............#    #Z
+.#####.#.....##.......# #...#.......##    #Z
+..##.#...).#####......###......#....##    #.
+..).........#.#....[..........###....##  ##Z
+...................[.).........##.....#  #Z.
+.###..........####..>[.........##..Z..####..
+.##..........##..##)[[.........###.##.##.#..
+####.........#..............................
+##...........#......))@...............###...
+.....#.......#......))?................##.##
+...#.#.......##..##........#..........##.##.
+..##..........####......###..P.P..##........
+.##.........###..............._..###....#...
+............# #..............P.P.....#..##..
+............###....[..#....#...............#
+........#.#.........##.......#.....#.#.....'
+........###.........##...##...............##
+#......## #....##.#.##..##.....#.#.#.#....##
+#......####....####.###.#.........#.#......#
+#........#....####...#.........#.#.#.#...<..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A hydra (D:8)
+  A centaur warrior (D:8)
+  A two-headed ogre (D:8)
+  Sonja (Lair:1)
+  A lindwurm (Lair:1)
+  A cyclops (D:7)
+  A rust devil (D:7)
+  A spiny frog (Lair:1)
+  2 trolls
+  A hippogriff (D:7)
+  2 fire elementals (Volcano)
+  4 water moccasins (Lair:1)
+  A porcupine (Lair:1)
+  A sky beast (D:8)
+  3 ice beasts
+  2 ogres
+  3 phantoms
+  4 centaurs
+  7 bullfrogs
+  2 big kobolds
+  4 scorpions
+  2 wyvern skeletons
+  7 howler monkeys
+  6 wights
+  3 crimson imps
+  3 hounds
+  A bullfrog zombie (D:8)
+  4 orc priests
+  2 jellies
+  7 orc wizards
+  2 bullfrog skeletons (D:5)
+  2 iguanas
+  6 worker ants
+  2 hound skeletons
+  Robin (D:1)
+  A worker ant zombie (D:8)
+  7 gnolls
+  9 adders
+  4 shadow imps
+  A white imp (D:8)
+  2 oozes (D:2)
+  3 adder zombies
+  An adder skeleton (D:4)
+  A dart slug (D:1)
+  6 leopard geckos
+  37 orcs
+  3 ball pythons
+  6 giant cockroaches
+  17 goblins
+  6 hobgoblins
+  3 jackals
+  8 kobolds
+  8 quokkas
+  8 bats
+  10 frilled lizards
+  A giant cockroach zombie (D:5)
+  2 goblin zombies (D:8)
+  2 hobgoblin zombies (D:8)
+  A jackal skeleton (D:4)
+  3 kobold skeletons (D:8)
+  A kobold zombie (D:8)
+  An orc skeleton (D:8)
+  An orc zombie (D:8)
+  A quokka skeleton (D:4)
+  15 rats
+261 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A komodo dragon (Lair:1)
+  2 basilisks (Lair:1)
+  A water moccasin (D:5)
+  Edmund (D:5)
+  3 orc warriors
+  A crocodile (Lair:1)
+  3 bullfrogs
+  A scorpion (D:8)
+  2 wights (D:7)
+  A howler monkey (D:8)
+  2 orc priests
+  Ijyb (D:3)
+  An iguana (D:3)
+  3 worker ants
+  A dart slug (D:1)
+  A leopard gecko (D:1)
+  6 orcs
+  A goblin (D:2)
+  3 jackals (D:5)
+  A kobold (D:1)
+  A quokka (D:2)
+37 creatures vanquished.
+
+Vanquished Creatures (others)
+  A sky beast (D:7)
+  A gnoll shaman (D:6)
+2 creatures vanquished.
+
+Grand Total: 300 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ajeo the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Ajeo set off with the following items: a +0 dagger, a wand
+                  | of random effects (15), a +0 robe, a ration; and the
+                  | following spells available to memorise: Call Imp, Magic
+                  | Dart, Sandblast, Blink, Slow, Conjure Flame, Mephitic
+                  | Cloud, Stone Arrow
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 6/6
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | random effects is good, although requires stairs
+     0 | D:1      | great spell list!
+     0 | D:1      | no stones yet
+     0 | D:1      | i'll risk memorizing Magic Dart
+     2 | D:1      | Learned a level 1 spell: Magic Dart
+    23 | D:1      | Learned a level 1 spell: Sandblast
+    23 | D:1      | good, pillar found
+   233 | D:1      | shouldn't have engaged the hob, didn't realize I could
+                  | explore North West
+   233 | D:1      | he could've shouted to pull the dart slug
+   485 | D:1      | Reached XP level 2. HP: 23/23 MP: 3/7
+   500 | D:1      | Learned a level 2 spell: Call Imp
+   503 | D:1      | Learned a level 2 spell: Blink
+   506 | D:1      | Learned a level 2 spell: Slow
+   536 | D:1      | should be set now
+  1279 | D:1      | disto would go pretty well with Call Imp
+  1279 | D:1      | could be cursed tho
+  1412 | D:1      | Reached XP level 3. HP: 28/28 MP: 7/9
+  1413 | D:1      | cuz have great spells
+  1433 | D:1      | Learned a level 3 spell: Mephitic Cloud
+  1456 | D:1      | dagger's a little better, due to fast swing speed and bite
+  1457 | D:1      | club does a little better vs AC tho
+  1539 | D:1      | Reached skill level 5 in Spellcasting
+  1807 | D:1      | triple visit is mildly dangerous
+  1807 | D:1      | no big reason to risk it now
+  2266 | D:2      | Reached skill level 1 in Invocations
+  2391 | D:2      | Found a stormy altar of Qazlal.
+  2877 | D:2      | Reached skill level 1 in Short Blades
+  2877 | D:2      | Reached skill level 1 in Long Blades
+  2877 | D:2      | Reached skill level 1 in Axes
+  2877 | D:2      | Reached skill level 1 in Maces & Flails
+  2877 | D:2      | Reached skill level 1 in Polearms
+  2877 | D:2      | Reached skill level 1 in Slings
+  2877 | D:2      | Reached skill level 1 in Bows
+  2877 | D:2      | Reached skill level 1 in Crossbows
+  2877 | D:2      | Reached skill level 1 in Armour
+  2877 | D:2      | Reached skill level 1 in Stealth
+  2877 | D:2      | Reached skill level 1 in Shields
+  2877 | D:2      | Reached skill level 1 in Unarmed Combat
+  2968 | D:2      | shouldn't underestimate quokkas while clothie
+  2980 | D:2      | cuz they're fast
+  3129 | D:2      | Reached XP level 4. HP: 34/34 MP: 7/11
+  3132 | D:2      | Noticed Robin
+  3139 | D:2      | perfect
+  3415 | D:1      | Killed Robin
+  3421 | D:1      | puissant crimson imps!
+  3429 | D:1      | i'm feeling primitive
+  3947 | D:2      | Reached skill level 1 in Conjurations
+  3947 | D:2      | Reached skill level 1 in Hexes
+  3947 | D:2      | Reached skill level 1 in Charms
+  3947 | D:2      | Reached skill level 1 in Translocations
+  3947 | D:2      | Reached skill level 1 in Transmutations
+  3947 | D:2      | Reached skill level 1 in Fire Magic
+  3947 | D:2      | Reached skill level 1 in Ice Magic
+  3947 | D:2      | Reached skill level 1 in Air Magic
+  3947 | D:2      | Reached skill level 1 in Earth Magic
+  3947 | D:2      | Reached skill level 1 in Poison Magic
+  4207 | D:2      | I already have a ranged attack.  so more armor is good
+  4207 | D:2      | can still cast imps
+  4207 | D:2      | robes are too light
+  4250 | D:2      | much better
+  4274 | D:3      | imps probably more flexible than shields
+  4274 | D:3      | pure meleeist bad idea
+  4340 | D:3      | well, wouldn't be pure meleeist.  but would kill spells and
+                  | stealth.  risky
+  4461 | D:2      | nice
+  4529 | D:3      | Noticed Ijyb
+  4530 | D:3      | she won't use random effects IIRC
+  4586 | D:3      | Killed Ijyb
+  4586 | D:3      | Reached XP level 5. HP: 24/40 MP: 7/12
+  4612 | D:2      | Learned a level 3 spell: Conjure Flame
+  5496 | D:3      | wouldn't do to have large shield and bad melee weapon.  in
+                  | danger from threats that counter physical defense
+  5939 | D:3      | starting Wanderer training boost to Summoning still helping
+  6164 | D:4      | Noticed a phantom
+  6467 | D:3      | Reached XP level 6. HP: 38/47 MP: 13/13
+  6473 | D:3      | Learned a level 1 spell: Animate Skeleton
+  6473 | D:3      | won't be worshiping Ely since Animate Skeleton.  Oka better
+                  | now.
+  6559 | D:3      | Killed a phantom
+  6588 | D:3      | could've worn shield for that
+  7167 | D:4      | Noticed a hippogriff
+  7509 | D:4      | Reached XP level 7. HP: 51/52 MP: 15/15
+  7516 | D:4      | Learned a level 1 spell: Confusing Touch
+  7745 | D:4      | confusing touch counters high EV foes
+  7920 | D:4      | accidentally hit Ctrl-s
+  8088 | D:4      | dare I risk disto?
+  8088 | D:4      | with confusing touch I suspect i'd be alright
+  8096 | D:4      | harm would be pushing it tho
+  8158 | D:5      | Entered Level 5 of the Dungeon
+  8282 | D:5      | Found a blossoming altar of Fedhas.
+  8350 | D:5      | nice
+  8459 | D:5      | I don't need to push the skeleton snowball since I also
+                  | have imps on demand
+  8556 | D:5      | Noticed Edmund
+  8714 | D:4      | Reached XP level 8. HP: 49/60 MP: 16/16
+  9194 | D:5      | Killed Edmund
+  9350 | D:5      | Noticed a troll
+  9405 | D:5      | Killed a troll
+  9405 | D:5      | Reached skill level 6 in Spellcasting
+  9723 | D:5      | haven't been using the protection flail.  too many options.
+  9745 | D:5      | Learned a level 3 spell: Stone Arrow
+  9870 | D:6      | guess optimally I should explore with acrobat and switch to
+                  | MP regen before casting
+  9933 | D:6      | Reached XP level 9. HP: 66/66 MP: 18/18
+  9982 | D:6      | Found Ziwuuwn's Gadget Boutique.
+  9993 | D:6      | Bought a wand of enslavement (7) for 117 gold pieces
+  9993 | D:6      | Bought a wand of flame (14) for 104 gold pieces
+ 10426 | D:6      | Reached skill level 5 in Necromancy
+ 11094 | D:6      | Found a glowing silver altar of Zin.
+ 11097 | D:6      | character really becoming OP
+ 11146 | D:6      | draining dagger is excellent, as is buckler of prot
+ 11146 | D:6      | great spell list.  and already have rpois
+ 11205 | D:6      | confusing touch synergizes with drainng
+ 11205 | D:6      | draining
+ 11363 | D:7      | Found a staircase to the Ecumenical Temple.
+ 11370 | Temple   | Entered the Ecumenical Temple
+ 11525 | Temple   | Became a worshipper of Warmaster Okawaru
+ 11551 | D:7      | Got a warped lajatang
+ 11672 | D:7      | Noticed a cyclops
+ 11762 | D:6      | kek
+ 11762 | D:6      | one stair
+ 11804 | D:7      | if I fail to hold here, my sole stair risks overwhelm.
+ 11817 | D:7      | Reached skill level 5 in Fighting
+ 11817 | D:7      | Reached skill level 5 in Staves
+ 11817 | D:7      | Reached skill level 5 in Throwing
+ 11817 | D:7      | Reached skill level 5 in Dodging
+ 11817 | D:7      | Reached skill level 5 in Evocations
+ 11823 | D:7      | whoah!
+ 11927 | D:7      | Reached * piety under Okawaru
+ 11965 | D:7      | Killed a cyclops
+ 11965 | D:7      | Reached skill level 5 in Invocations
+ 12258 | D:7      | Identified the +8 lajatang "Huorisum" {holy, *Rage rF+
+                  | Str+3 Int+3} (You found it on level 7 of the Dungeon)
+ 12259 | D:7      | nice
+ 12293 | D:7      | Reached ** piety under Okawaru
+ 12338 | D:6      | Noticed a rust devil
+ 12338 | D:6      | Noticed a rust devil
+ 12338 | D:6      | Identified the +5 halberd of Xom's Delight {chop, rPois
+                  | Int+2}
+ 12341 | D:7      | HD 8...
+ 12353 | D:7      | Killed a rust devil
+ 12353 | D:7      | Reached skill level 7 in Spellcasting
+ 12353 | D:7      | Reached XP level 10. HP: 65/74 MP: 20/20
+ 12569 | D:7      | Learned a level 2 spell: Poisonous Vapours
+ 12569 | D:7      | considering sting...
+ 12569 | D:7      | goes so well with slow
+ 12571 | D:7      | Learned a level 1 spell: Sting
+ 13040 | D:8      | Found a glowing golden altar of the Shining One.
+ 13299 | D:8      | Noticed a six-headed hydra
+ 13309 | D:8      | Killed a six-headed hydra
+ 13309 | D:8      | Reached skill level 5 in Short Blades
+ 13309 | D:8      | Reached skill level 5 in Long Blades
+ 13309 | D:8      | Reached skill level 5 in Axes
+ 13309 | D:8      | Reached skill level 5 in Maces & Flails
+ 13309 | D:8      | Reached skill level 5 in Polearms
+ 13309 | D:8      | Reached skill level 5 in Slings
+ 13309 | D:8      | Reached skill level 5 in Bows
+ 13309 | D:8      | Reached skill level 5 in Crossbows
+ 13309 | D:8      | Reached skill level 5 in Armour
+ 13309 | D:8      | Reached skill level 5 in Stealth
+ 13309 | D:8      | Reached skill level 5 in Shields
+ 13309 | D:8      | Reached skill level 5 in Unarmed Combat
+ 13310 | D:8      | probably should've heroismed
+ 13494 | D:7      | Reached *** piety under Okawaru
+ 13520 | D:8      | Found a basalt altar of Yredelemnul.
+ 13590 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 13612 | D:8      | Found Areudgh's Antique Armour Emporium.
+ 13730 | D:6      | Bought a wand of disintegration (11) for 195 gold pieces
+ 14287 | D:8      | don't really need beastly app and would burn an amnesia
+ 14647 | D:9      | centaur? More like centard.
+ 14688 | D:8      | Reached skill level 5 in Summonings
+ 14838 | D:9      | Noticed a centaur warrior
+ 14892 | D:8      | wow
+ 14989 | D:8      | guess I should've slowed him
+ 15148 | D:8      | bah wrong equip
+ 15165 | D:8      | Killed a centaur warrior
+ 15165 | D:8      | Reached **** piety under Okawaru
+ 15166 | D:8      | poorly played, being lazy
+ 15243 | D:8      | forgetting to heroism too
+ 15262 | D:9      | Noticed a two-headed ogre
+ 15273 | D:9      | nice
+ 15291 | D:8      | Killed a two-headed ogre
+ 15291 | D:8      | Reached XP level 11. HP: 83/83 MP: 14/22
+ 15466 | D:9      | I'm playing lazily cuz char is strong.  can't be bothered.
+ 15650 | D:9      | Found a staircase to the Lair.
+ 15922 | D:9      | should've taken that centaur warrior more seriously
+ 15922 | D:9      | he did redzone me once, and wound up costing an acid and a
+                  | lig
+ 15922 | D:9      | char getting too complicated and difficulty too scarce to
+                  | maintain my interest
+ 15922 | D:9      | fortunately lair has arrived
+ 16126 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 16383 | Lair:1   | Found a runed translucent gate.
+ 16383 | Lair:1   | Found a runed translucent gate.
+ 16384 | Lair:1   | Found a runed translucent gate.
+ 16384 | Lair:1   | Noticed Zusoliwk's ghost (journeyman CeHu)
+ 16638 | Lair:1   | I'm confused
+ 16667 | Lair:1   | Reached skill level 5 in Conjurations
+ 16667 | Lair:1   | Reached skill level 5 in Hexes
+ 16667 | Lair:1   | Reached skill level 5 in Charms
+ 16667 | Lair:1   | Reached skill level 5 in Translocations
+ 16667 | Lair:1   | Reached skill level 5 in Transmutations
+ 16667 | Lair:1   | Reached skill level 5 in Fire Magic
+ 16667 | Lair:1   | Reached skill level 5 in Ice Magic
+ 16667 | Lair:1   | Reached skill level 5 in Air Magic
+ 16667 | Lair:1   | Reached skill level 5 in Earth Magic
+ 16667 | Lair:1   | Reached skill level 5 in Poison Magic
+ 16737 | Lair:1   | Found a dark tunnel.
+ 16737 | Lair:1   | Noticed a lindwurm
+ 16738 | Lair:1   | bah stymied
+ 16751 | Lair:1   | Killed a lindwurm
+ 16751 | Lair:1   | Reached ***** piety under Okawaru
+ 16751 | Lair:1   | Received a gift from Okawaru
+ 16751 | Lair:1   | Reached skill level 8 in Spellcasting
+ 16762 | Volcano  | Entered a volcano
+ 16805 | Volcano  | i think a quake will cut off access
+ 16825 | Volcano  | yep
+ 16942 | Volcano  | that was fun.  never been here before.
+ 16944 | Lair:1   | should've started moving immediately.  will know next time.
+ 17221 | Lair:1   | Noticed Sonja
+ 17228 | Lair:1   | Killed Sonja
+ 17272 | Lair:1   | Learned a level 3 spell: Ozocubu's Armour
+ 17587 | Lair:1   | floor cleared
+ 17587 | Lair:1   | well, that's enough of a demonstration
+ 17587 | Lair:1   | I definitely got lazy, which happens often with GnWn, which
+                  | tends to become overpowered well before Lair
+ 17587 | Lair:1   | it's the most boring species to play at this low difficulty
+                  | level, for that reason
+ 17587 | Lair:1   | but also the strongest, in my opinion!
+ 17655 | D:8      | just tons of loot
+ 17655 | D:8      | not gonna loot Lair:1
+ 17656 | D:8      | thanks for watching
+ 17656 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Summonings     |  2                 3     4  5    |  5.6
+Spellcasting   |        5              6  7     8 |  8.1
+Invocations    |        1     2     3  4  5  6    |  6.9
+Short Blades   |        1        2     3  4  5  6 |  6.2
+Long Blades    |        1        2     3  4  5  6 |  6.2
+Axes           |        1        2     3  4  5  6 |  6.2
+Maces & Flails |        1        2     3  4  5  6 |  6.2
+Polearms       |        1        2     3  4  5  6 |  6.2
+Slings         |        1        2     3  4  5  6 |  6.2
+Bows           |        1        2     3  4  5  6 |  6.2
+Crossbows      |        1        2     3  4  5  6 |  6.2
+Armour         |        1        2     3  4  5  6 |  6.2
+Stealth        |        1        2     3  4  5  6 |  6.2
+Shields        |        1        2     3  4  5  6 |  6.2
+Unarmed Combat |        1        2     3  4  5  6 |  6.2
+Conjurations   |           1        2  3  4     5 |  5.2
+Hexes          |           1        2  3  4     5 |  5.2
+Charms         |           1        2  3  4     5 |  5.2
+Translocations |           1        2  3  4     5 |  5.2
+Transmutations |           1        2  3  4     5 |  5.2
+Fire Magic     |           1        2  3  4     5 |  5.2
+Ice Magic      |           1        2  3  4     5 |  5.2
+Air Magic      |           1        2  3  4     5 |  5.2
+Earth Magic    |           1        2  3  4     5 |  5.2
+Poison Magic   |           1        2  3  4     5 |  5.2
+Fighting       |              3        4  5  6    |  6.8
+Staves         |              3        4  5  6    |  6.8
+Throwing       |              3        4  5  6    |  6.8
+Dodging        |              3        4  5  6    |  6.8
+Evocations     |              3        4  5  6    |  6.8
+Necromancy     |              4           5  6    |  6.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |  8105 |       |    48 |    56 ||  8209
+       Bite              |  2110 |    11 |  1297 |    15 ||  3433
+       Club              |  8000 |       |       |       ||  8000
+       Punch             |    40 |     1 |   111 |       ||   152
+       Whip              |     3 |    98 |       |       ||   101
+       Trident           |       |    57 |  4063 |     1 ||  4121
+       Short sword       |       |       |  4147 |    21 ||  4168
+       Hand axe          |       |       |     8 |    15 ||    23
+       Flail             |       |       |    13 |    39 ||    52
+       Spear             |       |       |     3 |     6 ||     9
+       Lajatang          |       |       |     1 |    17 ||    18
+       War axe           |       |       |       |     8 ||     8
+ Fire: Hunting sling     |       |   139 |   146 |   141 ||   426
+       Shortbow          |       |       |       |     4 ||     4
+Throw: Stone             |    32 |       |       |       ||    32
+       Tomahawk          |     6 |     6 |       |     9 ||    21
+ Cast: Magic Dart        |    60 |    12 |    32 |       ||   104
+       Sandblast         |     8 |     1 |    19 |     1 ||    29
+       Call Imp          |     8 |    21 |    22 |    10 ||    61
+       Slow              |     2 |     5 |    26 |    30 ||    63
+       Animate Skeleton  |       |     1 |    38 |    18 ||    57
+       Conjure Flame     |       |     1 |    15 |     4 ||    20
+       Confusing Touch   |       |       |    28 |    16 ||    44
+       Mephitic Cloud    |       |       |    22 |     9 ||    31
+       Stone Arrow       |       |       |    10 |    11 ||    21
+       Sting             |       |       |       |    18 ||    18
+       Poisonous Vapours |       |       |       |    17 ||    17
+       Blink             |       |       |       |     3 ||     3
+       Ozocubu's Armour  |       |       |       |     1 ||     1
+Evoke: Wand              |       |     2 |     1 |    10 ||    13
+  Use: Scroll            |       |     5 |    10 |     3 ||    18
+       Potion            |       |     1 |     3 |     2 ||     6
+ Stab: Confused          |       |       |    20 |     6 ||    26
+       Distracted        |       |       |     3 |     2 ||     5
+  Eat: Chunk             |     7 |    15 |    18 |    11 ||    51
+       Ration            |       |       |       |     2 ||     2
+Armor: Robe              |  1001 |     3 |       |       ||  1004
+       Ring mail         |       |    10 |       |     3 ||    13
+       Animal skin       |       |     1 |       |       ||     1
+       Leather armour    |       |    22 |  1226 |    45 ||  1293
+       Skin              |       |       |       |     7 ||     7
+       Troll leather arm |       |       |       |     6 ||     6
+Dodge: Dodged            |  8905 |   110 |  4418 |   111 || 13544
+Block: Buckler           |       |       |    30 |    43 ||    73
+       Large shield      |       |       |       |    14 ||    14
+
