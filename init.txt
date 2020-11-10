@@ -10,3 +10,5 @@ tile_font_tip_size = 20
 tile_font_lbl_size = 20
 tile_map_pixels = 0
 tile_filter_scaling = true 
+
+auto_butcher = satiated
