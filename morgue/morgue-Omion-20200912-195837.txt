@@ -1,0 +1,128 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3539232198220177248
+
+0 Omion the Grave Robber (level 1, 14/14 HPs) *WIZ*
+             Began as a Demigod Necromancer on Sept 12, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:09 (22 turns).
+
+Omion the Grave Robber (Demigod Necromancer)          Turns: 22, Time: 00:04:09
+
+Health: 14/14      AC:  5    Str: 11    XL:     1   Next: 0%
+Magic:  5/5        EV: 11    Int: 19    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 2/3 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   d - +0 ring mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: high mp 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ b - a +0 leather armour
+ d - a +0 ring mail (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 1.7 Stealth
+ + Level 1.7 Spellcasting
+ + Level 3.6 Necromancy
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           15 (25)      10%         1    17
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          10%         1    17
+ Vampiric Draining        Necr           15 (200)     28%         3    117
+ Regeneration             Chrm/Necr      8 (200)      52%         3    117
+ Animate Dead             Necr           N/A          67%         4    217
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+You finish putting on your +0 leather armour.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? [
+What type of item? ring
++0 ring mail
+What ego type? 
+Something appears at your feet!
+d - a +0 ring mail
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 leather armour. x4
+You finish taking off your +0 leather armour.
+You start putting on your armour.
+You continue putting on your +0 ring mail. x5
+You finish putting on your +0 ring mail.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #### ##
+ #PPP7P77P##
+  7..@...PP#
+#..........#
+#+##P...##+#
+   ##++##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Omion the Demigod Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+    22 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           || 24000
+Armor: Robe              ||  2340
+Dodge: Dodged            || 12535
+

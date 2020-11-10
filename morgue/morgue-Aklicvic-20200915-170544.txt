@@ -1,0 +1,179 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11047347836992365098
+
+42 Aklicvic the Chucker (level 3, 21/29 HPs) *WIZ*
+             Began as a Centaur Assassin on Sept 15, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:16:53 (222 turns).
+
+Aklicvic the Chucker (Centaur Assassin)              Turns: 222, Time: 00:16:53
+
+Health: 21/29      AC:  5    Str: 14    XL:     3   Next: 33%
+Magic:  3/3        EV:  9    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   l - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.09/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+ j - a +0 dagger of flaming
+Missiles
+ e - 7 poisoned needles
+ f - 2 curare-tipped needles
+ k - 18 bolts
+Armour
+ c - a +0 robe
+ d - a +0 cloak (worn)
+ l - a +0 leather armour (worn)
+Scrolls
+ h - a scroll of remove curse {unknown}
+Comestibles
+ g - a ration
+ i - 5 chunks of flesh
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 3.0 Short Blades
+ + Level 3.0 Throwing
+ - Level 0.6 Dodging
+ - Level 2.4 Stealth
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+What type of item? 
+Okay, then.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? [
+What type of item? leather arm
++0 leather armour
+What ego type? 
+Something appears before you!
+l - a +0 leather armour
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 robe. x4
+You finish taking off your +0 robe.
+You start putting on your armour.
+You continue putting on your +0 leather armour. x5
+You finish putting on your +0 leather armour.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   ####.......###....########
+      ###....#~~~0~~~~~~#####
+      #.......~8~~~~~~8~.....
+      #.####..~~8~~~~8~~.#.##
+      #.#  ##.~~)####~~0...##
+      #.#  #..~~~#<.#~~~.....
+   ####.#  #.00~%#..#~~0.####
+   #....# ##.000~#''#~~0##
+   #.######%..~~8~~~~800##
+  ##.###.%..#.~8~~~00~8~.#
+  #......####.~~~~000~~~.#
+ ##..#####  #..#.00......####
+##...########..#.............
+#......@................#####
+####.#>..###...#####.##......
+   #.#..>....(###  #.##.#####
+   #.###.#......#  #.##.#
+   #.....#.#.##.####.##.#
+   #######.#.##....#.##.#####
+         #$..#####.##...##.##
+         ##..####...#####...#
+         #....##..#.......#..
+       ###.##.###...#####...#
+       #...##...##.##   ##?##
+       #.#######.#.#     #.#.
+      ##.####....#.#     #.#.
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An iguana (D:1)
+  An ooze (D:1)
+  2 giant cockroaches (D:1)
+  A goblin (D:1)
+  2 hobgoblins (D:1)
+  A kobold (D:1)
+  A bat (D:1)
+  2 frilled lizards (D:1)
+  A rat (D:1)
+12 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Aklicvic the Centaur Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+    12 | D:1      | dod .6 ev 9
+    12 | D:1      | Entered wizard mode.
+    12 | D:1      | increasing dod didn't change EV
+   120 | D:1      | Reached XP level 2. HP: 21/24 MP: 2/2
+   211 | D:1      | Reached XP level 3. HP: 20/29 MP: 3/3
+   222 | D:1      | Quit the game
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Short Blades   |  2  3 |  3.0
+Throwing       |     3 |  3.0
+Fighting       |       |  2.0
+Dodging        |       |  0.6
+Stealth        |       |  2.4
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    27
+       Kick              ||     4
+ Fire: Blowgun           ||     3
+Armor: Robe              ||     3
+Dodge: Dodged            ||     7
+

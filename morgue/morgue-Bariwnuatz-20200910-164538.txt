@@ -1,0 +1,333 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7872850817559624165
+
+116990 Bariwnuatz the Conqueror (level 15, 87/111 HPs) *WIZ*
+             Began as a Spriggan Skald on Sept 10, 2020.
+             Was the Champion of Jiyva.
+             Quit the game on level 1 of the Vaults.
+             The game lasted 00:11:41 (3627 turns).
+
+Bariwnuatz the Conqueror (Spriggan Skald)           Turns: 3627, Time: 00:11:41
+
+Health: 87/111     AC:  3    Str: 10    XL:     15   Next: 48%
+Magic:  47/47      EV: 36    Int: 13    God:    Jiyva 198 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 67/68 levels left
+
+rFire    x . .     SeeInvis +   a - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.28/turn              (no ring)
+MPRegen  0.30/turn              (no ring)
+
+@: fire vulnerable, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2, eyeballs 2, pseudopods 1, translucent skin 1
+}: 2/15 runes: decaying, gossamer
+a: Request Jelly, Slimify, Cure Bad Mutation, Renounce Religion
+
+
+You were on level 1 of the Vaults.
+You worshipped Jiyva.
+Jiyva was exalted by your worship.
+You were completely stuffed.
+
+You visited 4 branches of the dungeon, and saw 5 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Scrolls
+ c - a scroll of remove curse {unknown}
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 67 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Shroud of Golubria       Chrm/Tloc      73 (200)     0%          2    0
+ Song of Slaying          Chrm           73 (100)     0%          2    0
+ Regeneration             Chrm/Necr      73 (200)     0%          3    0
+ Spectral Weapon          Hex/Chrm       73 (100)     0%          3    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (14/15)            Vaults (1/5) D:14        
+Temple: D:4-7         Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+Your body has grown many golden eyes which may confuse attackers. (Acc +5)
+Armour fits poorly on your pseudopods.
+Your translucent skin slightly reduces your foes' accuracy. (Stealth)
+
+
+Message History
+
+You feel clumsy.
+Enter Wizard Command (? - help): 
+Which god (default Jiyva)? fed
+Fedhas invokes the elements against you.
+A ball of electricity appears!
+A ball lightning comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a ball lightning (hasn't noticed you, durably summoned)
+The floor.
+You catch the helpless ball lightning completely off-guard!
+You puncture the ball lightning!
+The ball lightning explodes!
+The blast of lightning engulfs you!
+You start resting.
+HP restored.
+Enter Wizard Command (? - help): 
+Which god (default Jiyva)? fed
+Fedhas invokes the elements against you.
+You are blasted with searing flames! The searing flames burn away your fire
+resistance!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.#...........# #........#     #..#
+.'...........# #..####..#     #..#
+############## #..#  #..#     #..#
+.#             #..#  #..#     #..#
+.#             #..####..#     #..#
+##             #........#     #..#
+.#             #........#     #..#
+'################.#############..#
+.................................#
+.................................#
+...............................J.#
+............####.#############...#
+#........)..#.......#J..###..#...#
+#........(..#.......#.@......#...#
+#...........#.......#...#.#.##...#
+#...........#.......##.##0#.##...#
+#...........#.......##.#0##.##...#
+#.#########.#.......##.#.#...#...#
+#.#.......#.#................#...#
+#.#.......#.#.......#..###...#...#
+#.#J......#.#.......##########...#
+#.#....>..#.........#....J.......#
+..#.......#.#########............#
+..#.......#......................#
+..###'#####......................#
+.................................#
+
+
+You could see a neutral jelly (fellow slime).
+
+Vanquished Creatures
+  A vault warden (Vaults:1)
+  An ironheart preserver (Vaults:1)
+  A fire dragon (Vaults:1)
+  2 yaktaur captains (Vaults:1)
+  3 vault guards
+  A deep troll shaman (Vaults:1)
+  A deep elf knight (Vaults:1)
+  3 deep trolls (Vaults:1)
+  A flayed ghost (Vaults:1)
+  An ironbrand convoker (Vaults:1)
+  4 oklob plants (Vaults:1)
+  2 cyclopes (Vaults:1)
+  A vault sentinel (Vaults:1)
+  8 yaktaurs (Vaults:1)
+  A freezing wraith (Vaults:1)
+  3 acid dragons (Vaults:1)
+  An orc warrior (Vaults:1)
+  A ball lightning (Vaults:1)
+  5 ballistomycetes (Vaults:1)
+  7 ballistomycete spores (Vaults:1)
+48 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Saint Roka (D:14)
+  A centaur warrior (Vaults:1)
+  A vault guard (Vaults:1)
+  A deep elf knight (D:14)
+  An ironbrand convoker (Vaults:1)
+  2 deep elf archers (Vaults:1)
+  An orc knight (Vaults:1)
+  A vault sentinel (Vaults:1)
+  3 yaktaurs (Vaults:1)
+  2 wandering mushrooms (Vaults:1)
+14 creatures vanquished.
+
+Vanquished Creatures (others)
+  A deep elf archer (Vaults:1)
+  A deep elf mage (Vaults:1)
+  A cyclops (Vaults:1)
+  6 slime creatures (Vaults:1)
+  34 jellies
+  3 orc priests (Vaults:1)
+  An orc wizard (Vaults:1)
+  3 orcs (Vaults:1)
+  3 ballistomycete spores (Vaults:1)
+53 creatures vanquished.
+
+Grand Total: 115 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bariwnuatz the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Fedhas Madash
+     0 | D:14     | Found a shattered altar of Ashenzari.
+     0 | D:14     | Found a transporter.
+     0 | D:14     | Found a transporter.
+     0 | D:14     | Found a gate to the Vaults.
+     0 | D:14     | Noticed a vault guard
+     0 | D:14     | Noticed a vault guard
+     0 | D:14     | Noticed a human
+     0 | D:14     | Noticed a human
+     0 | D:14     | Noticed a vault guard
+     0 | D:14     | Noticed a wizard
+     0 | D:14     | Noticed a human
+     0 | D:14     | Fell from the grace of Fedhas
+     0 | D:14     | Became a worshipper of Jiyva Juis the Shapeless
+     0 | D:14     | Reached * piety under Jiyva
+     0 | D:14     | Reached ** piety under Jiyva
+     0 | D:14     | Reached *** piety under Jiyva
+     0 | D:14     | Gained mutation: You are partially covered in yellow
+                  | scales. (AC +2) [Jiyva's grace]
+     0 | D:14     | Gained mutation: You possess an exceptional clarity of
+                  | mind. [Jiyva's grace]
+     0 | D:14     | Reached **** piety under Jiyva
+     0 | D:14     | Lost mutation: You possess an exceptional clarity of mind.
+                  | [Jiyva's grace]
+     0 | D:14     | Reached ***** piety under Jiyva
+     0 | D:14     | Lost mutation: You are partially covered in yellow scales.
+                  | (AC +2) [Jiyva's grace]
+     0 | D:14     | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [Jiyva's grace]
+     0 | D:14     | Gained mutation: Your body has grown golden eyes which may
+                  | confuse attackers. (Acc +3) [Jiyva's grace]
+     0 | D:14     | Reached ****** piety under Jiyva
+     0 | D:14     | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [Jiyva's grace]
+     0 | D:14     | Lost mutation: Your magical capacity is low. (-10% MP)
+                  | [Jiyva's grace]
+     0 | D:14     | Gained mutation: Your translucent skin slightly reduces
+                  | your foes' accuracy. (Stealth) [Jiyva's grace]
+     0 | D:14     | Lost mutation: Your system is resistant to poisons. (rPois)
+                  | [Jiyva's grace]
+     0 | Swamp:4  | Entered Level 4 of the Swamp
+     5 | Swamp:4  | Engulfed by a cloud of foul pestilence (20 damage)
+     6 | Swamp:4  | Got a decaying rune of Zot
+     6 | Swamp:4  | Engulfed by a cloud of foul pestilence (6 damage)
+     7 | Swamp:4  | Succumbed to poison (dark miasma)
+     9 | Swamp:4  | Succumbed to poison (dark miasma)
+    11 | Swamp:4  | Succumbed to poison (dark miasma)
+    12 | Spider:4 | Entered Level 4 of the Spider Nest
+    12 | Spider:4 | Noticed a jumping spider
+    12 | Spider:4 | Noticed a wolf spider
+    12 | Spider:4 | Noticed a tarantella
+    12 | Spider:4 | Noticed a redback
+    12 | Spider:4 | Noticed a redback
+    12 | Spider:4 | Noticed a tarantella
+    12 | Spider:4 | Got a gossamer rune of Zot
+    13 | D:14     | Reached XP level 2. HP: 30/30 MP: 5/19
+    13 | D:14     | Reached XP level 3. HP: 35/35 MP: 5/20
+    13 | D:14     | Reached XP level 4. HP: 39/39 MP: 5/22
+    13 | D:14     | Reached XP level 5. HP: 44/44 MP: 5/23
+    13 | D:14     | Reached XP level 6. HP: 49/49 MP: 5/25
+    13 | D:14     | Reached XP level 7. HP: 53/53 MP: 5/26
+    13 | D:14     | Reached XP level 8. HP: 58/58 MP: 5/28
+    13 | D:14     | Reached XP level 9. HP: 62/62 MP: 5/29
+    13 | D:14     | Reached XP level 10. HP: 67/67 MP: 5/30
+    13 | D:14     | Reached XP level 11. HP: 71/71 MP: 5/31
+    13 | D:14     | Reached XP level 12. HP: 76/76 MP: 5/32
+    13 | D:14     | Reached XP level 13. HP: 80/80 MP: 5/33
+    13 | D:14     | Reached XP level 14. HP: 86/86 MP: 5/34
+    13 | D:14     | Reached XP level 15. HP: 90/90 MP: 5/35
+    14 | Vaults:1 | Entered Level 1 of the Vaults
+   346 | Vaults:1 | Gained mutation: Your muscles are strong. (Str +2) [Jiyva's
+                  | grace]
+  1493 | Vaults:1 | Noticed Saint Roka
+  1562 | D:14     | Lost mutation: Your muscles are strong. (Str +2) [Jiyva's
+                  | grace]
+  1569 | D:14     | Killed Saint Roka
+  2386 | Vaults:1 | Gained mutation: Your body has grown many golden eyes which
+                  | may confuse attackers. (Acc +5) [Jiyva's grace]
+  2513 | Vaults:1 | Noticed a vault warden
+  2575 | Vaults:1 | Killed a vault warden
+  2723 | Vaults:1 | Was forgiven by Fedhas
+  3033 | Vaults:1 | Gained mutation: Armour fits poorly on your pseudopods.
+                  | [Jiyva's grace]
+  3042 | Vaults:1 | Gained mutation: You have sharp toenails. [Jiyva's grace]
+  3055 | Vaults:1 | Lost mutation: You have sharp toenails. [Jiyva's grace]
+  3627 | Vaults:1 | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Spear             |       |       |       |       |   469 ||   469
+       Punch             |       |       |       |       |    37 ||    37
+       Pseudopods        |       |       |       |       |     1 ||     1
+ Stab: Confused          |       |       |       |       |    14 ||    14
+       Distracted        |       |       |       |       |     9 ||     9
+Armor: Robe              |       |       |       |       |     5 ||     5
+Dodge: Dodged            |       |       |       |       |   436 ||   436
+

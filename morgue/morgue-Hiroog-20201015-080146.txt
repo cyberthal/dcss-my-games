@@ -1,0 +1,304 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16250514556565487368
+
+67 Hiroog the Covert (level 4, 18/18 HPs) *WIZ*
+             Began as a Felid Conjurer on Oct 15, 2020.
+             Was the Champion of Ashenzari.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:36 (32 turns).
+
+Hiroog the Covert (Felid Conjurer)                    Turns: 32, Time: 00:06:36
+
+Health: 18/18      AC:  1    Str:  7    XL:     4   Next: 0%
+Magic:  5/13       EV: 25    Int: 22    God:    Ashenzari 200 (0)
+Gold:   0          SH:  0    Dex: 18    Spells: 10/16 levels left
+                                        Lives:  1   Deaths: 0
+
+rFire    + . .     SeeInvis +   (weapon unavailable)
+rCold    + . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    +         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....     Clarity  +   (boots unavailable)
+Stlth    +++++.....NoTele   +   j - amulet "Xuximox" {-Tele +Rage rElec Int+2 SInv} (curse)
+HPRegen  0.06/turn              e - ring "Uriggaoq" {rF+ Int+3 Dex+2} (curse)
+MPRegen  0.13/turn              f - ring "Uxtoobb" {rC+ Str+3} (curse)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: Curse Item, Scrying, Transfer Knowledge, Renounce Religion, Evoke Berserk
+Rage
+
+
+You were on level 1 of the Dungeon.
+You worshipped Ashenzari.
+Ashenzari was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Jewellery
+ c - the cursed amulet of Wazuyzau {Harm *Drain Fragile MR+++ Str-2 Int+9}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of harm]
+   
+   It increases damage dealt and taken.
+   It affects your strength (-2).
+   It affects your intelligence (+9).
+   It affects your resistance to hostile enchantments.
+   It causes draining when unequipped.
+   It will be destroyed if unequipped.
+   It has a curse placed upon it.
+ d - a cursed amulet of harm
+ e - the cursed ring "Uriggaoq" (left paw) {rF+ Int+3 Dex+2}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of protection from fire]
+   
+   It affects your intelligence (+3).
+   It affects your dexterity (+2).
+   It protects you from fire.
+   It has a curse placed upon it.
+ f - the cursed ring "Uxtoobb" (right paw) {rC+ Str+3}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of protection from cold]
+   
+   It affects your strength (+3).
+   It protects you from cold.
+   It has a curse placed upon it.
+ g - the cursed ring of Elon {rPois Int+4}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of poison resistance]
+   
+   It affects your intelligence (+4).
+   It protects you from poison.
+   It has a curse placed upon it.
+ h - the cursed ring of Henwil {rN+ SInv}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of positive energy]
+   
+   It protects you from negative energy.
+   It lets you see invisible.
+   It has a curse placed upon it.
+ i - a cursed +4 ring of evasion
+ j - the cursed amulet "Xuximox" (around neck) {-Tele +Rage rElec Int+2 SInv}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [amulet of rage]
+   
+   It affects your intelligence (+2).
+   It insulates you from electricity.
+   It lets you see invisible.
+   It lets you go berserk.
+   It prevents most forms of teleportation.
+   It has a curse placed upon it.
+ k - the cursed ring "Adghipis" {Fire rN+ Int-5 Dex+4}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of fire]
+   
+   It enhances your fire magic.
+   It affects your intelligence (-5).
+   It affects your dexterity (+4).
+   It protects you from fire.
+   It makes you vulnerable to cold.
+   It protects you from negative energy.
+   It has a curse placed upon it.
+ l - the cursed ring "Plog" {rF+ rN+++ Str-2 Int-4 Dex+2}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of protection from fire]
+   
+   It affects your strength (-2).
+   It affects your intelligence (-4).
+   It affects your dexterity (+2).
+   It protects you from fire.
+   It renders you almost immune to negative energy.
+   It has a curse placed upon it.
+ m - the cursed ring of False Pretenses {rCorr Int+2 Dex+5}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of resist corrosion]
+   
+   It affects your intelligence (+2).
+   It affects your dexterity (+5).
+   It has a curse placed upon it.
+ n - the cursed ring of Harekk Yddil {rPois rF+ Str+3}
+   (You acquired it on level 1 of the Dungeon)   
+   
+   [ring of protection from fire]
+   
+   It affects your strength (+3).
+   It protects you from fire.
+   It protects you from poison.
+   It has a curse placed upon it.
+ o - a cursed ring of flight
+ p - a cursed ring of positive energy
+ q - a cursed +2 ring of protection
+Scrolls
+ a - 21 scrolls of acquirement
+Potions
+ r - 9 potions of experience
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 9.2 Dodging
+ + Level 10.0 Stealth
+ + Level 6.5 Spellcasting
+ + Level 7.2(11.7) Conjurations
+ - Level 3.0(6.8) Hexes
+
+
+You had 10 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      1%          1    0
+b - Dazzling Spray        Conj/Hex       48 (50)      1%          3    7
+c - Searing Ray           Conj           50 (50)      1%          2    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Fulminant Prism          Conj/Hex       48 (200)     1%          4    107
+ Iskenderun's Mystic Bla  Conj           56 (100)     1%          4    107
+ Force Lance              Conj/Tloc      34 (100)     7%          4    107
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Which skill (by name)? hex
+Hexes
+To what level? 1
+Increased Hexes to skill level 1.0.
+Memorise Searing Ray, consuming 2 spell levels and leaving 10? 
+You start memorising the spell. You continue memorising. x2
+You finish memorising. Spell assigned to 'c'.
+Enter Wizard Command (? - help): 
+Which skill (by name)? hex
+Hexes
+To what level? 2
+Increased Hexes to skill level 2.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? hex
+Hexes
+To what level? 3
+Increased Hexes to skill level 3.0.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+            %..
+  #####++###..#
+ ##~~...)...8.#
+ #~~..~~~~~~.#
+ #~..~~...~~~#
+ #~.~~..~..~~#
+ #~.~~.~~~..~#
+ #~.~~.@.~~.~#
+ #~..~~~.~~.~#
+ #~~..~..~~.~#
+ #~~~...~~..~#
+ #.~~~~~~..~~#
+..8.......~~##
+...###++#####
+#..
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hiroog the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Ashenzari the Shackled
+     1 | D:1      | Identified the cursed ring of Elon {rPois Int+4} (You
+                  | acquired it on level 1 of the Dungeon)
+     2 | D:1      | Identified the cursed ring of Henwil {rN+ SInv} (You
+                  | acquired it on level 1 of the Dungeon)
+     4 | D:1      | Identified the cursed ring "Uriggaoq" {rF+ Int+3 Dex+2}
+                  | (You acquired it on level 1 of the Dungeon)
+     5 | D:1      | Identified the cursed amulet of Wazuyzau {Harm *Drain
+                  | Fragile MR+++ Str-2 Int+9} (You acquired it on level 1 of
+                  | the Dungeon)
+     6 | D:1      | Identified the cursed ring "Uxtoobb" {rC+ Str+3} (You
+                  | acquired it on level 1 of the Dungeon)
+    13 | D:1      | Identified the cursed ring of Harekk Yddil {rPois rF+
+                  | Str+3} (You acquired it on level 1 of the Dungeon)
+    14 | D:1      | Identified the cursed ring "Plog" {rF+ rN+++ Str-2 Int-4
+                  | Dex+2} (You acquired it on level 1 of the Dungeon)
+    16 | D:1      | Identified the cursed ring "Adghipis" {Fire rN+ Int-5
+                  | Dex+4} (You acquired it on level 1 of the Dungeon)
+    17 | D:1      | Identified the cursed ring of False Pretenses {rCorr Int+2
+                  | Dex+5} (You acquired it on level 1 of the Dungeon)
+    18 | D:1      | Identified the cursed amulet "Xuximox" {-Tele +Rage rElec
+                  | Int+2 SInv} (You acquired it on level 1 of the Dungeon)
+    21 | D:1      | Reached * piety under Ashenzari
+    21 | D:1      | Reached ** piety under Ashenzari
+    21 | D:1      | Reached *** piety under Ashenzari
+    21 | D:1      | Reached **** piety under Ashenzari
+    21 | D:1      | Reached ***** piety under Ashenzari
+    21 | D:1      | Reached ****** piety under Ashenzari
+    22 | D:1      | Reached skill level 5 in Dodging
+    22 | D:1      | Reached skill level 5 in Stealth
+    22 | D:1      | Reached XP level 2. HP: 11/11 MP: 4/7
+    23 | D:1      | Reached skill level 8 in Stealth
+    23 | D:1      | Reached skill level 5 in Spellcasting
+    23 | D:1      | Reached XP level 3. HP: 14/14 MP: 4/10
+    24 | D:1      | Reached skill level 10 in Stealth
+    24 | D:1      | Reached XP level 4. HP: 18/18 MP: 4/13
+    29 | D:1      | Learned a level 3 spell: Dazzling Spray
+    32 | D:1      | Learned a level 2 spell: Searing Ray
+    32 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Dodging        |  5  7  9 |  9.2
+Stealth        |  5  8 10 | 10.0
+Spellcasting   |  3  5  6 |  6.5
+Conjurations   |  4  6  7 |  7.2
+Hexes          |          |  3.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+  Use: Scroll            |    15 |       ||    15
+       Potion            |     3 |       ||     3
+

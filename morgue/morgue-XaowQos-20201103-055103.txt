@@ -1,0 +1,172 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11940573748788123136
+
+0 Xaow Qos the Digger (level 1, 13/13 HPs) *WIZ*
+             Began as a Formicid Earth Elementalist on Nov 3, 2020.
+             Was the Champion of Nemelex Xobeh.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:42 (2 turns).
+
+Xaow Qos the Digger (Formicid Earth Elementalist)      Turns: 2, Time: 00:03:42
+
+Health: 13/13      AC:  2    Str: 12    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 14    God:    Nemelex Xobeh 200 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis +   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: permanent stasis, dig shafts and tunnels, four strong arms, antennae 3
+a: Dig, Shaft Self, Draw Escape, Draw Destruction, Draw Summoning, Triple Draw,
+Deal Four, Stack Five, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Nemelex Xobeh.
+Nemelex Xobeh was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ b - 30 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 2.4 Stealth
+ + Level 2.1 Spellcasting
+   Level 1.1 Transmutations
+ + Level 3.6 Earth Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           11 (50)      5%          1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Passwall                 Tmut/Erth      8 (120)      14%         2    70
+ Stone Arrow              Conj/Erth      6 (50)       32%         3    120
+ Petrify                  Tmut/Erth      8 (100)      65%         4    220
+ Lee's Rapid Deconstruct  Erth           11 (200)     82%         5    370
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot be hasted, slowed, berserked, paralysed or teleported.
+You can dig through walls and to a lower floor.
+Your four strong arms can wield two-handed weapons with a shield.
+You have a pair of large antennae on your head. (SInv)
+
+
+Message History
+
+Nemelex Xobeh goes to deal, but finds you have enough cards.
+Nemelex Xobeh goes to deal, but finds you have enough cards.
+Nemelex Xobeh goes to deal, but finds you have enough cards.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+Unknown command.
+There are no items here.
+There are no items here.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+You extend your mandibles.
+You retract your mandibles.
+You extend your mandibles.
+You retract your mandibles.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#8......8#
+#~......~#
+#~..=...~#
+#~......~#
+#~..88..~#
+#~......~#
+#~......~#
+#~......~#
+#8...<@.8#
+##########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xaow Qos the Formicid Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Nemelex Xobeh the Trickster
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached * piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached ** piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached *** piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached **** piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached ***** piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Reached ****** piety under Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     0 | D:1      | Received a gift from Nemelex Xobeh
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+ Abil: Dig               ||     4
+

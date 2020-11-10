@@ -1,0 +1,288 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6845916508184888683
+
+220 Gutygihu the Changer (level 5, 37/37 HPs) *WIZ*
+             Began as a Merfolk Transmuter on Oct 10, 2020.
+             Was a Follower of Uskayaw.
+             Quit the game in a sewer.
+             The game lasted 00:38:27 (5032 turns).
+
+Gutygihu the Changer (Merfolk Transmuter)           Turns: 5032, Time: 00:38:28
+
+Health: 37/37      AC:  3    Str: 10    XL:     5   Next: 97%
+Magic:  8/8        EV: 14    Int: 15    God:    Uskayaw [*.....]
+Gold:   71         SH:  0    Dex: 16    Spells: 2/8 levels left
+
+rFire    + . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   i - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   m - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.12/turn              q - ring of protection from fire
+MPRegen  0.11/turn              s - +3 ring of intelligence
+
+@: appendage (expiring)
+A: change form in water, swift swim, stealthy swim, horns 2
+a: End Transformation, Stomp, Renounce Religion
+
+
+You were in a sewer.
+You worshipped Uskayaw.
+Uskayaw was noncommittal.
+You were hungry.
+
+You had grown temporary horns.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+You also visited: Sewer.
+
+You collected 71 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling
+ b - a +0 dagger
+ A - a +0 short sword
+Missiles
+ e - 72 stones (quivered)
+ f - 38 arrows
+ n - 32 bolts
+ p - 4 curare-tipped needles
+Armour
+ i - a +0 robe (worn)
+ m - a +0 pair of gloves (worn)
+ v - a +0 scale mail
+Jewellery
+ q - a ring of protection from fire (left hand)
+ s - a +3 ring of intelligence (right hand)
+Scrolls
+ h - 5 scrolls of fog
+ k - a scroll of remove curse
+ l - 2 scrolls of amnesia
+ u - 2 scrolls of fear
+ x - a scroll of magic mapping
+ y - a scroll of blinking {unknown}
+Potions
+ c - a potion of might {unknown}
+ g - 4 potions of curing
+ j - a potion of mutation
+ o - a potion of agility
+ r - a potion of degeneration {unknown}
+ t - a potion of cancellation {unknown}
+ w - a potion of flight {unknown}
+ z - a potion of brilliance {unknown}
+Comestibles
+ d - 4 rations
+
+
+   Skills:
+ - Level 1.1 Fighting
+ + Level 0.4 Slings
+ - Level 4.0 Dodging
+ - Level 1.0 Stealth
+ - Level 4.1 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 5.9 Transmutations
+ - Level 1.0 Poison Magic
+ * Level 1.0 Invocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           ###...       1%          1    #......
+b - Sticks to Snakes      Tmut           ###.....     3%          2    ###....
+c - Spider Form           Tmut/Pois      ##........   16%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blade Hands              Tmut           ###.......   47%         5    ######.
+ Ice Form                 Ice/Tmut       ##......     54%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Hepliaklqana
+Okawaru
+Trog
+Uskayaw
+Xom
+Zin
+
+Annotations:
+D:1 hattch
+D:2 Jessica
+D:4 8 exclusions
+
+
+Innate Abilities, Weirdness & Mutations
+
+You revert to your normal form in water
+You are very nimble and swift while swimming.
+You are very stealthy in the water. (Stealth+)
+You have a pair of horns on your head.
+
+
+Message History
+
+You hit the plant but do no damage.
+You headbutt the plant, but do no damage.
+The plant is almost destroyed.
+You hit the plant.
+You destroy the plant!
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Your legs become a tail as you enter the water.
+g - 4 potions of curing (gained 2)
+Your transformation is almost over.
+Magic restored.
+Autopickup is now off.
+Partly explored, can't reach some places.
+Search for what [Enter for "corpse", or ? for help]? .
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Your legs become a tail as you enter the water.
+There is a gate leading back out of this place here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ###    ###         ###
+###~######~###    ####~##
+#~~~~~~##~~~~#    #~#~~~###
+~~~~~~~~~~~~~#    #~#~~~~~##
+~~~~~~~~~~~~~# #  #~#~~~~~~#
+~~~~~~~~~~~~~###P #~#~~~~~~#
+~~~~~~~~~~~~~#~#PP#~#~.~~~~#
+~~~~~.########~##PP.P~@\...##
+~~~~..~~~~~~~#~####P~..~.~..#
+~~~~~.########~##########P..#
+~~~~~~##    #P~#~~~~~~~~~...#
+~~~~.~.##  #P#~##########.P.#
+~~~~....###~.#~#     ##.....#
+~~~~~..~.### #~#    ##...~.##
+~~~~~~~.~.#  #~# ####...~.##
+~~~~~.~~.~####~###~.).~~~~.#
+~~~~~.~...~..#~#.~.~#~#~.~.##
+######P...~~~...~~~.#~#.~...#
+~~~~~.~P~~..~...P~~~#~#~....#
+######..~.~.~~..P..~#~#~~P.P#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc priest (D:3)
+  A centaur skeleton (D:4)
+  An iguana (D:4)
+  5 adders
+  3 worms
+  3 dart slugs
+  2 leopard geckos (D:4)
+  2 orcs (D:3)
+  4 ball pythons
+  2 giant cockroaches (D:1)
+  11 goblins
+  3 hobgoblins
+  13 jackals
+  12 kobolds
+  A quokka (D:4)
+  5 bats
+  7 frilled lizards
+  6 rats
+  A plant (Sewer)
+83 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A leopard gecko (D:4)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A worm (D:3)
+1 creature vanquished.
+
+Grand Total: 85 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gutygihu the Merfolk Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   276 | D:1      | Reached skill level 1 in Stealth
+   531 | D:1      | Reached skill level 3 in Transmutations
+   531 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   556 | D:1      | Learned a level 2 spell: Sticks to Snakes
+  1176 | D:1      | Reached XP level 3. HP: 22/26 MP: 4/6
+  1424 | D:1      | Entered wizard mode.
+  1523 | D:1      | Learned a level 3 spell: Spider Form
+  1582 | D:2      | Found a faded altar of an unknown god.
+  1708 | D:2      | Found a hazy altar of Hepliaklqana.
+  1709 | D:2      | Found a shadowy altar of Dithmenos.
+  2037 | D:2      | Noticed Jessica
+  2241 | D:2      | Found an iron altar of Okawaru.
+  2244 | D:2      | Found a bloodstained altar of Trog.
+  2295 | D:2      | Reached skill level 4 in Transmutations
+  2295 | D:2      | Reached skill level 1 in Poison Magic
+  2295 | D:2      | Reached XP level 4. HP: 31/32 MP: 5/7
+  2305 | D:2      | Found a hide-covered altar of Uskayaw.
+  2334 | D:2      | Became a worshipper of Uskayaw the Reveler
+  2563 | D:3      | Reached * piety under Uskayaw
+  2711 | D:3      | Reached ** piety under Uskayaw
+  2886 | D:3      | Found a shimmering altar of Xom.
+  2886 | D:3      | Found a glowing silver altar of Zin.
+  2886 | D:3      | Noticed an angel
+  3218 | D:3      | Reached skill level 5 in Transmutations
+  3223 | D:3      | Reached XP level 5. HP: 33/37 MP: 5/8
+  4161 | D:4      | Found a glowing drain.
+  4166 | Sewer    | Entered a sewer
+  4693 | Sewer    | Reached skill level 1 in Invocations
+  5032 | Sewer    | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Stealth        |  1             |  1.0
+Dodging        |  3     4       |  4.0
+Transmutations |  3     4  5    |  5.9
+Poison Magic   |        1       |  1.0
+Unarmed Combat |              4 |  4.1
+Invocations    |              1 |  1.0
+Fighting       |                |  1.1
+Slings         |                |  0.4
+Spellcasting   |                |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |  4138 |   224 ||  4362
+       Headbutt          |  1721 |    31 ||  1752
+       Punch             |   153 |     4 ||   157
+       Short sword       |  4000 |       ||  4000
+       Dagger            |     1 |       ||     1
+       Tailslap          |       |    13 ||    13
+ Fire: Hunting sling     |       |    33 ||    33
+Throw: Stone             |    58 |    44 ||   102
+ Cast: Beastly Appendage |    30 |    30 ||    60
+       Spider Form       |       |     1 ||     1
+       Sticks to Snakes  |       |     2 ||     2
+  Use: Scroll            |     5 |     5 ||    10
+       Potion            |     1 |     1 ||     2
+ Stab: Sleeping          |     1 |     1 ||     2
+       Distracted        |       |     1 ||     1
+  Eat: Chunk             |     5 |     9 ||    14
+Armor: Robe              |   544 |    26 ||   570
+       Skin              |       |     1 ||     1
+Dodge: Dodged            |  7024 |   105 ||  7129
+

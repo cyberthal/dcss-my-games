@@ -1,0 +1,324 @@
+Muaschu Punt
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(10, 6, D:1)
+  a cursed -2 club
+(12, 10, D:1)
+  a +0 club
+(23, 12, D:1)
+  a +0 dagger
+(41, 3, D:1)
+  a +0 club
+(45, 15, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 flail
+(2, -1, D:2)
+  a +0 dagger
+  a +0 robe
+(2, 0, D:2)
+  a +0 dagger
+  a +0 robe
+(5, -12, D:2)
+  a potion of lignification
+(27, -5, D:2)
+  a +0 club
+(30, 6, D:2)
+  a +0 long sword
+(30, 7, D:2)
+  a +0 club
+(31, -18, D:2)
+  a +0 club
+  a +0 short sword
+(33, 8, D:2)
+  a cursed -1 club
+  a +0 dagger
+(34, -13, D:2)
+  a +0 dagger
+(35, 10, D:2)
+  a +0 animal skin
+  a +0 club
+(41, 25, D:2)
+  a +0 dagger
+(45, 14, D:2)
+  a cursed -3 club
+(46, 15, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(1, 5, D:3)
+  a +0 club
+(4, -18, D:3)
+  a +0 spear
+  a +0 club
+  a +0 flail
+(8, 2, D:3)
+  a +0 club
+(10, 8, D:3)
+  a cursed -2 dagger
+(16, 7, D:3)
+  a cursed -2 club
+(16, 9, D:3)
+  a +0 club
+  a +0 hunting sling
+(17, 6, D:3)
+  a +0 dagger
+(23, 3, D:3)
+  a potion of lignification
+(29, -12, D:3)
+  a +0 leather armour
+(31, -11, D:3)
+  a +0 club
+(33, 24, D:3)
+  a +0 short sword
+(36, -11, D:3)
+  a cursed +0 club
+(41, -2, D:3)
+  a potion of lignification
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 battleaxe
+(6, 2, D:4)
+  a +0 rapier
+(7, 3, D:4)
+  a +0 giant spiked club
+(8, 1, D:4)
+  a +0 leather armour
+  a +0 short sword
+(13, 20, D:4)
+  a +0 robe
+  a +0 scythe
+(14, -1, D:4)
+  a +0 dagger
+  a +0 robe
+(24, -3, D:4)
+  a +0 club
+(25, 14, D:4)
+  a +0 robe
+(25, 15, D:4)
+  a +0 leather armour
+  a +0 dagger
+  a +0 shortbow
+(27, 13, D:4)
+  a +0 leather armour
+  a +0 flail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 leather armour
+(1, 14, D:5)
+  a +0 hand axe
+(5, 5, D:5)
+  a +0 chain mail
+  a +0 hand axe
+(6, 6, D:5)
+  a +0 giant spiked club
+(7, -5, D:5)
+  a +0 ring mail
+(7, 7, D:5)
+  a +0 whip
+(7, 26, D:5)
+  a +0 scale mail
+  a +0 hand axe
+(8, 26, D:5)
+  a +2 dagger of freezing
+(11, 9, D:5)
+  a +0 spear
+(13, 29, D:5)
+  a +0 scimitar
+(14, 25, D:5)
+  a +0 hand axe
+  a +0 dagger
+  a +0 ring mail
+(14, 26, D:5)
+  a +0 ring mail
+(15, -7, D:5)
+  a +3 dagger of freezing (still there?)
+  6 stones (still there?)
+(18, 24, D:5)
+  a +0 hunting sling
+(22, -8, D:5)
+  a +0 hand axe
+  a +0 leather armour
+(22, -7, D:5)
+  a +0 falchion
+  a +0 ring mail
+(23, -7, D:5)
+  a +0 hunting sling
+(28, 9, D:5)
+  a +0 giant club
+(31, -4, D:5)
+  a +0 ring mail
+(35, 22, D:5)
+  a +0 ring mail
+(36, 25, D:5)
+  a +0 scale mail
+  the +2 robe of Hommi Dyli {Dex+4}
+    It affects your dexterity (+4).
+  a +0 chain mail
+  a +0 ring mail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 robe
+(16, 11, D:6)
+  a +0 ring mail
+(26, 10, D:6)
+  a +0 scale mail
+(32, 23, D:6)
+  a +0 robe
+(33, 21, D:6)
+  an uncursed ring of attention
+(39, 22, D:6)
+  a +0 ring mail
+(43, 12, D:6)
+  a +0 leather armour
+
+Level 7 of the Dungeon
+[Shop] Vihit's Jewellery Shoppe
+  an uncursed ring of ice (300 gold)
+  an uncursed ring of poison resistance (240 gold)
+  an uncursed ring of flight (210 gold)
+  an uncursed ring of protection from cold (300 gold)
+  an uncursed ring of protection from magic (300 gold)
+  a +3 ring of evasion (252 gold)
+  a +5 amulet of reflection (494 gold)
+(0, 0, D:7)
+  a +0 animal skin
+(7, 15, D:7)
+  a +0 robe
+  a +0 flail
+(8, -16, D:7)
+  a +0 war axe
+(8, 17, D:7)
+  a +0 dagger
+  (unseen)
+(12, 14, D:7)
+  a +0 robe
+  a cursed +0 short sword
+(12, 25, D:7)
+  a +0 animal skin
+(18, 9, D:7)
+  a +0 robe
+  a cursed +2 flail
+(21, -12, D:7)
+  a +0 scale mail
+(21, 12, D:7)
+  a +0 giant club
+(22, 6, D:7)
+  a +0 spear
+  a +0 robe
+(26, 1, D:7)
+  3 large rocks
+(27, 30, D:7)
+  a +0 shield
+(37, 8, D:7)
+  a +0 scale mail
+(39, 24, D:7)
+  a +0 chain mail
+(49, 17, D:7)
+  a +0 animal skin
+(50, 13, D:7)
+  a +0 ring mail
+  a +0 hunting sling
+  a +0 quarterstaff
+(58, -4, D:7)
+  a +0 robe
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a cursed +1 morningstar of freezing
+  4 scrolls of amnesia
+  112 arrows
+  a +0 pair of gloves
+  17 bolts
+  a +0 shortbow
+  a +2 whip of freezing
+(8, -47, D:8)
+  a +0 dagger
+(8, -45, D:8)
+  a +0 falchion
+  a +0 war axe
+  a cursed +0 leather armour
+(8, -44, D:8)
+  a +0 robe
+  a +0 dagger
+(9, -19, D:8)
+  a cursed +0 quarterstaff
+(15, -30, D:8)
+  a +0 dire flail
+  a cursed +0 robe
+(16, -16, D:8)
+  a +0 robe
+  a cursed -2 hand axe
+(19, -31, D:8)
+  2 potions of lignification
+(20, -45, D:8)
+  a +0 robe
+(31, -4, D:8)
+  a +0 blowgun
+(41, -27, D:8)
+  a +0 quarterstaff
+(43, -22, D:8)
+  a cursed -2 animal skin
+  a +0 halberd
+  a potion of lignification
+(44, -28, D:8)
+  a +0 buckler
+(44, -22, D:8)
+  a +0 leather armour
+(49, -45, D:8)
+  a +0 pair of gloves
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a cursed +0 spear
+(1, -1, D:9)
+  a +0 spear
+(1, 1, D:9)
+  a +0 spear
+(2, 0, D:9)
+  a +0 halberd
+(49, -5, D:9)
+  a +0 mace
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 hand axe
+(10, 45, Lair:1)
+  a +0 blowgun
+(13, 4, Lair:1)
+  a killer bee corpse
+(34, -4, Lair:1)
+  a +0 ring mail
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a ration
+(9, -3, Lair:2)
+  a +0 chain mail
+(18, 3, Lair:2)
+  a sling bullet
+(19, 5, Lair:2)
+  a sling bullet
+(19, 6, Lair:2)
+  a sling bullet
+(20, 7, Lair:2)
+  a sling bullet
+(20, 11, Lair:2)
+  a spiny frog corpse
+(22, 8, Lair:2)
+  a potion of might
+(22, 11, Lair:2)
+  a killer bee corpse (still there?)
+  a spiny frog corpse (still there?)
+(29, 14, Lair:2)
+  20 gold pieces
+

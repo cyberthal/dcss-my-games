@@ -1,0 +1,125 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7544889104278705765
+
+0 Beirass the Sneak (level 1, 9/9 HPs)
+             Began as a Vine Stalker Enchanter on Oct 14, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:32 (0 turns).
+
+Beirass the Sneak (Vine Stalker Enchanter)             Turns: 0, Time: 00:00:33
+
+Health: 9/9        AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  4/4        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   a - +1 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: fangs 2, magic shield, antimagic bite, no potion heal 3, rot immunity
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 0.8 Short Blades
+ + Level 1.5 Dodging
+ + Level 3.6 Stealth
+ + Level 2.1 Spellcasting
+ + Level 3.0 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ##.....      6%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ensorcelled Hibernation  Hex/Ice        #.....       19%         2    ###....
+ Confuse                  Hex            ##......     19%         3    ###....
+ Tukima's Dance           Hex            ##......     19%         3    ###....
+ Dazzling Spray           Conj/Hex       #.....       34%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+Welcome, Beirass the Vine Stalker Enchanter.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found 2 inky potions and 7 gold pieces.
+Found a staircase leading out of the dungeon and a stone staircase leading
+down.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+......  .......
+......##.......
+#............#
+#............##
+...............
+...............
+......>........
+.......@.......
+...............
+...............
+#............##
+#............#
+......##.....!.
+.....$  .......
+......  .......
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Beirass the Vine Stalker Enchanter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Quit the game
+

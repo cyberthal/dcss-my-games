@@ -1,0 +1,523 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16071763166122232108
+
+10455 Riagut the Covert (level 11, 48/99 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 16, 2020.
+             Was a Priest of Kikubaaqudgha.
+             Quit the game in a Gauntlet.
+             The game lasted 02:03:57 (9583 turns).
+
+Riagut the Covert (Ghoul Monk)                      Turns: 9583, Time: 02:03:57
+
+Health: 48/99      AC: 17    Str: 22    XL:     11   Next: 62%
+Magic:  23/23      EV:  7    Int:  6    God:    Kikubaaqudgha 98 (0)
+Gold:   494        SH: 14    Dex: 13    Spells: 3/10 levels left
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + . .     Gourm    .   S - +0 large shield
+rNeg     + + +     Faith    .   d - +4 scale mail
+rPois    ?          Spirit   .   h - +2 helmet {SInv}
+rElec    .         Reflect  .   q - +2 cloak of Hesog {rPois MR- Str+3}
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   M - +0 pair of boots
+Stlth    +++.......             (no amulet)
+HPRegen  0.00/turn              J - ring of magical power
+MPRegen  0.18/turn              z - +3 ring of strength
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You were in a Gauntlet.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was most pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You also visited: Gauntlet.
+
+You collected 494 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling of freezing
+ b - a +1 dagger of venom
+ w - the +10 glaive "Ketam" {venom, *Contam rN++ Int+4 SInv}
+   (You found it in a Gauntlet)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It affects your intelligence (+4).
+   It greatly protects you from negative energy.
+   It lets you see invisible.
+   It causes magical contamination when unequipped.
+ G - a +2 short sword of distortion
+ H - the +6 rapier "Lacertilian's Regret" {pierce, rC+ Str-2 Dex+3 Stlth+}
+   (You found it in a Gauntlet)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (-2).
+   It affects your dexterity (+3).
+   It protects you from cold.
+   It makes you more stealthy.
+ I - a +2 hand axe of electrocution
+ L - a +3 morningstar of crushing
+ Q - a +2 vampiric halberd
+ T - a +4 spear
+Missiles
+ g - 184 stones
+ m - 3 throwing nets {!f}
+ n - 16 javelins
+ o - 39 sling bullets
+ D - 2 tomahawks (quivered)
+Armour
+ c - a +2 cloak
+ d - a +4 scale mail (worn)
+ h - a +2 helmet of see invisible (worn)
+ q - the +2 cloak of Hesog (worn) {rPois MR- Str+3}
+   (You found it in a Gauntlet)   
+   
+   It affects your strength (+3).
+   It protects you from poison.
+   It affects your resistance to hostile enchantments.
+ C - a +1 ring mail of fire resistance
+ M - a +0 pair of boots (worn)
+ S - a +0 large shield (worn)
+ Y - a +1 robe of the Archmagi
+Jewellery
+ f - an uncursed amulet of guardian spirit
+ u - an uncursed ring of wizardry
+ v - an uncursed ring of poison resistance
+ z - a +3 ring of strength (right claw)
+ J - a ring of magical power (left claw)
+ N - the amulet "Lav Mie" {RegenMP rC- rN+ Slay+2}
+   (You took it off a minotaur in a Gauntlet)   
+   
+   [amulet of magic regeneration]
+   
+   It increases your magic regeneration.
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+2).
+   It makes you vulnerable to cold.
+   It protects you from negative energy.
+Wands
+ p - a wand of random effects (13)
+ B - a wand of flame (33)
+ E - a wand of digging (5)
+ O - a wand of acid (3)
+ V - a wand of polymorph (8)
+Scrolls
+ e - 3 scrolls of teleportation
+ j - a scroll of magic mapping
+ l - 3 scrolls of amnesia
+ s - 2 scrolls of immolation
+ x - a scroll of noise
+ y - a scroll of remove curse
+ R - 3 scrolls of brand weapon
+Potions
+ i - a potion of flight
+ k - 2 potions of resistance
+ r - a potion of ambrosia
+ A - a potion of heal wounds
+ K - a potion of agility
+ P - 2 potions of curing
+ U - 7 potions of invisibility
+Miscellaneous
+ t - a phantom mirror
+Comestibles
+ F - 20 rations
+
+
+   Skills:
+ - Level 10.1 Fighting
+ - Level 3.0 Short Blades
+ - Level 3.0(3.1) Slings
+ - Level 1.1(2.2) Throwing
+ - Level 1.1 Armour
+ - Level 3.0 Dodging
+ - Level 10.6 Stealth
+ - Level 3.6 Shields
+ + Level 9.3 Unarmed Combat
+ - Level 2.4 Summonings
+ - Level 5.2 Necromancy
+ - Level 2.4 Translocations
+ - Level 6.3 Evocations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Animate Skeleton      Necr           N/A          95%         1    50
+b - Corpse Rot            Necr           N/A          98%         2    100
+c - Blink                 Tloc           N/A          100%        2    100
+d - Call Imp              Summ           2 (100)      100%        2    100
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           6 (25)       95%         1    50
+ Magic Dart               Conj           0 (25)       100%        1    50
+ Slow                     Hex            0 (100)      100%        2    100
+ Conjure Flame            Conj/Fire      0 (100)      100%        3    150
+ Mephitic Cloud           Conj/Pois/Air  0 (100)      100%        3    150
+ Vampiric Draining        Necr           6 (200)      100%        3    150
+ Animate Dead             Necr           N/A          100%        4    250
+ Bolt of Draining         Conj/Necr      3 (200)      100%        5    400
+ Borgnjor's Vile Clutch   Necr/Erth      3 (200)      100%        5    400
+ Dispel Undead            Necr           6 (100)      100%        5    400
+ Excruciating Wounds      Chrm/Necr      3 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:6            Lair (0/6) D:11
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:6 3 runed translucent doors, Marhog's ghost, novice OpTm
+D:8 2 transporters, ventolin's ghost, novice DrSk
+D:11 2 exclusions
+Gauntlet 1 transporter
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+The orc warlord freezes you.
+You scratch the orc warlord but do no damage.
+The orc warlord is severely wounded.
+The orc warlord closely misses you.
+You scratch the orc warlord but do no damage.
+The orc warlord is severely wounded.
+The orc warlord hits you with a +2 war axe of freezing!
+Your shield prevents you from hitting the orc warlord.
+The orc warlord is severely wounded.
+The orc warlord hits you with a +2 war axe of freezing.
+The orc warlord freezes you.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 98, Enter for 0): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         ###
+         #.#
+       ###'##
+     ###..}.#
+     #.'}...###
+     ###...}'.#
+       #.\..###
+       ###(##
+   #######(#######
+   #....))..(....#
+   #.###[###@###.#
+   #.......o(....#
+   ###.###.###.###
+ #####.###.###.#####
+ #................[#
+ #.7.7.^.^.^.^.7.7.#
+ #.................#
+ ####################
+    #...........###~## ~
+   #..7P.....P7..#~~~#~~
+  ...PP...\....P........
+ P.P7P.........P7P.P7P.P
+........................
+
+
+You could see an orc warlord.
+
+Vanquished Creatures
+  A minotaur (Gauntlet)
+  A hydra (D:9)
+  Erica (D:10)
+  A centaur warrior (D:10)
+  2 two-headed ogres (D:11)
+  A shining eye (Gauntlet)
+  A gargoyle (D:9)
+  A tengu conjurer (D:8)
+  A slime creature (Gauntlet)
+  A hippogriff (D:9)
+  A ynoxinul (Gauntlet)
+  3 hungry ghosts
+  A golden eye (Gauntlet)
+  A floating eye (Gauntlet)
+  A black bear (D:6)
+  2 phantoms
+  5 orc warriors
+  An ice beast (D:4)
+  An ogre (D:9)
+  5 sky beasts
+  12 centaurs
+  A crocodile (D:6)
+  A bullfrog (D:8)
+  3 scorpions
+  4 wights (D:9)
+  2 howler monkeys (D:4)
+  2 crimson imps (D:9)
+  2 quasits
+  5 orc priests
+  2 jellies
+  6 hounds
+  3 bullfrog skeletons
+  A centaur skeleton (D:7)
+  8 orc wizards
+  An iguana (D:9)
+  3 worker ants
+  A hound skeleton (D:7)
+  A howler monkey zombie (D:8)
+  A worker ant zombie (D:5)
+  6 adders
+  4 gnolls (D:2)
+  A shadow imp (D:5)
+  An adder skeleton (D:2)
+  2 worms
+  2 dart slugs
+  12 leopard geckos
+  34 orcs
+  A ball python (D:3)
+  6 bats
+  4 giant cockroaches
+  9 goblins
+  12 hobgoblins
+  2 jackals (D:1)
+  11 kobolds
+  5 quokkas
+  9 frilled lizards
+  A leopard gecko skeleton (D:7)
+  A quokka skeleton (D:6)
+  2 quokka zombies (D:7)
+  6 rats
+222 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hippogriff (D:11)
+  A shadow (D:11)
+  A wyvern (D:11)
+  An orc warrior (D:11)
+  An orc (D:11)
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  A cyclops (D:11)
+  An orc warrior (D:11)
+  A wight (D:11)
+  A howler monkey (D:11)
+  2 hounds (D:11)
+  An iron imp (Gauntlet)
+  An orc wizard (D:4)
+8 creatures vanquished.
+
+Grand Total: 235 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Riagut the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   198 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   383 | D:1      | Reached XP level 3. HP: 27/33 MP: 2/2
+   819 | D:2      | Found a shattered altar of Ashenzari.
+  1250 | D:2      | Reached skill level 1 in Throwing
+  1408 | D:2      | Reached XP level 4. HP: 37/40 MP: 3/3
+  1486 | D:2      | Reached skill level 5 in Unarmed Combat
+  1588 | D:2      | Reached XP level 5. HP: 28/47 MP: 4/4
+  1701 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1701 | D:2      | Found a basalt altar of Yredelemnul.
+  2244 | D:3      | Reached skill level 5 in Fighting
+  2577 | D:3      | Reached XP level 6. HP: 46/56 MP: 5/5
+  2936 | D:4      | Reached XP level 7. HP: 38/62 MP: 6/6
+  3038 | D:5      | Entered Level 5 of the Dungeon
+  3099 | D:4      | Reached skill level 1 in Slings
+  3836 | D:5      | Reached skill level 1 in Short Blades
+  3957 | D:5      | Reached XP level 8. HP: 64/71 MP: 8/8
+  4142 | D:5      | Found a blossoming altar of Fedhas.
+  4563 | D:6      | Reached skill level 5 in Stealth
+  4640 | D:6      | Found a staircase to the Ecumenical Temple.
+  4647 | Temple   | Entered the Ecumenical Temple
+  4728 | Temple   | Became a worshipper of Kikubaaqudgha
+  4728 | Temple   | Reached * piety under Kikubaaqudgha
+  4728 | Temple   | Identified Kikubaaqudgha's Almanac of Darkness
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+  4728 | Temple   | Received a gift from Kikubaaqudgha
+  4728 | Temple   | Reached ** piety under Kikubaaqudgha
+  4732 | Temple   | Learned a level 1 spell: Animate Skeleton
+  4735 | Temple   | Learned a level 2 spell: Corpse Rot
+  4898 | D:6      | Found a runed translucent gate.
+  4899 | D:6      | Found a runed translucent gate.
+  4900 | D:6      | Found a runed translucent gate.
+  4902 | D:6      | Noticed Marhog's ghost (novice OpTm)
+  5039 | D:6      | Reached skill level 1 in Necromancy
+  5332 | D:6      | Reached XP level 9. HP: 72/79 MP: 9/9
+  6552 | D:9      | Noticed a tengu conjurer
+  6568 | D:8      | Killed a tengu conjurer
+  6646 | D:8      | Found a transporter.
+  6651 | D:8      | Noticed ventolin's ghost (novice DrSk)
+  6659 | D:8      | Found a transporter.
+  7234 | D:9      | Noticed a six-headed hydra
+  7308 | D:10     | Entered Level 10 of the Dungeon
+  7335 | D:9      | Reached skill level 1 in Shields
+  7335 | D:9      | Noticed a gargoyle
+  7347 | D:9      | Reached XP level 10. HP: 70/91 MP: 11/11
+  7354 | D:9      | Killed a gargoyle
+  7354 | D:9      | Reached *** piety under Kikubaaqudgha
+  7354 | D:9      | Identified Kikubaaqudgha's Guide on Sinister Rites
+                  | (Kikubaaqudgha gifted it to you on level 9 of the Dungeon)
+  7354 | D:9      | Received a gift from Kikubaaqudgha
+  7957 | D:9      | Killed a six-headed hydra
+  7957 | D:9      | Reached skill level 5 in Evocations
+  8062 | D:9      | Learned a level 2 spell: Blink
+  8065 | D:9      | Learned a level 2 spell: Call Imp
+  8245 | D:10     | Noticed Erica
+  8255 | D:10     | Killed Erica
+  8437 | D:11     | Noticed a two-headed ogre
+  8444 | D:11     | Killed a two-headed ogre
+  8444 | D:11     | Reached skill level 5 in Necromancy
+  8451 | D:11     | Reached XP level 11. HP: 92/97 MP: 13/13
+  8451 | D:11     | Killed a cyclops
+  8559 | D:11     | Noticed a centaur warrior
+  8600 | D:10     | Killed a centaur warrior
+  8600 | D:10     | Reached skill level 10 in Stealth
+  8742 | D:11     | Noticed a two-headed ogre
+  8755 | D:11     | Killed a two-headed ogre
+  8755 | D:11     | Reached skill level 1 in Armour
+  8775 | D:11     | Found a staircase to the Lair.
+  8821 | D:11     | Found a shimmering altar of Xom.
+  8831 | D:11     | Found a gate leading to a gauntlet.
+  8866 | Gauntlet | Entered a Gauntlet
+  8866 | Gauntlet | Found a transporter.
+  8879 | Gauntlet | Found a transporter.
+  8906 | Gauntlet | Found a transporter.
+  8915 | Gauntlet | Found a transporter.
+  8916 | Gauntlet | Found a transporter.
+  8916 | Gauntlet | Noticed a shining eye
+  8917 | Gauntlet | Found a transporter.
+  8917 | Gauntlet | Noticed a death ooze
+  8927 | Gauntlet | Killed a shining eye
+  8952 | Gauntlet | Paralysed by a floating eye for 4 turns
+  8964 | Gauntlet | Paralysed by a floating eye for 3 turns
+  9074 | Gauntlet | Found the +0 sword of Power
+  9074 | Gauntlet | Found a transporter.
+  9076 | Gauntlet | Got a warped cloak
+  9081 | Gauntlet | Got a crude glaive
+  9281 | Gauntlet | Identified the +2 cloak of Hesog {rPois MR- Str+3} (You
+                  | found it in a Gauntlet)
+  9313 | Gauntlet | Identified the amulet "Lav Mie" {RegenMP rC- rN+ Slay+2}
+  9313 | Gauntlet | Noticed a minotaur
+  9321 | Gauntlet | Entered wizard mode.
+  9325 | Gauntlet | Slain by a minotaur
+                  | ... wielding a +2 vampiric halberd
+                  | (14 damage)
+  9332 | Gauntlet | HP: 2/97 [minotaur/+2 vampiric halberd (37)]
+  9333 | Gauntlet | Mangled by a minotaur
+                  | ... wielding a +2 vampiric halberd
+                  | (13 damage)
+  9341 | Gauntlet | Mangled by a minotaur
+                  | ... wielding a +2 vampiric halberd
+                  | (22 damage)
+  9352 | Gauntlet | Killed a minotaur
+  9352 | Gauntlet | Reached skill level 10 in Fighting
+  9366 | Gauntlet | Got an ancient rapier
+  9401 | Gauntlet | Identified the +2 cloak of Hesog {rPois MR- Str+3} (You
+                  | found it in a Gauntlet)
+  9401 | Gauntlet | Identified the +10 glaive "Ketam" {venom, *Contam rN++
+                  | Int+4 SInv} (You found it in a Gauntlet)
+  9401 | Gauntlet | Identified the +6 rapier "Lacertilian's Regret" {pierce,
+                  | rC+ Str-2 Dex+3 Stlth+} (You found it in a Gauntlet)
+  9401 | Gauntlet | Identified the amulet "Lav Mie" {RegenMP rC- rN+ Slay+2}
+                  | (You took it off a minotaur in a Gauntlet)
+  9401 | Gauntlet | Found the +0 sword of Power
+  9401 | Gauntlet | Identified the cursed ring "Geje" {rC- rN++ Int-2}
+  9424 | Gauntlet | Noticed an orc warlord
+  9465 | Gauntlet | Noticed a juggernaut
+  9465 | Gauntlet | Noticed an orc warlord
+  9583 | Gauntlet | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Fighting       |        4     5     6  7  9    10 | 10.1
+Unarmed Combat |        4  5     6     7  8     9 |  9.3
+Throwing       |        1                         |  1.1
+Stealth        |              3        6  9    10 | 10.6
+Slings         |                    1  2     3    |  3.0
+Evocations     |                    2     3  5  6 |  6.3
+Short Blades   |                    2           3 |  3.0
+Necromancy     |                       1  3  5    |  5.2
+Dodging        |                          3       |  3.0
+Shields        |                          1  3    |  3.6
+Summonings     |                             2    |  2.4
+Translocations |                             2    |  2.4
+Armour         |                                1 |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   101 |   188 |   212 |   137 ||   638
+       Punch             |     2 |     3 |    10 |     3 ||    18
+       Dagger            |       |       |    70 |    28 ||    98
+ Fire: Hunting sling     |       |       |   222 |   152 ||   374
+Throw: Stone             |    71 |    59 |     1 |       ||   131
+       Tomahawk          |       |       |     3 |     5 ||     8
+ Cast: Animate Skeleton  |       |       |     2 |     6 ||     8
+       Call Imp          |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     1 |     4 ||     5
+  Use: Scroll            |     6 |     6 |     9 |     4 ||    25
+       Potion            |       |     2 |       |     8 ||    10
+ Stab: Sleeping          |       |       |       |     1 ||     1
+       Invisible         |       |       |       |     5 ||     5
+  Eat: Chunk             |     9 |    11 |    20 |    24 ||    64
+Armor: Robe              |    16 |       |       |       ||    16
+       Ring mail         |     6 |    12 |       |       ||    18
+       Scale mail        |       |    47 |   164 |    59 ||   270
+Dodge: Dodged            |    88 |    76 |   129 |    44 ||   337
+Block: Large shield      |       |       |       |    76 ||    76
+

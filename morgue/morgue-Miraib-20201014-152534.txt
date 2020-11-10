@@ -1,0 +1,270 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2747395697164254094
+
+371 Miraib the Scratcher (level 6, 25/25 HPs)
+             Began as a Felid Conjurer on Oct 14, 2020.
+             Quit the game on level 4 of the Dungeon.
+             The game lasted 00:56:53 (8441 turns).
+
+Miraib the Scratcher (Felid Conjurer)               Turns: 8441, Time: 00:56:53
+
+Health: 25/25      AC:  2    Str:  4    XL:     6   Next: 42%
+Magic:  10/10      EV: 21    Int: 18    God:    
+Gold:   195        SH:  0    Dex: 17    Spells: 3/9 levels left
+                                        Lives:  1   Deaths: 1
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.08/turn              p - ring of protection from magic
+MPRegen  0.12/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 2, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 195 gold pieces.
+
+Inventory:
+
+Missiles
+ a - 143 stones
+ i - 37 arrows
+Jewellery
+ f - an uncursed ring of protection from fire {unknown}
+ g - a cursed amulet of inaccuracy {unknown}
+ h - an uncursed amulet of faith {unknown}
+ p - a ring of protection from magic (left paw)
+Scrolls
+ c - a scroll of fear
+ d - a scroll of amnesia
+ e - 2 scrolls of teleportation
+ o - a scroll of magic mapping {unknown}
+Potions
+ j - 3 potions of brilliance {unknown}
+ k - 2 potions of haste
+ l - a potion of flight {unknown}
+ m - a potion of curing {unknown}
+ n - a potion of heal wounds {unknown}
+Comestibles
+ b - 7 rations
+
+
+   Skills:
+ - Level 1.0 Fighting
+ - Level 5.4 Dodging
+ - Level 5.1 Stealth
+ + Level 6.3 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 3.6 Conjurations
+ - Level 1.0 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         4%          1    #......
+b - Searing Ray           Conj           ##....       6%          2    ###....
+c - Dazzling Spray        Conj/Hex       ##....       22%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Iskenderun's Mystic Bla  Conj           ##......     38%         4    #####..
+ Fulminant Prism          Conj/Hex       ##........   56%         4    #####..
+ Force Lance              Conj/Tloc      #.......     65%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Fedhas
+Hepliaklqana
+Vehumet
+Zin
+
+Annotations:
+D:2 exclusion: downstairs
+D:3 Grinder
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+The magic dart hits the sky beast but does no damage.
+The sky beast is almost dead.
+The sky beast misses you.
+Casting: Magic Dart (safe; 4% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Magic Dart (safe; 4% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - sky beast
+Aim: a sky beast (rain, severely wounded)
+The magic dart hits the sky beast but does no damage.
+The sky beast is severely wounded.
+The sky beast hits you.
+* * * LOW HITPOINT WARNING * * *
+The sky beast shocks you.
+* * * LOW HITPOINT WARNING * * *
+The sky beast hits you.
+You die...
+The sky beast shocks you.
+You are now level 6!
+You rejoin the land of the living...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+######...##....#     #...
+    ####'##)...#     #...
+    #..........#     ####
+    #....##...##     #...
+    #....##...##     #...
+    ##...##....#     #...
+   ########...########...
+   #......#...##.....#...
+   #......'..........#...
+   #......#.....>....[...
+   #.....##...##.....#...
+   #.##..####+##.....#...
+ ###+###'##..........####
+ #.@.....................
+ #............##..>..##..
+ #.......##...##.....##..
+ #.......##...##.....##..
+ #.......+...............
+ ##########..............
+          #..............
+          #..........##..
+          #...##.....####
+          ######.....##..
+              #..........
+              #..........
+              ##.....####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An ogre (D:5)
+  A big kobold (D:4)
+  A bullfrog (D:5)
+  A scorpion (D:4)
+  4 orc wizards
+  A gnoll shaman (D:4)
+  An orc priest (D:5)
+  A hound (D:5)
+  A jelly (D:5)
+  Robin (D:2)
+  6 gnolls
+  2 adders
+  An ooze (D:3)
+  3 worms
+  2 dart slugs (D:1)
+  7 leopard geckos
+  12 orcs
+  7 giant cockroaches
+  11 goblins
+  11 hobgoblins
+  7 jackals
+  9 kobolds
+  2 quokkas (D:2)
+  8 bats
+  6 frilled lizards
+  9 rats
+116 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Miraib the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   598 | D:1      | Reached XP level 2. HP: 12/12 MP: 3/6
+   602 | D:1      | Learned a level 2 spell: Searing Ray
+   666 | D:1      | Reached skill level 1 in Fighting
+   666 | D:1      | Reached skill level 1 in Unarmed Combat
+  1446 | D:1      | Reached skill level 2 in Unarmed Combat
+  1446 | D:1      | Reached XP level 3. HP: 15/15 MP: 3/7
+  1671 | D:2      | Learned a level 3 spell: Dazzling Spray
+  1886 | D:2      | Noticed Robin
+  1911 | D:2      | Reached skill level 1 in Hexes
+  2706 | D:2      | Reached XP level 4. HP: 19/19 MP: 0/8
+  3410 | D:2      | Killed Robin
+  4321 | D:3      | Reached XP level 5. HP: 16/22 MP: 1/9
+  4487 | D:3      | Noticed Grinder
+  4711 | D:3      | Reached skill level 3 in Unarmed Combat
+  4907 | D:3      | Found a hazy altar of Hepliaklqana.
+  4908 | D:3      | Found a glowing silver altar of Zin.
+  5068 | D:4      | Reached skill level 5 in Dodging
+  5258 | D:4      | Found a blossoming altar of Fedhas.
+  5258 | D:4      | Found a radiant altar of Vehumet.
+  5281 | D:4      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  5281 | D:4      | Reached XP level 6. HP: 25/25 MP: 6/10
+  5350 | D:4      | Reached skill level 5 in Stealth
+  6300 | D:4      | Reached skill level 4 in Unarmed Combat
+  6710 | D:4      | Found a blossoming altar of Fedhas.
+  6710 | D:4      | Found a radiant altar of Vehumet.
+  7065 | D:5      | Entered Level 5 of the Dungeon
+  7174 | D:5      | Reached skill level 5 in Unarmed Combat
+  7174 | D:5      | Reached XP level 7. HP: 11/28 MP: 5/11
+  8065 | D:5      | Reached skill level 6 in Unarmed Combat
+  8440 | D:4      | Slain by a sky beast
+  8441 | D:4      | Reached XP level 6. HP: -2/25 MP: 1/10
+  8441 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Dodging        |  3        4  5       |  5.4
+Fighting       |     1                |  1.0
+Unarmed Combat |     2        3  5  6 |  6.3
+Stealth        |     3     4     5    |  5.1
+Hexes          |        1             |  1.0
+Spellcasting   |                      |  2.0
+Conjurations   |                      |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    27 |    78 |     2 ||   107
+       Bite              |     1 |     4 |       ||     5
+ Cast: Magic Dart        |    76 |   108 |    49 ||   233
+       Searing Ray       |     6 |    18 |     4 ||    28
+       Dazzling Spray    |       |     6 |     3 ||     9
+  Use: Scroll            |     5 |     3 |       ||     8
+       Potion            |     2 |       |       ||     2
+ Stab: Sleeping          |     2 |       |       ||     2
+       Distracted        |       |     1 |       ||     1
+  Eat: Chunk             |    12 |    12 |     3 ||    27
+Armor: Skin              |     3 |     6 |       ||     9
+Dodge: Dodged            |    23 |    97 |     4 ||   124
+

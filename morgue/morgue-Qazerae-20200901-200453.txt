@@ -1,0 +1,229 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11435867511548085117
+
+0 Qazerae the Covered (level 1, 20/20 HPs) *WIZ*
+             Began as a Gnoll Wanderer on Sept 1, 2020.
+             Was the Champion of Okawaru.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:03:41 (6 turns).
+
+Qazerae the Covered (Gnoll Wanderer)                   Turns: 6, Time: 00:03:41
+
+Health: 20/20      AC:  2    Str: 15    XL:     1   Next: 0%
+Magic:  2/2        EV:  8    Int: 16    God:    Okawaru 200 (0)
+Gold:   0          SH:  8    Dex: 11    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hand axe
+rCold    . . .     Gourm    .   b - +0 shield
+rNeg     . . .     Faith    .   d - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: Heroism, Finesse, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Okawaru.
+Okawaru was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+ g - a +2 broad axe of distortion
+ h - a +3 shortbow of freezing
+ k - a +2 battleaxe of venom
+ l - a +4 hunting sling of flaming
+ m - the +2 quarterstaff of Saltpetre {crush, rC+ Dex+3, unknown}
+   (Okawaru gifted it to you on level 1 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your dexterity (+3).
+   It protects you from cold.
+ n - the +8 war axe of Equivalence {freeze, rElec rPois rN+++ Int-3, unknown}
+   (Okawaru gifted it to you on level 1 of the Dungeon)   
+   
+   It has been specially enchanted to freeze those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents. It can also slow down cold-blooded creatures.
+   
+   It affects your intelligence (-3).
+   It insulates you from electricity.
+   It protects you from poison.
+   It renders you almost immune to negative energy.
+ o - a +1 war axe of freezing
+ p - a +6 war axe of venom
+Missiles
+ e - 126 bolts
+Armour
+ b - a +0 shield (worn)
+ d - a +0 robe (worn)
+ i - a +2 pair of boots of flying
+ j - a +2 pair of gloves of dexterity
+ q - a +0 cloak of poison resistance
+Wands
+ c - a wand of random effects (15)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 4.4 Fighting
+ + Level 0.0 Short Blades
+ + Level 0.0 Long Blades
+ + Level 4.4 Axes
+ + Level 0.0 Maces & Flails
+ + Level 0.0 Polearms
+ + Level 0.0 Staves
+ + Level 0.0 Slings
+ + Level 0.0 Bows
+ + Level 2.3 Crossbows
+ + Level 0.0 Throwing
+ + Level 6.4 Armour
+ + Level 0.0 Dodging
+ + Level 0.0 Stealth
+ + Level 2.3 Shields
+ + Level 0.0 Unarmed Combat
+ + Level 0.0 Spellcasting
+ + Level 0.0 Conjurations
+ + Level 0.0 Hexes
+ + Level 0.0 Charms
+ + Level 0.0 Summonings
+ + Level 0.0 Necromancy
+ + Level 0.0 Translocations
+ + Level 0.0 Transmutations
+ + Level 0.0 Fire Magic
+ + Level 0.0 Ice Magic
+ + Level 0.0 Air Magic
+ + Level 0.0 Earth Magic
+ + Level 0.0 Poison Magic
+ + Level 0.0 Invocations
+ + Level 2.3 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Something appears at your feet!
+Okawaru grants you a weapon!
+Something appears at your feet!
+Okawaru grants you armour!
+Something appears at your feet!
+Okawaru grants you a weapon!
+Something appears at your feet!
+Okawaru grants you a weapon!
+Unknown command.
+k - a glowing battleaxe {god gift}; l - a runed hunting sling {god gift}; m - a
+scorched quarterstaff {god gift}; n - a slimy war axe {god gift}
+o - a glowing war axe {god gift}; p - a glowing war axe {god gift}; e - 126
+bolts (gained 31); q - a runed cloak {god gift}
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Take off which item? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+...+.$.......+.......................+......
+..##.........####...#.###.###.#...####......
+#####.......##  #.....# #.# #....##  ##.....
+    ##.....##   #.##### #.# ###..#    ##....
+     ##...##    #?#     #.#   #..#     ##...
+      ##+########.#     #.#####..#      ##+#
+      #........##$#     #........#       #.#
+      #..#####.##.#     #######.##########.#
+##############.##.#           #.# #.........
+..##..####...######           #.# #.#####...
+###.##.##.###.##..######      #.# #.###.....
+..###.##### ##.#.#.##..#      #.###.##.#....
+#.#.##..#### #..###..=.#      #.......###...
+#..#####...###.##.###.@#      #####.##.#.#..
+#..#..#.##.##.##.##....#          #.........
+..#.#..####...##...##..#          ########.#
+########################   ######        #.#
+       #.#########         #....#        #.#
+       #.#.......#####     #.##.#        #.#
+       #.#.#####.....#     #.##.#        #>#
+       #.#.#   #.###.#     #"##.##########.#
+########.#.#   #.# #.#     #............##.#
+.......#.#.#   #.###.#     #..#..##.###%##.#
+....##.....#####.....#     #..#..##........$
+###.##.$.........#.###    ##.....######.....
+# #...........####.#      #......######.#...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qazerae the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Qazerae set off with the following items: a +0 hand axe, a
+                  | +0 shield, a wand of random effects (15), a +0 robe, a
+                  | ration
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 2/2
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Warmaster Okawaru
+     0 | D:1      | Reached * piety under Okawaru
+     0 | D:1      | Reached ** piety under Okawaru
+     0 | D:1      | Reached *** piety under Okawaru
+     0 | D:1      | Reached **** piety under Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Received a gift from Okawaru
+     0 | D:1      | Reached ***** piety under Okawaru
+     1 | D:1      | Received a gift from Okawaru
+     2 | D:1      | Received a gift from Okawaru
+     2 | D:1      | Reached ****** piety under Okawaru
+     2 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     3 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     4 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Received a gift from Okawaru
+     5 | D:1      | Got a scorched quarterstaff {god gift}
+     5 | D:1      | Got a slimy war axe {god gift}
+     6 | D:1      | Quit the game
+

@@ -1,0 +1,165 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13991534274373081760
+
+0 Yjoxoete the Ducker (level 1, -2/10 HPs)
+             Began as a Felid Abyssal Knight on Aug 20, 2020.
+             Was a Follower of Lugonu.
+             Killed from afar by a smoke demon (10 damage)
+             ... with a ball of steam
+             ... on level 1 of the Abyss.
+             The game lasted 00:02:14 (205 turns).
+
+Yjoxoete the Ducker (Felid Abyssal Knight)           Turns: 205, Time: 00:02:14
+
+Health: -2/10      AC:  1    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 18    Int: 13    God:    Lugonu [*.....]
+Gold:   14         SH:  0    Dex: 15    Spells: 0/0 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+You collected 14 gold pieces.
+
+Inventory:
+
+Scrolls
+ b - a scroll of amnesia {unknown}
+ d - a scroll of remove curse {unknown}
+Potions
+ c - a potion of flight {unknown}
+ e - a potion of berserk rage {unknown}
+Comestibles
+ a - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 3.2 Dodging
+ + Level 2.0 Unarmed Combat
+ + Level 1.7 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+A spatial vortex comes into view.
+The spatial maelstrom moves out of view.
+The green very ugly thing moves out of view.
+Found 4 gold pieces.
+A spatial vortex comes into view.
+The spatial vortex moves out of view.
+You see here 4 gold pieces.
+You now have 14 gold pieces (gained 4).
+A spatial vortex comes into view.
+The spatial vortex moves out of view.
+The worldbinder calls forth creatures from the Crypt!
+A smoke demon comes into view.
+The smoke demon gestures at you.
+The ball of steam misses you.
+You are engulfed in a cloud of scalding steam.
+A bone dragon comes into view.
+The smoke demon gestures at you.
+The ball of steam hits you!
+Ouch! That really hurt!
+You die...
+
+    #
+   #.##.
+# #.#..         #####
+. ..  #         #.#.# ###
+ 3. #.#          #..##..#
+ .0.  # ##   ##   #.#@#
+ #0# .#  .#  #..####0#..#
+  x0#### #.   #....0#####
+ .  #. . ..## ####..#
+..##.#.#  #.###.#.#..#
+#.###.# ## ....#3.####
+ #  ##.# ..## #.##.#
+###.#...3...#..## # .
+ .#..##...#..###   ...#
+ D #  ..##.##...     ##
+ .# .  ##. # .#.#
+ ## ###   #.  . #
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Yjoxoete the Felid Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 10/10 MP: 3/3
+     6 | Abyss:1  | Found a burning altar of Makhleb.
+    32 | Abyss:1  | Found a viscous altar of Jiyva.
+    45 | Abyss:1  | Noticed an unseen horror
+    61 | Abyss:1  | Noticed a cacodemon
+   153 | Abyss:1  | Noticed a worldbinder
+   156 | Abyss:1  | Noticed a spatial vortex
+   157 | Abyss:1  | Noticed a spatial maelstrom
+   157 | Abyss:1  | Noticed a green very ugly thing
+   157 | Abyss:1  | Noticed a spatial vortex
+   157 | Abyss:1  | Noticed a spatial vortex
+   157 | Abyss:1  | Noticed a spatial vortex
+   158 | Abyss:1  | Noticed a spatial vortex
+   161 | Abyss:1  | Noticed a spatial vortex
+   179 | Abyss:1  | Noticed a wraith
+   183 | Abyss:1  | Noticed a smoke demon
+   187 | Abyss:1  | Noticed a bone dragon
+   205 | Abyss:1  | Killed from afar by a smoke demon
+
+Action                   || total
+-------------------------++-------
+Dodge: Dodged            ||     1
+

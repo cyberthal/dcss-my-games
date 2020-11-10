@@ -1,0 +1,473 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14740562890983883595
+
+10400 Noafonu the Archer (level 11, 89/89 HPs) *WIZ*
+             Began as a Centaur Monk on Aug 13, 2020.
+             Was an Elder of Qazlal.
+             Quit the game on level 8 of the Dungeon on Aug 14, 2020.
+             The game lasted 03:03:14 (15755 turns).
+
+Noafonu the Archer (Centaur Monk)                  Turns: 15755, Time: 03:03:15
+
+Health: 89/89      AC: 11    Str: 16    XL:     11   Next: 35%
+Magic:  16/16      EV: 13    Int:  9    God:    Qazlal [****..]
+Gold:   564        SH:  5    Dex: 13    Spells: 1/16 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   J - +2 leather armour {rPois}
+rPois    +         Spirit   .   O - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             Z - amulet of regeneration
+HPRegen  0.64/turn              m - +3 ring of evasion
+MPRegen  0.15/turn              H - +4 ring of protection
+
+@: repel missiles, very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: Upheaval, Elemental Force, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was greatly pleased with you.
+You were very hungry.
+
+You visited 2 branches of the dungeon, and saw 9 of its levels.
+
+You collected 564 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 blowgun
+ b - a +0 shortbow
+ c - a +2 falchion of holy wrath
+ d - a +3 falchion of freezing
+ e - a +0 mace of protection
+ f - a +1 flail of draining
+ g - a +2 flail of crushing
+ h - a +4 hand axe
+Missiles
+ o - 2 throwing nets {!f}
+ v - 35 arrows
+ A - 55 poisoned needles
+ G - 8 tomahawks (quivered)
+ U - 7 curare-tipped needles
+Armour
+ k - a +0 chain mail
+ y - a +0 shield
+ E - a +0 scale mail
+ J - a +2 leather armour of poison resistance (worn)
+ O - a +0 helmet (worn)
+ S - a +0 leather armour of magic resistance
+Jewellery
+ m - a +3 ring of evasion (left hand)
+ p - an uncursed ring of fire
+ z - an uncursed ring of poison resistance
+ D - an uncursed ring of see invisible
+ H - a +4 ring of protection (right hand)
+ T - an uncursed ring of flight
+ Z - an amulet of regeneration (around neck)
+Wands
+ r - a wand of enslavement (11)
+ s - a wand of flame (13)
+ K - a wand of polymorph (3)
+Scrolls
+ l - 2 scrolls of fear
+ t - a scroll of fog
+ u - 2 scrolls of magic mapping {unknown}
+ L - 5 scrolls of remove curse
+ Q - 2 scrolls of immolation
+Potions
+ x - a potion of magic
+ F - a potion of lignification
+ N - a potion of might
+ P - a potion of brilliance
+ R - a potion of curing
+ W - 2 potions of heal wounds
+Comestibles
+ w - 19 rations
+
+
+   Skills:
+ - Level 6.0 Fighting
+ - Level 2.0 Long Blades
+ - Level 2.0(4.0) Axes
+ - Level 2.1(3.1) Maces & Flails
+   Level 4.9(5.4) Polearms
+   Level 2.6(4.4) Staves
+ - Level 10.9 Bows
+ - Level 7.1 Throwing
+ - Level 2.3 Dodging
+ - Level 1.1 Stealth
+ - Level 3.0 Spellcasting
+ - Level 2.5 Conjurations
+ - Level 2.0 Hexes
+ - Level 2.0 Summonings
+ - Level 2.6 Translocations
+ - Level 1.1 Fire Magic
+ - Level 1.0 Air Magic
+ - Level 1.0 Poison Magic
+ + Level 7.4 Invocations
+ - Level 4.2 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Slow                  Hex            #.......     24%         2    ###....
+b - Call Imp              Summ           #.......     24%         2    ###....
+c - Blink                 Tloc           N/A          19%         2    ###....
+d - Summon Guardian Gole  Hex/Summ       #.......     43%         3    ####...
+e - Conjure Flame         Conj/Fire      #.......     45%         3    ####...
+f - Mephitic Cloud        Conj/Pois/Air  #.......     52%         3    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         13%         1    ##.....
+ Summon Small Mammal      Summ           #...         16%         1    ##.....
+ Call Canine Familiar     Summ           #.......     43%         3    ####...
+ Summon Lightning Spire   Summ/Air       #.......     89%         4    #####..
+ Summon Ice Beast         Ice/Summ       #.......     94%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:5            Lair (0/6) D:8
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:3 exclusion: downstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+The floor.
+You see here a crude chain mail.
+Items here: !!!!!! ????
+l - 2 scrolls of fear; t - a scroll of fog; Q - 2 scrolls of immolation; L - 5
+scrolls of remove curse; P - a potion of brilliance; R - a potion of curing
+W - 2 potions of heal wounds; F - a potion of lignification; x - a potion of
+magic; N - a potion of might
+Press: ? - help, v - describe, . - travel, g - get item
+A scroll labeled YTESEIXK ZOCVE.
+There is something else lying underneath.
+The floor.
+Items here: ))))
+an ichor-stained falchion; a runed hand axe; a runed dagger; a brightly glowing
+scimitar
+Items here: ??????
+a scroll labeled YTESEIXK ZOCVE; a scroll labeled VOUKID GAIGH; a scroll
+labeled KASESMUAFOBB; a scroll labeled FEBLIE PIOLISA; 2 scrolls labeled MUISO
+TOUPRET
+a scroll labeled RASAYKKIO
+u - 2 scrolls labeled MUISO TOUPRET
+Okay, then.
+Okay, then.
+You have 564 gold pieces.
+Enter Wizard Command (? - help): 
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+....#
+....#                  #############
+....#    ###########  ##.....#.....##
+....#    #.........####.............##
+....######...........................#
+..[....................#.............#
+......####...........................#
+#####..###.............#.............#
+    ##.................#.............#
+#########......................<....####
+........................>....#.........#
+#########.##.##..0.>.0....############.##
+>..######.##.##.....00....#8##       #..#
+........#....##...#.).@......##      ##.##
+........#.#........[()0.......###     #..#
+.............##....[...........8#     ##.##
+.............##.##........#.....##     #..#
+#.......................###8.....####  ##.#
+#........#...##..##).####  ##.....#8###8#.#
+.........#....#..##.##      ##............#
+..#..##..#..#.......#   ###  #............#
+.....##.....##......#####.# ##............#
+#...###...#..#.##.#.##....###.....#8###8###
+#..###..#.......#.#)#.....#8.....#### ##
+#.........#.....#.#<......#.....##
+#.....######....#.#............8#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Harold (D:7)
+  A hydra (D:8)
+  7 death yaks (D:7)
+  2 dream sheep (D:8)
+  2 yaks (D:8)
+  2 sky beasts (D:5)
+  An orc warrior (D:7)
+  A necrophage (D:6)
+  An ogre (D:4)
+  3 centaurs
+  4 big kobolds
+  6 bullfrogs
+  3 scorpions
+  17 killer bees
+  9 wights
+  3 crimson imps
+  A bullfrog zombie (D:8)
+  3 centaur skeletons
+  An orc priest (D:8)
+  3 hounds
+  2 bullfrog skeletons
+  12 orc wizards
+  Terence (D:2)
+  4 iguanas
+  8 worker ants
+  A hound zombie (D:8)
+  4 hound skeletons
+  10 gnolls
+  13 adders
+  An ooze (D:2)
+  3 adder skeletons
+  A worm (D:2)
+  2 dart slugs
+  5 leopard geckos
+  31 orcs
+  A ball python (D:5)
+  6 giant cockroaches
+  3 goblins
+  9 hobgoblins
+  6 jackals
+  9 quokkas
+  A ball python skeleton (D:5)
+  6 bats
+  8 frilled lizards
+  2 jackal skeletons
+  9 kobolds
+  A leopard gecko zombie (D:5)
+  A quokka skeleton (D:5)
+  6 rats
+  2 butterflies
+239 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Edmund (D:5)
+  An orc warrior (D:5)
+  A howler monkey (D:6)
+  An iguana (D:5)
+  An orc wizard (D:6)
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  A leopard gecko skeleton (D:6)
+1 creature vanquished.
+
+Grand Total: 245 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Noafonu the Centaur Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+   510 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+   972 | D:2      | Reached skill level 1 in Throwing
+  1013 | D:2      | Reached XP level 3. HP: 31/31 MP: 3/3
+  1338 | D:2      | Reached XP level 4. HP: 21/41 MP: 4/4
+  1513 | D:2      | Found a shadowy altar of Dithmenos.
+  1555 | D:2      | Noticed Terence
+  1900 | D:2      | Found a deep blue altar of Sif Muna.
+  2696 | D:2      | Found a shadowy altar of Dithmenos.
+  2701 | D:2      | Found a deep blue altar of Sif Muna.
+  2924 | D:2      | Killed Terence
+  2924 | D:2      | Reached skill level 5 in Fighting
+  2939 | D:2      | Entered wizard mode.
+  2939 | D:2      | armor not worth training yet.
+  2939 | D:2      | rough start, had to spend invis and haste to kill edmund
+                  | and get decent gear.  orc wizs trouble on d3
+  3203 | D:2      | Reached XP level 5. HP: 44/48 MP: 5/5
+  4220 | D:3      | Reached XP level 6. HP: 56/56 MP: 6/6
+  4395 | D:3      | Reached skill level 1 in Long Blades
+  6022 | D:4      | Reached skill level 1 in Staves
+  6022 | D:4      | Reached XP level 7. HP: 61/61 MP: 7/7
+  6056 | D:4      | Found a basalt altar of Yredelemnul.
+  6075 | D:4      | Noticed Sigmund
+  6255 | D:4      | Found a bloodstained altar of Trog.
+  6302 | D:3      | Learned a level 2 spell: Blink
+  6305 | D:3      | Learned a level 2 spell: Call Imp
+  6443 | D:5      | Entered Level 5 of the Dungeon
+  6598 | D:5      | Found a staircase to the Ecumenical Temple.
+  6653 | Temple   | Entered the Ecumenical Temple
+  6716 | Temple   | Became a worshipper of Qazlal Stormbringer
+  6716 | Temple   | Reached * piety under Qazlal
+  6716 | Temple   | Reached ** piety under Qazlal
+  6971 | D:5      | Reached skill level 1 in Summonings
+  6971 | D:5      | Reached skill level 1 in Translocations
+  7003 | D:5      | Learned a level 2 spell: Slow
+  7130 | D:5      | Reached skill level 1 in Spellcasting
+  7130 | D:5      | Reached skill level 1 in Invocations
+  7176 | D:5      | Reached skill level 1 in Bows
+  7466 | D:5      | Reached skill level 1 in Hexes
+  7667 | D:5      | Reached skill level 2 in Bows
+  7667 | D:5      | Reached XP level 8. HP: 47/69 MP: 9/9
+  7884 | D:5      | Learned a level 3 spell: Conjure Flame
+  7977 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  7977 | D:5      | Noticed Jessica
+  7979 | D:5      | Noticed Jessica
+  7979 | D:5      | Jessica changed into Jessica the frilled lizard
+  7982 | D:5      | Killed Jessica the frilled lizard
+  8017 | D:5      | Found a shattered altar of Ashenzari.
+  8058 | D:5      | Noticed Edmund
+  8090 | D:5      | Killed Edmund
+  8090 | D:5      | Reached skill level 1 in Conjurations
+  8090 | D:5      | Reached skill level 1 in Fire Magic
+  8090 | D:5      | Reached skill level 1 in Evocations
+  8663 | D:4      | Noticed Sigmund
+  8663 | D:4      | Sigmund changed into Sigmund the iguana
+  8670 | D:4      | Killed Sigmund the iguana
+  9316 | D:6      | Found a snail-covered altar of Cheibriados.
+  9331 | D:5      | Reached skill level 1 in Maces & Flails
+  9387 | D:5      | Reached skill level 3 in Bows
+  9460 | D:6      | Got a brightly glowing scimitar
+  9788 | D:5      | Reached skill level 4 in Bows
+  9983 | D:5      | Reached XP level 9. HP: 74/74 MP: 12/12
+ 10441 | D:6      | Reached *** piety under Qazlal
+ 10441 | D:6      | Reached skill level 1 in Axes
+ 10528 | D:6      | Got an ichor-stained falchion
+ 10602 | D:6      | Found a burning altar of Makhleb.
+ 10700 | D:6      | Reached skill level 5 in Bows
+ 10969 | D:6      | Found an opulent altar of Gozag.
+ 11758 | D:7      | Learned a level 3 spell: Mephitic Cloud
+ 12191 | D:7      | Reached skill level 6 in Bows
+ 12311 | D:7      | Reached **** piety under Qazlal
+ 12397 | D:7      | Reached skill level 1 in Air Magic
+ 12475 | D:7      | Found a shimmering altar of Xom.
+ 13106 | D:8      | Noticed Harold
+ 13109 | D:8      | Noticed a death yak
+ 13110 | D:8      | Noticed a death yak
+ 13110 | D:8      | Noticed a death yak
+ 13111 | D:8      | Noticed a death yak
+ 13112 | D:8      | Noticed a death yak
+ 13131 | D:7      | Reached skill level 1 in Poison Magic
+ 13158 | D:7      | Killed Harold
+ 13158 | D:7      | Reached skill level 7 in Bows
+ 13351 | D:8      | Reached skill level 8 in Bows
+ 13351 | D:8      | Reached XP level 10. HP: 80/81 MP: 14/14
+ 13412 | D:8      | Noticed a death yak
+ 13469 | D:7      | Killed a death yak
+ 13469 | D:7      | Reached skill level 9 in Bows
+ 13469 | D:7      | Reached skill level 5 in Invocations
+ 13578 | D:7      | Learned a level 3 spell: Summon Guardian Golem
+ 13586 | D:8      | Noticed a death yak
+ 13614 | D:7      | Killed a death yak
+ 13614 | D:7      | Reached skill level 5 in Throwing
+ 13813 | D:7      | Reached skill level 10 in Bows
+ 14122 | D:7      | Killed a death yak
+ 14336 | D:8      | Found a staircase to the Lair.
+ 14340 | D:8      | Got a crude chain mail
+ 14373 | D:7      | Killed a death yak
+ 14481 | D:7      | Killed a death yak
+ 14753 | D:8      | Reached XP level 11. HP: 89/89 MP: 16/16
+ 15033 | D:7      | Killed a death yak
+ 15171 | D:7      | Killed a death yak
+ 15480 | D:8      | Noticed a two-headed hydra
+ 15498 | D:8      | Killed a one-headed hydra
+ 15590 | D:8      | char OP; tedium main threat
+ 15755 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Polearms       |     3           4                |  4.9
+Throwing       |     1        2  3        4  5  7 |  7.1
+Fighting       |        4  5                    6 |  6.0
+Long Blades    |                 2                |  2.0
+Staves         |                 1  2             |  2.6
+Summonings     |                    1  2          |  2.0
+Translocations |                    1  2          |  2.6
+Spellcasting   |                    1  2  3       |  3.0
+Invocations    |                    2  3  4  7    |  7.4
+Bows           |                    2  4  8 10    | 10.9
+Hexes          |                    1        2    |  2.0
+Conjurations   |                       1     2    |  2.5
+Fire Magic     |                       1          |  1.1
+Evocations     |                       2     3  4 |  4.2
+Maces & Flails |                       1  2       |  2.1
+Axes           |                          2       |  2.0
+Air Magic      |                          1       |  1.0
+Poison Magic   |                          1       |  1.0
+Dodging        |                                  |  2.3
+Stealth        |                                  |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |    99 |    62 |       |       ||   161
+       Kick              |    14 |  8576 |    38 |  4257 || 12885
+       Trident           |       |  8098 |       |       ||  8098
+       Falchion          |       |  4000 |    58 |    54 ||  4112
+       Halberd           |       |  8047 |    69 |       ||  8116
+       Lajatang          |       |  4012 |    80 |  4000 ||  8092
+       Flail             |       |       |    43 |    11 ||    54
+       Hand axe          |       |       |     3 |       ||     3
+       Glaive            |       |       |     1 |  4062 ||  4063
+       Mace              |       |       |       |     3 ||     3
+ Fire: Shortbow          |       |       |   193 |    81 ||   274
+       Blowgun           |       |       |    21 |    36 ||    57
+Throw: Stone             |    46 |   120 |     3 |     1 ||   170
+       Tomahawk          |       |     4 |     1 |     7 ||    12
+       Throwing net      |       |       |     1 |       ||     1
+ Cast: Call Imp          |       |       |    16 |       ||    16
+       Slow              |       |       |     2 |       ||     2
+       Blink             |       |       |     5 |     1 ||     6
+Invok: Upheaval          |       |       |     2 |       ||     2
+Evoke: Wand              |       |       |     6 |       ||     6
+  Use: Scroll            |     2 |     7 |     5 |       ||    14
+       Potion            |     2 |     3 |     3 |       ||     8
+ Stab: Sleeping          |     1 |       |       |       ||     1
+  Eat: Chunk             |       |     9 |    21 |     5 ||    35
+       Ration            |       |     1 |       |       ||     1
+Armor: Robe              |    20 |    10 |       |       ||    30
+       Chain mail        |       |    13 |       |       ||    13
+       Leather armour    |       |  1614 |   111 |  5070 ||  6795
+       Ring mail         |       |  2374 |       |       ||  2374
+       Scale mail        |       |  2894 |       |       ||  2894
+Dodge: Dodged            |    17 | 10804 |   181 |  6859 || 17861
+Block: Other             |       |       |    58 |  3077 ||  3135
+Rpst.: Falchion          |       |   650 |    14 |    11 ||   675
+

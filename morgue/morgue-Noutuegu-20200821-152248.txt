@@ -1,0 +1,214 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1178283265032626691
+
+0 Noutuegu the Conjurer (level 1, 7/7 HPs) *WIZ*
+             Began as a Felid Conjurer on Aug 21, 2020.
+             Was an Initiate of Jiyva.
+             Quit the game on level 5 of the Dungeon.
+             The game lasted 00:07:22 (8396 turns).
+
+Noutuegu the Conjurer (Felid Conjurer)              Turns: 8396, Time: 00:07:22
+
+Health: 7/7        AC:  1    Str:  6    XL:     1   Next: 0%
+Magic:  4/4        EV: 18    Int: 15    God:    Jiyva 29 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Jiyva.
+Jiyva was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 15 of its levels.
+
+Inventory:
+
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           12 (25)      4%          1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           12 (50)      8%          2    70
+ Dazzling Spray           Conj/Hex       6 (50)       32%         3    120
+ Iskenderun's Mystic Bla  Conj           12 (100)     45%         4    220
+ Force Lance              Conj/Tloc      6 (100)      71%         4    220
+ Fulminant Prism          Conj/Hex       6 (200)      71%         4    220
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (15/15)            Temple (0/1) D:6            Lair (0/6) D:10
+    Orc (0/2) D:12         Vaults (0/5) D:13         Depths (0/5) D:15
+
+Altars:
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Makhleb
+Nemelex Xobeh
+Qazlal
+Sif Muna
+The Shining One
+Beogh
+
+Shops:
+D:8 [
+
+Portals:
+Trove: D:14 (give 4 potions of resistance)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Unknown command.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 36, Enter for 0): 
+Setting piety to 16.
+You can no longer request a jelly.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 16, Enter for 0): 
+Setting piety to 20.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 20, Enter for 0): 
+Setting piety to 25.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 25, Enter for 0): 
+Setting piety to 30.
+You can now request a jelly.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 30, Enter for 0): 
+Setting piety to 29.
+You can no longer request a jelly.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.#.##.#          #.....#
+#......#          #.###.#
+########          ### #.#
+                      #.#
+#######################.#
+.#.#.#.#.#.#.#.#.#.#.#..#
+#.#.#.#.#.#.#.#.#.#.#$#.#
+##.###.###.###.###.###..#
+#.#.#.#.#.#.#.#.#.#.#.#.#
+.#.#.#.#.#.#.#.#.#.#!#..#
+#########################
+                      ###
+###############  ### ##.##
+.....##.#..#..#  #.###@..######
+..#####.##....#  #.##....J....#
+#.#####.###.#.#  #.#.....####.##########
+#.......#.....#  #(#.##.##  #..........#
+#########.#####  #.#.##.#   ##########.#
+#      #...#     #......#            #.#
+       #...#     ##...###            #.#
+       #...########...#              #.#
+##     #.........###.##   #######    #.#
+.#######....####.# #.###  #.....#   ##.###
+.##..<....$......# #...####.....#   #....#
+.................# #...?........#   ##.#.##
+.##.(............# #.>.####.....#    ##...##
+
+
+You could see a neutral jelly (fellow slime).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Noutuegu the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Jiyva Joruann the Shapeless
+   300 | D:1      | Found a snail-covered altar of Cheibriados.
+   302 | D:2      | Found a burning altar of Makhleb.
+   304 | D:3      | You fall through a shaft for 3 floors!
+   305 | D:6      | Found a glowing golden altar of the Shining One.
+   305 | D:6      | Found a stormy altar of Qazlal.
+   305 | D:6      | Found a blossoming altar of Fedhas.
+   305 | D:6      | Found a staircase to the Ecumenical Temple.
+   305 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+   306 | D:5      | Entered Level 5 of the Dungeon
+   311 | D:3      | Found a blossoming altar of Fedhas.
+   322 | D:7      | Noticed a centaur
+   323 | D:7      | Found a stormy altar of Qazlal.
+   325 | D:8      | Found Qeh Soagroi's Armour Emporium.
+   325 | D:8      | Found an opulent altar of Gozag.
+   325 | D:8      | Found a shadowy altar of Dithmenos.
+   327 | D:9      | Found a roughly hewn altar of Beogh.
+   328 | D:10     | Entered Level 10 of the Dungeon
+   329 | D:10     | Found a staircase to the Lair.
+   330 | D:11     | Noticed a scorpion
+   331 | D:11     | Found a frozen archway.
+   332 | D:12     | Noticed a basilisk
+   333 | D:12     | Found a staircase to the Orcish Mines.
+   334 | D:13     | Noticed a deep elf mage
+   335 | D:13     | Found a gate to the Vaults.
+   336 | D:14     | Noticed a centaur warrior
+   336 | D:14     | Noticed a centaur
+   336 | D:14     | Noticed a centaur
+   336 | D:14     | Noticed a centaur
+   337 | D:14     | Found a portal to a secret trove of treasure.
+   337 | D:14     | Found a runed translucent door.
+   338 | D:15     | Entered Level 15 of the Dungeon
+   338 | D:15     | Noticed Rupert
+   339 | D:15     | Found a deep blue altar of Sif Muna.
+   339 | D:15     | Found a staircase to the Depths.
+   525 | D:15     | Reached * piety under Jiyva
+   965 | D:15     | Reached ** piety under Jiyva
+  8396 | D:5      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Request Jelly     ||    10
+

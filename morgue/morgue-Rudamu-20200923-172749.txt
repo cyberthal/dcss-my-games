@@ -1,0 +1,140 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1990177100591433193
+
+23 Rudamu the Skirmisher (level 3, 38/38 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 23, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:42 (3 turns).
+
+Rudamu the Skirmisher (Ghoul Monk)                     Turns: 3, Time: 00:00:42
+
+Health: 38/38      AC:  2    Str: 14    XL:     3   Next: 0%
+Magic:  2/2        EV: 14    Int:  6    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.12/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ c - 10 potions of experience
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 6.8 Fighting
+ + Level 5.6 Dodging
+ + Level 6.8 Stealth
+ + Level 6.8 Unarmed Combat
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+c - 12 potions of experience
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+You feel more experienced!
+Your Fighting skill gained 2 levels and is now at level 5!
+Your Dodging skill gained 2 levels and is now at level 4!
+Your Stealth skill gained 2 levels and is now at level 4!
+Your Unarmed Combat skill gained 2 levels and is now at level 5!
+You have reached level 2!
+You feel more experienced!
+Your Fighting skill increases to level 6!
+Your Dodging skill increases to level 5!
+Your Stealth skill gained 2 levels and is now at level 6!
+Your Unarmed Combat skill increases to level 6!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #+#
+  #.#
+###.###
+#..@..#
+###.###
+  ...
+ #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rudamu the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached skill level 5 in Fighting
+     1 | D:1      | Reached skill level 5 in Unarmed Combat
+     1 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+     2 | D:1      | Reached skill level 5 in Dodging
+     2 | D:1      | Reached XP level 3. HP: 38/38 MP: 2/2
+     3 | D:1      | Quit the game
+
+Skill      XL: |  1  2 |
+---------------+-------+-----
+Fighting       |  5  6 |  6.8
+Dodging        |  4  5 |  5.6
+Stealth        |  4  6 |  6.8
+Unarmed Combat |  5  6 |  6.8
+
+Action                   || total
+-------------------------++-------
+  Use: Potion            ||     2
+

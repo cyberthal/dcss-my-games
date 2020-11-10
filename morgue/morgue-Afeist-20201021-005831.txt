@@ -1,0 +1,105 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7628306130050369334
+
+0 Afeist the Ducker (level 1, 16/16 HPs)
+             Began as a Human Gladiator on Oct 21, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:30 (0 turns).
+
+Afeist the Ducker (Human Gladiator)                    Turns: 0, Time: 00:00:31
+
+Health: 16/16      AC:  4    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  8    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 quarterstaff
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+Missiles
+ d - 3 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 3.0 Staves
+ + Level 2.0 Throwing
+ + Level 3.0 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Afeist the Human Gladiator.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found 5 gold pieces.
+Found a staircase leading out of the dungeon.
+A goblin comes into view. It is wielding a +0 dagger.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+...##..##    ..
+........####...
+...............
+. ..#.....#.. .
+....#.....#...
+....#.....#.#
+....#.....#.#
+    #$.@..#
+ #..#.....#.#
+ #..#.....#.#
+ ##.#.....#.#
+  #.#.....#..
+  #..........g.
+  ##.........##
+   ###########
+
+
+You could see a goblin (sleeping).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Afeist the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+     0 | D:1      | Quit the game
+

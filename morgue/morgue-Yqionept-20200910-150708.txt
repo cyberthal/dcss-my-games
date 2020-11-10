@@ -1,0 +1,312 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8245497525563852330
+
+1248 Yqionept the Ducker (level 8, 39/39 HPs) *WIZ*
+             Began as a Spriggan Skald on Sept 10, 2020.
+             Was a Follower of Elyvilon.
+             Quit the game on level 4 of the Dungeon.
+             The game lasted 01:44:35 (13632 turns).
+
+Yqionept the Ducker (Spriggan Skald)               Turns: 13632, Time: 01:44:36
+
+Health: 39/39      AC:  2    Str:  7    XL:     8   Next: 26%
+Magic:  9/13       EV: 22    Int: 16    God:    Elyvilon [*.....]
+Gold:   319        SH:  0    Dex: 16    Spells: 4/12 levels left
+
+rFire    . . .     SeeInvis +   b - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   F - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: infused, very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Lesser Healing, Divine Protection, Renounce Religion
+
+
+You were on level 4 of the Dungeon.
+You worshipped Elyvilon.
+Elyvilon was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 319 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 blowgun
+ b - a +0 spear (weapon)
+ c - a +2 short sword of electrocution
+ d - a +4 short sword of speed
+ e - a +1 flail of venom
+ f - a +0 hunting sling
+ s - a +0 short sword of venom
+ C - a +0 hand axe
+ D - a +4 short sword
+ I - a +0 scimitar of electrocution
+Missiles
+ i - 75 bolts
+ j - 158 stones
+ k - 88 arrows
+ y - 13 poisoned needles
+ H - 5 tomahawks (quivered)
+ L - 45 sling bullets
+Armour
+ F - a +0 robe (worn)
+Jewellery
+ h - a cursed ring of teleportation
+ l - a cursed ring of teleportation
+ v - an uncursed ring of fire {unknown}
+ w - an uncursed ring of poison resistance {unknown}
+ G - an uncursed amulet of the gourmand {unknown}
+Scrolls
+ g - 2 scrolls of teleportation
+ m - 2 scrolls of enchant weapon {unknown}
+ p - a scroll of amnesia {unknown}
+ r - a scroll of immolation {unknown}
+ u - a scroll of blinking {unknown}
+ E - a scroll of enchant armour {unknown}
+ K - a scroll of fog {unknown}
+ M - a scroll of identify
+Potions
+ n - 2 potions of might
+ o - a potion of agility
+ q - 3 potions of curing
+ t - 2 potions of cancellation
+ x - a potion of heal wounds
+ A - a potion of flight {unknown}
+ B - a potion of brilliance {unknown}
+ J - a potion of magic {unknown}
+Comestibles
+ z - a ration
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 3.2 Short Blades
+ - Level 1.7 Polearms
+ + Level 5.9(6.1) Slings
+ - Level 2.1(3.8) Throwing
+ - Level 7.0 Dodging
+ - Level 4.0 Stealth
+ - Level 2.6 Spellcasting
+ - Level 1.0 Hexes
+ - Level 7.0 Charms
+ - Level 2.6 Translocations
+ - Level 2.1 Invocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           ###.         1%          1    #......
+b - Song of Slaying       Chrm           ###.....     1%          2    ##.....
+c - Shroud of Golubria    Chrm/Tloc      ###.......   4%          2    ##.....
+d - Spectral Weapon       Hex/Chrm       ###.....     11%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Regeneration             Chrm/Necr      ##........   14%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)             Temple (0/1) D:4         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Okawaru
+Qazlal
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Aim: a big kobold, wielding a +0 short sword (severely wounded)
+You reach to attack! You hit the big kobold!
+The big kobold is almost dead.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - big kobold
+Aim: a big kobold, wielding a +0 short sword (almost dead)
+You reach to attack! You hit the big kobold.
+The big kobold is almost dead.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - big kobold
+Aim: a big kobold, wielding a +0 short sword (almost dead)
+You reach to attack! You closely miss the big kobold.
+The big kobold is almost dead.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - big kobold
+Aim: a big kobold, wielding a +0 short sword (almost dead)
+You reach to attack! You hit the big kobold.
+The big kobold is almost dead.
+Enter note: quitting cuz not playing well enough.  running low on rations. 
+maybe need different god?
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+        #.###....................#   #.~~~~~
+        #.....########.###########   #..~~~~
+        #######      #.#             #....~~
+                     #.#             #......
+                     #.#             #......
+                     #.#             #.#####
+                     #.#########     #.#  #.
+                     #>#.......#     #.#  #.
+       ######## ###  #.#.#####.#     #.####.
+       #......###.## #.#.#   #.#     #......
+       #.####.##...###.#.#####.#     #####..
+       #....................)..#         #..
+       #.#................#.#.)###       ##.
+       #.#.##.#.......@K.........#        #.
+       #......#....##...#.###.##)#        ##
+       #.....##.#.####.##.....##)#
+       #.....##[###  #.#########)#
+       #.....%..#    #.#    ####)#    ######
+   #########.####   ##'#### #...)#### #.....
+####..........#######.....###.##)...###.##.#
+..........................).................
+............................................
+.~~.~~~.~~~~~~~..~..~~..~~~~~.~.~~~~((...~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~(...)~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~(....~~
+~~~~~~~~~#####~~~~~~~~~~~~~~~~~~~~~~~)(..~~~
+
+
+You could see a big kobold.
+
+Vanquished Creatures
+  3 ogres
+  2 big kobolds (D:4)
+  2 scorpions (D:4)
+  A howler monkey (D:3)
+  A hound (D:4)
+  7 orc priests
+  3 orc wizards
+  An iguana (D:4)
+  2 worker ants (D:4)
+  A hound skeleton (D:4)
+  Robin (D:1)
+  6 gnolls (D:4)
+  8 adders
+  3 leopard geckos
+  17 orcs
+  2 giant cockroaches (D:2)
+  21 hobgoblins
+  23 jackals
+  7 kobolds
+  3 quokkas
+  A ball python (D:3)
+  11 bats
+  5 frilled lizards
+  39 goblins
+  8 rats
+178 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Yqionept the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+   145 | D:1      | Reached skill level 1 in Stealth
+   422 | D:1      | Reached XP level 2. HP: 15/15 MP: 0/6
+   599 | D:1      | Learned a level 2 spell: Song of Slaying
+   860 | D:1      | Reached skill level 1 in Short Blades
+   995 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1262 | D:1      | Reached XP level 3. HP: 16/18 MP: 4/8
+  1739 | D:2      | Reached skill level 1 in Translocations
+  1816 | D:2      | Reached skill level 5 in Charms
+  2677 | D:2      | Noticed Robin
+  3044 | D:1      | Killed Robin
+  3044 | D:1      | Reached XP level 4. HP: 23/23 MP: 2/9
+  4044 | D:2      | Learned a level 3 spell: Spectral Weapon
+  4439 | D:3      | Found a stormy altar of Qazlal.
+  4449 | D:3      | Found an iron altar of Okawaru.
+  4449 | D:3      | Found a snail-covered altar of Cheibriados.
+  4452 | D:3      | Found a shattered altar of Ashenzari.
+  5119 | D:2      | Reached skill level 1 in Hexes
+  5305 | D:3      | Reached XP level 5. HP: 25/26 MP: 4/10
+  5402 | D:3      | Noticed an ogre
+  5442 | D:3      | Killed an ogre
+  6552 | D:3      | Reached XP level 6. HP: 22/30 MP: 11/11
+  6678 | D:3      | Found a white marble altar of Elyvilon.
+  6689 | D:3      | Became a worshipper of Elyvilon the Healer
+  6902 | D:3      | Found a white marble altar of Elyvilon.
+  7028 | D:3      | Reached skill level 1 in Throwing
+  8032 | D:3      | Found a stormy altar of Qazlal.
+  8033 | D:3      | Found an iron altar of Okawaru.
+  8034 | D:3      | Found a shattered altar of Ashenzari.
+  8035 | D:3      | Found a snail-covered altar of Cheibriados.
+  8246 | D:3      | Found a white marble altar of Elyvilon.
+  8943 | D:4      | Reached skill level 5 in Dodging
+  9550 | D:4      | Reached XP level 7. HP: 35/35 MP: 12/12
+  9584 | D:4      | Found a staircase to the Ecumenical Temple.
+ 10541 | D:4      | Reached skill level 1 in Slings
+ 10926 | D:4      | Reached * piety under Elyvilon
+ 12164 | D:4      | Reached XP level 8. HP: 39/39 MP: 3/13
+ 12498 | D:4      | Reached skill level 5 in Slings
+ 12611 | D:4      | Reached skill level 1 in Invocations
+ 13632 | D:4      | quitting cuz not playing well enough.  running low on
+                  | rations.  maybe need different god?
+ 13632 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Stealth        |  1  2  3     4          |  4.0
+Short Blades   |     1        3          |  3.2
+Translocations |        1        2       |  2.6
+Charms         |        5     6     7    |  7.0
+Fighting       |        2                |  2.0
+Hexes          |           1             |  1.0
+Throwing       |                 1  2    |  2.1
+Dodging        |                 6  7    |  7.0
+Slings         |                    4  5 |  5.9
+Invocations    |                       2 |  2.1
+Polearms       |                         |  1.7
+Spellcasting   |                         |  2.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |  4151 |    71 |    76 ||  4298
+       Dagger            |  4036 |       |       ||  4036
+       Short sword       |       |   109 |    59 ||   168
+ Fire: Blowgun           |       |    54 |    20 ||    74
+       Hunting sling     |       |       |   237 ||   237
+Throw: Stone             |    56 |    60 |    10 ||   126
+       Tomahawk          |       |       |    13 ||    13
+ Cast: Infusion          |    18 |    24 |    16 ||    58
+       Song of Slaying   |     3 |     5 |    11 ||    19
+       Shroud of Golubri |     5 |    19 |     5 ||    29
+       Spectral Weapon   |       |       |     5 ||     5
+  Use: Potion            |     2 |       |       ||     2
+       Scroll            |       |     4 |       ||     4
+ Stab: Distracted        |     1 |       |       ||     1
+       Sleeping          |       |     5 |       ||     5
+  Eat: Ration            |       |     4 |     3 ||     7
+Armor: Robe              |   494 |     6 |     1 ||   501
+Dodge: Dodged            |  5804 |    85 |    58 ||  5947
+

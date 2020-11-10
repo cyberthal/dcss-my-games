@@ -1,0 +1,160 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 783348154895353092
+
+23 Qan Ysenn the Sniper (level 3, 61/61 HPs) *WIZ*
+             Began as a Gnoll Wanderer on Sept 7, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:12 (3 turns).
+
+Qan Ysenn the Sniper (Gnoll Wanderer)                  Turns: 3, Time: 00:02:13
+
+Health: 61/61      AC:  6    Str: 14    XL:     3   Next: 0%
+Magic:  2/26       EV: 27    Int: 15    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 46/46 levels left
+
+rFire    . . .     SeeInvis .   a - +0 club
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   e - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++++++..             (no amulet)
+HPRegen  0.20/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 club (weapon)
+Missiles
+ b - 2 throwing nets (quivered)
+Armour
+ e - a +0 leather armour (worn)
+Wands
+ d - a wand of random effects (15)
+Potions
+ c - a potion of lignification
+ g - 10 potions of experience
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 22.0 Fighting
+ + Level 22.0 Short Blades
+ + Level 22.0 Long Blades
+ + Level 22.0 Axes
+ + Level 22.0 Maces & Flails
+ + Level 22.0 Polearms
+ + Level 22.0 Staves
+ + Level 22.0 Slings
+ + Level 22.0 Bows
+ + Level 22.0 Crossbows
+ + Level 22.0 Throwing
+ + Level 22.0 Armour
+ + Level 22.0 Dodging
+ + Level 22.0 Stealth
+ + Level 22.0 Shields
+ + Level 22.0 Unarmed Combat
+ + Level 22.0 Spellcasting
+ + Level 22.0 Conjurations
+ + Level 22.0 Hexes
+ + Level 22.0 Charms
+ + Level 22.0 Summonings
+ + Level 22.0 Necromancy
+ + Level 22.0 Translocations
+ + Level 22.0 Transmutations
+ + Level 22.0 Fire Magic
+ + Level 22.0 Ice Magic
+ + Level 22.0 Air Magic
+ + Level 22.0 Earth Magic
+ + Level 22.0 Poison Magic
+ + Level 22.0 Invocations
+ + Level 22.0 Evocations
+
+
+You had 46 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Set all skills to what level? 22
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? !
+What type of item? exp
+Potion of experience
+Something appears at your feet!
+g - 12 potions of experience
+You feel more experienced!
+You have reached level 2!
+You feel more experienced!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##           ##
+...         ...
+....       ...$
+}$...##+##....}
+$..............
+  #....@....#
+  ##.......##
+   #########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qan Ysenn the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Qan Ysenn set off with the following items: a +0 club, 2
+                  | throwing nets, a potion of lignification, a wand of random
+                  | effects (15), a +0 leather armour, a ration
+     0 | D:1      | Reached XP level 1. HP: 20/20 MP: 2/2
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 55/55 MP: 2/25
+     2 | D:1      | Reached XP level 3. HP: 61/61 MP: 2/26
+     3 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+  Use: Potion            ||     2
+

@@ -1,0 +1,590 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5159910759479983120
+
+26591 Tecwoedd the Fighter (level 13, 118/118 HPs) *WIZ*
+             Began as a Ghoul Assassin on Aug 30, 2020.
+             Was a High Priest of Yredelemnul.
+             Quit the game on level 2 of the Orcish Mines on Aug 31, 2020.
+             The game lasted 03:13:59 (17531 turns).
+
+Tecwoedd the Fighter (Ghoul Assassin)              Turns: 17531, Time: 03:14:00
+
+Health: 118/118    AC: 24    Str: 18    XL:     13   Next: 27%
+Magic:  16/17      EV: 20    Int: 10    God:    Yredelemnul [*****.]
+Gold:   1119       SH: 11    Dex: 12    Spells: 12/12 levels left
+
+rFire    + . .     SeeInvis .   N - +5 war axe {chop, *Drain +Inv MR++ Int+4}
+rCold    + . .     Gourm    .   D - +2 shield
+rNeg     + + +     Faith    .   S - +2 plate armour {rF+}
+rPois    ?          Spirit   .   G - +0 helmet
+rElec    .         Reflect  .   e - +2 cloak {rPois}
+rCorr    .         Harm     .   Y - +2 pair of gloves
+MR       ++...                  y - +1 pair of boots
+Stlth    ..........             M - amulet of the acrobat
+HPRegen  0.29/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: acrobat, rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Recall Undead Slaves, Injury Mirror, Animate Dead, Drain Life, Enslave Soul,
+Renounce Religion, Evoke Invisibility
+
+
+You were on level 2 of the Orcish Mines.
+You worshipped Yredelemnul.
+Yredelemnul was extremely pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 14 of its levels.
+You also visited: Volcano.
+
+You collected 1520 gold pieces.
+You spent 401 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 trident of freezing
+ b - a +1 scimitar of flaming
+ c - a +0 dagger of venom
+ d - the +5 great sword of Gravity {elec, rC+}
+   (You took it off an orc warrior on level 10 of the Dungeon)   
+   
+   Occasionally, upon striking a foe, it will discharge some electrical energy
+   and cause terrible harm.
+   
+   It protects you from cold.
+ f - a +0 hunting sling
+ g - a +0 demon whip of flaming
+ i - a +0 arbalest of flaming
+ s - a +5 scimitar of freezing
+ w - a +2 morningstar of protection
+ A - a cursed +2 morningstar of protection
+ I - a +2 dagger of draining
+ K - a +1 flail of distortion
+ N - the +5 war axe "Dragonslayer" (weapon) {chop, *Drain +Inv MR++ Int+4}
+   (You bought it in a shop on level 7 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your intelligence (+4).
+   It affects your resistance to hostile enchantments.
+   It lets you turn invisible.
+   It causes draining when unequipped.
+Missiles
+ o - 206 stones (quivered)
+ r - a throwing net
+ V - 25 tomahawks
+Armour
+ e - a +2 cloak of poison resistance (worn)
+ q - a +3 chain mail of fire resistance
+ y - a +1 pair of boots (worn)
+ D - a +2 shield (worn)
+ G - a +0 helmet (worn)
+ Q - a +0 troll leather armour
+ R - a +0 cloak of magic resistance
+ S - a +2 plate armour of fire resistance (worn)
+ T - the -6 cloak "Plog" {rElec Str+8 Stlth-}
+   (You found it on level 8 of the Dungeon)   
+   
+   It affects your strength (+8).
+   It insulates you from electricity.
+   It makes you less stealthy.
+ W - a scarf of cloud immunity
+ Y - a +2 pair of gloves (worn)
+Magical Staves
+ O - an uncursed staff of air
+Jewellery
+ M - an amulet of the acrobat (around neck)
+Wands
+ C - a wand of disintegration (12)
+ J - a wand of paralysis (14)
+ L - a wand of enslavement (4)
+ X - a wand of iceblast (7)
+Scrolls
+ h - 6 scrolls of remove curse
+ j - a scroll of fear
+ l - a scroll of teleportation
+ m - 2 scrolls of immolation
+ n - 3 scrolls of fog
+ t - 5 scrolls of identify
+ u - a scroll of magic mapping
+ H - 3 scrolls of blinking
+ Z - a scroll of vulnerability
+Potions
+ k - a potion of might
+ p - 4 potions of heal wounds
+ v - 3 potions of invisibility
+ B - 5 potions of curing
+ E - 3 potions of agility
+ F - a potion of haste
+Miscellaneous
+ P - a box of beasts
+Comestibles
+ x - 21 rations
+ z - 37 chunks of flesh
+
+
+   Skills:
+ - Level 12.0 Fighting
+ - Level 6.1 Short Blades
+ + Level 10.4(10.5) Axes
+ - Level 2.1(7.0) Polearms
+ - Level 3.5(4.5) Slings
+ - Level 4.2(4.8) Throwing
+ - Level 6.0 Armour
+ - Level 4.0 Dodging
+ - Level 6.0 Stealth
+ - Level 5.0 Shields
+ - Level 7.0 Invocations
+ - Level 5.0 Evocations
+
+
+You had 12 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Freeze                   Ice            #...         100%        1    ##.....
+ Sting                    Conj/Pois      #...         100%        1    ##.....
+ Summon Butterflies       Summ           #.......     100%        1    ##.....
+ Poisonous Vapours        Pois/Air       #.....       100%        2    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Olgreb's Toxic Radiance  Pois           #.......     100%        4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     100%        4    #####..
+ Aura of Abjuration       Summ           #.........   100%        5    ######.
+ Venom Bolt               Conj/Pois      #.........   100%        5    ######.
+ Dragon's Call            Summ           #.........   100%        9    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:6            Lair (0/6) D:10
+    Orc (2/2) D:9             Elf (0/3) Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:7 ?(!(   Orc:2 ==
+
+Annotations:
+D:7 dig for artifact
+D:10 loot
+Orc:1 loot
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+There is an open door here.
+There is an entrance to Cethrauz's Jewellery Emporium here.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a spell; partial names and regexps are fine.
+Describe what? earth
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a spell; partial names and regexps are fine.
+Describe what? grasp
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a spell; partial names and regexps are fine.
+Describe what? borg
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a spell; partial names and regexps are fine.
+Describe what? ozo
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Enter note: learned what i needed, quitting
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                    ............#.#...
+                    ...........#._.#...
+               ....  ...........#.#....
+               #..######.....))..#.....
+         #.._  #..#...\#...............
+      ## #.... #.Z#....#...............
+      ... .... #..#....#Z..).).........
+.#     #.###'###..#....#.Z....)........
+.#     #..........##'###ZZ....)........
+.#     #..8..)8..).)))ZZZZ.............
+.##  ###......)..)##Z###ZZ.............
+..   .............#..Z.#...............
+.#    ##.###)###..#....#..............
+.#     #.  #)# #..#...@#..............
+.#######.###Z###..######..............
+.Z.........Z..........................
+.............Z........................
+###########...#.......................
+      ####.Z.Z))...##. ....#..........
+     ##.#....Z#.#.##   ........#...##.
+     #...#.......##    ##.##########
+.## ##...........#
+..# #.......Z.#.##
+.##  #.....).....#
+..####.....#....##
+.##.###....#.....#
+
+
+You could see a friendly orc skeleton and a friendly orc sorcerer skeleton.
+
+Vanquished Creatures
+  2 orc warlords
+  The ghost of Faydane the Thaumaturge, a journeyman HuWz of Vehumet (D:10)
+  2 two-headed ogres
+  Nergalle (D:10)
+  2 unseen horrors (D:10)
+  6 orc sorcerers (Orc:2)
+  2 orc knights (Orc:1)
+  A manticore (D:11)
+  A toenail golem (Volcano)
+  Maurice (Orc:2)
+  3 molten gargoyles (Volcano)
+  A gargoyle (D:6)
+  2 efreet (Volcano)
+  Prince Ribbit (D:8)
+  4 trolls
+  2 hippogriffs (D:11)
+  A wyvern (D:9)
+  13 yaks
+  Eustachio (D:7)
+  7 fire elementals
+  A steam dragon (D:6)
+  6 wargs
+  A water moccasin (D:7)
+  4 sky beasts
+  A black bear (D:9)
+  A phantom (D:6)
+  A necrophage (D:5)
+  22 orc warriors
+  2 ice beasts (D:6)
+  An eye of draining (D:9)
+  8 ogres
+  5 centaurs
+  3 earth elementals
+  2 big kobolds
+  Blork the orc (D:7)
+  8 bullfrogs
+  A gnoll sergeant (D:11)
+  3 scorpions
+  6 killer bees (D:10)
+  6 wights
+  A howler monkey (D:6)
+  2 bullfrog zombies
+  4 crimson imps
+  2 quasits
+  A centaur zombie (D:9)
+  5 jellies
+  8 hounds
+  21 orc wizards
+  11 orc priests
+  2 centaur skeletons
+  A bullfrog skeleton (D:7)
+  5 iguanas
+  10 worker ants
+  A hound skeleton (D:11)
+  A worker ant zombie (D:6)
+  17 gnolls
+  15 adders
+  A shadow imp (D:6)
+  7 oozes
+  An adder zombie (D:7)
+  3 worms (D:4)
+  A dart slug (D:2)
+  6 leopard geckos
+  79 orcs
+  6 giant cockroaches
+  7 goblins
+  4 hobgoblins
+  10 jackals
+  3 quokkas
+  3 ball pythons
+  5 bats
+  5 frilled lizards
+  A giant cockroach zombie (D:5)
+  A jackal zombie (D:5)
+  20 kobolds
+  9 rats
+  A fire vortex (Volcano)
+417 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 orc sorcerers
+  A hornet (D:8)
+  An air elemental (D:11)
+  A hungry ghost (D:9)
+  2 wargs
+  2 orc warriors
+  A hornet zombie (D:11)
+  3 ogres
+  A phantom (D:9)
+  A big kobold (D:8)
+  2 wyvern skeletons (D:11)
+  A jelly (D:8)
+  2 orc priests
+  An iguana (D:8)
+  3 orc wizards (Orc:2)
+  A gnoll (D:11)
+  An adder skeleton (D:9)
+  A leopard gecko (D:7)
+  3 orcs
+  A kobold (D:8)
+  A plant (D:7)
+32 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 wraiths (Orc:1)
+  A water elemental (D:11)
+  A two-headed ogre skeleton (D:9)
+  2 warg skeletons
+  A wight (D:10)
+  A centaur skeleton (D:10)
+  An orc wizard (Orc:2)
+  A black bear skeleton (D:9)
+  A mummy (D:9)
+  An iguana skeleton (D:9)
+  6 orc zombies
+  A gnoll skeleton (D:11)
+  2 jackal skeletons (D:9)
+  3 kobold skeletons
+  A kobold zombie (D:11)
+  19 orc skeletons
+  A fire vortex (Volcano)
+45 creatures vanquished.
+
+Grand Total: 494 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tecwoedd the Ghoul Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 0/0
+   188 | D:1      | Reached XP level 2. HP: 24/24 MP: 1/1
+   292 | D:1      | Reached skill level 3 in Fighting
+   605 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+   896 | D:1      | Reached skill level 7 in Fighting
+   896 | D:1      | Reached XP level 4. HP: 47/47 MP: 3/3
+  1728 | D:3      | Reached XP level 5. HP: 52/52 MP: 4/4
+  2236 | D:3      | Reached skill level 1 in Armour
+  2584 | D:3      | Reached XP level 6. HP: 51/60 MP: 5/5
+  2702 | D:4      | Found a shadowy altar of Dithmenos.
+  2773 | D:4      | Reached skill level 1 in Axes
+  3141 | D:4      | Reached skill level 1 in Evocations
+  3390 | D:4      | Reached skill level 8 in Fighting
+  3429 | D:4      | Reached XP level 7. HP: 43/68 MP: 6/6
+  3602 | D:4      | Reached skill level 1 in Dodging
+  4058 | D:5      | Entered Level 5 of the Dungeon
+  4059 | D:5      | cleared D4 ez except lucky priest.  needles solved
+  4460 | D:4      | Entered wizard mode.
+  4756 | D:5      | Reached XP level 8. HP: 73/73 MP: 8/8
+  4827 | D:5      | Reached skill level 1 in Shields
+  5572 | D:6      | Found a staircase to the Ecumenical Temple.
+  5587 | Temple   | Entered the Ecumenical Temple
+  5655 | Temple   | Became a worshipper of Yredelemnul the Dark
+  5762 | D:6      | Found a large runed translucent door.
+  5762 | D:6      | Found a large runed translucent door.
+  6286 | D:6      | Noticed a yak
+  6333 | D:6      | Found a large runed translucent door.
+  6333 | D:6      | Found a large runed translucent door.
+  6364 | D:6      | Reached XP level 9. HP: 70/82 MP: 9/9
+  6477 | D:6      | Identified Sif Muna's Volume of Creative Ice
+  6537 | D:6      | Reached skill level 9 in Fighting
+  6596 | D:6      | Noticed a gargoyle
+  6598 | D:6      | Killed a gargoyle
+  7121 | D:6      | Reached skill level 1 in Polearms
+  7282 | D:7      | Found Inenawiasi's Antique Weapon Boutique.
+  7377 | D:7      | Noticed Eustachio
+  7422 | D:7      | Killed Eustachio
+  7559 | D:7      | Bought a smoking war axe for 204 gold pieces
+  7559 | D:7      | Identified the +5 war axe "Dragonslayer" {chop, *Drain +Inv
+                  | MR++ Int+4} (You bought it in a shop on level 7 of the
+                  | Dungeon)
+  7568 | D:7      | Found Nunuz's Distillery.
+  7607 | D:7      | Bought a potion of might for 64 gold pieces
+  7631 | D:7      | Noticed Blork the orc
+  7654 | D:7      | Killed Blork the orc
+  7684 | D:7      | Reached * piety under Yredelemnul
+  7973 | D:7      | Reached XP level 10. HP: 90/90 MP: 11/11
+  7980 | D:7      | Found Sutib's Magic Scroll Shoppe.
+  7989 | D:7      | Bought a scroll of identify for 28 gold pieces
+  7989 | D:7      | Bought a scroll of fog for 28 gold pieces
+  7989 | D:7      | Bought a scroll of identify for 28 gold pieces
+  8069 | D:7      | Found Hiennaen's Weapon Emporium.
+  8670 | D:7      | crushed d7
+  8720 | D:8      | Reached skill level 5 in Axes
+  9112 | D:8      | Noticed Prince Ribbit
+  9139 | D:8      | Killed Prince Ribbit
+  9220 | D:8      | Found a radiant altar of Vehumet.
+  9227 | D:8      | Got a translucent cloak
+  9228 | D:8      | Identified the cursed -6 cloak "Plog" {rElec Str+8 Stlth-}
+                  | (You found it on level 8 of the Dungeon)
+  9260 | D:8      | Found a burning altar of Makhleb.
+  9311 | D:8      | Reached ** piety under Yredelemnul
+  9649 | D:9      | Noticed a two-headed ogre
+  9663 | D:9      | Killed a two-headed ogre
+  9835 | D:9      | Found a shimmering altar of Xom.
+ 10163 | D:9      | Reached XP level 11. HP: 96/97 MP: 12/12
+ 10169 | D:9      | You fall through a shaft!
+ 10169 | D:10     | Entered Level 10 of the Dungeon
+ 10176 | D:10     | Noticed a two-headed ogre
+ 10190 | D:10     | Killed a two-headed ogre
+ 10339 | D:10     | Killed an unseen horror
+ 10562 | D:10     | Noticed Nergalle
+ 10596 | D:10     | Killed Nergalle
+ 10749 | D:9      | Reached *** piety under Yredelemnul
+ 10751 | D:9      | Reached skill level 10 in Fighting
+ 10776 | D:9      | Found a staircase to the Orcish Mines.
+ 11081 | D:7      | Bought a scroll of magic mapping for 49 gold pieces
+ 11530 | D:10     | Received a gift from Yredelemnul (a wight)
+ 11605 | D:10     | Killed an unseen horror
+ 11678 | D:10     | Reached skill level 5 in Armour
+ 11781 | D:10     | Found a runed translucent gate.
+ 11781 | D:10     | Found a runed translucent gate.
+ 11783 | D:10     | Found a runed translucent gate.
+ 11784 | D:10     | Noticed Faydane's ghost (journeyman HuWz)
+ 11786 | D:10     | Identified the +5 great sword of Gravity {elec, rC+}
+ 11788 | D:10     | Found a roughly hewn altar of Beogh.
+ 11857 | D:10     | Killed Faydane's ghost
+ 11974 | D:10     | Received a gift from Yredelemnul (a mummy)
+ 12116 | D:10     | Reached skill level 11 in Fighting
+ 12281 | D:10     | Found a staircase to the Lair.
+ 12466 | D:10     | can't kill hydras like this.  so orc or dungeon
+ 12551 | D:11     | Found a large runed translucent door.
+ 12553 | D:11     | Found a large runed translucent door.
+ 12959 | D:11     | Reached **** piety under Yredelemnul
+ 13253 | D:11     | Reached skill level 5 in Shields
+ 13446 | D:11     | Noticed a manticore
+ 13447 | D:11     | Reached XP level 12. HP: 93/108 MP: 14/14
+ 13460 | D:11     | Slain by an earth elemental (20 damage)
+ 13838 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 13932 | Orc:1    | Noticed an orc warlord
+ 13968 | Orc:1    | Noticed an orc warlord
+ 13982 | D:9      | Killed an orc warlord
+ 13982 | D:9      | Reached skill level 10 in Axes
+ 14136 | Orc:1    | Received a gift from Yredelemnul (a wraith)
+ 14146 | Orc:1    | Killed an orc warlord
+ 14235 | Orc:1    | Found a dark tunnel.
+ 14258 | Volcano  | Entered a volcano
+ 15618 | Volcano  | Received a gift from Yredelemnul (a wraith)
+ 15904 | Orc:1    | Reached skill level 5 in Invocations
+ 16072 | Orc:1    | Reached skill level 12 in Fighting
+ 16544 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 16805 | Orc:2    | varying armor has no impact on fsim vs elephant
+ 16805 | Orc:2    | varying axes has major impact
+ 16805 | Orc:2    | varying fighting has minor impact
+ 16805 | Orc:2    | varying shields had no impact
+ 16963 | Orc:2    | Reached XP level 13. HP: 93/118 MP: 16/16
+ 17180 | Orc:2    | Reached skill level 5 in Stealth
+ 17203 | Orc:1    | varying stealth has no impact on axe melee while invis
+ 17229 | Orc:2    | Found a staircase to the Elven Halls.
+ 17234 | Orc:2    | Received a gift from Yredelemnul (a vampire)
+ 17298 | Orc:2    | Found a roughly hewn altar of Beogh.
+ 17329 | Orc:2    | Found Cethrauz's Jewellery Emporium.
+ 17329 | Orc:2    | Found Emuamonu's Jewellery Boutique.
+ 17370 | Orc:2    | Noticed Maurice
+ 17371 | Orc:2    | Found an iron altar of Okawaru.
+ 17377 | Orc:2    | Killed Maurice
+ 17380 | Orc:2    | Reached ***** piety under Yredelemnul
+ 17432 | Orc:2    | Reached skill level 5 in Evocations
+ 17531 | Orc:2    | learned what i needed, quitting
+ 17531 | Orc:2    | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Short Blades   |  2     6                               |  6.1
+Fighting       |     3  7        8        9    11 12    | 12.0
+Slings         |        3                               |  3.5
+Throwing       |        4                               |  4.2
+Armour         |              1  2  3     4     5  6    |  6.0
+Axes           |                 1     3  4  8  9 10    | 10.4
+Evocations     |                 1     2  3     4     5 |  5.0
+Dodging        |                    2        3     4    |  4.0
+Shields        |                       3        5       |  5.0
+Polearms       |                          2             |  2.1
+Invocations    |                                   6  7 |  7.0
+Stealth        |                                      5 |  6.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Dagger            |    37 |   124 |  4057 |       |       ||  4218
+       War axe           |       |       |  8173 | 40763 |  8165 || 57101
+       Trident           |       |       |  8042 |       |       ||  8042
+       Great mace        |       |       |  4000 |       |       ||  4000
+       Long sword        |       |       |  4000 |       |       ||  4000
+ Fire: Blowgun           |     8 |    16 |    31 |       |       ||    55
+       Hunting sling     |       |   135 |   145 |       |       ||   280
+Throw: Stone             |    51 |    14 |     9 |    46 |       ||   120
+Invok: Animate Remains   |       |       |       |    14 |       ||    14
+       Animate Dead      |       |       |       |    20 |    10 ||    30
+       Recall Undead Sla |       |       |       |     4 |       ||     4
+       Drain Life        |       |       |       |     1 |       ||     1
+ Abil: Evoke Invisibilit |       |       |     1 |    12 |     1 ||    14
+Evoke: Wand              |       |       |     3 |    10 |     3 ||    16
+  Use: Scroll            |     4 |    13 |     5 |    12 |       ||    34
+       Potion            |     2 |     1 |       |     3 |       ||     6
+ Stab: Sleeping          |       |     1 |       |       |       ||     1
+       Confused          |       |     1 |       |       |       ||     1
+       Invisible         |       |       |     2 |    42 |  1636 ||  1680
+       Distracted        |       |       |       |     4 |     2 ||     6
+  Eat: Chunk             |     4 |     8 |    15 |    52 |    23 ||   102
+       Ration            |       |       |       |     5 |       ||     5
+Armor: Robe              |     7 |     5 |       |       |       ||    12
+       Ring mail         |       |    31 |     5 |       |       ||    36
+       Chain mail        |       |       | 11475 |       |       || 11475
+       Plate armour      |       |       |  6296 | 33397 |  6111 || 45804
+Dodge: Dodged            |    18 |    47 |  5762 |  8566 |  2322 || 16715
+Block: Shield            |       |       |  4454 | 26265 |  5047 || 35766
+Rpst.: Long sword        |       |       |   177 |       |       ||   177
+

@@ -1,0 +1,657 @@
+Dompoizi
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(2, 21, D:1)
+  a +0 dagger
+(29, -8, D:1)
+  a cursed -1 short sword
+(29, 4, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(7, -14, D:2)
+  a +0 club
+(7, -12, D:2)
+  a +0 spear
+(7, -7, D:2)
+  a cursed -3 spear
+(10, -6, D:2)
+  a +0 club
+(12, -39, D:2)
+  a +0 dagger
+(25, -34, D:2)
+  a +0 club
+  a +0 robe
+(27, 5, D:2)
+  a +0 club
+(37, -38, D:2)
+  a +0 club
+(44, -13, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 robe
+(3, -5, D:3)
+  a +0 mace
+(19, -30, D:3)
+  a +0 club
+(20, -3, D:3)
+  a +0 club
+(21, -5, D:3)
+  a +0 leather armour
+  a +0 club
+  a +0 club
+(21, 0, D:3)
+  a +0 club
+  a +0 dagger
+(22, -7, D:3)
+  a +0 club
+(22, -4, D:3)
+  a +0 club
+(23, 0, D:3)
+  a +0 club
+(27, 3, D:3)
+  a +0 club
+(28, 4, D:3)
+  a +0 animal skin
+  a +0 dagger
+(34, -33, D:3)
+  a +0 club
+(34, 6, D:3)
+  a cursed +0 club
+(40, -34, D:3)
+  a +0 ring mail
+(40, -16, D:3)
+  a +0 short sword
+  a +0 scale mail
+(43, -34, D:3)
+  a +0 robe
+(43, -32, D:3)
+  a +0 dagger
+(50, -4, D:3)
+  a +0 leather armour
+  a +0 club
+(53, -10, D:3)
+  a +0 club
+(58, -8, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+[Shop] Nusedo Othrul's General Store
+  4 needles of confusion (22 gold)
+  a +0 long sword (38 gold)
+  a +0 great sword (71 gold)
+  a +0 rapier (44 gold)
+  a scroll of noise (11 gold)
+  a +0 ring mail (44 gold)
+  10 stones (11 gold)
+(0, 14, D:4)
+  a +0 leather armour
+(26, -8, D:4)
+  a +0 robe
+  a +0 dagger
+(27, -11, D:4)
+  a +0 robe
+  a +0 dagger
+(28, -16, D:4)
+  a +0 chain mail
+(33, -5, D:4)
+  a +0 pair of boots
+(33, 8, D:4)
+  a +0 pair of boots
+(40, 3, D:4)
+  a +0 helmet
+(46, -7, D:4)
+  a +0 ring mail
+(48, 31, D:4)
+  a +0 chain mail
+
+Level 5 of the Dungeon
+(1, 2, D:5)
+  a +0 leather armour
+(2, -3, D:5)
+  a +0 trident
+(3, -5, D:5)
+  a +0 cloak
+(3, 0, D:5)
+  a +0 ring mail
+  a +0 hand axe
+(6, -3, D:5)
+  a +0 leather armour
+  a +0 club
+(7, 6, D:5)
+  a +0 pair of boots
+(8, 11, D:5)
+  a +0 leather armour
+(9, 7, D:5)
+  a +0 ring mail
+  a +0 dagger
+(10, 7, D:5)
+  a +0 dagger
+  a +0 leather armour
+  a +0 club
+(11, 6, D:5)
+  a +0 leather armour
+  a +0 whip
+(26, 2, D:5)
+  a +0 hunting sling
+(45, 9, D:5)
+  a +0 scale mail
+
+Level 6 of the Dungeon
+[Shop] Otiax's Antique Weapon Boutique
+  a +0 short sword (84 gold)
+  a cursed -1 hunting sling (2 gold)
+  a +0 quarterstaff of protection (190 gold)
+  a +0 shortbow (84 gold)
+  a +0 trident (98 gold)
+  a +0 dagger of venom (123 gold)
+  a +4 broad axe of chopping (784 gold)
+  a +0 hand crossbow (98 gold)
+  a +3 shortbow of velocity (602 gold)
+  a +0 short sword (84 gold)
+(0, 0, D:6)
+  a +0 mace
+(3, -19, D:6)
+  a +0 whip
+(5, -10, D:6)
+  a +0 dagger
+  a +0 robe
+(5, 0, D:6)
+  the cursed +0 pair of boots of Autumn {Dex+5}
+    It affects your dexterity (+5).
+    It has a curse placed upon it.
+(7, -10, D:6)
+  a +0 flail
+(8, -10, D:6)
+  a +0 ring mail
+  a +0 robe
+  a +0 falchion
+  a +0 dagger
+(9, -1, D:6)
+  a +0 dagger
+  a +0 robe
+(10, -24, D:6)
+  a +0 shortbow
+(11, -2, D:6)
+  a +0 hand axe
+  a +0 plate armour
+(12, -2, D:6)
+  a +0 morningstar
+(27, -25, D:6)
+  a +0 dagger
+  a +0 flail
+  a +0 club
+(29, 9, D:6)
+  a +0 club
+(30, -18, D:6)
+  a +0 shortbow
+(30, -3, D:6)
+  a +0 whip
+(31, -20, D:6)
+  a +0 robe
+(32, 6, D:6)
+  a +0 short sword
+(33, 6, D:6)
+  a +0 flail
+(34, 5, D:6)
+  a +0 robe
+  a +0 dagger
+(39, -13, D:6)
+  a +0 plate armour
+(41, -18, D:6)
+  a +0 leather armour
+  a +0 hunting sling
+  a +0 quarterstaff
+
+Level 7 of the Dungeon
+(8, 10, D:7)
+  a +0 flail
+(12, 9, D:7)
+  a +0 chain mail
+  a +0 dire flail
+  a cursed +0 great mace
+(12, 10, D:7)
+  a +0 short sword
+(15, 18, D:7)
+  a +0 scimitar
+(26, 8, D:7)
+  a +0 robe
+(32, 38, D:7)
+  a +0 dagger
+  a +0 robe
+(33, 14, D:7)
+  a cursed +0 robe
+(40, 36, D:7)
+  a +0 war axe
+  a +0 robe
+  a +0 robe
+  a +0 scimitar
+(48, 33, D:7)
+  a +0 quarterstaff
+(52, 42, D:7)
+  a +0 shortbow
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 war axe
+(4, -1, D:8)
+  a +0 dagger
+(5, -7, D:8)
+  a +0 robe
+  a cursed +0 great sword
+  a +0 robe
+  a +0 spear
+  a +0 robe
+(5, -6, D:8)
+  a +0 robe
+  a +0 robe
+(5, -5, D:8)
+  a +0 robe
+  a +0 robe
+  a cursed +0 hand axe
+  a +0 robe
+(9, 0, D:8)
+  a +0 leather armour
+(11, 17, D:8)
+  a +0 hunting sling
+(13, 24, D:8)
+  a +0 leather armour
+(15, -8, D:8)
+  a +0 robe
+(22, -10, D:8)
+  a +0 long sword
+(25, 3, D:8)
+  a +0 dagger
+(48, 5, D:8)
+  a +0 giant spiked club
+  a +0 dire flail
+(48, 6, D:8)
+  a +0 giant club
+  a +0 giant spiked club
+(54, -16, D:8)
+  a +0 hand axe
+(55, -16, D:8)
+  a +0 hunting sling
+(58, 6, D:8)
+  a +0 club
+  a +0 plate armour
+  a +0 short sword
+  a +0 dagger
+  a +0 robe
+  a +0 short sword
+(58, 7, D:8)
+  a +0 mace
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 shortbow
+(1, -3, D:9)
+  a +0 robe
+(4, -29, D:9)
+  a +0 falchion
+(5, -29, D:9)
+  a +0 robe
+(23, -18, D:9)
+  a +0 robe
+(23, 3, D:9)
+  a +0 leather armour
+(23, 4, D:9)
+  a +0 club
+(24, -30, D:9)
+  a +0 robe
+  a +0 leather armour
+  a +0 mace
+  a +0 club
+(25, -30, D:9)
+  a +0 dagger
+  a +0 leather armour
+(26, -22, D:9)
+  a +0 dagger
+(27, -28, D:9)
+  a +0 flail
+(28, -23, D:9)
+  a +0 ring mail
+(29, -26, D:9)
+  a +0 mace
+(31, -24, D:9)
+  a cursed +0 leather armour
+  a +0 club
+(31, -23, D:9)
+  a +0 robe
+  a +0 dagger
+(31, 4, D:9)
+  a +0 scale mail
+  a +0 short sword
+(41, -5, D:9)
+  a +0 dagger
+  a +0 plate armour
+(41, -4, D:9)
+  a +0 trident
+  a +0 spear
+  a +0 flail
+  a +0 robe
+(42, -7, D:9)
+  a +0 war axe
+  a +0 scale mail
+(51, -32, D:9)
+  a +0 quarterstaff
+
+Level 10 of the Dungeon
+[Shop] Docsywe's Antique Weapon Shoppe
+  a +0 falchion (72 gold)
+  a +1 quarterstaff of protection (283 gold)
+  the +8 morningstar of the Boiling Point {pain, MR++ Str+4} (1771 gold)
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your strength (+4).
+    It affects your resistance to hostile enchantments.
+  a +0 hunting sling (36 gold)
+  a +0 great mace (156 gold)
+  a +0 whip (60 gold)
+  a +0 falchion (72 gold)
+  a +0 mace (72 gold)
+  a +0 flail (84 gold)
+  a +0 short sword (72 gold)
+  a +2 mace of protection (374 gold)
+  a +0 quarterstaff (96 gold)
+  a +2 mace of venom (374 gold)
+  a +1 mace of protection (254 gold)
+(0, 0, D:10)
+  a +0 ring mail
+(4, -1, D:10)
+  a +0 giant spiked club
+(4, 2, D:10)
+  a +0 flail
+(9, -2, D:10)
+  a +0 shortbow
+(14, -6, D:10)
+  a +0 shortbow
+(33, -5, D:10)
+  a +0 dagger
+(36, 12, D:10)
+  a +0 club
+(37, 12, D:10)
+  a +0 leather armour
+(38, 13, D:10)
+  a +0 chain mail
+  a +0 flail
+(39, 19, D:10)
+  a +0 club
+(40, 13, D:10)
+  a +0 robe
+(41, 22, D:10)
+  a +0 war axe
+(43, 19, D:10)
+  a +0 chain mail
+(46, 21, D:10)
+  a +0 hand axe
+  a +0 club
+  a +0 falchion
+  a +0 leather armour
+(46, 22, D:10)
+  a +0 giant club
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 shortbow
+  a +0 robe
+(8, 3, D:11)
+  a +0 leather armour
+(15, -25, D:11)
+  a +0 ring mail
+(15, -12, D:11)
+  the +0 helmet of Amelioration {MR+ rCorr MP-9 Dex+3}
+    It affects your dexterity (+3).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (-9).
+    It provides partial protection from all sources of acid and corrosion.
+(16, -12, D:11)
+  the +5 falchion "Qoh Niat" {freeze, *Contam Str+4}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It affects your strength (+4).
+    It causes magical contamination when unequipped.
+  a cursed -1 dagger
+(16, -11, D:11)
+  a +1 dagger of flaming
+  a +4 short sword
+  a cursed +3 hand axe
+  a +0 hunting sling
+  100 sling bullets
+(16, -10, D:11)
+  a +1 dagger
+  a +1 short sword
+(17, -11, D:11)
+  a +1 halberd
+(18, -11, D:11)
+  4 potions of haste
+  a potion of mutation
+  2 scrolls of noise
+  4 scrolls of amnesia
+(20, 25, D:11)
+  a +0 leather armour
+  a +0 falchion
+(21, 26, D:11)
+  a +0 chain mail
+(23, 26, D:11)
+  a +0 robe
+  a +0 dagger
+(26, 1, D:11)
+  a +0 ring mail
+  a +0 club
+  a +0 leather armour
+(29, 1, D:11)
+  a +0 club
+(29, 2, D:11)
+  a +0 hand axe
+(30, 0, D:11)
+  a +0 leather armour
+  a +0 flail
+(37, -8, D:11)
+  a +0 robe
+  a +0 dagger
+(40, -12, D:11)
+  a +0 hand axe
+(40, -9, D:11)
+  a +0 plate armour
+  a +0 battleaxe
+(40, -7, D:11)
+  a +0 giant spiked club
+  a +0 giant spiked club
+(41, -14, D:11)
+  a +0 robe
+  a cursed -2 shortbow
+(41, -13, D:11)
+  a +0 battleaxe
+  a +0 chain mail
+  a +0 scimitar
+(41, -12, D:11)
+  a +0 leather armour
+  a +0 flail
+(41, -10, D:11)
+  a +0 dagger
+(42, -9, D:11)
+  a +0 plate armour
+  a +0 battleaxe
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  a ration
+(2, 40, D:12)
+  5 gold pieces
+(4, 41, D:12)
+  an arrow
+(5, 7, D:12)
+  a +0 robe
+  a +0 dagger
+(7, -2, D:12)
+  a +0 mace
+  a +0 hand axe
+(7, 2, D:12)
+  a +0 leather armour
+(9, 31, D:12)
+  a +3 hand axe
+  a +0 robe
+(9, 32, D:12)
+  a +0 spear
+  a +0 robe
+(9, 35, D:12)
+  a +1 flail (still there?)
+  an arrow (still there?)
+(10, 18, D:12)
+  a +0 giant spiked club
+  a +0 dire flail
+  a +0 short sword
+(21, 11, D:12)
+  a +0 dagger
+  a +0 whip
+  a +0 plate armour
+(33, 20, D:12)
+  a +0 robe
+  a cursed +0 war axe
+  a +0 robe
+  a cursed +0 long sword
+(33, 26, D:12)
+  a +0 robe
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  a cursed -3 flail
+  (unseen)
+(0, 2, Orc:1)
+  a +0 club
+(1, 0, Orc:1)
+  a +0 dagger
+  (unseen)
+(1, 4, Orc:1)
+  27 gold pieces
+(2, 5, Orc:1)
+  a +0 flail
+  (unseen)
+(2, 6, Orc:1)
+  a +0 short sword
+  (unseen)
+(3, 4, Orc:1)
+  an orc corpse
+(3, 7, Orc:1)
+  a cursed -2 dire flail (still there?)
+  a +0 hand axe (still there?)
+(5, 9, Orc:1)
+  a +0 dagger
+  (unseen)
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a scroll of noise
+(0, 35, Lair:1)
+  27 stones
+(0, 44, Lair:1)
+  a cursed ring of teleportation
+(13, 40, Lair:1)
+  a +0 trident
+(14, 28, Lair:1)
+  11 gold pieces
+(15, 10, Lair:1)
+  18 bolts
+(15, 12, Lair:1)
+  a spiny frog corpse (skeletalised by now) (still there?)
+  a water moccasin corpse (skeletalised by now) (still there?)
+(16, 0, Lair:1)
+  a scroll of fear
+(17, 10, Lair:1)
+  an arrow
+(18, 10, Lair:1)
+  an arrow
+(20, 10, Lair:1)
+  an arrow
+(20, 39, Lair:1)
+  9 stones
+(21, 9, Lair:1)
+  an arrow
+(22, 31, Lair:1)
+  a ration
+(23, 12, Lair:1)
+  a cursed +0 large shield
+(27, 6, Lair:1)
+  11 gold pieces
+(28, 18, Lair:1)
+  19 arrows
+(28, 30, Lair:1)
+  14 gold pieces
+(29, 13, Lair:1)
+  16 bolts
+(34, 3, Lair:1)
+  a potion of agility
+(34, 15, Lair:1)
+  13 gold pieces
+  (unseen)
+(35, -2, Lair:1)
+  a +0 plate armour
+(40, 39, Lair:1)
+  17 gold pieces
+(43, 21, Lair:1)
+  a +0 ring mail
+(44, 39, Lair:1)
+  18 stones
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a +0 shield
+(2, -4, Lair:2)
+  a wand of digging (5)
+(3, -56, Lair:2)
+  16 arrows
+(5, -56, Lair:2)
+  25 stones
+(8, -19, Lair:2)
+  21 stones
+(9, 1, Lair:2)
+  a +0 shield
+(10, -59, Lair:2)
+  22 gold pieces
+(11, -18, Lair:2)
+  20 gold pieces
+(13, -30, Lair:2)
+  22 sling bullets
+(18, 0, Lair:2)
+  an uncursed amulet of magic regeneration
+(20, -38, Lair:2)
+  12 gold pieces
+(21, -35, Lair:2)
+  12 bolts
+(22, -35, Lair:2)
+  a scroll of identify
+(23, -35, Lair:2)
+  19 arrows
+(25, 2, Lair:2)
+  20 stones
+(29, 0, Lair:2)
+  11 stones
+(30, -37, Lair:2)
+  20 gold pieces
+(31, -18, Lair:2)
+  an uncursed ring of stealth
+(34, 4, Lair:2)
+  a +0 flail of protection
+(39, -40, Lair:2)
+  a book of Transfigurations
+(39, -30, Lair:2)
+  6 poisoned needles
+(42, -56, Lair:2)
+  17 gold pieces
+(42, -24, Lair:2)
+  a potion of lignification
+(43, -53, Lair:2)
+  6 gold pieces
+

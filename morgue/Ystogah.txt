@@ -1,0 +1,614 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8146943302791880162
+
+Ystogah the Cleaver (Demigod Necromancer)          Turns: 28551, Time: 08:00:09
+
+Health: 107/107    AC: 22    Str: 11    XL:     13   Next: 70%
+Magic:  26/26      EV: 12    Int: 31    God:    No God 0 (0)
+Gold:   173        SH: 13    Dex: 23    Spells: 5/24 levels left
+
+rFire    + . .     SeeInvis .   y - staff of wizardry
+rCold    + + .     Gourm    +   R - +2 shield {rC+}
+rNeg     . . .     Faith    .   M - +4 scale mail {rF+}
+rPois    .         Spirit   .   n - +2 helmet
+rElec    .         Reflect  .   Z - +0 cloak
+rCorr    .         Harm     .   X - +1 pair of gloves
+MR       +++..                  O - +2 pair of boots {run}
+Stlth    ++........             p - amulet of the gourmand
+HPRegen  0.27/turn              K - ring "Xuwos" {rC+ MR++ Dex+7 Slay+2}
+MPRegen  0.20/turn              U - +4 ring of intelligence
+
+@: quick
+A: high mp 1
+a: no special abilities
+
+
+You are on level 5 of the Lair of Beasts.
+You are full.
+
+You have visited 3 branches of the dungeon, and seen 18 of its levels.
+You have also visited: Sewer, Ice Cave and Volcano.
+
+You have collected 1645 gold pieces.
+You have spent 1472 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hand crossbow of velocity
+ b - the +8 whip "Snakebite" {curare, rPois}
+   (You found it on level 1 of the Lair of Beasts)   
+   
+   It poisons the flesh of those it strikes.
+   
+   It protects you from poison.
+ c - the +6 hand axe of the Valley of Death {drain, Dex+4}
+   (You found it on level 5 of the Dungeon)   
+   
+   A truly terrible weapon, it drains the life of those it strikes.
+   
+   It affects your dexterity (+4).
+ d - a +1 dagger of protection
+ e - a +2 vampiric war axe
+ f - a +4 spear
+ g - a +2 glaive of flaming
+ h - the +12 glaive of Prune {chop}
+   (You found it in an ice cave)   
+   
+   It inflicts extra damage upon your enemies.
+Missiles
+ u - 76 bolts
+ z - 24 stones
+ D - 3 throwing nets {!f}
+ F - 9 javelins (quivered)
+ Y - 7 poisoned tomahawks
+Armour
+ n - a +2 helmet (worn)
+ A - a +0 troll leather armour {Purgy}
+ M - a +4 scale mail of fire resistance (worn)
+ O - a +2 pair of boots of running (worn)
+ R - a +2 shield of cold resistance (worn)
+ X - a +1 pair of gloves (worn)
+ Z - a +0 cloak (worn)
+Magical Staves
+ y - an uncursed staff of wizardry (weapon)
+ P - an uncursed staff of power
+Jewellery
+ i - an uncursed ring of see invisible
+ p - an amulet of the gourmand (around neck)
+ K - the ring "Xuwos" (left hand) {rC+ MR++ Dex+7 Slay+2}
+   (You acquired it on level 11 of the Dungeon)   
+   
+   [ring of protection from cold]
+   
+   It affects your dexterity (+7).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+2).
+   It protects you from cold.
+   It affects your resistance to hostile enchantments.
+ Q - an uncursed ring of protection from fire
+ S - an uncursed ring of stealth
+ U - a +4 ring of intelligence (right hand)
+Wands
+ j - a wand of iceblast (12)
+ m - a wand of paralysis (8)
+ t - a wand of enslavement (19)
+ w - a wand of scattershot (3)
+ I - a wand of random effects (20)
+ L - a wand of flame (26)
+Scrolls
+ k - 3 scrolls of magic mapping
+ l - 4 scrolls of remove curse
+ o - 3 scrolls of blinking
+ q - 3 scrolls of fear
+ r - 9 scrolls of teleportation
+ J - 2 scrolls of immolation
+Potions
+ s - 4 potions of agility
+ x - 2 potions of haste
+ B - 7 potions of curing
+ C - 5 potions of heal wounds
+ E - 3 potions of might
+ H - 3 potions of berserk rage
+ T - 2 potions of resistance
+Miscellaneous
+ v - a phantom mirror
+ V - a crystal ball of energy
+Comestibles
+ N - 35 rations
+
+
+   Skills:
+ - Level 8.0 Fighting
+ - Level 3.9 Short Blades
+ - Level 8.7 Axes
+ - Level 0.6(5.4) Maces & Flails
+   Level 2.3(3.0) Slings
+   Level 1.5 Bows
+ - Level 3.0 Crossbows
+ - Level 2.7(3.2) Throwing
+ - Level 7.0 Armour
+ * Level 7.5 Dodging
+ - Level 4.0 Stealth
+ - Level 7.0 Shields
+ - Level 6.0 Spellcasting
+ + Level 3.2 Hexes
+ - Level 2.0 Charms
+ - Level 8.0 Necromancy
+ - Level 1.0 Translocations
+ - Level 1.6 Air Magic
+ - Level 8.0 Evocations
+
+
+You have 5 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      1%          1    0
+b - Confusing Touch       Hex            29 (50)      8%          1    0
+c - Animate Skeleton      Necr           N/A          1%          1    0
+d - Apportation           Tloc           15 (50)      17%         1    0
+e - Corpse Rot            Necr           N/A          1%          2    0
+f - Swiftness             Chrm/Air       20 (100)     19%         2    0
+g - Sublimation of Blood  Necr           56 (200)     1%          2    0
+h - Vampiric Draining     Necr           56 (200)     3%          3    0
+i - Regeneration          Chrm/Necr      40 (200)     11%         3    0
+j - Confuse               Hex            29 (100)     21%         3    0
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Dead             Necr           N/A          10%         4    64
+ Shock                    Conj/Air       14 (25)      19%         1    0
+ Summon Small Mammal      Summ           9 (25)       26%         1    0
+ Agony                    Necr           56 (100)     26%         5    214
+ Dispel Undead            Necr           56 (100)     26%         5    214
+ Gell's Gravitas          Tloc           15 (200)     45%         3    0
+ Static Discharge         Conj/Air       14 (100)     45%         3    0
+ Excruciating Wounds      Chrm/Necr      40 (200)     65%         5    214
+ Airstrike                Air            19 (200)     75%         4    64
+ Bolt of Draining         Conj/Necr      34 (200)     77%         5    214
+ Ice Form                 Ice/Tmut       9 (100)      92%         4    64
+ Petrify                  Tmut/Erth      9 (100)      92%         4    64
+ Metabolic Englaciation   Hex/Ice        19 (200)     97%         5    214
+ Yara's Violent Unravell  Hex/Tmut       19 (200)     97%         5    214
+ Lightning Bolt           Conj/Air       14 (200)     99%         5    214
+ Simulacrum               Ice/Necr       34 (200)     99%         6    364
+ Bolt of Cold             Conj/Ice       9 (200)      100%        6    364
+ Freezing Cloud           Conj/Ice/Air   12 (200)     100%        6    364
+ Ozocubu's Refrigeration  Ice            9 (200)      100%        6    364
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:7            Lair (5/6) D:10
+ Shoals (0/4) Lair:3        Snake (0/4) Lair:4        Slime (0/5) Lair:5
+    Orc (0/2) D:12        
+
+Shops:
+D:6 (   D:10 [!=}:   D:12 :=*!*
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You feel your magic capacity decrease.
+The +8 whip "Snakebite" {curare, rPois} begins to drip with poison!
+b - the +8 whip "Snakebite" (weapon) {curare, rPois}
+Okay, then.
+Unknown command.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+The +8 whip "Snakebite" {curare, rPois} stops dripping with poison.
+y - an uncursed staff of wizardry (weapon)
+Okay, then.
+Saving game... please wait.
+Welcome back, Ystogah the Demigod Necromancer.
+Press ? for a list of commands and other information.
+Enter Wizard Command (? - help): 
+No target in view!
+Saving game... please wait.
+Welcome back, Ystogah the Demigod Necromancer.
+Press ? for a list of commands and other information.
+Okay, then.
+Saving game... please wait.
+
+         #.###  ###      #.#..##....##....##
+         ##..####.#      ##...............#
+          ##.....##       #...............##
+          #......#       ##..........P.....#
+    ###   ##.....#      ##P.........P.....##
+    #.#   #......#     ##..PP.#.##..###.###
+    #.#####.....########...P..#########..#
+    ##...........##............#   ##...##
+  ###..........#.....#P........#  ##....P# #
+###............####.###.#P.....####...#### #
+.##...........PP.##.....##..P..PP###.###.# #
+.................................#.......###
+.................<..............#.......#.#.
+.......#.#...##.......@......####...........
+.....#...................#..#...#.#....PP#..
+###..#.................P#...'......#<.....#.
+  #..#...####....##..PP.#...#......##.......
+  #........#...#####............}...#.....##
+###...#..#...#....#..................#......
+#.#......#........#..........###......#####P
+#........###.....###.####..######...}...####
+###.####......>........###.#............##.}
+ ######..##.....#.....#.................#...
+ #...##..#............##.......}..}.<.}.+..>
+###P.....##....#.....P......................
+.....P.P.##.##....##.....................#.}
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A frost giant (IceCv)
+  Fannar (Lair:1)
+  4 hydras
+  3 two-headed ogres
+  10 death yaks
+  A fire crab (Volcano)
+  Pikel (D:5)
+  A lindwurm (Volcano)
+  4 oklob plants (Lair:5)
+  2 centaur zombies
+  3 black mambas
+  An ice statue (IceCv)
+  2 elephants (Lair:4)
+  11 spiny frogs
+  2 komodo dragons (Lair:4)
+  A rime drake (Lair:4)
+  A kobold demonologist (D:10)
+  15 polar bears (IceCv)
+  A queen bee (Lair:4)
+  3 meliai (Lair:4)
+  2 trolls
+  6 dream sheep (Lair:4)
+  7 hippogriffs
+  Sigmund (D:5)
+  19 yaks
+  A wraith (D:12)
+  The ghost of Maimakterion the Skirmisher, an amateur DrTm (D:4)
+  5 wyverns
+  4 vampire mosquitoes (D:12)
+  Menkaure (D:6)
+  A hungry ghost (D:10)
+  3 wargs (D:12)
+  3 hell hounds (Volcano)
+  8 porcupines
+  15 water moccasins
+  Purgy (Sewer)
+  6 orc warriors
+  2 sky beasts
+  A slave (D:5)
+  2 black bears
+  4 ice beasts
+  4 ogres
+  3 phantoms
+  13 wolves
+  7 crocodiles
+  4 centaurs
+  10 bullfrogs
+  2 scorpions
+  26 killer bees
+  6 wights
+  2 howler monkeys (D:10)
+  2 quasits
+  A bullfrog zombie (D:5)
+  8 crimson imps
+  3 centaur skeletons
+  7 hounds
+  2 bullfrog skeletons (D:12)
+  6 orc priests
+  12 jellies
+  An iguana (D:7)
+  8 orc wizards
+  A hell rat (Lair:4)
+  3 worker ants
+  A hound skeleton (D:6)
+  7 gnolls
+  A howler monkey skeleton (D:6)
+  22 adders
+  3 shadow imps
+  3 adder skeletons
+  An adder zombie (D:5)
+  3 worms
+  3 dart slugs
+  7 leopard geckos
+  41 orcs
+  2 ball pythons
+  4 giant cockroaches
+  7 goblins
+  6 hobgoblins
+  11 jackals
+  3 quokkas
+  8 bats
+  6 frilled lizards
+  A jackal skeleton (D:4)
+  7 kobolds
+  5 rats
+  A plant (Lair:5)
+445 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A catoblepas (Lair:4)
+  Urug (Lair:2)
+  A deep elf mage (D:11)
+  An ugly thing (D:11)
+  A manticore (Lair:4)
+  A black mamba (Lair:3)
+  2 hippogriffs
+  A snapping turtle (Lair:3)
+  4 yaks
+  A hungry ghost (D:7)
+  6 water moccasins
+  A black bear (D:11)
+  A wolf (Lair:3)
+  2 bullfrogs
+  3 killer bees (Lair:4)
+  A howler monkey (D:10)
+  3 jellies (Lair:5)
+  A bullfrog skeleton (D:7)
+  An orc priest (D:11)
+  A hound (D:12)
+  A centaur skeleton (D:5)
+  2 worker ants
+  An adder (D:8)
+  A worm (D:2)
+  4 orcs
+  2 kobolds
+  2 plants
+47 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 slaves (D:6)
+  An ogre (D:6)
+  A scorpion (D:6)
+  A howler monkey (D:6)
+  A crimson imp (D:6)
+  A worm (D:6)
+  2 fungi
+  8 plants
+18 creatures vanquished.
+
+Grand Total: 510 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ystogah the Demigod Necromancer began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 5/5
+   277 | D:1      | Learned a level 1 spell: Animate Skeleton
+   357 | D:1      | Reached skill level 1 in Fighting
+   441 | D:1      | Reached XP level 2. HP: 23/23 MP: 4/7
+   730 | D:1      | Reached skill level 1 in Slings
+  1137 | D:1      | cleared D1 ez
+  1165 | D:2      | Reached XP level 3. HP: 24/29 MP: 4/8
+  1490 | D:2      | Reached skill level 1 in Short Blades
+  1495 | D:2      | Learned a level 3 spell: Vampiric Draining
+  1631 | D:2      | Found a white marble altar of Elyvilon.
+  1812 | D:2      | Reached XP level 4. HP: 35/36 MP: 7/9
+  2467 | D:2      | Entered wizard mode.
+  2502 | D:3      | Found a glowing drain.
+  2651 | Sewer    | Entered a sewer
+  2705 | Sewer    | Noticed Purgy
+  2733 | Sewer    | Killed Purgy
+  2733 | Sewer    | Reached XP level 5. HP: 45/45 MP: 10/10
+  2812 | D:3      | Learned a level 3 spell: Regeneration
+  3113 | D:3      | Found a bloodstained altar of Trog.
+  3114 | D:3      | Found an iron altar of Okawaru.
+  3556 | D:4      | Noticed an ogre
+  3572 | D:4      | Killed an ogre
+  3572 | D:4      | Reached skill level 1 in Charms
+  3572 | D:4      | Reached XP level 6. HP: 51/51 MP: 8/12
+  3821 | D:4      | Found a runed translucent door.
+  3821 | D:4      | Noticed Maimakterion's ghost (amateur DrTm)
+  4312 | D:3      | Reached XP level 7. HP: 56/57 MP: 11/14
+  4986 | D:5      | Entered Level 5 of the Dungeon
+  5061 | D:5      | Got a warped hand axe
+  5134 | D:5      | Identified the +6 hand axe of the Valley of Death {drain,
+                  | Dex+4} (You found it on level 5 of the Dungeon)
+  5205 | D:5      | Reached skill level 1 in Axes
+  5252 | D:5      | Noticed Sigmund
+  5282 | D:5      | Killed Sigmund
+  5282 | D:5      | Reached skill level 1 in Bows
+  6196 | D:6      | Noticed Pikel
+  6213 | D:5      | Killed Pikel
+  6213 | D:5      | Reached skill level 5 in Axes
+  6213 | D:5      | Reached XP level 8. HP: 58/66 MP: 11/15
+  6219 | D:5      | Learned a level 4 spell: Animate Dead
+  6473 | D:6      | Noticed Menkaure
+  6497 | D:6      | Killed Menkaure
+  6870 | D:6      | Reached skill level 5 in Necromancy
+  7216 | D:6      | Found Nivo's Weapon Shoppe.
+  7230 | D:6      | Bought 2 throwing nets for 78 gold pieces
+  7230 | D:6      | Bought a +2 hand crossbow of velocity for 223 gold pieces
+  7385 | D:6      | Reached XP level 9. HP: 65/73 MP: 13/16
+  7410 | D:6      | Reached skill level 1 in Crossbows
+  7433 | D:6      | Reached skill level 5 in Fighting
+  8020 | D:7      | Reached skill level 1 in Shields
+  8110 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  8323 | D:7      | Reached skill level 1 in Evocations
+  8442 | D:7      | Found a staircase to the Ecumenical Temple.
+  8471 | D:7      | Found a deep blue altar of Sif Muna.
+  9125 | D:8      | Learned a level 1 spell: Confusing Touch
+  9301 | D:8      | Reached skill level 1 in Hexes
+  9440 | D:7      | ac 9, armor 0
+  9600 | D:8      | Reached skill level 1 in Armour
+  9743 | D:8      | Reached XP level 10. HP: 76/83 MP: 15/18
+ 10080 | D:8      | Found a sparkling altar of Nemelex Xobeh.
+ 10531 | D:8      | make stash
+ 10601 | Temple   | Entered the Ecumenical Temple
+ 10715 | D:9      | Found an opulent altar of Gozag.
+ 10799 | D:9      | Found a shattered altar of Ashenzari.
+ 11142 | D:9      | Noticed a two-headed ogre
+ 11160 | D:9      | Killed a two-headed ogre
+ 11275 | D:9      | Found a shimmering altar of Xom.
+ 11428 | D:6      | Bought the cursed +3 halberd "Rangaxt" {flame, rElec rF-
+                  | Str-4 SInv} for 286 gold pieces
+ 11486 | D:7      | move stash
+ 11696 | D:10     | Entered Level 10 of the Dungeon
+ 11909 | D:10     | Reached skill level 5 in Dodging
+ 11927 | D:9      | Learned a level 3 spell: Confuse
+ 11954 | D:10     | Found Uwkuss's Gadget Boutique.
+ 11957 | D:10     | Found Vaenud's Jewellery Shop.
+ 12014 | D:10     | Found Yliog's Book Shop.
+ 12092 | D:10     | Noticed a two-headed ogre
+ 12101 | D:10     | Killed a two-headed ogre
+ 12226 | D:10     | Found Fusugg's Armour Emporium.
+ 12235 | D:10     | Found Fod Cem's Distillery.
+ 12419 | D:10     | Found a staircase to the Lair.
+ 12600 | D:10     | Bought a +0 pair of boots for 72 gold pieces
+ 12616 | D:10     | Bought a potion of curing for 42 gold pieces
+ 12616 | D:10     | move stash
+ 12826 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 12874 | Lair:1   | Found a dark tunnel.
+ 12890 | Lair:1   | Learned a level 1 spell: Apportation
+ 12891 | Volcano  | Entered a volcano
+ 12916 | Volcano  | Noticed a fire crab
+ 12967 | Volcano  | Noticed a lindwurm
+ 12995 | Volcano  | Killed a lindwurm
+ 12995 | Volcano  | Reached skill level 1 in Translocations
+ 13314 | Volcano  | Killed a fire crab
+ 13708 | D:10     | Bought a potion of heal wounds for 70 gold pieces
+ 13967 | Lair:1   | Noticed a black mamba
+ 13977 | Lair:1   | Killed a black mamba
+ 14146 | Lair:1   | Noticed Fannar
+ 14325 | Lair:1   | Killed Fannar
+ 14325 | Lair:1   | Reached XP level 11. HP: 89/89 MP: 18/21
+ 14483 | Lair:1   | Found the +8 whip "Snakebite" {curare, rPois}
+ 14781 | D:10     | Bought a potion of curing for 42 gold pieces
+ 15002 | Lair:2   | Noticed a death yak
+ 15002 | Lair:2   | Noticed a death yak
+ 15004 | Lair:2   | Noticed a death yak
+ 15004 | Lair:2   | Noticed a death yak
+ 15035 | Lair:2   | Killed a death yak
+ 15058 | Lair:2   | Killed a death yak
+ 15080 | Lair:1   | Killed a death yak
+ 15209 | Lair:1   | Killed a death yak
+ 15876 | Lair:2   | Noticed Urug
+ 15895 | Lair:1   | Identified a scroll of acquirement
+ 16007 | Lair:2   | Killed Urug
+ 16675 | D:11     | Identified the ring "Xuwos" {rC+ MR++ Dex+7 Slay+2} (You
+                  | acquired it on level 11 of the Dungeon)
+ 16772 | D:11     | Reached skill level 5 in Armour
+ 16846 | D:11     | Noticed a deep elf mage
+ 16850 | D:11     | Noticed a two-headed ogre
+ 16851 | D:11     | Killed a deep elf mage
+ 16862 | D:11     | Killed a two-headed ogre
+ 16899 | D:11     | Identified a +1 pair of boots of running (You found it on
+                  | level 11 of the Dungeon)
+ 17132 | D:10     | Bought a potion of heal wounds for 70 gold pieces
+ 17341 | D:10     | Learned a level 2 spell: Corpse Rot
+ 17344 | D:10     | Learned a level 2 spell: Sublimation of Blood
+ 17730 | Lair:3   | Noticed a seven-headed hydra
+ 17746 | Lair:3   | Reached skill level 5 in Spellcasting
+ 18129 | Lair:3   | Reached XP level 12. HP: 100/100 MP: 11/23
+ 18417 | Lair:2   | Learned a level 2 spell: Swiftness
+ 18789 | Lair:3   | Killed a four-headed hydra
+ 18789 | Lair:3   | Reached skill level 1 in Air Magic
+ 18878 | Lair:3   | Found a staircase to the Shoals.
+ 19506 | Lair:4   | Found a frozen archway.
+ 19556 | IceCv    | Entered an ice cave
+ 19576 | IceCv    | Reached skill level 5 in Evocations
+ 20297 | IceCv    | Noticed a frost giant
+ 20342 | IceCv    | Killed a frost giant
+ 20591 | IceCv    | Found the cursed +13 scythe of Curses {drain, *Curse}
+ 20592 | IceCv    | Found the +12 glaive of Prune {chop}
+ 20641 | IceCv    | Got a crystal great sword
+ 20889 | D:10     | Bought a wand of paralysis (8) for 140 gold pieces
+ 21019 | D:4      | Killed Maimakterion's ghost
+ 21475 | Lair:4   | Found a staircase to the Snake Pit.
+ 21821 | Lair:4   | Reached skill level 5 in Shields
+ 22147 | Lair:4   | Noticed a catoblepas
+ 22162 | Lair:4   | Killed a catoblepas
+ 22191 | Lair:4   | Reached XP level 13. HP: 72/107 MP: 13/26
+ 23711 | D:10     | Identified the +5 great sword "Kiladgha" {vamp, rPois rF+}
+                  | (You found it in an ice cave)
+ 23737 | D:10     | Bought a wand of iceblast (12) for 224 gold pieces
+ 25090 | Lair:5   | Found a staircase to the Slime Pits.
+ 26329 | Lair:5   | Got an ichor-stained short sword
+ 26602 | D:12     | Found Egoek's Book Boutique.
+ 26871 | D:12     | Found a staircase to the Orcish Mines.
+ 27066 | D:12     | Found Feteps's Jewellery Boutique.
+ 27429 | D:12     | Found Tamugeg's General Store.
+ 27436 | D:12     | Found Ireskyto's Distillery.
+ 27658 | D:12     | Found Puohiutu's General Store.
+ 27913 | D:10     | Identified the +5 short sword of the Feather {venom, rN+}
+                  | (You found it on level 5 of the Lair of Beasts)
+ 27959 | D:10     | Bought an uncursed ring of see invisible for 225 gold
+                  | pieces
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Dodging        |  2           3        4     6     7    |  7.5
+Fighting       |  1  2     3        4     5  6  7  8    |  8.0
+Slings         |     1                 2                |  2.3
+Short Blades   |        1  3                            |  3.9
+Spellcasting   |        2        3           4  5  6    |  6.0
+Charms         |              1                    2    |  2.0
+Necromancy     |                 4     5        7     8 |  8.0
+Stealth        |                    2     3        4    |  4.0
+Axes           |                    5     6     7     8 |  8.7
+Bows           |                    1                   |  1.5
+Crossbows      |                          2  3          |  3.0
+Shields        |                          4        6  7 |  7.0
+Evocations     |                          2  3  4  6  8 |  8.0
+Hexes          |                          1  3          |  3.2
+Armour         |                          1  3  6     7 |  7.0
+Throwing       |                             2          |  2.7
+Translocations |                             1          |  1.0
+Air Magic      |                                   1    |  1.6
+Maces & Flails |                                        |  0.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Club              |     1 |       |       |       |       ||     1
+       Short sword       |     4 |    57 |     9 |       |       ||    70
+       Hand axe          |       |       |  4149 |   190 |    36 ||  4375
+       Scimitar          |       |       |     4 |       |       ||     4
+       Whip              |       |       |  4012 |   229 |   201 ||  4442
+       Spear             |       |       |     8 |    72 |     7 ||    87
+       Glaive            |       |       |       |    24 |    21 ||    45
+       Halberd           |       |       |       |       |     1 ||     1
+ Fire: Hunting sling     |    37 |    52 |   120 |    11 |       ||   220
+       Hand crossbow     |       |       |    24 |   160 |   134 ||   318
+Throw: Javelin           |       |       |       |     7 |     1 ||     8
+       Tomahawk          |       |       |       |     3 |     3 ||     6
+       Stone             |       |       |       |     2 |       ||     2
+ Cast: Pain              |    47 |    49 |   131 |   181 |    77 ||   485
+       Animate Skeleton  |    15 |    15 |    31 |    89 |    20 ||   170
+       Vampiric Draining |       |     5 |     9 |    20 |    14 ||    48
+       Regeneration      |       |     4 |     3 |    25 |    12 ||    44
+       Animate Dead      |       |       |     2 |     1 |       ||     3
+       Confusing Touch   |       |       |     3 |    54 |    28 ||    85
+       Confuse           |       |       |       |     7 |    18 ||    25
+       Corpse Rot        |       |       |       |    13 |     6 ||    19
+       Sublimation of Bl |       |       |       |     3 |     3 ||     6
+       Swiftness         |       |       |       |     3 |       ||     3
+Evoke: Wand              |       |       |       |     4 |       ||     4
+  Use: Scroll            |     1 |     4 |    13 |    20 |     6 ||    44
+       Potion            |       |       |     3 |     1 |       ||     4
+ Stab: Distracted        |       |       |     1 |     4 |     2 ||     7
+       Confused          |       |       |     1 |    36 |    18 ||    55
+       Sleeping          |       |       |     1 |     1 |     2 ||     4
+  Eat: Chunk             |     4 |     8 |    18 |    58 |    15 ||   103
+Armor: Robe              |     1 |       |       |       |       ||     1
+       Ring mail         |     4 |     4 |     4 |    45 |       ||    57
+       Troll leather arm |       |    12 |   698 |       |       ||   710
+       Skin              |       |       |     2 |    34 |       ||    36
+       Scale mail        |       |       |       |    77 |    83 ||   160
+Dodge: Dodged            |    11 |    42 |  4421 |   288 |    78 ||  4840
+Block: Buckler           |       |       |    19 |    65 |       ||    84
+       Shield            |       |       |       |    60 |   101 ||   161
+Rpst.: Scimitar          |       |       |     3 |       |       ||     3
+

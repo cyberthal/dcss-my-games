@@ -1,0 +1,141 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18061696284600343316
+
+0 Curph the Ruffian (level 1, 19/19 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 15, 2020.
+             Was a Believer of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:59 (1 turns).
+
+Curph the Ruffian (Ghoul Monk)                         Turns: 1, Time: 00:02:00
+
+Health: 19/19      AC:  2    Str: 14    XL:     1   Next: 0%
+Magic:  0/0        EV: 12    Int:  5    God:    Kikubaaqudgha 50 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 2.6 Dodging
+ + Level 2.1 Stealth
+ + Level 3.2 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          47%         1    50
+ Pain                     Necr           0 (25)       47%         1    50
+ Corpse Rot               Necr           N/A          63%         2    100
+ Regeneration             Chrm/Necr      0 (200)      85%         3    150
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which god (by name)? kiku
+Kikubaaqudgha welcomes you!
+You can now receive cadavers from Kikubaaqudgha.
+You see here Kikubaaqudgha's Almanac of Dark Rituals.
+Kikubaaqudgha grants you a gift!
+Kikubaaqudgha is now protecting you from necromantic miscasts and death curses.
+Press: ? - help, v - describe, . - travel, g - get item
+Kikubaaqudgha's Almanac of Dark Rituals.
+A staircase leading out of the dungeon.
+You pick up Kikubaaqudgha's Almanac of Dark Rituals and begin reading...
+You add the spells Animate Skeleton, Pain, Corpse Rot and Regeneration to your
+library.
+Okay, then.
+You don't know any spells.
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   ###
+   #@#
+  #...#
+ ...~...
+#.}.~.}.#
+#...~...#
+#.7.~.7.#
+#...~...#
+#.}.~.}.#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Curph the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Reached * piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Almanac of Dark Rituals
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached ** piety under Kikubaaqudgha
+     1 | D:1      | Quit the game
+

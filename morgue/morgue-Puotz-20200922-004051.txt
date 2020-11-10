@@ -1,0 +1,355 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17523663966530493249
+
+1652 Puotz the Grappler (level 9, 83/83 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 21, 2020.
+             Was a Believer of Kikubaaqudgha.
+             Quit the game on level 6 of the Dungeon on Sept 22, 2020.
+             The game lasted 01:06:11 (5817 turns).
+
+Puotz the Grappler (Ghoul Monk)                     Turns: 5817, Time: 01:06:12
+
+Health: 83/83      AC:  6    Str: 15    XL:     9   Next: 0%
+Magic:  8/8        EV: 10    Int:  8    God:    Kikubaaqudgha 58 (0)
+Gold:   337        SH:  0    Dex: 11    Spells: 5/8 levels left
+
+rFire    . . .     SeeInvis .   v - +4 trident
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   C - +0 scale mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.23/turn              s - ring of flight
+MPRegen  0.11/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion, Evoke Flight
+
+
+You were on level 6 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 337 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 blowgun
+ b - a +0 hunting sling
+ k - a +0 hand axe
+ l - a +0 spear
+ u - a +0 war axe
+ v - a +4 trident (weapon)
+ A - a +1 falchion of freezing
+ B - a +1 mace of protection
+ D - a +0 hand axe
+Missiles
+ d - 138 arrows
+ f - 58 poisoned needles
+ q - 62 bolts
+Armour
+ g - a +0 ring mail
+ t - a +0 chain mail
+ C - a +0 scale mail (worn)
+ G - a cursed +0 robe
+Jewellery
+ s - a ring of flight (left claw)
+Wands
+ j - a wand of digging (6)
+ x - a wand of random effects (14)
+Scrolls
+ h - 2 scrolls of fog
+ m - 4 scrolls of teleportation
+ n - a scroll of amnesia
+ o - a scroll of blinking
+ r - a scroll of fear
+ y - 2 scrolls of remove curse
+ H - a scroll of noise {unknown}
+Potions
+ c - a potion of degeneration {unknown}
+ p - a potion of might {unknown}
+ E - 2 potions of curing
+ F - a potion of brilliance
+Comestibles
+ w - 9 rations
+
+
+   Skills:
+ - Level 9.0 Fighting
+ - Level 7.0 Axes
+ - Level 3.1(3.6) Slings
+ - Level 2.8(3.5) Throwing
+ - Level 2.6 Dodging
+ - Level 4.7 Stealth
+ - Level 9.0 Unarmed Combat
+ - Level 4.1 Necromancy
+ + Level 1.2 Evocations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Animate Skeleton      Necr           N/A          34%         1    50
+b - Corpse Rot            Necr           N/A          45%         2    100
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           6 (25)       34%         1    50
+ Regeneration             Chrm/Necr      3 (200)      94%         3    150
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 =
+
+Annotations:
+D:2 1 runed translucent door, 1 exclusion
+D:4 3 runed translucent doors, Sigmund; zhorgal's ghost, amateur DDFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.7 |     21 |  64% |   2.4 |   130  |  0.77 |      1.9
+Attack:   Mons | No hits
+Defend: Player |      5.6 |     17 |   6% |   0.4 |   166  |  0.60 |      0.2
+Defend:   Mons |      4.5 |     12 |  59% |   2.7 |   166  |  0.60 |      1.6
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your +1 falchion of freezing stops glowing.
+v - a +4 trident (weapon)
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.2 |     21 |  68% |   3.6 |   109  |  0.92 |      3.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      4.5 |     12 |  59% |   2.7 |   100  |  1.00 |      2.7
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                     #########
+                     #.......######
+                  ####.#####.##...#
+                  #..........##.Y.###
+                  #..........>(.....######
+                  #.......#..............##
+                  #.......#...>...........#
+                  #..........##...#.####..#
+                ###.......#.###...#.####..#
+                #...........#######.##....#
+                #.####.#####.....##.##.##.#
+                #.####.#  ##.....##.##.##.#
+                #.##...#  #.......#.......#
+                #.##.#@#  #.......######.##
+                #......# ##.<.<...#    #.#
+                #......# #.....##.#    #.#
+                #.##...# #..#####.######.#
+                #.###..# #..####.........#
+                #......###........##########
+                ##..........####.##       #.
+#####       ######.#....##..####.##       #.
+....#       #............#.......[#  ######.
+....#       #.#...................#  #......
+###.##      #.#..#...#..##..###...#  #......
+#....#      #.#......#..##.....##.#  #......
+#.#..#      #...............#...#.#  #......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  5 yaks
+  Menkaure (D:3)
+  A centaur (D:5)
+  A bullfrog (D:6)
+  A scorpion (D:6)
+  A crimson imp (D:5)
+  3 orc priests (D:4)
+  2 hounds
+  2 orc wizards
+  2 bullfrog skeletons
+  Ijyb (D:3)
+  2 iguanas
+  A worker ant (D:6)
+  6 gnolls
+  6 adders
+  A shadow imp (D:5)
+  A worm (D:2)
+  2 dart slugs
+  4 leopard geckos
+  23 orcs
+  2 giant cockroaches
+  8 goblins
+  8 hobgoblins
+  9 jackals
+  A quokka (D:2)
+  2 ball pythons
+  7 bats
+  5 frilled lizards
+  A jackal zombie (D:6)
+  7 kobolds
+  A leopard gecko zombie (D:5)
+  A quokka zombie (D:5)
+  6 rats
+124 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Puotz the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   242 | D:1      | Reached XP level 2. HP: 23/26 MP: 1/1
+   554 | D:1      | Reached XP level 3. HP: 26/31 MP: 2/2
+   981 | D:2      | Found a shimmering altar of Xom.
+   981 | D:2      | Found a basalt altar of Yredelemnul.
+  1079 | D:2      | Reached skill level 5 in Unarmed Combat
+  1152 | D:2      | Reached skill level 1 in Slings
+  1152 | D:2      | Reached XP level 4. HP: 28/38 MP: 3/3
+  1440 | D:2      | Found a runed translucent door.
+  1819 | D:4      | Noticed Menkaure
+  1839 | D:3      | Killed Menkaure
+  1839 | D:3      | Reached XP level 5. HP: 19/45 MP: 4/4
+  2028 | D:3      | Reached XP level 6. HP: 51/51 MP: 5/5
+  2182 | D:3      | Found a bloodstained altar of Trog.
+  2478 | D:3      | Noticed Ijyb
+  2489 | D:3      | Killed Ijyb
+  2489 | D:3      | Reached skill level 1 in Throwing
+  2694 | D:4      | Found Roloeh's Jewellery Shoppe.
+  2724 | D:4      | Reached skill level 1 in Evocations
+  2836 | D:5      | Entered Level 5 of the Dungeon
+  2836 | D:5      | Noticed a yak
+  2836 | D:5      | Noticed a yak
+  2836 | D:5      | Noticed a yak
+  2836 | D:5      | Noticed a yak
+  2836 | D:5      | Noticed a yak
+  2932 | D:4      | Reached XP level 7. HP: 48/57 MP: 6/6
+  3022 | D:4      | Found a runed translucent gate.
+  3023 | D:4      | Found a runed translucent gate.
+  3024 | D:4      | Found a runed translucent gate.
+  3027 | D:4      | Noticed zhorgal's ghost (amateur DDFi)
+  3102 | D:4      | Noticed Sigmund
+  3406 | D:5      | Found a blossoming altar of Fedhas.
+  3979 | D:4      | Killed a yak
+  3979 | D:4      | Reached XP level 8. HP: 32/63 MP: 7/7
+  4115 | D:6      | Found a staircase to the Ecumenical Temple.
+  4121 | Temple   | Entered the Ecumenical Temple
+  4147 | Temple   | Became a worshipper of Kikubaaqudgha
+  4147 | Temple   | Reached * piety under Kikubaaqudgha
+  4147 | Temple   | Identified Kikubaaqudgha's Compendium of Black Rituals
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+  4147 | Temple   | Received a gift from Kikubaaqudgha
+  4147 | Temple   | Reached ** piety under Kikubaaqudgha
+  4340 | D:5      | Found a deep blue altar of Sif Muna.
+  4340 | D:5      | Found a blossoming altar of Fedhas.
+  4340 | D:5      | Found a glowing silver altar of Zin.
+  4340 | D:5      | Found a snail-covered altar of Cheibriados.
+  4343 | D:5      | Found a radiant altar of Vehumet.
+  5031 | D:5      | Killed a yak
+  5076 | D:5      | Killed a yak
+  5113 | D:4      | Killed a yak
+  5333 | D:5      | Killed a yak
+  5536 | D:5      | Learned a level 1 spell: Animate Skeleton
+  5539 | D:5      | Learned a level 2 spell: Corpse Rot
+  5579 | D:5      | Found an opulent altar of Gozag.
+  5580 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  5731 | D:6      | Reached XP level 9. HP: 70/70 MP: 8/8
+  5797 | D:6      | Entered wizard mode.
+  5809 | D:6      | Noticed an elephant
+  5817 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Unarmed Combat |     4  5  6  7     8  9 |  9.0
+Slings         |        1           2  3 |  3.1
+Throwing       |                 2       |  2.8
+Evocations     |                 1       |  1.2
+Stealth        |                 3  4    |  4.7
+Fighting       |                       4 |  9.0
+Necromancy     |                       4 |  4.1
+Axes           |                         |  7.0
+Dodging        |                         |  2.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |   108 |    90 | 24190 || 24388
+       Punch             |     1 |     2 |  2897 ||  2900
+       War axe           |       |       | 20000 || 20000
+       Hand axe          |       |       | 12000 || 12000
+       Mace              |       |       |  8001 ||  8001
+       Trident           |       |       |  4000 ||  4000
+       Falchion          |       |       |  4000 ||  4000
+ Fire: Hunting sling     |     6 |    88 |    56 ||   150
+       Blowgun           |       |     2 |    14 ||    16
+Throw: Stone             |     1 |     1 |     2 ||     4
+Evoke: Wand              |       |       |     2 ||     2
+  Use: Scroll            |     2 |     6 |     6 ||    14
+       Potion            |       |     2 |     7 ||     9
+ Stab: Sleeping          |       |     1 |     1 ||     2
+  Eat: Chunk             |     4 |     6 |    30 ||    40
+Armor: Ring mail         |    34 |    23 |       ||    57
+       Robe              |     3 |       |       ||     3
+       Scale mail        |       |     8 | 16085 || 16093
+Dodge: Dodged            |    52 |    41 | 31126 || 31219
+Rpst.: Falchion          |       |       |   557 ||   557
+

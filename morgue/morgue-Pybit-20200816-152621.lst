@@ -1,0 +1,64 @@
+Pybit
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+(8, -1, D:1)
+  a +0 club
+(19, 4, D:1)
+  a +0 dagger
+(25, 1, D:1)
+  a +0 club
+(28, 3, D:1)
+  a +0 club
+(29, 2, D:1)
+  a +0 short sword
+(32, 10, D:1)
+  a +0 club
+(33, -9, D:1)
+  a +0 robe
+(36, 13, D:1)
+  a +0 whip
+
+Level 2 of the Dungeon
+(8, 51, D:2)
+  a +0 club
+(13, 21, D:2)
+  a +0 robe
+(36, 5, D:2)
+  a +0 dagger
+(37, 4, D:2)
+  a +0 dagger
+(39, 11, D:2)
+  a +0 club
+(39, 39, D:2)
+  a +0 club
+(40, -1, D:2)
+  a +0 club
+(45, 0, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 dagger
+(13, 4, D:3)
+  a stone
+(14, 5, D:3)
+  a stone
+(16, 6, D:3)
+  a stone
+(17, 7, D:3)
+  a stone
+(23, -25, D:3)
+  a +0 club
+  a +0 ring mail
+  an orc skeleton
+(23, -21, D:3)
+  a +0 club
+(24, -26, D:3)
+  a frilled lizard skeleton
+(25, -26, D:3)
+  a +0 club
+(48, 7, D:3)
+  a +0 dagger
+

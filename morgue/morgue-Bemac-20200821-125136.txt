@@ -1,0 +1,267 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 510360288903998658
+
+72020 Bemac the Unseen (level 15, 77/77 HPs) *WIZ*
+             Began as a Felid Conjurer on Aug 21, 2020.
+             Was the Champion of Jiyva.
+             Quit the game on level 14 of the Dungeon.
+             The game lasted 00:11:00 (11316 turns).
+
+Bemac the Unseen (Felid Conjurer)                  Turns: 11316, Time: 00:11:00
+
+Health: 77/77      AC:  4    Str: 10    XL:     15   Next: 0%
+Magic:  35/35      EV: 26    Int: 16    God:    Jiyva 162 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 43/44 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    ++++++....             (no amulet)
+HPRegen  0.22/turn              (no ring)
+MPRegen  0.24/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 3, slow metabolism 1, acidic bite,
+gelatinous body 1, evolution 1, tendrils, sharp paws
+a: Request Jelly, Slimify, Cure Bad Mutation, Renounce Religion
+
+
+You were on level 14 of the Dungeon.
+You worshipped Jiyva.
+Jiyva was exalted by your worship.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 14 of its levels.
+
+Inventory:
+
+Comestibles
+ b - a ration
+
+
+   Skills:
+ - Level 15.0 Fighting
+ + Level 15.0 Dodging
+ + Level 15.0 Stealth
+ - Level 15.0 Unarmed Combat
+ + Level 15.0 Spellcasting
+ + Level 15.0 Conjurations
+   Level 15.0 Hexes
+   Level 15.0 Charms
+   Level 15.0 Summonings
+ - Level 15.0 Necromancy
+   Level 15.0 Translocations
+   Level 15.0 Transmutations
+   Level 15.0 Fire Magic
+   Level 15.0 Ice Magic
+   Level 15.0 Air Magic
+   Level 15.0 Earth Magic
+   Level 15.0 Poison Magic
+   Level 15.0 Invocations
+   Level 15.0 Evocations
+
+
+You had 43 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           50 (50)      1%          2    0
+ Dazzling Spray           Conj/Hex       50 (50)      1%          3    0
+ Force Lance              Conj/Tloc      56 (100)     1%          4    10
+ Fulminant Prism          Conj/Hex       56 (200)     1%          4    10
+ Iskenderun's Mystic Bla  Conj           56 (100)     1%          4    10
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (14/15)            Temple (0/1) D:7            Lair (0/6) D:11
+    Orc (0/2) D:10         Vaults (0/5) D:13        
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Gozag
+Makhleb
+Qazlal
+Ru
+Trog
+Uskayaw
+
+Shops:
+D:13 (
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+Your thick and shaggy fur keeps you warm. (AC +3, rC+)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+You have acidic saliva.
+Your rubbery body absorbs attacks. (AC +1, EV +1)
+You evolve.
+You are covered in slimy tendrils that may disarm your opponents.
+
+
+Message History
+
+You start waiting.
+Jiyva gurgles merrily.
+Done waiting.
+You start waiting.
+Jiyva says: Divide and consume!
+Done waiting.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 162, Enter for 0): 
+Okay, then.
+You start waiting.
+Done waiting.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 162, Enter for 0): 
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Okay, then.
+Unknown command.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      #####
+   ####...##
+####.......#
+#..........##
+#...####..@.##
+#.###  ###...##
+#.#      ###..##        ########
+###        ##..##      ##.......
+            ##..##     #........
+             ##..##    #........
+              ##..##   #........
+               #...##  #........
+               ##...#  ##.......
+                #...##  ##......
+###             #....#   #......
+#.##########   ##....#  ##......
+#.##.......#####.....####.......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A worm (D:4)
+  A leopard gecko (D:4)
+  An orc (D:4)
+  A jackal zombie (D:5)
+4 creatures vanquished.
+
+Vanquished Creatures (others)
+  A scorpion (D:4)
+  2 killer bees (D:5)
+  9 jellies
+  An orc wizard (D:5)
+  A hound skeleton (D:5)
+  An adder (D:4)
+  A shadow imp (D:5)
+  A worm (D:5)
+  A dart slug (D:1)
+  2 leopard geckos
+  2 orcs (D:5)
+  2 goblins (D:1)
+  A hobgoblin (D:1)
+  A quokka (D:4)
+  A giant cockroach zombie (D:5)
+  2 kobolds (D:1)
+  6 rats
+35 creatures vanquished.
+
+Grand Total: 39 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bemac the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 11/11 MP: 6/6
+     0 | D:1      | Reached XP level 3. HP: 14/14 MP: 7/7
+     0 | D:1      | Reached XP level 4. HP: 18/18 MP: 8/8
+     0 | D:1      | Reached XP level 5. HP: 21/21 MP: 9/9
+     0 | D:1      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+     0 | D:1      | Reached XP level 6. HP: 24/24 MP: 10/10
+     0 | D:1      | Reached XP level 7. HP: 27/27 MP: 11/11
+     0 | D:1      | Reached XP level 8. HP: 31/31 MP: 12/12
+     0 | D:1      | Reached XP level 9. HP: 34/34 MP: 13/13
+     0 | D:1      | Reached XP level 10. HP: 37/37 MP: 14/14
+     0 | D:1      | Reached XP level 11. HP: 40/40 MP: 15/15
+     0 | D:1      | Gained mutation: Your thick and shaggy fur keeps you warm.
+                  | (AC +3, rC+) [Felid growth]
+     0 | D:1      | Reached XP level 12. HP: 44/44 MP: 16/16
+     0 | D:1      | Reached XP level 13. HP: 47/47 MP: 17/17
+     0 | D:1      | Reached XP level 14. HP: 51/51 MP: 18/18
+     0 | D:1      | Reached XP level 15. HP: 54/54 MP: 19/19
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Fell from the grace of Kikubaaqudgha
+     0 | D:1      | Became a worshipper of Jiyva Jenu the Shapeless
+   702 | D:2      | Found a white marble altar of Elyvilon.
+   702 | D:2      | Found a snail-covered altar of Cheibriados.
+   702 | D:2      | Found a hide-covered altar of Uskayaw.
+   702 | D:2      | Found a sacrificial altar of Ru.
+   702 | D:2      | Found a stormy altar of Qazlal.
+   829 | D:2      | Reached * piety under Jiyva
+  1624 | D:3      | Reached ** piety under Jiyva
+  1959 | D:4      | Found a shadowy altar of Dithmenos.
+  2491 | D:4      | Reached *** piety under Jiyva
+  2491 | D:4      | Gained mutation: You are covered in slimy tendrils that may
+                  | disarm your opponents. [Jiyva's grace]
+  3009 | D:5      | Entered Level 5 of the Dungeon
+  3826 | D:5      | Reached **** piety under Jiyva
+  3826 | D:5      | Gained mutation: You have acidic saliva. [Jiyva's grace]
+  4179 | D:5      | Found a bloodstained altar of Trog.
+  4775 | D:7      | Found a burning altar of Makhleb.
+  4775 | D:7      | Found a burning altar of Makhleb.
+  4775 | D:7      | Found an opulent altar of Gozag.
+  4775 | D:7      | Found a staircase to the Ecumenical Temple.
+  6298 | D:9      | Gained mutation: You evolve. [Jiyva's grace]
+  6326 | D:9      | Reached ***** piety under Jiyva
+  6559 | D:10     | Entered Level 10 of the Dungeon
+  6560 | D:10     | Found a shadowy altar of Dithmenos.
+  6560 | D:10     | Found a staircase to the Orcish Mines.
+  6661 | D:10     | Gained mutation: You have a small jelly attached to you
+                  | that senses nearby items. [Jiyva's grace]
+  7040 | D:11     | Found a staircase to the Lair.
+  7681 | D:1      | Lost mutation: You have a small jelly attached to you that
+                  | senses nearby items. [Jiyva's grace]
+  9214 | D:13     | Found a gate to the Vaults.
+  9214 | D:13     | Found Feetyze's Antique Weapon Boutique.
+  9382 | D:13     | Gained mutation: Your rubbery body absorbs attacks. (AC +1,
+                  | EV +1) [Jiyva's grace]
+ 10723 | D:14     | Reached ****** piety under Jiyva
+ 11316 | D:14     | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Invok: Request Jelly     |       |       |       |       |    12 ||    12
+

@@ -1,0 +1,137 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5524609715526928895
+
+0 Soggut the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Centaur Monk on Sept 25, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:38 (2 turns).
+
+Soggut the Skirmisher (Centaur Monk)                   Turns: 2, Time: 00:01:39
+
+Health: 19/19      AC:  4    Str: 13    XL:     1   Next: 0%
+Magic:  1/1        EV: 10    Int:  9    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   d - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword
+ d - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.6 Short Blades
+ - Level 2.6 Polearms
+ + Level 2.1 Dodging
+ + Level 1.1 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+What type of item? spear
++0 spear
+What ego type? 
+Something appears before you!
+d - a +0 spear
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+d - a +0 spear (weapon)
+Enter Wizard Command (? - help): 
+Which skill (by name)? pole
+Polearms
+To what level? 2.6
+Increased Polearms to skill level 2.6.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      4.7 |     16 |  40% |   1.9 |    97  |  1.03 |      2.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      1.4 |      5 |  57% |   0.8 |    76  |  1.32 |      1.0
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ###~...~####.
+###~~.....~~~~#
+#~~~.......~~#
+#~~.........###
+##...........~#
+#.....~~~.....#
+ #...~...~....#
+ #...~.@.~....#
+#....~.?.~....#
+#.....~~~.....#
+#~...........##
+#~~.........##
+##~#.......~~#
+ ####.....~~##
+    #~...~###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Soggut the Centaur Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||  4000
+       Spear             ||  4000
+       Kick              ||  1303
+Armor: Robe              ||  1871
+Dodge: Dodged            ||  3419
+

@@ -1,0 +1,151 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 14650416375008889552
+
+0 Ruggeitotu the Sneak (level 1, 0/9 HPs)
+             Began as a Vine Stalker Enchanter on Oct 26, 2020.
+             Slain by Ijyb (2 damage)
+             ... in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:01:22 (20 turns).
+
+Ruggeitotu the Sneak (Vine Stalker Enchanter)         Turns: 20, Time: 00:01:23
+
+Health: 0/9        AC:  2    Str: 10    XL:     1   Next: 0%
+Magic:  0/4        EV: 12    Int: 15    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   a - +1 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: fangs 2, magic shield, antimagic bite, no potion heal 3, rot immunity
+a: no special abilities
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Armour
+ b - a +0 robe (worn)
+Scrolls
+ j - a scroll of blinking
+Potions
+ e - a potion of curing
+ f - a potion of heal wounds
+ g - a potion of haste
+ h - 2 potions of magic
+ i - a potion of berserk rage
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 0.0 Fighting
+ + Level 0.8 Short Blades
+ + Level 1.5 Dodging
+ - Level 3.6 Stealth
+ - Level 2.1 Spellcasting
+ - Level 3.0 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ##.....      6%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Ensorcelled Hibernation  Hex/Ice        #.....       19%         2    ###....
+ Confuse                  Hex            ##......     19%         3    ###....
+ Tukima's Dance           Hex            ##......     19%         3    ###....
+ Dazzling Spray           Conj/Hex       #.....       34%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+Annotations:
+D Ijyb
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+Confirm with . or Enter, or press ? or * to list all spells.
+You don't know that spell.
+Unknown command.
+Ijyb barely misses you.
+There is a fountain of clear blue water here.
+Casting: Corona (safe; 6% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Corona (safe; 6% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - Ijyb
+Aim: Ijyb, wearing a +0 leather armour (chance to defeat MR: 54%)
+Ijyb is outlined in light.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You hit Ijyb. Your bite misses Ijyb.
+Ijyb is lightly wounded.
+Ijyb barely misses you.
+You hit Ijyb.
+Ijyb is lightly wounded.
+Ijyb hits you.
+You die...
+
+#######
+#<.#..+
+#..'..#
+#..####
+#..#
+#..#
+#.g#
+#}@#
+####
+
+
+You could see Ijyb.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Ruggeitotu the Vine Stalker Enchanter began the quest for
+                  | the Orb.
+     0 | D        | Reached XP level 1. HP: 9/9 MP: 4/4
+     1 | D        | Noticed Ijyb
+    20 | D        | Slain by Ijyb
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    10
+       Bite              ||     2
+ Cast: Corona            ||     3
+Dodge: Dodged            ||     7
+

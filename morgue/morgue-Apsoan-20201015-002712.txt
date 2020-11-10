@@ -1,0 +1,256 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10337582869246933187
+
+163 Apsoan the Sneak (level 5, 25/25 HPs) *WIZ*
+             Began as a Vine Stalker Enchanter on Oct 14, 2020.
+             Quit the game on level 3 of the Dungeon on Oct 15, 2020.
+             The game lasted 00:40:32 (4523 turns).
+
+Apsoan the Sneak (Vine Stalker Enchanter)           Turns: 4523, Time: 00:40:32
+
+Health: 25/25      AC:  4    Str: 10    XL:     5   Next: 44%
+Magic:  9/9        EV: 11    Int: 16    God:    No God 0 (0)
+Gold:   121        SH:  0    Dex: 15    Spells: 2/8 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    +   f - +1 leather armour
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             q - amulet of faith
+HPRegen  0.48/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: fangs 2, regeneration 1, magic shield, antimagic bite, no potion heal 3, rot
+immunity
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 4 of its levels.
+
+You collected 170 gold pieces.
+You spent 49 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +5 flail
+ g - a +0 spear
+ h - a +0 mace of protection
+ j - a +0 long sword
+ r - a +0 falchion
+ s - a +1 flail of crushing
+Missiles
+ c - 21 bolts
+ e - 141 stones
+ o - 9 tomahawks (quivered)
+ u - 3 needles of confusion
+Armour
+ f - a +1 leather armour (worn)
+ l - a +0 ring mail
+ m - a +0 scale mail
+ p - a +0 robe
+Jewellery
+ q - an amulet of faith (around neck)
+Scrolls
+ k - a scroll of noise
+ t - a scroll of magic mapping
+ v - a scroll of immolation
+Potions
+ i - a potion of berserk rage
+Comestibles
+ d - 4 rations
+
+
+   Skills:
+ + Level 1.1 Fighting
+ - Level 3.0 Short Blades
+ + Level 0.1 Maces & Flails
+ + Level 0.7 Throwing
+ - Level 1.5 Dodging
+ + Level 5.3 Stealth
+ - Level 2.1 Spellcasting
+ - Level 3.0 Hexes
+ - Level 1.0 Ice Magic
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            11 (90)      9%          1    15
+b - Ensorcelled Hibernat  Hex/Ice        8 (50)       19%         2    65
+c - Confuse               Hex            11 (100)     24%         3    115
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Tukima's Dance           Hex            11 (100)     24%         3    115
+ Dazzling Spray           Conj/Hex       6 (50)       41%         3    115
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Hepliaklqana
+Nemelex Xobeh
+Ru
+Trog
+
+Shops:
+D:4 *
+
+Annotations:
+D:3 Grinder, Purgy
+D:4 Edmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+Your natural rate of healing is unusually fast.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.8 |     19 |  64% |   3.7 |   139  |  0.72 |      2.7
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      5.7 |     13 |  53% |   3.0 |   100  |  1.00 |      3.0
+a - a +2 dagger (weapon)
+You start resting.
+You are feeling hungry.
+Okay, then.
+You start resting.
+Magic restored.
+Enter Wizard Command (? - help): 
+Super healing.
+Enter Wizard Command (? - help): 
+You're too full to eat anything.
+Saving game... please wait.
+Level annotation: Grinder, Purgy
+Welcome back, Apsoan the Vine Stalker Enchanter.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####
+#...#
+#...#
+#...#
+#...#
+#...###
+#...'.#########
+#..)#.#...#...#
+###.#.....#.#.#
+  #.#.......#.##########
+  #.....................
+  #@....................
+  #######.........).####
+        #........##[#
+        #........##[#
+        #..).....##<#
+        #.......#####
+        #.......#
+        #########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc wizard (D:3)
+  5 adders (D:2)
+  2 dart slugs (D:1)
+  A leopard gecko (D:2)
+  18 orcs
+  A giant cockroach (D:2)
+  5 goblins
+  A hobgoblin (D:2)
+  9 jackals
+  A ball python (D:1)
+  7 bats
+  5 frilled lizards
+  5 kobolds
+  5 rats
+66 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Apsoan the Vine Stalker Enchanter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+    86 | D:1      | Reached skill level 1 in Short Blades
+   736 | D:1      | Reached XP level 2. HP: 14/14 MP: 4/6
+   765 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+  1003 | D:1      | Reached skill level 1 in Fighting
+  1483 | D:2      | Found a sacrificial altar of Ru.
+  2149 | D:2      | Reached skill level 4 in Stealth
+  2149 | D:2      | Reached skill level 1 in Ice Magic
+  2149 | D:2      | Reached XP level 3. HP: 16/18 MP: 0/7
+  2172 | D:1      | Learned a level 3 spell: Confuse
+  2503 | D:2      | Found a hazy altar of Hepliaklqana.
+  2778 | D:2      | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [Vine Stalker growth]
+  2778 | D:2      | Reached XP level 4. HP: 22/22 MP: 3/8
+  2918 | D:2      | Found a bloodstained altar of Trog.
+  3240 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  3519 | D:3      | Reached skill level 5 in Stealth
+  3519 | D:3      | Reached XP level 5. HP: 23/25 MP: 3/9
+  3725 | D:3      | Noticed Grinder
+  3739 | D:3      | Noticed Purgy
+  4153 | D:4      | Noticed Edmund
+  4219 | D:4      | Found Qoeff's General Store.
+  4370 | D:4      | Bought a scroll of immolation for 49 gold pieces
+  4400 | D:4      | Entered wizard mode.
+  4523 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Short Blades   |  1     2     3 |  3.0
+Fighting       |     1          |  1.1
+Stealth        |     4     5    |  5.3
+Ice Magic      |     1          |  1.0
+Maces & Flails |                |  0.1
+Throwing       |                |  0.7
+Dodging        |                |  1.5
+Spellcasting   |                |  2.1
+Hexes          |                |  3.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    59 |  4100 ||  4159
+       Bite              |    10 |  2502 ||  2512
+       Flail             |       |  4009 ||  4009
+Throw: Stone             |    17 |    12 ||    29
+       Tomahawk          |       |    21 ||    21
+ Cast: Corona            |    27 |    36 ||    63
+       Ensorcelled Hiber |     6 |     8 ||    14
+       Confuse           |       |     7 ||     7
+  Use: Scroll            |     7 |     3 ||    10
+ Stab: Sleeping          |     6 |     5 ||    11
+       Paralysed         |     1 |       ||     1
+       Confused          |       |     1 ||     1
+  Eat: Chunk             |     7 |     7 ||    14
+Armor: Leather armour    |    17 |   735 ||   752
+Dodge: Dodged            |    39 |  3753 ||  3792
+

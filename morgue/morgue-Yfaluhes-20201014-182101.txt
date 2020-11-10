@@ -1,0 +1,198 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14779023571380516463
+
+30 Yfaluhes the Firebug (level 3, 20/20 HPs) *WIZ*
+             Began as a Kobold Fire Elementalist on Oct 14, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:18:00 (1827 turns).
+
+Yfaluhes the Firebug (Kobold Fire Elementalist)     Turns: 1827, Time: 00:18:00
+
+Health: 20/20      AC:  3    Str:  5    XL:     3   Next: 35%
+Magic:  6/6        EV: 14    Int: 17    God:    No God 0 (0)
+Gold:   34         SH:  0    Dex: 15    Spells: 0/6 levels left
+
+rFire    . . .     SeeInvis .   a - +0 dagger
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   h - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: flying
+A: small, carnivore
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 34 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger (weapon)
+Missiles
+ d - 30 arrows
+ j - 20 stones (quivered)
+ n - 18 poisoned needles
+Armour
+ e - a +0 robe
+ f - a +0 shield
+ h - a +0 leather armour (worn)
+Scrolls
+ g - a scroll of enchant weapon
+ k - a scroll of magic mapping
+ l - a scroll of teleportation
+Potions
+ b - a potion of curing
+ i - a potion of flight
+Comestibles
+ c - 2 rations
+ m - 10 chunks of flesh
+
+
+   Skills:
+ + Level 1.1 Fighting
+ + Level 2.1 Short Blades
+ - Level 3.0 Dodging
+ - Level 3.0 Stealth
+ - Level 2.1 Spellcasting
+ + Level 1.1 Conjurations
+ - Level 3.0 Fire Magic
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      8 (40)       14%         1    13
+b - Throw Flame           Conj/Fire      8 (50)       21%         2    63
+c - Conjure Flame         Conj/Fire      8 (100)      38%         3    113
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Inner Flame              Hex/Fire       6 (100)      45%         3    113
+ Sticky Flame             Conj/Fire      8 (100)      80%         4    213
+ Fireball                 Conj/Fire      8 (200)      98%         5    363
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+
+
+Message History
+
+Memorise Conjure Flame, consuming 3 spell levels and leaving 0? 
+You start memorising the spell. You continue memorising. x3
+You finish memorising. Spell assigned to 'c'.
+Okay, then.
+Okay, then.
+Saving game... please wait.
+Welcome back, Yfaluhes the Kobold Fire Elementalist.
+Press ? for a list of commands and other information.
+Saving game... please wait.
+Welcome back, Yfaluhes the Kobold Fire Elementalist.
+Press ? for a list of commands and other information.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You fly downwards.
+There is a stone staircase leading up here.
+Autopickup is now off.
+Enter Wizard Command (? - help): 
+You feel a rush of knowledge.
+Enter note: doh, invalidated the run with a wizmode typo
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #...#.....
+ ###........#
+  ..........##
+   ..!.......#
+    .......(..
+    #.........
+    #.......#.
+    #.@.......
+    ##.#......
+     ... .###.
+    ....% ..
+   ....... ##
+  ........#
+ .........#
+#.........#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A dart slug (D:1)
+  A leopard gecko (D:1)
+  2 bats (D:1)
+  A giant cockroach (D:1)
+  5 hobgoblins (D:1)
+  2 kobolds (D:1)
+  A quokka (D:2)
+  A ball python (D:1)
+  A frilled lizard (D:1)
+  6 goblins (D:1)
+  4 rats (D:1)
+25 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Yfaluhes the Kobold Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+   252 | D:1      | Reached XP level 2. HP: 16/16 MP: 3/5
+   277 | D:1      | Learned a level 2 spell: Throw Flame
+   625 | D:1      | Reached skill level 1 in Fighting
+   726 | D:1      | Reached skill level 1 in Short Blades
+   740 | D:1      | Entered wizard mode.
+  1397 | D:1      | Reached XP level 3. HP: 20/20 MP: 1/6
+  1825 | D:1      | Learned a level 3 spell: Conjure Flame
+  1827 | D:2      | doh, invalidated the run with a wizmode typo
+  1827 | D:2      | Quit the game
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Stealth        |  3       |  3.0
+Dodging        |     3    |  3.0
+Fighting       |     1    |  1.1
+Short Blades   |     1  2 |  2.1
+Spellcasting   |          |  2.1
+Conjurations   |          |  1.1
+Fire Magic     |          |  3.0
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    15
+Throw: Stone             ||     1
+ Cast: Flame Tongue      ||    29
+       Throw Flame       ||     3
+  Use: Potion            ||     1
+ Stab: Sleeping          ||     1
+  Eat: Chunk             ||    12
+Armor: Robe              ||     1
+       Leather armour    ||     1
+Dodge: Dodged            ||    10
+

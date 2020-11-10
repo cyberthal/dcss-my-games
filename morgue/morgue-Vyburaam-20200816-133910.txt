@@ -1,0 +1,160 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10345509345188751036
+
+0 Vyburaam the Skirmisher (level 1, 18/18 HPs) *WIZ*
+             Began as a Demonspawn Abyssal Knight on Aug 16, 2020.
+             Was a Follower of Lugonu.
+             Quit the game on level 5 of the Abyss.
+             The game lasted 00:03:42 (241 turns).
+
+Vyburaam the Skirmisher (Demonspawn Abyssal Knight)  Turns: 241, Time: 00:03:42
+
+Health: 18/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  2/2        EV: 11    Int: 13    God:    Lugonu 38 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 5 of the Abyss.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 0 branches of the dungeon, and saw 0 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ + Level 1.7 Armour
+ + Level 0.8 Dodging
+ + Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Message History
+
+Returning to the game...
+Found an abyssal rune of Zot.
+Found a corrupted altar of Lugonu.
+Press: ? - help, v - describe, . - travel, g - get item
+An abyssal rune of Zot.
+A corrupted altar of Lugonu.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You start resting.
+HP restored.
+You start waiting.
+A spatial maelstrom comes into view.
+A spatial vortex comes into view.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 89 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.#.#.....#...#...##.W#...###...#.#..#
+###...#....#..4.##.###.....#..#..#..#
+.#......#......##...\.#.##...#..#.#.#
+...#.X#.#..#..*...~~~~~...~.######.##
+.###....##.#.~...~~~~~~~...~#.###X##
+###..##...##~...0~~~~~~#~.!.~##...##
+....#.#...#....~~~~~.~~##~...###...#
+#.#....##..#..~0~~.....~##~...#....##
+##.#.#....#..~~~~.......~##~.#.#....#
+...#...#.#...~~~..0##....~~~..Z.#.###
+...#.....#.#.~~~..#v###..~~~.##..#.##
+..#.....##...3~~..#.v.#..~~~.#.#.#..#
+.#.##..#.##..~~~.8#._@#8.~~~.#.#.####
+..#....#.##..~~~..#...#..~~~..##....#
+#..###.#.###.~~~..#8.8#..~~~.3#...###
+##..#........~~~..##+##..~~~..#..#..#
+###..##....#.~~~...#.#...~~~.#..#...#
+####.....#...~##~.......~~~~.#.#....#
+#......##.....~##~.....~~~~.........#
+#.#.....#.#....~##~~.~~~~~......#...#
+##...##\##..~...~#~~~~~~~...x..#.#.##
+.###.###.x.##~...~~~~~~~...~..X...#.#
+.##.##..####.#~...~~~~~...~X##.#.##.#
+.##...#..#.#...#...#..##.#...##...###
+
+
+You could see a spatial maelstrom and a spatial vortex (wandering).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Vyburaam the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | Abyss:1  | Entered wizard mode.
+     0 | Abyss:5  | Entered Level 5 of the Abyss
+     0 | Abyss:5  | Found a corrupted altar of Lugonu.
+   106 | Abyss:5  | Noticed a small abomination
+   107 | Abyss:5  | Found a corrupted altar of Lugonu.
+   107 | Abyss:5  | Noticed a tentacled starspawn
+   107 | Abyss:5  | Noticed a raiju
+   120 | Abyss:5  | Noticed a large abomination
+   120 | Abyss:5  | Found a corrupted altar of Lugonu.
+   121 | Abyss:5  | Found a corrupted altar of Lugonu.
+   128 | Abyss:5  | Found a corrupted altar of Lugonu.
+   128 | Abyss:5  | Noticed a white draconian shifter
+   128 | Abyss:5  | Noticed a tentacled monstrosity
+   128 | Abyss:5  | Noticed a +1 glaive of venom
+   128 | Abyss:5  | Noticed a worldbinder
+   128 | Abyss:5  | Noticed a raiju
+   128 | Abyss:5  | Noticed a worldbinder
+   128 | Abyss:5  | Noticed a worldbinder
+   128 | Abyss:5  | Noticed a tormentor
+   128 | Abyss:5  | Noticed a bone dragon
+   128 | Abyss:5  | Noticed an iron dragon zombie
+   128 | Abyss:5  | Noticed a golden eye
+   128 | Abyss:5  | Noticed a worldbinder
+   129 | Abyss:5  | Found a corrupted altar of Lugonu.
+   129 | Abyss:5  | Found a corrupted altar of Lugonu.
+   150 | Abyss:5  | Noticed a smoke demon
+   151 | Abyss:5  | Found a corrupted altar of Lugonu.
+   240 | Abyss:5  | Noticed a spatial maelstrom
+   241 | Abyss:5  | Noticed a spatial vortex
+   241 | Abyss:5  | Found a corrupted altar of Lugonu.
+   241 | Abyss:5  | Quit the game
+

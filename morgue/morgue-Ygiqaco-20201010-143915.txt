@@ -1,0 +1,156 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18372746003527158592
+
+0 Ygiqaco the Shield-Bearer (level 1, 18/18 HPs) *WIZ*
+             Began as a Human Fighter on Oct 10, 2020.
+             Was the Champion of Wu Jian.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:43 (3 turns).
+
+Ygiqaco the Shield-Bearer (Human Fighter)              Turns: 3, Time: 00:01:43
+
+Health: 18/18      AC:  6    Str: 16    XL:     1   Next: 0%
+Magic:  1/1        EV:  6    Int:  8    God:    Wu Jian 200 (0)
+Gold:   0          SH:  8    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Wall Jump, Serpent's Lash, Heavenly Storm, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.0 Axes
+ + Level 3.0 Armour
+ + Level 3.0 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention! The elephant trumpets! x3
+You spin and attack the elephant. You hit the elephant but do no damage. You
+spin and attack the elephant. You hit the elephant.
+The elephant is lightly wounded.
+You spin and attack the elephant. You hit the elephant but do no damage.
+The elephant tramples you but does no damage.
+The elephant barely misses you. x2; The elephant trunk-slaps you. The elephant
+tramples you!
+Ouch! That really hurt!
+* * * LOW HITPOINT WARNING * * *
+You stumble backwards! You block the elephant's attack. The elephant closely
+misses you.
+Your shield and scale mail prevent you from hitting the elephant.
+The elephant is lightly wounded.
+You hit the elephant but do no damage. x2; The elephant tramples you!
+Die? 
+Thought so. You stumble backwards! The elephant closely misses you. x2
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ###########....# #.#        #.#.#
+  #..............###+##    ####+#(#
+  #.#########.##.##...######......#######
+  #.#.............+.......##.............
+  #.#......##+##.##.......##......#......
+  #.#......#..............++......#......
+  #.#......#....#####.....##......#......
+  #...##+###..............##......####...
+  #...##.# ##............................
+  #...##.#  #....#.........####...####...
+  #...##.####....#...YY..?.###########...
+  #.##.............YYY.....##8..<...8#...
+  #.#########+##.#..@.Y....##~......~#...
+  #............#.#..###....##~......~#...
+  #............#.#..###....##~......~#...
+  #............#+#....#....##~..88..~#...
+  #.#..#....##........#....##~...$..~#.##
+  #.##.#.##.##........#....##~......~#.##
+  #.##.#.#..........#########~......~#...
+  #.##.#.......#+#..#########8......8##..
+###.##.###..#...............####++#####..
+#....#......#..#....#........###.........
+#.#.....##......#)............###........
+#.#.....##..!...#........................
+
+
+You could see 6 elephants.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ygiqaco the Human Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of the Wu Jian Council
+     0 | D:1      | Reached * piety under Wu Jian
+     0 | D:1      | Reached ** piety under Wu Jian
+     0 | D:1      | Reached *** piety under Wu Jian
+     0 | D:1      | Reached **** piety under Wu Jian
+     0 | D:1      | Reached ***** piety under Wu Jian
+     0 | D:1      | Reached ****** piety under Wu Jian
+     0 | D:1      | Noticed an elephant
+     0 | D:1      | Noticed an elephant
+     0 | D:1      | Noticed an elephant
+     0 | D:1      | Noticed an elephant
+     0 | D:1      | Noticed an elephant
+     0 | D:1      | Noticed an elephant
+     2 | D:1      | Mangled by an elephant (7 damage)
+     3 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: War axe           ||     4
+Invok: Whirlwind         ||     3
+Armor: Scale mail        ||     1
+Dodge: Dodged            ||     5
+Block: Shield            ||     1
+

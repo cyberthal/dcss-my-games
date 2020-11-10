@@ -1,0 +1,366 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2873850966712051207
+
+1993 Aruaguc the Changer (level 9, 65/65 HPs)
+             Began as a Barachi Transmuter on Oct 10, 2020.
+             Was a Follower of Wu Jian.
+             Quit the game on level 7 of the Dungeon.
+             The game lasted 01:06:30 (10104 turns).
+
+Aruaguc the Changer (Barachi Transmuter)           Turns: 10104, Time: 01:06:31
+
+Health: 65/65      AC:  8    Str: 14    XL:     9   Next: 21%
+Magic:  13/13      EV: 11    Int: 19    God:    Wu Jian [*.....]
+Gold:   128        SH:  0    Dex: 12    Spells: 2/14 levels left
+
+rFire    + . .     SeeInvis .   a - +2 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   N - +0 ring mail {rF+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   j - +2 pair of gloves
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.20/turn              A - +2 ring of strength
+MPRegen  0.13/turn              n - +2 ring of intelligence
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Renounce Religion
+
+
+You were on level 7 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was aware of your devotion.
+You were hungry.
+
+You visited 2 branches of the dungeon, and saw 8 of its levels.
+
+You collected 348 gold pieces.
+You spent 220 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling (weapon)
+ b - a +2 dire flail of protection
+ f - a +1 spear
+ i - a +0 shortbow
+ H - a +0 war axe
+Missiles
+ e - 94 stones
+ l - 2 throwing nets {!f}
+ m - 38 bolts
+ p - 17 sling bullets (quivered)
+ r - 211 arrows
+ v - 8 steel javelins
+ y - 3 tomahawks
+ F - 13 poisoned needles
+Armour
+ c - a +0 leather armour
+ g - a +0 robe
+ j - a +2 pair of gloves (worn)
+ z - a +0 large shield
+ B - a +2 chain mail of poison resistance
+ N - a +0 ring mail of fire resistance (worn)
+Jewellery
+ k - an uncursed ring of flight
+ n - a +2 ring of intelligence (right hand)
+ A - a +2 ring of strength (left hand)
+Wands
+ o - a wand of clouds (3)
+ u - a wand of scattershot (5)
+ w - a wand of flame (13)
+Scrolls
+ s - a scroll of magic mapping
+ D - 3 scrolls of remove curse
+ K - 2 scrolls of identify
+ O - 4 scrolls of noise
+Potions
+ h - 3 potions of might
+ q - 7 potions of curing
+ t - 2 potions of agility
+ x - a potion of berserk rage
+ C - a potion of mutation
+ E - a potion of brilliance
+ G - 4 potions of heal wounds
+ I - a potion of cancellation
+ J - a potion of flight
+ L - a potion of magic {unknown}
+Comestibles
+ d - 11 rations
+
+
+   Skills:
+ + Level 3.8 Fighting
+ - Level 3.0 Maces & Flails
+ - Level 2.1(2.5) Slings
+ - Level 1.9(2.4) Throwing
+ * Level 1.1 Armour
+ - Level 3.0 Dodging
+ - Level 2.3 Stealth
+ - Level 7.0 Unarmed Combat
+ - Level 3.1 Spellcasting
+ + Level 0.4 Hexes
+ + Level 0.4 Necromancy
+ - Level 7.2 Transmutations
+ - Level 4.0 Evocations
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           ####..       1%          1    None
+b - Confusing Touch       Hex            #.....       26%         1    None
+c - Animate Skeleton      Necr           N/A          26%         1    None
+d - Sticks to Snakes      Tmut           ####....     2%          2    ##.....
+e - Spider Form           Tmut/Pois      ###.......   21%         3    ###....
+f - Ice Form              Ice/Tmut       ###.....     56%         4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Apportation              Tloc           #.....       30%         1    None
+ Summon Small Mammal      Summ           #...         30%         1    None
+ Blade Hands              Tmut           ####......   41%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 :   D:7 =
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Returning to the game...
+You now have 128 gold pieces (gained 10).
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Found 15 stones.
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an entrance to Ifoasyan's Jewellery Shoppe here.
+You can access your shopping list by pressing '$'.
+Saving game... please wait.
+Welcome back, Aruaguc the Barachi Transmuter.
+The Council says: Follow the path of wisdom and battle!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+           #..####...#####..#
+           ..............#..##
+       ..  #...# #..#..#.....###
+      .#..  #...##.......##.....
+     ...... #.#....##..........#
+     (.....##.........####..##.#
+      ........#.....###  #.###..
+      #.........#.#..#####.####)
+       #.......##.#......#.#....
+########.#...................###
+.........................#.###
+....#....................#.#
+......%.........#........#.#
+.......8..@..8..#........#.#
+ ........................#.###
+  ..#..........#..#..........###
+    #................##....#..)>
+    ###.###.###......##._...####
+      #.  #.# #......##.....#  #
+      #.  #.# #......##.....#  #
+      #.  #.# #......##.....## #
+      #.  #.# ###########....###
+      ..  ..#           ####.#<.
+      ..  ..#              #....
+      ..   .#              ###..
+                             #..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:5)
+  Edmund (D:4)
+  An orc warrior (D:7)
+  An ice beast (D:5)
+  A phantom (D:3)
+  2 ogres
+  5 centaurs
+  2 bullfrogs
+  3 killer bees (D:7)
+  2 howler monkeys
+  A crimson imp (D:7)
+  A jelly (D:6)
+  3 hounds
+  4 orc priests
+  2 iguanas (D:4)
+  Ijyb (D:5)
+  An orc wizard (D:5)
+  3 gnolls (D:2)
+  A howler monkey skeleton (D:6)
+  3 adders
+  A shadow imp (D:6)
+  An ooze (D:2)
+  An adder zombie (D:6)
+  3 worms
+  2 leopard geckos
+  13 orcs
+  8 giant cockroaches
+  A goblin (D:3)
+  4 hobgoblins
+  10 jackals
+  2 quokkas
+  3 ball pythons
+  10 bats
+  7 frilled lizards
+  A giant cockroach zombie (D:6)
+  A jackal zombie (D:5)
+  6 kobolds
+  A leopard gecko skeleton (D:6)
+  A quokka skeleton (D:5)
+  A quokka zombie (D:5)
+  10 rats
+  A butterfly (D:5)
+127 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Aruaguc the Barachi Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   596 | D:1      | Reached skill level 1 in Stealth
+   695 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   699 | D:1      | Learned a level 2 spell: Sticks to Snakes
+  1041 | D:1      | Reached XP level 3. HP: 19/26 MP: 3/6
+  1465 | D:1      | Learned a level 3 spell: Spider Form
+  1809 | D:2      | Reached XP level 4. HP: 25/32 MP: 5/7
+  1982 | D:2      | Noticed Sigmund
+  3225 | D:3      | Reached XP level 5. HP: 37/37 MP: 6/8
+  3605 | D:3      | Reached skill level 1 in Throwing
+  4112 | D:3      | Noticed a phantom
+  4192 | D:3      | Killed a phantom
+  4192 | D:3      | Reached skill level 1 in Slings
+  4192 | D:3      | Reached skill level 1 in Evocations
+  4473 | D:3      | Reached XP level 6. HP: 44/44 MP: 7/9
+  4950 | D:4      | Reached skill level 5 in Transmutations
+  5327 | D:4      | Found a white marble altar of Elyvilon.
+  6590 | D:5      | Entered Level 5 of the Dungeon
+  6591 | D:5      | Reached skill level 5 in Unarmed Combat
+  6621 | D:5      | Reached XP level 7. HP: 40/50 MP: 10/10
+  6633 | D:4      | Learned a level 4 spell: Ice Form
+  6811 | D:5      | Found Wumpux's Book Shop.
+  6821 | D:5      | Noticed Edmund
+  7291 | D:4      | Killed Edmund
+  7431 | D:5      | Noticed Ijyb
+  7446 | D:5      | Killed Ijyb
+  7501 | D:5      | Reached XP level 8. HP: 41/56 MP: 9/11
+  7803 | D:5      | Bought a book of Cantrips for 220 gold pieces
+  7805 | D:5      | Learned a level 1 spell: Animate Skeleton
+  7812 | D:5      | Found a staircase to the Ecumenical Temple.
+  7818 | Temple   | Entered the Ecumenical Temple
+  7906 | Temple   | Became a worshipper of the Wu Jian Council
+  7956 | D:5      | Noticed Grinder
+  7964 | D:5      | Killed Grinder
+  8208 | D:5      | Learned a level 1 spell: Confusing Touch
+  8761 | D:6      | Reached skill level 1 in Maces & Flails
+  9415 | D:7      | Found a snail-covered altar of Cheibriados.
+  9477 | D:7      | Found a hide-covered altar of Uskayaw.
+  9493 | D:7      | Reached XP level 9. HP: 51/63 MP: 9/13
+  9830 | D:7      | Found Ifoasyan's Jewellery Shoppe.
+  9866 | D:7      | Reached * piety under Wu Jian
+  9882 | D:7      | Reached skill level 1 in Armour
+ 10104 | D:7      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |  1                 2       |  2.3
+Transmutations |     3  4        5  6  7    |  7.2
+Unarmed Combat |           4     5  6  7    |  7.0
+Throwing       |              1             |  1.9
+Fighting       |              2        3    |  3.8
+Slings         |              1        2    |  2.1
+Evocations     |              1  2  3     4 |  4.0
+Spellcasting   |                       3    |  3.1
+Maces & Flails |                       2  3 |  3.0
+Dodging        |                          3 |  3.0
+Armour         |                          1 |  1.1
+Hexes          |                            |  0.4
+Necromancy     |                            |  0.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    70 |   169 |   145 ||   384
+       Headbutt          |     2 |     9 |    14 ||    25
+       Kick              |     7 |     7 |     8 ||    22
+       Punch             |       |       |     5 ||     5
+       Dire flail        |       |       |     2 ||     2
+ Fire: Hunting sling     |       |    75 |    71 ||   146
+Throw: Stone             |    50 |    51 |       ||   101
+       Tomahawk          |       |       |     3 ||     3
+ Cast: Beastly Appendage |    18 |    33 |    21 ||    72
+       Sticks to Snakes  |     3 |     1 |       ||     4
+       Spider Form       |       |     7 |     3 ||    10
+       Ice Form          |       |       |     1 ||     1
+       Confusing Touch   |       |       |     6 ||     6
+       Animate Skeleton  |       |       |     2 ||     2
+ Abil: Hop               |     1 |     3 |     5 ||     9
+Evoke: Wand              |       |       |     5 ||     5
+  Use: Scroll            |     4 |    15 |     5 ||    24
+       Potion            |       |     2 |     1 ||     3
+ Stab: Sleeping          |     1 |       |       ||     1
+       Distracted        |       |     1 |       ||     1
+       Confused          |       |       |     2 ||     2
+  Eat: Chunk             |     4 |    16 |     8 ||    28
+       Ration            |       |     1 |     1 ||     2
+Armor: Leather armour    |    19 |    42 |    23 ||    84
+       Skin              |       |     1 |     1 ||     2
+       Ring mail         |       |       |     4 ||     4
+Dodge: Dodged            |    43 |   131 |    95 ||   269
+

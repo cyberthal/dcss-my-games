@@ -1,0 +1,537 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3244351054454577787
+
+11508 Xuchoc the Fighter (level 11, 89/89 HPs) *WIZ*
+             Began as a Barachi Ice Elementalist on Oct 10, 2020.
+             Was an Elder of Vehumet.
+             Quit the game on level 8 of the Dungeon on Oct 12, 2020.
+             The game lasted 03:45:18 (19139 turns).
+
+Xuchoc the Fighter (Barachi Ice Elementalist)      Turns: 19139, Time: 03:45:19
+
+Health: 89/89      AC: 10    Str: 10    XL:     11   Next: 78%
+Magic:  20/20      EV: 13    Int: 19    God:    Vehumet [****..]
+Gold:   616        SH:  5    Dex: 12    Spells: 4/22 levels left
+
+rFire    + . .     SeeInvis .   b - +4 trident
+rCold    . . .     Gourm    .   Q - +0 buckler
+rNeg     . . .     Faith    .   T - +2 robe {rF+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   r - +2 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  o - +2 pair of boots
+Stlth    ++........             A - amulet of regeneration
+HPRegen  0.64/turn              (no ring)
+MPRegen  0.17/turn              (no ring)
+
+@: studying Crossbows, slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Renounce Religion
+
+
+You were on level 8 of the Dungeon.
+You worshipped Vehumet.
+Vehumet was greatly pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 11 of its levels.
+You also visited: Ossuary.
+
+You collected 616 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 blowgun
+ b - a +4 trident (weapon)
+ c - a +0 fustibalus
+ d - a +0 war axe
+ F - a +1 dagger of chaos
+Missiles
+ f - 154 arrows
+ h - 202 stones
+ i - 4 curare-tipped needles {!f}
+ t - 18 bolts
+ x - a throwing net {!f}
+ y - 60 sling bullets
+ E - 32 poisoned needles
+ I - 7 javelins
+ R - 3 tomahawks (quivered)
+Armour
+ o - a +2 pair of boots (worn)
+ r - a +2 cloak (worn)
+ w - a scarf of resistance
+ Q - a +0 buckler (worn)
+ T - a +2 robe of fire resistance (worn)
+ V - the +1 scale mail of Yesterday {+Fly rElec rF++ Str-5}
+   (You found it on level 4 of the Dungeon)   
+   
+   It affects your strength (-5).
+   It greatly protects you from fire.
+   It insulates you from electricity.
+   It lets you fly.
+ W - a +0 scale mail of cold resistance
+ Y - a +2 chain mail of cold resistance
+Jewellery
+ e - the amulet "Emaef" {Reflect rF- rC+ Dex+7 SH+2 Stlth-, unknown}
+   (You acquired it on level 9 of the Dungeon)   
+   
+   [amulet of reflection]
+   
+   It shields you and reflects attacks.
+   It affects your dexterity (+7).
+   It makes you vulnerable to fire.
+   It protects you from cold.
+   It affects your SH (+2).
+   It makes you less stealthy.
+ u - the amulet "Novumau" {Spirit Dex+2}
+   (You found it on level 3 of the Dungeon)   
+   
+   [amulet of guardian spirit]
+   
+   It causes incoming damage to be split between your health and magic.
+   It affects your dexterity (+2).
+ v - an uncursed amulet of faith
+ A - an amulet of regeneration (around neck)
+ G - an uncursed amulet of the acrobat
+ M - an uncursed ring of wizardry {unknown}
+Wands
+ j - a wand of acid (6)
+ p - a wand of enslavement (5)
+ K - a wand of iceblast (27)
+ O - a wand of digging (6)
+ Z - a wand of polymorph (22)
+Scrolls
+ k - 4 scrolls of teleportation
+ m - a scroll of immolation
+ B - 3 scrolls of blinking
+Potions
+ g - 5 potions of flight
+ l - a potion of agility
+ n - 5 potions of heal wounds
+ q - a potion of mutation
+ s - a potion of cancellation
+ z - a potion of invisibility
+ C - a potion of brilliance
+ H - a potion of haste
+ J - 5 potions of lignification
+ N - 2 potions of curing {unknown}
+Books
+ P - a manual of Crossbows
+Comestibles
+ D - 11 rations
+
+
+   Skills:
+ + Level 9.4 Fighting
+ - Level 2.0 Short Blades
+ - Level 2.0(3.9) Axes
+ - Level 4.8(5.0) Polearms
+ - Level 2.3(3.3) Slings
+   Level 2.2 Bows
+ - Level 3.6(4.0) Throwing
+ - Level 3.1 Armour
+ - Level 3.1 Dodging
+ - Level 2.0 Stealth
+ - Level 4.1 Shields
+ - Level 2.0 Unarmed Combat
+ - Level 6.1 Spellcasting
+ - Level 7.1 Conjurations
+ - Level 2.7 Hexes
+ - Level 1.0 Charms
+ - Level 6.7 Transmutations
+ - Level 7.4 Ice Magic
+ - Level 2.0 Poison Magic
+ - Level 5.0 Evocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      ###.         1%          1    None
+b - Beastly Appendage     Tmut           ####..       1%          1    None
+c - Freeze                Ice            ####         1%          1    None
+d - Throw Frost           Conj/Ice       ####..       1%          2    None
+e - Searing Ray           Conj           ####..       1%          2    None
+f - Sticks to Snakes      Tmut           ####....     1%          2    None
+g - Dazzling Spray        Conj/Hex       ###...       1%          3    ##.....
+h - Ozocubu's Armour      Chrm/Ice       ###.....     6%          3    ##.....
+i - Spider Form           Tmut/Pois      ###.......   5%          3    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Irradiate                Conj/Tmut      ####......   5%          5    #####..
+ Throw Icicle             Conj/Ice       ####....     1%          4    ####...
+ Ice Form                 Ice/Tmut       ####....     6%          4    ####...
+ Summon Butterflies       Summ           #.......     11%         1    None
+ Summon Ice Beast         Ice/Summ       ###.....     24%         4    ####...
+ Call Canine Familiar     Summ           #.......     32%         3    ##.....
+ Blade Hands              Tmut           ####......   19%         5    #####..
+ Summon Mana Viper        Hex/Summ       ##......     87%         5    #####..
+ Summon Hydra             Summ           #.........   100%        7    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:6            Lair (1/6) D:9
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:9 exclusions: upstairs and 1 more exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Search for what [Enter for "sinv", or ? for help]? .
+(D) Dungeon        (T) Temple         (L) Lair           
+Where to? (* - list waypoints, Enter - Lair:1 @ (x,y), ? - help) 
+(1) D:8      
+Where to? (* - list branches, Enter - Lair:1 @ (x,y), ? - help) 
+HP restored.
+There is a staircase back to the Dungeon here.
+You climb upwards. Welcome back to the Dungeon!
+Level annotation: exclusions: upstairs and 1 more exclusion
+There is a staircase to the Lair here.
+There is an escape hatch in the ceiling here.
+A mysterious force pulls you upwards. The hatch slams shut behind you.
+There is a shattered altar of Ashenzari here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..#.#.#               #......#  #.####   #.#
+###.#.#               #......#  #.#      #.#
+..).#.#               #......#  #.#      #.#
+#####.############    ##.###[#  #.########.#
+...........).....#######.###.## #.....#....#
+..............................###..##.#.####
+........#........#######.###...##...#.#.####
+.##.##.##........#     #.# #.#.###..#.#.....
+.##.##.##........#    ##.###.#.###..#.######
+.##.##.##........##   #...##.#..##..#.######
+....##..#.........#   #...##.##.##..#......Z
+#######.#...~...#.### #...##.##.##..########
+................._..###...##.##.##..........
+................#.#...@.....>....#...#######
+....###.#.........####...!...[.......#<#
+###.....#........##  #.))?.#####..#..#.#
+  #######.########   #[)...#......#..#)#
+        #.############.....#.###..#..#.#
+        #.#................#.# #.)...#.#
+  #######.#........#####'#.#.# ##....#.#
+###......................#.#.#  #....#.#####
+..'..............<.......#.#.#  #....#......
+###........#...)...#####.#.#.#  #....#######
+...........'.......'...#.#.#.#  #....#
+###........#.......###.#.#.#.####....#
+# ##########.......###.#..........#..####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 hydras (Lair:1)
+  2 two-headed ogres (D:9)
+  Maurice (D:8)
+  Psyche (D:8)
+  A komodo dragon (Lair:1)
+  Grinder (D:4)
+  2 hippogriffs
+  3 slime creatures
+  Sigmund (D:3)
+  10 yaks
+  3 hungry ghosts
+  Menkaure (D:5)
+  A water moccasin (Lair:1)
+  4 porcupines
+  3 ice beasts
+  2 sky beasts
+  3 black bears
+  An orc warrior (D:6)
+  2 phantoms
+  4 centaurs
+  3 crocodiles (Lair:1)
+  10 bullfrogs
+  A water moccasin zombie (D:5)
+  2 scorpions
+  5 killer bees (D:9)
+  2 howler monkeys
+  3 crimson imps
+  A centaur zombie (D:6)
+  2 jellies
+  A gnoll shaman (D:3)
+  6 hounds
+  7 orc priests
+  2 centaur skeletons
+  Ijyb (D:3)
+  2 iguanas
+  9 orc wizards
+  6 worker ants
+  A killer bee zombie (D:6)
+  5 big kobold zombies (Ossuary)
+  A hound skeleton (D:6)
+  A hound zombie (D:8)
+  A mummy (Ossuary)
+  A worker ant zombie (D:9)
+  11 gnolls
+  A howler monkey skeleton (D:9)
+  5 adders
+  2 shadow imps
+  2 adder skeletons (D:4)
+  4 worms
+  4 dart slugs
+  7 leopard geckos
+  26 orcs
+  4 spectral bats (Ossuary)
+  5 bats
+  9 giant cockroaches
+  7 gnoll zombies (Ossuary)
+  7 goblins
+  5 hobgoblins
+  16 jackals
+  3 quokkas
+  A ball python (D:3)
+  4 bat simulacra (Ossuary)
+  7 frilled lizards
+  A goblin simulacrum (Ossuary)
+  6 goblin zombies (Ossuary)
+  2 hobgoblin zombies (Ossuary)
+  8 kobolds
+  2 kobold zombies (Ossuary)
+  8 orc zombies (Ossuary)
+  A quokka skeleton (D:4)
+  7 rats
+  3 rat simulacra (Ossuary)
+  5 spectral goblins (Ossuary)
+  4 spectral kobolds (Ossuary)
+  4 spectral rats (Ossuary)
+  A fungus (Lair:1)
+303 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An orc wizard (D:9)
+  A quokka (D:5)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  An iguana (D:4)
+  43 fungi (D:9)
+  20 plants (D:9)
+64 creatures vanquished.
+
+Grand Total: 369 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Xuchoc the Barachi Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   451 | D:1      | Reached skill level 1 in Fighting
+   493 | D:1      | Reached XP level 2. HP: 18/21 MP: 1/5
+   865 | D:1      | Learned a level 2 spell: Throw Frost
+  1266 | D:1      | Reached skill level 1 in Short Blades
+  1597 | D:1      | Reached XP level 3. HP: 26/26 MP: 4/6
+  1602 | D:1      | Learned a level 3 spell: Ozocubu's Armour
+  2357 | D:2      | Reached skill level 1 in Charms
+  3884 | D:3      | Reached XP level 4. HP: 26/32 MP: 4/7
+  4095 | D:3      | Noticed Sigmund
+  4138 | D:3      | Killed Sigmund
+  4138 | D:3      | Reached skill level 1 in Slings
+  4138 | D:3      | Reached XP level 5. HP: 8/37 MP: 0/9
+  4409 | D:3      | Reached XP level 6. HP: 40/43 MP: 7/10
+  4488 | D:2      | Entered wizard mode.
+  4783 | D:3      | Found a hide-covered altar of Uskayaw.
+  4986 | D:3      | Reached skill level 5 in Ice Magic
+  5513 | D:3      | Got a smoking pewter amulet
+  5514 | D:3      | Identified the amulet "Novumau" {Spirit Dex+2} (You found
+                  | it on level 3 of the Dungeon)
+  5589 | D:3      | Learned a level 1 spell: Beastly Appendage
+  5592 | D:3      | Learned a level 2 spell: Sticks to Snakes
+  5609 | D:4      | Reached skill level 1 in Transmutations
+  5872 | D:4      | Noticed Ijyb
+  5930 | D:3      | Killed Ijyb
+  6002 | D:4      | Found a radiant altar of Vehumet.
+  6244 | D:3      | Reached skill level 1 in Evocations
+  6694 | D:4      | Became a worshipper of Vehumet
+  7045 | D:4      | Noticed Grinder
+  7051 | D:5      | Entered Level 5 of the Dungeon
+  7068 | D:5      | Reached XP level 7. HP: 32/48 MP: 4/11
+  7169 | D:5      | Learned a level 3 spell: Spider Form
+  7684 | D:5      | Found a burning altar of Makhleb.
+  7934 | D:5      | Reached skill level 2 in Fighting
+  7934 | D:5      | Reached skill level 1 in Polearms
+  7983 | D:5      | Noticed Menkaure
+  8421 | D:6      | Found a staircase to the Ecumenical Temple.
+  8465 | D:6      | Reached skill level 1 in Poison Magic
+  8465 | D:6      | Reached XP level 8. HP: 40/56 MP: 8/13
+  8768 | D:6      | Found a sand-covered staircase.
+  8781 | Ossuary  | Entered an ossuary
+  8897 | Ossuary  | Reached * piety under Vehumet
+  8897 | Ossuary  | Offered knowledge of Sting by Vehumet.
+  8900 | Ossuary  | Learned a level 1 spell: Sting
+  9147 | Ossuary  | Reached skill level 1 in Axes
+  9182 | Ossuary  | Offered knowledge of Searing Ray by Vehumet.
+  9183 | Ossuary  | Reached ** piety under Vehumet
+  9226 | Ossuary  | Learned a level 2 spell: Searing Ray
+  9577 | D:6      | Reached skill level 3 in Fighting
+ 10165 | Temple   | Entered the Ecumenical Temple
+ 10229 | D:7      | Found a blossoming altar of Fedhas.
+ 10246 | D:6      | Reached skill level 5 in Transmutations
+ 10265 | D:6      | Reached skill level 4 in Fighting
+ 10424 | D:7      | Reached skill level 5 in Fighting
+ 10431 | D:7      | Reached XP level 9. HP: 55/68 MP: 7/15
+ 10626 | D:7      | Reached skill level 6 in Fighting
+ 10794 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+ 11031 | D:7      | Offered knowledge of Dazzling Spray by Vehumet.
+ 11429 | D:7      | Reached skill level 1 in Bows
+ 11570 | D:7      | Reached skill level 7 in Fighting
+ 11977 | D:8      | Noticed Maurice
+ 11987 | D:8      | Killed Maurice
+ 12171 | D:8      | Found a shattered altar of Ashenzari.
+ 12265 | D:8      | Reached *** piety under Vehumet
+ 12720 | D:7      | Reached XP level 10. HP: 74/79 MP: 17/17
+ 12773 | D:7      | Reached skill level 5 in Spellcasting
+ 12844 | D:8      | Noticed Psyche
+ 12990 | D:5      | Killed Menkaure
+ 13529 | D:4      | Got a spiked scale mail
+ 13932 | D:4      | Found a radiant altar of Vehumet.
+ 14167 | D:4      | Paralysed by Grinder for 6 turns
+ 14185 | D:4      | Paralysed by Grinder for 5 turns
+ 14191 | D:4      | Killed Grinder
+ 14191 | D:4      | Reached skill level 1 in Unarmed Combat
+ 14238 | D:4      | Identified the cursed +1 scale mail of Yesterday {+Fly
+                  | rElec rF++ Str-5} (You found it on level 4 of the Dungeon)
+ 14622 | D:8      | Killed Psyche
+ 14868 | D:8      | Learned a level 3 spell: Dazzling Spray
+ 14992 | D:8      | Offered knowledge of Mephitic Cloud by Vehumet.
+ 15105 | D:9      | Identified a scroll of acquirement
+ 15106 | D:9      | Got a pitted golden amulet
+ 15149 | D:9      | Found a stormy altar of Qazlal.
+ 15208 | D:9      | Noticed a two-headed ogre
+ 15238 | D:9      | Killed a two-headed ogre
+ 15700 | D:9      | Reached skill level 5 in Conjurations
+ 15788 | D:9      | Found a staircase to the Lair.
+ 15963 | D:9      | Noticed a two-headed ogre
+ 16019 | D:9      | Killed a two-headed ogre
+ 16019 | D:9      | Reached XP level 11. HP: 72/86 MP: 18/18
+ 16075 | D:9      | Reached **** piety under Vehumet
+ 16647 | D:8      | Offered knowledge of Irradiate by Vehumet.
+ 16863 | D:9      | Reached skill level 8 in Fighting
+ 16998 | D:9      | Found a staircase to the Lair.
+ 17194 | D:9      | Found a stormy altar of Qazlal.
+ 17306 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 17322 | Lair:1   | Noticed a seven-headed hydra
+ 17346 | Lair:1   | Killed a seven-headed hydra
+ 18461 | Lair:1   | Noticed a four-headed hydra
+ 18531 | Lair:1   | Killed a four-headed hydra
+ 18531 | Lair:1   | Reached skill level 5 in Evocations
+ 18720 | Lair:1   | Reached skill level 9 in Fighting
+ 19139 | D:8      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Fighting       |  1                 2  5  7     9 |  9.4
+Ice Magic      |  4              5        7       |  7.4
+Short Blades   |     1  2                         |  2.0
+Charms         |        1                         |  1.0
+Slings         |           1              2       |  2.3
+Throwing       |           2                    3 |  3.6
+Spellcasting   |           3           4     5  6 |  6.1
+Transmutations |                 2  4  5     6    |  6.7
+Evocations     |                 1        2  4  5 |  5.0
+Dodging        |                    3             |  3.1
+Polearms       |                    2        4    |  4.8
+Poison Magic   |                    1           2 |  2.0
+Axes           |                       2          |  2.0
+Conjurations   |                       2     6  7 |  7.1
+Stealth        |                          2       |  2.0
+Bows           |                          2       |  2.2
+Armour         |                          2  3    |  3.1
+Shields        |                          3  4    |  4.1
+Unarmed Combat |                             2    |  2.0
+Hexes          |                             2    |  2.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    14 |       |       |     6 ||    20
+       Dagger            |    69 |   109 |  8008 |       ||  8186
+       Headbutt          |       |     3 |  6939 |    28 ||  6970
+       Halberd           |       |       | 16283 |       || 16283
+       Trident           |       |       |  4069 |   274 ||  4343
+       War axe           |       |       |  4000 |       ||  4000
+       Hand axe          |       |       |  4000 |       ||  4000
+       Long sword        |       |       |  4000 |       ||  4000
+ Fire: Blowgun           |     1 |    22 |    13 |    32 ||    68
+       Hunting sling     |     1 |    88 |   117 |    25 ||   231
+       Shortbow          |       |       |    49 |       ||    49
+       Fustibalus        |       |       |       |    63 ||    63
+Throw: Stone             |    76 |       |       |       ||    76
+       Throwing net      |       |       |     1 |     1 ||     2
+       Tomahawk          |       |       |       |     2 ||     2
+ Cast: Freeze            |    55 |    25 |    75 |    58 ||   213
+       Throw Frost       |     2 |     1 |     9 |     5 ||    17
+       Ozocubu's Armour  |     2 |     2 |    16 |    38 ||    58
+       Beastly Appendage |       |    12 |    47 |    29 ||    88
+       Sticks to Snakes  |       |     1 |       |     7 ||     8
+       Sting             |       |       |     6 |    11 ||    17
+       Spider Form       |       |       |       |     5 ||     5
+       Searing Ray       |       |       |       |     4 ||     4
+       Dazzling Spray    |       |       |       |    10 ||    10
+ Abil: Hop               |     3 |     1 |     9 |    11 ||    24
+Evoke: Wand              |       |       |     2 |     9 ||    11
+  Use: Scroll            |     7 |       |    13 |     9 ||    29
+       Potion            |     1 |       |     5 |     2 ||     8
+ Stab: Sleeping          |     1 |       |     9 |       ||    10
+       Distracted        |       |     1 |       |       ||     1
+       Invisible         |       |       |       |     2 ||     2
+  Eat: Chunk             |     9 |     9 |    19 |    22 ||    59
+       Ration            |     1 |       |     4 |     3 ||     8
+Armor: Robe              |    10 |       |       |   101 ||   111
+       Leather armour    |    12 |    36 |  5291 |    40 ||  5379
+       Skin              |       |       |       |     6 ||     6
+Dodge: Dodged            |    61 |    69 | 20315 |   176 || 20621
+Block: Buckler           |       |       |     4 |    69 ||    73
+Rpst.: Long sword        |       |       |   693 |       ||   693
+

@@ -1,0 +1,208 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8788751504272443941
+
+486864 Teapturi the Ninja (level 27, 179/179 HPs) *WIZ*
+             Began as a Kobold Fire Elementalist on Oct 20, 2020.
+             Was the Champion of Fedhas.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:14 (12 turns).
+
+Teapturi the Ninja (Kobold Fire Elementalist)         Turns: 12, Time: 00:05:15
+
+Health: 179/179    AC:  4    Str:  5    XL:     27
+Magic:  43/54      EV: 35    Int: 16    God:    Fedhas 200 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 76/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.39/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: small, reduced essence, carnivore
+a: Fungal Bloom, Sunlight, Evolution, Growth, Reproduction, Rain, Renounce
+Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was exalted by your worship.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - 31 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 76 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Flame Tongue          Conj/Fire      40 (40)      0%          1    0
+b - Inner Flame           Hex/Fire       82 (100)     0%          3    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Flame              Conj/Fire      50 (50)      0%          2    0
+ Conjure Flame            Conj/Fire      82 (100)     0%          3    0
+ Sticky Flame             Conj/Fire      82 (100)     0%          4    0
+ Fireball                 Conj/Fire      82 (200)     0%          5    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are carnivorous and can eat meat at any time.
+Your life essence is reduced to manifest your ancestor. (-10% HP)
+
+
+Message History
+
+Aiming: Inner Flame (safe; 0% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - wandering mushroom
+Aim: a wandering mushroom (friendly, chance to defeat MR: 93%)
+Fedhas protects your plant from harm. x2
+Nothing appears to happen.
+Casting: Inner Flame (safe; 0% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (safe; 0% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - wandering mushroom
+Aim: a wandering mushroom (friendly, chance to defeat MR: 93%)
+Fedhas protects your plant from harm. x2
+Nothing appears to happen.
+Casting: Inner Flame (safe; 0% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Inner Flame (safe; 0% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f - plant, p - wandering mushroom
+Aim: a plant (friendly, magic immune)
+Fedhas protects your plant from harm.
+Nothing appears to happen.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ###
+  #..
+   %.#    ##
+    ..   ..
+    #.   .#  #
+    #8###8##.#
+    #.........
+    #.@.P.#
+    #.f<..#
+    #.PP..#
+  ........#
+#..##8###8#
+#.  #.   .#
+#   ..   ..
+   ...    ..
+  ###     ###
+
+
+You could see a friendly wandering mushroom.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Teapturi the Kobold Fire Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Hepliaklqana the Forgotten
+     0 | D:1      | Reached XP level 2. HP: 45/45 MP: 3/30
+     0 | D:1      | Reached XP level 3. HP: 50/50 MP: 3/31
+     0 | D:1      | Reached XP level 4. HP: 55/55 MP: 3/33
+     0 | D:1      | Reached XP level 5. HP: 61/61 MP: 3/34
+     0 | D:1      | Reached XP level 6. HP: 66/66 MP: 3/36
+     0 | D:1      | Reached XP level 7. HP: 72/72 MP: 3/37
+     0 | D:1      | Reached XP level 8. HP: 77/77 MP: 3/39
+     0 | D:1      | Reached XP level 9. HP: 82/82 MP: 3/40
+     0 | D:1      | Reached XP level 10. HP: 88/88 MP: 3/41
+     0 | D:1      | Reached XP level 11. HP: 93/93 MP: 3/42
+     0 | D:1      | Reached XP level 12. HP: 99/99 MP: 3/43
+     0 | D:1      | Reached XP level 13. HP: 104/104 MP: 3/44
+     0 | D:1      | Reached XP level 14. HP: 109/109 MP: 3/45
+     0 | D:1      | Reached XP level 15. HP: 114/114 MP: 3/46
+     0 | D:1      | Reached XP level 16. HP: 119/119 MP: 3/47
+     0 | D:1      | Reached XP level 17. HP: 125/125 MP: 3/48
+     0 | D:1      | Reached XP level 18. HP: 130/130 MP: 3/49
+     0 | D:1      | Reached XP level 19. HP: 135/135 MP: 3/50
+     0 | D:1      | Reached XP level 20. HP: 141/141 MP: 3/51
+     0 | D:1      | Reached XP level 21. HP: 146/146 MP: 3/52
+     0 | D:1      | Reached XP level 22. HP: 152/152 MP: 3/53
+     0 | D:1      | Reached XP level 23. HP: 157/157 MP: 3/54
+     0 | D:1      | Reached XP level 24. HP: 162/162 MP: 3/54
+     0 | D:1      | Reached XP level 25. HP: 168/168 MP: 3/54
+     0 | D:1      | Reached XP level 26. HP: 173/173 MP: 3/54
+     0 | D:1      | Reached XP level 27. HP: 179/179 MP: 3/54
+     4 | D:1      | Learned a level 3 spell: Inner Flame
+     4 | D:1      | Fell from the grace of Hepliaklqana
+     4 | D:1      | Became a worshipper of Fedhas Madash
+     4 | D:1      | Reached * piety under Fedhas
+     4 | D:1      | Reached ** piety under Fedhas
+     4 | D:1      | Reached *** piety under Fedhas
+     4 | D:1      | Reached **** piety under Fedhas
+     4 | D:1      | Reached ***** piety under Fedhas
+     4 | D:1      | Reached ****** piety under Fedhas
+    12 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Inner Flame       |       |       |       |       |       |       |       |       |     3 ||     3
+Invok: Growth            |       |       |       |       |       |       |       |       |     2 ||     2
+

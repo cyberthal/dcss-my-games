@@ -1,0 +1,1291 @@
+ASSERT(defender->alive()) in 'fight.cc' at line 121 failed.
+
+Version: Dungeon Crawl Stone Soup 0.23.2
+Platform: unix (OS X)
+Bits: 64
+Game mode: normal
+Tiles: yes
+
+Command line: /Applications/Dungeon Crawl Stone Soup - Tiles.app/Contents/MacOS/Dungeon Crawl Stone Soup - Tiles
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #4: Illegal instruction: 4
+
+Obtained 15 stack frames.
+0x000000010cc745b4: write_stack_trace(__sFILE*, int) + 116
+0x000000010cc7c846: do_crash_dump() + 1718
+0x000000010cc742e0: crash_signal_handler(int) + 176
+0x00007fff70ff85fd: _sigtramp + 29
+0xffffffffffffffff: 0x0 + 18446744073709551615
+0x000000010cc7f5b4: AssertFailed(char const*, char const*, int, char const*, ...) + 324
+0x000000010cd67711: fight_melee(actor*, actor*, bool*, bool) + 5665
+0x000000010d3505e8: _get_fight_data(monster&, int, bool) + 904
+0x000000010d350b6c: wizard_quick_fsim() + 60
+0x000000010d36d3a5: _do_wizard_command(int) + 693
+0x000000010d36cd34: handle_wizard_command() + 1156
+0x000000010d3ef970: _input() + 2128
+0x000000010d3ee7e5: _launch_game() + 8213
+0x000000010d3ec16a: main + 1082
+0x000000010cb8ed44: start + 52
+
+/usr/bin/gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final) on Mar 30 2019 at 21:18:35
+Build platform: x86_64-apple-darwin16.7.0
+Platform: x86_64-apple-darwin16.7.0
+CFLAGS: -O2 -flto -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-apple-darwin16.7.0/include/SDL2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include/freetype2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="contrib/fonts/DejaVuSans.ttf" -DMONOSPACED_FONT="contrib/fonts/DejaVuSansMono.ttf" -DCLUA_BINDINGS -isystem /usr/include/ncurses
+LDFLAGS: -rdynamic -O2 -flto 
+>>>>>>>>>>>
+
+Place info:
+branch = 5, depth = 1
+
+Level id: Lair:1
+Level build method = , level layout type  = passages, absdepth0 = 10
+Level vaults:
+    layout_long_grid
+
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker #0, type 0 at (69, 42): feature (stone_stairs_up_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You skewer the golden dragon like a kebab!!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Enter Wizard Command (? - help): 
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(A) Shoals         (P) Snake Pit      (N) Spider Nest    (M) Slime Pits     
+(O) Orcish Mines   (E) Elven Halls    (K) Dwarven Hall   (V) Vaults         
+(B) Hall of Blades (F) Forest         (C) Crypt          (W) Tomb           
+(U) Depths         (H) Hell           (I) Dis            (G) Gehenna        
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+What level of the Lair of Beasts? (default 1, ? - help) 
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 18 monsters.
+Press: ? - help, v - describe, . - travel
+A staircase back to the Dungeon.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Unknown monster: "gold dr"
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A golden dragon comes into view.
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+You have reached level 14!
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+The lance glows as it skewers the golden dragon.
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!
+The lance glows brightly as it skewers the golden dragon. You feel that it has
+reached its full power.
+You kill the golden dragon!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You skewer the golden dragon like a kebab!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+You kill the golden dragon!
+You have reached level 15!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever. You feel stronger.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You perforate the golden dragon like a sieve!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You skewer the golden dragon like a kebab!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+You kill the golden dragon!
+You have reached level 16!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You spit the golden dragon like a pig!!!!!!
+You kill the golden dragon!
+The gold dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - golden dragon
+Aim: a golden dragon (resting)
+You reach to attack!
+The helpless golden dragon fails to defend itself.
+You stick the golden dragon like a pincushion!!!!!!
+You kill the golden dragon!
+Unknown command.
+Drop what? 17/52 slots (_ for help) (? for menu, Esc to quit)
+You drop a +2 dagger.
+You drop 8 poisoned needles.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A pearl dragon comes into view.
+The helpless pearl dragon fails to defend itself.
+You stick the pearl dragon like a pincushion!!!!!!
+You kill the pearl dragon!
+The helpless pearl dragon fails to defend itself.
+You spit the pearl dragon like a pig!!!!!!
+You kill the pearl dragon!
+The pearl dragon scales are intact enough to wear.
+The helpless pearl dragon fails to defend itself.
+You perforate the pearl dragon like a sieve!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You stick the pearl dragon like a pincushion!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You spit the pearl dragon like a pig!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You skewer the pearl dragon like a kebab!!!!!!!
+You kill the pearl dragon!
+The pearl dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You perforate the pearl dragon like a sieve!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You stick the pearl dragon like a pincushion!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You skewer the pearl dragon like a kebab!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You perforate the pearl dragon like a sieve!!!!!
+You kill the pearl dragon!
+The pearl dragon scales are intact enough to wear.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You spit the pearl dragon like a pig!!!!!!
+You kill the pearl dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - pearl dragon
+Aim: a pearl dragon (resting)
+You reach to attack!
+The helpless pearl dragon fails to defend itself.
+You skewer the pearl dragon like a kebab!!!!!!!
+You kill the pearl dragon!
+You have reached level 17!
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+A bone dragon comes into view.
+The helpless bone dragon fails to defend itself.
+You spit the bone dragon like a pig!!!!!!!
+You destroy the bone dragon!
+The helpless bone dragon fails to defend itself.
+You perforate the bone dragon like a sieve!!!!!!
+You destroy the bone dragon!
+The helpless bone dragon fails to defend itself.
+You stick the bone dragon like a pincushion!!!!!!!
+You destroy the bone dragon!
+The helpless bone dragon fails to defend itself.
+You stick the bone dragon like a pincushion!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You stick the bone dragon like a pincushion!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You stick the bone dragon like a pincushion!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You skewer the bone dragon like a kebab!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You spit the bone dragon like a pig!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You skewer the bone dragon like a kebab!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You skewer the bone dragon like a kebab!!!!!!
+You destroy the bone dragon!
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - bone dragon
+Aim: a bone dragon (resting)
+You reach to attack!
+The helpless bone dragon fails to defend itself.
+You perforate the bone dragon like a sieve!!!!!!
+You destroy the bone dragon!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? dragon
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Unknown command.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Tiamat, Avatar of the Dragonlord comes into view. She is wielding a +0 glaive
+of venom.
+The helpless Tiamat fails to defend herself.
+You skewer Tiamat like a kebab!!!!!!
+You kill Tiamat!
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+The Serpent of Hell comes into view.
+The helpless Serpent of Hell fails to defend itself.
+You stick the Serpent of Hell like a pincushion!!!!!!!
+You kill the Serpent of Hell!
+You have reached level 18!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel clever.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Unknown command.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? drag
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+Xtahua the Ancient comes into view.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f - Xtahua
+Aim: Xtahua (resting)
+You reach to attack!
+The helpless Xtahua fails to defend herself.
+You perforate Xtahua like a sieve!!!!!!
+You kill Xtahua!
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+The Serpent of Hell comes into view.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+Enter Wizard Command (? - help): 
+You allow the flow of time to resume.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention! The Serpent of Hell roars deafeningly!
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - Serpent of Hell
+Aim: the Serpent of Hell
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     23.3 |    111 |  80% |  18.8 |    50  |  2.00 |     37.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.2 |     44 |  77% |   1.7 |    71  |  1.41 |      2.4
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Serpent of Hell
+Aim: the Serpent of Hell
+You reach to attack! You hit the Serpent of Hell. The Serpent of Hell
+convulses!
+The Serpent of Hell is lightly wounded.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Serpent of Hell
+Aim: the Serpent of Hell (lightly wounded)
+You reach to attack! You puncture the Serpent of Hell! The Serpent of Hell
+convulses!
+The Serpent of Hell is lightly wounded.
+Your scales of the Dragon King prevents you from hitting the Serpent of Hell.
+The Serpent of Hell is lightly wounded.
+The Serpent of Hell misses you.
+The Serpent of Hell completely misses you.
+You block the Serpent of Hell's attack. x3
+You puncture the Serpent of Hell! The Serpent of Hell convulses!
+The Serpent of Hell is lightly wounded.
+You impale the Serpent of Hell!! The Serpent of Hell convulses!
+The Serpent of Hell is moderately wounded.
+The Serpent of Hell breathes flames at you.
+The blast of flame hits you. You resist.
+The Serpent of Hell breathes flames at you.
+The blast of flame engulfs you but does no damage.
+The Serpent of Hell breathes fire at you.
+The fireball explodes! The fireball engulfs you. You resist.
+The fireball engulfs the Serpent of Hell.
+The Serpent of Hell completely resists.
+You closely miss the Serpent of Hell.
+The Serpent of Hell is moderately wounded.
+You are engulfed in blazing flames. You resist. The Serpent of Hell bites you!
+You are engulfed in flames. You resist. You block the Serpent of Hell's attack.
+x2
+The Serpent of Hell claws you. You block the Serpent of Hell's attack.
+You hit the Serpent of Hell but do no damage.
+The Serpent of Hell convulses!
+The Serpent of Hell is moderately wounded.
+You are engulfed in blazing flames. You resist. You block the Serpent of Hell's
+attack. x3; The Serpent of Hell closely misses you.
+The Serpent of Hell misses you.
+You hit the Serpent of Hell. The Serpent of Hell convulses!
+The Serpent of Hell is moderately wounded.
+You are engulfed in blazing flames. You resist.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: the Serpent of Hell (flame, moderately wounded, catching its breath)
+A pearl dragon corpse.
+The floor, spattered with blood.
+You kill the Serpent of Hell!
+Enter Wizard Command (? - help): 
+Super healing.
+Enter Wizard Command (? - help): 
+You have reached level 19!
+Enter Wizard Command (? - help): 
+You have reached level 20!
+You feel stronger.
+No previous command to re-do.
+Enter Wizard Command (? - help): 
+You have reached level 21!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Enter Wizard Command (? - help): 
+You have reached level 22!
+Enter Wizard Command (? - help): 
+You have reached level 23!
+No previous command to re-do.
+Enter Wizard Command (? - help): 
+You have reached level 24!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Enter Wizard Command (? - help): 
+You have reached level 25!
+You feel stronger.
+Enter Wizard Command (? - help): 
+You have reached level 26!
+Enter Wizard Command (? - help): 
+You have reached level 27, the final one!
+Your experience leads to an increase in your attributes!
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     24.8 |    118 |  80% |  19.9 |    50  |  2.00 |     39.8
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.2 |     37 |  70% |   1.5 |    71  |  1.41 |      2.2
+Press: ? - help, v - describe, . - travel, g - get item
+8 poisoned needles.
+There is something else lying underneath.
+The floor, spattered with blood.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+The Serpent of Hell comes into view.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention! The Serpent of Hell roars deafeningly!
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - Serpent of Hell
+Aim: the Serpent of Hell
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     25.3 |    114 |  81% |  20.6 |    50  |  2.00 |     41.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.3 |     46 |  71% |   1.6 |    71  |  1.41 |      2.3
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Take off which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off the +3 pair of gauntlets of War {Slay+5}. x4
+You finish taking off the +3 pair of gauntlets of War {Slay+5}.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-clawed.
+The Serpent of Hell breathes flames at you.
+The blast of flame hits you! You resist.
+The Serpent of Hell breathes flames at you.
+The blast of flame engulfs you but does no damage.
+The Serpent of Hell breathes fire at you.
+The fireball explodes! The fireball engulfs you! You resist.
+Unknown command.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell (catching its breath)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     22.3 |     88 |  73% |  16.5 |    50  |  2.00 |     33.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.7 |     56 |  69% |   1.9 |    71  |  1.41 |      2.6
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You feel an overwhelming desire to slay dragons!
+h - the +18 lance "Wyrmbane" (weapon) {slay drac, rPois rF+ rC+ AC+3}
+You are engulfed in blazing flames. You resist.
+Adjust (i)tems, (s)pells, or (a)bilities? 
+Adjust which item? (? for menu, Esc to quit)
+h - the +18 lance "Wyrmbane" (weapon) {slay drac, rPois rF+ rC+ AC+3}
+Adjust to which letter?  (? for menu, Esc to quit)
+a - the +18 lance "Wyrmbane" (weapon) {slay drac, rPois rF+ rC+ AC+3}
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell (flame, catching its breath)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     21.4 |    128 |  80% |  17.3 |    50  |  2.00 |     34.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.4 |     38 |  71% |   1.7 |    71  |  1.41 |      2.4
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell (flame, catching its breath)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     21.1 |    113 |  80% |  17.1 |    50  |  2.00 |     34.1
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.6 |     38 |  70% |   1.8 |    71  |  1.41 |      2.6
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Wear which item? (? for menu, Esc to quit)
+You start putting on your armour.
+You continue putting on the +3 pair of gauntlets of War {Slay+5}. x4
+You finish putting on the +3 pair of gauntlets of War {Slay+5}.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     24.2 |    136 |  81% |  19.7 |    50  |  2.00 |     39.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.2 |     43 |  70% |   1.6 |    71  |  1.41 |      2.2
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     26.1 |    127 |  81% |  21.3 |    50  |  2.00 |     42.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.3 |     32 |  70% |   1.6 |    71  |  1.41 |      2.3
+Unknown command.
+Unknown command.
+Unknown command.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-handed.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     22.8 |     86 |  75% |  17.2 |    50  |  2.00 |     34.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.4 |     37 |  69% |   1.7 |    71  |  1.41 |      2.4
+Enter Wizard Command (? - help): 
+You have no companions.
+Okay, then.
+Unknown command.
+Enter Wizard Command (? - help): 
+Made the +7 Singing Sword {slice, sonic wave} (art val: 10, item val: 1000)
+Made the +8 Wrath of Trog {antimagic, *Rage} (art val: 7, item val: 800)
+Made the +7 mace of Variability {chain chaos} (art val: 10, item val: 600)
+Made the +12 glaive of Prune {chop} (art val: 10, item val: 767)
+Made the +0 sword of Power (art val: 10, item val: 800)
+Made the +9 staff of Olgreb {rPois} (art val: 16, item val: 1000)
+Made the +9 staff of Wucad Mu {channel} (art val: 10, item val: 1000)
+Made the +12 Vampire's Tooth {vamp} (art val: 10, item val: 600)
+Made the cursed +13 scythe of Curses {drain, *Curse} (art val: 10, item val:
+800)
+Made the +7 sceptre of Torment {pain, torment} (art val: 10, item val: 1200)
+Made the +9 sword of Zonguldrok {reap} (art val: 10, item val: 800)
+Made the +6 sword of Cerebov {flame} (art val: 10, item val: 487)
+Made the +4 staff of Dispater (art val: 10, item val: 285)
+Made the +7 sceptre of Asmodeus (art val: 10, item val: 435)
+Made the +8 faerie dragon scales {*Slow rN+ MR++ rCorr HP+7 Int-3} (art val:
+39, item val: 1051)
+Made the +8 demon blade "Bloodbane" {slice, *Rage +Rage Stlth-} (art val: 10,
+item val: 695)
+Made the +6 scimitar of Flaming Death {sticky flame, rPois rF++ rC- MR+} (art
+val: 39, item val: 645)
+Made the +1 eveningstar "Brilliance" {holy, rN+ AC+5 Int+5} (art val: 61, item
+val: 747)
+Made the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3} (art val: 0, item val:
+850)
+Made the +9 dagger of Chilly Death {flash freeze, rPois rF- rC++ MR+} (art val:
+39, item val: 759)
+Made the +4 dagger "Morg" {pain, MR+ Int+5} (art val: 33, item val: 481)
+Made the +5 scythe "Finisher" {speed, eviscerate} (art val: 10, item val: 410)
+Made the +3 sling "Punk" {acid, rCorr} (art val: 18, item val: 651)
+Made the +8 longbow "Zephyr" {speed, Dex+3 SInv} (art val: 25, item val: 710)
+Made the +3 giant club "Skullcrusher" {speed, Str+7} (art val: 31, item val:
+418)
+Made the +8 glaive of the Guard {elec, +Rage AC+5 SInv} (art val: 51, item val:
+919)
+Made the +10 zealot's sword {holy, *Rage rN+ EV+3} (art val: 31, item val:
+1054)
+Made the +6 arbalest "Damnation" {damnation} (art val: 10, item val: 800)
+Made the +13 sword of the Doom Knight {pain, -Cast MR+} (art val: 8, item val:
+868)
+Made the +10 morningstar "Eos" {elec, Halo rElec} (art val: 20, item val: 740)
+Made the +6 spear of the Botono {reap, Hex rPois rN+ HP-6} (art val: 0, item
+val: 330)
+Made the +8 trident of the Octopus King {venom, rElec rPois MR+} (art val: 34,
+item val: 680)
+Made the +8 mithril axe "Arga" {speed, MR+} (art val: 18, item val: 646)
+Made the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5} (art val: 112, item
+val: 949)
+Made the +9 heavy crossbow "Sniper" {velocity, Acc+∞ SInv} (art val: 16, item
+val: 712)
+Made the +7 longbow "Piercer" {penet, EV-2} (art val: 0, item val: 462)
+Made the +6 blowgun of the Assassin {stab, +Inv Stlth++} (art val: 28, item
+val: 521)
+Made the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3} (art val: 54, item
+val: 808)
+Made the +7 Spriggan's Knife {stab, EV+4 Stlth+} (art val: 38, item val: 636)
+Made the +11 plutonium sword {*Contam Stlth-} (art val: 0, item val: 1000)
+Made the +7 great mace "Undeadhunter" {disrupt, rN+} (art val: 16, item val:
+527)
+Made the +8 whip "Snakebite" {curare, rPois} (art val: 16, item val: 542)
+Made the +27 knife of Accuracy (art val: 10, item val: 1286)
+Made the +6 Lehudib's crystal spear {Int+3} (art val: 19, item val: 463)
+Made the +7 captain's cutlass {speed, disarm} (art val: 10, item val: 540)
+Made the +8 storm bow {elec} (art val: 10, item val: 582)
+Made the +10 large shield of Ignorance {rN+ Int-4} (art val: 4, item val: 573)
+Made the +4 robe of Augmentation {Str+4 Int+4 Dex+4} (art val: 46, item val:
+529)
+Made the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+} (art val: 8, item val:
+201)
+Made the +15 large shield "Bullseye" {EV-5} (art val: 0, item val: 795)
+Made the +3 crown of Dyrovepreva {rElec Int+2 SInv} (art val: 32, item val:
+414)
+Made the +2 hat of the Bear Spirit {Spirit, +Rage rN+ MR++} (art val: 33, item
+val: 391)
+Made the +5 robe of Misfortune {*Contam Harm *Corrode *Drain *Slow EV+5} (art
+val: 8, item val: 313)
+Made the +3 cloak of Flash {+Fly EV+4} (art val: 37, item val: 454)
+Made the +2 pair of boots of the Assassin {Detection Stab+ Stlth++} (art val:
+18, item val: 600)
+Made the +27 Lear's hauberk (art val: 10, item val: 1301)
+Made the +4 skin of Zhor {Hibernate rC+++ SInv} (art val: 66, item val: 665)
+Made the +3 salamander hide armour {+Rage rF++} (art val: 40, item val: 450)
+Made the +3 pair of gauntlets of War {Slay+5} (art val: 40, item val: 475)
+Made the +2 shield of Resistance {rF+ rC+ MR+} (art val: 38, item val: 411)
+Made the +3 robe of Folly {Archmagi, MR-- Int+5} (art val: 19, item val: 540)
+Made the +15 Maxwell's patent armour {-Cast -Tele rElec MR+ rCorr} (art val:
+18, item val: 1074)
+Made the +0 mask of the Dragon {MR+ Slay+3 SInv} (art val: 42, item val: 334)
+Made the +5 robe of Night {Dark MR+ SInv} (art val: 24, item val: 600)
+Made the +9 scales of the Dragon King {rPois rF+ rC+ MR+} (art val: 18, item
+val: 1248)
+Made the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr} (art
+val: 76, item val: 472)
+Made the +0 pair of fencer's gloves {Riposte Dex+3} (art val: 19, item val:
+400)
+Made the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--} (art val: 50, item val:
+445)
+Made the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1 Dex+1} (art val: 19,
+item val: 278)
+Made the +18 shield of the Gong {rElec rN+ MR+ EV-5} (art val: 4, item val:
+973)
+Made the amulet of the Air {Inacc +Fly rElec EV+5 RMsl} (art val: 73, item val:
+476)
+Made the ring of Shadows {Umbra +Inv Stlth+} (art val: 20, item val: 400)
+Made the amulet of Cekugob {Acrobat -Tele rElec rPois rN++ AC+1 EV+1} (art val:
+45, item val: 615)
+Made the amulet of the Four Winds {rN+ MR+++ Clar} (art val: 52, item val: 439)
+Made the cursed necklace of Bloodlust {*Rage +Rage MR++ Int-3 Slay+6 *Curse}
+(art val: 46, item val: 692)
+Made the ring of Phasing {EV+8} (art val: 10, item val: 1280)
+Made the ring of Robustness {AC+8} (art val: 10, item val: 1280)
+Made the ring of the Mage {Wiz MR++ Int+3} (art val: 31, item val: 517)
+Made the brooch of Shielding {Reflect SH+8} (art val: 10, item val: 1063)
+Made the +3 robe of Clouds {+Thunder rCloud rElec} (art val: 20, item val: 297)
+Made the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5} (art val: 63, item
+val: 381)
+Made the cursed +14 obsidian axe {chop, +Fly SInv *Curse} (art val: 19, item
+val: 863)
+Made the +6 lightning scales {run, rElec} (art val: 20, item val: 920)
+Made the +10 Black Knight's horse barding {ponderous, rPois rN+} (art val: 22,
+item val: 634)
+Made the amulet of Vitality {Regen+ HP+15} (art val: 70, item val: 790)
+Made the +8 autumn katana {slice, Clar} (art val: 30, item val: 662)
+Made the +6 shillelagh "Devastator" {shatter} (art val: 10, item val: 600)
+Made the +4 dragonskin cloak (art val: 10, item val: 315)
+Made a ring of the Octopus King {MP+9 AC+1 EV+1 Str+1 Int+1 Dex+1} (art val:
+31, item val: 417)
+Made a ring of the Octopus King {rCorr AC+1 EV+1 Str+1 Int+1 Dex+1} (art val:
+31, item val: 417)
+Made a ring of the Octopus King {Wiz AC+1 EV+1 Str+1 Int+1 Dex+1} (art val: 31,
+item val: 517)
+Made a ring of the Octopus King {rC+ AC+1 EV+1 Str+1 Int+1 Dex+1} (art val: 31,
+item val: 467)
+Made a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 SInv} (art val:
+31, item val: 367)
+Made a ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1} (art val: 31,
+item val: 417)
+Made a ring of the Octopus King {rF+ AC+1 EV+1 Str+1 Int+1 Dex+1} (art val: 31,
+item val: 467)
+Made a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 Stlth+} (art val:
+31, item val: 392)
+Made the +∞ Axe of Woe (art val: 10, item val: 170)
+Made the +4 moon troll leather armour {Spirit, Regen++ MP+5} (art val: 25, item
+val: 545)
+Made the macabre finger necklace {rN+} (art val: 16, item val: 400)
+Made the +3 pair of boots of the spider {obsolete, Stlth+} (art val: 14, item
+val: 293)
+Made the +10 dark maul {crush} (art val: 10, item val: 667)
+Made the +2 hat of the High Council {Archmagi, Wiz- Stlth-} (art val: 8, item
+val: 446)
+Made the +8 arc blade {discharge, rElec} (art val: 20, item val: 600)
+Made the +5 demon whip "Spellbinder" {antimagic, MR+} (art val: 18, item val:
+826)
+Made the +7 lajatang of Order {silver, rMut} (art val: 18, item val: 626)
+Made the +7 great mace "Firestarter" {inner flame, rF++} (art val: 35, item
+val: 712)
+Made the +8 orange crystal plate armour {Archmagi, Int+3 Clar} (art val: 39,
+item val: 1445)
+Made the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6} (art val: 46, item val: 742)
+Made the +5 pair of quick blades "Gyre" and "Gimble" {pierce, Dex-3} (art val:
+1, item val: 482)
+Made the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec MP+4} (art val: 24,
+item val: 400)
+Made the cursed +3 crown of Eternal Torment {rTorment HP-- rN+++ SInv *Curse}
+(art val: 46, item val: 482)
+Made the +2 robe of Vines {NoPotionHeal Regen+7} (art val: 10, item val: 800)
+Made the +7 Kryia's mail coat {PotionHeal*2 rC+} (art val: 20, item val: 600)
+Made the +8 frozen axe "Frostbite" {freezing cloud, *Noise +Fly rC+} (art val:
+18, item val: 706)
+Made the +12 armour of Talos {ponderous, rF+} (art val: 20, item val: 720)
+Made the +3 warlock's mirror {reflect} (art val: 10, item val: 400)
+Made the amulet of invisibility {+Inv} (art val: 20, item val: 215)
+Made the +2 Maxwell's thermic engine {flame, freeze} (art val: 10, item val:
+440)
+Made the +8 demon trident "Rift" {distort, reach+} (art val: 10, item val: 845)
+Made the horn of Geryon
+Unknown command.
+d - the +∞ Axe of Woe
+e - the +6 Lehudib's crystal spear {Int+3}
+h - the +8 Wrath of Trog {antimagic, *Rage}
+s - the +8 demon trident "Rift" {distort, reach+}
+t - the +8 frozen axe "Frostbite" {freezing cloud, *Noise +Fly rC+}
+u - the +12 glaive of Prune {chop}
+v - the +7 great mace "Undeadhunter" {disrupt, rN+}
+w - the +8 mithril axe "Arga" {speed, MR+}
+x - the +10 morningstar "Eos" {elec, Halo rElec}
+y - the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+z - the +11 plutonium sword {*Contam Stlth-}
+A - the +7 sceptre of Asmodeus
+B - the +5 scythe "Finisher" {speed, eviscerate}
+C - the +6 shillelagh "Devastator" {shatter}
+D - the +6 sword of Cerebov {flame}; E - the +9 sword of Zonguldrok {reap}
+F - the +13 sword of the Doom Knight {pain, -Cast MR+}
+The Serpent of Hell breathes flames at you.
+The blast of flame misses you.
+The Serpent of Hell breathes flames at you.
+The blast of flame engulfs you but does no damage.
+The Serpent of Hell breathes fire at you.
+The fireball explodes! The fireball engulfs you. You resist.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You drop the +6 Lehudib's crystal spear {Int+3}.
+You drop the +8 Wrath of Trog {antimagic, *Rage}.
+You drop the +8 demon trident "Rift" {distort, reach+}.
+You drop the +12 glaive of Prune {chop}.
+You drop the +7 great mace "Undeadhunter" {disrupt, rN+}.
+You drop the +10 morningstar "Eos" {elec, Halo rElec}.
+You drop the +7 sceptre of Asmodeus.
+You drop the +6 shillelagh "Devastator" {shatter}.
+You drop the +6 sword of Cerebov {flame}.
+You drop the +9 sword of Zonguldrok {reap}.
+You drop the +13 sword of the Doom Knight {pain, -Cast MR+}.
+Drop what? 21/52 slots (_ for help) (? for menu, Esc to quit)
+You drop the +18 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Press: ? - help, v - describe, . - travel
+Here: the Serpent of Hell (hasn't noticed you)
+The floor.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You can't wield that with a shield.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You can't wield that with a shield.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Your hands tingle!
+w - the +8 mithril axe "Arga" (weapon) {speed, MR+}
+The Serpent of Hell breathes flames at you. x2
+The Serpent of Hell breathes fire at you.
+The fireball explodes!
+The fireball engulfs you but does no damage.
+You resist.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell (catching its breath)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     16.6 |     73 |  77% |  12.9 |    47  |  2.14 |     27.4
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.6 |     56 |  69% |   1.9 |    71  |  1.41 |      2.6
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Really wield y - the cursed +14 obsidian axe {chop, +Fly SInv *Curse}? 
+It sticks to your hand!
+y - the cursed +14 obsidian axe (weapon) {chop, +Fly SInv *Curse}
+Visions of slaying the Serpent of Hell flood into your mind.
+You are engulfed in blazing flames. You resist.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - Serpent of Hell
+Aim: the Serpent of Hell (flame, catching its breath, mesmerising)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     23.3 |    101 |  78% |  18.3 |    70  |  1.43 |     26.2
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      2.7 |     43 |  70% |   1.9 |    71  |  1.41 |      2.7
+You can't unwield your weapon to draw a new one!
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a status; partial names and regexps are fine.
+Describe what? mesm
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+You break out of your daze!
+Dismissed 24 monsters.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? ?
+What type of item? remove cu
+Scroll of remove curse
+Something appears at your feet!
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? ?
+What type of item? remove cu
+Scroll of remove curse
+Something appears at your feet!
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? ?
+What type of item? remove cu
+Scroll of remove curse
+Something appears at your feet!
+a - 36 scrolls of remove curse
+You are engulfed in blazing flames. You resist.
+As you read the scroll of remove curse, it crumbles to dust.
+You feel as if something is helping you.
+You are engulfed in blazing flames. You resist.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You are now empty-handed.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+You can't wield that with a shield.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Take off which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off the +15 large shield "Bullseye" {EV-5}. x4
+You finish taking off the +15 large shield "Bullseye" {EV-5}.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+d - the +∞ Axe of Woe (weapon)
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+The Serpent of Hell comes into view.
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention! The Serpent of Hell roars deafeningly!
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - Serpent of Hell
+Aim: the Serpent of Hell
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+Game started: 0.23.2
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 1, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 1, arena_suspended: 0
+
+prev_cmd = CMD_WIZARD
+repeat_cmd = CMD_NO_CMD
+
+Player:
+{{{{{{{{{{{
+Name:    [Zuheita]
+Species: Ghoul
+Job:     Assassin
+
+HP: 999/999; mods: 0/0
+MP: 53/53; mod: 0
+Stats: 22 (22) 10 (10) 12 (12)
+Position: (67, 33), god: No God (0), turn_is_over: 0, banished: 0
+Standing on/in/over feature: floor
+
+Skills (mode: auto)
+Name            | can_train | train | training | level | points | progress
+Fighting        |     X     |   0   |     0    |   27  |  25016 | 0/0
+Short Blades    |           |   0   |     0    |   27  |  35378 | 0/0
+Long Blades     |     X     |   0   |     0    |   27  |  35378 | 0/0
+Axes            |     X     |   0   |     0    |   27  |  35378 | 0/0
+Maces & Flails  |           |   0   |     0    |   27  |  35378 | 0/0
+Polearms        |     X     |   0   |     0    |   27  |  35378 | 0/0
+Staves          |           |   0   |     0    |   27  |  35378 | 0/0
+Slings          |           |   0   |     0    |   27  |  35378 | 0/0
+Bows            |           |   0   |     0    |   27  |  35378 | 0/0
+Crossbows       |           |   0   |     0    |   27  |  35378 | 0/0
+Throwing        |     X     |   0   |     0    |   27  |  35378 | 0/0
+Armour          |     X     |   0   |     0    |   27  |  35378 | 0/0
+Dodging         |     X     |   0   |     0    |   27  |  35378 | 0/0
+Stealth         |     X     |   0   |     0    |   27  |  21036 | 0/0
+Shields         |     X     |   0   |     0    |   27  |  35378 | 0/0
+Unarmed Combat  |     X     |   0   |     0    |   27  |  25016 | 0/0
+Spellcasting    |     X     |   0   |     0    |   27  |  42072 | 0/0
+Conjurations    |           |   0   |     0    |   27  |  42072 | 0/0
+Hexes           |           |   0   |     0    |   27  |  42072 | 0/0
+Charms          |           |   0   |     0    |   27  |  35378 | 0/0
+Summonings      |           |   0   |     0    |   27  |  35378 | 0/0
+Necromancy      |           |   0   |     0    |   27  |  29750 | 0/0
+Translocations  |           |   0   |     0    |   27  |  35378 | 0/0
+Transmutations  |           |   0   |     0    |   27  |  35378 | 0/0
+Fire Magic      |           |   0   |     0    |   27  |  42072 | 0/0
+Ice Magic       |           |   0   |     0    |   27  |  25016 | 0/0
+Air Magic       |           |   0   |     0    |   27  |  42072 | 0/0
+Earth Magic     |           |   0   |     0    |   27  |  25016 | 0/0
+Poison Magic    |           |   0   |     0    |   27  |  29750 | 0/0
+Invocations     |           |   0   |     0    |   27  |  25016 | 0/0
+Evocations      |     X     |   0   |     0    |   27  |  35378 | 0/0
+
+Spell bugs:
+
+Durations:
+
+Attributes:
+    #27: 260099
+    #49: 153
+    #59: 1
+
+Mutations:
+    claws: 1 (innate)
+    carnivore: 1 (innate)
+    cold resistance: 1 (innate)
+    negative energy resistance: 3 (innate)
+    inhibited regeneration: 1 (innate)
+    torment resistance: 1 (innate)
+    unbreathing: 1 (innate)
+
+Inventory bugs:
+
+Equipment:
+    eq slot #0, inv slot #3: +∞ Axe of Woe
+    eq slot #1, inv slot #9: +4 dragonskin cloak
+    eq slot #2, inv slot #10: -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr}
+    eq slot #3, inv slot #12: +3 pair of gauntlets of War {Slay+5}
+    eq slot #4, inv slot #2: +2 pair of boots of the Assassin {Detection Stab+ Stlth++}
+    eq slot #6, inv slot #13: +9 scales of the Dragon King {rPois rF+ rC+ MR+}
+    eq slot #7, inv slot #16: ring of Phasing {EV+8}
+    eq slot #8, inv slot #17: ring of Robustness {AC+8}
+    eq slot #9, inv slot #15: amulet of Vitality {Regen+ HP+15}
+
+}}}}}}}}}}}
+
+
+Screenshot:
+.###...######....#######.#...#
+............................##
+............................##
+#####..........##..##.##.....#
+###............###.##..###..##
+............................#
+............................#
+#..###########..............#
+#..##       ##..............#
+#...##      #...............#
+#..#.#########.....D..%[....#
+......................[[[...#
+.....?...............@()[...#
+...#.###.....###....[.%.....#
+....#####..### ##...[%%[....##
+...#...#....#####............#
+............................##
+............................#
+##.#....###.##.##..###.###..#
+ ####..##########...#### #..#
+#####..###.##.##...#######..#
+.......................<....##
+.............................#
+.....................#.##...##
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

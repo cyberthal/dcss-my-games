@@ -1,0 +1,905 @@
+Saefufoa
+
+Level 1 of the Crypt
+(0, 0, Crypt:1)
+  12 arrows
+(1, -2, Crypt:1)
+  a potion of heal wounds
+(16, 21, Crypt:1)
+  a scroll of enchant weapon
+(19, 6, Crypt:1)
+  a ration
+
+Level 2 of the Crypt
+(0, 0, Crypt:2)
+  a scroll of amnesia
+(3, -21, Crypt:2)
+  a +0 club
+(5, 8, Crypt:2)
+  a potion of degeneration
+(6, -43, Crypt:2)
+  a fan of gales
+(8, 2, Crypt:2)
+  21 stones
+(13, -16, Crypt:2)
+  a +0 leather armour
+(14, -36, Crypt:2)
+  32 gold pieces
+(15, -11, Crypt:2)
+  a +0 halberd
+(17, 6, Crypt:2)
+  the +6 spear of Integrity {pierce, rC+ Dex+3}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (+3).
+    It protects you from cold.
+(25, -28, Crypt:2)
+  27 gold pieces
+(29, -1, Crypt:2)
+  a wand of digging (6)
+(30, -5, Crypt:2)
+  a +0 chain mail
+(32, 2, Crypt:2)
+  a +0 dagger
+(33, -18, Crypt:2)
+  a wand of disintegration (10)
+(33, 18, Crypt:2)
+  a +0 morningstar
+(41, 17, Crypt:2)
+  19 gold pieces
+(42, 6, Crypt:2)
+  28 gold pieces
+(52, 6, Crypt:2)
+  a scroll of remove curse
+(53, -32, Crypt:2)
+  a scroll of acquirement
+(53, -27, Crypt:2)
+  a ration
+(55, -12, Crypt:2)
+  16 gold pieces
+(62, -6, Crypt:2)
+  7 needles of sleeping
+
+Level 3 of the Crypt
+(0, 0, Crypt:3)
+  a +0 quarterstaff
+(7, -18, Crypt:3)
+  22 gold pieces
+(8, -16, Crypt:3)
+  19 gold pieces
+(8, -15, Crypt:3)
+  11 gold pieces
+(8, -14, Crypt:3)
+  20 gold pieces
+(8, -13, Crypt:3)
+  a potion of agility
+(9, -16, Crypt:3)
+  26 gold pieces
+(9, -15, Crypt:3)
+  6 gold pieces
+(9, -14, Crypt:3)
+  19 gold pieces
+(9, -13, Crypt:3)
+  an uncursed staff of death
+  (unseen)
+(9, -12, Crypt:3)
+  a +1 dire flail of crushing
+(9, -11, Crypt:3)
+  the ring "Azeabufosa" {Wiz rC- Str+6 Dex+3 Slay+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your strength (+6).
+    It affects your dexterity (+3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It makes you vulnerable to cold.
+(14, -9, Crypt:3)
+  the cursed +3 glaive of Change {elec, +Rage +Inv rF+ Int-3}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It affects your intelligence (-3).
+    It protects you from fire.
+    It lets you turn invisible.
+    It lets you go berserk.
+    It has a curse placed upon it.
+(15, -19, Crypt:3)
+  15 gold pieces
+(15, -10, Crypt:3)
+  26 stones
+  (unseen)
+(15, -9, Crypt:3)
+  2 needles of confusion
+(15, -8, Crypt:3)
+  12 gold pieces
+(15, -7, Crypt:3)
+  12 gold pieces
+(16, -16, Crypt:3)
+  a +1 robe of fire resistance
+(16, -14, Crypt:3)
+  a +0 short sword
+(16, -10, Crypt:3)
+  15 gold pieces
+(16, -9, Crypt:3)
+  8 gold pieces
+(16, -8, Crypt:3)
+  14 gold pieces
+(16, -7, Crypt:3)
+  17 gold pieces
+(16, 5, Crypt:3)
+  the +1 chain mail of a Hundred Nights {rPois SInv}
+    It protects you from poison.
+    It lets you see invisible.
+(18, -31, Crypt:3)
+  an uncursed staff of air
+(19, -31, Crypt:3)
+  a +0 mace
+  (unseen)
+(19, -30, Crypt:3)
+  a +4 great mace of pain
+(19, -4, Crypt:3)
+  21 sling bullets
+(20, -31, Crypt:3)
+  26 gold pieces
+(20, -30, Crypt:3)
+  19 gold pieces
+(20, -29, Crypt:3)
+  24 gold pieces
+(20, -10, Crypt:3)
+  19 gold pieces
+(21, -31, Crypt:3)
+  21 gold pieces
+(21, -30, Crypt:3)
+  14 gold pieces
+(21, -29, Crypt:3)
+  25 gold pieces
+(22, 16, Crypt:3)
+  a scroll of identify
+(25, -23, Crypt:3)
+  21 gold pieces
+(25, -16, Crypt:3)
+  a lamp of fire
+(29, -31, Crypt:3)
+  14 gold pieces
+(29, -30, Crypt:3)
+  9 gold pieces
+(29, -29, Crypt:3)
+  10 gold pieces
+(30, -31, Crypt:3)
+  7 gold pieces
+(30, -30, Crypt:3)
+  9 gold pieces
+(30, -29, Crypt:3)
+  19 gold pieces
+(31, -31, Crypt:3)
+  a scroll of fog
+(31, -30, Crypt:3)
+  14 stones
+(32, -31, Crypt:3)
+  a +3 triple crossbow
+(32, 14, Crypt:3)
+  a scroll of identify
+(33, -16, Crypt:3)
+  a scroll of remove curse
+(33, 7, Crypt:3)
+  a +0 helmet
+(34, -10, Crypt:3)
+  22 gold pieces
+(34, -9, Crypt:3)
+  6 gold pieces
+(34, -8, Crypt:3)
+  23 gold pieces
+(34, -7, Crypt:3)
+  20 gold pieces
+(35, -10, Crypt:3)
+  a scroll of enchant armour
+(35, -9, Crypt:3)
+  a scroll of random uselessness
+(35, -8, Crypt:3)
+  55 gold pieces
+(35, -7, Crypt:3)
+  11 gold pieces
+(36, -9, Crypt:3)
+  the ring "Loptiurch" {+Fly rF- MR+ MP+9 Str-4}
+    [ring of protection from magic]
+    
+    It affects your strength (-4).
+    It makes you vulnerable to fire.
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+9).
+    It lets you fly.
+(37, -16, Crypt:3)
+  32 gold pieces
+(40, 4, Crypt:3)
+  12 stones
+(41, -16, Crypt:3)
+  11 gold pieces
+(41, -15, Crypt:3)
+  17 gold pieces
+(41, -14, Crypt:3)
+  26 gold pieces
+(41, -13, Crypt:3)
+  a +0 leather armour
+(41, -12, Crypt:3)
+  a +0 war axe of chopping
+(41, -11, Crypt:3)
+  a +2 mace of pain
+(42, -16, Crypt:3)
+  8 gold pieces
+(42, -15, Crypt:3)
+  6 gold pieces
+(42, -14, Crypt:3)
+  27 gold pieces
+(42, -13, Crypt:3)
+  39 gold pieces
+(47, 1, Crypt:3)
+  a scroll of fog
+(47, 16, Crypt:3)
+  a potion of curing
+(48, -1, Crypt:3)
+  a +0 rapier
+
+Level 3 of the Tomb of the Ancients
+(0, 0, Tomb:3)
+  20 gold pieces
+(0, 1, Tomb:3)
+  15 gold pieces
+(0, 2, Tomb:3)
+  35 gold pieces
+(0, 3, Tomb:3)
+  8 gold pieces
+(0, 4, Tomb:3)
+  16 gold pieces
+(1, -2, Tomb:3)
+  the +6 shortbow of the Wheel {venom, rN+}
+    It poisons the ammo it fires.
+    
+    It protects you from negative energy.
+(1, -1, Tomb:3)
+  10 gold pieces
+(1, 0, Tomb:3)
+  32 gold pieces
+(1, 1, Tomb:3)
+  15 gold pieces
+(1, 2, Tomb:3)
+  36 gold pieces
+(1, 3, Tomb:3)
+  15 gold pieces
+(1, 4, Tomb:3)
+  a +1 pair of gloves of dexterity
+(1, 5, Tomb:3)
+  29 gold pieces
+(2, -10, Tomb:3)
+  a scroll of enchant armour
+(2, -3, Tomb:3)
+  10 gold pieces
+(2, -2, Tomb:3)
+  a +1 war axe of flaming
+(2, -1, Tomb:3)
+  17 gold pieces
+(2, 1, Tomb:3)
+  a +0 helmet
+(2, 2, Tomb:3)
+  15 gold pieces
+(2, 3, Tomb:3)
+  18 gold pieces
+(2, 4, Tomb:3)
+  21 gold pieces
+(2, 5, Tomb:3)
+  13 gold pieces
+(2, 6, Tomb:3)
+  a potion of lignification
+  (unseen)
+(3, -17, Tomb:3)
+  a wand of polymorph (11)
+(3, -14, Tomb:3)
+  13 gold pieces
+(3, -6, Tomb:3)
+  a potion of curing
+(3, -3, Tomb:3)
+  27 gold pieces
+(3, 2, Tomb:3)
+  24 gold pieces
+(3, 3, Tomb:3)
+  24 gold pieces
+(3, 4, Tomb:3)
+  the +5 plate armour "Wecung" {rC+ rCorr Str+4}
+    It affects your strength (+4).
+    It protects you from cold.
+    It provides partial protection from all sources of acid and corrosion.
+(3, 5, Tomb:3)
+  22 gold pieces
+(3, 6, Tomb:3)
+  12 gold pieces
+(3, 7, Tomb:3)
+  the +2 troll leather armour of Ompedu {Regen+ Str+3}
+    It affects your strength (+3).
+    It increases your rate of regeneration.
+(4, -6, Tomb:3)
+  a +0 great sword
+(4, 1, Tomb:3)
+  17 gold pieces
+(4, 2, Tomb:3)
+  18 gold pieces
+(4, 3, Tomb:3)
+  22 gold pieces
+(4, 4, Tomb:3)
+  27 gold pieces
+(4, 5, Tomb:3)
+  12 gold pieces
+(4, 6, Tomb:3)
+  13 gold pieces
+(4, 7, Tomb:3)
+  19 gold pieces
+(4, 8, Tomb:3)
+  25 gold pieces
+(5, 2, Tomb:3)
+  22 gold pieces
+(5, 3, Tomb:3)
+  10 gold pieces
+(5, 4, Tomb:3)
+  23 gold pieces
+(5, 5, Tomb:3)
+  32 gold pieces
+(5, 6, Tomb:3)
+  a +0 long sword of holy wrath
+(5, 7, Tomb:3)
+  a +0 plate armour
+  (unseen)
+(5, 8, Tomb:3)
+  a gold piece
+(5, 9, Tomb:3)
+  23 stones
+  (unseen)
+(6, -10, Tomb:3)
+  a golden rune of Zot
+(6, 2, Tomb:3)
+  39 gold pieces
+(6, 3, Tomb:3)
+  25 gold pieces
+(6, 4, Tomb:3)
+  35 gold pieces
+(6, 5, Tomb:3)
+  23 gold pieces
+(6, 6, Tomb:3)
+  a phial of floods
+(6, 7, Tomb:3)
+  30 gold pieces
+(6, 8, Tomb:3)
+  20 gold pieces
+(6, 9, Tomb:3)
+  a ration
+(6, 10, Tomb:3)
+  a potion of haste
+(7, 4, Tomb:3)
+  21 gold pieces
+(7, 5, Tomb:3)
+  8 gold pieces
+(7, 6, Tomb:3)
+  24 gold pieces
+(7, 7, Tomb:3)
+  30 gold pieces
+(7, 8, Tomb:3)
+  11 gold pieces
+(7, 9, Tomb:3)
+  18 gold pieces
+(7, 10, Tomb:3)
+  14 gold pieces
+(7, 11, Tomb:3)
+  14 gold pieces
+(8, -15, Tomb:3)
+  a scroll of teleportation
+(8, 4, Tomb:3)
+  36 gold pieces
+(8, 5, Tomb:3)
+  20 gold pieces
+(8, 6, Tomb:3)
+  5 gold pieces
+(8, 7, Tomb:3)
+  20 gold pieces
+(8, 8, Tomb:3)
+  17 gold pieces
+(8, 9, Tomb:3)
+  19 gold pieces
+(8, 10, Tomb:3)
+  21 gold pieces
+(8, 11, Tomb:3)
+  14 gold pieces
+(9, 6, Tomb:3)
+  15 gold pieces
+(9, 8, Tomb:3)
+  16 gold pieces
+(9, 9, Tomb:3)
+  8 needles of sleeping
+(9, 10, Tomb:3)
+  30 gold pieces
+(9, 11, Tomb:3)
+  23 gold pieces
+(10, -7, Tomb:3)
+  33 gold pieces
+(10, 8, Tomb:3)
+  22 gold pieces
+(10, 10, Tomb:3)
+  16 gold pieces
+(10, 11, Tomb:3)
+  37 gold pieces
+(11, 10, Tomb:3)
+  39 gold pieces
+(12, -16, Tomb:3)
+  16 gold pieces
+(18, 3, Tomb:3)
+  a +0 pair of boots
+(20, -8, Tomb:3)
+  a scroll of identify
+(20, 1, Tomb:3)
+  a +0 ring mail
+(27, 9, Tomb:3)
+  11 gold pieces
+(27, 11, Tomb:3)
+  29 gold pieces
+(28, 6, Tomb:3)
+  a +0 halberd
+(28, 7, Tomb:3)
+  the ring "Cahuiv" {*Drain +Blink Str+5 Int+2 Stlth+}
+    [ring of intelligence]
+    
+    It affects your strength (+5).
+    It affects your intelligence (+2).
+    It lets you blink.
+    It causes draining when unequipped.
+    It makes you more stealthy.
+(28, 8, Tomb:3)
+  10 gold pieces
+(28, 9, Tomb:3)
+  30 gold pieces
+(28, 10, Tomb:3)
+  3 gold pieces
+(28, 11, Tomb:3)
+  25 gold pieces
+(29, 4, Tomb:3)
+  16 gold pieces
+(29, 6, Tomb:3)
+  16 gold pieces
+(29, 7, Tomb:3)
+  35 gold pieces
+(29, 8, Tomb:3)
+  32 gold pieces
+(29, 9, Tomb:3)
+  an uncursed ring of poison resistance
+(29, 10, Tomb:3)
+  a +3 chain mail of fire resistance
+(29, 11, Tomb:3)
+  a +0 cloak of invisibility
+(30, -4, Tomb:3)
+  a scroll of blinking
+(30, 3, Tomb:3)
+  20 gold pieces
+(30, 4, Tomb:3)
+  25 gold pieces
+(30, 5, Tomb:3)
+  13 gold pieces
+(30, 6, Tomb:3)
+  4 gold pieces
+(30, 7, Tomb:3)
+  the +8 long sword of Jomire {flame, MR+ Str+4 Int-3 Dex+4}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It affects your strength (+4).
+    It affects your intelligence (-3).
+    It affects your dexterity (+4).
+    It affects your resistance to hostile enchantments.
+(30, 8, Tomb:3)
+  a +5 short sword of venom
+(30, 9, Tomb:3)
+  a +1 spear of piercing
+(30, 10, Tomb:3)
+  a +1 scale mail of fire resistance
+(31, 3, Tomb:3)
+  12 gold pieces
+(31, 4, Tomb:3)
+  26 gold pieces
+(31, 5, Tomb:3)
+  a crystal ball of energy
+(31, 6, Tomb:3)
+  a cursed staff of cold
+(31, 7, Tomb:3)
+  an uncursed amulet of harm
+(31, 8, Tomb:3)
+  a phantom mirror
+(31, 9, Tomb:3)
+  a fan of gales
+(32, 3, Tomb:3)
+  36 gold pieces
+(32, 4, Tomb:3)
+  a scarf of resistance
+(32, 5, Tomb:3)
+  a +3 ring mail of cold resistance
+(32, 6, Tomb:3)
+  a +0 rapier of protection
+(32, 7, Tomb:3)
+  a +0 mace of draining
+(32, 8, Tomb:3)
+  the +1 plate armour of Hiunk {Int+4}
+    It affects your intelligence (+4).
+(33, -2, Tomb:3)
+  a ration
+(33, 2, Tomb:3)
+  26 gold pieces
+(33, 3, Tomb:3)
+  28 gold pieces
+(33, 4, Tomb:3)
+  a figurine of a ziggurat
+(33, 5, Tomb:3)
+  the amulet "Besiawag" {Spirit Stlth+}
+    [amulet of guardian spirit]
+    
+    It causes incoming damage to be split between your health and magic.
+    It makes you more stealthy.
+(33, 6, Tomb:3)
+  a +6 vampiric whip
+(33, 7, Tomb:3)
+  an uncursed staff of poison
+(34, 1, Tomb:3)
+  22 gold pieces
+(34, 2, Tomb:3)
+  20 gold pieces
+(34, 3, Tomb:3)
+  a +0 falchion
+(34, 4, Tomb:3)
+  a +2 flail of crushing
+(34, 5, Tomb:3)
+  a scroll of identify
+  (unseen)
+(34, 6, Tomb:3)
+  a +2 long sword of electrocution
+(35, -12, Tomb:3)
+  a scroll of teleportation
+(35, -10, Tomb:3)
+  15 stones
+(35, -1, Tomb:3)
+  a crystal ball of energy
+(35, 0, Tomb:3)
+  30 gold pieces
+  (unseen)
+(35, 1, Tomb:3)
+  18 gold pieces
+(35, 2, Tomb:3)
+  12 gold pieces
+(35, 3, Tomb:3)
+  a +1 buckler of positive energy
+(35, 4, Tomb:3)
+  the Incunabulum of Doomed Earth
+    Spells                           Type                      Level
+     a - Animate Skeleton             Necromancy                    1
+     b - Regeneration                 Charms/Necromancy             3
+     c - Leda's Liquefaction          Hexes/Earth                   4
+     d - Shatter                      Earth                         9
+(35, 5, Tomb:3)
+  the +8 whip "Snakebite" {curare, rPois}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from poison.
+(36, 0, Tomb:3)
+  25 gold pieces
+(36, 1, Tomb:3)
+  22 gold pieces
+(36, 2, Tomb:3)
+  a Fen Folio
+(36, 3, Tomb:3)
+  a phial of floods
+(36, 4, Tomb:3)
+  a +3 eveningstar of protection
+
+Level 7 of Tartarus
+(0, 0, Tar:7)
+  31 gold pieces
+(1, 0, Tar:7)
+  41 gold pieces
+(2, 0, Tar:7)
+  19 gold pieces
+(2, 21, Tar:7)
+  a +0 chain mail
+(3, 0, Tar:7)
+  a bone rune of Zot
+(4, 0, Tar:7)
+  40 gold pieces
+(4, 33, Tar:7)
+  a +1 chain mail of fire resistance
+(5, 0, Tar:7)
+  26 gold pieces
+(6, 0, Tar:7)
+  13 gold pieces
+(6, 45, Tar:7)
+  an uncursed staff of summoning
+(7, 0, Tar:7)
+  20 gold pieces
+(8, 33, Tar:7)
+  a +1 antimagic great mace
+(12, 51, Tar:7)
+  a +1 dagger of protection
+(14, 3, Tar:7)
+  a potion of might
+(14, 25, Tar:7)
+  a +4 hunting sling of flaming
+(20, 9, Tar:7)
+  59 gold pieces
+(22, 1, Tar:7)
+  a scroll of enchant weapon
+(24, 49, Tar:7)
+  a sack of spiders
+(33, -3, Tar:7)
+  34 gold pieces
+(33, -2, Tar:7)
+  an uncursed staff of air
+(33, -1, Tar:7)
+  a lamp of fire
+(33, 0, Tar:7)
+  a book of Death
+(34, -3, Tar:7)
+  39 gold pieces
+(34, -2, Tar:7)
+  30 gold pieces
+(34, -1, Tar:7)
+  17 gold pieces
+(34, 0, Tar:7)
+  12 gold pieces
+(34, 2, Tar:7)
+  36 gold pieces
+(34, 3, Tar:7)
+  a +3 ring mail of magic resistance
+(34, 4, Tar:7)
+  39 gold pieces
+(35, -3, Tar:7)
+  an uncursed staff of earth
+(35, -2, Tar:7)
+  35 gold pieces
+(35, -1, Tar:7)
+  33 gold pieces
+(35, 0, Tar:7)
+  12 gold pieces
+(35, 2, Tar:7)
+  an uncursed staff of energy
+(35, 3, Tar:7)
+  a lamp of fire
+(35, 4, Tar:7)
+  a +0 hand axe of distortion
+(36, -3, Tar:7)
+  40 gold pieces
+(36, -2, Tar:7)
+  a +2 morningstar of venom
+(36, -1, Tar:7)
+  a +3 lajatang of electrocution
+(36, 0, Tar:7)
+  the ring "Zaurheti" {*Tele Str+5 Int-2}
+    [ring of teleportation]
+    
+    It may teleport you next to monsters.
+    It affects your strength (+5).
+    It affects your intelligence (-2).
+(36, 2, Tar:7)
+  36 gold pieces
+(36, 3, Tar:7)
+  a +1 mace of venom
+(36, 4, Tar:7)
+  the +3 leather armour of Leofeit {rN+ Int+2}
+    It affects your intelligence (+2).
+    It protects you from negative energy.
+(37, 2, Tar:7)
+  39 gold pieces
+(37, 3, Tar:7)
+  a box of beasts
+(37, 4, Tar:7)
+  49 gold pieces
+(38, -3, Tar:7)
+  38 gold pieces
+(38, -2, Tar:7)
+  35 gold pieces
+(38, -1, Tar:7)
+  36 gold pieces
+(38, 0, Tar:7)
+  29 gold pieces
+(38, 2, Tar:7)
+  14 gold pieces
+(38, 3, Tar:7)
+  38 gold pieces
+(38, 4, Tar:7)
+  an uncursed staff of summoning
+(39, -3, Tar:7)
+  26 gold pieces
+(39, -2, Tar:7)
+  11 gold pieces
+(39, -1, Tar:7)
+  43 gold pieces
+(39, 0, Tar:7)
+  25 gold pieces
+(39, 2, Tar:7)
+  a +4 blowgun
+(39, 3, Tar:7)
+  a fan of gales
+(39, 4, Tar:7)
+  32 gold pieces
+(39, 42, Tar:7)
+  37 gold pieces
+(40, -3, Tar:7)
+  an uncursed amulet of the acrobat
+(40, -2, Tar:7)
+  30 gold pieces
+(40, -1, Tar:7)
+  27 gold pieces
+(40, 0, Tar:7)
+  32 gold pieces
+(40, 2, Tar:7)
+  a +0 falchion of freezing
+(40, 3, Tar:7)
+  14 gold pieces
+(40, 4, Tar:7)
+  22 gold pieces
+(40, 42, Tar:7)
+  43 gold pieces
+(40, 43, Tar:7)
+  29 gold pieces
+(41, -3, Tar:7)
+  18 gold pieces
+(41, -2, Tar:7)
+  13 gold pieces
+(41, -1, Tar:7)
+  22 gold pieces
+(41, 0, Tar:7)
+  a +0 dagger of freezing
+(41, 42, Tar:7)
+  17 gold pieces
+(41, 43, Tar:7)
+  23 gold pieces
+(41, 44, Tar:7)
+  25 gold pieces
+(42, 26, Tar:7)
+  a +4 scale mail of cold resistance
+(42, 27, Tar:7)
+  a sack of spiders
+(42, 41, Tar:7)
+  33 gold pieces
+(42, 42, Tar:7)
+  35 gold pieces
+(42, 43, Tar:7)
+  38 gold pieces
+(42, 44, Tar:7)
+  7 gold pieces
+(43, 11, Tar:7)
+  a +2 robe of positive energy
+(43, 21, Tar:7)
+  a book of Changes
+(43, 22, Tar:7)
+  the Volume of Enthralling Stones
+    Spells                           Type                      Level
+     a - Corona                       Hexes                         1
+     b - Stone Arrow                  Conjuration/Earth             3
+     c - Tukima's Dance               Hexes                         3
+     d - Spectral Weapon              Hexes/Charms                  3
+     e - Leda's Liquefaction          Hexes/Earth                   4
+     f - Yara's Violent Unravelling   Hexes/Transmutation           5
+(43, 26, Tar:7)
+  28 gold pieces
+(43, 41, Tar:7)
+  36 gold pieces
+(43, 42, Tar:7)
+  15 gold pieces
+(43, 43, Tar:7)
+  47 gold pieces
+(43, 44, Tar:7)
+  17 gold pieces
+(43, 45, Tar:7)
+  28 gold pieces
+(44, 11, Tar:7)
+  18 gold pieces
+(44, 21, Tar:7)
+  the Almanac of Good Luck and Weightlessness
+    Spells                           Type                      Level
+     a - Shock                        Conjuration/Air               1
+     b - Song of Slaying              Charms                        2
+     c - Spectral Weapon              Hexes/Charms                  3
+(44, 22, Tar:7)
+  the +4 steam dragon scales "Ytohair" {rC++ Stlth+}
+    It greatly protects you from cold.
+    It makes you more stealthy.
+(44, 26, Tar:7)
+  12 gold pieces
+(44, 41, Tar:7)
+  41 gold pieces
+(44, 42, Tar:7)
+  40 gold pieces
+(44, 43, Tar:7)
+  21 gold pieces
+(44, 44, Tar:7)
+  37 gold pieces
+(44, 45, Tar:7)
+  9 gold pieces
+(45, 21, Tar:7)
+  a book of Summonings
+(45, 22, Tar:7)
+  a +2 lajatang of protection
+(45, 26, Tar:7)
+  19 gold pieces
+(45, 41, Tar:7)
+  29 gold pieces
+(45, 42, Tar:7)
+  31 gold pieces
+(45, 43, Tar:7)
+  25 gold pieces
+(45, 44, Tar:7)
+  28 gold pieces
+(45, 45, Tar:7)
+  41 gold pieces
+(46, 26, Tar:7)
+  a +3 vampiric war axe
+(46, 27, Tar:7)
+  a phial of floods
+(46, 41, Tar:7)
+  36 gold pieces
+(46, 42, Tar:7)
+  37 gold pieces
+(46, 43, Tar:7)
+  43 gold pieces
+(46, 44, Tar:7)
+  32 gold pieces
+(47, 42, Tar:7)
+  22 gold pieces
+(47, 43, Tar:7)
+  27 gold pieces
+(47, 44, Tar:7)
+  21 gold pieces
+(48, 11, Tar:7)
+  22 gold pieces
+(48, 42, Tar:7)
+  31 gold pieces
+(48, 43, Tar:7)
+  15 gold pieces
+(49, 11, Tar:7)
+  the +3 ring mail of Yhecoy {Str+3}
+    It affects your strength (+3).
+(49, 42, Tar:7)
+  14 gold pieces
+(53, -3, Tar:7)
+  35 gold pieces
+(54, -3, Tar:7)
+  25 gold pieces
+(54, -2, Tar:7)
+  8 gold pieces
+(55, -3, Tar:7)
+  34 gold pieces
+(55, -2, Tar:7)
+  18 gold pieces
+(55, -1, Tar:7)
+  16 gold pieces
+(56, -3, Tar:7)
+  25 gold pieces
+(56, -2, Tar:7)
+  34 gold pieces
+(56, -1, Tar:7)
+  37 gold pieces
+(56, 0, Tar:7)
+  20 gold pieces
+(57, -3, Tar:7)
+  14 gold pieces
+(57, -2, Tar:7)
+  29 gold pieces
+(57, -1, Tar:7)
+  20 gold pieces
+(57, 0, Tar:7)
+  36 gold pieces
+(57, 1, Tar:7)
+  26 gold pieces
+(58, -3, Tar:7)
+  18 gold pieces
+(58, -2, Tar:7)
+  38 gold pieces
+(58, -1, Tar:7)
+  14 gold pieces
+(58, 0, Tar:7)
+  18 gold pieces
+(58, 1, Tar:7)
+  35 gold pieces
+

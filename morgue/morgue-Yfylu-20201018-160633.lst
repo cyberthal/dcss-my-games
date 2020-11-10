@@ -1,0 +1,520 @@
+Yfylu
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 dagger
+(6, 15, D:1)
+  a +0 dagger
+(6, 17, D:1)
+  a +0 club
+(9, -3, D:1)
+  a +0 club
+(10, -12, D:1)
+  a +0 robe
+(12, 14, D:1)
+  a +0 club
+(18, -10, D:1)
+  a +0 whip
+(18, -3, D:1)
+  a +0 mace
+(26, 34, D:1)
+  a +0 short sword
+(42, 12, D:1)
+  a +0 ring mail
+(48, -3, D:1)
+  a +0 short sword
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 short sword
+(8, 2, D:2)
+  a +0 whip
+(11, -6, D:2)
+  a tomahawk
+(11, -4, D:2)
+  a +0 club
+(16, -6, D:2)
+  a +0 robe
+  a +0 dagger
+(17, -5, D:2)
+  2 tomahawks
+  a +0 club
+(17, -4, D:2)
+  a tomahawk
+(18, -2, D:2)
+  a tomahawk
+(19, -18, D:2)
+  a +0 short sword
+(21, 2, D:2)
+  a +0 club
+(31, -22, D:2)
+  a +0 hand axe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 hand axe
+(3, -39, D:3)
+  a +0 cloak
+(6, -22, D:3)
+  a +0 dagger
+(6, -20, D:3)
+  a +0 quarterstaff
+(6, -14, D:3)
+  a +0 dagger
+(9, -38, D:3)
+  a +0 flail
+(14, -21, D:3)
+  a +0 scale mail
+(16, -25, D:3)
+  3 tomahawks
+  a +0 falchion
+(16, -2, D:3)
+  a +0 dagger
+  a +1 leather armour of cold resistance
+(16, -1, D:3)
+  a +0 hand axe
+(18, -25, D:3)
+  a +0 club
+  a +0 club
+(19, -30, D:3)
+  a +0 club
+(19, 4, D:3)
+  a +0 scale mail
+(21, -37, D:3)
+  a cursed +0 buckler
+(23, -27, D:3)
+  a +0 club
+(23, -26, D:3)
+  a tomahawk
+(28, -25, D:3)
+  a +0 trident
+(35, -10, D:3)
+  a +1 dagger of flaming
+(52, -24, D:3)
+  a +0 leather armour
+(63, -38, D:3)
+  a +0 robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 whip
+(2, 8, D:4)
+  a +0 halberd
+(6, 18, D:4)
+  a +0 chain mail
+(10, 18, D:4)
+  a +0 leather armour
+(13, 3, D:4)
+  a +0 long sword
+(32, 14, D:4)
+  a +0 war axe
+(35, 25, D:4)
+  a +0 trident
+(37, 23, D:4)
+  a +5 halberd
+(37, 25, D:4)
+  a +0 halberd
+(43, 17, D:4)
+  a cursed +0 spear
+(46, 0, D:4)
+  a +0 leather armour
+(51, 16, D:4)
+  a +0 buckler
+
+Level 5 of the Dungeon
+[Shop] Wociullu's Weapon Boutique
+  a cursed -3 falchion (1 gold)
+  a +0 hunting sling (21 gold)
+  a +0 hunting sling (21 gold)
+  a +0 hand axe (42 gold)
+  9 stones (12 gold)
+  16 stones (22 gold)
+  a +0 hand axe (42 gold)
+  a +0 arbalest (63 gold)
+  a +0 war axe (49 gold)
+(0, 0, D:5)
+  a scroll of random uselessness
+(3, -41, D:5)
+  a +2 whip of electrocution
+(3, -30, D:5)
+  a cursed -1 spear
+(3, -12, D:5)
+  a +0 ring mail
+(6, -10, D:5)
+  a +0 ring mail
+  a +0 short sword
+(7, -48, D:5)
+  6 tomahawks
+(8, -41, D:5)
+  a scroll of enchant weapon
+(8, -18, D:5)
+  a +0 flail
+(9, -35, D:5)
+  a +0 rapier
+(10, -36, D:5)
+  a +0 giant club
+(18, -30, D:5)
+  14 poisoned needles
+(38, -18, D:5)
+  a scroll of enchant armour
+(40, -24, D:5)
+  a +0 scale mail
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 robe
+  a +0 dagger
+(3, -8, D:6)
+  a +0 short sword
+(6, -24, D:6)
+  a +0 giant spiked club
+(7, -8, D:6)
+  a cursed +0 chain mail
+(7, 16, D:6)
+  a +2 dagger of electrocution
+(8, -28, D:6)
+  a +0 robe
+  a +0 dagger
+(10, 5, D:6)
+  a +0 flail
+(19, -5, D:6)
+  a +0 ring mail
+(24, -5, D:6)
+  a +0 spear
+(25, 1, D:6)
+  a +0 shortbow
+(31, -13, D:6)
+  a cursed -2 club
+(32, -11, D:6)
+  a +3 leather armour
+  a +0 trident
+(34, -15, D:6)
+  a +0 ring mail
+  a +0 dagger
+(37, -19, D:6)
+  a +0 leather armour
+(38, 7, D:6)
+  a throwing net
+(39, -14, D:6)
+  a +0 club
+(41, -20, D:6)
+  a +0 chain mail
+  a +0 club
+(41, 5, D:6)
+  a +0 robe
+  a +7 vampiric dagger
+(43, 3, D:6)
+  a throwing net
+(44, -2, D:6)
+  21 bolts
+(49, 8, D:6)
+  a +0 whip
+(50, 5, D:6)
+  a +0 rapier
+(56, -24, D:6)
+  a +0 robe
+(57, 12, D:6)
+  a +0 robe
+
+Level 7 of the Dungeon
+[Shop] Icwuxeg's General Store
+  a +0 leather armour (22 gold)
+  a cursed ring of teleportation (49 gold)
+  18 bolts (39 gold)
+  a +0 rapier (44 gold)
+  a +0 dagger (22 gold)
+  a +2 robe of positive energy (161 gold)
+  a +0 spear (33 gold)
+  a +6 rapier of speed (484 gold)
+  a +0 helmet (49 gold)
+  a +1 long sword of slicing (134 gold)
+  27 arrows (59 gold)
+(0, 0, D:7)
+  the cursed +1 hand crossbow "Pesion" {flame, *Corrode MR+++ Str+5 Dex-2}
+    It causes projectiles fired from it to burn those they strike, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It affects your strength (+5).
+    It affects your dexterity (-2).
+    It affects your resistance to hostile enchantments.
+    It may corrode you when you take damage.
+    It has a curse placed upon it.
+(0, 4, D:7)
+  a +0 rapier
+(7, -16, D:7)
+  a +0 spear
+(22, 4, D:7)
+  a +0 club
+(24, -17, D:7)
+  a +0 ring mail
+(24, 9, D:7)
+  13 bolts
+(34, -20, D:7)
+  a +0 mace
+(34, -18, D:7)
+  a +0 mace
+(35, -20, D:7)
+  a +0 mace
+(35, -19, D:7)
+  a cursed -3 mace
+(35, -18, D:7)
+  a +0 mace
+(35, 11, D:7)
+  a +0 cloak
+(36, -20, D:7)
+  a +0 mace
+(36, -19, D:7)
+  a +0 mace
+(36, -18, D:7)
+  a +0 mace
+(38, -19, D:7)
+  a cursed -3 mace
+(39, -18, D:7)
+  a cursed -1 mace
+(39, -6, D:7)
+  a +2 cloak
+  a +3 quarterstaff of chaos
+(40, -18, D:7)
+  a +0 mace
+(41, -17, D:7)
+  a +0 mace
+(42, -18, D:7)
+  a +0 mace
+(42, -6, D:7)
+  a +0 mace
+(46, 10, D:7)
+  a +0 chain mail
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 ring mail
+(15, 7, D:8)
+  an uncursed staff of air
+(18, 1, D:8)
+  a +0 trident
+(25, -8, D:8)
+  a +0 scale mail
+  a +0 spear
+(26, 10, D:8)
+  2 tomahawks
+(27, -4, D:8)
+  a +0 leather armour
+  a +0 hand axe
+(27, 5, D:8)
+  a scroll of enchant weapon
+(29, -3, D:8)
+  a tomahawk
+(29, -2, D:8)
+  3 tomahawks
+  a +0 club
+(29, 0, D:8)
+  a +0 robe
+  a +0 dagger
+(29, 2, D:8)
+  a +0 club
+(29, 3, D:8)
+  a tomahawk
+(29, 7, D:8)
+  a +0 club
+(30, 4, D:8)
+  a tomahawk
+  a +1 hand axe of venom
+(32, -9, D:8)
+  a +0 ring mail
+(37, -7, D:8)
+  a +0 ring mail
+(39, -3, D:8)
+  a +0 dagger
+  a +0 robe
+(39, 22, D:8)
+  a +0 troll leather armour
+(47, -5, D:8)
+  a +0 club
+(48, 10, D:8)
+  a +0 whip
+(53, 0, D:8)
+  a +0 shortbow
+
+Level 9 of the Dungeon
+[Shop] Pyrerchou's Assorted Antiques
+  a crystal ball of energy (640 gold)
+  2 potions of flight (192 gold)
+  a +0 dagger (64 gold)
+  3 scrolls of identify (192 gold)
+[Shop] Ogeorievepp's Antique Weapon Shoppe
+  a +4 morningstar of protection (804 gold)
+  a +0 glaive (195 gold)
+  a +0 club (30 gold)
+  a +0 hand axe (90 gold)
+  a +11 blowgun (1785 gold)
+  a +0 hunting sling (45 gold)
+  the +6 dagger of Wyrd {pierce, rN++} (1515 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It greatly protects you from negative energy.
+  a +10 hunting sling (1605 gold)
+  the +10 great mace "Diolet" {protect, Int+4 Dex+4 Stlth+} (2532 gold)
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+    It makes you more stealthy.
+  a +0 scythe (90 gold)
+[Shop] Guhapn's General Store
+  a +0 club (13 gold)
+  a +2 pair of boots of stealth (279 gold)
+  a +0 great sword (84 gold)
+  16 arrows (41 gold)
+  a scroll of remove curse (39 gold)
+  a scroll of magic mapping (45 gold)
+  a wand of scattershot (7) (429 gold)
+  a scroll of identify (26 gold)
+  a ration (65 gold)
+  a ration (65 gold)
+(0, 0, D:9)
+  a +0 dagger
+(3, 24, D:9)
+  a cursed -3 halberd
+(4, 11, D:9)
+  a cursed +0 scale mail
+  a +0 dagger
+(4, 14, D:9)
+  2 tomahawks
+  a +0 club
+(11, 3, D:9)
+  a +0 chain mail
+(17, 9, D:9)
+  a cursed +0 great sword
+(17, 20, D:9)
+  a +0 spear
+(24, 3, D:9)
+  13 sling bullets
+(25, 24, D:9)
+  a scroll of enchant weapon
+(26, 34, D:9)
+  a +0 mace
+(29, 37, D:9)
+  a cursed +0 leather armour
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +2 buckler
+  (unseen)
+(0, 1, D:10)
+  a cursed -1 spear
+(1, 0, D:10)
+  a +0 spear
+(13, -5, D:10)
+  a +0 whip
+(15, -12, D:10)
+  a +0 club
+  a +0 dagger
+(15, 3, D:10)
+  19 bolts
+(16, -19, D:10)
+  a +0 mace
+(23, 11, D:10)
+  a +0 flail
+(25, 20, D:10)
+  a +0 robe
+  a +0 dagger
+(28, 13, D:10)
+  a +0 spear
+(30, 19, D:10)
+  a +0 ring mail
+  a +0 club
+(31, 19, D:10)
+  a cursed +0 robe
+  a +0 dagger
+(33, 7, D:10)
+  a +0 shortbow
+(35, -9, D:10)
+  a +0 giant spiked club
+(39, -6, D:10)
+  a +0 ring mail
+(39, 15, D:10)
+  a +0 robe
+  (unseen)
+(40, 30, D:10)
+  a +0 ring mail
+(43, 16, D:10)
+  a +0 robe
+  a cursed +0 dagger
+(45, 14, D:10)
+  a +0 robe
+  (unseen)
+(45, 19, D:10)
+  a +0 giant club
+(46, 23, D:10)
+  a scroll of enchant armour
+(47, 4, D:10)
+  a +0 spear
+  a +0 ring mail
+  a +0 spear
+(50, 19, D:10)
+  a +0 robe
+  a +2 spear
+(51, 19, D:10)
+  a +0 whip
+(53, -22, D:10)
+  the ring "Qarim" {rN+ Str+4 Dex+2 Stlth+}
+    [ring of dexterity]
+    
+    It affects your strength (+4).
+    It affects your dexterity (+2).
+    It protects you from negative energy.
+    It makes you more stealthy.
+(53, -19, D:10)
+  a +2 flail of crushing
+(56, -26, D:10)
+  12 gold pieces
+(59, -24, D:10)
+  2 potions of berserk rage
+(59, -17, D:10)
+  21 gold pieces
+(60, -22, D:10)
+  a scroll of amnesia
+(60, -19, D:10)
+  a scroll of remove curse
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a scroll of brand weapon
+(0, 33, Lair:1)
+  a +0 robe
+(3, 40, Lair:1)
+  a +0 spear
+(14, 4, Lair:1)
+  a +0 robe
+(16, 6, Lair:1)
+  24 bolts
+(22, -8, Lair:1)
+  an uncursed staff of wizardry
+(29, -6, Lair:1)
+  a cursed ring of attention
+(32, 34, Lair:1)
+  a cursed +0 chain mail
+(38, 27, Lair:1)
+  a +0 scale mail
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a scroll of random uselessness
+(1, -20, Lair:2)
+  a potion of degeneration
+(14, 23, Lair:2)
+  a +0 trident
+(20, -5, Lair:2)
+  a throwing net
+(37, 7, Lair:2)
+  a +0 whip
+(41, -4, Lair:2)
+  a +0 falchion
+(61, -3, Lair:2)
+  a +0 ring mail
+  2 throwing nets
+  a +0 flail
+

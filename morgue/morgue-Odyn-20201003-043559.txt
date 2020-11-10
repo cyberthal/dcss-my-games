@@ -1,0 +1,395 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6206272353419799671
+
+526951 Odyn the Ninja (level 27, 226/226 HPs) *WIZ*
+             Began as a Vine Stalker Summoner on Oct 3, 2020.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:29 (25 turns).
+
+Odyn the Ninja (Vine Stalker Summoner)                Turns: 25, Time: 00:06:29
+
+Health: 226/226    AC: 29    Str:  9    XL:     27
+Magic:  55/55      EV: 28    Int: 15    God:    Kikubaaqudgha 200 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 65/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   (armour currently unavailable)
+rPois    ?          Spirit   +   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       +++..                  (boots currently unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  1.27/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: statue-form, barbed spikes, very slow
+A: fangs 3, regeneration 2, magic shield, antimagic bite, no potion heal 3, rot
+immunity
+a: End Transformation, Receive Corpses, Torment, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were completely stuffed.
+
+You were a stone statue.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (melded)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+   Level 26.9(27) Short Blades
+ O Level 27 Long Blades
+   Level 26.9(27) Axes
+   Level 26.9(27) Maces & Flails
+ O Level 27 Polearms
+   Level 26.9(27) Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ + Level 26.9 Dodging
+ O Level 27 Stealth
+   Level 26.9 Shields
+ + Level 26.9 Unarmed Combat
+ O Level 27 Spellcasting
+   Level 26.9 Conjurations
+   Level 26.9 Hexes
+   Level 26.9 Charms
+ + Level 26.9 Summonings
+ + Level 26.9 Necromancy
+   Level 26.9 Translocations
+ + Level 26.9 Transmutations
+   Level 26.9 Fire Magic
+   Level 26.9 Ice Magic
+   Level 26.9 Air Magic
+ O Level 27 Earth Magic
+   Level 26.9 Poison Magic
+   Level 26.9 Invocations
+   Level 26.9 Evocations
+
+
+You had 65 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           25 (25)      0%          1    0
+b - Necromutation         Tmut/Necr      79 (200)     1%          8    445
+c - Statue Form           Tmut/Erth      79 (150)     0%          6    145
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Apportation              Tloc           50 (50)      0%          1    0
+ Beastly Appendage        Tmut           50 (50)      0%          1    0
+ Confusing Touch          Hex            50 (50)      0%          1    0
+ Corona                   Hex            79 (90)      0%          1    0
+ Flame Tongue             Conj/Fire      40 (40)      0%          1    0
+ Freeze                   Ice            25 (25)      0%          1    0
+ Infusion                 Chrm           25 (25)      0%          1    0
+ Magic Dart               Conj           25 (25)      0%          1    0
+ Pain                     Necr           25 (25)      0%          1    0
+ Sandblast                Erth           50 (50)      0%          1    0
+ Shock                    Conj/Air       25 (25)      0%          1    0
+ Sting                    Conj/Pois      25 (25)      0%          1    0
+ Summon Butterflies       Summ           79 (100)     0%          1    0
+ Blink                    Tloc           N/A          0%          2    0
+ Call Imp                 Summ           79 (100)     0%          2    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Ensorcelled Hibernation  Hex/Ice        50 (50)      0%          2    0
+ Passwall                 Tmut/Erth      79 (120)     0%          2    0
+ Poisonous Vapours        Pois/Air       50 (50)      0%          2    0
+ Searing Ray              Conj           50 (50)      0%          2    0
+ Shroud of Golubria       Chrm/Tloc      79 (200)     0%          2    0
+ Slow                     Hex            79 (100)     0%          2    0
+ Song of Slaying          Chrm           79 (100)     0%          2    0
+ Sticks to Snakes         Tmut           79 (100)     0%          2    0
+ Sublimation of Blood     Necr           79 (200)     0%          2    0
+ Swiftness                Chrm/Air       79 (100)     0%          2    0
+ Throw Flame              Conj/Fire      50 (50)      0%          2    0
+ Throw Frost              Conj/Ice       50 (50)      0%          2    0
+ Call Canine Familiar     Summ           79 (100)     0%          3    0
+ Confuse                  Hex            79 (100)     0%          3    0
+ Conjure Flame            Conj/Fire      79 (100)     0%          3    0
+ Dazzling Spray           Conj/Hex       50 (50)      0%          3    0
+ Gell's Gravitas          Tloc           79 (200)     0%          3    0
+ Ignite Poison            Fire/Tmut/Pois 79 (100)     0%          3    0
+ Inner Flame              Hex/Fire       79 (100)     0%          3    0
+ Lesser Beckoning         Tloc           79 (200)     0%          3    0
+ Mephitic Cloud           Conj/Pois/Air  79 (100)     0%          3    0
+ Ozocubu's Armour         Chrm/Ice       79 (100)     0%          3    0
+ Portal Projectile        Hex/Tloc       50 (50)      0%          3    0
+ Recall                   Summ/Tloc      N/A          0%          3    0
+ Regeneration             Chrm/Necr      79 (200)     0%          3    0
+ Spectral Weapon          Hex/Chrm       79 (100)     0%          3    0
+ Spider Form              Tmut/Pois      79 (200)     0%          3    0
+ Static Discharge         Conj/Air       79 (100)     0%          3    0
+ Stone Arrow              Conj/Erth      50 (50)      0%          3    0
+ Summon Guardian Golem    Hex/Summ       79 (100)     0%          3    0
+ Teleport Other           Tloc           79 (100)     0%          3    0
+ Tukima's Dance           Hex            79 (100)     0%          3    0
+ Vampiric Draining        Necr           79 (200)     0%          3    0
+ Airstrike                Air            79 (200)     0%          4    0
+ Animate Dead             Necr           N/A          0%          4    0
+ Cause Fear               Hex            79 (200)     0%          4    0
+ Force Lance              Conj/Tloc      79 (100)     0%          4    0
+ Fulminant Prism          Conj/Hex       79 (200)     0%          4    0
+ Ice Form                 Ice/Tmut       79 (100)     0%          4    0
+ Iskenderun's Mystic Bla  Conj           79 (100)     0%          4    0
+ Leda's Liquefaction      Hex/Erth       79 (200)     0%          4    0
+ Olgreb's Toxic Radiance  Pois           79 (100)     0%          4    0
+ Passage of Golubria      Tloc           N/A          0%          4    0
+ Petrify                  Tmut/Erth      79 (100)     0%          4    0
+ Sticky Flame             Conj/Fire      79 (100)     0%          4    0
+ Summon Ice Beast         Ice/Summ       79 (100)     0%          4    0
+ Summon Lightning Spire   Summ/Air       79 (100)     0%          4    0
+ Throw Icicle             Conj/Ice       79 (100)     0%          4    0
+ Agony                    Necr           79 (100)     0%          5    0
+ Alistair's Intoxication  Tmut/Pois      79 (100)     0%          5    0
+ Aura of Abjuration       Summ           79 (200)     0%          5    0
+ Blade Hands              Tmut           79 (200)     0%          5    0
+ Bolt of Draining         Conj/Necr      79 (200)     0%          5    0
+ Bolt of Magma            Conj/Fire/Erth 79 (200)     0%          5    0
+ Borgnjor's Vile Clutch   Necr/Erth      79 (200)     0%          5    0
+ Dispel Undead            Necr           79 (100)     0%          5    0
+ Excruciating Wounds      Chrm/Necr      79 (200)     0%          5    0
+ Fireball                 Conj/Fire      79 (200)     0%          5    0
+ Irradiate                Conj/Tmut      79 (200)     0%          5    0
+ Iskenderun's Battlesphe  Conj/Chrm      79 (100)     0%          5    0
+ Lee's Rapid Deconstruct  Erth           79 (200)     0%          5    0
+ Lightning Bolt           Conj/Air       79 (200)     0%          5    0
+ Metabolic Englaciation   Hex/Ice        79 (200)     0%          5    0
+ Silence                  Hex/Air        79 (200)     0%          5    0
+ Summon Demon             Summ           79 (200)     0%          5    0
+ Summon Forest            Summ/Tloc      79 (200)     0%          5    0
+ Summon Mana Viper        Hex/Summ       79 (100)     0%          5    0
+ Venom Bolt               Conj/Pois      79 (200)     0%          5    0
+ Yara's Violent Unravell  Hex/Tmut       79 (200)     0%          5    0
+ Bolt of Cold             Conj/Ice       79 (200)     0%          6    145
+ Bolt of Fire             Conj/Fire      79 (200)     0%          6    145
+ Conjure Ball Lightning   Conj/Air       79 (200)     0%          6    145
+ Darkness                 Hex            79 (200)     0%          6    145
+ Death Channel            Necr           79 (200)     0%          6    145
+ Deflect Missiles         Chrm/Air       79 (200)     0%          6    145
+ Dispersal                Tloc           79 (200)     0%          6    145
+ Freezing Cloud           Conj/Ice/Air   79 (200)     0%          6    145
+ Hydra Form               Tmut           79 (200)     0%          6    145
+ Invisibility             Hex            79 (100)     0%          6    145
+ Iron Shot                Conj/Erth      79 (200)     0%          6    145
+ Ozocubu's Refrigeration  Ice            79 (200)     0%          6    145
+ Poison Arrow             Conj/Pois      79 (200)     0%          6    145
+ Shadow Creatures         Summ           N/A          0%          6    145
+ Simulacrum               Ice/Necr       79 (200)     0%          6    145
+ Dragon Form              Tmut           79 (200)     1%          7    295
+ Haunt                    Necr/Summ      79 (200)     1%          7    295
+ Malign Gateway           Summ/Tloc      79 (200)     1%          7    295
+ Monstrous Menagerie      Summ           79 (200)     1%          7    295
+ Orb of Destruction       Conj           79 (200)     1%          7    295
+ Ring of Flames           Chrm/Fire      79 (200)     1%          7    295
+ Spellforged Servitor     Conj/Summ      79 (200)     1%          7    295
+ Summon Greater Demon     Summ           79 (200)     1%          7    295
+ Summon Hydra             Summ           79 (200)     1%          7    295
+ Borgnjor's Revivificati  Necr           79 (200)     1%          8    445
+ Chain Lightning          Conj/Air       79 (200)     1%          8    445
+ Controlled Blink         Tloc           N/A          1%          8    445
+ Death's Door             Chrm/Necr      79 (200)     1%          8    445
+ Discord                  Hex            79 (200)     1%          8    445
+ Disjunction              Tloc           79 (200)     1%          8    445
+ Ignition                 Fire           79 (200)     1%          8    445
+ Infestation              Necr           79 (200)     1%          8    445
+ Lehudib's Crystal Spear  Conj/Erth      79 (200)     1%          8    445
+ Summon Horrible Things   Summ           79 (200)     1%          8    445
+ Dragon's Call            Summ           79 (200)     2%          9    595
+ Fire Storm               Conj/Fire      79 (200)     2%          9    595
+ Glaciate                 Conj/Ice       79 (200)     2%          9    595
+ Shatter                  Erth           79 (200)     2%          9    595
+ Tornado                  Air            79 (200)     2%          9    595
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 Cerebov
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You heal very quickly.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+You bite Cerebov, but do no damage.
+Cerebov is lightly wounded.
+You pummel Cerebov!!
+Cerebov is lightly wounded.
+You pummel Cerebov like a punching bag!!!
+You bite Cerebov, but do no damage.
+Cerebov is moderately wounded.
+You squash Cerebov like an ant!!!
+Cerebov is moderately wounded.
+You pummel Cerebov!!
+Cerebov is moderately wounded.
+You hit Cerebov.
+Cerebov is moderately wounded.
+You pummel Cerebov!!
+Cerebov is moderately wounded.
+You punch Cerebov! Your bite misses Cerebov.
+Cerebov is heavily wounded.
+You hit Cerebov but do no damage. You bite Cerebov! Cerebov's magic leaks into
+the air. You drain its magic.
+Cerebov is heavily wounded.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ########
+   ##...... ##
+  ##..~...~..##
+..#..~.~.~7~..#
+ ...~.}.~7}7~.
+    #~....7~#
+     #~...~#
+     #&8..~#
+     #~.<.~#
+     #~...~#
+     #~...~#
+    #~7...7~#
+   #~7}7~7}7~.
+  ..#~7~.~7~....
+ ##... ... ......
+  ###  ...  #....
+      #####  .l..
+              #.
+
+
+You could see Cerebov.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Odyn the Barachi Summoner began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Reached * piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Guide on Evil Rituals
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached ** piety under Kikubaaqudgha
+     0 | D:1      | Reached *** piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Volume of Dark Secrets
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached **** piety under Kikubaaqudgha
+     0 | D:1      | Reached ***** piety under Kikubaaqudgha
+     0 | D:1      | Reached ****** piety under Kikubaaqudgha
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     3 | D:1      | Reached XP level 2. HP: 63/63 MP: 3/30
+     3 | D:1      | Reached XP level 3. HP: 70/70 MP: 3/31
+     3 | D:1      | Reached XP level 4. HP: 78/78 MP: 3/33
+     3 | D:1      | Reached XP level 5. HP: 85/85 MP: 3/34
+     3 | D:1      | Reached XP level 6. HP: 93/93 MP: 3/36
+     3 | D:1      | Reached XP level 7. HP: 100/100 MP: 3/37
+     3 | D:1      | Reached XP level 8. HP: 108/108 MP: 3/39
+     3 | D:1      | Reached XP level 9. HP: 115/115 MP: 3/40
+     3 | D:1      | Reached XP level 10. HP: 123/123 MP: 3/41
+     3 | D:1      | Reached XP level 11. HP: 130/130 MP: 3/42
+     3 | D:1      | Reached XP level 12. HP: 138/138 MP: 3/43
+     3 | D:1      | Gained mutation: You can hop long distances. [Barachi
+                  | growth]
+     3 | D:1      | Reached XP level 13. HP: 145/145 MP: 3/44
+     3 | D:1      | Reached XP level 14. HP: 153/153 MP: 3/45
+     3 | D:1      | Reached XP level 15. HP: 159/159 MP: 3/46
+     3 | D:1      | Reached XP level 16. HP: 167/167 MP: 3/47
+     3 | D:1      | Reached XP level 17. HP: 174/174 MP: 3/48
+     3 | D:1      | Reached XP level 18. HP: 182/182 MP: 3/49
+     3 | D:1      | Reached XP level 19. HP: 189/189 MP: 3/50
+     3 | D:1      | Reached XP level 20. HP: 197/197 MP: 3/51
+     3 | D:1      | Reached XP level 21. HP: 204/204 MP: 3/52
+     3 | D:1      | Reached XP level 22. HP: 212/212 MP: 3/53
+     3 | D:1      | Reached XP level 23. HP: 219/219 MP: 3/54
+     3 | D:1      | Reached XP level 24. HP: 227/227 MP: 3/54
+     3 | D:1      | Reached XP level 25. HP: 234/234 MP: 3/54
+     3 | D:1      | Reached XP level 26. HP: 242/242 MP: 3/54
+     3 | D:1      | Reached XP level 27. HP: 249/249 MP: 3/54
+    12 | D:1      | Learned a level 8 spell: Necromutation
+    17 | D:1      | Learned a level 6 spell: Statue Form
+    24 | D:1      | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [Vine Stalker growth]
+    24 | D:1      | Gained mutation: You have razor-sharp teeth. [Vine Stalker
+                  | growth]
+    24 | D:1      | Gained mutation: You heal very quickly. [Vine Stalker
+                  | growth]
+    25 | D:1      | Identified the +6 sword of Cerebov {flame}
+    25 | D:1      | Noticed Cerebov
+    25 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 |
+---------------+----------------------------------------------------------------------------------+-----
+Short Blades   |                                                                               26 | 26.9
+Axes           |                                                                               26 | 26.9
+Maces & Flails |                                                                               26 | 26.9
+Staves         |                                                                               26 | 26.9
+Dodging        |                                                                               26 | 26.9
+Shields        |                                                                               26 | 26.9
+Unarmed Combat |                                                                               26 | 26.9
+Conjurations   |                                                                               26 | 26.9
+Hexes          |                                                                               26 | 26.9
+Charms         |                                                                               26 | 26.9
+Summonings     |                                                                               26 | 26.9
+Necromancy     |                                                                               26 | 26.9
+Translocations |                                                                               26 | 26.9
+Transmutations |                                                                               26 | 26.9
+Fire Magic     |                                                                               26 | 26.9
+Ice Magic      |                                                                               26 | 26.9
+Air Magic      |                                                                               26 | 26.9
+Poison Magic   |                                                                               26 | 26.9
+Invocations    |                                                                               26 | 26.9
+Evocations     |                                                                               26 | 26.9
+Fighting       |                                                                                  | 27.0
+Long Blades    |                                                                                  | 27.0
+Polearms       |                                                                                  | 27.0
+Slings         |                                                                                  | 27.0
+Bows           |                                                                                  | 27.0
+Crossbows      |                                                                                  | 27.0
+Throwing       |                                                                                  | 27.0
+Armour         |                                                                                  | 27.0
+Stealth        |                                                                                  | 27.0
+Spellcasting   |                                                                                  | 27.0
+Earth Magic    |                                                                                  | 27.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |    16 ||    16
+       Bite              |       |       |       |       |       |       |       |       |     3 ||     3
+ Cast: Statue Form       |       |       |       |       |       |       |       |       |     2 ||     2
+       Necromutation     |       |       |       |       |       |       |       |       |     1 ||     1
+Invok: Receive Necronomi |     1 |       |       |       |       |       |       |       |       ||     1
+ Abil: End Transformatio |       |       |       |       |       |       |       |       |     1 ||     1
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |     1 ||     1
+

@@ -1,0 +1,161 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12557053367251453779
+
+0 Efoen the Skirmisher (level 1, 18/18 HPs) *WIZ*
+             Began as a Mummy Monk on Aug 24, 2020.
+             Was a High Priest of Sif Muna.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:32 (1 turns).
+
+Efoen the Skirmisher (Mummy Monk)                      Turns: 1, Time: 00:01:32
+
+Health: 18/18      AC:  2    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  9    God:    Sif Muna 150 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    x . .     SeeInvis .   a - +0 falchion
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   b - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Divine Energy, Channel Magic, Forget Spell, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Sif Muna.
+Sif Muna was extremely pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 robe (worn)
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.4 Long Blades
+ + Level 2.4 Dodging
+ + Level 1.5 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           0 (25)       38%         1    N/A
+ Corpse Rot               Necr           N/A          52%         2    N/A
+ Searing Ray              Conj           0 (50)       52%         2    N/A
+ Throw Flame              Conj/Fire      0 (50)       52%         2    N/A
+ Gell's Gravitas          Tloc           0 (200)      77%         3    N/A
+ Ignite Poison            Fire/Tmut/Pois 0 (100)      77%         3    N/A
+ Vampiric Draining        Necr           0 (200)      77%         3    N/A
+ Force Lance              Conj/Tloc      0 (100)      99%         4    N/A
+ Fulminant Prism          Conj/Hex       0 (200)      99%         4    N/A
+ Iskenderun's Mystic Bla  Conj           0 (100)      99%         4    N/A
+ Throw Icicle             Conj/Ice       0 (100)      99%         4    N/A
+ Dispel Undead            Necr           0 (100)      100%        5    N/A
+ Summon Forest            Summ/Tloc      0 (200)      100%        5    N/A
+ Venom Bolt               Conj/Pois      0 (200)      100%        5    N/A
+ Bolt of Fire             Conj/Fire      0 (200)      100%        6    N/A
+ Death Channel            Necr           0 (200)      100%        6    N/A
+ Haunt                    Necr/Summ      0 (200)      100%        7    N/A
+ Disjunction              Tloc           0 (200)      100%        8    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Setting piety to 150.
+Sif Muna will now gift you books as you gain piety.
+You see here Sif Muna's Almanac of Sinister Arcane Weapons.
+Sif Muna grants you a gift!
+You see here Nuguis's Tome of Dark Rites.
+Sif Muna grants you a gift!
+You see here Newyni's Almanac of Freezing Arcane Weapons.
+Sif Muna grants you a gift!
+You see here Sif Muna's Handbook of Twisted Poison.
+Sif Muna grants you a gift!
+You pick up Newyni's Almanac of Freezing Arcane Weapons and begin reading...
+You add the spells Magic Dart, Throw Flame, Iskenderun's Mystic Blast and Throw
+Icicle to your library.
+You pick up Nuguis's Tome of Dark Rites and begin reading...
+You add the spells Corpse Rot, Vampiric Draining, Dispel Undead and Haunt to
+your library.
+You pick up Sif Muna's Almanac of Sinister Arcane Weapons and begin reading...
+You add the spells Searing Ray, Fulminant Prism, Bolt of Fire and Death Channel
+to your library.
+You pick up Sif Muna's Handbook of Twisted Poison and begin reading...
+You add the spells Ignite Poison, Gell's Gravitas, Force Lance, Venom Bolt,
+Summon Forest and Disjunction to your library.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#########
+....)..@#
+#########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Efoen the Mummy Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Sif Muna the Loreminder
+     0 | D:1      | Reached * piety under Sif Muna
+     0 | D:1      | Reached ** piety under Sif Muna
+     0 | D:1      | Reached *** piety under Sif Muna
+     0 | D:1      | Reached **** piety under Sif Muna
+     0 | D:1      | Reached ***** piety under Sif Muna
+     0 | D:1      | Identified Sif Muna's Almanac of Sinister Arcane Weapons
+                  | (Sif Muna gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Sif Muna
+     0 | D:1      | Identified Nuguis's Tome of Dark Rites (Sif Muna gifted it
+                  | to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Sif Muna
+     0 | D:1      | Identified Newyni's Almanac of Freezing Arcane Weapons (Sif
+                  | Muna gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Sif Muna
+     0 | D:1      | Identified Sif Muna's Handbook of Twisted Poison (Sif Muna
+                  | gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Sif Muna
+     1 | D:1      | Quit the game
+

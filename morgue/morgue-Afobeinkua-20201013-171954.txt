@@ -1,0 +1,201 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9528364812327155664
+
+389 Afobeinkua the Frost Mage (level 6, 41/41 HPs) *WIZ*
+             Began as a Barachi Ice Elementalist on Oct 13, 2020.
+             Was the Champion of Wu Jian.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:15 (55 turns).
+
+Afobeinkua the Frost Mage (Barachi Ice Elementalist)  Turns: 55, Time: 00:06:16
+
+Health: 41/41      AC:  2    Str: 10    XL:     6   Next: 79%
+Magic:  11/16      EV: 16    Int: 17    God:    Wu Jian 200 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 15/19 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.13/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Wall Jump, Serpent's Lash, Heavenly Storm, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Wu Jian.
+Wu Jian was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Potions
+ b - 9 potions of experience
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 8.0 Dodging
+ + Level 7.2 Stealth
+ + Level 7.3 Spellcasting
+   Level 1.1 Conjurations
+ + Level 9.2 Ice Magic
+
+
+You had 15 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            25 (25)      1%          1    0
+b - Ozocubu's Armour      Chrm/Ice       21 (100)     4%          3    25
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       23 (50)      1%          2    0
+ Throw Icicle             Conj/Ice       23 (100)     13%         4    125
+ Summon Ice Beast         Ice/Summ       21 (100)     17%         4    125
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Ashenzari
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found 18 stones.
+Press: ? - help, v - describe, . - travel
+A rock wall.
+Okay, then.
+Casting: Freeze (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+A film of ice covers your body!
+Aiming: Wall Jump
+Press: ? - help, Dir - move target cursor
+Your icy armour cracks and falls away as you move.
+Found a shattered altar of Ashenzari.
+You see here 18 stones.
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..#          #########........#
+#.#          #................#
+..#          #.######.........###
+.##          #.#   #............#
+.#           #.#   ##.........#.#
+.#           #.#    ##.######.#.#
+.#       #####.#     #........#.#
+.#       #.....#     #.########.#
+.#       #.#####    ##+##     #.#
+.###     #.#       ##...##    #.#####
+...#     #.###    ##.....##   #.....#
+##.#     #.#.######.......##  ##.##.#
+##>#######......##...0.....####...#.#####
+..............#.#+....@0...+............#
+##.#######..).._......00...####..)..###.#
+...#     #.#.##.#.#.......##  ##.#..# #.#
+####     #.####...##.....##    ##...# #.#
+#        #.#  #######...##      #..## #.#
+#       ##.#        ##+##       #..#  #.#
+        #..#         #.#        #$.####.#
+        #.##         #.#        #.......#
+        #.#    #######.######   #.#######
+        #.#    #.......>....#   #.#
+        #.#    #.#.#.....##.#####.#
+        #.#    #.#.##.............#
+        #.######.#.#....###.#######
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An elephant (D:1)
+  A giant cockroach (D:1)
+  A bat (D:1)
+3 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Afobeinkua the Barachi Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Became a worshipper of Ashenzari the Shackled
+     1 | D:1      | Fell from the grace of Ashenzari
+     1 | D:1      | Became a worshipper of Vehumet
+     1 | D:1      | Reached skill level 5 in Ice Magic
+     1 | D:1      | Reached XP level 2. HP: 19/19 MP: 4/7
+     2 | D:1      | Reached skill level 5 in Stealth
+     2 | D:1      | Reached skill level 5 in Spellcasting
+     2 | D:1      | Reached skill level 7 in Ice Magic
+     2 | D:1      | Reached XP level 3. HP: 24/24 MP: 5/10
+     3 | D:1      | Reached skill level 8 in Ice Magic
+     3 | D:1      | Reached XP level 4. HP: 30/30 MP: 5/13
+    49 | D:1      | Noticed an elephant
+    49 | D:1      | Killed an elephant
+    49 | D:1      | Was forgiven by Ashenzari
+    49 | D:1      | Reached skill level 9 in Ice Magic
+    49 | D:1      | Reached XP level 5. HP: 35/35 MP: 12/14
+    49 | D:1      | Reached XP level 6. HP: 41/41 MP: 13/16
+    53 | D:1      | Learned a level 3 spell: Ozocubu's Armour
+    53 | D:1      | Fell from the grace of Vehumet
+    53 | D:1      | Became a worshipper of the Wu Jian Council
+    53 | D:1      | Reached * piety under Wu Jian
+    53 | D:1      | Reached ** piety under Wu Jian
+    53 | D:1      | Reached *** piety under Wu Jian
+    53 | D:1      | Reached **** piety under Wu Jian
+    53 | D:1      | Reached ***** piety under Wu Jian
+    53 | D:1      | Reached ****** piety under Wu Jian
+    53 | D:1      | Found a shattered altar of Ashenzari.
+    55 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Dodging        |  4  6  7  8 |  8.0
+Stealth        |  4  5  7    |  7.2
+Spellcasting   |  4  5  7    |  7.3
+Ice Magic      |  5  7  8  9 |  9.2
+Conjurations   |             |  1.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+ Cast: Ozocubu's Armour  |       |     1 ||     1
+ Abil: Wall Jump         |       |     1 ||     1
+  Use: Potion            |     3 |       ||     3
+

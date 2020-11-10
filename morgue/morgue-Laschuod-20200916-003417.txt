@@ -1,0 +1,153 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17571315839153506860
+
+0 Laschuod the Middleweight Champion (level 1, 19/19 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 16, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:11:51 (170 turns).
+
+Laschuod the Middleweight Champion (Ghoul Monk)      Turns: 170, Time: 00:11:52
+
+Health: 19/19      AC:  2    Str: 14    XL:     1   Next: 0%
+Magic:  0/0        EV: 12    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ d - the +8 orange crystal plate armour {Archmagi, Int+3 Clar}
+   (Your wizardly powers created it on level 1 of the Dungeon)   
+   
+   It affects your intelligence (+3).
+   It protects you against confusion.
+ e - a +0 shield
+Potions
+ c - 12 potions of experience
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 2.6 Dodging
+ + Level 2.1 Stealth
+ - Level 15.0 Shields
+ O Level 27 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Attack: Player |     17.7 |     42 |  84% |  15.0 |    50  |  2.00 |     30.0
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      5.6 |     12 |  28% |   1.6 |   166  |  0.60 |      0.9
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? jugg
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      9.8 |     39 |  84% |   8.3 |    50  |  2.00 |     16.6
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     41.0 |    117 |  81% |  33.5 |    66  |  1.52 |     50.8
+Take off which item? (? for menu, Esc to quit)
+You start removing your armour. You continue taking off your +0 shield. x4
+You finish taking off your +0 shield.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     10.9 |     51 |  83% |   9.1 |    50  |  2.00 |     18.2
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     49.4 |    116 |  96% |  47.8 |    66  |  1.52 |     72.4
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+####
+#@.#
+#..#.....
+#..#.7...
+#+## .. .
+      ...
+       ..
+        .
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Laschuod the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Found the +8 orange crystal plate armour {Archmagi, Int+3
+                  | Clar}
+   170 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||168000
+       Punch             ||  1877
+Armor: Robe              || 12964
+       Crystal plate arm ||  9596
+Dodge: Dodged            || 64597
+Block: Shield            || 21830
+

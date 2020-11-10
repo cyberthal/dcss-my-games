@@ -1,0 +1,153 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4203659528168944118
+
+Dinkaph the Twirler (Human Gladiator)               Turns: 1239, Time: 00:08:22
+
+Health: 23/23      AC:  4    Str: 14    XL:     2   Next: 80%
+Magic:  2/2        EV: 13    Int:  8    God:    
+Gold:   41         SH:  0    Dex: 14    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   a - +0 quarterstaff
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You are on level 2 of the Dungeon.
+You are hungry.
+
+You have visited 1 branch of the dungeon, and seen 2 of its levels.
+
+You have collected 41 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 quarterstaff (weapon)
+ j - a hunting sling
+ l - a hand axe
+Missiles
+ d - 3 throwing nets {!f}
+ e - 21 stones (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 helmet (worn)
+ n - a chain mail
+Jewellery
+ m - a twisted gilded ring
+Scrolls
+ i - a scroll labeled WAFRAEPLIARU
+ k - a scroll labeled UXUVUA GAACAL
+Potions
+ g - a cyan potion
+ h - a golden potion
+Comestibles
+ f - a ration
+
+
+   Skills:
+ * Level 2.6 Fighting
+ + Level 3.1 Staves
+ - Level 2.0 Throwing
+ - Level 3.0 Dodging
+ - Level 1.1 Stealth
+
+
+You have one spell level left.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Message History
+
+Returning to the game...
+You see here a kobold corpse.
+e - 21 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+HP restored.
+There is a stone staircase leading down here.
+Unknown command.
+You climb downwards.
+A bat, a rat and 2 hobgoblins come into view.
+Found a brass wand, a ration and 37 stones.
+Found a stone staircase leading down.
+There is a stone staircase leading up here.
+The helpless rat fails to defend itself.
+You hit the rat.
+You kill the rat!
+Saving game... please wait.
+Welcome back, Dinkaph the Human Gladiator.
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+  .....
+  ....
+  ...###.
+  .......
+##.b.....
+#........
+#%g......
+#@>../...
+#........
+#........
+#......(.
+#.....(..
+#........
+#.....g..
+#........
+
+
+You can see 2 hobgoblins and a bat.
+
+Vanquished Creatures
+  A dart slug (D:1)
+  4 bats (D:1)
+  A giant cockroach (D:1)
+  4 hobgoblins (D:1)
+  A frilled lizard (D:1)
+  2 kobolds (D:1)
+  2 rats
+15 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Dinkaph the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   375 | D:1      | Reached skill level 1 in Stealth
+   483 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+
+Skill      XL: |  1 |
+---------------+----+-----
+Stealth        |  1 |  1.1
+Fighting       |    |  2.6
+Staves         |    |  3.1
+Throwing       |    |  2.0
+Dodging        |    |  3.0
+
+Action                   || total
+-------------------------++-------
+Melee: Quarterstaff      ||    30
+Throw: Stone             ||    32
+ Stab: Sleeping          ||     1
+Armor: Leather armour    ||     8
+Dodge: Dodged            ||    19
+

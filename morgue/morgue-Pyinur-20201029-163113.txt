@@ -1,0 +1,148 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12442692086224737617
+
+0 Pyinur the Digger (level 1, 10/10 HPs) *WIZ*
+             Began as a Gargoyle Earth Elementalist on Oct 29, 2020.
+             Was a Believer of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:28 (1 turns).
+
+Pyinur the Digger (Gargoyle Earth Elementalist)        Turns: 1, Time: 00:01:29
+
+Health: 10/10      AC:  4    Str: 11    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    Kikubaaqudgha 50 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   c - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +2
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ b - 30 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 2.1 Stealth
+ + Level 2.0 Spellcasting
+   Level 0.7 Transmutations
+ + Level 3.6 Earth Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           12 (50)      4%          1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Passwall                 Tmut/Erth      8 (120)      14%         2    70
+ Animate Skeleton         Necr           N/A          22%         1    20
+ Pain                     Necr           1 (25)       22%         1    20
+ Corpse Rot               Necr           N/A          32%         2    70
+ Stone Arrow              Conj/Erth      6 (50)       32%         3    120
+ Vampiric Draining        Necr           1 (200)      54%         3    120
+ Petrify                  Tmut/Erth      8 (100)      65%         4    220
+ Lee's Rapid Deconstruct  Erth           12 (200)     80%         5    370
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +2)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which god (by name)? k
+Kikubaaqudgha welcomes you!
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 15, Enter for 0): 
+Setting piety to 50.
+You can now receive cadavers from Kikubaaqudgha.
+You see here Kikubaaqudgha's Grimoire of Evil Arts.
+Kikubaaqudgha grants you a gift!
+Kikubaaqudgha is now protecting you from necromantic miscasts and death curses.
+You pick up Kikubaaqudgha's Grimoire of Evil Arts and begin reading...
+You add the spells Animate Skeleton, Pain, Corpse Rot and Vampiric Draining to
+your library.
+Unknown command.
+Unknown command.
+Welcome back, Pyinur the Gargoyle Earth Elementalist.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####
+#...#
+#.@.+
+#...+
+#...#
+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Pyinur the Gargoyle Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Reached * piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Grimoire of Evil Arts
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached ** piety under Kikubaaqudgha
+     1 | D:1      | Quit the game
+

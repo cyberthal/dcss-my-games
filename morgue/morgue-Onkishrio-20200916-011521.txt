@@ -1,0 +1,308 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8971314444071680429
+
+856 Onkishrio the Skirmisher (level 8, 61/71 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 15, 2020.
+             Quit the game on level 5 of the Dungeon on Sept 16, 2020.
+             The game lasted 00:52:52 (6424 turns).
+
+Onkishrio the Skirmisher (Ghoul Monk)               Turns: 6424, Time: 00:52:53
+
+Health: 61/71      AC:  5    Str: 15    XL:     8   Next: 2%
+Magic:  7/7        EV: 26    Int:  5    God:    No God 0 (0)
+Gold:   256        SH:  0    Dex: 13    Spells: 5/7 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hunting sling
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   f - +0 ring mail
+rPois    ?          Spirit   +   (no helmet)
+rElec    .         Reflect  .   M - scarf {Spirit}
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             D - amulet of the acrobat
+HPRegen  0.21/turn              v - ring of resist corrosion
+MPRegen  0.10/turn              (no ring)
+
+@: acrobat, rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 5 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 256 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +4 dagger of venom
+ i - a +1 short sword of speed
+ m - a +0 halberd
+ t - a +0 spear
+ C - a +1 long sword of holy wrath
+ E - a +4 flail of crushing
+ G - a +0 flail of draining
+ K - a +0 longbow
+ L - the +2 whip "Zistuvev" {slash, rPois rC++ MP+9 Dex-4}
+   (You found it on level 5 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your dexterity (-4).
+   It greatly protects you from cold.
+   It protects you from poison.
+   It affects your magic capacity (+9).
+Missiles
+ d - 193 stones
+ s - 64 bolts
+ H - 9 sling bullets (quivered)
+ I - 2 throwing nets {!f}
+ N - 27 arrows
+Armour
+ f - a +0 ring mail (worn)
+ p - a +0 robe
+ x - a +0 leather armour
+ M - a scarf of spirit shield (worn)
+Magical Staves
+ u - an uncursed staff of poison
+Jewellery
+ v - a ring of resist corrosion (left claw)
+ A - an uncursed ring of fire
+ D - an amulet of the acrobat (around neck)
+Wands
+ o - a wand of digging (5)
+Scrolls
+ c - 2 scrolls of remove curse
+ e - a scroll of magic mapping
+ n - a scroll of amnesia
+ q - a scroll of fear
+ w - a scroll of immolation
+ y - 2 scrolls of enchant armour
+ z - a scroll of random uselessness
+ B - a scroll of fog
+Potions
+ j - a potion of cancellation
+ k - a potion of haste
+ l - a potion of mutation
+ r - a potion of brilliance
+ F - a potion of might
+ J - 2 potions of magic
+Comestibles
+ h - 7 rations
+
+
+   Skills:
+ + Level 6.4 Fighting
+ - Level 2.0 Short Blades
+ - Level 2.0(2.1) Slings
+ * Level 0.0 Bows
+ - Level 1.0(1.6) Throwing
+ - Level 2.6 Dodging
+ - Level 3.0 Stealth
+ - Level 6.2 Unarmed Combat
+ - Level 2.3 Summonings
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Call Imp              Summ           2 (100)      54%         2    100
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Small Mammal      Summ           2 (25)       38%         1    50
+ Call Canine Familiar     Summ           2 (100)      77%         3    150
+ Summon Guardian Golem    Hex/Summ       1 (100)      90%         3    150
+ Summon Ice Beast         Ice/Summ       1 (100)      100%        4    250
+ Summon Lightning Spire   Summ/Air       1 (100)      100%        4    250
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+You are engulfed in freezing vapours. You resist.
+You are engulfed in freezing vapours. You resist.
+You are engulfed in freezing vapours. You resist.
+You are engulfed in freezing vapours. You resist.
+You see here an ichor-stained leather armour.
+You see here a ration.
+Enter note: studied the interesting ice cloud vault and took notes.  cracked
+it.  
+Enter Wizard Command (? - help): 
+You feel a rush of knowledge.
+Enter Wizard Command (? - help): 
+Super healing.
+Really walk into that cloud of freezing vapour? 
+You are engulfed in freezing vapours. You resist.
+You see here the +4 leather armour "Mouw" {*Corrode rElec Str-2 Slay+4}.
+Press: ? - help, v - describe, . - travel, g - get item
+The +4 leather armour "Mouw" {*Corrode rElec Str-2 Slay+4}.
+The floor.
+There is a cloud of freezing vapour here.
+You see here a ration.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#####.##  #.#....).#.#0#.##.#        #.....#
+    #.#   #.##.#####.#0#.##.######   #.....#
+#####.##  #.##.....#.#.#0##......#   #....>.
+#......#  #.######.#.#.#0##......#   #.....#
+#......#  #)######.#.#.#0##......#   #......
+#......#  #........#.#.#0##......#   #......
+#......#############.#0#0##.######   #####..
+#....................#0#.##.#######      #..
+#......###############0#.##.......#      #..
+#......#            ##0#.#####....#      #..
+#......#            ##0#.#####....#      #..
+#......#            ##0#.#........#      #..
+########            ##0#.#.#####.##      #..
+                    ##@#.#.#   #.#       #.#
+                    ##(#.#.#   #.#       #.#
+                    ##[#.'.#   #.#       #.#
+                    ##$#.###   #.#       #.#
+                    #######    #.#       #.#
+                    #######    #.#       #.#
+                               #.#       #.#
+                               #.# #######.#
+                               #.# #........
+                               #.# #.#####.#
+                               #.# #.#   #.#
+                               #.###.#####.#
+                               #.........#.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Edmund (D:5)
+  A phantom (D:4)
+  An ice beast (D:5)
+  An ogre (D:4)
+  A centaur (D:5)
+  A bullfrog zombie (D:5)
+  An orc priest (D:3)
+  2 hounds
+  An iguana (D:4)
+  An orc wizard (D:3)
+  A worker ant (D:4)
+  A worker ant zombie (D:5)
+  4 adders
+  6 gnolls
+  3 shadow imps (D:5)
+  An ooze (D:5)
+  A worm (D:4)
+  3 dart slugs
+  2 leopard geckos (D:4)
+  3 orcs
+  4 bats
+  A giant cockroach (D:1)
+  7 goblins
+  6 hobgoblins
+  2 jackals (D:2)
+  10 kobolds
+  A quokka (D:5)
+  2 ball pythons (D:3)
+  6 frilled lizards
+  A leopard gecko skeleton (D:5)
+  9 rats
+85 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Onkishrio the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   245 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   807 | D:1      | Reached skill level 1 in Throwing
+   807 | D:1      | Reached XP level 3. HP: 26/31 MP: 2/2
+   916 | D:2      | Reached skill level 1 in Short Blades
+  2398 | D:3      | Reached XP level 4. HP: 37/40 MP: 3/3
+  3304 | D:3      | Entered wizard mode.
+  3314 | D:4      | Noticed a phantom
+  3339 | D:4      | Killed a phantom
+  3339 | D:4      | Reached skill level 5 in Fighting
+  3339 | D:4      | Reached skill level 5 in Unarmed Combat
+  3339 | D:4      | Reached XP level 5. HP: 41/48 MP: 4/4
+  3438 | D:3      | Reached XP level 6. HP: 47/56 MP: 5/5
+  3994 | D:4      | Learned a level 2 spell: Call Imp
+  4102 | D:4      | Reached skill level 1 in Summonings
+  4370 | D:5      | Entered Level 5 of the Dungeon
+  4391 | D:4      | Reached XP level 7. HP: 50/63 MP: 6/6
+  4589 | D:5      | Noticed Edmund
+  4611 | D:5      | Killed Edmund
+  5288 | D:5      | Got a faintly glowing whip
+  5459 | D:5      | Reached XP level 8. HP: 57/68 MP: 4/7
+  5622 | D:5      | HP: 3/71 [something (7)]
+  5623 | D:5      | Engulfed by a cloud of freezing vapour (11 damage)
+  5625 | D:5      | died challenging the freezing clouds treasure vault.
+                  | foolish.
+  5625 | D:5      | curiosity killed the cat.
+  6007 | D:5      | Engulfed by a cloud of freezing vapour (11 damage)
+  6045 | D:5      | HP: 3/70 [something (7)]
+  6422 | D:5      | studied the interesting ice cloud vault and took notes.
+                  | cracked it.
+  6422 | D:5      | Identified the +2 whip "Zistuvev" {slash, rPois rC++ MP+9
+                  | Dex-4} (You found it on level 5 of the Dungeon)
+  6422 | D:5      | Identified the +4 leather armour "Mouw" {*Corrode rElec
+                  | Str-2 Slay+4} (You found it on level 5 of the Dungeon)
+  6424 | D:5      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Throwing       |     1                |  1.0
+Short Blades   |        1        2    |  2.0
+Fighting       |        4  5     6    |  6.4
+Unarmed Combat |        4  5        6 |  6.2
+Stealth        |                 3    |  3.0
+Summonings     |                 1  2 |  2.3
+Slings         |                    2 |  2.0
+Dodging        |                      |  2.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    33 |  4028 |  4035 ||  8096
+       Dagger            |    70 |    74 |  4021 ||  4165
+       Punch             |     1 |   204 |   219 ||   424
+       Short sword       |       |  4000 |       ||  4000
+ Fire: Hunting sling     |       |       |    29 ||    29
+Throw: Stone             |   114 |    64 |       ||   178
+ Cast: Call Imp          |       |       |     4 ||     4
+  Use: Scroll            |     1 |       |     9 ||    10
+       Potion            |       |       |     2 ||     2
+ Stab: Sleeping          |       |     1 |       ||     1
+  Eat: Chunk             |     4 |    10 |     8 ||    22
+       Ration            |     1 |       |       ||     1
+Armor: Robe              |     3 |       |       ||     3
+       Ring mail         |    31 |   859 |   882 ||  1772
+Dodge: Dodged            |    39 |  3756 |  3718 ||  7513
+

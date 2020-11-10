@@ -1,0 +1,618 @@
+Liorutuy
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(13, 1, D:1)
+  a spear
+(21, 4, D:1)
+  a +0 short sword
+(22, 3, D:1)
+  a +0 short sword
+(27, -3, D:1)
+  a +0 club
+(27, 14, D:1)
+  a club
+(31, -3, D:1)
+  a +0 club
+(33, -10, D:1)
+  a +0 club
+(35, -3, D:1)
+  a +0 club
+(38, 5, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 32, D:2)
+  a short sword
+(1, 7, D:2)
+  a cursed -1 dagger
+(1, 28, D:2)
+  a +0 club
+(3, 9, D:2)
+  a +0 club
+  a +0 club
+(15, 9, D:2)
+  a +0 ring mail
+  a +0 mace
+(16, 37, D:2)
+  a +0 club
+(18, 35, D:2)
+  a chain mail
+(38, 48, D:2)
+  a +0 giant club
+(39, 20, D:2)
+  a chain mail
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 short sword
+(16, -20, D:3)
+  a plate armour
+(28, -28, D:3)
+  a +0 club
+(29, 12, D:3)
+  a +0 dagger
+(31, 17, D:3)
+  a cloak
+(39, 11, D:3)
+  a +0 dagger
+(46, -28, D:3)
+  a short sword
+(49, -10, D:3)
+  a +0 club
+(50, -25, D:3)
+  a leather armour
+(51, -12, D:3)
+  a +0 club
+  a +0 club
+(52, -13, D:3)
+  a +0 dagger
+(53, -14, D:3)
+  a cursed -2 dagger
+  a +0 animal skin
+  a +0 club
+(54, -15, D:3)
+  a +0 dagger
+  a +0 robe
+(56, -13, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 falchion
+(10, 36, D:4)
+  a robe
+(14, 38, D:4)
+  a leather armour
+(15, -1, D:4)
+  a spear
+(30, 32, D:4)
+  a potion of degeneration
+(34, 27, D:4)
+  a +0 hand axe
+  a cursed -2 ring of protection
+  a +1 chain mail of cold resistance
+(37, 7, D:4)
+  a hand axe
+(40, 21, D:4)
+  a +0 short sword
+(41, 21, D:4)
+  a +0 plate armour
+(42, 29, D:4)
+  a +0 robe
+  a +0 dagger
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 giant spiked club
+(7, -1, D:5)
+  a +0 plate armour
+  a +0 short sword
+(7, 11, D:5)
+  a +0 cloak
+  a +0 robe
+(10, 11, D:5)
+  a flail
+(11, -19, D:5)
+  a +0 plate armour
+  a cursed +0 long sword
+(13, -17, D:5)
+  a +0 hand axe
+(16, -12, D:5)
+  a +0 giant club
+(17, -14, D:5)
+  a +0 chain mail
+  a +0 flail
+(17, -13, D:5)
+  a +0 shortbow
+(20, -21, D:5)
+  a leather armour
+(32, -9, D:5)
+  a +0 robe
+  a +0 dagger
+(34, 11, D:5)
+  a +0 robe
+(35, 7, D:5)
+  a robe
+(43, 2, D:5)
+  a +0 leather armour
+(50, -10, D:5)
+  a trident
+
+Level 6 of the Dungeon
+(1, -12, D:6)
+  a +0 short sword
+(11, 15, D:6)
+  a +0 robe
+  a +0 dagger
+(12, 16, D:6)
+  a robe
+(15, 4, D:6)
+  a +0 robe
+  a +0 dagger
+(16, 16, D:6)
+  a plate armour
+(20, 8, D:6)
+  a cursed -2 club
+  a cursed +0 ring mail
+(24, -1, D:6)
+  a +0 giant club
+(24, 6, D:6)
+  a +0 leather armour
+  a +0 whip
+(35, 20, D:6)
+  a +0 leather armour
+  a +0 trident
+  a +0 leather armour
+(37, 20, D:6)
+  a hand axe
+(39, 22, D:6)
+  a +0 falchion
+(39, 27, D:6)
+  a +0 shortbow
+(40, -9, D:6)
+  a +0 flail
+(42, 28, D:6)
+  a +0 dagger
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a ring mail
+(3, -30, D:7)
+  a +0 spear
+(4, -30, D:7)
+  a +0 whip
+(8, -23, D:7)
+  a +0 giant spiked club
+(14, -3, D:7)
+  a +0 scythe
+(17, -19, D:7)
+  a pair of boots
+(17, -18, D:7)
+  a +0 mace
+(19, 21, D:7)
+  a +0 giant club
+  a +0 giant club
+(21, 10, D:7)
+  a +0 whip
+(22, 9, D:7)
+  a +0 club
+(24, -22, D:7)
+  a +0 club
+  a +0 giant club
+(36, -25, D:7)
+  a +0 giant spiked club
+(41, 2, D:7)
+  a whip
+(41, 4, D:7)
+  a +0 giant spiked club
+  a +0 giant club
+(43, 5, D:7)
+  a cursed -1 giant club
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 hand axe
+(10, -8, D:8)
+  a ring mail
+(13, -14, D:8)
+  a +0 spear
+(15, -10, D:8)
+  a +0 mace
+(16, -11, D:8)
+  a +0 leather armour
+  a +0 trident
+(17, -3, D:8)
+  a +0 buckler
+(17, -2, D:8)
+  a +2 helmet
+  a +1 hat
+  a +2 hat
+(30, -15, D:8)
+  a +0 whip
+(33, -17, D:8)
+  a +0 hand axe
+(36, -16, D:8)
+  a +0 robe
+  a +0 club
+(36, -14, D:8)
+  a +0 leather armour
+(37, -12, D:8)
+  a +0 trident
+(41, -16, D:8)
+  a +0 falchion
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a long sword
+(1, -40, D:9)
+  a +0 flail
+(1, -36, D:9)
+  a +0 halberd
+(2, -37, D:9)
+  a +0 club
+(3, -38, D:9)
+  a +0 whip
+(9, -51, D:9)
+  a +0 shortbow
+(12, -45, D:9)
+  a cursed +0 long sword
+(14, -45, D:9)
+  a +0 club
+(19, -36, D:9)
+  a hand axe
+(20, -24, D:9)
+  a +0 giant spiked club
+  a +0 giant club
+(20, -23, D:9)
+  a +0 chain mail
+  a +0 halberd
+(24, -12, D:9)
+  a +0 robe
+(25, -52, D:9)
+  a +0 club
+(25, -37, D:9)
+  a +0 trident
+  a cursed +0 robe
+  a +0 dagger
+  a +0 ring mail
+  a +0 robe
+  a +0 dagger
+(25, -36, D:9)
+  a +0 leather armour
+  a +0 flail
+(26, -20, D:9)
+  a +0 dagger
+(26, -18, D:9)
+  a +0 dagger
+  a +0 robe
+(27, 0, D:9)
+  a +0 dagger
+(28, -20, D:9)
+  a +0 robe
+  a +0 dagger
+(28, -19, D:9)
+  a +0 chain mail
+  a +0 broad axe
+(28, -8, D:9)
+  a +0 long sword
+(30, 0, D:9)
+  a +0 hand axe
+  a +0 robe
+  a +0 dagger
+  a +0 robe
+(33, -2, D:9)
+  a +0 robe
+  a +0 dagger
+(34, -1, D:9)
+  a +0 robe
+(35, -42, D:9)
+  a +0 plate armour
+(35, -8, D:9)
+  a +0 war axe
+(36, 0, D:9)
+  a +0 flail
+(37, -7, D:9)
+  a +0 robe
+  a +0 dagger
+(39, -23, D:9)
+  a +0 leather armour
+  a cursed -3 mace
+(43, -6, D:9)
+  a robe
+(47, -27, D:9)
+  a +0 flail
+  a +0 plate armour
+  a +0 scimitar
+(47, -26, D:9)
+  a +0 scale mail
+  a +0 club
+(47, -23, D:9)
+  a dagger
+(49, -37, D:9)
+  a +0 dagger
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 robe
+  a cursed +0 war axe
+(1, -12, D:10)
+  a +0 scale mail
+  a +0 shortbow
+  a cursed +5 great sword
+(2, 1, D:10)
+  a +0 rapier
+  a +0 scale mail
+(8, 8, D:10)
+  a blowgun
+(9, -5, D:10)
+  a hand axe
+(14, -2, D:10)
+  a +0 shortbow
+(15, -2, D:10)
+  a cursed -1 long sword
+(15, 22, D:10)
+  a falchion
+(19, 13, D:10)
+  a +0 giant club
+  a +0 dire flail
+(20, -4, D:10)
+  a whip
+(20, 13, D:10)
+  a +0 dagger
+(21, 14, D:10)
+  a robe
+(27, -5, D:10)
+  a leather armour
+(28, -7, D:10)
+  a glowing flail
+  a glowing flail
+  a glowing flail
+(28, -6, D:10)
+  a +0 war axe
+  a +2 dagger of venom
+  116 bolts
+  3 tomahawks of returning
+  86 sling bullets
+  a +2 whip of freezing
+  a +2 dagger
+  a +2 mace of protection
+  a +2 flail of protection
+  a +2 dagger of speed
+(28, -5, D:10)
+  a +0 hunting sling
+(29, -6, D:10)
+  a +0 shortbow of flaming
+  a +2 great mace of holy wrath
+  a +0 quarterstaff of freezing
+(29, 3, D:10)
+  a robe
+(30, -7, D:10)
+  5 scrolls of identify
+(30, -6, D:10)
+  a wand of digging (5)
+  an uncursed ring of protection from fire
+  2 scrolls of immolation
+  4 scrolls of amnesia
+  4 scrolls of noise
+  a potion of mutation
+  2 potions of flight
+  2 potions of magic
+  a potion of cancellation
+  a crystal ball of energy
+  a wand of enslavement (3)
+(34, -23, D:10)
+  a plate armour
+(38, 21, D:10)
+  a +0 leather armour
+  a +0 great sword
+(44, -6, D:10)
+  the +1 helmet of Melancholy {rN+ Str+4 Int-2}
+    It affects your strength (+4).
+    It affects your intelligence (-2).
+    It protects you from negative energy.
+(53, -15, D:10)
+  a war axe
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 giant club
+(2, 8, D:11)
+  a +0 giant spiked club
+  a +0 giant club
+(2, 11, D:11)
+  a +0 shortbow
+(3, 19, D:11)
+  a +0 plate armour
+  a +0 war axe
+(4, 19, D:11)
+  a +0 leather armour
+  (unseen)
+(5, 9, D:11)
+  a +0 club
+  (unseen)
+(6, 6, D:11)
+  a +0 flail
+(7, 6, D:11)
+  a +0 dagger
+(7, 26, D:11)
+  a +0 flail
+(10, 18, D:11)
+  a +0 leather armour
+  a +0 war axe
+(11, 8, D:11)
+  a great mace
+(12, 24, D:11)
+  a +0 plate armour
+  a +0 battleaxe
+(17, 7, D:11)
+  a +0 longbow
+(20, 4, D:11)
+  a shortbow
+(20, 16, D:11)
+  a +0 dagger
+(20, 22, D:11)
+  a +0 shortbow
+  a +0 robe
+(20, 28, D:11)
+  a falchion
+(21, 10, D:11)
+  a lamp of fire
+(21, 20, D:11)
+  a +0 giant spiked club
+(22, 7, D:11)
+  a leather armour
+(23, 6, D:11)
+  a leather armour
+(26, -2, D:11)
+  a +0 chain mail
+  a +0 mace
+(26, 23, D:11)
+  a +0 dire flail
+  a +0 giant club
+(29, -8, D:11)
+  a +0 chain mail
+(30, -2, D:11)
+  a +0 leather armour
+  a +0 hand axe
+(31, 25, D:11)
+  a potion of degeneration
+(34, 32, D:11)
+  a +0 robe
+  a +0 hand axe
+(34, 38, D:11)
+  a -2 ring of intelligence
+(35, 16, D:11)
+  a +0 leather armour
+  a +0 short sword
+(35, 38, D:11)
+  a +0 plate armour
+  a +0 battleaxe
+(35, 39, D:11)
+  a +0 chain mail
+  a cursed +0 dagger
+(36, 33, D:11)
+  a +0 robe
+  a cursed +0 hand axe
+(38, 33, D:11)
+  a +0 robe
+  a +0 halberd
+(38, 34, D:11)
+  a +0 robe
+(39, 0, D:11)
+  a +0 robe
+(41, -5, D:11)
+  a +0 whip
+(43, -7, D:11)
+  a +0 leather armour
+  a +0 club
+(45, -7, D:11)
+  a +0 flail
+(56, 33, D:11)
+  a club
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  16 gold pieces
+(3, -5, Orc:1)
+  21 gold pieces
+(3, -2, Orc:1)
+  15 gold pieces
+(4, -2, Orc:1)
+  an arrow
+  (unseen)
+(5, -5, Orc:1)
+  29 gold pieces
+(7, -4, Orc:1)
+  an arrow
+(7, 0, Orc:1)
+  34 gold pieces
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a blowgun
+(5, 25, Lair:1)
+  a war axe
+(34, 33, Lair:1)
+  a quarterstaff
+
+Level 2 of the Lair of Beasts
+(1, 12, Lair:2)
+  a +0 buckler
+  a +0 robe
+  a +0 dagger
+(6, 11, Lair:2)
+  a leather armour
+(15, 15, Lair:2)
+  a +1 robe of cold resistance
+(25, 26, Lair:2)
+  a robe
+(30, 17, Lair:2)
+  a +0 robe
+  a +0 dagger
+(39, 40, Lair:2)
+  a shield
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a hand crossbow
+(5, 24, Lair:3)
+  a +0 chain mail
+(26, 22, Lair:3)
+  a +0 blowgun
+(30, 14, Lair:3)
+  a ring mail
+(30, 23, Lair:3)
+  a morningstar
+(48, 3, Lair:3)
+  a falchion
+(49, 57, Lair:3)
+  a scroll of noise
+(61, -2, Lair:3)
+  a leather armour
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  an inedible chunk of flesh
+(2, -5, Lair:4)
+  2 inedible chunks of flesh
+(2, 12, Lair:4)
+  a scale mail
+(2, 21, Lair:4)
+  an arrow
+(3, -6, Lair:4)
+  an arrow
+(3, 20, Lair:4)
+  an arrow
+(4, -6, Lair:4)
+  an arrow
+(4, 19, Lair:4)
+  2 arrows
+(15, 25, Lair:4)
+  a whip
+(16, -10, Lair:4)
+  a ring mail
+(16, 3, Lair:4)
+  33 stones
+(17, 2, Lair:4)
+  an inedible chunk of flesh
+(17, 3, Lair:4)
+  a scroll of enchant armour
+(17, 4, Lair:4)
+  a triangular diamond amulet
+(21, 5, Lair:4)
+  a chain mail
+(26, 5, Lair:4)
+  a knobbly golden ring
+(27, 13, Lair:4)
+  an arrow
+(27, 27, Lair:4)
+  an arrow
+(27, 28, Lair:4)
+  an arrow
+(33, 8, Lair:4)
+  an arrow
+

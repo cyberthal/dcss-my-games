@@ -1,0 +1,102 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17372092379596062248
+
+0 Jiothit the Poker (level 1, 19/19 HPs)
+             Began as a Minotaur Berserker on Nov 7, 2020.
+             Was a Follower of Trog.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:32 (0 turns).
+
+Jiothit the Poker (Minotaur Berserker)                 Turns: 0, Time: 00:00:33
+
+Health: 19/19      AC:  2    Str: 21    XL:     1   Next: 0%
+Magic:  0/0        EV: 12    Int:  4    God:    Trog [*.....]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 spear
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 animal skin
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: retaliatory headbutt, horns 2
+a: Berserk, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Trog.
+Trog was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 animal skin (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 3.6 Polearms
+ + Level 2.4 Armour
+ + Level 2.1 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+Welcome, Jiothit the Minotaur Berserker.
+It is said that the Orb of Zot exists deep within this dungeon.
+Trog says: Kill them all!
+Press ? for a list of commands and other information.
+Found 13 gold pieces.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##+##
+#..$#
+#.@.+
+#...#
+#####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jiothit the Minotaur Berserker began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Quit the game
+

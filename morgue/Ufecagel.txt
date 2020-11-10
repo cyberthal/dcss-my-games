@@ -1,0 +1,417 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16497874535682562000
+
+Ufecagel the Devout (Human Gladiator)              Turns: 14630, Time: 02:38:57
+
+Health: 84/84      AC: 14    Str: 15    XL:     11   Next: 35%
+Magic:  17/17      EV:  9    Int:  8    God:    Zin [***...]
+Gold:   355        SH:  0    Dex: 18    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   b - +6 quarterstaff (protect)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   E - +0 shadow dragon scales
+rPois    +         Spirit   .   u - +0 helmet
+rElec    .         Reflect  .   Q - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++......             W - amulet of the acrobat
+HPRegen  0.24/turn              Z - ring of poison resistance
+MPRegen  0.15/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Recite, Vitalisation, Imprison, Donate Gold, Renounce Religion
+
+
+You are on level 9 of the Dungeon.
+You worship Zin.
+Zin is most pleased with you.
+You are near starving.
+
+You have visited 2 branches of the dungeon, and seen 10 of its levels.
+You have also visited: Ossuary.
+
+You have collected 520 gold pieces.
+You have donated 165 gold pieces to Zin.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 shortbow of freezing
+ b - a +6 quarterstaff of protection (weapon)
+ c - a +2 dagger of venom
+ d - a +2 scimitar of flaming
+ e - a +2 morningstar of holy wrath
+ f - a +1 hand axe of chopping
+ g - a +2 trident of freezing
+ h - a +0 blowgun
+ i - a +1 hunting sling of velocity
+Missiles
+ k - 159 arrows
+ o - 61 sling bullets
+ p - 38 poisoned needles
+ q - 8 throwing nets {!f}
+ s - 327 stones
+ v - 3 javelins of penetration (quivered) {!f}
+ w - 12 tomahawks
+ G - 3 javelins
+Armour
+ l - a +1 chain mail of magic resistance
+ n - a +4 ring mail
+ u - a +0 helmet (worn)
+ E - +0 shadow dragon scales (worn)
+ Q - a +0 cloak (worn)
+Magical Staves
+ J - an uncursed staff of power
+ P - an uncursed staff of air
+Jewellery
+ W - an amulet of the acrobat (around neck)
+ Z - a ring of poison resistance (left hand)
+Wands
+ I - a wand of flame (41)
+ M - a wand of acid (8)
+Scrolls
+ j - 6 scrolls of remove curse
+ y - 3 scrolls of immolation
+ z - 3 scrolls of teleportation
+ C - 5 scrolls of fear
+Potions
+ m - a potion of magic
+ r - 3 potions of flight
+ t - 2 potions of lignification
+ A - 5 potions of curing
+ B - 3 potions of heal wounds
+ D - 2 potions of brilliance
+ F - 5 potions of might
+ K - a potion of resistance
+Comestibles
+ O - 8 rations
+
+
+   Skills:
+ - Level 7.1 Fighting
+ + Level 0.5(1.4) Short Blades
+ - Level 2.0(2.1) Long Blades
+ + Level 0.0(4.5) Axes
+ - Level 3.0(3.7) Maces & Flails
+ - Level 6.7(7.0) Polearms
+ - Level 3.1(5.7) Staves
+ - Level 3.4(4.1) Slings
+ - Level 3.0 Bows
+ - Level 3.3(4.1) Throwing
+ - Level 4.1 Armour
+ * Level 4.8 Dodging
+ - Level 3.3 Stealth
+ - Level 9.0 Invocations
+ - Level 5.0 Evocations
+
+
+You have 10 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          100%        1    ##.....
+ Pain                     Necr           #...         100%        1    ##.....
+ Regeneration             Chrm/Necr      #.........   100%        3    ####...
+ Vampiric Draining        Necr           #.........   100%        3    ####...
+ Animate Dead             Necr           N/A          100%        4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:4             Orc (0/2) D:9
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Message History
+
+Things that are here:
+a +0 ring mail; a cursed +0 leather armour; a +0 war axe
+There is an open door here.
+Things that are here:
+a +0 leather armour; a cursed -1 club
+You see here a +0 trident.
+Things that are here:
+a +0 trident; a +0 leather armour; a +0 dagger
+There is an open door here.
+You see here a +0 short sword.
+You see here a +0 flail.
+There is a staircase to the Orcish Mines here.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Your +2 shortbow of freezing stops glowing.
+Your +6 quarterstaff of protection hums with potential!
+b - a +6 quarterstaff of protection (weapon)
+Okay, then.
+Unknown command.
+
+.....................###########............
+.##'#######.....######         #[.#####.....
+.#........#.....#              #..#   #.....
+.#........#.....#              #..#   #.....
+.#......###.....#              #.)#   #.....
+.#......#.......#              #..#####.....
+.#.<....#.......#              #............
+.#......#.......#####   #####  #............
+.#......#.......#...#   #...#  #......#####.
+.#......#.......#.8.#   #.8.#  #..#####..>#.
+.#......#.....###...## ##...#  #..#.......#.
+.########.....# ####'###'####  #..#.......#.
+..............###  ##...##     #..#.......#.
+................#   #.@.#      #..'.......#.
+................#  ##..)##     #[[')....###.
+................####'###)####  #.[#######...
+..........###...#...## ##)).####))..........
+..........# #...#.8.#   #.8.[.##>...........
+..........# #...#...#   #...#.[)[...........
+..###########...##.#######)##...............
+..#     #.......#...')....[)................
+..#     #.#####.#...#...................[...
+..#     #.#   #.#...#................._..#+#
+..#    ##.##  #.#...#....#####'##...........
+..######...######...#..###......#...........
+..##...##.##...######..#........#...).......
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Harold (D:7)
+  Erica (D:8)
+  Pikel (D:7)
+  Joseph (D:7)
+  A hornet (D:9)
+  Grinder (D:5)
+  2 hippogriffs
+  Sigmund (D:3)
+  A hungry ghost (D:9)
+  A water moccasin (D:5)
+  2 sky beasts
+  A slave (D:7)
+  2 orc warriors
+  An ice beast (D:7)
+  A black bear (D:9)
+  2 phantoms
+  3 ogres
+  4 centaurs
+  7 bullfrogs
+  A big kobold (D:7)
+  A wyvern skeleton (D:8)
+  3 scorpions
+  5 killer bees (D:8)
+  3 wights (D:9)
+  4 howler monkeys
+  2 bullfrog zombies
+  4 crimson imps
+  A centaur skeleton (D:4)
+  A quasit (D:5)
+  2 centaur zombies
+  2 hounds
+  A human zombie (Ossuary)
+  3 iguanas
+  2 orc priests (D:8)
+  5 orc wizards
+  Crazy Yiuf (D:6)
+  A bullfrog skeleton (D:4)
+  Terence (D:2)
+  7 worker ants
+  3 big kobold zombies (Ossuary)
+  2 hound zombies
+  4 mummies
+  A worker ant zombie (D:7)
+  Robin (D:2)
+  9 adders
+  6 gnolls
+  2 howler monkey skeletons
+  3 shadow imps
+  An ooze (D:4)
+  6 adder zombies
+  An adder skeleton (D:4)
+  3 worms
+  4 dart slugs
+  5 leopard geckos
+  47 orcs
+  6 bats
+  9 giant cockroaches
+  2 gnoll zombies (Ossuary)
+  9 hobgoblins
+  9 jackals
+  10 kobolds
+  5 quokkas
+  A ball python (D:1)
+  4 frilled lizards
+  8 goblins
+  5 goblin zombies (Ossuary)
+  3 hobgoblin zombies (Ossuary)
+  2 jackal zombies (Ossuary)
+  4 kobold zombies (Ossuary)
+  2 leopard gecko skeletons
+  2 orc zombies (Ossuary)
+  8 quokka zombies (Ossuary)
+  3 rats
+274 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 slaves (D:7)
+2 creatures vanquished.
+
+Grand Total: 276 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ufecagel the Human Gladiator began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 1/1
+   154 | D:1      | Reached skill level 1 in Stealth
+   280 | D:1      | Reached XP level 2. HP: 22/22 MP: 2/2
+   762 | D:1      | AC7 EV10 at armor SL0
+   862 | D:1      | AC6 EV12 in ringmail
+   919 | D:2      | Reached XP level 3. HP: 28/28 MP: 3/3
+  1298 | D:2      | Noticed Terence
+  1336 | D:2      | Killed Terence
+  1336 | D:2      | Reached skill level 1 in Slings
+  1336 | D:2      | Reached skill level 1 in Armour
+  1336 | D:2      | Reached XP level 4. HP: 34/34 MP: 4/4
+  1757 | D:2      | Noticed Robin
+  1772 | D:2      | Killed Robin
+  2361 | D:3      | Reached skill level 1 in Polearms
+  2426 | D:3      | Reached XP level 5. HP: 41/41 MP: 5/5
+  2474 | D:3      | Found a hide-covered altar of Uskayaw.
+  2716 | D:2      | Entered wizard mode.
+  2930 | D:2      | tested armor skills and enc vs fsim
+  3122 | D:3      | Noticed Sigmund
+  3152 | D:3      | Killed Sigmund
+  3152 | D:3      | Reached XP level 6. HP: 40/47 MP: 6/6
+  4274 | D:4      | Found a staircase to the Ecumenical Temple.
+  4317 | D:4      | Reached XP level 7. HP: 52/52 MP: 7/7
+  4399 | Temple   | Entered the Ecumenical Temple
+  4516 | Temple   | Became a worshipper of Zin the Law-Giver
+  4516 | Temple   | Reached * piety under Zin
+  4517 | Temple   | Donated 113 gold pieces to Zin
+  4578 | D:4      | Reached skill level 1 in Invocations
+  4829 | D:4      | Reached skill level 2 in Invocations
+  4903 | D:3      | Reached skill level 3 in Invocations
+  5188 | D:4      | Reached skill level 4 in Invocations
+  5513 | D:5      | Entered Level 5 of the Dungeon
+  5549 | D:5      | Noticed a water moccasin
+  5555 | D:4      | Reached XP level 8. HP: 35/60 MP: 11/11
+  6888 | D:5      | Reached skill level 1 in Bows
+  7183 | D:5      | Reached ** piety under Zin
+  7273 | D:5      | Reached skill level 5 in Invocations
+  7425 | D:5      | Noticed Grinder
+  7437 | D:5      | Killed Grinder
+  7437 | D:5      | Reached skill level 1 in Evocations
+  7872 | D:5      | Reached XP level 9. HP: 52/66 MP: 8/12
+  7952 | D:6      | Reached skill level 5 in Polearms
+  8070 | D:6      | Reached skill level 5 in Fighting
+  8125 | D:6      | Found the +8 demon trident "Rift" {distort, reach+}
+  8160 | D:6      | Found a runed translucent door.
+  8696 | D:6      | Noticed Crazy Yiuf
+  8741 | D:6      | Killed Crazy Yiuf
+  8889 | D:6      | Reached skill level 6 in Invocations
+  8977 | D:7      | Noticed Pikel
+  8992 | D:7      | Killed Pikel
+  9013 | D:7      | Reached *** piety under Zin
+  9032 | D:7      | Found a sand-covered staircase.
+  9046 | Ossuary  | Entered an ossuary
+  9356 | Ossuary  | Reached skill level 7 in Invocations
+  9385 | Ossuary  | Reached **** piety under Zin
+  9497 | Ossuary  | Reached XP level 10. HP: 76/76 MP: 15/15
+  9769 | D:7      | Noticed Harold
+  9808 | D:7      | Killed Harold
+  9808 | D:7      | Reached skill level 8 in Invocations
+ 10179 | D:7      | Noticed Joseph
+ 10301 | D:7      | Reached skill level 1 in Maces & Flails
+ 10516 | D:7      | Killed Joseph
+ 12131 | D:8      | Found an ornate altar of the Wu Jian Council.
+ 12161 | D:8      | Reached XP level 11. HP: 70/84 MP: 17/17
+ 12213 | D:8      | Noticed Erica
+ 12627 | D:8      | Killed Erica
+ 13015 | D:9      | Reached skill level 5 in Evocations
+ 13028 | D:9      | Reached skill level 1 in Long Blades
+ 13392 | D:9      | Found a shimmering altar of Xom.
+ 13444 | D:9      | Reached skill level 9 in Invocations
+ 13993 | D:9      | Found a staircase to the Orcish Mines.
+ 14182 | D:9      | Found a snail-covered altar of Cheibriados.
+ 14185 | D:9      | Found a sacrificial altar of Ru.
+ 14197 | D:9      | Found a hazy altar of Hepliaklqana.
+ 14200 | D:9      | Found an iron altar of Okawaru.
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  1           3                   |  3.3
+Slings         |        1              2     3    |  3.4
+Armour         |        1  2           3        4 |  4.1
+Fighting       |           3           4  6  7    |  7.1
+Polearms       |           1  2  3  4     6       |  6.7
+Invocations    |                    4  5  7  8  9 |  9.0
+Bows           |                       2  3       |  3.0
+Evocations     |                       1  2  4  5 |  5.0
+Maces & Flails |                             1  3 |  3.0
+Dodging        |                             4    |  4.8
+Throwing       |                             3    |  3.3
+Long Blades    |                                2 |  2.0
+Short Blades   |                                  |  0.5
+Staves         |                                  |  3.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Quarterstaff      |    23 |       |    81 |   163 ||   267
+       Trident           |       | 56081 |   182 |   125 || 56388
+       Staff             |       |       |       |    31 ||    31
+ Fire: Hunting sling     |    27 |    75 |    96 |    32 ||   230
+       Shortbow          |       |       |   133 |   131 ||   264
+       Blowgun           |       |       |       |     6 ||     6
+Throw: Stone             |     4 |       |     1 |       ||     5
+       Throwing net      |     1 |     2 |       |     1 ||     4
+       Tomahawk          |       |       |       |     2 ||     2
+Invok: Recite            |       |       |    12 |    20 ||    32
+       Donate Gold       |       |       |     1 |       ||     1
+       Vitalisation      |       |       |     1 |     5 ||     6
+       Imprison          |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     2 |     3 ||     5
+  Use: Scroll            |     5 |     1 |     5 |     8 ||    19
+       Potion            |     1 |       |     5 |       ||     6
+ Stab: Distracted        |       |       |     1 |       ||     1
+       Sleeping          |       |       |     1 |     2 ||     3
+       Confused          |       |       |       |     4 ||     4
+       Paralysed         |       |       |       |     3 ||     3
+       Held in net/web   |       |       |       |     2 ||     2
+       Invisible         |       |       |       |     1 ||     1
+  Eat: Chunk             |     1 |     9 |     9 |     6 ||    25
+       Ration            |       |       |     2 |     4 ||     6
+Armor: Scale mail        |     2 |  1250 |     4 |       ||  1256
+       Ring mail         |     3 |  1583 |     3 |    19 ||  1608
+       Plate armour      |       |  6032 |       |       ||  6032
+       Chain mail        |       |  3605 |       |     4 ||  3609
+       Leather armour    |       |   624 |       |       ||   624
+       Shadow dragon sca |       |       |   113 |   142 ||   255
+Dodge: Dodged            |    12 | 21372 |    99 |   155 || 21638
+

@@ -1,0 +1,377 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1536360260551768919
+
+1229 Goafyx the Gusty (level 8, 58/58 HPs)
+             Began as a Gnoll Wanderer on Sept 6, 2020.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 00:48:53 (10087 turns).
+
+Goafyx the Gusty (Gnoll Wanderer)                  Turns: 10087, Time: 00:48:53
+
+Health: 58/58      AC: 10    Str: 16    XL:     8   Next: 48%
+Magic:  23/23      EV: 12    Int: 15    God:    
+Gold:   328        SH:  4    Dex: 15    Spells: 14/15 levels left
+
+rFire    . . .     SeeInvis .   a - +3 hunting sling (velocity)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   H - +2 ring mail {MR+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  +   F - +0 cloak
+rCorr    .         Harm     .   G - +0 pair of gloves
+MR       +....                  (no boots)
+Stlth    ++........             k - +4 amulet of reflection
+HPRegen  0.19/turn              j - ring of magical power
+MPRegen  0.18/turn              (no ring)
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 328 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 hunting sling of velocity (weapon)
+ b - a +4 hand axe
+ v - a +2 dagger of holy wrath
+ D - a +0 trident
+ J - a +1 dagger of freezing
+ L - a +0 halberd
+Missiles
+ e - 31 poisoned needles
+ i - 64 bolts
+ l - 5 needles of sleeping
+ m - 167 stones
+ s - 5 javelins
+ t - 39 sling bullets (quivered)
+ u - 6 needles of confusion
+ E - 45 arrows
+ M - a throwing net {!f}
+ O - 2 curare-tipped needles
+Armour
+ A - a +2 pair of gloves
+ F - a +0 cloak (worn)
+ G - a +0 pair of gloves (worn)
+ H - a +2 ring mail of magic resistance (worn)
+Jewellery
+ j - a ring of magical power (left hand)
+ k - a +4 amulet of reflection (around neck)
+ r - an uncursed ring of fire
+ I - an uncursed ring of fire
+Scrolls
+ g - 2 scrolls of remove curse
+ n - 2 scrolls of blinking
+ p - 2 scrolls of teleportation
+ q - a scroll of noise
+ w - a scroll of fog
+ y - a scroll of fear
+ C - 3 scrolls of amnesia
+ N - a scroll of immolation {unknown}
+ P - a scroll of random uselessness {unknown}
+Potions
+ c - a potion of might
+ h - a potion of brilliance
+ o - 3 potions of curing
+ x - a potion of cancellation
+ z - a potion of agility
+ B - 3 potions of heal wounds
+ K - a potion of resistance
+Miscellaneous
+ d - a phial of floods
+Comestibles
+ f - 5 rations
+ Q - 8 chunks of flesh
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 3.2 Short Blades
+ + Level 3.2 Long Blades
+ + Level 3.2 Axes
+ + Level 3.2 Maces & Flails
+ + Level 3.2 Polearms
+ + Level 3.2 Staves
+ + Level 3.2 Slings
+ + Level 3.2 Bows
+ + Level 3.2 Crossbows
+ + Level 3.2 Throwing
+ + Level 3.2 Armour
+ + Level 3.2 Dodging
+ + Level 3.2 Stealth
+ + Level 3.2 Shields
+ + Level 3.2 Unarmed Combat
+ + Level 4.3 Spellcasting
+ + Level 2.6 Conjurations
+ + Level 2.6 Hexes
+ + Level 2.6 Charms
+ + Level 6.1 Summonings
+ + Level 2.6 Necromancy
+ + Level 2.6 Translocations
+ + Level 2.6 Transmutations
+ + Level 2.6 Fire Magic
+ + Level 2.6 Ice Magic
+ + Level 7.6 Air Magic
+ + Level 2.6 Earth Magic
+ + Level 2.6 Poison Magic
+ + Level 3.5 Invocations
+ + Level 5.6 Evocations
+
+
+You had 14 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Apportation           Tloc           ##....       11%         1    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Gell's Gravitas          Tloc           ##........   32%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Kikubaaqudgha
+
+Shops:
+D:5 *
+
+Annotations:
+D:6 3 runed translucent doors, Petues's ghost, novice SpVM; Qoitotus's ghost,
+novice NaFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Items here: %%% )))
+a +0 hand axe; a +0 flail; a +0 giant spiked club; an orc skeleton x2; an ogre
+skeleton
+Eating one of 9 chunks of flesh. You eat one of the 9 chunks of flesh. This raw
+flesh tastes terrible.
+t - 37 sling bullets (gained 1)
+t - 38 sling bullets (gained 1)
+t - 39 sling bullets (gained 1)
+f - 5 rations (gained 1)
+Key pressed, stopping explore.
+Unknown command.
+Autopickup is now off.
+Found a scroll of identify.
+Autopickup is now on.
+R - a scroll of identify
+Autopickup is now off.
+As you read the scroll of identify, it crumbles to dust.
+y - a scroll of fear
+Autopickup is now on.
+Autopickup is now off.
+Key pressed, stopping explore.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+############.#         #...#    #.#
+.........##..#         #...#    #.#
+########.##.##         #...######.#
+#      #.##.#          ##.........#
+#      #.##.#           #.######..#
+####   #.##.#         ###.#    #.>#
+...#   #.##.#         #...#    #..#
+##.#####.##.#         #.#.#    #..#
+..........>.#         #.#.#  ###..#
+##.##########         #.#.#  #....#
+ #.#                  #.#.#  #.#.##
+ #.#                  #.#.# ##.#.#
+ #.#           ########.#.###....#
+ #.#           .......@.#.##..#..#
+ #.#           .........#....###.#
+##.######.     ########.####..#..#
+..........            #)#  ##..[##
+##..######            #.#   ##.##
+ #..#                 #.#    #.#
+##).#                 #.######.#
+....#######           #........#
+###........           ##########
+  #########
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  4 ogres
+  A phantom (D:6)
+  A scorpion (D:6)
+  2 bullfrog zombies
+  A crimson imp (D:4)
+  An orc priest (D:4)
+  A gnoll shaman (D:4)
+  A quasit (D:5)
+  2 hounds
+  2 jellies (D:5)
+  2 orc wizards
+  A bullfrog skeleton (D:5)
+  An iguana (D:4)
+  2 worker ants
+  A howler monkey skeleton (D:5)
+  9 gnolls
+  6 adders
+  2 oozes
+  An adder zombie (D:6)
+  3 worms
+  3 dart slugs
+  4 leopard geckos
+  16 orcs
+  10 bats
+  3 giant cockroaches
+  6 goblins
+  5 hobgoblins
+  4 jackals (D:3)
+  4 quokkas
+  2 ball pythons (D:3)
+  3 frilled lizards
+  8 kobolds
+  A leopard gecko zombie (D:5)
+  11 rats
+124 creatures vanquished.
+
+Vanquished Creatures (others)
+  A sky beast (D:5)
+  A worker ant (D:5)
+2 creatures vanquished.
+
+Grand Total: 126 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Goafyx the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Goafyx set off with the following items: a +0 club, a +0
+                  | robe, a phial of floods, a ration; and the following spell
+                  | memorised: Apportation; and the following spells available
+                  | to memorise: Gell's Gravitas
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 4/4
+   502 | D:1      | Reached XP level 2. HP: 11/19 MP: 5/5
+  1865 | D:2      | Reached XP level 3. HP: 25/25 MP: 7/7
+  2706 | D:2      | Found a faded altar of an unknown god.
+  3717 | D:2      | Reached skill level 1 in Invocations
+  3896 | D:2      | Reached skill level 1 in Fighting
+  3896 | D:2      | Reached skill level 1 in Short Blades
+  3896 | D:2      | Reached skill level 1 in Long Blades
+  3896 | D:2      | Reached skill level 1 in Axes
+  3896 | D:2      | Reached skill level 1 in Maces & Flails
+  3896 | D:2      | Reached skill level 1 in Polearms
+  3896 | D:2      | Reached skill level 1 in Staves
+  3896 | D:2      | Reached skill level 1 in Slings
+  3896 | D:2      | Reached skill level 1 in Bows
+  3896 | D:2      | Reached skill level 1 in Crossbows
+  3896 | D:2      | Reached skill level 1 in Throwing
+  3896 | D:2      | Reached skill level 1 in Armour
+  3896 | D:2      | Reached skill level 1 in Dodging
+  3896 | D:2      | Reached skill level 1 in Stealth
+  3896 | D:2      | Reached skill level 1 in Shields
+  3896 | D:2      | Reached skill level 1 in Unarmed Combat
+  4413 | D:3      | Reached XP level 4. HP: 32/32 MP: 8/8
+  4875 | D:3      | Reached skill level 1 in Conjurations
+  4875 | D:3      | Reached skill level 1 in Hexes
+  4875 | D:3      | Reached skill level 1 in Charms
+  4875 | D:3      | Reached skill level 1 in Necromancy
+  4875 | D:3      | Reached skill level 1 in Translocations
+  4875 | D:3      | Reached skill level 1 in Transmutations
+  4875 | D:3      | Reached skill level 1 in Fire Magic
+  4875 | D:3      | Reached skill level 1 in Ice Magic
+  4875 | D:3      | Reached skill level 1 in Earth Magic
+  4875 | D:3      | Reached skill level 1 in Poison Magic
+  4904 | D:3      | Reached XP level 5. HP: 35/37 MP: 9/9
+  6028 | D:3      | Learned a level 3 spell: Gell's Gravitas
+  6140 | D:4      | Found a shadowy altar of Dithmenos.
+  6155 | D:4      | dominating thus far.  minor trouble killing worms.  bite
+                  | worked.
+  6242 | D:4      | Reached XP level 6. HP: 44/44 MP: 10/10
+  6384 | D:4      | Reached skill level 5 in Evocations
+  6948 | D:4      | Found a shadowy altar of Dithmenos.
+  7096 | D:4      | Reached XP level 7. HP: 50/50 MP: 12/12
+  7174 | D:5      | Entered Level 5 of the Dungeon
+  8441 | D:5      | Found Paug's Elemental Accessories.
+  8870 | D:5      | Reached XP level 8. HP: 56/57 MP: 14/14
+  9641 | D:6      | Found a runed translucent gate.
+  9642 | D:6      | Found a runed translucent gate.
+  9643 | D:6      | Found a runed translucent gate.
+  9643 | D:6      | Noticed Petues's ghost (novice SpVM)
+  9643 | D:6      | Noticed Qoitotus's ghost (novice NaFi)
+  9731 | D:6      | Found an ancient bone altar of Kikubaaqudgha.
+ 10087 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Invocations    |        1        2  3    |  3.5
+Fighting       |        1        2     3 |  3.2
+Short Blades   |        1        2     3 |  3.2
+Long Blades    |        1        2     3 |  3.2
+Axes           |        1        2     3 |  3.2
+Maces & Flails |        1        2     3 |  3.2
+Polearms       |        1        2     3 |  3.2
+Staves         |        1        2     3 |  3.2
+Slings         |        1        2     3 |  3.2
+Bows           |        1        2     3 |  3.2
+Crossbows      |        1        2     3 |  3.2
+Throwing       |        1        2     3 |  3.2
+Armour         |        1        2     3 |  3.2
+Dodging        |        1        2     3 |  3.2
+Stealth        |        1        2     3 |  3.2
+Shields        |        1        2     3 |  3.2
+Unarmed Combat |        1        2     3 |  3.2
+Spellcasting   |           3        4    |  4.3
+Conjurations   |           1        2    |  2.6
+Hexes          |           1        2    |  2.6
+Charms         |           1        2    |  2.6
+Necromancy     |           1        2    |  2.6
+Translocations |           1        2    |  2.6
+Transmutations |           1        2    |  2.6
+Fire Magic     |           1        2    |  2.6
+Ice Magic      |           1        2    |  2.6
+Earth Magic    |           1        2    |  2.6
+Poison Magic   |           1        2    |  2.6
+Evocations     |                 5       |  5.6
+Summonings     |                       6 |  6.1
+Air Magic      |                         |  7.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Club              |    53 |       |       ||    53
+       Bite              |    21 |     8 |     7 ||    36
+       Whip              |    81 |    19 |       ||   100
+       Punch             |     1 |       |     1 ||     2
+       Trident           |       |     9 |       ||     9
+       Flail             |       |     6 |       ||     6
+       Hand axe          |       |    66 |   125 ||   191
+       Quarterstaff      |       |     8 |       ||     8
+ Fire: Hunting sling     |    15 |    81 |    78 ||   174
+Throw: Stone             |    89 |     1 |       ||    90
+       Javelin           |       |     1 |     3 ||     4
+ Cast: Apportation       |     8 |     2 |       ||    10
+  Use: Scroll            |     6 |     4 |     7 ||    17
+       Potion            |     1 |       |     1 ||     2
+  Eat: Chunk             |    10 |     9 |     6 ||    25
+       Ration            |       |       |     1 ||     1
+Armor: Robe              |    22 |       |       ||    22
+       Ring mail         |    22 |    34 |    65 ||   121
+Dodge: Dodged            |    79 |    69 |    98 ||   246
+

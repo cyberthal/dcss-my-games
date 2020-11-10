@@ -1,0 +1,382 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15759043173336666799
+
+716 Quojogef the Skirmisher (level 7, 66/66 HPs) *WIZ*
+             Began as a Green Draconian Warper on Aug 14, 2020.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 01:16:53 (6474 turns).
+
+Quojogef the Skirmisher (Green Draconian Warper)    Turns: 6474, Time: 01:16:53
+
+Health: 66/66      AC: 12    Str: 13    XL:     7   Next: 41%
+Magic:  9/11       EV: 12    Int: 12    God:    No God 0 (0)
+Gold:   5          SH:  0    Dex: 14    Spells: 1/12 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hunting sling
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    +         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   Q - +2 cloak
+rCorr    .         Harm     .   l - +2 pair of gloves
+MR       .....                  (no boots)
+Stlth    +++.......             q - amulet of regeneration
+HPRegen  0.61/turn              S - +2 ring of dexterity
+MPRegen  0.12/turn              L - ring of stealth
+
+@: no status effects
+A: breathe noxious fumes, unfitting armour, dopey 1, poison resistance, robust
+1, screaming 1, cold-blooded, MP-powered wands, AC +6
+a: Breathe Noxious Fumes
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 6 of its levels.
+
+You collected 322 gold pieces.
+You spent 317 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +0 dagger of venom
+ c - a +1 short sword of draining
+ d - a +0 flail
+ e - a +2 hand axe of draining
+ f - a +0 spear
+ y - a +0 trident
+ D - a cursed -2 war axe
+ I - a +0 long sword
+ K - a cursed -3 flail
+Missiles
+ n - 181 stones
+ o - 116 arrows
+ p - 4 javelins
+ s - 90 sling bullets (quivered)
+ t - 25 poisoned needles
+ C - a throwing net {!f}
+ J - 5 tomahawks
+ W - 4 tomahawks of dispersal
+Armour
+ l - a +2 pair of gloves (worn)
+ Q - a +2 cloak (worn)
+Jewellery
+ m - an uncursed ring of see invisible
+ q - an amulet of regeneration (around neck)
+ F - an uncursed amulet of the acrobat {unknown}
+ G - an uncursed amulet of rage {unknown}
+ L - a ring of stealth (right hand)
+ O - a +4 ring of intelligence
+ P - an uncursed amulet of the gourmand
+ S - a +2 ring of dexterity (left hand)
+Wands
+ k - a wand of acid (9)
+Scrolls
+ g - 2 scrolls of fear
+ r - a scroll of magic mapping
+ w - a scroll of random uselessness
+ z - a scroll of remove curse
+ A - 2 scrolls of blinking
+ E - a scroll of enchant armour
+ N - a scroll of fog
+ R - a scroll of teleportation
+ T - a scroll of immolation
+ U - a scroll of amnesia
+Potions
+ h - 4 potions of brilliance
+ i - 4 potions of curing
+ j - 2 potions of mutation
+ u - a potion of flight
+ v - a potion of heal wounds
+ B - a potion of magic
+ H - a potion of agility
+ M - a potion of invisibility
+ V - a potion of might
+ Y - a potion of haste {unknown}
+Comestibles
+ x - 8 rations
+ X - 5 chunks of flesh
+
+
+   Skills:
+ - Level 4.4 Fighting
+ - Level 4.0 Short Blades
+ * Level 0.2(1.2) Axes
+ - Level 2.0 Polearms
+ * Level 1.0(1.2) Slings
+ - Level 1.0(1.2) Throwing
+ - Level 2.1 Dodging
+ + Level 2.3 Stealth
+ - Level 3.0 Spellcasting
+ - Level 1.1 Conjurations
+ - Level 2.1 Hexes
+ - Level 1.0 Charms
+ + Level 3.6 Translocations
+ + Level 1.5 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           4 (25)       16%         1    14
+b - Confusing Touch       Hex            6 (50)       11%         1    14
+c - Slow                  Hex            6 (100)      16%         2    64
+d - Shroud of Golubria    Chrm/Tloc      7 (200)      14%         2    64
+e - Blink                 Tloc           N/A          9%          2    64
+f - Teleport Other        Tloc           10 (100)     17%         3    114
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Gell's Gravitas          Tloc           10 (200)     17%         3    114
+ Lesser Beckoning         Tloc           10 (200)     17%         3    114
+ Confuse                  Hex            6 (100)      30%         3    114
+ Call Imp                 Summ           1 (100)      36%         2    64
+ Conjure Flame            Conj/Fire      3 (100)      50%         3    114
+ Passage of Golubria      Tloc           N/A          50%         4    214
+ Mephitic Cloud           Conj/Pois/Air  2 (100)      54%         3    114
+ Petrify                  Tmut/Erth      1 (100)      94%         4    214
+ Metabolic Englaciation   Hex/Ice        4 (200)      99%         5    364
+ Yara's Violent Unravell  Hex/Tmut       4 (200)      99%         5    364
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Hepliaklqana
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Wu Jian
+Yredelemnul
+
+Shops:
+D:5 *!*?
+
+
+Innate Abilities, Weirdness & Mutations
+
+You can breathe blasts of noxious fumes.
+Your lurid green scales are hard. (AC +6)
+You cannot fit into any form of body armour.
+Your system is resistant to poisons. (rPois)
+You are cold-blooded and may be slowed by cold attacks.
+You are dopey. (Int -2)
+You are robust. (+10% HP)
+You occasionally shout uncontrollably at your foes.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+Your magical contamination has completely faded away.
+Found 11 gold pieces.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a jackal corpse.
+There is a stone staircase leading up here.
+Press: ? - help, v - describe, . - travel, g - get item
+A jackal corpse.
+The floor, spattered with blood.
+You see here a jackal corpse.
+You butcher the jackal corpse.
+Things that are here:
+2 chunks of flesh; a jackal skeleton
+X - 5 chunks of flesh (gained 2)
+Enter note: char already OP
+Saving game... please wait.
+Welcome back, Quojogef the Green Draconian Warper.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ..  ##.$
+  #.  #..#
+   .. ....
+    . #..#
+    #.#..#
+#####.#..#    ...
+.........#    #.#
+    #.#.#     #.#
+    #...#######.#
+   ##....@.<..#.#
+ ..(.(.######.#.#
+#.##....h   #>#.#
+   #.###.####.#.#
+  ...  #........#
+ ..#.  #........#
+ ## .....####.###
+   #.#......>.#
+     #.######..
+     #.     #.##
+     #      ..#
+            ###
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A sky beast (D:5)
+  An ogre (D:3)
+  A crimson imp (D:5)
+  A bullfrog zombie (D:6)
+  A centaur zombie (D:5)
+  2 hounds (D:5)
+  An orc priest (D:6)
+  A bullfrog skeleton (D:4)
+  4 orc wizards
+  Terence (D:2)
+  7 adders
+  4 gnolls (D:2)
+  A shadow imp (D:5)
+  An adder skeleton (D:6)
+  2 worms
+  2 dart slugs
+  A leopard gecko (D:4)
+  10 orcs
+  A ball python (D:3)
+  3 giant cockroaches
+  A goblin (D:2)
+  2 hobgoblins (D:3)
+  8 jackals
+  11 kobolds
+  8 bats
+  6 frilled lizards
+  7 rats
+  A spectral orc (D:5)
+90 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Quojogef the Draconian Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+    30 | D:1      | Reached skill level 1 in Throwing
+   692 | D:1      | Reached XP level 2. HP: 23/25 MP: 5/5
+   709 | D:1      | Learned a level 2 spell: Blink
+   712 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   899 | D:1      | Reached skill level 1 in Stealth
+  1144 | D:1      | Reached skill level 1 in Short Blades
+  1547 | D:2      | Noticed Terence
+  1649 | D:2      | Reached skill level 1 in Charms
+  1734 | D:2      | Reached XP level 3. HP: 28/30 MP: 6/6
+  1735 | D:2      | Noticed a purple draconian scorcher
+  1735 | D:2      | just checking his god.  made him a summons, so earned no
+                  | xp.
+  1899 | D:2      | Found a hazy altar of Hepliaklqana.
+  1974 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  1975 | D:2      | Found a shadowy altar of Dithmenos.
+  2126 | D:2      | Reached XP level 4. HP: 38/38 MP: 5/7
+  2238 | D:2      | Learned a level 3 spell: Teleport Other
+  2630 | D:2      | Killed Terence
+  2748 | D:3      | Found a stormy altar of Qazlal.
+  3453 | D:4      | Noticed an ogre
+  3472 | D:3      | Killed an ogre
+  3472 | D:3      | Reached XP level 5. HP: 47/47 MP: 5/9
+  3609 | D:3      | Learned a level 1 spell: Confusing Touch
+  4042 | D:4      | Reached XP level 6. HP: 53/53 MP: 7/10
+  4071 | D:3      | Learned a level 1 spell: Magic Dart
+  4139 | D:4      | Found an ornate altar of the Wu Jian Council.
+  4294 | D:4      | Reached skill level 1 in Hexes
+  4791 | D:4      | Learned a level 2 spell: Slow
+  4792 | D:4      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+  4792 | D:4      | Gained mutation: You have sharp fingernails. [potion of
+                  | mutation]
+  4796 | D:5      | Entered Level 5 of the Dungeon
+  4796 | D:5      | Found Niyficwi's Assorted Antiques.
+  4804 | D:5      | Bought a scroll of identify for 52 gold pieces
+  4804 | D:5      | Bought a scroll labeled TUIS SENYPS for 26 gold pieces
+  4804 | D:5      | Bought a scroll labeled MIDEITO TABIP for 26 gold pieces
+  4804 | D:5      | Bought a scroll labeled ASSUOC PIFUJI for 26 gold pieces
+  4804 | D:5      | Bought a viscous puce potion for 23 gold pieces
+  4804 | D:5      | Bought a scroll labeled PASAXTEQETH for 26 gold pieces
+  4836 | D:5      | Reached skill level 1 in Conjurations
+  4965 | D:5      | Found Zacsuf's Assorted Antiques.
+  4975 | D:5      | Noticed a sky beast
+  4990 | D:5      | Killed a sky beast
+  5004 | D:5      | Found Puycoc's Distillery.
+  5048 | D:5      | Bought a scroll labeled FEZXUODAEREMM for 26 gold pieces
+  5048 | D:5      | Bought a scroll labeled MIDEITO TABIP for 26 gold pieces
+  5075 | D:5      | Found a bloodstained altar of Trog.
+  5153 | D:5      | Your scales start taking on a lurid green colour.
+  5153 | D:5      | Reached XP level 7. HP: 60/60 MP: 8/11
+  5153 | D:5      | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [Green Draconian growth]
+  5414 | D:5      | Reached skill level 1 in Evocations
+  5540 | D:5      | Bought a potion of curing for 42 gold pieces
+  5648 | D:4      | Found a deep blue altar of Sif Muna.
+  5727 | D:5      | Lost mutation: You are weak. (Str -2) [potion of mutation]
+  5727 | D:5      | Lost mutation: You have sharp fingernails. [potion of
+                  | mutation]
+  5727 | D:5      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  5727 | D:5      | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  5727 | D:5      | Gained mutation: You are robust. (+10% HP) [potion of
+                  | mutation]
+  5727 | D:5      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  5764 | D:5      | Found Huniuci's Magic Scroll Shoppe.
+  5784 | D:5      | Found an iron altar of Okawaru.
+  5882 | D:5      | Found a basalt altar of Yredelemnul.
+  5968 | D:5      | Bought a scroll of identify for 22 gold pieces
+  6073 | D:5      | Bought a scroll of identify for 22 gold pieces
+  6459 | D:6      | Reached skill level 1 in Slings
+  6474 | D:6      | char already OP
+  6474 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Throwing       |  1                   |  1.0
+Stealth        |     1              2 |  2.3
+Short Blades   |     1  2  3     4    |  4.0
+Charms         |     1                |  1.0
+Fighting       |        3  4          |  4.4
+Spellcasting   |                 3    |  3.0
+Hexes          |                 2    |  2.1
+Conjurations   |                 1    |  1.1
+Evocations     |                    1 |  1.5
+Slings         |                    1 |  1.0
+Axes           |                      |  0.2
+Polearms       |                      |  2.0
+Dodging        |                      |  2.1
+Translocations |                      |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |  4001 |       |       ||  4001
+       Tailslap          |   358 |    18 |    11 ||   387
+       Short sword       |    85 |    43 |     4 ||   132
+       Dagger            |       |   101 |    52 ||   153
+       Flail             |       |       |     5 ||     5
+ Fire: Hunting sling     |       |       |    11 ||    11
+Throw: Tomahawk          |     1 |       |       ||     1
+       Javelin           |     3 |    10 |       ||    13
+       Stone             |       |    72 |    11 ||    83
+ Cast: Shroud of Golubri |     2 |     6 |     4 ||    12
+       Blink             |     1 |       |       ||     1
+       Confusing Touch   |       |     6 |     5 ||    11
+ Abil: Breathe Noxious F |       |       |     1 ||     1
+  Use: Potion            |     2 |     4 |     1 ||     7
+       Scroll            |     1 |    12 |     5 ||    18
+ Stab: Sleeping          |     1 |     4 |     2 ||     7
+       Confused          |       |     4 |     4 ||     8
+  Eat: Chunk             |     4 |    10 |     2 ||    16
+       Ration            |       |       |     1 ||     1
+Armor: Skin              |  1381 |    47 |    22 ||  1450
+Dodge: Dodged            |  2341 |    65 |    32 ||  2438
+

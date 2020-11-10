@@ -1,0 +1,236 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9684239165107078703
+
+574622 Rurrequ the Conqueror (level 27, 149/149 HPs) *WIZ*
+             Began as a Felid Transmuter on Aug 20, 2020.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 5 of the Pits of Slime.
+             The game lasted 00:04:49 (35 turns).
+
+Rurrequ the Conqueror (Felid Transmuter)              Turns: 35, Time: 00:04:50
+
+Health: 149/149    AC:  9    Str:  5 (6)  XL:     27
+Magic:  38/55      EV: 38    Int: 13 (14) God:    Kikubaaqudgha 200 (0)
+Gold:   0          SH:  0    Dex: 15 (16) Spells: 71/80 levels left
+                                          Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + + .     Gourm    .   (shield unavailable)
+rNeg     + + +     Faith    .   (armour unavailable)
+rPois    ?          Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +++++                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.34/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: lich-form, quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 3, slow metabolism 1, sharp paws
+a: End Transformation, Receive Corpses, Torment, Renounce Religion
+
+
+You were on level 5 of the Pits of Slime.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were not hungry.
+
+You were a lich.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Missiles
+ a - 12 arrows
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 71 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           50 (50)      0%          1    N/A
+b - Necromutation         Tmut/Necr      93 (200)     1%          8    N/A
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           25 (25)      0%          1    N/A
+ Corpse Rot               Necr           N/A          0%          2    N/A
+ Sticks to Snakes         Tmut           73 (100)     0%          2    N/A
+ Sublimation of Blood     Necr           93 (200)     0%          2    N/A
+ Regeneration             Chrm/Necr      93 (200)     0%          3    N/A
+ Spider Form              Tmut/Pois      73 (200)     0%          3    N/A
+ Animate Dead             Necr           N/A          0%          4    N/A
+ Ice Form                 Ice/Tmut       73 (100)     0%          4    N/A
+ Agony                    Necr           93 (100)     0%          5    N/A
+ Blade Hands              Tmut           73 (200)     0%          5    N/A
+ Bolt of Draining         Conj/Necr      93 (200)     0%          5    N/A
+ Borgnjor's Vile Clutch   Necr/Erth      93 (200)     0%          5    N/A
+ Dispel Undead            Necr           93 (100)     0%          5    N/A
+ Haunt                    Necr/Summ      93 (200)     1%          7    N/A
+ Borgnjor's Revivificati  Necr           93 (200)     1%          8    N/A
+ Death's Door             Chrm/Necr      93 (200)     1%          8    N/A
+ Infestation              Necr           93 (200)     1%          8    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+Jiyva
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+Your thick and shaggy fur keeps you warm. (AC +3, rC+)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+The shining eye turns its gaze towards you. x4
+The shining eye gazes at you.
+Strange energies course through your body.
+Your body decomposes!
+You feel dopey.
+The shining eye gazes at you.
+Strange energies course through your body.
+Your body decomposes!
+You feel weakened.
+The shining eye gazes at you.
+Strange energies course through your body.
+Your body decomposes!
+You feel clumsy.
+Unknown command.
+You can't eat.
+You cannot train any new skills!
+Welcome back, Rurrequ the Felid Transmuter.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     #...........       ##[/[
+    ##...........      ##!|/##
+  ###............      #?|})!.
+  #..............       [)[?..
+  #..............        )}.).
+  #..............     ####....
+#.#.....GG.......     #.......
+#.......GLG......       #.....
+#................       ##....
+#................      ##?!.=.
+###.................   #((}(..
+  #.................   #[:})).
+  ##................   ##(:?##
+   #................    ##)(%
+   #................     ##!##
+     ...............       ##
+     ........J......
+     .....J.<.......
+     ..#..JJ........
+
+
+You could see 4 shining eyes.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rurrequ the Felid Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Became a worshipper of Kikubaaqudgha
+     1 | D:1      | Reached * piety under Kikubaaqudgha
+     1 | D:1      | Identified Kikubaaqudgha's Volume of Black Rituals
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     1 | D:1      | Reached ** piety under Kikubaaqudgha
+     1 | D:1      | Reached *** piety under Kikubaaqudgha
+     1 | D:1      | Identified Kikubaaqudgha's Volume of Dark Magic
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     1 | D:1      | Reached **** piety under Kikubaaqudgha
+     1 | D:1      | Reached ***** piety under Kikubaaqudgha
+     1 | D:1      | Reached ****** piety under Kikubaaqudgha
+     2 | D:1      | Received a gift from Kikubaaqudgha
+     4 | D:1      | Reached XP level 2. HP: 37/37 MP: 4/31
+     4 | D:1      | Reached XP level 3. HP: 42/42 MP: 4/32
+     4 | D:1      | Reached XP level 4. HP: 46/46 MP: 4/34
+     4 | D:1      | Reached XP level 5. HP: 51/51 MP: 4/35
+     4 | D:1      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+     4 | D:1      | Reached XP level 6. HP: 55/55 MP: 4/37
+     4 | D:1      | Reached XP level 7. HP: 60/60 MP: 4/38
+     4 | D:1      | Reached XP level 8. HP: 64/64 MP: 4/40
+     4 | D:1      | Reached XP level 9. HP: 69/69 MP: 4/41
+     4 | D:1      | Reached XP level 10. HP: 73/73 MP: 4/42
+     4 | D:1      | Reached XP level 11. HP: 78/78 MP: 4/43
+     4 | D:1      | Gained mutation: Your thick and shaggy fur keeps you warm.
+                  | (AC +3, rC+) [Felid growth]
+     4 | D:1      | Reached XP level 12. HP: 82/82 MP: 4/44
+     4 | D:1      | Reached XP level 13. HP: 87/87 MP: 4/45
+     4 | D:1      | Reached XP level 14. HP: 91/91 MP: 4/46
+     4 | D:1      | Reached XP level 15. HP: 95/95 MP: 4/47
+     4 | D:1      | Reached XP level 16. HP: 100/100 MP: 4/48
+     4 | D:1      | Reached XP level 17. HP: 104/104 MP: 4/49
+     4 | D:1      | Reached XP level 18. HP: 109/109 MP: 4/50
+     4 | D:1      | Reached XP level 19. HP: 113/113 MP: 4/51
+     4 | D:1      | Reached XP level 20. HP: 118/118 MP: 4/52
+     4 | D:1      | Reached XP level 21. HP: 122/122 MP: 4/53
+     4 | D:1      | Reached XP level 22. HP: 127/127 MP: 4/54
+     4 | D:1      | Reached XP level 23. HP: 131/131 MP: 4/55
+     4 | D:1      | Reached XP level 24. HP: 136/136 MP: 4/55
+     4 | D:1      | Reached XP level 25. HP: 140/140 MP: 4/55
+     4 | D:1      | Reached XP level 26. HP: 145/145 MP: 4/55
+     4 | D:1      | Reached XP level 27. HP: 149/149 MP: 4/55
+    13 | D:1      | Learned a level 8 spell: Necromutation
+    25 | Slime:5  | Entered Level 5 of the Pits of Slime
+    25 | Slime:5  | Found a viscous altar of Jiyva.
+    25 | Slime:5  | Noticed the Royal Jelly
+    35 | Slime:5  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Necromutation     |       |       |       |       |       |       |       |       |     3 ||     3
+Invok: Receive Necronomi |     1 |       |       |       |       |       |       |       |       ||     1
+ Abil: End Transformatio |       |       |       |       |       |       |       |       |     2 ||     2
+

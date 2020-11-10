@@ -1,0 +1,196 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 3486141329528147471
+
+0 Ruggeitotu the Skirmisher (level 1, 19/19 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint III: "The Ten Rune Challenge").
+             The game lasted 00:00:34 (0 turns).
+
+Ruggeitotu the Skirmisher (Hill Orc Fighter)           Turns: 0, Time: 00:00:34
+
+Health: 19/19      AC:  6    Str: 18    XL:     1   Next: 0%
+Magic:  1/1        EV:  7    Int:  8    God:    No God 0 (0)
+Gold:   0          SH:  9    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Scrolls
+ k - a scroll of blinking
+Potions
+ d - a potion of might
+ e - a potion of curing
+ g - a potion of heal wounds
+ h - a potion of haste
+ i - 2 potions of magic
+ j - a potion of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.6 Fighting
+ + Level 2.6 Axes
+ + Level 3.2 Armour
+ + Level 3.2 Shields
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+Lugonu
+
+Shops:
+D :[!*:[%[}%[[!(?(=}%:[(%*
+
+Message History
+
+Welcome, Ruggeitotu the Hill Orc Fighter.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+Mapping level.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#############   ###
+#@.#!$+.....7   7.#####
+#..#!$#....777  7.#___#
+##+####......7  7.#!..#
+#.....#....~.7777.###+#
+#.....#...~~777...#....
+#....$#..~~~~777..+.}..
+#####+#..~~~~~~.7.#...#
+#$....#.~~~~~~....#.}.#
+#.....#.~~~~~.....#...#
+#.....#.~~~.......#+###
+#+#####...........#.::#
+#.................#___#
+#######################
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Ruggeitotu the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found Sapp's General Store.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a roughly hewn altar of Beogh.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found Pamihass's Distillery.
+     0 | D        | Found Xotouf's Antique Armour Boutique.
+     0 | D        | Found Vaduwath's Weapon Shop.
+     0 | D        | Found Ponietit's Antique Weapon Emporium.
+     0 | D        | Found Fiolap's Magic Scroll Shoppe.
+     0 | D        | Found Muqezxon's Jewellery Boutique.
+     0 | D        | Found Quxyd's Food Emporium.
+     0 | D        | Found Dochutol's Food Shop.
+     0 | D        | Found Doanu's Weapon Boutique.
+     0 | D        | Found Xeskizal's Gadget Emporium.
+     0 | D        | Found Fitetug's Book Shop.
+     0 | D        | Found Daelu's Assorted Antiques.
+     0 | D        | Found Naremn's Book Boutique.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found Zozil's Antique Armour Emporium.
+     0 | D        | Found Waenut's Distillery.
+     0 | D        | Found Nagi's Book Emporium.
+     0 | D        | Found Ytuudog's Antique Armour Shop.
+     0 | D        | Found Ceudwape's Food Shoppe.
+     0 | D        | Found Senefios's Gadget Emporium.
+     0 | D        | Found Tiareax's Armour Shop.
+     0 | D        | Found Tuyf's Food Shop.
+     0 | D        | Found Velykhlu's Armour Shoppe.
+     0 | D        | Found Hijig's Armour Boutique.
+     0 | D        | Found the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3}
+     0 | D        | Quit the game
+

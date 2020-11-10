@@ -1,0 +1,328 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10842229034413265613
+
+628795 Heghocsyah the Skullcrusher (level 27, 323/323 HPs) *WIZ*
+             Began as a Troll Chaos Knight on Sept 12, 2020.
+             Was a High Priest of Kikubaaqudgha.
+             Quit the game on level 1 of Tartarus.
+             The game lasted 00:24:23 (13123 turns).
+
+Heghocsyah the Skullcrusher (Troll Chaos Knight)   Turns: 13123, Time: 00:24:23
+
+Health: 323/323    AC: 10    Str: 17    XL:     27
+Magic:  53/53      EV: 24    Int:  8    God:    Kikubaaqudgha 142 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   b - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  1.03/turn              (no ring)
+MPRegen  0.33/turn              (no ring)
+
+@: vulnerable
+A: large, unfitting armour, antennae 1, claws 3, agile 1, fast metabolism 3,
+gourmand, regeneration 1, screaming 1, shaggy fur 1, tough skin 3, weak 1
+a: Receive Corpses, Torment, Renounce Religion
+
+
+You were on level 1 of Tartarus.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was extremely pleased with you.
+You were completely stuffed.
+
+You visited 3 branches of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos
+Armour
+ b - a +2 robe (worn)
+Comestibles
+ c - 11 rations
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           25 (25)      0%          1    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Sublimation of Blood     Necr           52 (200)     0%          2    0
+ Regeneration             Chrm/Necr      52 (200)     0%          3    0
+ Agony                    Necr           52 (100)     0%          5    184
+ Dispel Undead            Necr           52 (100)     0%          5    184
+ Excruciating Wounds      Chrm/Necr      52 (200)     0%          5    184
+ Death Channel            Necr           52 (200)     0%          6    334
+ Simulacrum               Ice/Necr       52 (200)     0%          6    334
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (0/7) Hell
+    Coc (0/7) Hell            Tar (1/7) Hell        
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You have a pair of small antennae on your head.
+You are agile. (Dex +2)
+You occasionally shout uncontrollably at your foes.
+You are weak. (Str -2)
+
+
+Message History
+
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Enter Wizard Command (? - help): 
+Super healing.
+You claw the hell hound!
+The hell hound is almost dead.
+The hell hound completely misses you.
+You barely miss the hell hound.
+The hell hound is almost dead.
+You closely miss the hell hound.
+The hell hound is almost dead.
+The hell hound bites you but does no damage.
+You eviscerate the hell hound!!!
+You kill the hell hound!
+Kikubaaqudgha accepts your kill.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.....~....#
+.......P..#
+....~.#...#
+...####...#
+..    #...#
+.     #))##
+      #[[#
+      #[)#
+      #)[#
+      #))#
+      #..#
+      #).#
+ #   ##%)#
+ #.  #)@)#
+ #.###)[)##
+ #.)#.))).##
+ #.).[[)...#
+ #..))\[[..#
+ #...)##.........#
+ #..)####........#
+ #.###  ###......#
+ #.        ##..#.#
+ ##          ### #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  7 bone dragons
+  6 doom hounds (Tar:1)
+  29 Tzitzimimeh
+  An Ice Fiend (Tar:1)
+  A lich (Tar:1)
+  3 eldritch tentacles (Tar:1)
+  5 shadow dragons
+  10 reapers (Tar:1)
+  A vampire knight (Hell)
+  2 green deaths (Tar:1)
+  15 death oozes
+  2 ghost crabs (Tar:1)
+  A vampire mage (Hell)
+  A titan skeleton (Tar:1)
+  A titan zombie (Tar:1)
+  A storm dragon zombie (Tar:1)
+  A soul eater (Tar:1)
+  38 skeletal warriors
+  A death drake (Tar:1)
+  4 hell knights
+  10 shadow demons
+  2 anaconda zombies (Tar:1)
+  A flayed ghost (Tar:1)
+  3 shadow dragon zombies (Tar:1)
+  A wolf spider zombie (Tar:1)
+  6 phantasmal warriors
+  A necromancer (Tar:1)
+  An iron dragon zombie (Tar:1)
+  2 fire giant zombies (Tar:1)
+  2 shadow dragon skeletons (Tar:1)
+  A stone giant zombie (Tar:1)
+  2 frost giant skeletons (Tar:1)
+  A stone giant skeleton (Tar:1)
+  A dire elephant zombie (Tar:1)
+  2 hellions (Tar:1)
+  An ice devil (Hell)
+  An emperor scorpion zombie (Tar:1)
+  2 freezing wraiths (Tar:1)
+  4 tormentors (Tar:1)
+  A silent spectre (Tar:1)
+  A fire dragon zombie (Tar:1)
+  An alligator zombie (Tar:1)
+  A hydra skeleton (Tar:1)
+  An ice dragon zombie (Tar:1)
+  19 flying skulls
+  3 ettin skeletons (Tar:1)
+  A fire dragon skeleton (Tar:1)
+  3 ice dragon skeletons (Tar:1)
+  17 shadows
+  5 wraiths
+  An emperor scorpion simulacrum (Tar:1)
+  4 hungry ghosts (Tar:1)
+  18 hell hounds
+  A spiny frog skeleton (Tar:1)
+  24 necrophages
+  9 phantoms
+  31 wights (Tar:1)
+  A human skeleton (Tar:1)
+  8 shadow imps
+324 creatures vanquished.
+
+Vanquished Creatures (others)
+  A withered plant (Tar:1)
+1 creature vanquished.
+
+Grand Total: 325 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Heghocsyah the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 29/29 MP: 1/1
+     0 | D:1      | Reached XP level 3. HP: 36/36 MP: 2/2
+     0 | D:1      | Reached XP level 4. HP: 44/44 MP: 3/3
+     0 | D:1      | Reached XP level 5. HP: 50/50 MP: 4/4
+     0 | D:1      | Reached XP level 6. HP: 59/59 MP: 5/5
+     0 | D:1      | Reached XP level 7. HP: 66/66 MP: 6/6
+     0 | D:1      | Reached XP level 8. HP: 74/74 MP: 7/7
+     0 | D:1      | Reached XP level 9. HP: 80/80 MP: 8/8
+     0 | D:1      | Reached XP level 10. HP: 88/88 MP: 9/9
+     0 | D:1      | Reached XP level 11. HP: 94/94 MP: 10/10
+     0 | D:1      | Reached XP level 12. HP: 104/104 MP: 11/11
+     0 | D:1      | Reached XP level 13. HP: 110/110 MP: 12/12
+     0 | D:1      | Reached XP level 14. HP: 118/118 MP: 13/13
+     0 | D:1      | Reached XP level 15. HP: 124/124 MP: 14/14
+     0 | D:1      | Reached XP level 16. HP: 132/132 MP: 15/15
+     0 | D:1      | Reached XP level 17. HP: 139/139 MP: 16/16
+     0 | D:1      | Reached XP level 18. HP: 148/148 MP: 17/17
+     0 | D:1      | Reached XP level 19. HP: 154/154 MP: 18/18
+     0 | D:1      | Reached XP level 20. HP: 162/162 MP: 19/19
+     0 | D:1      | Reached XP level 21. HP: 169/169 MP: 20/20
+     0 | D:1      | Reached XP level 22. HP: 176/176 MP: 21/21
+     0 | D:1      | Reached XP level 23. HP: 183/183 MP: 22/22
+     0 | D:1      | Reached XP level 24. HP: 192/192 MP: 22/22
+     0 | D:1      | Reached XP level 25. HP: 198/198 MP: 22/22
+     0 | D:1      | Reached XP level 26. HP: 206/206 MP: 22/22
+     0 | D:1      | Reached XP level 27. HP: 213/213 MP: 22/22
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Noticed Geryon
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     1 | Hell     | Fell from the grace of Xom
+     1 | Hell     | Became a worshipper of Dithmenos the Shadowed
+     1 | Hell     | Fell from the grace of Dithmenos
+     1 | Hell     | Became a worshipper of Kikubaaqudgha
+     1 | Hell     | Was forgiven by Xom
+     1 | Hell     | Was forgiven by Dithmenos
+   103 | Hell     | Fell from the grace of Kikubaaqudgha
+   103 | Hell     | Became a worshipper of Dithmenos the Shadowed
+   103 | Hell     | Fell from the grace of Dithmenos
+   103 | Hell     | Became a worshipper of Kikubaaqudgha
+   104 | Tar:1    | Entered Level 1 of Tartarus
+   104 | Tar:1    | Found a gateway to Hell.
+   105 | Tar:1    | 2 rations, very full
+  1723 | Tar:1    | Reached * piety under Kikubaaqudgha
+  1723 | Tar:1    | Identified Kikubaaqudgha's Tome of Sinister Rituals
+                  | (Kikubaaqudgha gifted it to you on level 1 of Tartarus)
+  1723 | Tar:1    | Received a gift from Kikubaaqudgha
+  1799 | Hell     | acq 12 rat
+  3077 | Tar:1    | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [mutagenic glow]
+  3165 | Tar:1    | Gained mutation: You have a pair of small antennae on your
+                  | head. [mutagenic glow]
+  3647 | Tar:1    | 8 rations and can now deliver corpses.  so total of 6
+                  | rations to get there.
+  3716 | Hell     | Reached ** piety under Kikubaaqudgha
+  5943 | Tar:1    | Reached *** piety under Kikubaaqudgha
+  5943 | Tar:1    | Identified Kikubaaqudgha's Reference Book on Evil Rituals
+                  | (Kikubaaqudgha gifted it to you on level 1 of Tartarus)
+  5943 | Tar:1    | Received a gift from Kikubaaqudgha
+  9321 | Tar:1    | Reached **** piety under Kikubaaqudgha
+ 11093 | Tar:1    | Gained mutation: You are agile. (Dex +2) [mutagenic glow]
+ 11120 | Tar:1    | Gained mutation: You are weak. (Str -2) [mutagenic glow]
+ 11525 | Tar:1    | Reached ***** piety under Kikubaaqudgha
+ 13123 | Tar:1    | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |  1308 ||  1308
+       Punch             |       |       |       |       |       |       |       |       |   104 ||   104
+Invok: Receive Corpses   |       |       |       |       |       |       |       |       |     1 ||     1
+ Stab: Distracted        |       |       |       |       |       |       |       |       |     6 ||     6
+  Eat: Ration            |       |       |       |       |       |       |       |       |    15 ||    15
+       Chunk             |       |       |       |       |       |       |       |       |    11 ||    11
+Armor: Robe              |       |       |       |       |       |       |       |       |   157 ||   157
+Dodge: Dodged            |       |       |       |       |       |       |       |       |   889 ||   889
+

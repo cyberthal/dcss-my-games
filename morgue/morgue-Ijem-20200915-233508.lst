@@ -1,0 +1,230 @@
+Ijem
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(43, -8, D:1)
+  a +0 dagger
+(45, -16, D:1)
+  a +0 whip
+(46, 31, D:1)
+  a cursed -1 whip
+(47, 36, D:1)
+  a +0 dagger
+(49, 4, D:1)
+  a +0 dagger
+(51, -8, D:1)
+  a +0 whip
+(57, 1, D:1)
+  a +0 short sword
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 ring mail
+(11, 26, D:2)
+  a +0 short sword
+(20, -20, D:2)
+  a +0 club
+(22, 14, D:2)
+  a +0 short sword
+(27, -6, D:2)
+  a +0 naga barding
+(50, -9, D:2)
+  a +0 dagger
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 robe
+(0, 18, D:3)
+  a +0 whip
+(2, -9, D:3)
+  a +0 hand axe
+  a +0 dagger
+(20, -32, D:3)
+  a cursed +0 club
+(23, -10, D:3)
+  a +0 whip
+  a +0 whip
+  a +0 dagger
+  a +0 robe
+  a +0 hand axe
+  a +0 ring mail
+(24, -4, D:3)
+  a +0 short sword
+(26, -42, D:3)
+  a +0 hunting sling
+(30, -22, D:3)
+  a +0 club
+(39, -20, D:3)
+  a +0 whip
+(42, 10, D:3)
+  a +0 leather armour
+  a +0 club
+(43, -10, D:3)
+  a cursed -2 club
+(58, -24, D:3)
+  a +0 short sword
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 giant spiked club
+(0, 12, D:4)
+  a +0 rapier
+(6, 8, D:4)
+  a +0 club
+(7, 6, D:4)
+  a +0 mace
+  a +0 dagger
+  a +0 leather armour
+(40, 22, D:4)
+  a +0 robe
+(41, 26, D:4)
+  a +0 giant club
+(43, 17, D:4)
+  a +0 ring mail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 giant club
+(11, -8, D:5)
+  11 gold pieces
+(12, -8, D:5)
+  a scroll of remove curse
+(13, -8, D:5)
+  a cursed -1 club
+(20, -40, D:5)
+  a +0 ring mail
+(20, -32, D:5)
+  a +0 leather armour
+(31, -23, D:5)
+  a +0 shortbow
+(35, -5, D:5)
+  a +0 hunting sling
+(42, 0, D:5)
+  a +0 club
+(42, 1, D:5)
+  a cursed -3 dagger
+  a +0 robe
+(45, -37, D:5)
+  6 large rocks
+(48, -38, D:5)
+  a +0 chain mail
+(48, -29, D:5)
+  a +0 robe
+  a cursed -1 dagger
+  a +0 club
+
+Level 6 of the Dungeon
+(1, -14, D:6)
+  a +0 falchion
+(22, -40, D:6)
+  a +0 scale mail
+(30, -10, D:6)
+  a +0 spear
+(30, -7, D:6)
+  a cursed +0 leather armour
+(30, 11, D:6)
+  a +0 flail
+(31, -8, D:6)
+  a +0 whip
+(31, -6, D:6)
+  a +0 robe
+  a +0 dagger
+(31, 1, D:6)
+  a +0 scale mail
+(35, -7, D:6)
+  a potion of lignification
+(42, -10, D:6)
+  a potion of degeneration
+  a potion of berserk rage
+  a +0 chain mail
+  a +0 leather armour
+  a +0 robe
+  a +0 ring mail
+  a +0 dagger
+  a +0 glaive
+(44, -5, D:6)
+  a +0 robe
+
+Level 7 of the Dungeon
+[Shop] Mouzahov's Book Shop
+  a book of Battle (480 gold)
+  the Volume of the Warped Entourage (685 gold)
+    Spells                           Type                      Level
+     a - Summon Small Mammal          Summoning                     1
+     b - Apportation                  Translocation                 1
+     c - Blink                        Translocation                 2
+     d - Recall                       Summoning/Translocation       3
+     e - Call Canine Familiar         Summoning                     3
+     f - Teleport Other               Translocation                 3
+     g - Summon Demon                 Summoning                     5
+  a Young Poisoner's Handbook (480 gold)
+  a book of Fire (780 gold)
+  a manual of Necromancy (1324 gold)
+  a book of Transfigurations (660 gold)
+  a book of Geomancy (420 gold)
+  a Grand Grimoire (1324 gold)
+  a book of Conjurations (360 gold)
+(0, 0, D:7)
+  3 throwing nets {!f}
+  15 tomahawks
+  174 stones
+  a +1 ring of protection
+(9, 4, D:7)
+  a +0 club
+(15, 26, D:7)
+  a +0 halberd
+(41, 22, D:7)
+  a +0 spear
+(43, 25, D:7)
+  a +0 falchion
+(47, 0, D:7)
+  a potion of degeneration
+(51, 31, D:7)
+  a +0 falchion
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a stone
+(0, 2, D:8)
+  a stone
+(0, 3, D:8)
+  a stone
+(6, -21, D:8)
+  a sling bullet
+(7, -27, D:8)
+  a wand of disintegration (16)
+(11, -21, D:8)
+  2 sling bullets
+(12, -22, D:8)
+  a sling bullet
+(18, -20, D:8)
+  a stone
+(19, -20, D:8)
+  a stone
+(26, -14, D:8)
+  21 arrows
+(38, -31, D:8)
+  a sling bullet
+(40, -33, D:8)
+  a potion of berserk rage
+(40, -29, D:8)
+  a sling bullet
+(41, -28, D:8)
+  a sling bullet
+(44, -31, D:8)
+  a potion of agility
+(50, -31, D:8)
+  an arrow
+(52, -30, D:8)
+  a +0 glaive (still there?)
+  an arrow (still there?)
+(52, -29, D:8)
+  an arrow
+(52, -28, D:8)
+  an arrow
+(52, -24, D:8)
+  a +0 whip
+
+the Ecumenical Temple
+

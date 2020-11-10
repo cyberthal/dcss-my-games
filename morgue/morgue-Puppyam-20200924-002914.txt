@@ -1,0 +1,315 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17415892432195537445
+
+527046 Puppyam the Nimble (level 27, 209/209 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 24, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:08:03 (2 turns).
+
+Puppyam the Nimble (Ghoul Monk)                        Turns: 2, Time: 00:08:04
+
+Health: 209/209    AC:  2    Str: 14    XL:     27
+Magic:  36/36      EV: 17    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 41/46 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    ++++......             (no amulet)
+HPRegen  0.44/turn              (no ring)
+MPRegen  0.25/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 10.0 Fighting
+   Level 10.0(11.6) Short Blades
+   Level 10.0(11.6) Long Blades
+   Level 10.0(12.9) Axes
+   Level 10.0(12.9) Maces & Flails
+   Level 10.0(12.9) Polearms
+   Level 10.0(12.9) Staves
+   Level 10.0(11.6) Slings
+   Level 10.0 Bows
+   Level 10.0 Crossbows
+ + Level 10.0(11.6) Throwing
+ - Level 10.0 Armour
+ - Level 10.0 Dodging
+ - Level 10.0 Stealth
+   Level 10.0 Shields
+ + Level 10.0 Unarmed Combat
+ - Level 10.0 Spellcasting
+   Level 10.0 Conjurations
+   Level 10.0 Hexes
+   Level 10.0 Charms
+   Level 10.0 Summonings
+ - Level 10.0 Necromancy
+   Level 10.0 Translocations
+   Level 10.0 Transmutations
+   Level 10.0 Fire Magic
+   Level 10.0 Ice Magic
+   Level 10.0 Air Magic
+   Level 10.0 Earth Magic
+   Level 10.0 Poison Magic
+   Level 10.0 Invocations
+   Level 10.0 Evocations
+
+
+You had 41 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Agony                 Necr           12 (100)     9%          5    350
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    0
+ Apportation              Tloc           12 (50)      1%          1    0
+ Confusing Touch          Hex            12 (50)      1%          1    0
+ Corona                   Hex            12 (90)      1%          1    0
+ Flame Tongue             Conj/Fire      12 (40)      1%          1    0
+ Freeze                   Ice            12 (25)      1%          1    0
+ Infusion                 Chrm           12 (25)      1%          1    0
+ Magic Dart               Conj           12 (25)      1%          1    0
+ Pain                     Necr           12 (25)      1%          1    0
+ Sandblast                Erth           12 (50)      1%          1    0
+ Shock                    Conj/Air       12 (25)      1%          1    0
+ Sting                    Conj/Pois      12 (25)      1%          1    0
+ Summon Butterflies       Summ           12 (100)     1%          1    0
+ Summon Small Mammal      Summ           12 (25)      1%          1    0
+ Blink                    Tloc           N/A          1%          2    50
+ Call Imp                 Summ           12 (100)     1%          2    50
+ Corpse Rot               Necr           N/A          1%          2    50
+ Ensorcelled Hibernation  Hex/Ice        12 (50)      1%          2    50
+ Passwall                 Tmut/Erth      12 (120)     1%          2    50
+ Poisonous Vapours        Pois/Air       12 (50)      1%          2    50
+ Searing Ray              Conj           12 (50)      1%          2    50
+ Shroud of Golubria       Chrm/Tloc      12 (200)     1%          2    50
+ Slow                     Hex            12 (100)     1%          2    50
+ Song of Slaying          Chrm           12 (100)     1%          2    50
+ Sticks to Snakes         Tmut           12 (100)     1%          2    50
+ Swiftness                Chrm/Air       12 (100)     1%          2    50
+ Throw Flame              Conj/Fire      12 (50)      1%          2    50
+ Throw Frost              Conj/Ice       12 (50)      1%          2    50
+ Call Canine Familiar     Summ           12 (100)     1%          3    100
+ Confuse                  Hex            12 (100)     1%          3    100
+ Conjure Flame            Conj/Fire      12 (100)     1%          3    100
+ Dazzling Spray           Conj/Hex       12 (50)      1%          3    100
+ Gell's Gravitas          Tloc           12 (200)     1%          3    100
+ Ignite Poison            Fire/Tmut/Pois 12 (100)     1%          3    100
+ Inner Flame              Hex/Fire       12 (100)     1%          3    100
+ Lesser Beckoning         Tloc           12 (200)     1%          3    100
+ Mephitic Cloud           Conj/Pois/Air  12 (100)     1%          3    100
+ Ozocubu's Armour         Chrm/Ice       12 (100)     1%          3    100
+ Portal Projectile        Hex/Tloc       12 (50)      1%          3    100
+ Recall                   Summ/Tloc      N/A          1%          3    100
+ Regeneration             Chrm/Necr      12 (200)     1%          3    100
+ Spectral Weapon          Hex/Chrm       12 (100)     1%          3    100
+ Static Discharge         Conj/Air       12 (100)     1%          3    100
+ Stone Arrow              Conj/Erth      12 (50)      1%          3    100
+ Summon Guardian Golem    Hex/Summ       12 (100)     1%          3    100
+ Teleport Other           Tloc           12 (100)     1%          3    100
+ Tukima's Dance           Hex            12 (100)     1%          3    100
+ Vampiric Draining        Necr           12 (200)     1%          3    100
+ Airstrike                Air            12 (200)     3%          4    200
+ Animate Dead             Necr           N/A          3%          4    200
+ Cause Fear               Hex            12 (200)     3%          4    200
+ Force Lance              Conj/Tloc      12 (100)     3%          4    200
+ Fulminant Prism          Conj/Hex       12 (200)     3%          4    200
+ Iskenderun's Mystic Bla  Conj           12 (100)     3%          4    200
+ Leda's Liquefaction      Hex/Erth       12 (200)     3%          4    200
+ Olgreb's Toxic Radiance  Pois           12 (100)     3%          4    200
+ Passage of Golubria      Tloc           N/A          3%          4    200
+ Petrify                  Tmut/Erth      12 (100)     3%          4    200
+ Sticky Flame             Conj/Fire      12 (100)     3%          4    200
+ Summon Ice Beast         Ice/Summ       12 (100)     3%          4    200
+ Summon Lightning Spire   Summ/Air       12 (100)     3%          4    200
+ Throw Icicle             Conj/Ice       12 (100)     3%          4    200
+ Alistair's Intoxication  Tmut/Pois      12 (100)     9%          5    350
+ Aura of Abjuration       Summ           12 (200)     9%          5    350
+ Bolt of Draining         Conj/Necr      12 (200)     9%          5    350
+ Bolt of Magma            Conj/Fire/Erth 12 (200)     9%          5    350
+ Borgnjor's Vile Clutch   Necr/Erth      12 (200)     9%          5    350
+ Dispel Undead            Necr           12 (100)     9%          5    350
+ Excruciating Wounds      Chrm/Necr      12 (200)     9%          5    350
+ Fireball                 Conj/Fire      12 (200)     9%          5    350
+ Irradiate                Conj/Tmut      12 (200)     9%          5    350
+ Iskenderun's Battlesphe  Conj/Chrm      12 (100)     9%          5    350
+ Lee's Rapid Deconstruct  Erth           12 (200)     9%          5    350
+ Lightning Bolt           Conj/Air       12 (200)     9%          5    350
+ Metabolic Englaciation   Hex/Ice        12 (200)     9%          5    350
+ Silence                  Hex/Air        12 (200)     9%          5    350
+ Summon Demon             Summ           12 (200)     9%          5    350
+ Summon Forest            Summ/Tloc      12 (200)     9%          5    350
+ Summon Mana Viper        Hex/Summ       12 (100)     9%          5    350
+ Venom Bolt               Conj/Pois      12 (200)     9%          5    350
+ Yara's Violent Unravell  Hex/Tmut       12 (200)     9%          5    350
+ Bolt of Cold             Conj/Ice       12 (200)     43%         6    500
+ Bolt of Fire             Conj/Fire      12 (200)     43%         6    500
+ Conjure Ball Lightning   Conj/Air       12 (200)     43%         6    500
+ Darkness                 Hex            12 (200)     43%         6    500
+ Death Channel            Necr           12 (200)     43%         6    500
+ Deflect Missiles         Chrm/Air       12 (200)     43%         6    500
+ Dispersal                Tloc           12 (200)     43%         6    500
+ Freezing Cloud           Conj/Ice/Air   12 (200)     43%         6    500
+ Invisibility             Hex            12 (100)     43%         6    500
+ Iron Shot                Conj/Erth      12 (200)     43%         6    500
+ Ozocubu's Refrigeration  Ice            12 (200)     43%         6    500
+ Poison Arrow             Conj/Pois      12 (200)     43%         6    500
+ Shadow Creatures         Summ           N/A          43%         6    500
+ Simulacrum               Ice/Necr       12 (200)     43%         6    500
+ Haunt                    Necr/Summ      12 (200)     95%         7    650
+ Malign Gateway           Summ/Tloc      12 (200)     95%         7    650
+ Monstrous Menagerie      Summ           12 (200)     95%         7    650
+ Orb of Destruction       Conj           12 (200)     95%         7    650
+ Ring of Flames           Chrm/Fire      12 (200)     95%         7    650
+ Spellforged Servitor     Conj/Summ      12 (200)     95%         7    650
+ Summon Greater Demon     Summ           12 (200)     95%         7    650
+ Summon Hydra             Summ           12 (200)     95%         7    650
+ Chain Lightning          Conj/Air       12 (200)     100%        8    800
+ Controlled Blink         Tloc           N/A          100%        8    800
+ Discord                  Hex            12 (200)     100%        8    800
+ Disjunction              Tloc           12 (200)     100%        8    800
+ Ignition                 Fire           12 (200)     100%        8    800
+ Infestation              Necr           12 (200)     100%        8    800
+ Lehudib's Crystal Spear  Conj/Erth      12 (200)     100%        8    800
+ Summon Horrible Things   Summ           12 (200)     100%        8    800
+ Dragon's Call            Summ           12 (200)     100%        9    950
+ Fire Storm               Conj/Fire      12 (200)     100%        9    950
+ Glaciate                 Conj/Ice       12 (200)     100%        9    950
+ Shatter                  Erth           12 (200)     100%        9    950
+ Tornado                  Air            12 (200)     100%        9    950
+ Beastly Appendage        Tmut           Unusable     N/A         1    N/A
+ Sublimation of Blood     Necr           Unusable     N/A         2    N/A
+ Spider Form              Tmut/Pois      Unusable     N/A         3    N/A
+ Ice Form                 Ice/Tmut       Unusable     N/A         4    N/A
+ Blade Hands              Tmut           Unusable     N/A         5    N/A
+ Hydra Form               Tmut           Unusable     N/A         6    N/A
+ Statue Form              Tmut/Erth      Unusable     N/A         6    N/A
+ Dragon Form              Tmut           Unusable     N/A         7    N/A
+ Borgnjor's Revivificati  Necr           Unusable     N/A         8    N/A
+ Death's Door             Chrm/Necr      Unusable     N/A         8    N/A
+ Necromutation            Tmut/Necr      Unusable     N/A         8    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+[Y]es or [N]o only, please.
+Memorise Death Channel, consuming 6 spell levels and leaving 35? 
+Okay, then.
+Okay, then.
+Okay, then.
+Okay, then.
+Unknown command.
+Search for what [? for help]? 
+Okay, then.
+Okay, then.
+Unknown command.
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Unknown command.
+Okay, then.
+Okay, then.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##+##
++..%+
+#.@.#
++...+
+##+##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An elephant (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Puppyam the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Reached XP level 2. HP: 69/69 MP: 0/29
+     1 | D:1      | Reached XP level 3. HP: 77/77 MP: 0/30
+     1 | D:1      | Reached XP level 4. HP: 85/85 MP: 0/32
+     1 | D:1      | Reached XP level 5. HP: 93/93 MP: 0/33
+     1 | D:1      | Reached XP level 6. HP: 102/102 MP: 0/35
+     1 | D:1      | Reached XP level 7. HP: 110/110 MP: 0/36
+     1 | D:1      | Reached XP level 8. HP: 118/118 MP: 0/38
+     1 | D:1      | Reached XP level 9. HP: 126/126 MP: 0/39
+     1 | D:1      | Reached XP level 10. HP: 135/135 MP: 0/40
+     1 | D:1      | Reached XP level 11. HP: 143/143 MP: 0/41
+     1 | D:1      | Reached XP level 12. HP: 151/151 MP: 0/42
+     1 | D:1      | Reached XP level 13. HP: 159/159 MP: 0/43
+     1 | D:1      | Reached XP level 14. HP: 168/168 MP: 0/44
+     1 | D:1      | Reached XP level 15. HP: 174/174 MP: 0/45
+     1 | D:1      | Reached XP level 16. HP: 183/183 MP: 0/46
+     1 | D:1      | Reached XP level 17. HP: 191/191 MP: 0/47
+     1 | D:1      | Reached XP level 18. HP: 200/200 MP: 0/48
+     1 | D:1      | Reached XP level 19. HP: 207/207 MP: 0/49
+     1 | D:1      | Reached XP level 20. HP: 216/216 MP: 0/50
+     1 | D:1      | Reached XP level 21. HP: 224/224 MP: 0/51
+     1 | D:1      | Reached XP level 22. HP: 233/233 MP: 0/52
+     1 | D:1      | Reached XP level 23. HP: 240/240 MP: 0/53
+     1 | D:1      | Reached XP level 24. HP: 249/249 MP: 0/53
+     1 | D:1      | Reached XP level 25. HP: 257/257 MP: 0/53
+     1 | D:1      | Reached XP level 26. HP: 266/266 MP: 0/53
+     1 | D:1      | Reached XP level 27. HP: 273/273 MP: 0/53
+     1 | D:1      | Learned a level 5 spell: Agony
+     2 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Agony             |       |       |       |       |       |       |       |       |     1 ||     1
+

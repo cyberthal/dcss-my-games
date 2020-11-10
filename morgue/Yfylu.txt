@@ -1,0 +1,473 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4969476649582925270
+
+Yfylu the Covert (Felid Conjurer)                  Turns: 31546, Time: 03:44:19
+
+Health: 45/45      AC:  2    Str:  6    XL:     11   Next: 33%
+Magic:  19/20      EV: 25    Int: 21    God:    Ashenzari [**....]
+Gold:   223        SH:  4    Dex: 16    Spells: 3/21 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  +   (cloak unavailable)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++.....             t - amulet "Vuculaoq" {Reflect rC+ MR+ Str+2 SH+4}
+HPRegen  0.15/turn              C - ring of resist corrosion (curse)
+MPRegen  0.17/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 2, slow metabolism 1, sharp paws
+a: Curse Item, Scrying, Renounce Religion
+
+
+You are on level 2 of the Lair of Beasts.
+You worship Ashenzari.
+Ashenzari is pleased with you.
+You are not hungry.
+
+You have visited 3 branches of the dungeon, and seen 13 of its levels.
+
+You have collected 753 gold pieces.
+You have spent 530 gold pieces at shops.
+
+Inventory:
+
+Missiles
+ d - 277 stones
+ n - 199 arrows
+Jewellery
+ m - an uncursed amulet of rage
+ t - the amulet "Vuculaoq" (around neck) {Reflect rC+ MR+ Str+2 SH+4}
+   (You took it off a gnoll on level 4 of the Dungeon)   
+   
+   [amulet of reflection]
+   
+   It shields you and reflects attacks.
+   It affects your strength (+2).
+   It protects you from cold.
+   It affects your resistance to hostile enchantments.
+   It affects your SH (+4).
+ x - an uncursed ring of ice
+ C - a cursed ring of resist corrosion (left paw)
+ F - an uncursed ring of flight
+Wands
+ f - a wand of random effects (23)
+ v - a wand of iceblast (7)
+ y - a wand of digging (2)
+ H - a wand of disintegration (9)
+Scrolls
+ c - 2 scrolls of noise
+ e - 3 scrolls of magic mapping
+ g - 2 scrolls of fear
+ i - a scroll of immolation
+ k - 6 scrolls of teleportation
+ l - 3 scrolls of fog
+ p - 3 scrolls of identify
+ s - 5 scrolls of remove curse
+ u - a scroll of holy word
+ B - a scroll of summoning
+ E - a scroll of vulnerability
+ G - a scroll of amnesia
+Potions
+ a - a potion of haste
+ h - 4 potions of flight
+ j - 2 potions of brilliance
+ o - 6 potions of curing
+ q - a potion of berserk rage
+ r - 2 potions of cancellation
+ w - a potion of might
+ z - a potion of invisibility
+ A - 2 potions of heal wounds
+ D - 3 potions of lignification
+Miscellaneous
+ I - a lightning rod (2/4)
+Comestibles
+ b - 23 rations
+ J - a chunk of flesh
+
+
+   Skills:
+ - Level 3.0 Fighting
+ * Level 9.7 Dodging
+ + Level 10.4 Stealth
+ - Level 8.6 Unarmed Combat
+ - Level 5.5 Spellcasting
+ - Level 5.0 Conjurations
+ - Level 4.0 Hexes
+ - Level 7.1 Necromancy
+ + Level 5.4 Evocations
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ####         1%          1    None
+b - Pain                  Necr           ####         1%          1    None
+c - Animate Skeleton      Necr           N/A          1%          1    None
+d - Searing Ray           Conj           ####..       1%          2    None
+e - Dazzling Spray        Conj/Hex       ####..       4%          3    ##.....
+f - Vampiric Draining     Necr           #####.....   1%          3    ##.....
+g - Regeneration          Chrm/Necr      ###.......   7%          3    ##.....
+h - Iskenderun's Mystic   Conj           ####....     13%         4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sting                    Conj/Pois      ###.         3%          1    None
+ Poisonous Vapours        Pois/Air       #.....       16%         2    None
+ Mephitic Cloud           Conj/Pois/Air  ##......     16%         3    ##.....
+ Animate Dead             Necr           N/A          5%          4    ####...
+ Fulminant Prism          Conj/Hex       ####......   16%         4    ####...
+ Force Lance              Conj/Tloc      ###.....     34%         4    ####...
+ Venom Bolt               Conj/Pois      ###.......   69%         5    #####..
+ Olgreb's Toxic Radiance  Pois           #.......     71%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:5            Lair (2/6) D:8
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 (   D:7 *   D:9 **(
+
+Annotations:
+D:10 exclusions: howler monkey, ugly thing and 1 more exclusion, Josephine
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+The bullfrog writhes in agony.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Pain (safe; 1% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - bullfrog
+Aim: a bullfrog (heavily wounded, chance to defeat MR: 84%)
+The bullfrog writhes in agony!
+You barely miss the bullfrog. You bite the bullfrog.
+You kill the bullfrog!
+Autopickup is now on.
+You see here a bullfrog corpse.
+You start resting.
+Magic restored.
+Casting: Pain (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+You attempt to give life to the dead...
+Before your eyes, flesh is ripped from the corpse!
+The dead are hopping!
+J - a chunk of flesh
+Saving game... please wait.
+
+    ,    ... #####. #...........##.######.
+ *,      .?.##.#..#*#...........#...#.##..
+  *   ,  ../.#....###P.........).#.#......
+   ,,  , ..........###..........###.......
+         ........#   #..........# #.......
+    ,    ........##*##.........## #P......
+        ..........# #.........^####.......
+        ..........###...........##........
+ ,,     ...........###.........##.........
+        .......................#..........
+      ,,................................#.
+       ,...............................#..
+ ,      ..................................
+,       ............@............P....P...
+ ,      ......P.....Z.....<..#........##..
+        ......#..#..................### ,
+        #..(..##.##.................# *,,
+        .....  ####.................# * ,
+,       )....    #..#..............##
+  * ~~  .... ,*  ###..............##
+      , ....,      ##...........###    * ,
+          ,   *     ##.........##
+  , ,      *         #.........##     *
+*      ,,           ##..........#
+  ,                 #...........##       ,
+                    #.#..........#       ,
+
+
+You can see a friendly bullfrog skeleton.
+
+Vanquished Creatures
+  2 unseen horrors (D:10)
+  An oklob plant (Lair:1)
+  A gargoyle (D:10)
+  A komodo dragon (Lair:1)
+  2 trolls
+  4 yaks (D:10)
+  A spriggan (D:8)
+  3 wraiths (D:9)
+  2 wyverns
+  Duvessa (D:5)
+  3 water moccasins
+  An ice beast (D:6)
+  3 sky beasts
+  An eye of draining (D:10)
+  2 necrophages
+  3 phantoms
+  14 wolves
+  3 centaurs
+  4 ogres
+  A crocodile (Lair:1)
+  A big kobold (D:10)
+  6 bullfrogs
+  3 gnoll sergeants
+  A water moccasin zombie (D:2)
+  Dowan (D:6)
+  A scorpion (D:9)
+  3 wights (D:10)
+  An oklob sapling (D:5)
+  2 howler monkeys (D:5)
+  4 electric eels (D:8)
+  8 crimson imps
+  3 centaur zombies
+  2 quasits (D:9)
+  A bullfrog skeleton (D:8)
+  9 hounds
+  An orc priest (D:3)
+  Crazy Yiuf (D:7)
+  3 jellies
+  6 orc wizards
+  2 centaur skeletons
+  7 worker ants
+  3 iguanas
+  A killer bee zombie (D:9)
+  2 hound zombies
+  A hound skeleton (D:4)
+  A howler monkey skeleton (D:6)
+  A howler monkey zombie (D:5)
+  18 gnolls
+  A worker ant zombie (D:6)
+  12 adders
+  3 shadow imps (D:8)
+  An ooze (D:4)
+  An adder skeleton (D:7)
+  3 worms
+  4 dart slugs
+  5 leopard geckos
+  27 orcs
+  10 bats
+  11 giant cockroaches
+  5 goblins
+  5 hobgoblins
+  13 jackals
+  9 quokkas
+  5 ball pythons
+  4 frilled lizards
+  A jackal skeleton (D:7)
+  A jackal zombie (D:4)
+  15 kobolds
+  A quokka zombie (D:8)
+  5 rats
+  A bush (Lair:1)
+  2 plants (D:5)
+291 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A yak (D:10)
+  A bullfrog (D:10)
+  A wight (D:10)
+  A worker ant (D:10)
+  A gnoll (D:10)
+5 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 fulminant prisms (D:6)
+2 creatures vanquished.
+
+Grand Total: 298 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Yfylu the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   349 | D:1      | Reached XP level 2. HP: 12/12 MP: 1/6
+   682 | D:1      | Reached skill level 1 in Fighting
+   682 | D:1      | Reached skill level 1 in Unarmed Combat
+  1112 | D:1      | Learned a level 2 spell: Searing Ray
+  1225 | D:1      | Reached skill level 3 in Stealth
+  2484 | D:1      | Reached XP level 3. HP: 15/15 MP: 0/7
+  2645 | D:1      | Learned a level 3 spell: Dazzling Spray
+  2843 | D:2      | Found a radiant altar of Vehumet.
+  3160 | D:2      | Reached XP level 4. HP: 19/19 MP: 3/8
+  3272 | D:2      | Reached skill level 4 in Stealth
+  3663 | D:2      | Found a stormy altar of Qazlal.
+  3786 | D:2      | Found a shadowy altar of Dithmenos.
+  3896 | D:2      | Found a glowing golden altar of the Shining One.
+  4476 | D:2      | Reached XP level 5. HP: 22/22 MP: 5/9
+  4764 | D:2      | Reached skill level 5 in Stealth
+  7884 | D:3      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  7884 | D:3      | Reached XP level 6. HP: 25/25 MP: 8/10
+  8405 | D:4      | Reached skill level 6 in Stealth
+  8482 | D:4      | Found a white marble altar of Elyvilon.
+  8498 | D:4      | Identified the amulet "Vuculaoq" {Reflect rC+ MR+ Str+2
+                  | SH+4}
+  8729 | D:4      | Became a worshipper of Elyvilon the Healer
+  9102 | D:4      | Fell from the grace of Elyvilon
+  9226 | D:4      | Reached skill level 5 in Dodging
+  9621 | D:4      | Reached skill level 1 in Evocations
+  9781 | D:5      | Entered Level 5 of the Dungeon
+  9879 | D:5      | Reached XP level 7. HP: 20/28 MP: 2/11
+  9970 | D:5      | Found a staircase to the Ecumenical Temple.
+ 10286 | D:5      | Reached skill level 7 in Stealth
+ 10874 | D:5      | Reached skill level 8 in Stealth
+ 10935 | D:5      | Reached XP level 8. HP: 33/33 MP: 7/12
+ 11345 | D:5      | Reached skill level 9 in Stealth
+ 11415 | D:5      | Found Wociullu's Weapon Boutique.
+ 12179 | Temple   | Entered the Ecumenical Temple
+ 12232 | Temple   | Became a worshipper of Ashenzari the Shackled
+ 12513 | D:6      | Found a basalt altar of Yredelemnul.
+ 12618 | D:6      | Noticed Dowan
+ 12739 | D:5      | Learned a level 4 spell: Fulminant Prism
+ 12928 | D:6      | Noticed Duvessa
+ 14239 | D:6      | Found a basalt altar of Yredelemnul.
+ 14294 | D:6      | Reached skill level 5 in Conjurations
+ 14702 | D:6      | Reached skill level 10 in Stealth
+ 15234 | D:6      | Found a basalt altar of Yredelemnul.
+ 15647 | D:6      | Killed Dowan
+ 15647 | D:6      | Reached XP level 9. HP: 28/36 MP: 6/13
+ 15939 | D:5      | Killed Duvessa
+ 16061 | D:6      | Learned a level 4 spell: Iskenderun's Mystic Blast
+ 16062 | D:7      | Found Icwuxeg's General Store.
+ 16164 | D:7      | Bought a potion of curing for 33 gold pieces
+ 16164 | D:7      | Bought a scroll of fog for 22 gold pieces
+ 16778 | D:7      | hid VM start book's spells.
+ 16884 | D:7      | Found a runed translucent door.
+ 16885 | D:7      | Noticed Crazy Yiuf
+ 17006 | D:7      | Killed Crazy Yiuf
+ 17091 | D:8      | Noticed a troll
+ 17632 | D:8      | Reached skill level 5 in Unarmed Combat
+ 17658 | D:8      | Found an ancient bone altar of Kikubaaqudgha.
+ 17660 | D:8      | Reached * piety under Ashenzari
+ 18619 | D:8      | Found a hazy altar of Hepliaklqana.
+ 20398 | D:8      | Found a staircase to the Lair.
+ 20564 | D:8      | Killed a troll
+ 20688 | D:8      | Found a glowing silver altar of Zin.
+ 20990 | D:9      | Noticed a troll
+ 21031 | D:9      | Found Pyrerchou's Assorted Antiques.
+ 21067 | D:8      | Learned a level 1 spell: Animate Skeleton
+ 21069 | D:8      | Learned a level 1 spell: Pain
+ 21127 | D:9      | Found Piudarra's Assorted Antiques.
+ 21384 | D:9      | Bought a scroll labeled ERRONONGUD for 32 gold pieces
+ 21385 | D:9      | Bought a potion of curing for 96 gold pieces
+ 21385 | D:9      | Bought a scroll of teleportation for 96 gold pieces
+ 21385 | D:9      | Bought a shiny sapphire ring for 160 gold pieces
+ 21582 | D:9      | Found Ogeorievepp's Antique Weapon Shoppe.
+ 22154 | D:9      | Reached XP level 10. HP: 40/40 MP: 9/14
+ 22547 | D:9      | Found Guhapn's General Store.
+ 22854 | D:9      | Reached skill level 1 in Necromancy
+ 22948 | D:9      | Bought a wand of random effects (12) for 91 gold pieces
+ 23001 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+ 23072 | D:10     | Entered Level 10 of the Dungeon
+ 25719 | D:10     | Noticed an unseen horror
+ 25721 | D:10     | Identified the ring "Qarim" {rN+ Str+4 Dex+2 Stlth+}
+ 25721 | D:10     | Noticed a red ugly thing
+ 25749 | D:10     | Noticed a gargoyle
+ 25758 | D:10     | Noticed an unseen horror
+ 25778 | D:10     | Killed an unseen horror
+ 25929 | D:10     | Killed an unseen horror
+ 25929 | D:10     | Reached skill level 5 in Necromancy
+ 25929 | D:10     | Reached skill level 5 in Evocations
+ 25951 | D:9      | Learned a level 3 spell: Vampiric Draining
+ 25955 | D:9      | Learned a level 3 spell: Regeneration
+ 26431 | D:10     | Reached skill level 5 in Spellcasting
+ 26738 | D:10     | Noticed Josephine
+ 26863 | D:9      | Reached XP level 11. HP: 45/45 MP: 14/20
+ 27913 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 28186 | Lair:1   | Reached ** piety under Ashenzari
+ 28296 | Lair:1   | Noticed an oklob plant
+ 31044 | Lair:1   | Killed an oklob plant
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Dodging        |  3           4  5  7  8  9       |  9.7
+Fighting       |     1              2        3    |  3.0
+Unarmed Combat |     2     3     4        8       |  8.6
+Stealth        |     3     4  5  6  8 10          | 10.4
+Hexes          |        2              4          |  4.0
+Evocations     |                 1        3  5    |  5.4
+Conjurations   |                       5          |  5.0
+Necromancy     |                             5  7 |  7.1
+Spellcasting   |                             5    |  5.5
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |    11 |    49 |   217 |   102 ||   379
+       Bite              |       |     2 |    32 |     4 ||    38
+       Punch             |       |       |     6 |     2 ||     8
+ Cast: Magic Dart        |    87 |   137 |   208 |   148 ||   580
+       Searing Ray       |     3 |    18 |    56 |    42 ||   119
+       Dazzling Spray    |       |     1 |    15 |    13 ||    29
+       Fulminant Prism   |       |       |     2 |       ||     2
+       Iskenderun's Myst |       |       |     5 |    18 ||    23
+       Animate Skeleton  |       |       |       |    28 ||    28
+       Pain              |       |       |       |    41 ||    41
+       Regeneration      |       |       |       |     8 ||     8
+       Vampiric Draining |       |       |       |     3 ||     3
+Invok: Renounce Religion |       |     1 |       |       ||     1
+       Curse Item        |       |       |     1 |       ||     1
+ Abil: Evoke Berserk Rag |       |       |     1 |     5 ||     6
+Evoke: Wand              |       |       |     9 |    17 ||    26
+       Lightning rod     |       |       |       |     2 ||     2
+  Use: Scroll            |     3 |     9 |    11 |     2 ||    25
+       Potion            |     1 |     4 |     1 |       ||     6
+ Stab: Sleeping          |     1 |    10 |    18 |     4 ||    33
+       Invisible         |       |       |     3 |     1 ||     4
+       Distracted        |       |       |     2 |     1 ||     3
+       Paralysed         |       |       |       |     1 ||     1
+  Eat: Chunk             |    13 |    15 |    32 |    25 ||    85
+Armor: Skin              |     1 |     7 |     6 |     2 ||    16
+Dodge: Dodged            |    31 |    53 |   178 |   163 ||   425
+Block: Other             |       |       |    30 |    27 ||    57
+       Reflection        |       |       |       |     5 ||     5
+

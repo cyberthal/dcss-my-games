@@ -1,0 +1,211 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12683111959050896103
+
+0 Muxebb the Archmage (level 1, 13/18 HPs) *WIZ*
+             Began as a Demonspawn Abyssal Knight on Aug 17, 2020.
+             Was the Champion of Lugonu.
+             Quit the game on level 5 of the Realm of Zot.
+             The game lasted 00:07:04 (185 turns).
+
+Muxebb the Archmage (Demonspawn Abyssal Knight)      Turns: 185, Time: 00:07:05
+
+Health: 13/18      AC:  3    Str: 12    XL:     1   Next: 0%
+Magic:  22/28      EV: 11    Int: 13    God:    Lugonu 168 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 54/54 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.21/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Depart the Abyss, Bend Space, Banish, Corrupt, Enter the Abyss, Brand Weapon
+With Distortion, Renounce Religion
+
+
+You were on level 5 of the Realm of Zot.
+You worshipped Lugonu.
+Lugonu was exalted by your worship.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ d - a wand of digging (51)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 1.7 Long Blades
+ + Level 1.7 Armour
+ + Level 0.8 Dodging
+ O Level 27 Spellcasting
+ + Level 0.0 Invocations
+
+
+You had 54 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (0/15)            
+
+Altars:
+
+Annotations:
+Zot:5 corrupted
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Enter Wizard Command (? - help): 
+Which skill (by name)? Invo
+Invocations
+To what level? 0
+Lowered Invocations to skill level 0.0.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+You fail to use your ability.
+Lugonu's Hand of Corruption reaches out!
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         ##(...##^........^......##
+##########...###..................##
+..........^.###.^..................#
+...........## #....................#
+...........#  #................^...#
+..........##  #..^.................#
+......^...#   .....................#
+..........##  #....................#
+...........#  ##...........$....^.##
+...........##  ##........^.......##
+............#   ##..............##
+####.########    ##.#############
+####.#           #...@#    #####
+.##..#          #....#...# #...#
+.##.##############.h..##.###...###
+.#...#..........#................#
+.....?....$.....#..#.............##
+................#.........$.......#
+...................#..............#
+..................................###
+######.......(...#####..##^..##.....#
+#    #.....#.....#####^.#######.....#
+#    #.....#......##....#     #....$#
+######..#######...##....#     ##.####
+
+
+You could see a neutral raiju (wandering).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Muxebb the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     0 | Abyss:1  | Entered wizard mode.
+     0 | Zot:5    | Entered Level 5 of the Realm of Zot
+     0 | Zot:5    | Noticed a green draconian scorcher
+     0 | Zot:5    | Noticed a red draconian
+     0 | Zot:5    | Noticed a white draconian
+     0 | Zot:5    | Noticed a green draconian
+     0 | Zot:5    | Noticed a white draconian
+     0 | Zot:5    | Noticed a purple draconian shifter
+     6 | Zot:5    | Reached ** piety under Lugonu
+     6 | Zot:5    | Reached *** piety under Lugonu
+     6 | Zot:5    | Reached **** piety under Lugonu
+     6 | Zot:5    | Reached ***** piety under Lugonu
+     6 | Zot:5    | Reached ****** piety under Lugonu
+     6 | Zot:5    | Corrupted Zot:5
+     6 | Zot:5    | Noticed a ynoxinul
+     6 | Zot:5    | Noticed a five-headed hydra skeleton
+     6 | Zot:5    | Noticed a tentacled starspawn
+     6 | Zot:5    | Noticed a ynoxinul
+     6 | Zot:5    | Noticed a large abomination
+     6 | Zot:5    | Noticed a small abomination
+     6 | Zot:5    | Noticed a large abomination
+     6 | Zot:5    | Noticed an eidolon
+     6 | Zot:5    | Noticed a small abomination
+     6 | Zot:5    | Noticed a vampire mage
+     7 | Zot:5    | Entered Level 5 of the Realm of Zot
+     9 | Zot:5    | Corrupted Zot:5
+     9 | Zot:5    | Noticed an apocalypse crab
+     9 | Zot:5    | Noticed a large abomination
+    10 | Zot:5    | Noticed a ynoxinul
+    10 | Zot:5    | Entered Level 5 of the Realm of Zot
+    10 | Zot:5    | Noticed a moth of wrath
+   110 | Zot:5    | Entered Level 5 of the Realm of Zot
+   111 | Zot:4    | Noticed a storm dragon
+   111 | Zot:4    | Noticed a moth of wrath
+   111 | Zot:4    | Noticed a storm dragon
+   111 | Zot:4    | Noticed a storm dragon
+   111 | Zot:4    | Noticed an orb of fire
+   111 | Zot:4    | Noticed a moth of wrath
+   111 | Zot:4    | Noticed a tentacled monstrosity
+   172 | Zot:5    | Corrupted Zot:5
+   172 | Zot:5    | Noticed a small abomination
+   172 | Zot:5    | Noticed an iron imp
+   172 | Zot:5    | Noticed an efreet
+   172 | Zot:5    | Noticed a quasit
+   172 | Zot:5    | Noticed an alligator zombie
+   172 | Zot:5    | Noticed a neqoxec
+   172 | Zot:5    | Noticed an ice dragon skeleton
+   172 | Zot:5    | Noticed a thrashing horror
+   172 | Zot:5    | Noticed a ynoxinul
+   173 | Zot:5    | Entered Level 5 of the Realm of Zot
+   173 | Zot:5    | Noticed a storm dragon
+   173 | Zot:5    | Noticed a Killer Klown
+   173 | Zot:5    | Found a transporter.
+   173 | Zot:5    | Noticed a tentacled monstrosity
+   173 | Zot:5    | Noticed a moth of wrath
+   173 | Zot:5    | Found a transporter.
+   174 | Zot:5    | Corrupted Zot:5
+   174 | Zot:5    | Noticed a large abomination
+   174 | Zot:5    | Noticed a small abomination
+   174 | Zot:5    | Noticed a smoke demon
+   174 | Zot:5    | Noticed a tentacled starspawn
+   174 | Zot:5    | Noticed a cacodemon
+   174 | Zot:5    | Noticed a large abomination
+   174 | Zot:5    | Noticed a large abomination
+   175 | Zot:5    | Noticed a tentacled starspawn
+   175 | Zot:5    | Entered Level 5 of the Realm of Zot
+   175 | Zot:5    | Noticed a moth of wrath
+   184 | Zot:5    | Corrupted Zot:5
+   184 | Zot:5    | Noticed a raiju
+   185 | Zot:5    | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Corrupt           ||     5
+Evoke: Wand              ||     3
+

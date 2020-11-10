@@ -1,0 +1,599 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14469561905312789708
+
+18835 Rokinapp the Frost Mage (level 12, 88/88 HPs) *WIZ*
+             Began as a Barachi Ice Elementalist on Oct 13, 2020.
+             Was a Priest of Sif Muna.
+             Quit the game on level 3 of the Lair of Beasts on Oct 14, 2020.
+             The game lasted 04:32:47 (19226 turns).
+
+Rokinapp the Frost Mage (Barachi Ice Elementalist) Turns: 19226, Time: 04:32:48
+
+Health: 88/88      AC:  6    Str: 10    XL:     12   Next: 62%
+Magic:  18/18      EV: 18    Int: 19    God:    Sif Muna [***...]
+Gold:   101        SH:  0    Dex: 18    Spells: 1/19 levels left
+
+rFire    . . .     SeeInvis .   a - +0 shortbow
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   P - +0 troll leather armour
+rPois    .         Spirit   .   k - +0 helmet
+rElec    .         Reflect  .   v - scarf {repulsion}
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++++.....             I - amulet of magic regeneration
+HPRegen  0.64/turn              s - ring of stealth
+MPRegen  0.41/turn              U - +2 ring of evasion
+
+@: divine energy, repel missiles, slow
+A: +LOS, swims, camouflage 1, agile 2, slowness 1, MP-powered wands, strong legs
+1
+a: Hop, Stop Divine Energy, Channel Magic, Renounce Religion
+
+
+You were on level 3 of the Lair of Beasts.
+You worshipped Sif Muna.
+Sif Muna was most pleased with you.
+You were very hungry.
+
+You visited 3 branches of the dungeon, and saw 15 of its levels.
+You also visited: Ice Cave.
+
+You collected 911 gold pieces.
+You spent 810 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 shortbow (weapon)
+ b - the +5 long sword "Deto Abbe" {slice, rElec MR+}
+   (You found it on level 6 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It insulates you from electricity.
+   It affects your resistance to hostile enchantments.
+ c - a +2 dagger of speed
+ d - a +4 dagger of chaos
+ e - a +2 short sword of venom
+ f - a +3 scimitar of flaming
+ h - a +0 trident
+ i - a +0 hunting sling
+ j - a +0 blowgun
+Missiles
+ g - 3 throwing nets {!f}
+ m - 12 tomahawks
+ n - 290 stones
+ t - 141 arrows (quivered)
+ y - 8 needles of confusion {!f}
+ D - 8 needles of sleeping {!f}
+ G - 88 poisoned needles
+Armour
+ k - a +0 helmet (worn)
+ o - the +7 chain mail of Altruism {MR+ Str+5}
+   (You found it on level 10 of the Dungeon)   
+   
+   It affects your strength (+5).
+   It affects your resistance to hostile enchantments.
+ v - a scarf of repulsion (worn)
+ w - the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+   (You found it on level 9 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (-2).
+   It lets you see invisible.
+   It makes you more stealthy.
+ L - the +2 ring mail of the Catfish {rF+ Str+3}
+   (You found it on level 1 of the Lair of Beasts)   
+   
+   It affects your strength (+3).
+   It protects you from fire.
+ P - a +0 troll leather armour (worn)
+ T - the +0 leather armour of the Vacuum {MR- Str+3 Dex+3 Slay+2}
+   (You found it on level 3 of the Lair of Beasts)   
+   
+   It affects your strength (+3).
+   It affects your dexterity (+3).
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+2).
+   It affects your resistance to hostile enchantments.
+ X - a +2 robe of magic resistance
+Jewellery
+ q - an uncursed ring of wizardry
+ s - a ring of stealth (left hand)
+ A - an uncursed ring of see invisible
+ F - an uncursed amulet of regeneration
+ I - an amulet of magic regeneration (around neck)
+ Q - the ring of Adaewewn {rElec Dex+3}
+   (You found it on level 2 of the Lair of Beasts)   
+   
+   [ring of dexterity]
+   
+   It affects your dexterity (+3).
+   It insulates you from electricity.
+ R - a +3 ring of intelligence
+ U - a +2 ring of evasion (right hand)
+ V - an uncursed ring of resist corrosion
+ W - an uncursed ring of protection from fire
+Wands
+ l - a wand of acid (23)
+ E - a wand of scattershot (3)
+ M - a wand of paralysis (5)
+ N - a wand of iceblast (10)
+Scrolls
+ z - 2 scrolls of remove curse
+ B - 2 scrolls of immolation
+ H - 2 scrolls of blinking
+ J - a scroll of amnesia
+ K - 9 scrolls of teleportation
+ S - 2 scrolls of fog
+Potions
+ p - 3 potions of brilliance
+ r - a potion of berserk rage
+ u - a potion of haste
+ x - 2 potions of might
+ O - 2 potions of lignification
+ Z - 4 potions of curing
+Miscellaneous
+ Y - a phial of floods
+Comestibles
+ C - 7 rations
+
+
+   Skills:
+ - Level 6.0 Fighting
+ - Level 3.2(6.9) Short Blades
+ - Level 10.5(10.7) Long Blades
+   Level 0.9 Maces & Flails
+ - Level 2.0(3.2) Slings
+ - Level 3.0 Bows
+ + Level 3.9(4.2) Throwing
+ * Level 8.4 Armour
+ - Level 7.0 Dodging
+ - Level 4.0 Stealth
+ - Level 4.0 Spellcasting
+ - Level 3.0 Conjurations
+ - Level 2.1 Charms
+ - Level 1.0 Summonings
+ - Level 1.0 Necromancy
+ - Level 11.0 Ice Magic
+ - Level 2.0 Invocations
+ + Level 8.7 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            ####         1%          1    None
+b - Animate Skeleton      Necr           N/A          12%         1    None
+c - Throw Frost           Conj/Ice       ####..       1%          2    ##.....
+d - Ozocubu's Armour      Chrm/Ice       ####....     3%          3    ###....
+e - Regeneration          Chrm/Necr      #.........   28%         3    ###....
+f - Throw Icicle          Conj/Ice       ####....     10%         4    ####...
+g - Summon Ice Beast      Ice/Summ       ####....     14%         4    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           #...         12%         1    None
+ Vampiric Draining        Necr           #.........   34%         3    ###....
+ Animate Dead             Necr           N/A          75%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:5            Lair (3/6) D:10
+    Orc (0/2) D:9         
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 =
+
+Annotations:
+D:3 dig for gold, 3 runed translucent doors, Ronagh's ghost, amateur HuMo
+D:4 3 runed translucent doors, HilariousDeathArtist's ghost, amateur GrAr
+D:5 rcorr loot
+D:6 upstair, exclusion: upstairs
+D:8 hatch
+D:9 1 runed translucent door, jersan95's ghost, journeyman NaVM
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+Your skin changes colour to match your surroundings (Stealth+).
+You are very agile. (Dex +4)
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+Y - a phial of floods
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 troll leather armour. x4
+You finish taking off your +0 troll leather armour.
+You start putting on your armour.
+You continue putting on your encrusted leather armour. x5
+You finish putting on the cursed +0 leather armour of the Vacuum {MR- Str+3
+Dex+3 Slay+2}.
+Oops, that feels deathly cold.
+As you read the scroll of remove curse, it crumbles to dust.
+You feel as if something is helping you.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off the +0 leather armour of the Vacuum {MR- Str+3 Dex+3
+Slay+2}. x4
+You finish taking off the +0 leather armour of the Vacuum {MR- Str+3 Dex+3
+Slay+2}.
+You start putting on your armour.
+You continue putting on your +0 troll leather armour. x5
+You finish putting on your +0 troll leather armour.
+Enter note: time to quit
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+........................
+(.......###..#..........
+...#..###.............#
+~~........~..#........#
+~~.#......~~~#........##.
+~~....(...~~~~..........
+~~.........~##.......##
+~~......#.............#
+...#....#....0.......###
+###...##.#.............#
+.............P#~~#.#P..#
+...(.........#~00~~###.#
+.............#00~~~###.#
+.............#..~.###.@#
+(..........P...........#
+####.......#..#.#....###
+.  ##.........##.....P
+..  #......P...#......
+##            .......
+              ##.##.
+               ## #.
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Harold (D:7)
+  Erolcha (D:9)
+  A two-headed ogre (D:8)
+  An unseen horror (D:10)
+  An ugly thing (D:8)
+  A black mamba (Lair:2)
+  Psyche (D:8)
+  3 spiny frogs (Lair:2)
+  A komodo dragon (Lair:1)
+  A wolf spider simulacrum (IceCv)
+  5 blink frogs (Lair:1)
+  3 hippogriffs
+  A shadow (D:9)
+  21 yaks
+  3 wyverns
+  3 basilisks
+  2 hungry ghosts
+  A steam dragon (D:10)
+  2 porcupines (Lair:2)
+  2 orc warriors
+  2 ice beasts (D:6)
+  A black bear (Lair:1)
+  2 phantoms
+  2 sky beasts (D:7)
+  6 wolves
+  2 centaurs
+  5 ogres
+  4 crocodiles
+  A wyvern zombie (D:9)
+  14 bullfrogs
+  A wyvern skeleton (D:10)
+  9 killer bees
+  2 scorpions
+  3 electric eels (Lair:2)
+  12 crimson imps
+  A lava snake (D:9)
+  2 bullfrog zombies
+  3 hounds
+  8 orc wizards
+  A centaur skeleton (D:5)
+  2 jellies
+  4 orc priests
+  5 worker ants
+  An iguana (D:9)
+  3 hound skeletons
+  A hound zombie (D:6)
+  2 worker ant zombies (D:8)
+  A howler monkey zombie (D:9)
+  A howler monkey skeleton (D:7)
+  12 adders
+  2 shadow imps
+  3 oozes (D:2)
+  An adder zombie (D:6)
+  2 adder skeletons
+  2 worms (D:2)
+  2 dart slugs
+  2 leopard geckos
+  42 orcs
+  5 giant cockroaches
+  7 goblins
+  6 hobgoblins
+  7 jackals
+  4 quokkas
+  A ball python (D:1)
+  3 bats
+  4 frilled lizards
+  12 kobolds
+  A quokka skeleton (D:9)
+  6 rats
+280 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hydra (Lair:2)
+  Erica (D:9)
+  A black mamba (Lair:2)
+  A spiny frog (Lair:1)
+  A komodo dragon (Lair:3)
+  2 trolls (D:10)
+  4 blink frogs (Lair:3)
+  3 yaks
+  A basilisk (Lair:3)
+  Grum (D:9)
+  A hungry ghost (D:10)
+  A necrophage (D:9)
+  4 wolves (Lair:2)
+  A centaur (D:10)
+  A crocodile (D:10)
+  A bullfrog (D:10)
+  A centaur zombie (D:10)
+  A hound (D:9)
+  2 worker ants (Lair:3)
+  2 orcs (D:9)
+  2 plants (Lair:2)
+33 creatures vanquished.
+
+Vanquished Creatures (others)
+  A bush (Lair:2)
+  5 fungi (Lair:2)
+  21 plants (Lair:2)
+27 creatures vanquished.
+
+Grand Total: 340 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rokinapp the Barachi Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   238 | D:1      | Reached skill level 1 in Fighting
+   306 | D:1      | Reached XP level 2. HP: 21/21 MP: 1/5
+   310 | D:1      | Learned a level 2 spell: Throw Frost
+   612 | D:1      | Reached skill level 1 in Throwing
+   835 | D:1      | You fall through a shaft!
+   948 | D:2      | Noticed a crimson imp
+   975 | D:2      | Killed a crimson imp
+   975 | D:2      | Reached skill level 4 in Ice Magic
+   975 | D:2      | Reached XP level 3. HP: 26/26 MP: 2/6
+   980 | D:2      | Learned a level 3 spell: Ozocubu's Armour
+  1174 | D:2      | Reached XP level 4. HP: 26/32 MP: 3/7
+  1584 | D:1      | Reached skill level 1 in Short Blades
+  2141 | D:2      | Found an iron altar of Okawaru.
+  2577 | D:2      | Reached skill level 1 in Slings
+  2577 | D:2      | Reached skill level 5 in Ice Magic
+  2577 | D:2      | Reached XP level 5. HP: 37/37 MP: 5/8
+  3158 | D:3      | Found a glowing silver altar of Zin.
+  3270 | D:3      | Found a runed translucent gate.
+  3271 | D:3      | Noticed Ronagh's ghost (amateur HuMo)
+  3272 | D:3      | Found a runed translucent gate.
+  3272 | D:3      | Found a runed translucent gate.
+  3775 | D:3      | Reached skill level 6 in Ice Magic
+  4113 | D:4      | Reached XP level 6. HP: 43/43 MP: 6/9
+  4406 | D:4      | Noticed a phantom
+  4465 | D:4      | Killed a phantom
+  4763 | D:4      | Found a runed translucent gate.
+  4763 | D:4      | Found a runed translucent gate.
+  4763 | D:4      | Found a runed translucent gate.
+  4764 | D:4      | Noticed HilariousDeathArtist's ghost (amateur GrAr)
+  5289 | D:5      | Entered Level 5 of the Dungeon
+  5314 | D:5      | Found a glowing golden altar of the Shining One.
+  5333 | D:5      | Reached skill level 1 in Evocations
+  5472 | D:5      | Found a staircase to the Ecumenical Temple.
+  5482 | D:5      | Reached XP level 7. HP: 50/50 MP: 7/10
+  5488 | D:5      | Learned a level 4 spell: Throw Icicle
+  5587 | Temple   | Entered the Ecumenical Temple
+  5594 | Temple   | Became a worshipper of Sif Muna the Loreminder
+  5704 | D:5      | Reached skill level 7 in Ice Magic
+  6125 | D:5      | Found a shadowy altar of Dithmenos.
+  6756 | D:5      | Found a stormy altar of Qazlal.
+  6759 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  6810 | D:6      | Found Sokagucs's Jewellery Shoppe.
+  6810 | D:6      | Found a bloodstained altar of Trog.
+  6812 | D:6      | Got a brightly glowing long sword
+  6848 | D:5      | Identified the +5 long sword "Deto Abbe" {slice, rElec MR+}
+                  | (You found it on level 6 of the Dungeon)
+  7070 | D:6      | Reached skill level 1 in Charms
+  7107 | D:6      | Reached skill level 1 in Long Blades
+  7260 | D:6      | Reached XP level 8. HP: 52/58 MP: 8/11
+  7272 | D:6      | Reached skill level 8 in Ice Magic
+  7756 | D:5      | Found a white marble altar of Elyvilon.
+  7808 | D:5      | Noticed a rust devil
+  7808 | D:5      | Noticed a rust devil
+  7958 | D:7      | Reached * piety under Sif Muna
+  7971 | D:7      | Reached skill level 1 in Bows
+  8146 | D:7      | Noticed Harold
+  8242 | D:7      | Reached XP level 9. HP: 47/65 MP: 0/12
+  8248 | D:7      | Reached skill level 5 in Long Blades
+  8493 | D:7      | Reached skill level 9 in Ice Magic
+  8618 | D:7      | Found an opulent altar of Gozag.
+  8707 | D:7      | Killed Harold
+  8707 | D:7      | Reached skill level 5 in Evocations
+  9007 | D:8      | Noticed a cyan ugly thing
+  9030 | D:8      | Found a bloodstained altar of Trog.
+  9032 | D:8      | Noticed Psyche
+  9044 | D:8      | Killed Psyche
+  9194 | D:8      | Reached XP level 10. HP: 71/72 MP: 14/14
+  9480 | D:6      | Bought an uncursed ring of resist corrosion for 240 gold
+                  | pieces
+  9604 | D:8      | Killed a cyan ugly thing
+  9604 | D:8      | Reached skill level 5 in Dodging
+  9903 | D:8      | Noticed a two-headed ogre
+ 10188 | D:8      | Killed a two-headed ogre
+ 10188 | D:8      | Reached skill level 5 in Fighting
+ 10381 | D:8      | Reached skill level 10 in Ice Magic
+ 10522 | D:9      | Found a runed translucent door.
+ 10713 | D:9      | Reached ** piety under Sif Muna
+ 10775 | D:9      | Noticed Erolcha
+ 10779 | D:9      | Entered wizard mode.
+ 10781 | D:9      | Killed Erolcha
+ 10922 | D:9      | Reached XP level 11. HP: 56/81 MP: 9/16
+ 10930 | D:8      | Learned a level 4 spell: Summon Ice Beast
+ 11067 | D:9      | Noticed Grum
+ 11073 | D:9      | Killed Grum
+ 11073 | D:9      | Reached skill level 1 in Summonings
+ 11166 | D:9      | Noticed jersan95's ghost (journeyman NaVM)
+ 11167 | D:9      | Noticed a deep elf knight
+ 11458 | D:9      | Noticed Erica
+ 11599 | D:9      | Reached skill level 1 in Armour
+ 11741 | D:9      | Found a staircase to the Orcish Mines.
+ 12073 | D:9      | Found the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+ 12335 | D:6      | Bought an uncursed ring of stealth for 210 gold pieces
+ 12432 | D:10     | Entered Level 10 of the Dungeon
+ 12436 | D:10     | Noticed an unseen horror
+ 12449 | D:10     | Killed an unseen horror
+ 13089 | D:10     | Reached skill level 10 in Long Blades
+ 13292 | D:10     | Got a faintly glowing chain mail
+ 13756 | D:10     | Found a staircase to the Lair.
+ 14313 | D:9      | Reached *** piety under Sif Muna
+ 14522 | D:9      | Killed Erica
+ 14800 | D:10     | 26 % fail, 20 def, 1 armor SL
+ 14800 | D:10     | armor has no effect between 0-2 SL
+ 14801 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 14879 | D:10     | Reached skill level 11 in Ice Magic
+ 14948 | D:10     | Gained mutation: Your skin changes colour to match your
+                  | surroundings (Stealth+). [potion of mutation]
+ 14948 | D:10     | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+ 14948 | D:10     | Gained mutation: You are agile. (Dex +2) [potion of
+                  | mutation]
+ 14948 | D:10     | Gained mutation: You are very agile. (Dex +4) [potion of
+                  | mutation]
+ 15053 | Lair:1   | Reached skill level 1 in Invocations
+ 15482 | Lair:1   | Learned a level 1 spell: Animate Skeleton
+ 15746 | D:9      | Identified the +7 chain mail of Altruism {MR+ Str+5} (You
+                  | found it on level 10 of the Dungeon)
+ 16101 | D:6      | Bought an uncursed ring of wizardry for 360 gold pieces
+ 16447 | Lair:1   | Identified the +2 ring mail of the Catfish {rF+ Str+3} (You
+                  | found it on level 1 of the Lair of Beasts)
+ 16716 | Lair:1   | Learned a level 3 spell: Regeneration
+ 16898 | Lair:1   | Reached skill level 1 in Necromancy
+ 17106 | Lair:1   | Reached XP level 12. HP: 68/88 MP: 1/18
+ 17612 | Lair:2   | Reached skill level 5 in Armour
+ 17743 | Lair:2   | Got a warped wooden ring
+ 17755 | Lair:2   | Noticed a four-headed hydra
+ 17762 | Lair:2   | Killed a one-headed hydra
+ 18935 | Lair:3   | Identified the ring of Adaewewn {rElec Dex+3} (You found it
+                  | on level 2 of the Lair of Beasts)
+ 18941 | Lair:3   | Found a frozen archway.
+ 18974 | IceCv    | Entered an ice cave
+ 19159 | Lair:3   | bored with him now
+ 19197 | Lair:3   | Got an encrusted leather armour
+ 19215 | Lair:3   | Identified the cursed +0 leather armour of the Vacuum {MR-
+                  | Str+3 Dex+3 Slay+2} (You found it on level 3 of the Lair of
+                  | Beasts)
+ 19226 | Lair:3   | time to quit
+ 19226 | Lair:3   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |  1              2  3  4     6       |  6.0
+Throwing       |     1                       2  3    |  3.9
+Stealth        |     2                    3     4    |  4.0
+Ice Magic      |     4     5  6     7  8  9 10 11    | 11.0
+Short Blades   |           1  2  3                   |  3.2
+Slings         |           1     2                   |  2.0
+Evocations     |                 1  2  4  5  6  8    |  8.7
+Charms         |                    1           2    |  2.1
+Long Blades    |                    1  4  7  9 10    | 10.5
+Dodging        |                       3  4  5  6  7 |  7.0
+Bows           |                       2  3          |  3.0
+Spellcasting   |                             3  4    |  4.0
+Conjurations   |                             2  3    |  3.0
+Summonings     |                                1    |  1.0
+Armour         |                                2  8 |  8.4
+Invocations    |                                2    |  2.0
+Necromancy     |                                1    |  1.0
+Maces & Flails |                                     |  0.9
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     8 |       |       |       ||     8
+       Club              |     7 |     3 |       |       ||    10
+       Dagger            |       |   149 |    42 |     1 ||   192
+       Long sword        |       |       |    87 |  4300 ||  4387
+       Trident           |       |       |       |    22 ||    22
+       Short sword       |       |       |       |     5 ||     5
+       Scimitar          |       |       |       |     6 ||     6
+ Fire: Hunting sling     |       |   138 |    93 |     2 ||   233
+       Shortbow          |       |       |    50 |   259 ||   309
+       Blowgun           |       |       |       |     2 ||     2
+Throw: Tomahawk          |     8 |     5 |     1 |     4 ||    18
+       Stone             |       |    22 |       |       ||    22
+       Throwing net      |       |       |       |     2 ||     2
+ Cast: Freeze            |    15 |    52 |    56 |   120 ||   243
+       Ozocubu's Armour  |     1 |    10 |    12 |    68 ||    91
+       Throw Frost       |       |     5 |     8 |    19 ||    32
+       Throw Icicle      |       |       |       |    58 ||    58
+       Summon Ice Beast  |       |       |       |    54 ||    54
+       Animate Skeleton  |       |       |       |    22 ||    22
+Invok: Divine Energy     |       |       |     1 |       ||     1
+ Abil: Hop               |     1 |     1 |     4 |    27 ||    33
+       Evoke Fog         |       |       |       |     1 ||     1
+Evoke: Wand              |       |       |     3 |     6 ||     9
+  Use: Scroll            |       |     9 |     8 |     9 ||    26
+       Potion            |       |     2 |     3 |     4 ||     9
+ Stab: Sleeping          |     2 |     1 |     1 |     1 ||     5
+       Paralysed         |       |       |     3 |       ||     3
+       Distracted        |       |       |       |     1 ||     1
+  Eat: Chunk             |     2 |     9 |    13 |    40 ||    64
+       Ration            |       |     2 |     2 |     7 ||    11
+Armor: Robe              |     1 |     9 |       |       ||    10
+       Leather armour    |       |    17 |    55 |    51 ||   123
+       Troll leather arm |       |       |       |   713 ||   713
+       Chain mail        |       |       |       |     5 ||     5
+Dodge: Dodged            |    21 |    81 |   105 |  2552 ||  2759
+       Deflected         |       |       |     7 |    12 ||    19
+Rpst.: Long sword        |       |       |    26 |   833 ||   859
+       Scimitar          |       |       |       |     2 ||     2
+

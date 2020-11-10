@@ -1,0 +1,279 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3732494800161867807
+
+674 Dute Ops the Chiller (level 7, 43/43 HPs)
+             Began as an Octopode Venom Mage on Oct 21, 2020.
+             Quit the game on level 4 of the Dungeon.
+             The game lasted 00:50:06 (6197 turns).
+
+Dute Ops the Chiller (Octopode Venom Mage)          Turns: 6197, Time: 00:50:06
+
+Health: 43/43      AC:  1    Str:  7    XL:     7   Next: 59%
+Magic:  10/10      EV: 13    Int: 20    God:    
+Gold:   206        SH:  0    Dex: 12    Spells: 0/10 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (helmet restricted)
+rPois    .         Spirit   .   (no amulet)
+rElec    .         Reflect  .   (no ring)
+rCorr    .         Harm     .   (no ring)
+MR       .....                  (no ring)
+Stlth    +++.......             (no ring)
+HPRegen  0.14/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+                                (no ring)
+                                (no ring)
+
+@: no status effects
+A: almost no armour, stealthy swim, amphibious, 8 rings, constrict 8, camouflage
+1, gelatinous body 1
+a: no special abilities
+
+
+You were on level 4 of the Dungeon.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+
+You collected 206 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe
+ d - a +0 dagger
+ h - a +0 dagger
+ q - a +0 falchion
+ t - a +0 whip of freezing
+ A - a +0 dagger of speed
+Missiles
+ e - 46 sling bullets
+ g - 82 stones (quivered)
+ l - 7 javelins
+ v - 7 needles of sleeping
+ y - 14 arrows
+ B - 5 tomahawks
+Jewellery
+ i - an uncursed amulet of harm
+ n - an uncursed ring of positive energy {unknown}
+ o - an uncursed ring of wizardry {unknown}
+ r - a +6 ring of evasion {unknown}
+Scrolls
+ k - a scroll of enchant armour
+ u - a scroll of immolation
+ w - a scroll of teleportation
+ x - a scroll of magic mapping {unknown}
+Potions
+ c - a potion of brilliance {unknown}
+ f - a potion of curing {unknown}
+ j - a potion of mutation {unknown}
+ m - a potion of lignification {unknown}
+ p - a potion of resistance {unknown}
+ s - a potion of flight {unknown}
+Comestibles
+ b - 6 rations
+
+
+   Skills:
+ + Level 1.5 Fighting
+ - Level 1.0 Throwing
+ * Level 2.0 Dodging
+ - Level 3.0 Stealth
+ - Level 4.2 Unarmed Combat
+ + Level 2.3 Spellcasting
+ - Level 1.1 Conjurations
+ - Level 1.0 Charms
+ - Level 4.9 Ice Magic
+ - Level 1.0 Air Magic
+ - Level 4.3 Poison Magic
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      ##..         4%          1    #......
+b - Freeze                Ice            ###.         1%          1    #......
+c - Poisonous Vapours     Pois/Air       ##....       8%          2    ##.....
+d - Mephitic Cloud        Conj/Pois/Air  ##......     19%         3    ###....
+e - Ozocubu's Armour      Chrm/Ice       ##......     13%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       ##....       7%          2    ##.....
+ Olgreb's Toxic Radiance  Pois           ###.....     26%         4    #####..
+ Throw Icicle             Conj/Ice       ##......     41%         4    #####..
+ Summon Ice Beast         Ice/Summ       ##......     50%         4    #####..
+ Venom Bolt               Conj/Pois      ##........   80%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+
+Annotations:
+D:1 steam loot
+D:5 1 runed translucent door, exclusions: orc and 1 more exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear most types of armour.
+You are very stealthy in the water. (Stealth+)
+You are amphibious.
+You can wear up to eight rings at the same time.
+You can use your tentacles to constrict eight enemies at once.
+Your skin changes colour to match your surroundings (Stealth+).
+Your rubbery body absorbs attacks. (AC +1, EV +1)
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading up here.
+Found a stone staircase leading down.
+Found an escape hatch in the floor.
+There is an escape hatch in the ceiling here.
+A mysterious force pulls you upwards. The hatch slams shut behind you.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+There is a stone staircase leading up here.
+Okay, then.
+Enter note: no need to continue, god branch sequence is correct enough
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+              .#
+              .#
+              .#
+            ##>#
+            ...#
+            #..
+    .###    #.#
+     ...#####<#
+     #...>....#
+    ##..####..#
+ ####...(.##..#
+ ..)..........######
+   ##...#.##.<.....#
+   #........@.####.#
+   #..###.###.####.#
+  #.    #.# #.#....##
+        ..# #...# ...
+  #.   ######...##.#
+  #...    #........#
+  #...    #.....[.##
+  #...    #.......#
+###...#######...###
+................#
+.............#.##
+.............#.##.
+ .#...#.##..$.....#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Pikel (D:5)
+  A crimson imp (D:5)
+  An orc wizard (D:3)
+  5 adders
+  2 river rats (D:3)
+  A shadow imp (D:5)
+  An adder zombie (D:5)
+  3 worms
+  3 dart slugs
+  3 leopard geckos
+  10 orcs
+  4 bats
+  4 giant cockroaches
+  7 goblins
+  4 hobgoblins
+  4 jackals (D:1)
+  11 kobolds
+  A quokka (D:3)
+  6 frilled lizards
+  15 rats
+87 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Dute Ops the Octopode Venom Mage began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 11/11 MP: 3/3
+   475 | D:1      | Reached skill level 1 in Fighting
+   475 | D:1      | Reached skill level 1 in Unarmed Combat
+   475 | D:1      | Reached XP level 2. HP: 9/18 MP: 1/5
+   668 | D:1      | Learned a level 2 spell: Poisonous Vapours
+  1328 | D:1      | Reached XP level 3. HP: 23/23 MP: 6/6
+  1337 | D:1      | Learned a level 3 spell: Mephitic Cloud
+  1675 | D:1      | Reached skill level 1 in Air Magic
+  2020 | D:2      | kiku fedhas zin ash
+  2874 | D:2      | Found a white marble altar of Elyvilon.
+  3190 | D:2      | Reached XP level 4. HP: 28/28 MP: 5/7
+  3929 | D:3      | Found a faded altar of an unknown god.
+  3941 | D:3      | Reached skill level 1 in Throwing
+  4025 | D:3      | You fall through a shaft for 2 floors!
+  4025 | D:5      | Entered Level 5 of the Dungeon
+  4148 | D:5      | Found a runed translucent door.
+  4172 | D:5      | Learned a level 1 spell: Freeze
+  4198 | D:5      | Reached skill level 1 in Ice Magic
+  4198 | D:5      | Reached XP level 5. HP: 21/33 MP: 1/8
+  4668 | D:5      | Noticed Pikel
+  4668 | D:5      | Noticed a slave
+  4690 | D:5      | Killed Pikel
+  4690 | D:5      | Reached XP level 6. HP: 38/38 MP: 3/9
+  4690 | D:5      | Reached XP level 7. HP: 43/43 MP: 3/10
+  4702 | D:5      | Learned a level 3 spell: Ozocubu's Armour
+  5532 | D:3      | Reached skill level 1 in Charms
+  6197 | D:4      | no need to continue, god branch sequence is correct enough
+  6197 | D:4      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Fighting       |  1                   |  1.5
+Unarmed Combat |  1     2     4       |  4.2
+Air Magic      |        1             |  1.0
+Poison Magic   |        4             |  4.3
+Throwing       |           1          |  1.0
+Ice Magic      |           1  4       |  4.9
+Charms         |                    1 |  1.0
+Stealth        |                    3 |  3.0
+Dodging        |                      |  2.0
+Spellcasting   |                      |  2.3
+Conjurations   |                      |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    62 |    14 |    23 ||    99
+       Constrict         |    23 |     5 |     8 ||    36
+       Tentacles         |     9 |     7 |     5 ||    21
+Throw: Stone             |    57 |    19 |    38 ||   114
+       Javelin           |       |     1 |       ||     1
+ Cast: Sting             |    43 |    15 |    19 ||    77
+       Poisonous Vapours |     1 |     4 |     4 ||     9
+       Freeze            |       |     4 |     4 ||     8
+  Use: Scroll            |       |     2 |     2 ||     4
+ Stab: Sleeping          |     2 |     2 |     1 ||     5
+  Eat: Chunk             |     8 |     3 |     2 ||    13
+       Ration            |       |       |     1 ||     1
+Armor: Skin              |     3 |     1 |     1 ||     5
+Dodge: Dodged            |    38 |     5 |     6 ||    49
+

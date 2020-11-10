@@ -1,0 +1,351 @@
+Dery
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(5, -5, D:1)
+  a robe
+(16, -13, D:1)
+  a robe
+(16, -11, D:1)
+  a +0 club
+(22, -13, D:1)
+  a +0 club
+(33, 6, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 robe
+  a +0 dagger
+(3, -3, D:2)
+  a +0 club
+(4, -3, D:2)
+  a +0 club
+(9, -13, D:2)
+  a +0 club
+(30, 1, D:2)
+  a whip
+(45, 6, D:2)
+  a +0 club
+(49, -9, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a robe
+(3, 34, D:3)
+  a +0 dagger
+(4, -7, D:3)
+  a +0 dagger
+(10, 26, D:3)
+  a +0 mace
+(12, -7, D:3)
+  a scale mail
+(22, -4, D:3)
+  a scale mail
+(22, -3, D:3)
+  a +0 short sword
+(22, -2, D:3)
+  a +0 whip
+  a trident
+(22, -1, D:3)
+  a +0 chain mail
+  a +0 club
+(22, 0, D:3)
+  a +0 dagger
+(25, 12, D:3)
+  a +0 chain mail
+(43, 15, D:3)
+  a whip
+(44, 31, D:3)
+  a club
+(45, 1, D:3)
+  a ring mail
+(47, 9, D:3)
+  a +0 dagger
+(51, 21, D:3)
+  a robe
+(56, 17, D:3)
+  a robe
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 club
+(1, 1, D:4)
+  a +0 dagger
+  a +0 robe
+  a +0 whip
+(14, -20, D:4)
+  a +0 dagger
+(21, 2, D:4)
+  a ring mail
+(33, -26, D:4)
+  a leather armour
+  a +0 robe
+(34, -28, D:4)
+  a +0 flail
+(36, -26, D:4)
+  a +0 ring mail
+  a +0 short sword
+(37, -11, D:4)
+  a +0 leather armour
+(38, -12, D:4)
+  a cloak
+(38, -6, D:4)
+  a short sword
+(40, 7, D:4)
+  a chain mail
+(51, -23, D:4)
+  a short sword
+
+Level 5 of the Dungeon
+[Shop] Emafaq's General Store
+  9 bolts (19 gold)
+  a +0 centaur barding (253 gold)
+  a ration (55 gold)
+  a +0 pair of boots (49 gold)
+  13 stones (14 gold)
+  23 arrows (50 gold)
+  22 arrows (48 gold)
+  the +4 long sword of the Desolation of Salt {protect, rElec rF+ rN+ Dex+4} (635 gold)
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your dexterity (+4).
+    It protects you from fire.
+    It insulates you from electricity.
+    It protects you from negative energy.
+  a +0 quarterstaff (44 gold)
+  a box of beasts (220 gold)
+(0, 0, D:5)
+  a trident
+(1, 30, D:5)
+  a chain mail
+(3, 9, D:5)
+  a +0 giant spiked club
+(12, -2, D:5)
+  a +0 club
+(16, 3, D:5)
+  a robe
+(16, 9, D:5)
+  a scale mail
+(22, -4, D:5)
+  a +0 robe
+  a +0 dagger
+(23, -4, D:5)
+  a +0 leather armour
+  a +0 dagger
+(24, -3, D:5)
+  a +0 robe
+  a +0 dagger
+(24, -2, D:5)
+  a cursed +0 flail
+(30, 13, D:5)
+  a +0 giant club
+(34, 3, D:5)
+  a robe
+(41, -4, D:5)
+  a +0 giant spiked club
+
+Level 6 of the Dungeon
+(9, 19, D:6)
+  a scale mail
+(21, 6, D:6)
+  a +0 leather armour
+  a +0 falchion
+(22, 4, D:6)
+  a +0 robe
+  a +0 scythe
+(22, 7, D:6)
+  a +0 club
+(23, 0, D:6)
+  a +0 ring mail
+(31, 35, D:6)
+  a flail
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 short sword
+(1, -9, D:7)
+  a long sword
+(8, -7, D:7)
+  a leather armour
+(12, -13, D:7)
+  a +0 club
+  a +0 scale mail
+(13, -14, D:7)
+  a +0 plate armour
+  a +0 battleaxe
+(14, -15, D:7)
+  a +0 short sword
+(21, 11, D:7)
+  a +0 dagger
+(26, -5, D:7)
+  a +0 short sword
+  (unseen)
+(28, 3, D:7)
+  a +0 dagger
+  (unseen)
+(29, -1, D:7)
+  a +0 halberd
+  (unseen)
+(35, 4, D:7)
+  a +0 dagger
+  a +0 robe
+
+Level 8 of the Dungeon
+(2, 32, D:8)
+  a +0 giant club
+(21, 15, D:8)
+  a ring mail
+(27, 6, D:8)
+  a +0 leather armour
+(29, 21, D:8)
+  a +0 plate armour
+  a +0 dire flail
+(32, 28, D:8)
+  a chain mail
+(32, 54, D:8)
+  a potion of degeneration
+(36, 17, D:8)
+  a cursed +0 giant club
+(38, 12, D:8)
+  31 gold pieces
+(38, 13, D:8)
+  23 stones
+(38, 14, D:8)
+  5 gold pieces
+(41, 15, D:8)
+  8 tomahawks
+(53, 40, D:8)
+  a ring mail
+
+Level 9 of the Dungeon
+[Shop] Ickeuth's Armour Shop
+  a +0 scale mail of cold resistance (154 gold)
+  a +0 plate armour (322 gold)
+  a +0 chain mail (63 gold)
+  a +0 scale mail (56 gold)
+  a +0 ring mail (56 gold)
+  a cursed +0 ring mail (14 gold)
+  a +0 ring mail (56 gold)
+  a +1 chain mail of cold resistance (231 gold)
+  a +0 plate armour (322 gold)
+  a +0 robe (9 gold)
+  a +0 plate armour (322 gold)
+  a +0 leather armour (28 gold)
+  a +0 scale mail (56 gold)
+(6, -15, D:9)
+  a robe
+(8, 8, D:9)
+  a warped robe
+(8, 9, D:9)
+  a +0 chain mail of cold resistance
+(9, 8, D:9)
+  a weird glowing staff
+(9, 9, D:9)
+  2 curare-tipped needles
+  78 sling bullets
+  6 needles of confusion
+  70 bolts
+  a +0 dagger
+  a +3 falchion
+(10, 8, D:9)
+  an arbalest
+(11, 8, D:9)
+  a glowing inky potion
+  a lumpy amethyst potion
+  a scroll labeled NOODUU GUZXIALEV
+  a scroll labeled VACVAA BASISIE
+(11, 9, D:9)
+  2 scrolls of noise
+  3 scrolls of amnesia
+  2 scrolls of immolation
+  a wand of digging (1)
+  an uncursed ring of ice
+  an uncursed staff of death
+(25, -2, D:9)
+  a dagger
+(26, 5, D:9)
+  a +0 giant club
+  a +0 giant club
+(28, 9, D:9)
+  a cursed -3 shortbow
+  a +0 club
+  a +0 robe
+(29, -1, D:9)
+  a +0 war axe
+  a +0 chain mail
+(31, -14, D:9)
+  a +0 flail
+(31, -13, D:9)
+  a +0 leather armour
+(31, -5, D:9)
+  a +0 ring mail
+(32, -14, D:9)
+  a +0 hand axe
+  a +0 leather armour
+(46, -6, D:9)
+  a +0 spear
+  (unseen)
+(48, 36, D:9)
+  a +0 giant club
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a cursed -3 ring of protection
+(28, 22, D:10)
+  the cursed +0 leather armour of Modesty {Str+3}
+    It affects your strength (+3).
+    It has a curse placed upon it.
+(32, 14, D:10)
+  a +0 dagger
+  a +0 robe
+(33, 16, D:10)
+  a +0 leather armour
+(34, 4, D:10)
+  a +0 mace
+  a +0 robe
+(36, 5, D:10)
+  a +0 robe
+  a cursed +0 mace
+  a +0 robe
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a ring mail
+(3, 1, D:11)
+  a +0 war axe of venom
+  (unseen)
+(4, 1, D:11)
+  a +0 dagger
+  a +0 robe
+(7, 0, D:11)
+  a +0 club
+  a +0 ring mail
+(9, -4, D:11)
+  a +0 trident
+  a +0 plate armour
+(11, 5, D:11)
+  a potion of curing
+
+the Ecumenical Temple
+(15, 0, Temple)
+  a +0 ring mail
+  a +0 leather armour
+
+Level 1 of the Lair of Beasts
+(12, 9, Lair:1)
+  a scale mail
+(12, 14, Lair:1)
+  a chain mail
+(14, 13, Lair:1)
+  a chain mail
+(21, 23, Lair:1)
+  a plate armour
+(23, 14, Lair:1)
+  a +0 morningstar
+  a club
+(51, -3, Lair:1)
+  a helmet
+

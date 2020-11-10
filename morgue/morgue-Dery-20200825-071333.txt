@@ -1,0 +1,507 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17474075491526160875
+
+11433 Dery the Tainter (level 11, 97/97 HPs) *WIZ*
+             Began as a Naga Venom Mage on Aug 23, 2020.
+             Was a High Priest of Cheibriados.
+             Quit the game on level 4 of the Lair of Beasts on Aug 25, 2020.
+             The game lasted 03:23:29 (13225 turns).
+
+Dery the Tainter (Naga Venom Mage)                 Turns: 13225, Time: 03:23:30
+
+Health: 97/97      AC: 10    Str: 21    XL:     11   Next: 77%
+Magic:  15/18      EV: 11    Int: 31    God:    Cheibriados 122 (0)
+Gold:   492        SH: 11    Dex: 22    Spells: 0/20 levels left
+
+rFire    . . .     SeeInvis +   a - staff of conjuration
+rCold    + . .     Gourm    .   x - +0 shield
+rNeg     . . .     Faith    .   u - +2 leather armour {rC+}
+rPois    +         Spirit   .   t - +2 hat {MR+}
+rElec    .         Reflect  .   h - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no barding)
+Stlth    +++++++...             k - amulet of regeneration
+HPRegen  0.66/turn              Z - ring of Shadows {Umbra +Inv Stlth+}
+MPRegen  0.16/turn              C - ring of wizardry
+
+@: wreathed by umbra, very slow
+A: large, see invisible, deformed body, poison resistance, slowness 2, slow
+metabolism 1, spit poison 1, AC +3
+a: Spit Poison, Bend Time, Temporal Distortion, Slouch, Step From Time, Renounce
+Religion, Evoke Invisibility
+
+
+You were on level 4 of the Lair of Beasts.
+You worshipped Cheibriados.
+Cheibriados was extremely pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 15 of its levels.
+
+You collected 569 gold pieces.
+You spent 77 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ b - a +3 trident of venom
+ c - the +7 spear "Murmur" {drain, rF- Int+4}
+   (You found it on level 6 of the Dungeon)   
+   
+   A truly terrible weapon, it drains the life of those it strikes.
+   
+   It affects your intelligence (+4).
+   It makes you vulnerable to fire.
+ d - a +0 shortbow
+ L - a +4 battleaxe
+ S - a +0 war axe
+Missiles
+ g - 237 arrows
+ l - 391 stones
+ G - 2 tomahawks
+ U - 4 javelins (quivered)
+Armour
+ h - a +0 cloak (worn)
+ t - a +2 hat of magic resistance (worn)
+ u - a +2 leather armour of cold resistance (worn)
+ x - a +0 shield (worn)
+ H - a +0 robe of magic resistance
+Magical Staves
+ a - an uncursed staff of conjuration (weapon)
+Jewellery
+ k - an amulet of regeneration (around neck)
+ n - an uncursed ring of protection from cold
+ r - an uncursed ring of positive energy
+ C - a ring of wizardry (right hand)
+ Z - the ring of Shadows (left hand) {Umbra +Inv Stlth+}
+   (You found it on level 1 of the Lair of Beasts)   
+   
+   [ring of stealth]
+   
+   It lets you turn invisible.
+   It makes you more stealthy.
+Wands
+ J - a wand of acid (12)
+ P - a wand of enslavement (8)
+ W - a wand of iceblast (11)
+ X - a wand of scattershot (4)
+Scrolls
+ i - a scroll of fog
+ z - 4 scrolls of fear
+ E - a scroll of blinking
+ I - 2 scrolls of magic mapping
+ N - 6 scrolls of teleportation
+Potions
+ e - 3 potions of brilliance
+ j - 2 potions of agility
+ p - 4 potions of flight
+ v - 3 potions of curing
+ B - 5 potions of heal wounds
+ F - a potion of might
+ R - a potion of invisibility
+Miscellaneous
+ T - a lamp of fire
+Comestibles
+ M - 22 rations
+
+
+   Skills:
+ - Level 6.0 Fighting
+   Level 1.8 Long Blades
+   Level 1.0 Maces & Flails
+ - Level 6.0 Polearms
+ - Level 2.0 Bows
+ - Level 1.0 Throwing
+ - Level 4.0 Dodging
+ * Level 7.5 Stealth
+ - Level 6.0 Shields
+ - Level 5.0 Spellcasting
+ - Level 2.1 Conjurations
+ * Level 2.1 Hexes
+ - Level 1.2 Necromancy
+ - Level 2.0 Air Magic
+ - Level 10.0 Poison Magic
+ + Level 7.8 Invocations
+ - Level 3.0 Evocations
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      25 (25)      1%          1    0
+b - Confusing Touch       Hex            21 (50)      1%          1    0
+c - Animate Skeleton      Necr           N/A          3%          1    0
+d - Apportation           Tloc           7 (50)       4%          1    0
+e - Poisonous Vapours     Pois/Air       45 (50)      1%          2    0
+f - Confuse               Hex            21 (100)     6%          3    0
+g - Mephitic Cloud        Conj/Pois/Air  53 (100)     2%          3    0
+h - Olgreb's Toxic Radia  Pois           63 (100)     1%          4    94
+i - Cause Fear            Hex            21 (200)     19%         4    94
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Small Mammal      Summ           7 (25)       4%          1    0
+ Venom Bolt               Conj/Pois      62 (200)     12%         5    244
+ Gell's Gravitas          Tloc           7 (200)      14%         3    0
+ Petrify                  Tmut/Erth      7 (100)      41%         4    94
+ Silence                  Hex/Air        20 (200)     45%         5    244
+ Metabolic Englaciation   Hex/Ice        14 (200)     61%         5    244
+ Yara's Violent Unravell  Hex/Tmut       14 (200)     61%         5    244
+ Deflect Missiles         Chrm/Air       14 (200)     99%         6    394
+ Discord                  Hex            21 (200)     100%        8    694
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:5            Lair (2/6) D:9
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 *   D:9 [
+
+Annotations:
+D:8 2 transporters, Jatjacob's ghost, novice MiBe
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear boots.
+Your serpentine skin is tough. (AC +3)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You have a slow metabolism.
+You can spit poison.
+
+
+Message History
+
+M - 22 rations (gained 1)
+Autopickup is now off.
+Okay, then.
+Saving game... please wait.
+Welcome back, Dery the Naga Venom Mage.
+Cheibriados says: Take it easy.
+Press ? for a list of commands and other information.
+Okay, then.
+Unknown command.
+Unknown command.
+Okay, then.
+Okay, then.
+Unknown command.
+Okay, then.
+The flow of time bends around you. You feel slightly more hungry.
+You fall through a shaft for 2 floors!
+The shaft crumbles and collapses.
+Found a robe, a ration, a scroll of identify and 14 gold pieces.
+2 komodo dragons come into view.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+        ....
+        ...
+        ..#
+   ##   ..
+   #.###.#####
+   #........%#
+...#P........#
+.......@.....#
+.............l.
+..+......[.....
+  ##..$?l......
+   ##........##
+    #..#.#..##
+    ##. .##..
+     .+ .# #..
+
+
+You could see 2 komodo dragons.
+
+Vanquished Creatures
+  Gastronok (D:8)
+  A two-headed ogre (D:9)
+  An oklob plant (Lair:1)
+  A spiny frog (Lair:1)
+  2 trolls
+  Grinder (D:5)
+  2 hippogriffs
+  6 yaks
+  Sigmund (D:6)
+  A spriggan (D:7)
+  A wyvern (D:5)
+  Eustachio (D:6)
+  2 hungry ghosts
+  A water moccasin (Lair:1)
+  2 porcupines (D:9)
+  An ice beast (D:7)
+  A sky beast (D:5)
+  3 orc warriors
+  A black bear (D:9)
+  4 phantoms
+  10 wolves (Lair:1)
+  2 centaurs
+  6 ogres
+  3 crocodiles
+  9 bullfrogs
+  A scorpion (D:7)
+  6 killer bees
+  3 wights (D:10)
+  2 howler monkeys
+  A crimson imp (D:5)
+  3 orc priests
+  2 hounds
+  4 jellies
+  A bullfrog skeleton (D:6)
+  7 orc wizards
+  Jessica (D:2)
+  2 iguanas
+  10 worker ants
+  A killer bee zombie (D:8)
+  A hound zombie (D:5)
+  A hound skeleton (D:6)
+  A mummy (D:4)
+  2 worker ant zombies (D:9)
+  10 adders
+  5 shadow imps
+  3 worms
+  5 dart slugs
+  9 leopard geckos
+  31 orcs
+  A ball python (D:2)
+  5 bats
+  9 giant cockroaches
+  2 goblins (D:1)
+  9 hobgoblins
+  10 kobolds
+  5 quokkas
+  A ball python skeleton (D:4)
+  10 frilled lizards
+  A jackal zombie (D:5)
+  3 kobold zombies (D:4)
+  A leopard gecko zombie (D:6)
+  An orc zombie (D:4)
+  A quokka skeleton (D:4)
+  7 rats
+  2 bushes (Lair:1)
+  6 fungi (D:9)
+  7 plants
+257 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hippogriff (Lair:1)
+  2 yaks (Lair:1)
+  2 water moccasins (Lair:1)
+  A porcupine (D:9)
+  An orc warrior (D:8)
+  A black bear (D:9)
+  A wolf (Lair:1)
+  2 killer bees (D:8)
+  A hound (D:8)
+  A shadow imp (D:8)
+  An adder skeleton (D:9)
+14 creatures vanquished.
+
+Vanquished Creatures (others)
+  13 fungi
+  9 plants (D:9)
+22 creatures vanquished.
+
+Grand Total: 293 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Dery the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+    14 | D:1      | Entered wizard mode.
+   201 | D:1      | Reached skill level 1 in Fighting
+   261 | D:1      | Reached XP level 2. HP: 25/25 MP: 5/5
+   365 | D:1      | Learned a level 2 spell: Poisonous Vapours
+   642 | D:1      | Reached skill level 1 in Air Magic
+   666 | D:1      | Reached XP level 3. HP: 29/31 MP: 3/6
+  1182 | D:1      | Reached skill level 1 in Maces & Flails
+  1315 | D:1      | Learned a level 3 spell: Mephitic Cloud
+  1582 | D:2      | Reached skill level 1 in Throwing
+  1675 | D:2      | Noticed Jessica
+  1701 | D:2      | Killed Jessica
+  1701 | D:2      | Reached XP level 4. HP: 38/38 MP: 1/7
+  2262 | D:2      | Reached skill level 5 in Poison Magic
+  2524 | D:3      | Reached XP level 5. HP: 38/44 MP: 4/9
+  2889 | D:3      | Found a shadowy altar of Dithmenos.
+  3048 | D:3      | Found a white marble altar of Elyvilon.
+  3063 | D:3      | Became a worshipper of Elyvilon the Healer
+  3240 | D:3      | Reached skill level 1 in Polearms
+  3323 | D:3      | Reached skill level 6 in Poison Magic
+  3323 | D:3      | Reached XP level 6. HP: 51/51 MP: 10/10
+  3521 | D:3      | Learned a level 4 spell: Olgreb's Toxic Radiance
+  3995 | D:4      | Noticed a phantom
+  4053 | D:4      | Reached * piety under Elyvilon
+  4057 | D:4      | Noticed a hungry ghost
+  4069 | D:4      | Noticed a hippogriff
+  4089 | D:3      | Killed a hippogriff
+  4089 | D:3      | Reached XP level 7. HP: 18/57 MP: 3/11
+  4942 | D:4      | Killed a hungry ghost
+  5130 | D:5      | Entered Level 5 of the Dungeon
+  5184 | D:5      | Reached skill level 7 in Poison Magic
+  5252 | D:5      | Reached XP level 8. HP: 64/64 MP: 10/12
+  5572 | D:5      | Found Emafaq's General Store.
+  5577 | D:5      | Bought 2 scrolls of magic mapping for 77 gold pieces
+  5653 | D:5      | Reached ** piety under Elyvilon
+  5696 | D:5      | Noticed Grinder
+  5702 | D:5      | Found a staircase to the Ecumenical Temple.
+  5727 | Temple   | Entered the Ecumenical Temple
+  5879 | Temple   | Fell from the grace of Elyvilon
+  5879 | Temple   | Became a worshipper of Cheibriados the Contemplative
+  6659 | D:5      | Killed Grinder
+  6659 | D:5      | Reached skill level 5 in Invocations
+  6822 | D:6      | Noticed a wyvern
+  6823 | D:6      | Noticed Sigmund
+  7086 | D:6      | Noticed Eustachio
+  7104 | D:6      | Killed Eustachio
+  7104 | D:6      | Reached * piety under Cheibriados
+  7104 | D:6      | Reached XP level 9. HP: 73/79 MP: 4/15
+  7215 | D:5      | Learned a level 1 spell: Animate Skeleton
+  7217 | D:5      | Learned a level 1 spell: Confusing Touch
+  7237 | D:6      | Killed Sigmund
+  7240 | D:6      | Reached skill level 5 in Stealth
+  7289 | D:5      | Reached skill level 1 in Long Blades
+  7458 | D:6      | Reached skill level 5 in Fighting
+  7493 | D:6      | Got a dazzling leather armour
+  7546 | D:6      | Got a brightly glowing spear
+  7783 | D:6      | Identified the +7 spear "Murmur" {drain, rF- Int+4} (You
+                  | found it on level 6 of the Dungeon)
+  7842 | D:6      | Found an ornate altar of the Wu Jian Council.
+  7968 | D:7      | Reached skill level 1 in Evocations
+  8176 | D:7      | Reached skill level 8 in Poison Magic
+  8316 | D:7      | Reached ** piety under Cheibriados
+  8465 | D:7      | Reached skill level 1 in Bows
+  8724 | D:7      | Reached skill level 9 in Poison Magic
+  8724 | D:7      | Reached XP level 10. HP: 88/88 MP: 12/16
+  8907 | D:8      | Found a stormy altar of Qazlal.
+  9025 | D:8      | Reached skill level 5 in Polearms
+  9085 | D:8      | Found a transporter.
+  9087 | D:8      | Noticed Jatjacob's ghost (novice MiBe)
+  9095 | D:8      | Found a transporter.
+  9096 | D:8      | Noticed a two-headed ogre
+  9210 | D:8      | Identified the cursed +0 leather armour of Modesty {Str+3}
+                  | (You found it on level 6 of the Dungeon)
+  9221 | D:8      | Noticed Gastronok
+  9454 | D:8      | Found a hazy altar of Hepliaklqana.
+  9485 | D:8      | Reached *** piety under Cheibriados
+  9663 | D:8      | You fall through a shaft for 3 floors!
+  9746 | D:11     | Noticed a seven-headed hydra
+  9752 | D:10     | Entered Level 10 of the Dungeon
+  9804 | D:10     | Reached skill level 1 in Shields
+  9804 | D:10     | Reached skill level 1 in Hexes
+  9804 | D:10     | Reached skill level 1 in Necromancy
+ 10382 | D:8      | Killed Gastronok
+ 10382 | D:8      | Reached skill level 5 in Shields
+ 10687 | D:9      | Reached XP level 11. HP: 83/94 MP: 13/17
+ 10783 | D:9      | Reached **** piety under Cheibriados
+ 10788 | D:9      | Learned a level 1 spell: Apportation
+ 10874 | D:9      | Found Ickeuth's Armour Shop.
+ 10975 | D:9      | Noticed a two-headed ogre
+ 10984 | D:9      | Killed a two-headed ogre
+ 11023 | D:9      | Found a staircase to the Lair.
+ 11040 | D:9      | Learned a level 3 spell: Confuse
+ 11113 | D:9      | Found a shimmering altar of Xom.
+ 11412 | D:9      | Got a warped robe
+ 11555 | D:9      | wrecked d9.  don't even need to explore carefully anymore.
+ 11556 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 11713 | Lair:1   | Reached skill level 10 in Poison Magic
+ 11805 | Lair:1   | Found the ring of Shadows {Umbra +Inv Stlth+}
+ 11970 | Lair:1   | Reached ***** piety under Cheibriados
+ 12345 | Lair:1   | Found a blossoming altar of Fedhas.
+ 12368 | Lair:1   | Noticed an oklob plant
+ 12638 | Lair:1   | Killed an oklob plant
+ 12638 | Lair:1   | Reached skill level 5 in Spellcasting
+ 13088 | D:9      | Learned a level 4 spell: Cause Fear
+ 13224 | Lair:2   | You fall through a shaft for 2 floors!
+ 13225 | Lair:4   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Fighting       |  1                    4  5     6 |  6.0
+Air Magic      |     1                    2       |  2.0
+Maces & Flails |        1                         |  1.0
+Throwing       |        1                         |  1.0
+Poison Magic   |           5  6     7     9    10 | 10.0
+Polearms       |              1  3  4        5  6 |  6.0
+Spellcasting   |              3        4        5 |  5.0
+Invocations    |                 2  4  5     6  7 |  7.8
+Conjurations   |                    2             |  2.1
+Dodging        |                       3     4    |  4.0
+Stealth        |                       4  6     7 |  7.5
+Long Blades    |                          1       |  1.8
+Evocations     |                          2     3 |  3.0
+Bows           |                          1  2    |  2.0
+Shields        |                             5  6 |  6.0
+Hexes          |                             1  2 |  2.1
+Necromancy     |                             1    |  1.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Whip              |    12 |     9 |       |       ||    21
+       Unarmed           |     1 |       |       |       ||     1
+       Trident           |       |    25 |   209 |   133 ||   367
+       Spear             |       |       |    69 |   250 ||   319
+       Staff             |       |       |       |     1 ||     1
+       War axe           |       |       |       |    26 ||    26
+       Battleaxe         |       |       |       |    21 ||    21
+Throw: Stone             |    15 |    26 |    22 |       ||    63
+       Tomahawk          |       |       |     6 |     3 ||     9
+       Javelin           |       |       |       |     3 ||     3
+ Cast: Sting             |    32 |    32 |    28 |    42 ||   134
+       Poisonous Vapours |     4 |     7 |     8 |    15 ||    34
+       Mephitic Cloud    |     1 |     1 |    12 |     4 ||    18
+       Olgreb's Toxic Ra |       |       |     2 |     9 ||    11
+       Confusing Touch   |       |       |    19 |    58 ||    77
+       Animate Skeleton  |       |       |     8 |    31 ||    39
+Invok: Lesser Healing    |       |     1 |     1 |       ||     2
+       Bend Time         |       |       |     3 |     3 ||     6
+ Abil: Spit Poison       |    29 |    49 |    49 |    44 ||   171
+       Evoke Invisibilit |       |       |       |     2 ||     2
+Evoke: Lamp of fire      |       |       |       |     1 ||     1
+  Use: Potion            |     2 |     1 |     4 |       ||     7
+       Scroll            |       |     3 |    12 |     6 ||    21
+ Stab: Sleeping          |       |       |     1 |       ||     1
+       Confused          |       |       |    11 |    30 ||    41
+       Distracted        |       |       |     1 |     2 ||     3
+       Invisible         |       |       |       |     6 ||     6
+  Eat: Chunk             |     3 |    11 |    14 |    12 ||    40
+       Ration            |       |       |     3 |     1 ||     4
+Armor: Robe              |     1 |    15 |    14 |       ||    30
+       Leather armour    |       |       |    34 |    40 ||    74
+Dodge: Dodged            |    14 |    28 |   116 |    57 ||   215
+Block: Shield            |       |       |       |    57 ||    57
+

@@ -1,0 +1,1607 @@
+Zuheita
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  14 gold pieces
+(2, -26, D:1)
+  10 gold pieces
+(4, -15, D:1)
+  a hand axe
+(6, -27, D:1)
+  a leather armour
+(6, 7, D:1)
+  a sedimented sapphire potion
+(7, -15, D:1)
+  a hand axe
+(8, 8, D:1)
+  4 gold pieces
+(13, -14, D:1)
+  a leather armour
+(13, -9, D:1)
+  9 poisoned needles
+(20, -7, D:1)
+  a ration
+(22, 15, D:1)
+  26 stones
+(26, -17, D:1)
+  a blue potion
+(33, -21, D:1)
+  23 sling bullets
+(35, -19, D:1)
+  11 gold pieces
+(35, -12, D:1)
+  a smoky blue potion
+(35, -9, D:1)
+  a glowing dagger
+(37, -11, D:1)
+  a scroll labeled RUUXEDD FAOT
+(39, -20, D:1)
+  a coppery potion
+(45, 0, D:1)
+  a +0 cloak
+(45, 1, D:1)
+  the horn of Geryon
+  the +8 demon trident "Rift" {distort, reach+}
+    It warps and distorts space around it. Unwielding it can cause banishment or
+    high damage.
+  the +2 Maxwell's thermic engine {flame, freeze}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+  the amulet of invisibility {+Inv}
+    [amulet of nothing]
+    
+    It lets you turn invisible.
+  the +3 warlock's mirror {reflect}
+  the +12 armour of Talos {ponderous, rF+}
+    It protects you from fire.
+  the +8 frozen axe "Frostbite" {freezing cloud, *Noise +Fly rC+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It protects you from cold.
+    It lets you fly.
+    It may make noises in combat.
+  the +7 Kryia's mail coat {PotionHeal*2 rC+}
+    It protects you from cold.
+  the +2 robe of Vines {NoPotionHeal Regen+7}
+    It increases your rate of regeneration.
+  the cursed +3 crown of Eternal Torment {rTorment HP-- rN+++ SInv *Curse}
+    It renders you almost immune to negative energy.
+    It lets you see invisible.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec MP+4}
+    It insulates you from electricity.
+    It affects your magic capacity (+4).
+    It causes magical contamination when unequipped.
+  the +5 pair of quick blades "Gyre" and "Gimble" {pierce, Dex-3}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-3).
+  the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your intelligence (+6).
+    It affects your magic capacity (+6).
+  the +8 orange crystal plate armour {Archmagi, Int+3 Clar}
+    It affects your intelligence (+3).
+    It protects you against confusion.
+  the +7 great mace "Firestarter" {inner flame, rF++}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It greatly protects you from fire.
+  the +7 lajatang of Order {silver, rMut}
+    It protects you from mutation.
+  the +5 demon whip "Spellbinder" {antimagic, MR+}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your resistance to hostile enchantments.
+  the +8 arc blade {discharge, rElec}
+    It insulates you from electricity.
+  the +2 hat of the High Council {Archmagi, Wiz- Stlth-}
+    It makes you less stealthy.
+  the +10 dark maul {crush}
+    It inflicts extra damage upon your enemies.
+  the +3 pair of boots of the spider {obsolete, Stlth+}
+    It makes you more stealthy.
+  the macabre finger necklace {rN+}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+  the +4 moon troll leather armour {Spirit, Regen++ MP+5}
+    It affects your magic capacity (+5).
+    It increases your rate of regeneration.
+  the +? Axe of Woe
+  a ring of the Octopus King {MP+9 AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of magical power]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It affects your magic capacity (+9).
+  a ring of the Octopus King {rC+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from cold]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from cold.
+  a ring of the Octopus King {rCorr AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of resist corrosion]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {rF+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from fire]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from fire.
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 SInv}
+    [ring of see invisible]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It lets you see invisible.
+  a ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of positive energy]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from negative energy.
+  a ring of the Octopus King {Wiz AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 Stlth+}
+    [ring of stealth]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It makes you more stealthy.
+  the +4 dragonskin cloak
+  the +6 shillelagh "Devastator" {shatter}
+  the +8 autumn katana {slice, Clar}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you against confusion.
+  the amulet of Vitality {Regen+ HP+15}
+    [amulet of regeneration]
+    
+    It affects your health (+15).
+    It increases your rate of regeneration.
+  the +10 Black Knight's horse barding {ponderous, rPois rN+}
+    It protects you from poison.
+    It protects you from negative energy.
+  the +6 lightning scales {run, rElec}
+    It insulates you from electricity.
+  the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you see invisible.
+    It lets you fly.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+10).
+  the +3 robe of Clouds {+Thunder rCloud rElec}
+    It insulates you from electricity.
+  the brooch of Shielding {Reflect SH+8}
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your SH (+8).
+  the ring of the Mage {Wiz MR++ Int+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+  the ring of Robustness {AC+8}
+    [ring of protection]
+    
+    It affects your AC (+8).
+  the ring of Phasing {EV+8}
+    [ring of evasion]
+    
+    It affects your evasion (+8).
+  the cursed necklace of Bloodlust {*Rage +Rage MR++ Int-3 Slay+6 *Curse}
+    [amulet of rage]
+    
+    It affects your intelligence (-3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+6).
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the amulet of the Four Winds {rN+ MR+++ Clar}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It protects you against confusion.
+  the amulet of Cekugob {Acrobat -Tele rElec rPois rN++ AC+1 EV+1}
+    [amulet of the acrobat]
+    
+    It helps you evade while moving and waiting.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It insulates you from electricity.
+    It protects you from poison.
+    It greatly protects you from negative energy.
+    It prevents most forms of teleportation.
+  the ring of Shadows {Umbra +Inv Stlth+}
+    [ring of stealth]
+    
+    It lets you turn invisible.
+    It makes you more stealthy.
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+  the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+    It affects your evasion (-5).
+    It insulates you from electricity.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+  the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1 Dex+1}
+    It affects your strength (-1).
+    It affects your intelligence (-1).
+    It affects your dexterity (+1).
+    It protects you from poison.
+    It protects you from negative energy.
+  the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--}
+    It affects your evasion (+4).
+    It protects you from cold.
+    It insulates you from electricity.
+    It makes you much less stealthy.
+  the +0 pair of fencer's gloves {Riposte Dex+3}
+    It affects your dexterity (+3).
+  the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr}
+    It protects you from fire.
+    It protects you from cold.
+    It insulates you from electricity.
+    It protects you from poison.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It provides partial protection from all sources of acid and corrosion.
+    It protects you from mutation.
+  the +9 scales of the Dragon King {rPois rF+ rC+ MR+}
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +5 robe of Night {Dark MR+ SInv}
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +0 mask of the Dragon {MR+ Slay+3 SInv}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +15 Maxwell's patent armour {-Cast -Tele rElec MR+ rCorr}
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+    It prevents spellcasting.
+    It prevents most forms of teleportation.
+    It provides partial protection from all sources of acid and corrosion.
+  the +3 robe of Folly {Archmagi, MR-- Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +2 shield of Resistance {rF+ rC+ MR+}
+    It protects you from fire.
+    It protects you from cold.
+    It affects your resistance to hostile enchantments.
+  the +3 pair of gauntlets of War {Slay+5}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+5).
+  the +3 salamander hide armour {+Rage rF++}
+    It greatly protects you from fire.
+    It lets you go berserk.
+  the +4 skin of Zhor {Hibernate rC+++ SInv}
+    It renders you almost immune to cold.
+    It lets you see invisible.
+  the +27 Lear's hauberk
+  the +3 cloak of Flash {+Fly EV+4}
+    It affects your evasion (+4).
+    It lets you fly.
+  the +5 robe of Misfortune {*Contam Harm *Corrode *Drain *Slow EV+5}
+    It affects your evasion (+5).
+    It causes magical contamination when unequipped.
+    It may corrode you when you take damage.
+    It causes draining when unequipped.
+    It may slow you when you take damage.
+    It increases damage dealt and taken.
+  the +2 hat of the Bear Spirit {Spirit, +Rage rN+ MR++}
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+  the +3 crown of Dyrovepreva {rElec Int+2 SInv}
+    It affects your intelligence (+2).
+    It insulates you from electricity.
+    It lets you see invisible.
+  the +15 large shield "Bullseye" {EV-5}
+    It affects your evasion (-5).
+  the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (-2).
+    It lets you see invisible.
+    It makes you more stealthy.
+  the +4 robe of Augmentation {Str+4 Int+4 Dex+4}
+    It affects your strength (+4).
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+  the +10 large shield of Ignorance {rN+ Int-4}
+    It affects your intelligence (-4).
+    It protects you from negative energy.
+  the +8 storm bow {elec}
+    It charges the ammunition it shoots with electricity; occasionally upon a
+    hit, such missiles may discharge and cause terrible harm.
+  the +7 captain's cutlass {speed, disarm}
+    Attacks with this weapon are significantly faster.
+  the +6 Lehudib's crystal spear {Int+3}
+    It affects your intelligence (+3).
+  the +27 knife of Accuracy
+  the +8 whip "Snakebite" {curare, rPois}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from poison.
+  the +7 great mace "Undeadhunter" {disrupt, rN+}
+    It protects you from negative energy.
+  the +11 plutonium sword {*Contam Stlth-}
+    It causes magical contamination when unequipped.
+    It makes you less stealthy.
+  the +7 Spriggan's Knife {stab, EV+4 Stlth+}
+    It affects your evasion (+4).
+    It makes you more stealthy.
+  the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}
+    It affects your AC (+3).
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+  the +6 blowgun of the Assassin {stab, +Inv Stlth++}
+    It lets you turn invisible.
+    It makes you much more stealthy.
+  the +7 longbow "Piercer" {penet, EV-2}
+    Ammo fired by it will pass through the targets it hits, potentially hitting
+    all targets in its path until it reaches maximum range.
+    
+    It affects your evasion (-2).
+  the +9 heavy crossbow "Sniper" {velocity, Acc+? SInv}
+    Any bolt fired from it inflicts extra damage.
+    
+    It lets you see invisible.
+  the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5}
+    It affects your AC (+5).
+    It greatly protects you from fire.
+    It greatly protects you from cold.
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+  the +8 mithril axe "Arga" {speed, MR+}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your resistance to hostile enchantments.
+  the +8 trident of the Octopus King {venom, rElec rPois MR+}
+    It poisons the flesh of those it strikes.
+    
+    It insulates you from electricity.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +6 spear of the Botono {reap, Hex rPois rN+ HP-6}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+    
+    It protects you from poison.
+    It protects you from negative energy.
+    It affects your health (-6).
+  the +10 morningstar "Eos" {elec, Halo rElec}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It insulates you from electricity.
+  the +13 sword of the Doom Knight {pain, -Cast MR+}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your resistance to hostile enchantments.
+    It prevents spellcasting.
+  the +6 arbalest "Damnation" {damnation}
+  the +10 zealot's sword {holy, *Rage rN+ EV+3}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your evasion (+3).
+    It protects you from negative energy.
+    It may make you go berserk in combat.
+  the +8 glaive of the Guard {elec, +Rage AC+5 SInv}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It affects your AC (+5).
+    It lets you see invisible.
+    It lets you go berserk.
+  the +3 giant club "Skullcrusher" {speed, Str+7}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+7).
+  the +8 longbow "Zephyr" {speed, Dex+3 SInv}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your dexterity (+3).
+    It lets you see invisible.
+  the +3 sling "Punk" {acid, rCorr}
+    It provides partial protection from all sources of acid and corrosion.
+  the +5 scythe "Finisher" {speed, eviscerate}
+    Attacks with this weapon are significantly faster.
+  the +4 dagger "Morg" {pain, MR+ Int+5}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +9 dagger of Chilly Death {flash freeze, rPois rF- rC++ MR+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It makes you vulnerable to fire.
+    It greatly protects you from cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your AC (-3).
+    It affects your evasion (-3).
+    It protects you from negative energy.
+  the +1 eveningstar "Brilliance" {holy, rN+ AC+5 Int+5}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your AC (+5).
+    It affects your intelligence (+5).
+    It protects you from negative energy.
+  the +6 scimitar of Flaming Death {sticky flame, rPois rF++ rC- MR+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It greatly protects you from fire.
+    It makes you vulnerable to cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Bloodbane" {slice, *Rage +Rage Stlth-}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It makes you less stealthy.
+  the +3 faerie dragon scales {*Contam rN++ rCorr}
+    It greatly protects you from negative energy.
+    It causes magical contamination when unequipped.
+    It provides partial protection from all sources of acid and corrosion.
+  the +7 sceptre of Asmodeus
+  the +4 staff of Dispater
+  the +6 sword of Cerebov {flame}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+  the +9 sword of Zonguldrok {reap}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+  the +7 sceptre of Torment {pain, torment}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+  the cursed +13 scythe of Curses {drain, *Curse}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +12 Vampire's Tooth {vamp}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+  the +9 staff of Wucad Mu {channel}
+  the +9 staff of Olgreb {rPois}
+    It protects you from poison.
+  the +0 sword of Power
+  the +12 glaive of Prune {chop}
+    It inflicts extra damage upon your enemies.
+  the +7 mace of Variability {chain chaos}
+    Each time it hits an enemy it has a different, random effect.
+  the +8 Wrath of Trog {antimagic, *Rage}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It may make you go berserk in combat.
+  the +7 Singing Sword {slice, sonic wave}
+    It inflicts extra damage upon your enemies.
+  a +0 robe
+(47, -13, D:1)
+  a whip
+(49, -13, D:1)
+  2 gold pieces
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  +0 gold dragon scales
+  (unseen)
+(3, -1, D:2)
+  a golden dragon corpse
+(3, 0, D:2)
+  +0 gold dragon scales
+  (unseen)
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a glowing dagger
+(1, -3, Lair:1)
+  a scroll labeled JOWUEWK YM OSCH
+(7, -3, Lair:1)
+  a scroll labeled XOJ MOGENERAINY
+(13, 0, Lair:1)
+  +0 gold dragon scales
+  (unseen)
+(13, 1, Lair:1)
+  +0 gold dragon scales
+  (unseen)
+(14, -15, Lair:1)
+  a blue potion
+(14, 0, Lair:1)
+  +0 gold dragon scales
+  (unseen)
+(14, 1, Lair:1)
+  the horn of Geryon
+  the +8 demon trident "Rift" {distort, reach+}
+    It warps and distorts space around it. Unwielding it can cause banishment or
+    high damage.
+  the +2 Maxwell's thermic engine {flame, freeze}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+  the amulet of invisibility {+Inv}
+    [amulet of nothing]
+    
+    It lets you turn invisible.
+  the +3 warlock's mirror {reflect}
+  the +12 armour of Talos {ponderous, rF+}
+    It protects you from fire.
+  the +8 frozen axe "Frostbite" {freezing cloud, *Noise +Fly rC+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It protects you from cold.
+    It lets you fly.
+    It may make noises in combat.
+  the +7 Kryia's mail coat {PotionHeal*2 rC+}
+    It protects you from cold.
+  the +2 robe of Vines {NoPotionHeal Regen+7}
+    It increases your rate of regeneration.
+  the cursed +3 crown of Eternal Torment {rTorment HP-- rN+++ SInv *Curse}
+    It renders you almost immune to negative energy.
+    It lets you see invisible.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec MP+4}
+    It insulates you from electricity.
+    It affects your magic capacity (+4).
+    It causes magical contamination when unequipped.
+  the +5 pair of quick blades "Gyre" and "Gimble" {pierce, Dex-3}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-3).
+  the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your intelligence (+6).
+    It affects your magic capacity (+6).
+  the +8 orange crystal plate armour {Archmagi, Int+3 Clar}
+    It affects your intelligence (+3).
+    It protects you against confusion.
+  the +7 great mace "Firestarter" {inner flame, rF++}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It greatly protects you from fire.
+  the +7 lajatang of Order {silver, rMut}
+    It protects you from mutation.
+  the +5 demon whip "Spellbinder" {antimagic, MR+}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your resistance to hostile enchantments.
+  the +8 arc blade {discharge, rElec}
+    It insulates you from electricity.
+  the +2 hat of the High Council {Archmagi, Wiz- Stlth-}
+    It makes you less stealthy.
+  the +10 dark maul {crush}
+    It inflicts extra damage upon your enemies.
+  the +3 pair of boots of the spider {obsolete, Stlth+}
+    It makes you more stealthy.
+  the macabre finger necklace {rN+}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+  the +4 moon troll leather armour {Spirit, Regen++ MP+5}
+    It affects your magic capacity (+5).
+    It increases your rate of regeneration.
+  the +? Axe of Woe
+  a ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of positive energy]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from negative energy.
+  a ring of the Octopus King {rCorr AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of resist corrosion]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {rF+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from fire]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from fire.
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 Stlth+}
+    [ring of stealth]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It makes you more stealthy.
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 SInv}
+    [ring of see invisible]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It lets you see invisible.
+  a ring of the Octopus King {Wiz AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {rC+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from cold]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from cold.
+  a ring of the Octopus King {MP+9 AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of magical power]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It affects your magic capacity (+9).
+  the +6 shillelagh "Devastator" {shatter}
+  the +8 autumn katana {slice, Clar}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you against confusion.
+  the +10 Black Knight's horse barding {ponderous, rPois rN+}
+    It protects you from poison.
+    It protects you from negative energy.
+  the +6 lightning scales {run, rElec}
+    It insulates you from electricity.
+  the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you see invisible.
+    It lets you fly.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+10).
+  the +3 robe of Clouds {+Thunder rCloud rElec}
+    It insulates you from electricity.
+  the brooch of Shielding {Reflect SH+8}
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your SH (+8).
+  the ring of the Mage {Wiz MR++ Int+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+  the cursed necklace of Bloodlust {*Rage +Rage MR++ Int-3 Slay+6 *Curse}
+    [amulet of rage]
+    
+    It affects your intelligence (-3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+6).
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the amulet of the Four Winds {rN+ MR+++ Clar}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It protects you against confusion.
+  the amulet of Cekugob {Acrobat -Tele rElec rPois rN++ AC+1 EV+1}
+    [amulet of the acrobat]
+    
+    It helps you evade while moving and waiting.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It insulates you from electricity.
+    It protects you from poison.
+    It greatly protects you from negative energy.
+    It prevents most forms of teleportation.
+  the ring of Shadows {Umbra +Inv Stlth+}
+    [ring of stealth]
+    
+    It lets you turn invisible.
+    It makes you more stealthy.
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+  the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+    It affects your evasion (-5).
+    It insulates you from electricity.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+  the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1 Dex+1}
+    It affects your strength (-1).
+    It affects your intelligence (-1).
+    It affects your dexterity (+1).
+    It protects you from poison.
+    It protects you from negative energy.
+  the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--}
+    It affects your evasion (+4).
+    It protects you from cold.
+    It insulates you from electricity.
+    It makes you much less stealthy.
+  the +0 pair of fencer's gloves {Riposte Dex+3}
+    It affects your dexterity (+3).
+  the +5 robe of Night {Dark MR+ SInv}
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +0 mask of the Dragon {MR+ Slay+3 SInv}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +3 robe of Folly {Archmagi, MR-- Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +3 salamander hide armour {+Rage rF++}
+    It greatly protects you from fire.
+    It lets you go berserk.
+  the +4 skin of Zhor {Hibernate rC+++ SInv}
+    It renders you almost immune to cold.
+    It lets you see invisible.
+  the +27 Lear's hauberk
+  the +2 pair of boots of the Assassin {Detection Stab+ Stlth++}
+    It makes you much more stealthy.
+  the +3 cloak of Flash {+Fly EV+4}
+    It affects your evasion (+4).
+    It lets you fly.
+  the +5 robe of Misfortune {*Contam Harm *Corrode *Drain *Slow EV+5}
+    It affects your evasion (+5).
+    It causes magical contamination when unequipped.
+    It may corrode you when you take damage.
+    It causes draining when unequipped.
+    It may slow you when you take damage.
+    It increases damage dealt and taken.
+  the +2 hat of the Bear Spirit {Spirit, +Rage rN+ MR++}
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+  the +3 crown of Dyrovepreva {rElec Int+2 SInv}
+    It affects your intelligence (+2).
+    It insulates you from electricity.
+    It lets you see invisible.
+  the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (-2).
+    It lets you see invisible.
+    It makes you more stealthy.
+  the +4 robe of Augmentation {Str+4 Int+4 Dex+4}
+    It affects your strength (+4).
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+  the +10 large shield of Ignorance {rN+ Int-4}
+    It affects your intelligence (-4).
+    It protects you from negative energy.
+  the +8 storm bow {elec}
+    It charges the ammunition it shoots with electricity; occasionally upon a
+    hit, such missiles may discharge and cause terrible harm.
+  the +7 captain's cutlass {speed, disarm}
+    Attacks with this weapon are significantly faster.
+  the +6 Lehudib's crystal spear {Int+3}
+    It affects your intelligence (+3).
+  the +27 knife of Accuracy
+  the +8 whip "Snakebite" {curare, rPois}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from poison.
+  the +7 great mace "Undeadhunter" {disrupt, rN+}
+    It protects you from negative energy.
+  the +11 plutonium sword {*Contam Stlth-}
+    It causes magical contamination when unequipped.
+    It makes you less stealthy.
+  the +7 Spriggan's Knife {stab, EV+4 Stlth+}
+    It affects your evasion (+4).
+    It makes you more stealthy.
+  the +6 blowgun of the Assassin {stab, +Inv Stlth++}
+    It lets you turn invisible.
+    It makes you much more stealthy.
+  the +7 longbow "Piercer" {penet, EV-2}
+    Ammo fired by it will pass through the targets it hits, potentially hitting
+    all targets in its path until it reaches maximum range.
+    
+    It affects your evasion (-2).
+  the +9 heavy crossbow "Sniper" {velocity, Acc+? SInv}
+    Any bolt fired from it inflicts extra damage.
+    
+    It lets you see invisible.
+  the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5}
+    It affects your AC (+5).
+    It greatly protects you from fire.
+    It greatly protects you from cold.
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+  the +8 mithril axe "Arga" {speed, MR+}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your resistance to hostile enchantments.
+  the +8 trident of the Octopus King {venom, rElec rPois MR+}
+    It poisons the flesh of those it strikes.
+    
+    It insulates you from electricity.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +6 spear of the Botono {reap, Hex rPois rN+ HP-6}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+    
+    It protects you from poison.
+    It protects you from negative energy.
+    It affects your health (-6).
+  the +10 morningstar "Eos" {elec, Halo rElec}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It insulates you from electricity.
+  the +13 sword of the Doom Knight {pain, -Cast MR+}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your resistance to hostile enchantments.
+    It prevents spellcasting.
+  the +6 arbalest "Damnation" {damnation}
+  the +10 zealot's sword {holy, *Rage rN+ EV+3}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your evasion (+3).
+    It protects you from negative energy.
+    It may make you go berserk in combat.
+  the +8 glaive of the Guard {elec, +Rage AC+5 SInv}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It affects your AC (+5).
+    It lets you see invisible.
+    It lets you go berserk.
+  the +3 giant club "Skullcrusher" {speed, Str+7}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+7).
+  the +8 longbow "Zephyr" {speed, Dex+3 SInv}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your dexterity (+3).
+    It lets you see invisible.
+  the +3 sling "Punk" {acid, rCorr}
+    It provides partial protection from all sources of acid and corrosion.
+  the +5 scythe "Finisher" {speed, eviscerate}
+    Attacks with this weapon are significantly faster.
+  the +4 dagger "Morg" {pain, MR+ Int+5}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +9 dagger of Chilly Death {flash freeze, rPois rF- rC++ MR+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It makes you vulnerable to fire.
+    It greatly protects you from cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your AC (-3).
+    It affects your evasion (-3).
+    It protects you from negative energy.
+  the +1 eveningstar "Brilliance" {holy, rN+ AC+5 Int+5}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your AC (+5).
+    It affects your intelligence (+5).
+    It protects you from negative energy.
+  the +6 scimitar of Flaming Death {sticky flame, rPois rF++ rC- MR+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It greatly protects you from fire.
+    It makes you vulnerable to cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Bloodbane" {slice, *Rage +Rage Stlth-}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It makes you less stealthy.
+  the +6 faerie dragon scales {rCorr Dex+2 Stlth+ Clar}
+    It affects your dexterity (+2).
+    It protects you against confusion.
+    It provides partial protection from all sources of acid and corrosion.
+    It makes you more stealthy.
+  the +7 sceptre of Asmodeus
+  the +4 staff of Dispater
+  the +6 sword of Cerebov {flame}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+  the +9 sword of Zonguldrok {reap}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+  the +7 sceptre of Torment {pain, torment}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+  the cursed +13 scythe of Curses {drain, *Curse}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +12 Vampire's Tooth {vamp}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+  the +9 staff of Wucad Mu {channel}
+  the +9 staff of Olgreb {rPois}
+    It protects you from poison.
+  the +0 sword of Power
+  the +12 glaive of Prune {chop}
+    It inflicts extra damage upon your enemies.
+  the +7 mace of Variability {chain chaos}
+    Each time it hits an enemy it has a different, random effect.
+  the +8 Wrath of Trog {antimagic, *Rage}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It may make you go berserk in combat.
+  the +7 Singing Sword {slice, sonic wave}
+    It inflicts extra damage upon your enemies.
+(15, 2, Lair:1)
+  a golden dragon corpse
+(16, -17, Lair:1)
+  25 gold pieces
+(16, -14, Lair:1)
+  a scroll labeled XOJ MOGENERAINY
+(17, -7, Lair:1)
+  19 gold pieces
+(18, -26, Lair:1)
+  a ration
+(21, -21, Lair:1)
+  an iron wand
+(21, -13, Lair:1)
+  20 stones
+(29, -21, Lair:1)
+  a ration
+(36, 6, Lair:1)
+  21 gold pieces
+(38, -8, Lair:1)
+  a scroll labeled JOWUEWK YM OSCH
+(41, -25, Lair:1)
+  15 arrows
+(55, -7, Lair:1)
+  the +5 scythe "Finisher" {speed, eviscerate}
+    Attacks with this weapon are significantly faster.
+  the +? Axe of Woe
+  the +7 sceptre of Torment {pain, torment}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+  the +10 morningstar "Eos" {elec, Halo rElec}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It insulates you from electricity.
+  the +7 mace of Variability {chain chaos}
+    Each time it hits an enemy it has a different, random effect.
+  the +7 great mace "Undeadhunter" {disrupt, rN+}
+    It protects you from negative energy.
+  the +7 great mace "Firestarter" {inner flame, rF++}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It greatly protects you from fire.
+  the +8 glaive of the Guard {elec, +Rage AC+5 SInv}
+    Occasionally, upon striking a foe, it will discharge some electrical energy
+    and cause terrible harm.
+    
+    It affects your AC (+5).
+    It lets you see invisible.
+    It lets you go berserk.
+  the +12 glaive of Prune {chop}
+    It inflicts extra damage upon your enemies.
+  the +8 frozen axe "Frostbite" {freezing cloud, *Noise +Fly rC+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It protects you from cold.
+    It lets you fly.
+    It may make noises in combat.
+  the +10 dark maul {crush}
+    It inflicts extra damage upon your enemies.
+  the +8 arc blade {discharge, rElec}
+    It insulates you from electricity.
+  the +8 Wrath of Trog {antimagic, *Rage}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It may make you go berserk in combat.
+  the +7 Singing Sword {slice, sonic wave}
+    It inflicts extra damage upon your enemies.
+  the +2 Maxwell's thermic engine {flame, freeze}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+  the +13 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}
+    It affects your AC (+3).
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+  a +0 blowgun
+  the horn of Geryon
+  the +8 demon trident "Rift" {distort, reach+}
+    It warps and distorts space around it. Unwielding it can cause banishment or
+    high damage.
+  the amulet of invisibility {+Inv}
+    [amulet of nothing]
+    
+    It lets you turn invisible.
+  the +3 warlock's mirror {reflect}
+  the +12 armour of Talos {ponderous, rF+}
+    It protects you from fire.
+  the +7 Kryia's mail coat {PotionHeal*2 rC+}
+    It protects you from cold.
+  the +2 robe of Vines {NoPotionHeal Regen+7}
+    It increases your rate of regeneration.
+  the cursed +3 crown of Eternal Torment {rTorment HP-- rN+++ SInv *Curse}
+    It renders you almost immune to negative energy.
+    It lets you see invisible.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +0 Maxwell's etheric cage {RegenMP+ *Contam rElec MP+4}
+    It insulates you from electricity.
+    It affects your magic capacity (+4).
+    It causes magical contamination when unequipped.
+  the +5 pair of quick blades "Gyre" and "Gimble" {pierce, Dex-3}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your dexterity (-3).
+  the +6 Majin-Bo {vamp, Archmagi MP+6 Int+6}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your intelligence (+6).
+    It affects your magic capacity (+6).
+  the +8 orange crystal plate armour {Archmagi, Int+3 Clar}
+    It affects your intelligence (+3).
+    It protects you against confusion.
+  the +7 lajatang of Order {silver, rMut}
+    It protects you from mutation.
+  the +5 demon whip "Spellbinder" {antimagic, MR+}
+    It reduces the magical energy of the wielder, and disrupts the spells and
+    magical abilities of those hit. Natural abilities and divine invocations are
+    not affected.
+    
+    It affects your resistance to hostile enchantments.
+  the +2 hat of the High Council {Archmagi, Wiz- Stlth-}
+    It makes you less stealthy.
+  the +3 pair of boots of the spider {obsolete, Stlth+}
+    It makes you more stealthy.
+  the macabre finger necklace {rN+}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+  the +4 moon troll leather armour {Spirit, Regen++ MP+5}
+    It affects your magic capacity (+5).
+    It increases your rate of regeneration.
+  a ring of the Octopus King {Wiz AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {rCorr AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of resist corrosion]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+  a ring of the Octopus King {rC+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from cold]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from cold.
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 Stlth+}
+    [ring of stealth]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It makes you more stealthy.
+  a ring of the Octopus King {AC+1 EV+1 Str+1 Int+1 Dex+1 SInv}
+    [ring of see invisible]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It lets you see invisible.
+  a ring of the Octopus King {MP+9 AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of magical power]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It affects your magic capacity (+9).
+  a ring of the Octopus King {rF+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of protection from fire]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from fire.
+  a ring of the Octopus King {rN+ AC+1 EV+1 Str+1 Int+1 Dex+1}
+    [ring of positive energy]
+    
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It affects your strength (+1).
+    It affects your intelligence (+1).
+    It affects your dexterity (+1).
+    It protects you from negative energy.
+  the +4 dragonskin cloak
+  the +6 shillelagh "Devastator" {shatter}
+  the +8 autumn katana {slice, Clar}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you against confusion.
+  the amulet of Vitality {Regen+ HP+15}
+    [amulet of regeneration]
+    
+    It affects your health (+15).
+    It increases your rate of regeneration.
+  the +10 Black Knight's horse barding {ponderous, rPois rN+}
+    It protects you from poison.
+    It protects you from negative energy.
+  the +6 lightning scales {run, rElec}
+    It insulates you from electricity.
+  the cursed +14 obsidian axe {chop, +Fly SInv *Curse}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you see invisible.
+    It lets you fly.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the +3 hat of Pondering {ponderous, MR+ MP+10 Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+    It affects your magic capacity (+10).
+  the +3 robe of Clouds {+Thunder rCloud rElec}
+    It insulates you from electricity.
+  the brooch of Shielding {Reflect SH+8}
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your SH (+8).
+  the ring of the Mage {Wiz MR++ Int+3}
+    [ring of wizardry]
+    
+    It improves your spell success rate.
+    It affects your intelligence (+3).
+    It affects your resistance to hostile enchantments.
+  the ring of Robustness {AC+8}
+    [ring of protection]
+    
+    It affects your AC (+8).
+  the ring of Phasing {EV+8}
+    [ring of evasion]
+    
+    It affects your evasion (+8).
+  the cursed necklace of Bloodlust {*Rage +Rage MR++ Int-3 Slay+6 *Curse}
+    [amulet of rage]
+    
+    It affects your intelligence (-3).
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+6).
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  the amulet of the Four Winds {rN+ MR+++ Clar}
+    [amulet of nothing]
+    
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It protects you against confusion.
+  the amulet of Cekugob {Acrobat -Tele rElec rPois rN++ AC+1 EV+1}
+    [amulet of the acrobat]
+    
+    It helps you evade while moving and waiting.
+    It affects your AC (+1).
+    It affects your evasion (+1).
+    It insulates you from electricity.
+    It protects you from poison.
+    It greatly protects you from negative energy.
+    It prevents most forms of teleportation.
+  the ring of Shadows {Umbra +Inv Stlth+}
+    [ring of stealth]
+    
+    It lets you turn invisible.
+    It makes you more stealthy.
+  the amulet of the Air {Inacc +Fly rElec EV+5 RMsl}
+    [amulet of inaccuracy]
+    
+    It reduces the accuracy of all your attacks.
+    It affects your evasion (+5).
+    It insulates you from electricity.
+    It lets you fly.
+    It protects you from missiles.
+  the +18 shield of the Gong {rElec rN+ MR+ EV-5}
+    It affects your evasion (-5).
+    It insulates you from electricity.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+  the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1 Dex+1}
+    It affects your strength (-1).
+    It affects your intelligence (-1).
+    It affects your dexterity (+1).
+    It protects you from poison.
+    It protects you from negative energy.
+  the +1 cloak of Starlight {rElec rC+ EV+4 Stlth--}
+    It affects your evasion (+4).
+    It protects you from cold.
+    It insulates you from electricity.
+    It makes you much less stealthy.
+  the +0 pair of fencer's gloves {Riposte Dex+3}
+    It affects your dexterity (+3).
+  the -2 hat of the Alchemist {rElec rPois rF+ rC+ rN+ MR+ rMut rCorr}
+    It protects you from fire.
+    It protects you from cold.
+    It insulates you from electricity.
+    It protects you from poison.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It provides partial protection from all sources of acid and corrosion.
+    It protects you from mutation.
+  the +9 scales of the Dragon King {rPois rF+ rC+ MR+}
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +5 robe of Night {Dark MR+ SInv}
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +0 mask of the Dragon {MR+ Slay+3 SInv}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+3).
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+  the +15 Maxwell's patent armour {-Cast -Tele rElec MR+ rCorr}
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+    It prevents spellcasting.
+    It prevents most forms of teleportation.
+    It provides partial protection from all sources of acid and corrosion.
+  the +3 robe of Folly {Archmagi, MR-- Int+5}
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +2 shield of Resistance {rF+ rC+ MR+}
+    It protects you from fire.
+    It protects you from cold.
+    It affects your resistance to hostile enchantments.
+  the +3 pair of gauntlets of War {Slay+5}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (+5).
+  the +3 salamander hide armour {+Rage rF++}
+    It greatly protects you from fire.
+    It lets you go berserk.
+  the +4 skin of Zhor {Hibernate rC+++ SInv}
+    It renders you almost immune to cold.
+    It lets you see invisible.
+  the +27 Lear's hauberk
+  the +2 pair of boots of the Assassin {Detection Stab+ Stlth++}
+    It makes you much more stealthy.
+  the +3 cloak of Flash {+Fly EV+4}
+    It affects your evasion (+4).
+    It lets you fly.
+  the +5 robe of Misfortune {*Contam Harm *Corrode *Drain *Slow EV+5}
+    It affects your evasion (+5).
+    It causes magical contamination when unequipped.
+    It may corrode you when you take damage.
+    It causes draining when unequipped.
+    It may slow you when you take damage.
+    It increases damage dealt and taken.
+  the +2 hat of the Bear Spirit {Spirit, +Rage rN+ MR++}
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+    It lets you go berserk.
+  the +3 crown of Dyrovepreva {rElec Int+2 SInv}
+    It affects your intelligence (+2).
+    It insulates you from electricity.
+    It lets you see invisible.
+  the +15 large shield "Bullseye" {EV-5}
+    It affects your evasion (-5).
+  the +2 cloak of the Thief {+Fog Slay-2 SInv Stlth+}
+    It affects your accuracy and damage with ranged weapons and melee attacks
+    (-2).
+    It lets you see invisible.
+    It makes you more stealthy.
+  the +4 robe of Augmentation {Str+4 Int+4 Dex+4}
+    It affects your strength (+4).
+    It affects your intelligence (+4).
+    It affects your dexterity (+4).
+  the +10 large shield of Ignorance {rN+ Int-4}
+    It affects your intelligence (-4).
+    It protects you from negative energy.
+  the +8 storm bow {elec}
+    It charges the ammunition it shoots with electricity; occasionally upon a
+    hit, such missiles may discharge and cause terrible harm.
+  the +7 captain's cutlass {speed, disarm}
+    Attacks with this weapon are significantly faster.
+  the +6 Lehudib's crystal spear {Int+3}
+    It affects your intelligence (+3).
+  the +27 knife of Accuracy
+  the +8 whip "Snakebite" {curare, rPois}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from poison.
+  the +11 plutonium sword {*Contam Stlth-}
+    It causes magical contamination when unequipped.
+    It makes you less stealthy.
+  the +7 Spriggan's Knife {stab, EV+4 Stlth+}
+    It affects your evasion (+4).
+    It makes you more stealthy.
+  the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+ AC+3}
+    It affects your AC (+3).
+    It protects you from fire.
+    It protects you from cold.
+    It protects you from poison.
+  the +6 blowgun of the Assassin {stab, +Inv Stlth++}
+    It lets you turn invisible.
+    It makes you much more stealthy.
+  the +7 longbow "Piercer" {penet, EV-2}
+    Ammo fired by it will pass through the targets it hits, potentially hitting
+    all targets in its path until it reaches maximum range.
+    
+    It affects your evasion (-2).
+  the +9 heavy crossbow "Sniper" {velocity, Acc+? SInv}
+    Any bolt fired from it inflicts extra damage.
+    
+    It lets you see invisible.
+  the +3 Elemental Staff {rElec rF++ rC++ MR++ AC+5}
+    It affects your AC (+5).
+    It greatly protects you from fire.
+    It greatly protects you from cold.
+    It insulates you from electricity.
+    It affects your resistance to hostile enchantments.
+  the +8 mithril axe "Arga" {speed, MR+}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your resistance to hostile enchantments.
+  the +8 trident of the Octopus King {venom, rElec rPois MR+}
+    It poisons the flesh of those it strikes.
+    
+    It insulates you from electricity.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +6 spear of the Botono {reap, Hex rPois rN+ HP-6}
+    If a monster killed with it leaves a corpse in good enough shape, the corpse
+    will be animated as a zombie friendly to the killer.
+    
+    It protects you from poison.
+    It protects you from negative energy.
+    It affects your health (-6).
+  the +6 arbalest "Damnation" {damnation}
+  the +10 zealot's sword {holy, *Rage rN+ EV+3}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your evasion (+3).
+    It protects you from negative energy.
+    It may make you go berserk in combat.
+  the +3 giant club "Skullcrusher" {speed, Str+7}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+7).
+  the +8 longbow "Zephyr" {speed, Dex+3 SInv}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your dexterity (+3).
+    It lets you see invisible.
+  the +3 sling "Punk" {acid, rCorr}
+    It provides partial protection from all sources of acid and corrosion.
+  the +4 dagger "Morg" {pain, MR+ Int+5}
+    In the hands of one skilled in necromantic magic, it inflicts extra damage
+    on living creatures.
+    
+    It affects your intelligence (+5).
+    It affects your resistance to hostile enchantments.
+  the +9 dagger of Chilly Death {flash freeze, rPois rF- rC++ MR+}
+    It has been specially enchanted to freeze those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. It can also slow down cold-blooded creatures.
+    
+    It makes you vulnerable to fire.
+    It greatly protects you from cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Leech" {vamp, rN+ AC-3 EV-3}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It affects your AC (-3).
+    It affects your evasion (-3).
+    It protects you from negative energy.
+  the +1 eveningstar "Brilliance" {holy, rN+ AC+5 Int+5}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your AC (+5).
+    It affects your intelligence (+5).
+    It protects you from negative energy.
+  the +6 scimitar of Flaming Death {sticky flame, rPois rF++ rC- MR+}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It greatly protects you from fire.
+    It makes you vulnerable to cold.
+    It protects you from poison.
+    It affects your resistance to hostile enchantments.
+  the +8 demon blade "Bloodbane" {slice, *Rage +Rage Stlth-}
+    It inflicts extra damage upon your enemies.
+    
+    It lets you go berserk.
+    It may make you go berserk in combat.
+    It makes you less stealthy.
+  the +7 faerie dragon scales {rCorr Str+5 SInv}
+    It affects your strength (+5).
+    It lets you see invisible.
+    It provides partial protection from all sources of acid and corrosion.
+  the +7 sceptre of Asmodeus
+  the +4 staff of Dispater
+  the +12 Vampire's Tooth {vamp}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+  the +9 staff of Wucad Mu {channel}
+  the +9 staff of Olgreb {rPois}
+    It protects you from poison.
+(60, -30, Lair:1)
+  a scroll labeled XOL HENIMPANN
+(60, 10, Lair:1)
+  a robe
+(60, 14, Lair:1)
+  20 gold pieces
+

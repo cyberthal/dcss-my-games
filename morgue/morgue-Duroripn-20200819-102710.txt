@@ -1,0 +1,284 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5196477529776640185
+
+486864 Duroripn the Conqueror (level 27, 224/224 HPs) *WIZ*
+             Began as a Halfling Hunter on Aug 19, 2020.
+             Was the Champion of Zin.
+             Quit the game on level 1 of the Vaults.
+             The game lasted 00:07:47 (30 turns).
+
+Duroripn the Conqueror (Halfling Hunter)              Turns: 30, Time: 00:07:47
+
+Health: 224/224    AC:  6    Str: 13    XL:     27
+Magic:  54/54      EV: 33    Int:  9    God:    Zin 196 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .   a - +1 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: small, mutation resistance 1
+a: Recite, Vitalisation, Imprison, Sanctuary, Donate Gold, Renounce Religion
+
+
+You were on level 1 of the Vaults.
+You worshipped Zin.
+Zin was exalted by your worship.
+You were completely stuffed.
+
+You visited 3 branches of the dungeon, and saw 5 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling (weapon)
+ b - a +0 short sword
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ c - a +0 leather armour (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+ Crypt: Vaults:2-3  
+
+Altars:
+Jiyva
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+
+
+Message History
+
+Zin imprisons the ironbrand convoker with walls of pure silver!
+You start resting. Magic restored.
+You start waiting.
+Zin releases the ironbrand convoker from its prison.
+Press: ? - help, v - describe, . - travel
+Here: an ironbrand convoker, wielding a +0 flail and wearing a +0 scale mail
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: an ironbrand convoker, wielding a +0 flail and wearing a +0 scale mail
+The floor.
+Okay, then.
+Unknown command.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+The ironbrand convoker misses you.
+You're too full to eat anything.
+Autopickup is now off.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+              o
+
+
+    H
+
+
+
+
+
+
+s                ######
+                 #....#            C   J
+     c c         #....#             J
+     cc          #@p#.#
+                 #....+ J W            J
+                 ####+#J               J
+                         J          J  J
+                         J
+                        J     #####
+                              #...##
+                              +.\..#
+                              #.....#
+                              ##.....#
+                               ##..>..#
+                                 #.....#
+                                  #.....
+
+
+You could see an ironbrand convoker.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Duroripn the Halfling Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Zin the Law-Giver
+     0 | D:1      | Reached * piety under Zin
+     0 | D:1      | Reached ** piety under Zin
+     0 | D:1      | Reached *** piety under Zin
+     0 | D:1      | Reached **** piety under Zin
+     0 | D:1      | Reached ***** piety under Zin
+     0 | D:1      | Reached ****** piety under Zin
+     0 | Slime:5  | Entered Level 5 of the Pits of Slime
+     0 | Slime:5  | Found a viscous altar of Jiyva.
+     0 | Slime:5  | Noticed an acid blob
+     0 | Slime:5  | Noticed an acid blob
+     0 | Slime:5  | Noticed an acid blob
+     0 | Slime:5  | Noticed the Royal Jelly
+     0 | Slime:5  | Noticed an acid blob
+     0 | Slime:5  | Noticed a slime creature
+     0 | Slime:5  | Noticed a slime creature
+     0 | Slime:5  | Noticed a great orb of eyes
+     0 | Slime:5  | Noticed an eye of draining
+     0 | Slime:5  | Noticed an eye of draining
+     0 | Slime:5  | Noticed a death ooze
+     0 | Slime:5  | Noticed a slime creature
+     0 | Slime:5  | Noticed a slime creature
+     0 | Slime:5  | Noticed a slime creature
+     1 | Slime:5  | Noticed an azure jelly
+     2 | Slime:5  | Entered Level 5 of the Pits of Slime
+     2 | Slime:5  | Noticed a golden eye
+     2 | Slime:5  | Noticed an eye of devastation
+     2 | Slime:5  | Noticed an acid blob
+     2 | Slime:5  | Noticed a golden eye
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a shining eye
+     2 | Slime:5  | Noticed a floating eye
+     2 | Slime:5  | Noticed an acid blob
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Entered Level 5 of the Pits of Slime
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed an eye of draining
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Slime:5  | Noticed a slime creature
+     2 | Vaults:5 | Entered Level 5 of the Vaults
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a yaktaur
+     2 | Vaults:5 | Noticed a deep elf sorcerer
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a vault guard
+     2 | Vaults:5 | Noticed a manticore
+     2 | Vaults:5 | Noticed a vault warden
+     2 | Vaults:5 | Noticed a yaktaur
+     2 | Vaults:5 | Noticed a yaktaur
+     2 | Vaults:5 | Noticed a yaktaur
+     2 | Vaults:1 | Entered Level 1 of the Vaults
+     2 | Vaults:1 | Entered Level 1 of the Vaults
+     2 | Vaults:1 | Noticed an ironbrand convoker
+     8 | Vaults:1 | Reached XP level 2. HP: 56/56 MP: 2/30
+     8 | Vaults:1 | Reached XP level 3. HP: 63/63 MP: 2/31
+     8 | Vaults:1 | Reached XP level 4. HP: 70/70 MP: 2/33
+     8 | Vaults:1 | Reached XP level 5. HP: 76/76 MP: 2/34
+     8 | Vaults:1 | Reached XP level 6. HP: 83/83 MP: 2/36
+     8 | Vaults:1 | Reached XP level 7. HP: 90/90 MP: 2/37
+     8 | Vaults:1 | Reached XP level 8. HP: 97/97 MP: 2/39
+     8 | Vaults:1 | Reached XP level 9. HP: 103/103 MP: 2/40
+     8 | Vaults:1 | Reached XP level 10. HP: 110/110 MP: 2/41
+     8 | Vaults:1 | Reached XP level 11. HP: 117/117 MP: 2/42
+     8 | Vaults:1 | Reached XP level 12. HP: 124/124 MP: 2/43
+     8 | Vaults:1 | Reached XP level 13. HP: 130/130 MP: 2/44
+     8 | Vaults:1 | Reached XP level 14. HP: 137/137 MP: 2/45
+     8 | Vaults:1 | Reached XP level 15. HP: 143/143 MP: 2/46
+     8 | Vaults:1 | Reached XP level 16. HP: 150/150 MP: 2/47
+     8 | Vaults:1 | Reached XP level 17. HP: 156/156 MP: 2/48
+     8 | Vaults:1 | Reached XP level 18. HP: 163/163 MP: 2/49
+     8 | Vaults:1 | Reached XP level 19. HP: 170/170 MP: 2/50
+     8 | Vaults:1 | Reached XP level 20. HP: 177/177 MP: 2/51
+     8 | Vaults:1 | Reached XP level 21. HP: 183/183 MP: 2/52
+     8 | Vaults:1 | Reached XP level 22. HP: 190/190 MP: 2/53
+     8 | Vaults:1 | Reached XP level 23. HP: 197/197 MP: 2/54
+     8 | Vaults:1 | Reached XP level 24. HP: 204/204 MP: 2/54
+     8 | Vaults:1 | Reached XP level 25. HP: 210/210 MP: 2/54
+     8 | Vaults:1 | Reached XP level 26. HP: 217/217 MP: 2/54
+     8 | Vaults:1 | Reached XP level 27. HP: 224/224 MP: 2/54
+    30 | Vaults:1 | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Invok: Imprison          |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |     4 |       |       |       |       |       |       |       |     1 ||     5
+

@@ -1,0 +1,159 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 660016354791998178
+
+1 Naocw the Vexing (level 1, -2/13 HPs)
+             Began as a Vampire Enchanter on Oct 14, 2020.
+             Slain by a leopard gecko (5 damage)
+             ... on level 1 of the Dungeon.
+             The game lasted 00:06:11 (166 turns).
+
+Naocw the Vexing (Vampire Enchanter)                 Turns: 166, Time: 00:06:12
+
+Health: -2/13      AC:  2    Str:  7    XL:     1   Next: 16%
+Magic:  1/3        EV: 12    Int: 17    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis +   a - +1 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.24/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: regenerating quickly
+A: fangs 3, see invisible, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were full.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Missiles
+ c - 16 arrows
+Armour
+ b - a +0 robe (worn)
+Scrolls
+ e - a scroll of identify {unknown}
+
+
+   Skills:
+ * Level 1.2 Short Blades
+ - Level 2.1 Dodging
+ + Level 4.4 Stealth
+ - Level 2.0 Spellcasting
+ + Level 4.4 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      3%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Confuse                  Hex            ###.....     10%         3    ###....
+ Tukima's Dance           Hex            ###.....     10%         3    ###....
+ Ensorcelled Hibernation  Hex/Ice        #.....       12%         2    ###....
+ Dazzling Spray           Conj/Hex       #.....       24%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 exclusion: gnoll
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your natural rate of healing is unusually fast.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You can survive without breathing.
+
+
+Message History
+
+Yummy - fresh blood! The leopard gecko bites you.
+Yummy - fresh blood! The leopard gecko bites you.
+* * * LOW HITPOINT WARNING * * *
+Press: ? - help, v - describe, . - travel
+Here: a leopard gecko (lightly wounded, softly glowing, clinging)
+The floor.
+Press: ? - help, v - describe, . - travel
+Here: a leopard gecko (lightly wounded, softly glowing, clinging)
+The floor.
+You hit the leopard gecko.
+The leopard gecko is moderately wounded.
+The leopard gecko bites you but does no damage. x2
+You hit the leopard gecko.
+The leopard gecko is heavily wounded.
+The leopard gecko bites you.
+* * * LOW HITPOINT WARNING * * *
+You hit the leopard gecko.
+The leopard gecko is almost dead.
+The leopard gecko bites you.
+You die...
+
+   #####
+   #...#####...
+   #.#......l..
+   #...#####...
+   ##.##
+    #.#
+    #l#
+    #@######
+    #.#~~~~
+    #.#~..
+    #.#~.##############
+    #.#~8#~~~~~#.~~.#.#
+#####.#~.#~...~#.~~.#.#
+#...)..~.#~.#.~#000.#.#
+#.####.~8#~.#.~#.~~.#.#
+#.#  #.~.#~.#.~#.~~.#.#
+#.#  #...'..#..'....'.#
+#.#  #...'..#..'....'<#
+#.#  ##~.#~.#.~#.~~.#.#
+#.#   #~8#~.#.~#.~~.#.#
+
+
+You could see a leopard gecko.
+
+Vanquished Creatures
+  A bat (D:1)
+  A rat (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Naocw the Vampire Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   166 | D:1      | Slain by a leopard gecko
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    18
+       Bite              ||     4
+ Cast: Corona            ||     4
+  Use: Potion            ||     2
+Armor: Robe              ||    10
+Dodge: Dodged            ||     7
+

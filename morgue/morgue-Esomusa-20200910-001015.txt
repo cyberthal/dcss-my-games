@@ -1,0 +1,561 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2571562211482259645
+
+17117 Esomusa the Slinger (level 12, 5/101 HPs) *WIZ*
+             Began as a Centaur Monk on Sept 7, 2020.
+             Was a Priest of Qazlal.
+             Quit the game on level 12 of the Dungeon on Sept 10, 2020.
+             The game lasted 03:51:31 (15908 turns).
+
+Esomusa the Slinger (Centaur Monk)                 Turns: 15908, Time: 03:51:32
+
+Health: 5/101      AC: 10    Str: 19    XL:     12   Next: 16%
+Magic:  2/6        EV:  7    Int:  9    God:    Qazlal [***...]
+Gold:   146        SH: 19    Dex: 14    Spells: 6/11 levels left
+
+rFire    . . .     SeeInvis +   i - +1 spear (antimagic)
+rCold    + . .     Gourm    .   V - +0 large shield
+rNeg     . . .     Faith    .   P - +2 robe {MR+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   F - +1 cloak
+rCorr    +         Harm     .   (no gloves)
+MR       +....                  (no barding)
+Stlth    +.........             s - amulet of regeneration
+HPRegen  0.66/turn              Q - ring of resist corrosion
+MPRegen  0.10/turn              X - ring of see invisible
+
+@: very quick
+A: large, hooves 3, molten scales 1, agile 1, blink, cold resistance 1, deformed
+body, speed 2, tough skin 3
+a: Blink, Upheaval, Elemental Force, Renounce Religion
+
+
+You were on level 12 of the Dungeon.
+You worshipped Qazlal.
+Qazlal was most pleased with you.
+You were very hungry.
+
+You visited 2 branches of the dungeon, and saw 15 of its levels.
+You also visited: Sewer.
+
+You collected 545 gold pieces.
+You spent 399 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling
+ b - a +4 spear
+ c - a +2 falchion of holy wrath
+ d - a +2 short sword of draining
+ e - a +0 scimitar of flaming
+ f - the +3 flail of Glory {crush, rN+ MP-9 Str+2}
+   (You found it on level 10 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (+2).
+   It protects you from negative energy.
+   It affects your magic capacity (-9).
+ g - a +4 morningstar
+ h - a +3 war axe of freezing
+ i - a +1 antimagic spear (weapon)
+ j - a +0 shortbow
+ C - a +0 hand crossbow
+ N - a +0 arbalest
+Missiles
+ k - 39 arrows
+ n - 300 stones (quivered)
+ x - 21 bolts
+ Z - 87 sling bullets
+Armour
+ l - a +1 helmet of see invisible
+ r - a +2 helmet
+ B - a +1 leather armour of poison resistance
+ F - a +1 cloak (worn)
+ P - a +2 robe of magic resistance (worn)
+ V - a +0 large shield (worn)
+Magical Staves
+ p - an uncursed staff of fire
+ J - an uncursed staff of wizardry
+Jewellery
+ s - an amulet of regeneration (around neck)
+ M - a +2 ring of evasion {unknown}
+ Q - a ring of resist corrosion (left hand)
+ X - a ring of see invisible (right hand)
+Wands
+ O - a wand of iceblast (6)
+ R - a wand of paralysis (15)
+ S - a wand of flame (66)
+ U - a wand of enslavement (2)
+Scrolls
+ q - a scroll of teleportation
+ y - 3 scrolls of immolation
+ E - 6 scrolls of blinking
+ G - a scroll of fear
+ H - 2 scrolls of remove curse
+ I - 2 scrolls of fog
+ W - a scroll of summoning
+Potions
+ o - a potion of brilliance
+ t - 2 potions of curing
+ u - 2 potions of flight
+ v - a potion of might
+ w - 6 potions of haste
+ z - a potion of magic {unknown}
+ A - a potion of cancellation
+ K - a potion of resistance
+ Y - 3 potions of lignification
+Comestibles
+ D - 23 rations
+
+
+   Skills:
+ - Level 8.0 Fighting
+ - Level 2.8(3.4) Short Blades
+ - Level 2.8(3.4) Long Blades
+ - Level 3.2 Maces & Flails
+ + Level 6.6 Polearms
+ - Level 10.1(10.3) Slings
+ - Level 2.9(7.1) Throwing
+ - Level 2.1 Dodging
+ - Level 1.1 Stealth
+ + Level 4.5 Shields
+ - Level 1.7 Conjurations
+ - Level 1.1 Translocations
+ - Level 1.7 Fire Magic
+ - Level 9.0 Invocations
+ - Level 7.0 Evocations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Blink                 Tloc           N/A          98%         2    ###....
+b - Conjure Flame         Conj/Fire      #.......     99%         3    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         89%         1    ##.....
+ Call Imp                 Summ           #.......     99%         2    ###....
+ Slow                     Hex            #.......     99%         2    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ####...
+ Irradiate                Conj/Tmut      #.........   100%        5    ######.
+ Hydra Form               Tmut           #.........   100%        6    #######
+ Statue Form              Tmut/Erth      #........    100%        6    #######
+ Dragon Form              Tmut           #.........   100%        7    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (14/15)            Temple (1/1) D:5            Lair (0/6) D:11
+    Orc (0/2) D:9         
+Vaults: D:13-14     
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 =*?
+
+Annotations:
+D:8 1 runed translucent door, Gistrauq's ghost, novice DsBe
+D:11 loot, exclusion: 2 doors
+D:13 13 exclusions
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+You are partially covered in molten scales. (AC +2)
+You are agile. (Dex +2)
+You can translocate small distances at will.
+Your flesh is cold resistant. (rC+)
+
+
+Message History
+
+The grasping roots grab you!
+The grasping roots constrict you.
+Your air elemental barely misses Jorgrun.
+Attack whom?
+Press: ? - help, Dir - move target cursor, f/p - Jorgrun
+Aim: Jorgrun, wielding a +0 quarterstaff of crushing and wearing a +0 robe
+(almost dead)
+You could not reach far enough! Your air elemental misses Jorgrun. Your air
+elemental hits Jorgrun!
+Jorgrun dies!
+Qazlal accepts your kill.
+Training target 3.0 for Maces & Flails reached!
+Your Maces & Flails skill increases to level 3!
+Enter note: instead of using d11 Lair, got shafted and lured into fight with
+jorgrun going for ice portal on d12
+Enter note: foolish, died multiple times.  could've killed him easily with
+elemental force tho
+Okay, then.
+Unknown command.
+Enter note: net and then antimagic spear
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Enter note: quitting now cuz I screwed up greatly.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+        #.......#        ....
+        #.......#     #......
+        #.......#     .......
+        #.......#    ........
+        #.......#  #.........
+        #.#.....## #.........
+   ######.#.<....# #.........
+####....0.#......# #.........
+.......@.........###.........
+......EEE.........##.........
+......EE..........##.........
+.............................
+..............#.....##.......
+..........>%..#....#.........
+.........(.....#..#..........
+#..........#....###..........
+   ........#.....###.........
+   ........#.....#..#........
+   ...###..#....#....#.####.#
+   .##  #.....##..... .#
+        #............  #
+
+
+You could see a friendly earth elemental, 2 friendly water elementals and 2
+friendly air elementals.
+
+Vanquished Creatures
+  Harold (D:8)
+  A centaur warrior (D:13)
+  4 unseen horrors
+  Pikel (D:5)
+  2 deep elf magi
+  An ugly thing (D:12)
+  A centaur zombie (D:13)
+  Joseph (D:7)
+  A gargoyle (D:14)
+  A yaktaur (D:13)
+  An efreet (D:14)
+  A troll (D:12)
+  4 hippogriffs
+  9 yaks (D:11)
+  A wyvern (D:9)
+  Sigmund (D:6)
+  A hungry ghost (D:12)
+  Eustachio (D:5)
+  2 wargs (D:11)
+  A water moccasin (D:6)
+  4 orc warriors
+  2 black bears (D:8)
+  Purgy (Sewer)
+  6 sky beasts
+  2 ice beasts (D:7)
+  3 ogres
+  A necrophage (D:13)
+  3 slaves (D:6)
+  6 centaurs
+  A crocodile (D:8)
+  A crocodile (shapeshifter) (D:11)
+  2 big kobolds (D:11)
+  10 bullfrogs
+  5 scorpions
+  10 killer bees
+  10 wights
+  4 howler monkeys
+  2 crimson imps
+  2 quasits
+  5 orc priests
+  A bullfrog skeleton (D:4)
+  5 hounds
+  2 jellies
+  A centaur skeleton (D:6)
+  A gnoll shaman (D:6)
+  Crazy Yiuf (D:3)
+  3 iguanas
+  8 orc wizards
+  Ijyb (D:5)
+  4 worker ants
+  A statue (D:6)
+  A killer bee zombie (D:7)
+  2 hound zombies
+  Robin (D:2)
+  2 worker ant zombies
+  8 gnolls
+  9 adders
+  3 river rats (D:6)
+  2 shadow imps
+  An ooze (D:1)
+  2 adder skeletons (D:4)
+  A worm (D:3)
+  2 dart slugs
+  3 leopard geckos
+  34 orcs
+  7 bats
+  4 giant cockroaches
+  12 goblins
+  9 hobgoblins
+  10 jackals
+  10 quokkas
+  3 ball pythons
+  4 frilled lizards
+  10 kobolds
+  A leopard gecko skeleton (D:4)
+  24 rats
+309 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Jorgrun (D:12)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A quokka (D:6)
+1 creature vanquished.
+
+Grand Total: 311 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Esomusa the Centaur Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+   132 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+  1061 | D:1      | Reached XP level 3. HP: 31/31 MP: 3/3
+  1399 | D:1      | Reached XP level 4. HP: 27/38 MP: 4/4
+  1897 | D:1      | Reached skill level 5 in Polearms
+  2030 | D:2      | Reached skill level 1 in Throwing
+  2030 | D:2      | Reached XP level 5. HP: 45/45 MP: 5/5
+  2599 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2599 | D:2      | Found a deep blue altar of Sif Muna.
+  2648 | D:2      | Found an opulent altar of Gozag.
+  2783 | D:3      | Reached skill level 1 in Slings
+  2946 | D:3      | Noticed Robin
+  3236 | D:2      | Killed Robin
+  3475 | D:3      | Found a runed translucent door.
+  3574 | D:3      | Reached skill level 2 in Slings
+  3587 | D:3      | Found a stormy altar of Qazlal.
+  3591 | D:3      | Found an ornate altar of the Wu Jian Council.
+  3591 | D:3      | Found a bloodstained altar of Trog.
+  3637 | D:3      | Reached XP level 6. HP: 51/51 MP: 6/6
+  3695 | D:3      | Noticed an orc warrior
+  3958 | D:3      | Killed an orc warrior
+  3958 | D:3      | Reached skill level 3 in Slings
+  4077 | D:3      | Noticed Crazy Yiuf
+  4112 | D:3      | Killed Crazy Yiuf
+  4263 | D:4      | Reached skill level 4 in Slings
+  4267 | D:4      | Found Busiu's Assorted Antiques.
+  4360 | D:4      | Bought a scroll labeled XOMOHAJOSS for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled FIS ESELUONN for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled SAAFECL XURECI for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled FIORPH VEOCS for 29 gold pieces
+  4749 | D:4      | Reached skill level 5 in Slings
+  4749 | D:4      | Reached XP level 7. HP: 54/57 MP: 7/7
+  4997 | D:4      | Found a stormy altar of Qazlal.
+  5035 | D:4      | Found Ducid's Jewellery Emporium.
+  5367 | D:4      | Found Xevea's Magic Scroll Emporium.
+  5420 | D:4      | Reached skill level 6 in Slings
+  5680 | D:4      | Bought a scroll of noise for 12 gold pieces
+  5680 | D:4      | Bought a scroll of identify for 24 gold pieces
+  5701 | D:5      | Entered Level 5 of the Dungeon
+  5701 | D:5      | Noticed Eustachio
+  5706 | D:5      | Killed Eustachio
+  5706 | D:5      | Reached skill level 7 in Slings
+  5841 | D:4      | Bought a scroll of identify for 24 gold pieces
+  5873 | D:5      | Noticed Ijyb
+  5883 | D:5      | Killed Ijyb
+  6165 | D:5      | Found a white marble altar of Elyvilon.
+  6233 | D:3      | Became a worshipper of Qazlal Stormbringer
+  6233 | D:3      | Reached * piety under Qazlal
+  6233 | D:3      | Reached ** piety under Qazlal
+  6359 | D:5      | Reached skill level 1 in Evocations
+  6461 | D:5      | Reached XP level 8. HP: 63/63 MP: 2/8
+  6551 | D:5      | Found a staircase to the Ecumenical Temple.
+  6569 | Temple   | Entered the Ecumenical Temple
+  6801 | D:5      | Found a glowing golden altar of the Shining One.
+  7009 | D:4      | Bought a scroll of identify for 24 gold pieces
+  7080 | D:6      | Reached skill level 1 in Shields
+  7095 | D:5      | Reached skill level 1 in Long Blades
+  7182 | D:6      | Noticed Sigmund
+  7221 | D:6      | Killed Sigmund
+  7221 | D:6      | Reached skill level 1 in Invocations
+  7509 | D:6      | Reached skill level 5 in Fighting
+  7518 | D:6      | Noticed Pikel
+  7553 | D:6      | Paralysed by Pikel for 2 turns
+  7564 | D:5      | Killed Pikel
+  7564 | D:5      | Reached skill level 5 in Invocations
+  7564 | D:5      | Reached XP level 9. HP: 75/75 MP: 8/12
+  7704 | D:6      | Found a shimmering altar of Xom.
+  7756 | D:6      | Found a glowing drain.
+  7768 | Sewer    | Entered a sewer
+  7871 | Sewer    | Noticed Purgy
+  7892 | Sewer    | Killed Purgy
+  7892 | Sewer    | Reached skill level 1 in Maces & Flails
+  8260 | D:6      | Found a radiant altar of Vehumet.
+  8483 | D:4      | Bought 3 scrolls of identify for 72 gold pieces
+  8757 | D:7      | Found a snail-covered altar of Cheibriados.
+  9003 | D:7      | Reached *** piety under Qazlal
+  9039 | D:7      | Noticed Joseph
+  9074 | D:7      | Killed Joseph
+  9209 | D:7      | Found a shattered altar of Ashenzari.
+  9382 | D:6      | Reached skill level 8 in Slings
+ 10147 | D:8      | Noticed Harold
+ 10162 | D:8      | Killed Harold
+ 10162 | D:8      | Reached XP level 10. HP: 49/83 MP: 11/15
+ 10679 | D:8      | Found a runed translucent door.
+ 10681 | D:8      | Noticed Gistrauq's ghost (novice DsBe)
+ 11096 | D:4      | Bought a scroll of remove curse for 36 gold pieces
+ 11096 | D:4      | Bought a scroll of magic mapping for 42 gold pieces
+ 11251 | D:8      | Learned a level 2 spell: Blink
+ 11448 | D:9      | Found a staircase to the Orcish Mines.
+ 11547 | D:9      | Reached skill level 1 in Translocations
+ 11720 | D:9      | Found an iron altar of Okawaru.
+ 12603 | D:4      | Bought a cursed ring of teleportation for 49 gold pieces
+ 12776 | D:10     | Entered Level 10 of the Dungeon
+ 12830 | D:9      | Learned a level 3 spell: Conjure Flame
+ 12872 | D:10     | Noticed an unseen horror
+ 12890 | D:10     | Killed an unseen horror
+ 12890 | D:10     | Reached skill level 1 in Conjurations
+ 12890 | D:10     | Reached skill level 1 in Fire Magic
+ 13306 | D:10     | Found a shimmering altar of Xom.
+ 13313 | D:10     | You fall through a shaft!
+ 13331 | D:11     | Reached **** piety under Qazlal
+ 13338 | D:11     | Reached skill level 5 in Evocations
+ 13399 | D:11     | Reached XP level 11. HP: 75/91 MP: 17/17
+ 13553 | D:11     | Noticed an unseen horror
+ 13571 | D:11     | Killed an unseen horror
+ 13652 | D:11     | Noticed a deep elf mage
+ 13671 | D:11     | Killed a deep elf mage
+ 13811 | D:11     | Found a staircase to the Lair.
+ 14049 | D:10     | Identified the +3 flail of Glory {crush, rN+ MP-9 Str+2}
+                  | (You found it on level 10 of the Dungeon)
+ 14479 | D:10     | Gained mutation: You are agile. (Dex +2) [potion of
+                  | mutation]
+ 14479 | D:10     | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [potion of mutation]
+ 14479 | D:10     | Gained mutation: You are partially covered in molten
+                  | scales. (AC +2) [potion of mutation]
+ 14479 | D:10     | Gained mutation: You can translocate small distances at
+                  | will. [potion of mutation]
+ 14850 | D:11     | You fall through a shaft for 3 floors!
+ 14910 | D:14     | Reached skill level 9 in Slings
+ 14992 | D:13     | Noticed an unseen horror
+ 15020 | D:13     | Killed an unseen horror
+ 15188 | D:13     | Noticed an orc knight
+ 15204 | D:13     | Noticed a death knight
+ 15346 | D:12     | Noticed an unseen horror
+ 15359 | D:12     | Killed an unseen horror
+ 15359 | D:12     | Reached skill level 10 in Slings
+ 15367 | D:12     | Noticed a deep elf mage
+ 15375 | D:12     | Killed a deep elf mage
+ 15386 | D:12     | Reached ***** piety under Qazlal
+ 15500 | D:13     | Noticed Jorgrun
+ 15516 | D:13     | HP: 1/92 [Jorgrun/iron shot (37)]
+ 15696 | D:13     | Noticed a centaur warrior
+ 15704 | D:13     | Found a frozen archway.
+ 15705 | D:13     | Noticed a white ugly thing
+ 15716 | D:13     | Killed a centaur warrior
+ 15749 | D:12     | Killed a white ugly thing
+ 15749 | D:12     | Reached XP level 12. HP: 27/101 MP: 16/18
+ 15889 | D:12     | Mangled by Jorgrun
+                  | ... wielding a +0 quarterstaff of crushing
+                  | (17 damage)
+ 15903 | D:12     | HP: 3/101 [Jorgrun/iron shot (25)]
+ 15907 | D:12     | Killed Jorgrun
+ 15908 | D:12     | instead of using d11 Lair, got shafted and lured into fight
+                  | with jorgrun going for ice portal on d12
+ 15908 | D:12     | foolish, died multiple times.  could've killed him easily
+                  | with elemental force tho
+ 15908 | D:12     | net and then antimagic spear
+ 15908 | D:12     | quitting now cuz I screwed up greatly.
+ 15908 | D:12     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Polearms       |  3     4  5                    6    |  6.6
+Throwing       |           1  2                      |  2.9
+Slings         |              2  5  7     8    10    | 10.1
+Evocations     |                    1  2  4  5  7    |  7.0
+Shields        |                       2     4       |  4.5
+Long Blades    |                       1        2    |  2.8
+Invocations    |                       5  7  8  9    |  9.0
+Fighting       |                       5  6     8    |  8.0
+Maces & Flails |                          1     2  3 |  3.2
+Short Blades   |                          2          |  2.8
+Translocations |                             1       |  1.1
+Conjurations   |                             1       |  1.7
+Fire Magic     |                             1       |  1.7
+Dodging        |                                     |  2.1
+Stealth        |                                     |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |    99 |   158 |  4181 |  4079 ||  8517
+       Kick              |    15 |    18 | 11523 |  2797 || 14353
+       Quarterstaff      |       |     4 |     1 |       ||     5
+       War axe           |       |       |     5 |  4047 ||  4052
+       Falchion          |       |       |    13 |    33 ||    46
+       Scythe            |       |       |     4 |       ||     4
+       Whip              |       |       | 12048 |     4 || 12052
+       Hand axe          |       |       |  8054 |    25 ||  8079
+       Scimitar          |       |       |  4001 |       ||  4001
+       Flail             |       |       |  4000 |       ||  4000
+       Short sword       |       |       |    12 |   126 ||   138
+       Morningstar       |       |       |       |    12 ||    12
+ Fire: Hunting sling     |       |   187 |   230 |   243 ||   660
+Throw: Stone             |       |     4 |       |     1 ||     5
+       Tomahawk          |       |     2 |     5 |     5 ||    12
+       Throwing net      |       |       |     1 |     3 ||     4
+Invok: Upheaval          |       |       |     1 |     5 ||     6
+       Elemental Force   |       |       |       |     1 ||     1
+ Abil: Blink             |       |       |       |     4 ||     4
+Evoke: Wand              |       |       |     4 |     3 ||     7
+  Use: Potion            |       |     4 |     4 |     7 ||    15
+       Scroll            |       |     3 |    18 |    10 ||    31
+ Stab: Sleeping          |     5 |       |       |       ||     5
+       Paralysed         |       |       |    12 |       ||    12
+       Held in net/web   |       |       |       |     1 ||     1
+  Eat: Chunk             |       |     9 |    14 |    10 ||    33
+       Ration            |       |       |       |     1 ||     1
+Armor: Robe              |     8 |     7 |  5937 |  1340 ||  7292
+       Skin              |       |     9 |       |    44 ||    53
+       Animal skin       |       |     7 |    36 |       ||    43
+Dodge: Dodged            |    17 |    31 |  6197 |   785 ||  7030
+       Deflected         |       |       |       |     6 ||     6
+Block: Shield            |       |       | 13313 |   183 || 13496
+       Other             |       |       |     1 |       ||     1
+       Large shield      |       |       |       |  5421 ||  5421
+Rpst.: Scimitar          |       |       |   239 |       ||   239
+       Falchion          |       |       |       |     2 ||     2
+

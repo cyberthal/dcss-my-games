@@ -1,0 +1,209 @@
+ERROR: range check error (-1 / 70)
+
+Version: Dungeon Crawl Stone Soup 0.23.2
+Platform: unix (OS X)
+Bits: 64
+Game mode: arena
+Tiles: yes
+
+Command line: /Applications/Dungeon Crawl Stone Soup - Tiles.app/Contents/MacOS/Dungeon Crawl Stone Soup - Tiles
+
+RC options:
+restart_after_game = true
+
+
+Crash caused by signal #4: Illegal instruction: 4
+
+Obtained 15 stack frames.
+0x00000001100685b4: write_stack_trace(__sFILE*, int) + 116
+0x0000000110070846: do_crash_dump() + 1718
+0x00000001100682e0: crash_signal_handler(int) + 176
+0x00007fff6bfab5fd: _sigtramp + 29
+0xffffffffffffffff: 0x0 + 18446744073709551615
+0x0000000110073440: _BreakStrToDebugger(char const*, bool) + 0
+0x00000001106d51dd: cell_is_solid(coord_def const&) + 141
+0x000000011065d94b: you_teleport_now(bool, bool, std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> >) + 3259
+0x00000001106fdebb: do_trap_effects() + 395
+0x00000001107e45f9: world_reacts() + 537
+0x000000010ffc22fb: run_arena(std::__1::basic_string<char, std::__1::char_traits<char>, std::__1::allocator<char> > const&) + 4203
+0x0000000110676490: startup_step() + 5584
+0x00000001107e07e9: _launch_game() + 25
+0x00000001107e016a: main + 1082
+0x000000010ff82d44: start + 52
+
+/usr/bin/gdb not executable.
+
+Compilation info:
+<<<<<<<<<<<
+Compiled with GCC 4.2.1 Compatible Clang 4.0.1 (tags/RELEASE_401/final) on Mar 30 2019 at 21:18:35
+Build platform: x86_64-apple-darwin16.7.0
+Platform: x86_64-apple-darwin16.7.0
+CFLAGS: -O2 -flto -pipe -DUSE_TILE -DUSE_TILE_LOCAL -DUSE_SDL -DUSE_GL -DUSE_FT -Wall -Wformat-security -Wundef -Wno-array-bounds -Wno-format-zero-length -Wmissing-declarations -Wredundant-decls -Wno-parentheses -Wwrite-strings -Wshadow -pedantic -Wuninitialized -Iutil -I. -Irltiles -isystem contrib/install/x86_64-apple-darwin16.7.0/include/SDL2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include/freetype2 -isystem contrib/install/x86_64-apple-darwin16.7.0/include -DWIZARD -DASSERTS -DPROPORTIONAL_FONT="contrib/fonts/DejaVuSans.ttf" -DMONOSPACED_FONT="contrib/fonts/DejaVuSansMono.ttf" -DCLUA_BINDINGS -isystem /usr/include/ncurses
+LDFLAGS: -rdynamic -O2 -flto 
+>>>>>>>>>>>
+
+Place info:
+branch = 34, depth = 1
+
+Level id: Depths:1
+Markers:
+<<<<<<<<<<<<<<<<<<<<<<
+Marker #0, type 0 at (39, 28): feature (stone_stairs_up_i)
+Marker #1, type 0 at (39, 34): feature (escape_hatch_up)
+Marker #2, type 0 at (39, 40): feature (stone_stairs_down_i)
+>>>>>>>>>>>>>>>>>>>>>>
+
+Messages:
+<<<<<<<<<<<<<<<<<<<<<<
+The Royal Jelly enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+An orc enters the arena!
+---- Turn #0 ----
+You stumble into a teleport trap!
+You are suddenly yanked towards a nearby monster!
+Your surroundings seem slightly different.
+
+>>>>>>>>>>>>>>>>>>>>>>
+
+Version history:
+No version history (current version is 0.23.2)
+
+Game state:
+
+mouse_enabled: 0, waiting_for_command: 0, terminal_resized: 0
+io_inited: 1, need_save: 0, saving_game: 0, updating_scores: 0:
+seen_hups: 0, map_stat_gen: 0, type: 3, arena_suspended: 0
+
+prev_cmd = CMD_NO_CMD
+repeat_cmd = CMD_NO_CMD
+
+
+Screenshot:
+#################
+#..ooooooooooo..#
+#..oooooooooooo.#
+#.ooooooooooooo.#
+#..oooooooooooo.#
+#.ooooooooooooo.#
+#.ooooooooooooo.#
+#.ooooooooooooo.#
+#..oooooooooooo.#
+#...............#
+#...............#
+#...............#
+#...............#
+#...............#
+#.......J.......#
+#...............#
+#################
+
+clua stack:
+
+
+dlua stack:
+
+
+Lua persistent data:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>
+
+Lua marker contents:
+<<<<<<<<<<<<<<<<<<<<<<
+>>>>>>>>>>>>>>>>>>>>>>

@@ -1,0 +1,279 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7273099061540091606
+
+810 Tidip the Ruffian (level 7, 57/57 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 22, 2020.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:42:12 (3396 turns).
+
+Tidip the Ruffian (Ghoul Monk)                      Turns: 3396, Time: 00:42:13
+
+Health: 57/57      AC:  9    Str: 15    XL:     7   Next: 92%
+Magic:  6/6        EV:  5    Int:  7    God:    No God 0 (0)
+Gold:   73         SH:  8    Dex: 11    Spells: 6/6 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   v - +0 shield
+rNeg     + + +     Faith    .   r - +0 chain mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 5 of its levels.
+You also visited: Ossuary.
+
+You collected 73 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 hunting sling of flaming
+ b - a +2 hand axe of freezing
+ s - a +0 trident
+Missiles
+ c - 33 arrows
+ k - 6 bolts
+ w - 19 poisoned needles
+Armour
+ n - a +0 robe
+ r - a +0 chain mail (worn)
+ v - a +0 shield (worn)
+Scrolls
+ h - a scroll of teleportation
+ j - a scroll of immolation
+ m - a scroll of noise {unknown}
+ p - 4 scrolls of remove curse
+ t - a scroll of fear
+ y - a scroll of fog
+ A - a scroll of blinking {unknown}
+ B - a scroll of amnesia {unknown}
+Potions
+ d - a potion of ambrosia {unknown}
+ e - a potion of heal wounds
+ g - 4 potions of degeneration {unknown}
+ i - 2 potions of curing
+ l - 2 potions of brilliance {unknown}
+ q - 2 potions of flight {unknown}
+ z - a potion of cancellation {unknown}
+Comestibles
+ u - 5 rations
+ C - 13 chunks of flesh
+
+
+   Skills:
+ - Level 3.2 Fighting
+ - Level 2.0 Slings
+ * Level 4.2 Armour
+ - Level 2.6 Dodging
+ - Level 2.1 Stealth
+ - Level 2.2 Shields
+ + Level 7.2 Unarmed Combat
+
+
+You had 6 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (5/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Hepliaklqana
+Trog
+
+Annotations:
+D:4 3 exclusions
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Defend: Player | No hits
+Defend:   Mons |     16.5 |     54 |  87% |  14.5 |   100  |  1.00 |     14.5
+Drop what? 27/52 slots (_ for help) (? for menu, Esc to quit)
+You drop 49 stones.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - two-headed ogre
+Aim: a two-headed ogre, wielding two +0 giant clubs (severely wounded)
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      5.5 |     16 |  74% |   4.1 |    96  |  1.04 |      4.3
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |     16.7 |     56 |  86% |  14.5 |   100  |  1.00 |     14.5
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: a two-headed ogre, wielding two +0 giant clubs (severely wounded)
+2 stones.
+There is something else lying underneath.
+The floor, spattered with blood.
+Enter note: carelessly died pushing my luck needlessly.
+Eat one of 13 chunks of flesh? (ye/n/q)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+......(.(((........             ##...#
+.<...)...........#       ###########.#
+..........(......#    #.!...#.....##.#
+.................#####.............#)#
+.................#.................%.#
+................##...................#
+>........#..>...##...................##
+#######...##.##.......................##
+      ###..............................#
+        ###.....##..)..................##
+          ###...........................##
+            #.#..#.......................#
+            #.##......[.....#####......#.#
+         ####0...#....@......#.........#.#
+       ###...0.#0#.............#........>##
+       ......0#.00##.....................[#
+       o...o0#0#0#0###..###.#...........###
+       ...o0o00._.000#O.###...00......#.#
+       ....00#0#.#0#0.o....)..00........##
+       .####0.#000#...g.......000........# #
+           ##..#0#.o..........000......#....
+            ..##.##(..(..#####000.......#...
+          ...< ...(....###   #..............
+          ... ......#.(#     #########.....>
+         #.. ...(..###)#             #......
+              .....  .((.            .......
+
+
+You could see a two-headed ogre, an orc wizard and a hobgoblin.
+
+Vanquished Creatures
+  A sky beast (D:2)
+  A slave (D:3)
+  An ogre (D:4)
+  Blork the orc (D:4)
+  A howler monkey (D:4)
+  2 orc priests (D:3)
+  2 orc wizards (D:3)
+  An iguana (D:4)
+  3 worker ants (D:4)
+  6 big kobold zombies (Ossuary)
+  A mummy (Ossuary)
+  4 adders
+  2 worms
+  3 dart slugs
+  2 leopard geckos
+  11 orcs (D:3)
+  3 spectral bats (Ossuary)
+  A ball python (D:3)
+  9 bats
+  6 giant cockroaches
+  8 goblins
+  5 hobgoblins
+  5 jackals (D:2)
+  12 kobolds
+  2 bat simulacra (Ossuary)
+  9 frilled lizards
+  6 gnoll zombies (Ossuary)
+  5 goblin simulacra (Ossuary)
+  9 goblin zombies
+  6 hobgoblin zombies (Ossuary)
+  4 kobold simulacra (Ossuary)
+  2 kobold zombies (Ossuary)
+  2 orc zombies (Ossuary)
+  6 rats
+  4 rat simulacra (Ossuary)
+  A rat zombie (D:4)
+  7 spectral goblins (Ossuary)
+  4 spectral kobolds (Ossuary)
+  4 spectral rats (Ossuary)
+162 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tidip the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   214 | D:1      | Reached XP level 2. HP: 22/26 MP: 1/1
+   320 | D:1      | Reached skill level 4 in Unarmed Combat
+   533 | D:1      | Reached XP level 3. HP: 24/31 MP: 2/2
+   882 | D:1      | Reached skill level 5 in Unarmed Combat
+   937 | D:2      | Found a hazy altar of Hepliaklqana.
+  1064 | D:2      | Found a bloodstained altar of Trog.
+  1067 | D:2      | Reached XP level 4. HP: 37/38 MP: 3/3
+  1326 | D:2      | Reached skill level 1 in Slings
+  1756 | D:3      | Reached XP level 5. HP: 42/45 MP: 4/4
+  1758 | D:3      | Reached skill level 1 in Armour
+  1782 | D:3      | Entered wizard mode.
+  1856 | D:3      | Found a shadowy altar of Dithmenos.
+  1922 | D:4      | Noticed Blork the orc
+  1933 | D:4      | Killed Blork the orc
+  1933 | D:4      | Reached skill level 6 in Unarmed Combat
+  1933 | D:4      | Reached XP level 6. HP: 51/51 MP: 5/5
+  2095 | D:4      | Found a sand-covered staircase.
+  2197 | Ossuary  | Entered an ossuary
+  2531 | Ossuary  | Reached XP level 7. HP: 53/57 MP: 6/6
+  3078 | D:4      | Reached skill level 1 in Shields
+  3113 | D:5      | Entered Level 5 of the Dungeon
+  3334 | D:3      | Noticed a two-headed ogre
+  3341 | D:3      | Reached skill level 7 in Unarmed Combat
+  3342 | D:3      | shi 2.2
+  3395 | D:3      | Slain by a two-headed ogre
+                  | ... wielding a +0 giant club
+                  | (14 damage)
+  3396 | D:3      | carelessly died pushing my luck needlessly.
+  3396 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7 |
+---------------+----------------------+-----
+Unarmed Combat |     4  5     6     7 |  7.2
+Slings         |           1     2    |  2.0
+Armour         |              2  3  4 |  4.2
+Shields        |                    2 |  2.2
+Fighting       |                      |  3.2
+Dodging        |                      |  2.6
+Stealth        |                      |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |   117 |  8141 |  4082 || 12340
+       Punch             |     1 |   145 |       ||   146
+       Hand axe          |       |  4000 |       ||  4000
+ Fire: Hunting sling     |       |   132 |    91 ||   223
+Throw: Stone             |    12 |       |       ||    12
+  Use: Potion            |     2 |       |       ||     2
+       Scroll            |       |     3 |     4 ||     7
+ Stab: Sleeping          |     3 |       |       ||     3
+  Eat: Chunk             |     8 |    15 |     4 ||    27
+Armor: Robe              |    25 |     8 |       ||    33
+       Chain mail        |       |  2414 | 35467 || 37881
+Dodge: Dodged            |    83 |  3502 | 22465 || 26050
+Block: Shield            |       |  1968 | 45509 || 47477
+

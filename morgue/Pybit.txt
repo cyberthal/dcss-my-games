@@ -1,0 +1,206 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 15216947428909786640
+
+Pybit the Skirmisher (Demonspawn Abyssal Knight)    Turns: 3081, Time: 00:20:42
+
+Health: 37/37      AC:  4    Str: 13    XL:     4   Next: 64%
+Magic:  5/5        EV: 13    Int: 15    God:    Lugonu [**....]
+Gold:   182        SH:  0    Dex: 13    Spells: 3/3 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   m - +0 leather armour
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   k - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.12/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: repulsion field 1, camouflage 1, clever 1, magic shield
+a: Depart the Abyss, Bend Space, Renounce Religion
+
+
+You are on level 3 of the Dungeon.
+You worship Lugonu.
+Lugonu is pleased with you.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 3 of its levels.
+You have visited the Abyss 1 time.
+
+You have collected 182 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+ b - a +2 dagger of flaming
+ n - a +0 dagger of speed
+Missiles
+ e - 101 stones (quivered)
+ g - 13 sling bullets
+ p - 18 arrows
+Armour
+ k - a +0 cloak (worn)
+ m - a +0 leather armour (worn)
+Scrolls
+ d - a scroll of fear
+ l - a scroll of remove curse
+ q - a scroll labeled YXUYVOE UNUOSK
+Potions
+ f - a potion of curing
+ i - a potion of mutation
+ j - a potion of might
+ r - an inky potion
+Comestibles
+ c - 8 rations
+ o - 10 chunks of flesh
+
+
+   Skills:
+ - Level 4.0 Fighting
+ + Level 3.2 Long Blades
+ - Level 1.0 Throwing
+ - Level 1.7 Armour
+ - Level 1.1 Dodging
+ - Level 1.0 Stealth
+ - Level 2.4 Invocations
+
+
+You have 3 spell levels left.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are surrounded by a mild repulsion field. (EV +2)
+When hurt, damage is shared between your health and your magic reserves.
+Your skin changes colour to match your surroundings (Stealth+).
+Your mind is acute. (Int +2)
+
+
+Message History
+
+Unknown command.
+h - 2 scrolls labeled BUVUGE VOHERE (gained 1)
+You open the door.
+Key pressed, stopping explore.
+Autopickup is now off.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading up here.
+As you read the scroll labeled BUVUGE VOHERE, it crumbles to dust.
+It is a scroll of identify.
+f - a potion of curing
+As you read the scroll of identify, it crumbles to dust.
+j - a potion of might
+Okay, then.
+Unknown command.
+Saving game... please wait.
+Welcome back, Pybit the Demonspawn Abyssal Knight.
+Lugonu says: Spread carnage and corruption!
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+            #......#
+          #.#......#
+        #.#.#......#
+        #.#.#......#
+        #.#.#......#
+        #.#........#####
+        #.#............#
+     ####.#............#
+     #..........#......#
+   #.#...<.............+
+ ###.##................#
+ +....+....>.....#@...##
+.#....#.........#####.####
+ ........................#
+ .#.#.#...#....######.##.#
+ ........##....#    #.##.#
+.#.#.#.#..#....#    #.##.#
+..........#....#    #.##.#
+....+.....+....'....+.##.#
+... ###...#....#....####.#
+ .    #...#....##..... ..#
+      #...###### ..... ..(
+      ....#       ....
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  3 adders (D:2)
+  2 worms
+  2 dart slugs (D:2)
+  A leopard gecko (D:2)
+  6 bats
+  5 giant cockroaches
+  7 goblins
+  8 hobgoblins
+  15 jackals
+  A ball python (D:1)
+  4 frilled lizards
+  7 kobolds
+  10 rats
+71 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Pybit the Demonspawn Abyssal Knight began the quest for the
+                  | Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+    13 | D:1      | Escaped the Abyss
+   212 | D:1      | Reached skill level 1 in Stealth
+   377 | D:1      | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [demonic ancestry]
+   377 | D:1      | Reached XP level 2. HP: 21/24 MP: 3/3
+   657 | D:1      | Reached skill level 1 in Throwing
+   759 | D:1      | Reached XP level 3. HP: 28/29 MP: 4/4
+   868 | D:1      | Gained mutation: Your mind is acute. (Int +2) [potion of
+                  | mutation]
+   868 | D:1      | Gained mutation: Your skin changes colour to match your
+                  | surroundings (Stealth+). [potion of mutation]
+   872 | D:2      | Reached ** piety under Lugonu
+  2144 | D:2      | Gained mutation: When hurt, damage is shared between your
+                  | health and your magic reserves. [demonic ancestry]
+  2144 | D:2      | Reached XP level 4. HP: 35/35 MP: 5/5
+  2586 | D:2      | Reached skill level 4 in Fighting
+  2813 | D:2      | Reached skill level 1 in Dodging
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Stealth        |  1          |  1.0
+Long Blades    |  2     3    |  3.2
+Throwing       |     1       |  1.0
+Fighting       |           4 |  4.0
+Dodging        |           1 |  1.1
+Armour         |             |  1.7
+Invocations    |             |  2.4
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Falchion          |   117 |    43 ||   160
+       Dagger            |       |     9 ||     9
+Throw: Stone             |   111 |    42 ||   153
+  Use: Scroll            |     1 |     3 ||     4
+       Potion            |     1 |       ||     1
+ Stab: Sleeping          |     3 |       ||     3
+  Eat: Chunk             |     4 |     3 ||     7
+Armor: Leather armour    |    28 |    17 ||    45
+Dodge: Dodged            |    93 |    36 ||   129
+Rpst.: Falchion          |    38 |    13 ||    51
+

@@ -1,0 +1,659 @@
+Ystogah
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a mace
+(1, -15, D:1)
+  a +0 club
+(8, -38, D:1)
+  a +0 club
+(11, -32, D:1)
+  a club
+  a cursed +0 club
+(30, -24, D:1)
+  a +0 dagger
+(32, -3, D:1)
+  a +0 robe
+(42, -20, D:1)
+  a +0 club
+(45, -4, D:1)
+  a chain mail
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(0, 5, D:2)
+  a dagger
+(6, -3, D:2)
+  a +0 hunting sling
+(18, 26, D:2)
+  a +0 short sword
+  a cursed -1 hunting sling
+(23, -18, D:2)
+  a +0 dagger
+(61, -5, D:2)
+  a robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a dagger
+(1, -1, D:3)
+  a scale mail
+(9, -13, D:3)
+  a +0 club
+  a dagger
+(41, -1, D:3)
+  a leather armour
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 club
+(2, -31, D:4)
+  a chain mail
+(3, 0, D:4)
+  a +0 leather armour
+  a +0 mace
+  a +0 robe
+  a +0 dagger
+  a +0 leather armour
+  a +0 dagger
+(12, -19, D:4)
+  a +0 whip
+(22, -14, D:4)
+  a falchion
+(25, -21, D:4)
+  a book of Necromancy
+(38, -10, D:4)
+  a +0 giant club
+(43, -26, D:4)
+  a whip
+(47, 5, D:4)
+  a +0 dagger
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 robe
+(5, 3, D:5)
+  a +0 robe
+(9, -13, D:5)
+  a +0 scythe
+(10, 3, D:5)
+  a leather armour
+(10, 39, D:5)
+  a +0 flail
+(34, -1, D:5)
+  a +0 halberd
+(40, 28, D:5)
+  a +0 animal skin
+(42, 29, D:5)
+  a +0 robe
+(44, 31, D:5)
+  a +0 flail
+
+Level 6 of the Dungeon
+[Shop] Nivo's Weapon Shoppe
+  a +0 club (13 gold)
+  5 needles of confusion (32 gold)
+  19 stones (24 gold)
+  a +0 trident (45 gold)
+  a +0 hand axe (39 gold)
+  a cursed -1 rapier (1 gold)
+  15 bolts (39 gold)
+  a +0 short sword (39 gold)
+  a +0 great sword of freezing (178 gold)
+(0, 0, D:6)
+  a +0 animal skin
+(2, -17, D:6)
+  a +0 giant club
+(11, -16, D:6)
+  a +0 robe
+  a +0 dagger
+(15, 19, D:6)
+  a +0 dagger
+(20, 16, D:6)
+  a giant club
+(22, -22, D:6)
+  a +0 animal skin
+(24, -35, D:6)
+  a +0 hand axe
+  a +0 ring mail
+(27, -17, D:6)
+  a +1 helmet
+  a +1 hat
+  a +0 helmet
+(30, -15, D:6)
+  a +0 robe
+  a cursed -2 hand axe
+(31, -16, D:6)
+  a +0 robe
+  a cursed +0 flail
+(32, -16, D:6)
+  a +0 robe
+  a +0 battleaxe
+  a +0 halberd
+  a +0 robe
+  a +0 scimitar
+  a +0 spear
+(37, -33, D:6)
+  a +0 plate armour
+(37, -9, D:6)
+  a cursed -1 animal skin
+(44, 0, D:6)
+  a ring mail
+(44, 10, D:6)
+  a robe
+(45, -13, D:6)
+  a scale mail
+(45, 3, D:6)
+  a +0 robe
+(50, 19, D:6)
+  a +0 dagger
+  a +0 robe
+(50, 20, D:6)
+  a +0 short sword
+  a +0 scale mail
+  a +0 morningstar
+  a +0 ring mail
+(55, 2, D:6)
+  a +0 giant spiked club
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 flail
+  a +0 ring mail
+(1, -5, D:7)
+  a +0 hand axe
+(1, 8, D:7)
+  a +0 flail
+(6, -11, D:7)
+  a +0 flail
+(12, -10, D:7)
+  a +0 dagger (still there?)
+  an antique book (still there?)
+(12, -9, D:7)
+  a +0 dagger (still there?)
+  a stone (still there?)
+(12, -2, D:7)
+  a +0 falchion
+(17, 3, D:7)
+  a +0 leather armour
+  a +0 flail
+(20, 20, D:7)
+  a +0 chain mail
+(28, 4, D:7)
+  a +0 dagger
+(29, -11, D:7)
+  a leather armour
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 trident
+(12, -25, D:8)
+  a +0 shortbow
+(15, -27, D:8)
+  a +0 club
+  a +0 leather armour
+(24, -3, D:8)
+  a quarterstaff
+(26, -4, D:8)
+  a cursed -3 mace
+(26, 18, D:8)
+  a club
+(30, -7, D:8)
+  a +0 plate armour
+  a +0 halberd
+(31, -6, D:8)
+  a +0 great sword
+(32, -12, D:8)
+  a +0 mace
+(32, 14, D:8)
+  a cursed +0 scale mail
+  a cursed +0 club
+(33, -17, D:8)
+  a club
+(33, -11, D:8)
+  a +0 scale mail
+  a +0 whip
+(37, -33, D:8)
+  a +0 chain mail
+  a +0 mace
+(37, -17, D:8)
+  a +0 club
+(38, -19, D:8)
+  a robe
+(43, -33, D:8)
+  a dagger
+(47, 4, D:8)
+  a +0 robe
+  a +0 dagger
+
+Level 9 of the Dungeon
+(5, -5, D:9)
+  a +0 ring mail
+  a +0 war axe
+(8, -11, D:9)
+  a +0 dagger
+(9, -14, D:9)
+  a +0 leather armour
+  a +0 mace
+(11, -11, D:9)
+  a +0 mace
+(15, -5, D:9)
+  a leather armour
+(15, 5, D:9)
+  a +0 giant club
+  a +0 giant club
+(23, -8, D:9)
+  a halberd
+(25, -7, D:9)
+  a +0 scale mail
+(27, -4, D:9)
+  a robe
+(27, 7, D:9)
+  a +0 leather armour
+  a +0 whip
+(30, -6, D:9)
+  a potion of degeneration
+(32, -3, D:9)
+  a scimitar
+(35, -20, D:9)
+  a rapier
+
+Level 10 of the Dungeon
+[Shop] Uwkuss's Gadget Boutique
+  a wand of acid (4) (unknown) (224 gold)
+  a phantom mirror (420 gold)
+  a lightning rod (4/4) (560 gold)
+  a phial of floods (560 gold)
+  a crystal ball of energy (280 gold)
+  a wand of paralysis (11) (182 gold)
+[Shop] Vaenud's Jewellery Shop
+  an uncursed ring of protection from cold (375 gold)
+  an uncursed ring of fire (unknown) (375 gold)
+  an uncursed ring of wizardry (unknown) (450 gold)
+  an uncursed ring of positive energy (unknown) (300 gold)
+  an uncursed ring of wizardry (unknown) (450 gold)
+  an uncursed ring of protection from cold (375 gold)
+  an uncursed ring of stealth (262 gold)
+  a +6 ring of evasion (1170 gold)
+  an uncursed ring of wizardry (unknown) (450 gold)
+  a cursed -3 ring of strength (unknown) (30 gold)
+  a +5 ring of dexterity (unknown) (618 gold)
+[Shop] Yliog's Book Shop
+  a book of Cantrips (280 gold)
+  a book of Beasts (unknown) (770 gold)
+  a book of Minor Magic (unknown) (280 gold)
+  a book of Power (unknown) (630 gold)
+  a book of Necromancy (420 gold)
+  a book of Necromancy (420 gold)
+  a book of Callings (unknown) (420 gold)
+  a book of Geomancy (unknown) (490 gold)
+  a book of Air (490 gold)
+  a manual of Throwing (1545 gold)
+  a book of Burglary (unknown) (1050 gold)
+  a book of Flames (unknown) (490 gold)
+  a book of Transfigurations (unknown) (770 gold)
+  a book of Annihilations (unknown) (1545 gold)
+[Shop] Fusugg's Armour Emporium
+  the +3 scale mail of the Lute {Int+4} (550 gold)
+    It affects your intelligence (+4).
+  a +0 ring mail (64 gold)
+  a +0 robe (11 gold)
+  a +0 scale mail (64 gold)
+  a +0 robe (11 gold)
+  a +0 pair of gloves (72 gold)
+  a +0 ring mail (64 gold)
+  a +0 plate armour (368 gold)
+  a +0 leather armour (32 gold)
+  a +2 robe of fire resistance (283 gold)
+  a +0 robe (11 gold)
+  a +0 ring mail (64 gold)
+[Shop] Fod Cem's Distillery
+  a potion of magic (112 gold)
+  a potion of magic (112 gold)
+  2 potions of ambrosia (224 gold)
+  a potion of curing (42 gold)
+(0, 0, D:10)
+  a mace
+(11, -7, D:10)
+  a +0 giant club
+  a cursed -1 dire flail
+(11, 6, D:10)
+  a +1 ring mail of cold resistance
+(11, 7, D:10)
+  a +0 pair of boots
+(11, 20, D:10)
+  a chain mail
+(12, 5, D:10)
+  a runed falchion
+  a glowing mace
+  a glowing rapier
+  a runed dagger
+(12, 6, D:10)
+  the +5 short sword of the Feather {venom, rN+}
+    It poisons the flesh of those it strikes.
+    
+    It protects you from negative energy.
+  592 stones
+  a +1 hunting sling
+  a -1 blowgun
+  a +2 war axe of freezing
+  76 poisoned needles
+  a +2 short sword of flaming
+  a +3 dagger
+  a +2 whip of flaming
+  148 sling bullets
+  a cursed +3 mace of freezing
+(12, 7, D:10)
+  a +0 short sword of draining
+  a +0 mace of holy wrath
+(13, 6, D:10)
+  the +3 halberd "Rangaxt" {flame, rElec rF- Str-4 SInv}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents. Big, fiery blades are also staple armaments of
+    hydra-hunters.
+    
+    It affects your strength (-4).
+    It makes you vulnerable to fire.
+    It insulates you from electricity.
+    It lets you see invisible.
+  a +0 longbow
+  a +0 shortbow
+  151 arrows
+  a +2 battleaxe of freezing
+  the +5 great sword "Kiladgha" {vamp, rPois rF+}
+    It inflicts no extra harm, but heals its wielder when it wounds a living
+    foe.
+    
+    It protects you from fire.
+    It protects you from poison.
+  the cursed +13 scythe of Curses {drain, *Curse}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It curses itself when equipped.
+    It has a curse placed upon it.
+  a +0 great sword of flaming
+(13, 7, D:10)
+  a +1 great sword of freezing
+(14, 6, D:10)
+  a potion of mutation
+  2 scrolls of identify
+  an uncursed ring of ice
+  a phantom mirror
+  3 potions of lignification
+  2 potions of brilliance
+  a +3 ring of intelligence
+  an uncursed ring of protection from cold
+  3 scrolls of amnesia
+  an uncursed staff of cold
+  a potion of magic
+  an uncursed ring of teleportation
+  a wand of digging (6)
+  an uncursed amulet of harm
+  a scarf of spirit shield
+  a potion of ambrosia
+  2 scrolls of fog
+  3 potions of flight
+  a manual of Short Blades
+(14, 7, D:10)
+  a +1 ring of protection
+  an uncursed amulet of faith
+  a +1 ring of evasion
+(15, 12, D:10)
+  a +0 shortbow
+(17, -9, D:10)
+  a +0 robe
+  (unseen)
+(18, -8, D:10)
+  a +0 leather armour
+  (unseen)
+(19, 16, D:10)
+  a scale mail
+(21, -1, D:10)
+  a +0 ring mail
+  a +0 club
+(24, -3, D:10)
+  a +0 dagger
+  a +0 robe
+  a +0 dagger
+(25, -4, D:10)
+  a +0 mace of holy wrath
+(28, -6, D:10)
+  a cursed -3 shortbow
+(38, 3, D:10)
+  a scythe
+(40, 8, D:10)
+  a +2 chain mail of fire resistance
+  a scroll labeled JIAMMI IRADAX
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a glaive
+(0, 2, D:11)
+  a cloak
+(9, 4, D:11)
+  a buckler
+(10, 0, D:11)
+  a chain mail
+(11, -28, D:11)
+  a +0 short sword
+(11, -13, D:11)
+  a hand axe
+(11, -3, D:11)
+  a dire flail
+(11, 10, D:11)
+  a +0 chain mail
+(12, -29, D:11)
+  a +0 giant club
+  a +0 giant club
+(13, -25, D:11)
+  a leather armour
+(16, 4, D:11)
+  a +0 troll leather armour
+(17, 3, D:11)
+  a +0 hand axe
+(17, 5, D:11)
+  a +0 whip
+(18, 9, D:11)
+  a long sword
+(23, 1, D:11)
+  a +0 dagger
+(25, -12, D:11)
+  a +0 mace
+(25, -7, D:11)
+  a +0 long sword
+(29, -14, D:11)
+  a cursed +0 leather armour
+  a +0 dagger
+(29, -12, D:11)
+  a +0 robe
+  a +0 dagger
+
+Level 12 of the Dungeon
+[Shop] Egoek's Book Boutique
+  a book of Battle (unknown) (440 gold)
+  a book of Burglary (unknown) (825 gold)
+  a book of Changes (unknown) (275 gold)
+  a book of Flames (unknown) (385 gold)
+  a book of Necromancy (330 gold)
+  a book of Cantrips (220 gold)
+  a book of the Tempests (unknown) (770 gold)
+  a book of Frost (unknown) (385 gold)
+  a book of Alchemy (unknown) (825 gold)
+  a book of Necromancy (330 gold)
+  a book of Geomancy (unknown) (385 gold)
+  a book of Necromancy (330 gold)
+  a book of Death (770 gold)
+  a Fen Folio (unknown) (825 gold)
+[Shop] Feteps's Jewellery Boutique
+  an uncursed ring of wizardry (unknown) (330 gold)
+  a cursed ring of attention (unknown) (49 gold)
+  a cursed ring of teleportation (49 gold)
+  an uncursed ring of magical power (unknown) (220 gold)
+  an uncursed ring of positive energy (unknown) (220 gold)
+  a +2 ring of protection (110 gold)
+  an uncursed ring of wizardry (unknown) (330 gold)
+  an uncursed ring of fire (unknown) (275 gold)
+  an uncursed ring of flight (unknown) (192 gold)
+[Shop] Tamugeg's General Store
+  a scroll of identify (26 gold)
+  a +0 ring mail (52 gold)
+  20 stones (26 gold)
+  a Necronomicon (unknown) (1435 gold)
+  19 stones (24 gold)
+  a scroll of holy word (unknown) (97 gold)
+  a potion of curing (39 gold)
+  a ration (65 gold)
+  a potion of agility (52 gold)
+  a ration (65 gold)
+  a +0 club (13 gold)
+  a scroll of fog (26 gold)
+  24 arrows (62 gold)
+[Shop] Ireskyto's Distillery
+  a potion of haste (100 gold)
+  a potion of heal wounds (50 gold)
+  a potion of curing (30 gold)
+  a potion of agility (40 gold)
+  a potion of curing (30 gold)
+  a potion of heal wounds (50 gold)
+  a potion of curing (30 gold)
+[Shop] Puohiutu's General Store
+  a wand of iceblast (11) (255 gold)
+  a book of Cantrips (340 gold)
+  a +0 falchion (51 gold)
+  the ring of Wisdom {-Tele rElec rC+ Int-4 SInv} (496 gold)
+    [ring of protection from cold]
+    
+    It affects your intelligence (-4).
+    It protects you from cold.
+    It insulates you from electricity.
+    It lets you see invisible.
+    It prevents most forms of teleportation.
+  a scroll of teleportation (51 gold)
+  a scroll of random uselessness (17 gold)
+  a +1 scale mail of cold resistance (272 gold)
+  a scroll of identify (34 gold)
+  a ration (85 gold)
+  a potion of flight (51 gold)
+  a scroll of summoning (unknown) (161 gold)
+  a ration (85 gold)
+(0, 0, D:12)
+  a ring mail
+(3, -13, D:12)
+  a flail
+(13, 10, D:12)
+  a mace
+(20, 16, D:12)
+  a quarterstaff
+(25, 7, D:12)
+  a +0 ring mail
+  a +0 mace
+(30, -25, D:12)
+  a +0 short sword
+(30, -17, D:12)
+  a +0 club
+(33, -17, D:12)
+  a pair of gloves
+(33, -12, D:12)
+  a +0 chain mail
+(33, -10, D:12)
+  a +1 short sword of venom
+  a +0 plate armour
+(34, -9, D:12)
+  a +0 halberd
+  a +0 plate armour
+(42, 0, D:12)
+  a club
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +1 robe of cold resistance
+(2, -14, Lair:1)
+  a robe
+(11, 28, Lair:1)
+  a club
+(35, 2, Lair:1)
+  a scroll of random uselessness
+(49, 28, Lair:1)
+  a +1 leather armour of fire resistance
+(54, 35, Lair:1)
+  a war axe
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a chain mail
+(2, 8, Lair:2)
+  a leather armour
+(6, -8, Lair:2)
+  a scale mail
+(16, 5, Lair:2)
+  a leather armour
+(26, -17, Lair:2)
+  a hand crossbow
+(38, -21, Lair:2)
+  a +0 scale mail
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a scale mail
+(24, 5, Lair:3)
+  a helmet
+(24, 37, Lair:3)
+  a pair of gloves
+(29, 27, Lair:3)
+  a robe
+(40, 17, Lair:3)
+  a naga barding
+(42, 15, Lair:3)
+  a war axe
+(43, 38, Lair:3)
+  a plate armour
+(47, 30, Lair:3)
+  a spear
+(48, -1, Lair:3)
+  a hand crossbow
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a short sword
+(5, 31, Lair:4)
+  a leather armour
+(7, 15, Lair:4)
+  a leather armour
+(17, 18, Lair:4)
+  a +0 scale mail
+  a +0 hand axe
+(19, 12, Lair:4)
+  a spear
+(19, 18, Lair:4)
+  a dagger
+(25, 16, Lair:4)
+  a helmet
+(25, 17, Lair:4)
+  a robe
+(34, 17, Lair:4)
+  a +0 leather armour
+  a +0 war axe
+(38, -2, Lair:4)
+  a chain mail
+(42, 8, Lair:4)
+  a +0 leather armour
+  a +0 hand axe of flaming
+(44, 22, Lair:4)
+  a +0 buckler
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a trident
+(3, -2, Lair:5)
+  a -3 hunting sling
+(11, 15, Lair:5)
+  a helmet
+(33, 17, Lair:5)
+  a robe
+(39, 9, Lair:5)
+  a battleaxe
+(61, 15, Lair:5)
+  a trident
+

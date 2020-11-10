@@ -1,0 +1,472 @@
+Uddiehal
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a ring mail
+(0, 52, D:1)
+  a +0 club
+  a +0 dagger
+(3, 41, D:1)
+  a whip
+(7, 1, D:1)
+  a mace
+(18, 44, D:1)
+  a dagger
+(23, 38, D:1)
+  a +0 whip
+(30, -6, D:1)
+  a +0 short sword
+(51, 40, D:1)
+  a club
+(54, 4, D:1)
+  a dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(4, 13, D:2)
+  a +0 club
+(9, 17, D:2)
+  a spear
+(36, 17, D:2)
+  a +0 club
+(47, 33, D:2)
+  a +0 short sword
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a ring mail
+  a +0 dagger
+  a +0 whip
+  a +0 dagger
+  a +0 ring mail
+(2, -10, D:3)
+  a mace
+(6, -2, D:3)
+  a +0 cloak
+(15, 0, D:3)
+  a +0 dagger
+  a +0 robe
+(15, 3, D:3)
+  a +0 dagger
+(16, 1, D:3)
+  a +0 leather armour
+(19, 12, D:3)
+  a +0 club
+(27, 18, D:3)
+  a +0 chain mail
+  a +0 short sword
+(45, -9, D:3)
+  a whip
+(49, -3, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a club
+(11, -18, D:4)
+  a +0 club
+(14, -21, D:4)
+  a +0 giant club
+(22, 7, D:4)
+  7 gold pieces
+(22, 9, D:4)
+  a cloak
+(23, 7, D:4)
+  14 gold pieces
+(23, 8, D:4)
+  13 gold pieces
+(23, 9, D:4)
+  6 gold pieces
+(25, -12, D:4)
+  a ration
+(29, -11, D:4)
+  15 gold pieces
+(30, 8, D:4)
+  a potion of resistance
+(38, -7, D:4)
+  2 potions of degeneration
+(42, -10, D:4)
+  a ring mail
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 leather armour
+  a +0 dagger
+(1, -2, D:5)
+  a +0 flail
+(2, 0, D:5)
+  a +0 chain mail
+  a +0 short sword
+(6, -6, D:5)
+  a +0 robe
+  a cursed +0 whip
+(8, 1, D:5)
+  a +0 giant club
+(14, 14, D:5)
+  a +0 war axe
+(18, -26, D:5)
+  a dagger
+(23, 3, D:5)
+  a potion of degeneration
+(24, 3, D:5)
+  a cursed +0 robe
+  a +0 dagger
+(25, 0, D:5)
+  a +0 trident
+(25, 3, D:5)
+  a +0 ring mail
+  a +0 club
+  a +0 war axe
+(28, -2, D:5)
+  a falchion
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a mace
+(7, -17, D:6)
+  a long sword
+  a +0 falchion
+(8, -19, D:6)
+  a +0 robe
+(8, -17, D:6)
+  a +0 robe
+(9, -18, D:6)
+  a +0 robe
+(25, -24, D:6)
+  a +0 dagger
+(26, -27, D:6)
+  a +0 whip
+(26, -24, D:6)
+  a +0 robe
+  a +0 dagger
+(26, -23, D:6)
+  a +0 robe
+  a +0 dagger
+(27, -27, D:6)
+  a +0 mace
+  a +0 leather armour
+  a cursed -1 club
+(27, -26, D:6)
+  a +0 halberd
+(29, -13, D:6)
+  a cursed +0 robe
+  a +0 dagger
+  a +0 falchion
+(30, -1, D:6)
+  a +0 leather armour
+  a +0 ring mail
+  a +0 flail
+(31, -14, D:6)
+  a +0 club
+(36, 4, D:6)
+  a +0 robe
+  a +0 war axe
+(42, -25, D:6)
+  a +0 whip
+(43, -24, D:6)
+  a +0 robe
+  a +0 dagger
+(46, 0, D:6)
+  a war axe
+(46, 21, D:6)
+  a +0 chain mail
+  a +0 flail
+(60, 5, D:6)
+  a +0 leather armour
+  a +0 mace
+
+Level 7 of the Dungeon
+[Shop] Rabar's Weapon Shoppe
+  15 sling bullets (105 gold)
+  18 arrows (50 gold)
+  the +4 whip of Garuegrur {slash, Str-2 Dex+6} (547 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It affects your strength (-2).
+    It affects your dexterity (+6).
+  the +11 trident of Uddiehal's Woe {pierce, *Corrode rElec rC+++ Int+2} (1477 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It affects your intelligence (+2).
+    It renders you almost immune to cold.
+    It insulates you from electricity.
+    It may corrode you when you take damage.
+  a +0 broad axe (56 gold)
+  a +0 falchion (42 gold)
+  a +0 flail (49 gold)
+  a +0 fustibalus (210 gold)
+[Shop] Irulah's Weapon Shoppe
+  a +0 spear (42 gold)
+  the +4 hunting sling of the Head {freeze, rElec Stlth+} (553 gold)
+    It causes projectiles fired from it to freeze those they strike, causing
+    extra injury to most foes and up to half again as much damage against
+    particularly susceptible opponents. They can also slow down cold-blooded
+    creatures.
+    
+    It insulates you from electricity.
+    It makes you more stealthy.
+  a +4 blowgun (343 gold)
+  a +0 rapier of holy wrath (128 gold)
+  a +0 great mace (91 gold)
+  the +5 hand crossbow "Cikunin" {velocity, rN++ Dex-5} (520 gold)
+    Any bolt fired from it inflicts extra damage.
+    
+    It affects your dexterity (-5).
+    It greatly protects you from negative energy.
+  7 poisoned needles (39 gold)
+  a +0 war axe (49 gold)
+  a +0 short sword (42 gold)
+  a +0 quarterstaff (56 gold)
+  the +5 falchion "Hery" {slice, +Blink} (609 gold)
+    It inflicts extra damage upon your enemies.
+    
+    It lets you blink.
+  a +0 quarterstaff (56 gold)
+[Shop] Nopruihe's Magic Scroll Shoppe
+  a scroll of enchant weapon (unknown) (112 gold)
+  a scroll of fear (52 gold)
+  a scroll of teleportation (45 gold)
+  a scroll of teleportation (45 gold)
+  3 scrolls of random uselessness (unknown) (45 gold)
+[Shop] Myugg's Armour Emporium
+  a +0 pair of boots (58 gold)
+  a +0 leather armour (26 gold)
+  a +0 chain mail (58 gold)
+  a +0 pair of boots of running (409 gold)
+  a +0 ring mail (52 gold)
+  a +2 robe of cold resistance (230 gold)
+  a +0 robe (9 gold)
+  a +0 robe (9 gold)
+  a cursed +0 scale mail (13 gold)
+  a +0 leather armour (26 gold)
+  a +0 robe (9 gold)
+  a +0 pair of gloves (58 gold)
+[Shop] Ovysu's Magic Scroll Shop
+  a scroll of identify (24 gold)
+  a scroll of teleportation (36 gold)
+  a scroll of random uselessness (unknown) (12 gold)
+  a scroll of amnesia (42 gold)
+  a scroll of vulnerability (unknown) (90 gold)
+(0, 0, D:7)
+  a cursed -3 war axe
+(3, -1, D:7)
+  a +0 chain mail
+  a +0 short sword
+(3, 22, D:7)
+  a long sword
+(6, 6, D:7)
+  a +0 chain mail
+  a +0 dagger
+(21, 21, D:7)
+  a +0 robe
+  (unseen)
+(23, -4, D:7)
+  a +0 whip
+(23, 15, D:7)
+  a +0 scale mail
+  a +0 plate armour
+  a +2 cloak
+  a +0 chain mail
+(25, -2, D:7)
+  a falchion
+(28, -6, D:7)
+  a club
+(30, -17, D:7)
+  a -2 ring of slaying
+  a -2 chain mail
+(32, 1, D:7)
+  a +0 short sword
+(41, -6, D:7)
+  a +0 short sword
+  a +0 plate armour
+(42, -6, D:7)
+  a +0 hand axe
+  a +0 spear
+(42, 2, D:7)
+  a hand axe
+(43, -9, D:7)
+  a buckler
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a scale mail
+(21, -13, D:8)
+  a +0 club
+(22, -9, D:8)
+  a robe
+(36, -9, D:8)
+  a glowing flail
+(36, -8, D:8)
+  47 bolts
+  a +0 war axe
+  a +2 dagger
+  a +1 dagger of holy wrath
+(37, -9, D:8)
+  a glowing shortbow
+(37, -8, D:8)
+  a +0 shortbow
+(38, -8, D:8)
+  a potion of mutation
+  a scroll of amnesia
+(40, -3, D:8)
+  a +0 leather armour
+(41, 16, D:8)
+  a leather armour
+(43, 19, D:8)
+  a +0 leather armour
+  a cursed -2 club
+  a +0 robe
+  a +0 dagger
+  a +0 ring mail
+  a +0 hand axe
+(46, -11, D:8)
+  a +0 robe
+  a +0 dagger
+(51, 3, D:8)
+  a chain mail
+(57, 1, D:8)
+  a +0 ring mail
+(64, -14, D:8)
+  a +0 buckler
+  a +0 leather armour
+  a +0 long sword
+(68, 6, D:8)
+  a +0 chain mail
+  a +0 short sword
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 robe
+  a +0 hand axe
+(24, 0, D:9)
+  a leather armour
+(33, 7, D:9)
+  a war axe
+(36, -9, D:9)
+  a +0 short sword
+(36, -7, D:9)
+  a +0 chain mail
+  a +0 war axe
+(37, -9, D:9)
+  a +0 whip
+(38, -9, D:9)
+  a +0 short sword
+(43, 27, D:9)
+  a chain mail
+(44, -17, D:9)
+  a falchion
+(48, 6, D:9)
+  a scale mail
+(54, 24, D:9)
+  a +0 giant spiked club
+(63, -8, D:9)
+  a war axe
+(65, -6, D:9)
+  a rapier
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a sling bullet
+(1, 1, D:10)
+  a stone (still there?)
+  a long sword (still there?)
+(1, 2, D:10)
+  a stone
+(1, 4, D:10)
+  a stone
+(3, -8, D:10)
+  a long sword
+(7, -4, D:10)
+  a long sword
+(8, -6, D:10)
+  a long sword
+(10, 14, D:10)
+  a +0 dagger (still there?)
+  a +0 whip (still there?)
+(12, 12, D:10)
+  a +0 whip
+(13, 11, D:10)
+  a sling bullet
+(14, 10, D:10)
+  a sling bullet
+(15, 9, D:10)
+  a sling bullet
+(16, 8, D:10)
+  a sling bullet
+(17, 7, D:10)
+  a sling bullet
+(18, 6, D:10)
+  a sling bullet
+(19, 5, D:10)
+  a tomahawk (still there?)
+  a sling bullet (still there?)
+(19, 6, D:10)
+  a +0 hand crossbow
+(20, 4, D:10)
+  a yak corpse
+(20, 8, D:10)
+  a cursed -1 blowgun
+(21, 8, D:10)
+  a +0 giant club
+(23, -10, D:10)
+  2 rations
+(23, -7, D:10)
+  a stone
+(24, -10, D:10)
+  2 rations
+(24, -9, D:10)
+  a ration
+(24, -5, D:10)
+  a cursed +0 leather armour
+  (unseen)
+(24, -3, D:10)
+  2 stones
+(24, 0, D:10)
+  a stone
+(25, -3, D:10)
+  a stone
+  (unseen)
+(25, 0, D:10)
+  a stone
+(26, -1, D:10)
+  a stone
+(30, 2, D:10)
+  a +0 hand axe
+  a +0 animal skin
+(42, -16, D:10)
+  a +0 dagger
+  a +0 leather armour
+(43, -22, D:10)
+  a +0 ring mail
+  a +0 club
+(43, -16, D:10)
+  a +0 dagger
+(44, -24, D:10)
+  a +0 robe
+  a +0 dagger
+(46, -26, D:10)
+  a sling bullet
+(48, -22, D:10)
+  a sling bullet
+(48, -10, D:10)
+  a +0 leather armour
+  a +0 flail
+(48, -9, D:10)
+  a +0 robe
+  a +0 dagger
+(57, -31, D:10)
+  a potion of degeneration
+(59, -35, D:10)
+  a stone
+(60, -23, D:10)
+  a jade ring
+(60, -22, D:10)
+  a glowing cloak
+(60, -19, D:10)
+  a mace
+(61, -34, D:10)
+  a stone
+
+the Ecumenical Temple
+

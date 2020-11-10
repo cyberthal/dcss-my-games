@@ -1,0 +1,345 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1201659349540655741
+
+1374 Cychaod the Geomancer (level 8, 49/49 HPs) *WIZ*
+             Began as a Gargoyle Earth Elementalist on Oct 26, 2020.
+             Was an Initiate of the Shining One.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 01:09:31 (9350 turns).
+
+Cychaod the Geomancer (Gargoyle Earth Elementalist) Turns: 9350, Time: 01:09:32
+
+Health: 49/49      AC: 13    Str: 12    XL:     8   Next: 66%
+Magic:  11/11      EV: 11    Int: 18    God:    the Shining One [......]
+Gold:   190        SH:  0    Dex: 10    Spells: 5/11 levels left
+
+rFire    . . .     SeeInvis .   b - +1 mace (protect)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   l - +0 leather armour
+rPois    ?          Spirit   .   C - +0 helmet
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   F - +2 pair of gloves
+MR       +....                  D - +0 pair of boots
+Stlth    +.........             (no amulet)
+HPRegen  0.16/turn              k - ring of protection from magic
+MPRegen  0.12/turn              (no ring)
+
+@: glowing
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +5
+a: Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped the Shining One.
+The Shining One was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 190 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 hunting sling
+ b - a +1 mace of protection (weapon)
+ c - a +0 war axe
+ d - a +0 halberd
+ e - a +0 blowgun
+ q - a +0 dagger
+ s - a +0 flail
+ u - a +0 spear
+ B - a +0 trident
+ I - a +0 shortbow
+Missiles
+ f - 33 arrows
+ n - 174 stones
+ t - 47 bolts
+ w - 27 poisoned needles
+ x - 85 sling bullets
+ A - 2 tomahawks (quivered)
+Armour
+ g - a +0 ring mail
+ l - a +0 leather armour (worn)
+ v - a +0 chain mail
+ C - a +0 helmet (worn)
+ D - a +0 pair of boots (worn)
+ F - a +2 pair of gloves (worn)
+ J - a +0 robe
+Jewellery
+ k - a ring of protection from magic (left hand)
+Wands
+ L - a wand of iceblast (11)
+Scrolls
+ h - 2 scrolls of immolation
+ j - 2 scrolls of teleportation
+ m - 5 scrolls of remove curse
+ r - 2 scrolls of magic mapping
+Potions
+ i - 2 potions of invisibility
+ o - 3 potions of curing
+ p - a potion of lignification
+ y - a potion of magic
+ z - 3 potions of haste
+ E - a potion of mutation
+ H - a potion of ambrosia
+Comestibles
+ G - 9 rations
+ K - 2 chunks of flesh
+
+
+   Skills:
+ + Level 5.3 Fighting
+ - Level 3.6 Maces & Flails
+ - Level 2.5 Polearms
+ + Level 1.9(2.0) Slings
+ - Level 1.0(1.5) Throwing
+ - Level 1.5 Dodging
+ - Level 2.1 Stealth
+ - Level 2.0 Spellcasting
+ - Level 1.0 Conjurations
+ - Level 0.7 Transmutations
+ - Level 8.7 Earth Magic
+ - Level 1.0 Evocations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           ####..       1%          1    #......
+b - Passwall              Tmut/Erth      ###.....     4%          2    ###....
+c - Stone Arrow           Conj/Erth      ###...       10%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Lee's Rapid Deconstruct  Erth           ####......   19%         5    ######.
+ Petrify                  Tmut/Erth      ###.....     32%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Zin
+The Shining One
+
+Annotations:
+D:5 exclusion: downstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +5)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Magic restored.
+You start resting.
+Some of the chunks of flesh in your inventory have rotted away.
+HP restored.
+You climb downwards.
+There is a stone staircase leading up here.
+Autopickup is now off.
+You are feeling hungry.
+Things that are here:
+a +0 flail; an orc skeleton
+Eat one of 3 chunks of flesh? (ye/n/q)
+You eat one of the 3 chunks of flesh. This raw flesh tastes terrible.
+Things that are here:
+a +0 chain mail; a +0 hand axe
+You see here a jackal skeleton.
+Key pressed, stopping explore.
+Unknown command.
+An orc comes into view.
+The orc shouts!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.####...h..#########..
+.....####'#.#..   ....
+.....####.#.#.#   ..(###
+..........#.#.####.(....
+..........#.#............$.
+....h.....#.o.....h.......
+.<Z.2.....#..................
+##...####.#........##.#.#o..
+##...#.....o.............o.
+##...#........%######.#... .#   #      ..#
+##...#.........######.#.. ....  #.#    ..##
+......................#.#..... o#.#. ##...#
+......#####....#......#'#..... ..... .....##
+..............##......@....... ##.#.F#.....
+######........##..........#'#. .....O#...#
+#....#....................#    ...#......#
+#....######........##.#...#   ........<..#
+...................##.######......#....#.#
+#....###########........................ ..
+#....# #.)...[%.......#########...######. #.
+#....# #.##############        ##       .#
+#....# #.#...........#                   #
+###### #.#.#########.#
+       #.#.#       #.#
+       #.#.#       #.#
+       #.#.#       #.#
+
+
+You could see 2 orcs.
+
+Vanquished Creatures
+  Prince Ribbit (D:6)
+  3 ice beasts (D:6)
+  An orc warrior (D:6)
+  An ogre (D:6)
+  A centaur (D:6)
+  A bullfrog (D:6)
+  A howler monkey (D:6)
+  2 bullfrog skeletons (D:6)
+  A hound (D:6)
+  A jelly (D:3)
+  2 orc wizards
+  An orc priest (D:5)
+  An iguana (D:4)
+  4 worker ants
+  A killer bee zombie (D:6)
+  A hound skeleton (D:4)
+  A howler monkey zombie (D:6)
+  Robin (D:3)
+  4 gnolls (D:3)
+  9 adders
+  An ooze (D:2)
+  2 adder skeletons
+  4 worms
+  3 dart slugs
+  2 leopard geckos
+  12 orcs
+  4 giant cockroaches
+  16 goblins
+  14 hobgoblins
+  3 jackals
+  8 kobolds
+  3 quokkas
+  A ball python (D:5)
+  7 bats
+  3 frilled lizards
+  A goblin skeleton (D:6)
+  An orc skeleton (D:6)
+  11 rats
+134 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Cychaod the Gargoyle Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     0 | D:1      | dodge 1.5 ev 12
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | increasing doesn't change
+   402 | D:1      | Reached skill level 1 in Fighting
+   553 | D:1      | Reached XP level 2. HP: 15/16 MP: 5/5
+   557 | D:1      | Learned a level 2 spell: Passwall
+   622 | D:1      | Reached skill level 1 in Maces & Flails
+  1290 | D:1      | Reached skill level 4 in Earth Magic
+  1290 | D:1      | Reached XP level 3. HP: 20/20 MP: 6/6
+  1295 | D:1      | Learned a level 3 spell: Stone Arrow
+  1892 | D:2      | Reached skill level 1 in Conjurations
+  2205 | D:2      | Found a white marble altar of Elyvilon.
+  2278 | D:2      | Reached XP level 4. HP: 25/25 MP: 4/7
+  3238 | D:3      | Reached XP level 5. HP: 29/29 MP: 3/8
+  3453 | D:2      | Found a deep blue altar of Sif Muna.
+  4019 | D:3      | Noticed Robin
+  4080 | D:3      | Reached skill level 5 in Earth Magic
+  4338 | D:3      | Killed Robin
+  4338 | D:3      | Reached skill level 1 in Polearms
+  4725 | D:3      | Reached skill level 1 in Throwing
+  4725 | D:3      | Reached XP level 6. HP: 21/34 MP: 4/9
+  6413 | D:5      | Entered Level 5 of the Dungeon
+  6421 | D:5      | Found a sparkling altar of Nemelex Xobeh.
+  6691 | D:5      | Reached skill level 1 in Slings
+  7052 | D:5      | Found a staircase to the Ecumenical Temple.
+  7811 | D:5      | Reached XP level 7. HP: 39/39 MP: 6/10
+  7832 | Temple   | Entered the Ecumenical Temple
+  7938 | Temple   | Became a worshipper of Kikubaaqudgha
+  7967 | Temple   | Fell from the grace of Kikubaaqudgha
+  7967 | Temple   | Became a worshipper of the Shining One
+  8011 | D:6      | Reached skill level 6 in Earth Magic
+  8503 | D:6      | Reached skill level 7 in Earth Magic
+  8545 | D:6      | Reached XP level 8. HP: 48/48 MP: 1/11
+  8637 | D:6      | Noticed Prince Ribbit
+  8642 | D:6      | Killed Prince Ribbit
+  8642 | D:6      | Reached skill level 8 in Earth Magic
+  8681 | D:6      | Noticed a reaper
+  8971 | D:6      | Reached skill level 1 in Evocations
+  9054 | D:6      | Reached skill level 5 in Fighting
+  9350 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Fighting       |  1                 4  5 |  5.3
+Maces & Flails |     1  2  3             |  3.6
+Earth Magic    |     4        5     7  8 |  8.7
+Conjurations   |        1                |  1.0
+Polearms       |              1  2       |  2.5
+Throwing       |              1          |  1.0
+Slings         |                 1       |  1.9
+Evocations     |                       1 |  1.0
+Dodging        |                         |  1.5
+Stealth        |                         |  2.1
+Spellcasting   |                         |  2.0
+Transmutations |                         |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    19 |       |       ||    19
+       Club              |    46 |       |       ||    46
+       Whip              |    23 |  4048 |       ||  4071
+       Halberd           |       |  4127 |  4000 ||  8127
+       Mace              |       |    10 |  4061 ||  4071
+       Quarterstaff      |       |       |  4000 ||  4000
+ Fire: Blowgun           |       |     5 |       ||     5
+       Hunting sling     |       |    51 |    26 ||    77
+Throw: Stone             |    46 |    49 |       ||    95
+ Cast: Sandblast         |    25 |    52 |    16 ||    93
+       Stone Arrow       |       |     6 |    14 ||    20
+       Passwall          |       |     2 |     1 ||     3
+  Use: Scroll            |     3 |     6 |       ||     9
+       Potion            |     2 |     2 |       ||     4
+ Stab: Invisible         |     1 |       |       ||     1
+  Eat: Chunk             |     5 |    14 |     9 ||    28
+       Ration            |       |     1 |       ||     1
+Armor: Robe              |    11 |       |       ||    11
+       Leather armour    |    19 |  1301 |  3560 ||  4880
+Dodge: Dodged            |    55 |  3801 |  5529 ||  9385
+

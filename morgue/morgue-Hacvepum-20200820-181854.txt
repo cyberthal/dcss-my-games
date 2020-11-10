@@ -1,0 +1,242 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3638279738062291231
+
+72 Hacvepum the Sneak (level 4, 19/19 HPs)
+             Began as a Felid Conjurer on Aug 20, 2020.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:33:34 (5365 turns).
+
+Hacvepum the Sneak (Felid Conjurer)                 Turns: 5365, Time: 00:33:35
+
+Health: 19/19      AC:  1    Str:  4    XL:     4   Next: 6%
+Magic:  8/8        EV: 18    Int: 17    God:    
+Gold:   57         SH:  0    Dex: 17    Spells: 1/7 levels left
+                                        Lives:  0   Deaths: 1
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 3 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 57 gold pieces.
+
+Inventory:
+
+Wands
+ o - a wand of polymorph (11)
+Scrolls
+ c - 2 scrolls of blinking
+ e - 2 scrolls of teleportation
+ g - a scroll of magic mapping {unknown}
+ h - a scroll of enchant armour {unknown}
+ j - a scroll of remove curse {unknown}
+ l - 2 scrolls of identify
+ n - a scroll of fog {unknown}
+Potions
+ f - 2 potions of curing
+ i - a potion of experience {unknown}
+ k - 2 potions of cancellation {unknown}
+ m - 2 potions of brilliance {unknown}
+Comestibles
+ b - 4 rations
+
+
+   Skills:
+ - Level 1.0 Fighting
+ - Level 2.6 Dodging
+ + Level 4.4 Stealth
+ - Level 3.1 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 3.6 Conjurations
+ + Level 2.8 Hexes
+ * Level 0.1 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         4%          1    #......
+b - Searing Ray           Conj           ##....       7%          2    ###....
+c - Dazzling Spray        Conj/Hex       ##....       16%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Iskenderun's Mystic Bla  Conj           ##......     41%         4    #####..
+ Fulminant Prism          Conj/Hex       ##........   45%         4    #####..
+ Force Lance              Conj/Tloc      #.......     67%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+
+Annotations:
+D:2 exclusion: downstairs
+D:3 exclusions: orc and orc priest
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+* * * LOW HITPOINT WARNING * * *
+You hear a shout!
+You feel much better.
+Casting: Dazzling Spray (safe; 16% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Aiming: Dazzling Spray (safe; 16% risk of failure)
+Press: ? - help, Shift-Dir - straight line, f/p - orc priest
+Aim: an orc priest, wielding a +0 hand axe and wearing a +0 leather armour
+You miscast Dazzling Spray. Nothing appears to happen. The orc priest misses
+you.
+The orc priest calls down the wrath of Beogh upon you.
+Pain shoots through your body!
+Ouch! That really hurt!
+The orc priest calls down the wrath of Beogh upon you.
+Beogh smites you!
+You die...
+You are now level 4!
+You rejoin the land of the living...
+Unknown command.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+........#  #.#    #.#.#..###.#.#######.#
+.#......####.#    #.#.#......#.#     #.#
+.#...........#    #.#.########.#     #.#
+........######    #.#.......%..#     #.#
+#.......#         #.#.##########     #.#
+#....[..#         #.###              #.#
+#.......#####     #.#                #.#
+#.####......#     #.##               #.#
+#..# #......#  ####..#               #.#
+##.# #.....(#  #.....###             #.#
+ #.# #......#  #.###...#             #.#
+ #.###......#  #.#}#...#             #.#
+ #(.##......#  #.###...#             #.#
+###.##....(.####......@#    #####    #.#
+#....#.................#    #<..#    #.#
+#.##.#......#..........#    ###.######.#
+......#(#####...<......#     #.........#
+.#.#..#.#   #....(.....#     ###########
+......#.#   #..........#
+.#.#.(..#   #......#####
+.....#..#   #......#
+.#.#....#   #......#
+......>.#   #......#
+.#.#....### ########
+.....#....#
+.......>..#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A gnoll (D:2)
+  6 adders
+  An ooze (D:2)
+  2 dart slugs
+  A worm (D:3)
+  2 leopard geckos
+  2 orcs (D:3)
+  5 ball pythons
+  9 bats
+  2 giant cockroaches
+  6 hobgoblins
+  3 jackals
+  2 quokkas
+  9 frilled lizards
+  6 goblins
+  5 kobolds (D:1)
+  6 rats
+68 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 gnolls (D:2)
+  A frilled lizard (D:2)
+3 creatures vanquished.
+
+Grand Total: 71 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hacvepum the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   243 | D:1      | Reached skill level 1 in Fighting
+   448 | D:1      | Reached XP level 2. HP: 7/12 MP: 4/6
+   454 | D:1      | Learned a level 2 spell: Searing Ray
+   616 | D:1      | Reached skill level 3 in Stealth
+   616 | D:1      | Reached skill level 1 in Unarmed Combat
+  1592 | D:2      | Reached XP level 3. HP: 15/15 MP: 2/7
+  1736 | D:1      | Learned a level 3 spell: Dazzling Spray
+  1739 | D:2      | Reached skill level 4 in Stealth
+  1958 | D:2      | Reached skill level 1 in Hexes
+  2308 | D:2      | Reached XP level 4. HP: 19/19 MP: 5/8
+  4465 | D:3      | Reached XP level 5. HP: 15/22 MP: 0/9
+  5364 | D:3      | Killed from afar by an orc priest
+  5365 | D:3      | Reached XP level 4. HP: -1/19 MP: 1/8
+  5365 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  1          |  1.0
+Stealth        |     3  4    |  4.4
+Unarmed Combat |     1  2  3 |  3.1
+Hexes          |        1  2 |  2.8
+Dodging        |             |  2.6
+Spellcasting   |             |  2.0
+Conjurations   |             |  3.6
+Evocations     |             |  0.1
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    24 |    38 ||    62
+       Bite              |     2 |     2 ||     4
+ Cast: Magic Dart        |    65 |    33 ||    98
+       Searing Ray       |     3 |     8 ||    11
+       Dazzling Spray    |       |     1 ||     1
+  Use: Scroll            |     4 |       ||     4
+       Potion            |       |     3 ||     3
+ Stab: Sleeping          |     1 |     3 ||     4
+  Eat: Chunk             |    11 |     5 ||    16
+Armor: Skin              |     2 |     3 ||     5
+Dodge: Dodged            |    32 |    52 ||    84
+

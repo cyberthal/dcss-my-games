@@ -1,0 +1,100 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17129127716774484361
+
+0 Pamaung the Vandal (level 1, 14/14 HPs)
+             Began as a Halfling Hunter on Aug 19, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:34 (1 turns).
+
+Pamaung the Vandal (Halfling Hunter)                   Turns: 1, Time: 00:00:35
+
+Health: 14/14      AC:  3    Str: 13    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int:  9    God:    
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: small, mutation resistance 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling (weapon)
+ b - a +0 short sword
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ c - a +0 leather armour (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 1.7 Fighting
+ + Level 5.8 Slings
+ + Level 2.1 Dodging
+ + Level 1.1 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+
+
+Message History
+
+Welcome, Pamaung the Halfling Hunter.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ###
+778#
+7<@+
+778#
+ ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Pamaung the Halfling Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+     1 | D:1      | Quit the game
+

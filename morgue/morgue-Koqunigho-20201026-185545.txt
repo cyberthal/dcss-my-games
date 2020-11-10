@@ -1,0 +1,409 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 17542361394960366155
+
+5109 Koqunigho the Politician (level 10, 147/147 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:04:17 (37 turns).
+
+Koqunigho the Politician (Deep Dwarf Artificer)       Turns: 37, Time: 00:04:18
+
+Health: 147/147    AC:  6    Str: 15    XL:     10   Next: 32%
+Magic:  41/41      EV: 29    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 63/63 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....     NoTele   +   (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.27/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 2, no regeneration
+a: Heal Wounds
+
+
+You were in the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (13)
+ e - a wand of random effects (15)
+Scrolls
+ l - a scroll of blinking
+Potions
+ g - a potion of curing
+ h - a potion of heal wounds
+ i - a potion of haste
+ j - 2 potions of magic
+ k - a potion of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 63 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D (*(%**(([!?%}}[}%*?[*[
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map the area around you.
+You do not regenerate.
+
+
+Message History
+
+Super healing.
+Enter Wizard Command (? - help): 
+Regenerating level.
+Found a staircase leading out of the dungeon.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 97 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game... Found 108 gold pieces.
+Enter Wizard Command (? - help): 
+Regenerating level.
+Found a staircase leading out of the dungeon.
+Enter Wizard Command (? - help): 
+Mapping level.
+Enter Wizard Command (? - help): 
+Detected 97 monsters.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#######################
+#@.#.g+..#.@+$$#__#$$+.
+#..+..#.O+..#$$+.J+$$#.
+#..#####+#####+#__####K
+#..####$$#$$$#$####:?##
+#..#__####$$##$#~~~.c#$
+#..#_____##+#_.+~~~..+.
+#}}#_.\..Y+..._#~~~.c#$
+####_..__##_J#+##+#####
+#$$#_____###+#[#[$(?###
+############.####+###$#
+#\^.......+$.$+$$T$$+%\
+###++++####$.$#########
+#..G....####.###.......
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Sonja (D)
+  A jelly (D)
+2 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 centaur warriors (D)
+2 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 ballistomycete spores (D)
+2 creatures vanquished.
+
+Grand Total: 6 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found Tytule's Magic Scroll Shoppe.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found Rirogh's Jewellery Emporium.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found Cycum's Magic Scroll Boutique.
+     0 | D        | Found Misyavatt's Armour Emporium.
+     0 | D        | Found Xaadauk's Antique Armour Shoppe.
+     0 | D        | Found Keirphij's Food Shop.
+     0 | D        | Found Tighylu's Magic Scroll Shop.
+     0 | D        | Found Ceocergh's Antique Armour Shoppe.
+     0 | D        | Found Hetzuly's Antique Weapon Boutique.
+     0 | D        | Found Acoqippa's Book Emporium.
+     0 | D        | Found Onimutet's Jewellery Emporium.
+     0 | D        | Found Faniw's Magic Scroll Boutique.
+     0 | D        | Found Goox Xishre's Antique Weapon Boutique.
+     0 | D        | Found Fakh's Weapon Emporium.
+     0 | D        | Found Dexzifer's Armour Shop.
+     0 | D        | Found Foidgh's Jewellery Shoppe.
+     0 | D        | Found Ikuemapp's Food Boutique.
+     0 | D        | Found Qovuhost's Food Emporium.
+     0 | D        | Found Ajaet's Food Shop.
+     0 | D        | Found Piazyafu's Gadget Shoppe.
+     0 | D        | Found Duogy's General Store.
+     0 | D        | Found Fitsusm's Armour Emporium.
+     0 | D        | Reached XP level 2. HP: 75/75 MP: 3/30
+     0 | D        | Reached XP level 3. HP: 84/84 MP: 3/31
+     0 | D        | Reached XP level 4. HP: 93/93 MP: 3/33
+     0 | D        | Reached XP level 5. HP: 102/102 MP: 3/34
+     0 | D        | Reached XP level 6. HP: 111/111 MP: 3/36
+     0 | D        | Reached XP level 7. HP: 120/120 MP: 3/37
+     0 | D        | Reached XP level 8. HP: 129/129 MP: 3/39
+     0 | D        | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+     0 | D        | Reached XP level 9. HP: 138/138 MP: 3/40
+     0 | D        | Reached XP level 10. HP: 147/147 MP: 3/41
+     0 | D        | Noticed Sonja
+     7 | D        | Noticed a centaur warrior
+    11 | D        | Noticed a centaur warrior
+    16 | D        | Killed a centaur warrior
+    21 | D        | Killed a centaur warrior
+    37 | D        | Entered the Dungeon
+    37 | D        | Found a viscous altar of Jiyva.
+    37 | D        | Found a corrupted altar of Lugonu.
+    37 | D        | Found a burning altar of Makhleb.
+    37 | D        | Found a shimmering altar of Xom.
+    37 | D        | Found a white marble altar of Elyvilon.
+    37 | D        | Found a glowing silver altar of Zin.
+    37 | D        | Found Vanlafeith's Gadget Shoppe.
+    37 | D        | Found a glowing golden altar of the Shining One.
+    37 | D        | Found an iron altar of Okawaru.
+    37 | D        | Found a bloodstained altar of Trog.
+    37 | D        | Found a blossoming altar of Fedhas.
+    37 | D        | Found a stormy altar of Qazlal.
+    37 | D        | Found an ornate altar of the Wu Jian Council.
+    37 | D        | Found an ancient bone altar of Kikubaaqudgha.
+    37 | D        | Found Oqemah's Assorted Antiques.
+    37 | D        | Found a deep blue altar of Sif Muna.
+    37 | D        | Found a basalt altar of Yredelemnul.
+    37 | D        | Found a hide-covered altar of Uskayaw.
+    37 | D        | Found a hazy altar of Hepliaklqana.
+    37 | D        | Found a radiant altar of Vehumet.
+    37 | D        | Found a shadowy altar of Dithmenos.
+    37 | D        | Found a sacrificial altar of Ru.
+    37 | D        | Found a snail-covered altar of Cheibriados.
+    37 | D        | Found an opulent altar of Gozag.
+    37 | D        | Found a sparkling altar of Nemelex Xobeh.
+    37 | D        | Found Okis Hytisk's General Store.
+    37 | D        | Found Efeo's Armour Emporium.
+    37 | D        | Found Bypruofiulo's Magic Scroll Shoppe.
+    37 | D        | Found Umaa's Book Shop.
+    37 | D        | Found Doarochu's Gadget Shop.
+    37 | D        | Found Evoschar's Magic Scroll Shoppe.
+    37 | D        | Found Toreeplu's Gadget Boutique.
+    37 | D        | Found Weahup's Antique Weapon Emporium.
+    37 | D        | Found Zes Vod's Antique Armour Emporium.
+    37 | D        | Found Qoklileq's Antique Weapon Boutique.
+    37 | D        | Found Godghugg's Jewellery Boutique.
+    37 | D        | Found Nog Lyom's Food Emporium.
+    37 | D        | Found Hoklen's Antique Armour Shop.
+    37 | D        | Found Vumpuk's Weapon Shoppe.
+    37 | D        | Found Pucvoudi's Distillery.
+    37 | D        | Found Wyn Wodwis's Assorted Antiques.
+    37 | D        | Found Xaac's Antique Armour Shop.
+    37 | D        | Found Ceumomn's Antique Armour Shoppe.
+    37 | D        | Found Taqucvio's Magic Scroll Boutique.
+    37 | D        | Found Wekes's Armour Emporium.
+    37 | D        | Noticed Sonja
+    37 | D        | Killed Sonja
+    37 | D        | Entered the Dungeon
+    37 | D        | Found a viscous altar of Jiyva.
+    37 | D        | Found a corrupted altar of Lugonu.
+    37 | D        | Found a burning altar of Makhleb.
+    37 | D        | Found a shimmering altar of Xom.
+    37 | D        | Found a white marble altar of Elyvilon.
+    37 | D        | Found a glowing silver altar of Zin.
+    37 | D        | Found Sucza's Antique Armour Shoppe.
+    37 | D        | Found a glowing golden altar of the Shining One.
+    37 | D        | Found an iron altar of Okawaru.
+    37 | D        | Found a bloodstained altar of Trog.
+    37 | D        | Found a blossoming altar of Fedhas.
+    37 | D        | Found a stormy altar of Qazlal.
+    37 | D        | Found an ornate altar of the Wu Jian Council.
+    37 | D        | Found an ancient bone altar of Kikubaaqudgha.
+    37 | D        | Found Onocunuo's Distillery.
+    37 | D        | Found a deep blue altar of Sif Muna.
+    37 | D        | Found a basalt altar of Yredelemnul.
+    37 | D        | Found a hide-covered altar of Uskayaw.
+    37 | D        | Found a hazy altar of Hepliaklqana.
+    37 | D        | Found a radiant altar of Vehumet.
+    37 | D        | Found a shadowy altar of Dithmenos.
+    37 | D        | Found a sacrificial altar of Ru.
+    37 | D        | Found a snail-covered altar of Cheibriados.
+    37 | D        | Found an opulent altar of Gozag.
+    37 | D        | Found a sparkling altar of Nemelex Xobeh.
+    37 | D        | Found Mofen's Jewellery Boutique.
+    37 | D        | Found Hiennaen's Armour Emporium.
+    37 | D        | Found Boyshreadip's Food Shoppe.
+    37 | D        | Found Wauqazy's General Store.
+    37 | D        | Found Iskoxel's Armour Shop.
+    37 | D        | Found Qitoef's Food Shoppe.
+    37 | D        | Found Aleunaj's Armour Boutique.
+    37 | D        | Found Odoleph's Distillery.
+    37 | D        | Found Ygynup's Assorted Antiques.
+    37 | D        | Found Wikoariw's Distillery.
+    37 | D        | Found Roejy's General Store.
+    37 | D        | Found Tuacaira's Book Emporium.
+    37 | D        | Found Uwuyzas's Gadget Shop.
+    37 | D        | Found Qounkor's Distillery.
+    37 | D        | Found Onaipn's Gadget Boutique.
+    37 | D        | Found Pyziegha's Antique Weapon Emporium.
+    37 | D        | Found Poatyty's Food Shop.
+    37 | D        | Found Appiaxen's Food Shoppe.
+    37 | D        | Found Gaicoh's Distillery.
+    37 | D        | Found Iraul's Weapon Emporium.
+    37 | D        | Entered the Dungeon
+    37 | D        | Found a viscous altar of Jiyva.
+    37 | D        | Found a corrupted altar of Lugonu.
+    37 | D        | Found a burning altar of Makhleb.
+    37 | D        | Found a shimmering altar of Xom.
+    37 | D        | Found a white marble altar of Elyvilon.
+    37 | D        | Found a glowing silver altar of Zin.
+    37 | D        | Found Dypod's Antique Armour Shoppe.
+    37 | D        | Found a glowing golden altar of the Shining One.
+    37 | D        | Found an iron altar of Okawaru.
+    37 | D        | Found a bloodstained altar of Trog.
+    37 | D        | Found a blossoming altar of Fedhas.
+    37 | D        | Found a stormy altar of Qazlal.
+    37 | D        | Found an ornate altar of the Wu Jian Council.
+    37 | D        | Found an ancient bone altar of Kikubaaqudgha.
+    37 | D        | Found Isakedug's Food Emporium.
+    37 | D        | Found a deep blue altar of Sif Muna.
+    37 | D        | Found a basalt altar of Yredelemnul.
+    37 | D        | Found a hide-covered altar of Uskayaw.
+    37 | D        | Found a hazy altar of Hepliaklqana.
+    37 | D        | Found a radiant altar of Vehumet.
+    37 | D        | Found a shadowy altar of Dithmenos.
+    37 | D        | Found a sacrificial altar of Ru.
+    37 | D        | Found a snail-covered altar of Cheibriados.
+    37 | D        | Found an opulent altar of Gozag.
+    37 | D        | Found a sparkling altar of Nemelex Xobeh.
+    37 | D        | Found Neeriniff's Weapon Boutique.
+    37 | D        | Found Atih's Armour Emporium.
+    37 | D        | Found Coilim's General Store.
+    37 | D        | Found Itavel's General Store.
+    37 | D        | Found Kuometz's Weapon Shop.
+    37 | D        | Found Idduv's Weapon Shoppe.
+    37 | D        | Found Loack's General Store.
+    37 | D        | Found Harasuit's General Store.
+    37 | D        | Found Lejoat Ewee's Antique Weapon Emporium.
+    37 | D        | Found Vywaq Imunni's General Store.
+    37 | D        | Found Joiwn's Antique Armour Boutique.
+    37 | D        | Found Deijuh's Distillery.
+    37 | D        | Found Sigru's Magic Scroll Shop.
+    37 | D        | Found Ulow's Food Shoppe.
+    37 | D        | Found Akaenuk's Gadget Boutique.
+    37 | D        | Found Aphon's Gadget Emporium.
+    37 | D        | Found Obaicky's Antique Armour Shop.
+    37 | D        | Found Ucsauzyn's Gadget Shoppe.
+    37 | D        | Found Edusmash's Food Boutique.
+    37 | D        | Found Jucoutix's Magic Scroll Emporium.
+    37 | D        | Found the brooch of Shielding {Reflect SH+8}
+    37 | D        | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Evoke: Wand              |       |       |       |     2 ||     2
+

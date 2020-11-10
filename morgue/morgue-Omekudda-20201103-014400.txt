@@ -1,0 +1,136 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5715184320383664704
+
+0 Omekudda the Skirmisher (level 1, 10/10 HPs) *WIZ*
+             Began as a Felid Fighter on Nov 3, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:10:04 (0 turns).
+
+Omekudda the Skirmisher (Felid Fighter)                Turns: 0, Time: 00:10:04
+
+Health: 10/10      AC:  1    Str: 20    XL:     1   Next: 0%
+Magic:  0/2        EV: 15    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+Armour
+ b - a +0 scale mail
+ c - a +0 shield
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 3.5 Fighting
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+What species would you like to be now? deep el
+Unknown command.
+Enter Wizard Command (? - help): 
+What species would you like to be now? og
+Enter Wizard Command (? - help): 
+What species would you like to be now? deep d
+Enter Wizard Command (? - help): 
+What species would you like to be now? vine s
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Enter Wizard Command (? - help): 
+What species would you like to be now? for
+No target in view!
+Enter Wizard Command (? - help): 
+What species would you like to be now? oc
+Enter Wizard Command (? - help): 
+What species would you like to be now? fe
+Your +0 war axe falls away. Your +0 shield falls away.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#       #
+#.     .#
+#.#   #.#
+ #.# #.#
+  #.#.#
+   #@#
+  #.#.#
+ #.# #.#
+#?#   #.#
+##     #.#
+        ##
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Omekudda the Minotaur Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Armour         |  0 |  0.0
+Axes           |  3 |  0.0
+Fighting       |    |  3.5
+

@@ -1,0 +1,208 @@
+Duaryo
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+  a mace
+(1, 19, D:1)
+  a +0 club
+(2, 18, D:1)
+  a +0 short sword
+(2, 19, D:1)
+  a +0 club
+(10, 15, D:1)
+  a +0 dagger
+(11, 13, D:1)
+  a whip
+(11, 18, D:1)
+  a club
+(12, 0, D:1)
+  a +0 club
+(18, 8, D:1)
+  a +0 club
+(24, -1, D:1)
+  a whip
+(28, 26, D:1)
+  a +0 club
+(41, 0, D:1)
+  a ring mail
+(44, 7, D:1)
+  a scale mail
+(44, 20, D:1)
+  a +0 whip
+  a +0 short sword
+(53, 16, D:1)
+  a +0 club
+(54, 7, D:1)
+  a dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a robe
+(0, 33, D:2)
+  a pair of gloves
+(1, 1, D:2)
+  a +0 whip
+(2, -2, D:2)
+  a +0 dagger
+(3, 4, D:2)
+  a +0 whip
+(3, 9, D:2)
+  a +0 club
+(4, 8, D:2)
+  a +0 flail
+(10, 8, D:2)
+  a pair of boots
+(26, 36, D:2)
+  a +0 dagger
+(28, 30, D:2)
+  a dagger
+(30, 42, D:2)
+  a potion of degeneration
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(4, -8, D:3)
+  a +0 dagger
+(6, -13, D:3)
+  a +0 chain mail
+  a +0 club
+(43, -7, D:3)
+  a +0 club
+(48, -11, D:3)
+  a +0 ring mail
+(48, 23, D:3)
+  a +0 club
+(52, 30, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+[Shop] Qyusod's Book Boutique
+  the Collected Works on Cloudy Contamination (704 gold)
+    Spells                           Type                      Level
+     a - Swiftness                    Charms/Air                    2
+     b - Olgreb's Toxic Radiance      Poison                        4
+     c - Venom Bolt                   Conjuration/Poison            5
+     d - Alistair's Intoxication      Transmutation/Poison          5
+  a book of Party Tricks (unknown) (600 gold)
+  a book of Geomancy (unknown) (420 gold)
+  a book of Geomancy (unknown) (420 gold)
+  a book of Clouds (unknown) (540 gold)
+  a book of Maledictions (unknown) (300 gold)
+(0, 0, D:4)
+  a leather armour
+(10, 18, D:4)
+  a spear
+(29, 16, D:4)
+  a cursed -1 leather armour
+  a +0 short sword
+(32, -11, D:4)
+  a +0 ring mail
+(32, -10, D:4)
+  a +0 robe
+  a +0 dagger
+(34, -13, D:4)
+  a +0 robe
+(37, -6, D:4)
+  a +0 dagger
+(51, 11, D:4)
+  a scale mail
+
+Level 5 of the Dungeon
+(1, -48, D:5)
+  a leather armour
+(1, -13, D:5)
+  a leather armour
+(54, -42, D:5)
+  a hand axe
+(67, -30, D:5)
+  a war axe
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a long sword
+(4, 37, D:6)
+  a +0 mace
+(5, 37, D:6)
+  a +0 scale mail
+  a +0 short sword
+(7, 38, D:6)
+  a +0 hand axe
+(9, -8, D:6)
+  a +0 spear
+(10, -7, D:6)
+  a +0 club
+(11, 11, D:6)
+  a chain mail
+(13, 25, D:6)
+  a +0 shield
+  a +0 trident
+  a +0 scale mail
+(15, 12, D:6)
+  a leather armour
+(15, 24, D:6)
+  a cursed -2 whip
+(16, 22, D:6)
+  a +0 club
+(29, -1, D:6)
+  a -2 ring of strength
+(34, 31, D:6)
+  a +0 falchion
+  a +0 hand axe
+(35, 33, D:6)
+  a +0 flail
+(45, 7, D:6)
+  a war axe
+(57, 32, D:6)
+  5 large rocks
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 mace
+(1, -1, D:7)
+  a +0 dagger
+(3, 2, D:7)
+  a +0 leather armour
+  a +0 hand axe
+(22, -11, D:7)
+  a hand axe
+(39, -3, D:7)
+  a spear
+(44, -11, D:7)
+  a ring mail
+
+Level 8 of the Dungeon
+[Shop] Ticlor's Antique Armour Boutique
+  a chain mail (76 gold)
+  a robe (11 gold)
+  a plate armour (391 gold)
+  a centaur barding (391 gold)
+  a glowing leather armour (85 gold)
+  a chain mail (76 gold)
+  an ancient ring mail (153 gold)
+  a leather armour (34 gold)
+  a robe (11 gold)
+(0, 0, D:8)
+  a leather armour
+(7, 15, D:8)
+  a necrophage corpse (skeletalised by now)
+(14, -5, D:8)
+  a ration
+(15, -12, D:8)
+  a scroll labeled WUNIBI UGAI
+(17, -9, D:8)
+  5 gold pieces
+(44, -22, D:8)
+  a spear
+(44, 28, D:8)
+  a flail
+(51, -31, D:8)
+  a war axe
+(59, -15, D:8)
+  a whip
+(66, -10, D:8)
+  a leather armour
+
+the Ecumenical Temple
+

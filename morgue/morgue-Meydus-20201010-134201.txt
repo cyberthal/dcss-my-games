@@ -1,0 +1,447 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5454407334135664270
+
+545328 Meydus the Conqueror (level 27, 249/249 HPs) *WIZ*
+             Began as a Barachi Transmuter on Oct 10, 2020.
+             Was the Champion of Wu Jian.
+             Quit the game in the Vestibule of Hell.
+             The game lasted 00:21:59 (483 turns).
+
+Meydus the Conqueror (Barachi Transmuter)            Turns: 483, Time: 00:21:59
+
+Health: 249/249    AC:  4    Str: 11    XL:     27
+Magic:  54/54      EV: 28    Int: 13    God:    Wu Jian 182 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 74/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.51/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 2
+a: Hop, Wall Jump, Serpent's Lash, Heavenly Storm, Renounce Religion
+
+
+You were in the Vestibule of Hell.
+You worshipped Wu Jian.
+Wu Jian was exalted by your worship.
+You were very full.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Missiles
+ a - 12 arrows
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 74 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           50 (50)      0%          1    0
+b - Blade Hands           Tmut           73 (200)     0%          5    49
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Apportation              Tloc           50 (50)      0%          1    0
+ Confusing Touch          Hex            50 (50)      0%          1    0
+ Corona                   Hex            73 (90)      0%          1    0
+ Flame Tongue             Conj/Fire      40 (40)      0%          1    0
+ Freeze                   Ice            25 (25)      0%          1    0
+ Infusion                 Chrm           25 (25)      0%          1    0
+ Magic Dart               Conj           25 (25)      0%          1    0
+ Pain                     Necr           25 (25)      0%          1    0
+ Sandblast                Erth           50 (50)      0%          1    0
+ Shock                    Conj/Air       25 (25)      0%          1    0
+ Sting                    Conj/Pois      25 (25)      0%          1    0
+ Summon Butterflies       Summ           73 (100)     0%          1    0
+ Summon Small Mammal      Summ           25 (25)      0%          1    0
+ Blink                    Tloc           N/A          0%          2    0
+ Call Imp                 Summ           73 (100)     0%          2    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Ensorcelled Hibernation  Hex/Ice        50 (50)      0%          2    0
+ Passwall                 Tmut/Erth      73 (120)     0%          2    0
+ Poisonous Vapours        Pois/Air       50 (50)      0%          2    0
+ Searing Ray              Conj           50 (50)      0%          2    0
+ Shroud of Golubria       Chrm/Tloc      73 (200)     0%          2    0
+ Slow                     Hex            73 (100)     0%          2    0
+ Song of Slaying          Chrm           73 (100)     0%          2    0
+ Sticks to Snakes         Tmut           73 (100)     0%          2    0
+ Sublimation of Blood     Necr           73 (200)     0%          2    0
+ Swiftness                Chrm/Air       73 (100)     0%          2    0
+ Throw Flame              Conj/Fire      50 (50)      0%          2    0
+ Throw Frost              Conj/Ice       50 (50)      0%          2    0
+ Call Canine Familiar     Summ           73 (100)     0%          3    0
+ Confuse                  Hex            73 (100)     0%          3    0
+ Conjure Flame            Conj/Fire      73 (100)     0%          3    0
+ Dazzling Spray           Conj/Hex       50 (50)      0%          3    0
+ Gell's Gravitas          Tloc           73 (200)     0%          3    0
+ Ignite Poison            Fire/Tmut/Pois 73 (100)     0%          3    0
+ Inner Flame              Hex/Fire       73 (100)     0%          3    0
+ Lesser Beckoning         Tloc           73 (200)     0%          3    0
+ Mephitic Cloud           Conj/Pois/Air  73 (100)     0%          3    0
+ Ozocubu's Armour         Chrm/Ice       73 (100)     0%          3    0
+ Portal Projectile        Hex/Tloc       50 (50)      0%          3    0
+ Recall                   Summ/Tloc      N/A          0%          3    0
+ Regeneration             Chrm/Necr      73 (200)     0%          3    0
+ Spectral Weapon          Hex/Chrm       73 (100)     0%          3    0
+ Spider Form              Tmut/Pois      73 (200)     0%          3    0
+ Static Discharge         Conj/Air       73 (100)     0%          3    0
+ Stone Arrow              Conj/Erth      50 (50)      0%          3    0
+ Summon Guardian Golem    Hex/Summ       73 (100)     0%          3    0
+ Teleport Other           Tloc           73 (100)     0%          3    0
+ Tukima's Dance           Hex            73 (100)     0%          3    0
+ Vampiric Draining        Necr           73 (200)     0%          3    0
+ Airstrike                Air            73 (200)     0%          4    0
+ Animate Dead             Necr           N/A          0%          4    0
+ Cause Fear               Hex            73 (200)     0%          4    0
+ Force Lance              Conj/Tloc      73 (100)     0%          4    0
+ Fulminant Prism          Conj/Hex       73 (200)     0%          4    0
+ Ice Form                 Ice/Tmut       73 (100)     0%          4    0
+ Iskenderun's Mystic Bla  Conj           73 (100)     0%          4    0
+ Leda's Liquefaction      Hex/Erth       73 (200)     0%          4    0
+ Olgreb's Toxic Radiance  Pois           73 (100)     0%          4    0
+ Passage of Golubria      Tloc           N/A          0%          4    0
+ Petrify                  Tmut/Erth      73 (100)     0%          4    0
+ Sticky Flame             Conj/Fire      73 (100)     0%          4    0
+ Summon Ice Beast         Ice/Summ       73 (100)     0%          4    0
+ Summon Lightning Spire   Summ/Air       73 (100)     0%          4    0
+ Throw Icicle             Conj/Ice       73 (100)     0%          4    0
+ Agony                    Necr           73 (100)     0%          5    49
+ Alistair's Intoxication  Tmut/Pois      73 (100)     0%          5    49
+ Aura of Abjuration       Summ           73 (200)     0%          5    49
+ Bolt of Draining         Conj/Necr      73 (200)     0%          5    49
+ Bolt of Magma            Conj/Fire/Erth 73 (200)     0%          5    49
+ Borgnjor's Vile Clutch   Necr/Erth      73 (200)     0%          5    49
+ Dispel Undead            Necr           73 (100)     0%          5    49
+ Excruciating Wounds      Chrm/Necr      73 (200)     0%          5    49
+ Fireball                 Conj/Fire      73 (200)     0%          5    49
+ Irradiate                Conj/Tmut      73 (200)     0%          5    49
+ Iskenderun's Battlesphe  Conj/Chrm      73 (100)     0%          5    49
+ Lee's Rapid Deconstruct  Erth           73 (200)     0%          5    49
+ Lightning Bolt           Conj/Air       73 (200)     0%          5    49
+ Metabolic Englaciation   Hex/Ice        73 (200)     0%          5    49
+ Silence                  Hex/Air        73 (200)     0%          5    49
+ Summon Demon             Summ           73 (200)     0%          5    49
+ Summon Forest            Summ/Tloc      73 (200)     0%          5    49
+ Summon Mana Viper        Hex/Summ       73 (100)     0%          5    49
+ Venom Bolt               Conj/Pois      73 (200)     0%          5    49
+ Yara's Violent Unravell  Hex/Tmut       73 (200)     0%          5    49
+ Bolt of Cold             Conj/Ice       73 (200)     0%          6    199
+ Bolt of Fire             Conj/Fire      73 (200)     0%          6    199
+ Conjure Ball Lightning   Conj/Air       73 (200)     0%          6    199
+ Darkness                 Hex            73 (200)     0%          6    199
+ Death Channel            Necr           73 (200)     0%          6    199
+ Deflect Missiles         Chrm/Air       73 (200)     0%          6    199
+ Dispersal                Tloc           73 (200)     0%          6    199
+ Freezing Cloud           Conj/Ice/Air   73 (200)     0%          6    199
+ Hydra Form               Tmut           73 (200)     0%          6    199
+ Invisibility             Hex            73 (100)     0%          6    199
+ Iron Shot                Conj/Erth      73 (200)     0%          6    199
+ Ozocubu's Refrigeration  Ice            73 (200)     0%          6    199
+ Poison Arrow             Conj/Pois      73 (200)     0%          6    199
+ Shadow Creatures         Summ           N/A          0%          6    199
+ Simulacrum               Ice/Necr       73 (200)     0%          6    199
+ Statue Form              Tmut/Erth      73 (150)     0%          6    199
+ Dragon Form              Tmut           73 (200)     1%          7    349
+ Haunt                    Necr/Summ      73 (200)     1%          7    349
+ Malign Gateway           Summ/Tloc      73 (200)     1%          7    349
+ Monstrous Menagerie      Summ           73 (200)     1%          7    349
+ Orb of Destruction       Conj           73 (200)     1%          7    349
+ Ring of Flames           Chrm/Fire      73 (200)     1%          7    349
+ Spellforged Servitor     Conj/Summ      73 (200)     1%          7    349
+ Summon Greater Demon     Summ           73 (200)     1%          7    349
+ Summon Hydra             Summ           73 (200)     1%          7    349
+ Borgnjor's Revivificati  Necr           73 (200)     1%          8    499
+ Chain Lightning          Conj/Air       73 (200)     1%          8    499
+ Controlled Blink         Tloc           N/A          1%          8    499
+ Death's Door             Chrm/Necr      73 (200)     1%          8    499
+ Discord                  Hex            73 (200)     1%          8    499
+ Disjunction              Tloc           73 (200)     1%          8    499
+ Ignition                 Fire           73 (200)     1%          8    499
+ Infestation              Necr           73 (200)     1%          8    499
+ Lehudib's Crystal Spear  Conj/Erth      73 (200)     1%          8    499
+ Necromutation            Tmut/Necr      73 (200)     1%          8    499
+ Summon Horrible Things   Summ           73 (200)     1%          8    499
+ Dragon's Call            Summ           73 (200)     3%          9    649
+ Fire Storm               Conj/Fire      73 (200)     3%          9    649
+ Glaciate                 Conj/Ice       73 (200)     3%          9    649
+ Shatter                  Erth           73 (200)     3%          9    649
+ Tornado                  Air            73 (200)     3%          9    649
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (0/7) Hell
+    Coc (0/7) Hell            Tar (0/7) Hell        
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop long distances.
+
+
+Message History
+
+You barely miss the fire elemental.
+You closely miss the fire elemental.
+The fire elemental completely misses you.
+You pummel the fire elemental!!
+The fire elemental is almost destroyed.
+The fire elemental closely misses you.
+You hit the fire elemental.
+You destroy the fire elemental!
+The Council accepts your kill.
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+No target in view!
+HP restored.
+There is an open gate here.
+There is an open gate, spattered with blood here.
+Done exploring.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#########         #############
+........###########...........##
+.##...###.........###...##.....##
+.##..##.............##@.##......##
+.....#.......\.......#...........##
+.....##.............##............##
+......####.......####..............##
+......#..##.....##..#...............##
+......##.....#.....##................##
+.......##...###...##..................#
+........##..#.#..##...................#
+.........##.....##....................#
+..........##'''##.....................#
+......................................#
+......................................#
+................................~....~#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Geryon (Hell)
+  A hellephant (Hell)
+  A tentacled monstrosity (Hell)
+  2 ancient champions (Hell)
+  A shadow dragon (Hell)
+  2 iron dragons (Hell)
+  3 balrugs (Hell)
+  8 reapers (Hell)
+  2 blizzard demons (Hell)
+  3 iron golems (Hell)
+  4 soul eaters (Hell)
+  6 sun demons (Hell)
+  9 hell knights (Hell)
+  20 skeletal warriors (Hell)
+  An iron troll (Hell)
+  2 anaconda zombies (Hell)
+  An anaconda skeleton (Hell)
+  7 necromancers (Hell)
+  2 wolf spider zombies (Hell)
+  An iron dragon skeleton (Hell)
+  6 rust devils (Hell)
+  A titan simulacrum (Hell)
+  A smoke demon (Hell)
+  2 anaconda simulacra (Hell)
+  2 demonic crawlers (Hell)
+  A catoblepas skeleton (Hell)
+  7 red devils (Hell)
+  A harpy zombie (Hell)
+  A hydra zombie (Hell)
+  A fire dragon zombie (Hell)
+  A hydra skeleton (Hell)
+  7 fire elementals (Hell)
+  An alligator skeleton (Hell)
+  3 hell hounds (Hell)
+  A hydra simulacrum (Hell)
+  2 spiny frog zombies (Hell)
+  An alligator simulacrum (Hell)
+  An ettin simulacrum (Hell)
+  A snapping turtle skeleton (Hell)
+  A troll zombie (Hell)
+  A snapping turtle simulacrum (Hell)
+  2 iron imps (Hell)
+  5 hell rats (Hell)
+127 creatures vanquished.
+
+Vanquished Creatures (others)
+  A hell rat (Hell)
+1 creature vanquished.
+
+Grand Total: 128 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Meydus the Barachi Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Became a worshipper of the Wu Jian Council
+     1 | D:1      | Reached * piety under Wu Jian
+     1 | D:1      | Reached ** piety under Wu Jian
+     1 | D:1      | Reached *** piety under Wu Jian
+     1 | D:1      | Reached **** piety under Wu Jian
+     1 | D:1      | Reached ***** piety under Wu Jian
+     1 | D:1      | Reached ****** piety under Wu Jian
+     1 | D:1      | Reached XP level 2. HP: 63/63 MP: 3/30
+     1 | D:1      | Reached XP level 3. HP: 70/70 MP: 3/31
+     1 | D:1      | Reached XP level 4. HP: 78/78 MP: 3/33
+     1 | D:1      | Reached XP level 5. HP: 85/85 MP: 3/34
+     1 | D:1      | Reached XP level 6. HP: 93/93 MP: 3/36
+     1 | D:1      | Reached XP level 7. HP: 100/100 MP: 3/37
+     1 | D:1      | Reached XP level 8. HP: 108/108 MP: 3/39
+     1 | D:1      | Reached XP level 9. HP: 115/115 MP: 3/40
+     1 | D:1      | Reached XP level 10. HP: 123/123 MP: 3/41
+     1 | D:1      | Reached XP level 11. HP: 130/130 MP: 3/42
+     1 | D:1      | Reached XP level 12. HP: 138/138 MP: 3/43
+     1 | D:1      | Gained mutation: You can hop long distances. [Barachi
+                  | growth]
+     1 | D:1      | Reached XP level 13. HP: 145/145 MP: 3/44
+     1 | D:1      | Reached XP level 14. HP: 153/153 MP: 3/45
+     1 | D:1      | Reached XP level 15. HP: 159/159 MP: 3/46
+     1 | D:1      | Reached XP level 16. HP: 167/167 MP: 3/47
+     1 | D:1      | Reached XP level 17. HP: 174/174 MP: 3/48
+     1 | D:1      | Reached XP level 18. HP: 182/182 MP: 3/49
+     1 | D:1      | Reached XP level 19. HP: 189/189 MP: 3/50
+     1 | D:1      | Reached XP level 20. HP: 197/197 MP: 3/51
+     1 | D:1      | Reached XP level 21. HP: 204/204 MP: 3/52
+     1 | D:1      | Reached XP level 22. HP: 212/212 MP: 3/53
+     1 | D:1      | Reached XP level 23. HP: 219/219 MP: 3/54
+     1 | D:1      | Reached XP level 24. HP: 227/227 MP: 3/54
+     1 | D:1      | Reached XP level 25. HP: 234/234 MP: 3/54
+     1 | D:1      | Reached XP level 26. HP: 242/242 MP: 3/54
+     1 | D:1      | Reached XP level 27. HP: 249/249 MP: 3/54
+     7 | D:1      | Learned a level 5 spell: Blade Hands
+     7 | Hell     | Entered the Vestibule of Hell
+     7 | Hell     | Noticed Geryon
+     8 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     8 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     8 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     8 | Hell     | Found a gateway to the Iron City of Dis.
+    14 | Hell     | HP: 10/249 [red devil/+2 demon trident of electrocution[a
+                  | balrug] (20)]
+    16 | Hell     | Demolished by a skeletal warrior
+                  | ... wielding a +0 trident
+                  | ... led by a skeletal warrior
+                  | (23 damage)
+    26 | Hell     | Slain by a catoblepas skeleton (18 damage)
+                  | ... led by a necromancer
+    35 | Hell     | Demolished by a reaper
+                  | ... wielding a +3 scythe of distortion
+                  | (36 damage)
+    46 | Hell     | HP: 3/249 [skeletal warrior/+0 halberd[a skeletal warrior]
+                  | (19)]
+    47 | Hell     | Mangled by a red devil
+                  | ... wielding a +2 demon trident of
+                  | electrocution
+                  | ... led by a balrug
+                  | (13 damage)
+    55 | Hell     | HP: 12/249 [reaper/+1 vampiric scythe (4)]
+    55 | Hell     | HP: 3/249 [skeletal warrior/+0 halberd[a skeletal warrior]
+                  | (9)]
+    55 | Hell     | Annihilated by a reaper
+                  | ... wielding a +2 vampiric scythe
+                  | (41 damage)
+    59 | Hell     | Demolished by a hell knight
+                  | ... wielding a +2 demon trident of draining
+                  | (23 damage)
+    62 | Hell     | HP: 5/249 [reaper/+2 scythe (14)]
+    63 | Hell     | Demolished by a hell knight
+                  | ... wielding a +3 demon trident of draining
+                  | (19 damage)
+    67 | Hell     | Mangled by a reaper
+                  | ... wielding a +3 scythe of distortion
+                  | (25 damage)
+    69 | Hell     | Killed Geryon
+    71 | Hell     | Killed from afar by a balrug (49 damage)
+                  | ... with a bolt of fire
+    75 | Hell     | HP: 11/249 [skeletal warrior/+0 long sword (10)]
+    76 | Hell     | HP: 3/249 [burnt (8)]
+    76 | Hell     | Succumbed to a red devil's poison
+    84 | Hell     | HP: 12/249 [reaper/+3 scythe of flaming (3)]
+    84 | Hell     | Mangled by a skeletal warrior
+                  | ... wielding a +2 mace of crushing
+                  | ... led by a skeletal warrior
+                  | (20 damage)
+    88 | Hell     | HP: 3/249 [shadow dragon (19)]
+    89 | Hell     | Succumbed to a red devil's poison
+   122 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+   167 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+   299 | Hell     | Found a gateway to the ashen valley of Gehenna.
+   432 | Hell     | Found a gateway to the Iron City of Dis.
+   483 | Hell     | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |   432 ||   432
+       Punch             |       |       |       |       |       |       |       |       |    23 ||    23
+ Cast: Blade Hands       |       |       |       |       |       |       |       |       |     4 ||     4
+Invok: Whirlwind         |       |       |       |       |       |       |       |       |   174 ||   174
+       Lunge             |       |       |       |       |       |       |       |       |    30 ||    30
+       Heavenly Storm    |       |       |       |       |       |       |       |       |     2 ||     2
+ Stab: Sleeping          |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Robe              |       |       |       |       |       |       |       |       |    22 ||    22
+Dodge: Dodged            |       |       |       |       |       |       |       |       |   418 ||   418
+

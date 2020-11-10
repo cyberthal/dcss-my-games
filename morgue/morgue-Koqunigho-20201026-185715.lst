@@ -1,0 +1,604 @@
+Koqunigho
+
+the Dungeon
+(0, 0, D)
+  27 gold pieces
+(1, 0, D)
+  27 gold pieces
+(6, -5, D)
+  27 gold pieces
+(7, -5, D)
+  27 gold pieces
+(9, -5, D)
+  27 gold pieces
+(9, -4, D)
+  27 gold pieces
+(9, 5, D)
+  27 gold pieces
+(9, 6, D)
+  27 gold pieces
+(9, 7, D)
+  27 gold pieces
+(10, -5, D)
+  27 gold pieces
+(10, -4, D)
+  27 gold pieces
+(10, 2, D)
+  27 gold pieces
+(10, 3, D)
+  27 gold pieces
+(10, 6, D)
+  a potion of curing
+(10, 7, D)
+  a scroll of enchant armour
+(10, 9, D)
+  a +2 robe of cold resistance
+(10, 10, D)
+  a potion of curing
+(11, -5, D)
+  27 gold pieces
+(11, 6, D)
+  27 gold pieces
+(11, 7, D)
+  9 gold pieces
+(11, 9, D)
+  a wand of random effects (23)
+(11, 10, D)
+  +0 steam dragon scales
+(12, -8, D)
+  27 gold pieces
+(12, -7, D)
+  27 gold pieces
+(12, 2, D)
+  27 gold pieces
+(12, 3, D)
+  27 gold pieces
+(12, 6, D)
+  a potion of curing
+(12, 7, D)
+  16 stones
+(12, 9, D)
+  a ration
+(12, 10, D)
+  13 arrows
+(13, -8, D)
+  27 gold pieces
+(13, -7, D)
+  27 gold pieces
+(13, -5, D)
+  a +0 short sword
+(13, -4, D)
+  a scroll of identify
+(13, 0, D)
+  25 arrows
+(13, 5, D)
+  27 gold pieces
+(13, 6, D)
+  27 gold pieces
+(13, 7, D)
+  27 gold pieces
+(13, 9, D)
+  a potion of invisibility
+(14, 2, D)
+  27 gold pieces
+(15, 0, D)
+  a scroll of magic mapping
+(15, 2, D)
+  27 gold pieces
+(16, 0, D)
+  18 gold pieces
+(17, 0, D)
+  a +0 dagger
+(17, 2, D)
+  27 gold pieces
+(18, -8, D)
+  27 gold pieces
+(18, -7, D)
+  27 gold pieces
+(18, -5, D)
+  a scroll of identify
+(18, 0, D)
+  a wand of flame (6)
+(18, 2, D)
+  27 gold pieces
+(19, -8, D)
+  27 gold pieces
+(19, -7, D)
+  27 gold pieces
+(19, -5, D)
+  a potion of lignification
+(20, 1, D)
+  a scroll of remove curse
+(20, 2, D)
+  18 poisoned needles
+(21, -4, D)
+  27 gold pieces
+(21, -2, D)
+  27 gold pieces
+(22, -4, D)
+  27 gold pieces
+(22, -2, D)
+  27 gold pieces
+(24, 0, D)
+  27 gold pieces
+(24, 1, D)
+  27 gold pieces
+(24, 3, D)
+  27 gold pieces
+(24, 5, D)
+  27 gold pieces
+(24, 10, D)
+  a wand of flame (21)
+(24, 11, D)
+  a +0 leather armour
+(24, 12, D)
+  19 stones
+(24, 13, D)
+  27 gold pieces
+(25, -8, D)
+  a ration
+(25, 10, D)
+  a +0 club
+(25, 11, D)
+  a +0 ring mail
+(25, 13, D)
+  27 gold pieces
+(26, -8, D)
+  a scarf of resistance
+(26, 6, D)
+  the +2 hat of Tender Moments {*Slow +Blink +Fly rC++}
+    It greatly protects you from cold.
+    It lets you fly.
+    It lets you blink.
+    It may slow you when you take damage.
+(26, 8, D)
+  a +0 spear
+(26, 9, D)
+  a ration
+(26, 10, D)
+  19 stones
+(26, 13, D)
+  27 gold pieces
+(26, 17, D)
+  the Orb of Zot
+(27, 4, D)
+  17 gold pieces
+(27, 6, D)
+  17 gold pieces
+(27, 8, D)
+  a +0 whip
+(27, 13, D)
+  27 gold pieces
+(28, -7, D)
+  27 gold pieces
+(28, -6, D)
+  27 gold pieces
+(28, -5, D)
+  27 gold pieces
+(28, 8, D)
+  2 potions of curing
+(28, 13, D)
+  27 gold pieces
+(29, -8, D)
+  27 gold pieces
+(29, 3, D)
+  27 gold pieces
+(29, 4, D)
+  27 gold pieces
+(29, 5, D)
+  27 gold pieces
+(29, 6, D)
+  27 gold pieces
+(30, -8, D)
+  27 gold pieces
+(30, -6, D)
+  a +0 ring mail
+(30, 3, D)
+  27 gold pieces
+(30, 4, D)
+  27 gold pieces
+(30, 5, D)
+  27 gold pieces
+(30, 6, D)
+  27 gold pieces
+(30, 7, D)
+  27 gold pieces
+(31, 4, D)
+  27 gold pieces
+(31, 5, D)
+  27 gold pieces
+(31, 6, D)
+  27 gold pieces
+(31, 7, D)
+  27 gold pieces
+(32, -5, D)
+  27 gold pieces
+(32, -4, D)
+  27 gold pieces
+(32, -3, D)
+  27 gold pieces
+(32, -2, D)
+  27 gold pieces
+(32, 2, D)
+  27 gold pieces
+(32, 3, D)
+  a potion of haste
+(32, 4, D)
+  27 gold pieces
+(32, 5, D)
+  27 gold pieces
+(32, 6, D)
+  27 gold pieces
+(32, 7, D)
+  27 gold pieces
+(33, -2, D)
+  27 gold pieces
+(33, 2, D)
+  27 gold pieces
+(33, 3, D)
+  27 gold pieces
+(33, 4, D)
+  27 gold pieces
+(33, 5, D)
+  27 gold pieces
+(33, 6, D)
+  27 gold pieces
+(34, -2, D)
+  27 gold pieces
+(34, 4, D)
+  27 gold pieces
+(34, 5, D)
+  27 gold pieces
+(34, 6, D)
+  27 gold pieces
+(35, 3, D)
+  27 gold pieces
+(35, 4, D)
+  27 gold pieces
+(35, 5, D)
+  27 gold pieces
+(36, 4, D)
+  27 gold pieces
+(36, 5, D)
+  27 gold pieces
+(37, 4, D)
+  27 gold pieces
+(37, 5, D)
+  27 gold pieces
+(38, -5, D)
+  an uncursed staff of poison
+(39, -5, D)
+  a scroll of identify
+(39, -4, D)
+  27 gold pieces
+(40, -7, D)
+  27 gold pieces
+(40, -5, D)
+  15 gold pieces
+(40, -4, D)
+  27 gold pieces
+(41, -8, D)
+  27 gold pieces
+(41, -4, D)
+  27 gold pieces
+(41, -3, D)
+  27 gold pieces
+(41, -2, D)
+  27 gold pieces
+(41, -1, D)
+  27 gold pieces
+(41, 0, D)
+  27 gold pieces
+(41, 11, D)
+  27 gold pieces
+(41, 12, D)
+  27 gold pieces
+(41, 13, D)
+  27 gold pieces
+(41, 14, D)
+  27 gold pieces
+(41, 16, D)
+  a lamp of fire
+(41, 17, D)
+  a +2 battleaxe of electrocution
+(42, 11, D)
+  27 gold pieces
+(42, 12, D)
+  27 gold pieces
+(42, 13, D)
+  27 gold pieces
+(42, 14, D)
+  27 gold pieces
+(42, 16, D)
+  a Grand Grimoire
+(42, 17, D)
+  a book of Misfortune
+(43, 12, D)
+  27 gold pieces
+(43, 13, D)
+  27 gold pieces
+(43, 14, D)
+  27 gold pieces
+(44, 13, D)
+  27 gold pieces
+(44, 14, D)
+  27 gold pieces
+(44, 16, D)
+  a +2 robe of magic resistance
+(44, 17, D)
+  the cursed +1 quarterstaff of Fuid {flame, rElec SInv}
+    It has been specially enchanted to burn those struck by it, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It insulates you from electricity.
+    It lets you see invisible.
+    It has a curse placed upon it.
+(45, 16, D)
+  a sack of spiders
+(45, 17, D)
+  a cursed staff of conjuration
+(46, -8, D)
+  27 gold pieces
+(46, -7, D)
+  27 gold pieces
+(46, -6, D)
+  27 gold pieces
+(46, -5, D)
+  27 gold pieces
+(47, -8, D)
+  27 gold pieces
+(47, -7, D)
+  27 gold pieces
+(47, -6, D)
+  27 gold pieces
+(47, -5, D)
+  27 gold pieces
+(47, -4, D)
+  27 gold pieces
+(47, -2, D)
+  a book of Alchemy
+(47, 6, D)
+  27 gold pieces
+(47, 16, D)
+  27 gold pieces
+(47, 17, D)
+  27 gold pieces
+(48, -8, D)
+  27 gold pieces
+(48, -7, D)
+  27 gold pieces
+(48, -6, D)
+  a potion of mutation
+(48, -5, D)
+  27 gold pieces
+(48, -4, D)
+  27 gold pieces
+(48, 6, D)
+  27 gold pieces
+(48, 7, D)
+  27 gold pieces
+(48, 16, D)
+  27 gold pieces
+(48, 17, D)
+  27 gold pieces
+(49, -8, D)
+  27 gold pieces
+(49, -7, D)
+  27 gold pieces
+(49, -6, D)
+  27 gold pieces
+(49, -5, D)
+  27 gold pieces
+(49, -4, D)
+  27 gold pieces
+(49, -2, D)
+  a scroll of amnesia
+(49, 6, D)
+  27 gold pieces
+(49, 7, D)
+  27 gold pieces
+(49, 8, D)
+  a +0 scale mail
+(49, 17, D)
+  27 gold pieces
+(50, -6, D)
+  27 gold pieces
+(50, -5, D)
+  27 gold pieces
+(50, -4, D)
+  27 gold pieces
+(50, 6, D)
+  27 gold pieces
+(50, 7, D)
+  27 gold pieces
+(50, 8, D)
+  a +0 scale mail
+(50, 17, D)
+  27 gold pieces
+(51, -8, D)
+  a book of Burglary
+(51, 4, D)
+  a +4 vampiric war axe
+(51, 6, D)
+  27 gold pieces
+(51, 7, D)
+  27 gold pieces
+(51, 8, D)
+  12 gold pieces
+(51, 17, D)
+  27 gold pieces
+(52, -8, D)
+  the cursed +1 great mace of Karma {venom, rC++ Str-3}
+    It poisons the flesh of those it strikes.
+    
+    It affects your strength (-3).
+    It greatly protects you from cold.
+    It has a curse placed upon it.
+(52, -7, D)
+  a +3 dagger of venom
+(52, -5, D)
+  27 gold pieces
+(52, -4, D)
+  a scroll of remove curse
+(52, -3, D)
+  27 gold pieces
+(52, 3, D)
+  an uncursed ring of resist corrosion
+(52, 6, D)
+  27 gold pieces
+(52, 7, D)
+  27 gold pieces
+(52, 8, D)
+  a scroll of remove curse
+(52, 17, D)
+  27 gold pieces
+(53, -8, D)
+  the +11 great sword of Karma {slice, rF- Str+5}
+    It inflicts extra damage upon your enemies.
+    
+    It affects your strength (+5).
+    It makes you vulnerable to fire.
+(53, -7, D)
+  an uncursed staff of death
+(53, -5, D)
+  27 gold pieces
+(53, -3, D)
+  27 gold pieces
+(53, 6, D)
+  27 gold pieces
+(53, 7, D)
+  27 gold pieces
+(53, 8, D)
+  a scroll of enchant armour
+(53, 17, D)
+  27 gold pieces
+(54, -8, D)
+  27 gold pieces
+(54, -7, D)
+  27 gold pieces
+(54, -5, D)
+  27 gold pieces
+(54, -4, D)
+  a +2 short sword of protection
+(54, -3, D)
+  27 gold pieces
+(54, 6, D)
+  27 gold pieces
+(54, 7, D)
+  27 gold pieces
+(54, 8, D)
+  a +1 trident of flaming
+(54, 17, D)
+  27 gold pieces
+(55, -8, D)
+  27 gold pieces
+(55, -7, D)
+  27 gold pieces
+(55, 6, D)
+  27 gold pieces
+(55, 7, D)
+  27 gold pieces
+(56, -8, D)
+  27 gold pieces
+(56, -7, D)
+  27 gold pieces
+(56, -6, D)
+  27 gold pieces
+(56, -5, D)
+  27 gold pieces
+(56, -4, D)
+  27 gold pieces
+(56, -3, D)
+  27 gold pieces
+(56, -2, D)
+  27 gold pieces
+(56, 6, D)
+  27 gold pieces
+(57, -8, D)
+  27 gold pieces
+(57, -7, D)
+  27 gold pieces
+(57, -6, D)
+  27 gold pieces
+(57, -5, D)
+  27 gold pieces
+(57, -4, D)
+  27 gold pieces
+(57, -3, D)
+  27 gold pieces
+(57, -2, D)
+  27 gold pieces
+(57, -1, D)
+  27 gold pieces
+(57, 8, D)
+  27 gold pieces
+(58, -8, D)
+  27 gold pieces
+(58, -7, D)
+  27 gold pieces
+(58, -6, D)
+  27 gold pieces
+(58, -5, D)
+  27 gold pieces
+(58, -4, D)
+  27 gold pieces
+(58, -3, D)
+  27 gold pieces
+(58, -2, D)
+  27 gold pieces
+(58, -1, D)
+  27 gold pieces
+(58, 0, D)
+  27 gold pieces
+(58, 1, D)
+  27 gold pieces
+(58, 6, D)
+  27 gold pieces
+(58, 7, D)
+  27 gold pieces
+(58, 8, D)
+  27 gold pieces
+(58, 9, D)
+  27 gold pieces
+(59, -8, D)
+  27 gold pieces
+(59, -7, D)
+  27 gold pieces
+(59, -6, D)
+  27 gold pieces
+(59, -5, D)
+  27 gold pieces
+(59, -4, D)
+  27 gold pieces
+(59, -3, D)
+  27 gold pieces
+(59, -2, D)
+  27 gold pieces
+(59, -1, D)
+  27 gold pieces
+(59, 0, D)
+  27 gold pieces
+(59, 1, D)
+  27 gold pieces
+(59, 2, D)
+  27 gold pieces
+(59, 3, D)
+  a +0 club
+(59, 4, D)
+  27 gold pieces
+(59, 5, D)
+  27 gold pieces
+(59, 6, D)
+  27 gold pieces
+(59, 7, D)
+  27 gold pieces
+(59, 8, D)
+  27 gold pieces
+(59, 9, D)
+  27 gold pieces
+(59, 10, D)
+  27 gold pieces
+(59, 11, D)
+  27 gold pieces
+

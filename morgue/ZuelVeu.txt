@@ -1,0 +1,329 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10660994836971627936
+
+Zuel Veu the Nimble (Felid Conjurer)               Turns: 13997, Time: 01:36:46
+
+Health: 33/33      AC:  5    Str:  4    XL:     8   Next: 60%
+Magic:  15/15      EV: 24    Int: 18    God:    Kikubaaqudgha [......]
+Gold:   323        SH:  0    Dex: 17    Spells: 1/15 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   +   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             e - amulet of guardian spirit
+HPRegen  0.11/turn              f - +3 ring of protection
+MPRegen  0.14/turn              s - ring of wizardry
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, sense surroundings 1, shaggy fur 2, slow
+metabolism 1, sharp paws
+a: Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is noncommittal.
+You are completely stuffed.
+
+You have visited 2 branches of the dungeon, and seen 7 of its levels.
+
+You have collected 323 gold pieces.
+
+Inventory:
+
+Jewellery
+ e - an amulet of guardian spirit (around neck)
+ f - a +3 ring of protection (left paw)
+ s - a ring of wizardry (right paw)
+Scrolls
+ g - 3 scrolls of remove curse
+ h - 2 scrolls of immolation
+ i - a scroll of amnesia
+ n - 2 scrolls of teleportation
+ q - a scroll labeled VOIKLU UWOR
+ u - 2 scrolls labeled NICSE BO ZENI
+Potions
+ a - a potion of ambrosia
+ c - 3 potions of heal wounds
+ d - a potion of brilliance
+ j - a potion of resistance
+ k - a lumpy brown potion
+ l - a potion of curing
+ m - a glowing inky potion
+ o - a fizzy orange potion
+ p - a potion of mutation
+ r - a bubbling grey potion
+Comestibles
+ b - 11 rations
+ t - 2 chunks of flesh
+
+
+   Skills:
+ - Level 2.0 Fighting
+ * Level 8.9 Dodging
+ - Level 5.0 Stealth
+ + Level 4.8 Unarmed Combat
+ - Level 4.2 Spellcasting
+ - Level 4.0 Conjurations
+ - Level 5.3 Hexes
+
+
+You have one spell level left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ###.         1%          1    None
+b - Searing Ray           Conj           ###...       1%          2    ##.....
+c - Dazzling Spray        Conj/Hex       ###...       2%          3    ###....
+d - Fulminant Prism       Conj/Hex       ###.......   9%          4    ####...
+e - Iskenderun's Mystic   Conj           ###.....     12%         4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Force Lance              Conj/Tloc      ##......     26%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:6         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Kikubaaqudgha
+Makhleb
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+The Shining One
+
+Annotations:
+D:5 exclusion: hound, Blork the orc
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in thick fur. (AC +2)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+You passively map a small area around you.
+
+
+Message History
+
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Okay, then.
+Unknown command.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Things that are here:
+a +0 leather armour; a +2 flail of crushing; an orc skeleton
+Things that are here:
+a +0 ring mail; a +0 hand axe
+Things that are here:
+a +0 leather armour; a +0 club; an orc skeleton
+You see here a +0 leather armour.
+There is a stone staircase leading up, spattered with blood here.
+There is a stone staircase leading down here.
+Saving game... please wait.
+Welcome back, Zuel Veu the Felid Conjurer.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+#(#     #.###....#.......#..[.## ##.
+#.#     #.........)#.8.#...###.###.#
+#.#     ######.###..............#...
+#.#          #.# ##.#.#.######...###
+#.#          #.#  #.....#    #..##
+#.#          #.#  #..#.##    #..#
+#.#          #.#  #....#######..####
+#.########   #.#  #.##..#...........
+#........#   #.#  #.###....###..###.
+########.#   #.#  #.###......#..# #.
+       #.#   #.#  ##............# #.
+       #.#   #.#######.......#.####.
+       #.#   #.@....#..........###..
+       #)##########.#........#......
+       #.....................#.###..
+       ############............# ##n
+                  #######.######  #.
+                        #.#########.
+                        #...........
+                        ############
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:3)
+  2 ice beasts
+  A necrophage (D:6)
+  A centaur (D:6)
+  A bullfrog (D:6)
+  2 scorpions
+  2 howler monkeys
+  A crimson imp (D:5)
+  2 hounds
+  2 orc priests
+  3 bullfrog skeletons
+  4 jellies
+  Crazy Yiuf (D:3)
+  An orc wizard (D:5)
+  An iguana (D:5)
+  Natasha (thrice) (D:3)
+  3 worker ants
+  A killer bee zombie (D:6)
+  3 gnolls (D:5)
+  7 adders
+  An adder skeleton (D:5)
+  4 worms
+  4 dart slugs (D:1)
+  4 leopard geckos
+  16 orcs
+  8 bats
+  5 giant cockroaches
+  9 goblins
+  8 hobgoblins
+  4 jackals
+  6 kobolds
+  2 quokkas
+  A ball python (D:1)
+  5 frilled lizards
+  A jackal skeleton (D:4)
+  2 leopard gecko skeletons (D:5)
+  5 rats
+127 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 fulminant prisms
+3 creatures vanquished.
+
+Grand Total: 130 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zuel Veu the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   441 | D:1      | Reached skill level 1 in Fighting
+   653 | D:1      | Reached skill level 1 in Unarmed Combat
+   653 | D:1      | Reached XP level 2. HP: 12/12 MP: 1/6
+   677 | D:1      | Learned a level 2 spell: Searing Ray
+  1674 | D:1      | Reached XP level 3. HP: 15/15 MP: 5/7
+  2371 | D:1      | Learned a level 3 spell: Dazzling Spray
+  2635 | D:2      | Reached skill level 1 in Hexes
+  2731 | D:2      | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  2731 | D:2      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  2731 | D:2      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [potion of mutation]
+  2732 | D:2      | Lost mutation: You are covered in thick fur. (AC +2)
+                  | [potion of mutation]
+  2732 | D:2      | Lost mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  2732 | D:2      | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  2732 | D:2      | Gained mutation: You passively map a small area around you.
+                  | [potion of mutation]
+  3816 | D:3      | Found a burning altar of Makhleb.
+  3816 | D:3      | Found a blossoming altar of Fedhas.
+  3816 | D:3      | Noticed Natasha
+  3912 | D:3      | Reached XP level 4. HP: 19/19 MP: 6/8
+  4075 | D:3      | Noticed Grinder
+  4078 | D:3      | Paralysed by Grinder for 6 turns
+  4229 | D:3      | Paralysed by Grinder for 5 turns
+  4503 | D:3      | Killed Natasha
+  4611 | D:3      | Reached skill level 3 in Dodging
+  4798 | D:3      | Reached XP level 5. HP: 8/22 MP: 1/10
+  5330 | D:3      | Found a runed translucent door.
+  5331 | D:3      | Noticed Crazy Yiuf
+  5338 | D:3      | Killed Crazy Yiuf
+  5476 | D:3      | Noticed Natasha
+  5488 | D:3      | Killed Natasha
+  5496 | D:2      | Learned a level 4 spell: Fulminant Prism
+  5683 | D:3      | Found a sacrificial altar of Ru.
+  5781 | D:3      | Noticed Natasha
+  6064 | D:3      | Killed Natasha
+  6064 | D:3      | Reached skill level 4 in Dodging
+  6384 | D:3      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+  6384 | D:3      | Reached XP level 6. HP: 25/25 MP: 7/11
+  7070 | D:4      | Reached skill level 5 in Dodging
+  7801 | D:4      | Found a shimmering altar of Xom.
+  8796 | D:3      | Paralysed by Grinder for 3 turns
+  8811 | D:3      | Killed Grinder
+  8811 | D:3      | Reached skill level 6 in Dodging
+  8811 | D:3      | Reached skill level 5 in Hexes
+  8811 | D:3      | Reached XP level 7. HP: 28/28 MP: 5/12
+  8907 | D:5      | Entered Level 5 of the Dungeon
+  8939 | D:5      | Noticed Blork the orc
+  9243 | D:5      | Reached skill level 7 in Dodging
+ 10070 | D:5      | Found a glowing golden altar of the Shining One.
+ 10070 | D:5      | Found a shadowy altar of Dithmenos.
+ 10876 | D:5      | Reached XP level 8. HP: 33/33 MP: 3/13
+ 11489 | D:5      | Found a stormy altar of Qazlal.
+ 11610 | D:6      | Reached skill level 8 in Dodging
+ 11633 | D:6      | Found a staircase to the Ecumenical Temple.
+ 11644 | Temple   | Entered the Ecumenical Temple
+ 11768 | Temple   | Became a worshipper of Kikubaaqudgha
+ 12427 | D:6      | Reached skill level 5 in Stealth
+ 12462 | D:6      | Learned a level 4 spell: Iskenderun's Mystic Blast
+ 13395 | D:6      | Found a white marble altar of Elyvilon.
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Fighting       |  1                 2    |  2.0
+Unarmed Combat |  1  2     3        4    |  4.8
+Stealth        |     3              4  5 |  5.0
+Hexes          |        1  2  3  5       |  5.3
+Dodging        |           3  4  6  7  8 |  8.9
+Spellcasting   |              3        4 |  4.2
+Conjurations   |                    4    |  4.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    16 |   109 |    61 ||   186
+       Bite              |     1 |     7 |     4 ||    12
+       Punch             |       |       |     1 ||     1
+ Cast: Magic Dart        |    45 |    70 |    66 ||   181
+       Searing Ray       |    16 |     6 |    12 ||    34
+       Dazzling Spray    |       |    32 |    25 ||    57
+       Fulminant Prism   |       |       |     3 ||     3
+       Iskenderun's Myst |       |       |     7 ||     7
+  Use: Scroll            |     5 |     2 |     7 ||    14
+       Potion            |     2 |     3 |       ||     5
+ Stab: Sleeping          |     1 |     1 |     3 ||     5
+       Invisible         |       |     3 |     3 ||     6
+  Eat: Chunk             |    13 |    13 |    15 ||    41
+Armor: Skin              |       |    31 |     5 ||    36
+Dodge: Dodged            |    15 |    73 |    72 ||   160
+

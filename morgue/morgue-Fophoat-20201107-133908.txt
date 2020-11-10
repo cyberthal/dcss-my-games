@@ -1,0 +1,109 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17556969736877455900
+
+0 Fophoat the Magician (level 1, 10/10 HPs)
+             Began as a Deep Elf Wizard on Nov 7, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:31 (0 turns).
+
+Fophoat the Magician (Deep Elf Wizard)                 Turns: 0, Time: 00:00:32
+
+Health: 10/10      AC:  2    Str:  4    XL:     1   Next: 0%
+Magic:  7/7        EV: 13    Int: 22    God:    
+Gold:   0          SH:  0    Dex: 13    Spells: 7/8 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ + Level 2.4 Dodging
+ + Level 2.4 Stealth
+ + Level 4.4 Spellcasting
+ + Level 1.1 Conjurations
+   Level 1.1 Summonings
+   Level 1.1 Translocations
+
+
+You had 7 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           #...         7%          1    None
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          11%         2    #......
+ Call Imp                 Summ           #.......     11%         2    #......
+ Slow                     Hex            #.......     16%         2    #......
+ Conjure Flame            Conj/Fire      #.......     26%         3    ##.....
+ Mephitic Cloud           Conj/Pois/Air  #.......     28%         3    ##.....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Welcome, Fophoat the Deep Elf Wizard.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found 11 gold pieces, a sedimented orange potion and a scroll labeled
+NUUFORYLEU.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ####
+ #$@#
+#....#
+#....#
+##..##
+ #..#
+ #?!#
+ #..#
+ #...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Fophoat the Deep Elf Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 7/7
+     0 | D:1      | Quit the game
+

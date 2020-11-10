@@ -1,0 +1,81 @@
+Gutygihu
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(6, -10, D:1)
+  a +0 dagger
+(8, -11, D:1)
+  a +0 club
+(18, 7, D:1)
+  a +0 whip
+(19, -16, D:1)
+  a cursed -3 short sword
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 dagger
+(7, -24, D:2)
+  a +0 whip
+(15, -30, D:2)
+  a +0 dagger
+(21, -26, D:2)
+  a +0 dagger
+(22, -13, D:2)
+  a +0 dagger
+(49, -41, D:2)
+  a +0 hand axe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(26, 5, D:3)
+  a +0 dagger
+(34, 11, D:3)
+  a +0 mace
+(37, -4, D:3)
+  a +0 club
+(39, -18, D:3)
+  a +0 club
+  a +0 scale mail
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 2, D:4)
+  20 stones
+(4, -10, D:4)
+  13 gold pieces
+(5, -10, D:4)
+  a stone
+(6, -10, D:4)
+  a stone (still there?)
+  10 gold pieces (still there?)
+(6, 3, D:4)
+  a +0 scale mail
+(7, 16, D:4)
+  a scroll of remove curse
+(8, -9, D:4)
+  a stone
+(8, 8, D:4)
+  a scroll of remove curse
+(9, 3, D:4)
+  a stone
+(10, 6, D:4)
+  10 stones
+(14, -3, D:4)
+  15 gold pieces
+
+a sewer
+(0, 0, Sewer)
+  a +0 short sword
+(3, -15, Sewer)
+  a +0 short sword
+(4, -3, Sewer)
+  a +0 whip
+  a kobold skeleton
+  a kobold skeleton
+(27, -11, Sewer)
+  a +0 short sword
+(34, 5, Sewer)
+  a cursed -2 short sword
+

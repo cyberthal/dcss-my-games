@@ -1,0 +1,242 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18041964364587987097
+
+100 Usyuti the Skirmisher (level 4, 15/48 HPs) *WIZ*
+             Began as an Ogre Necromancer on Sept 10, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:20:41 (2940 turns).
+
+Usyuti the Skirmisher (Ogre Necromancer)            Turns: 2940, Time: 00:20:42
+
+Health: 15/48      AC:  3    Str: 12    XL:     4   Next: 73%
+Magic:  2/7        EV: 10    Int: 17    God:    
+Gold:   61         SH:  0    Dex:  9    Spells: 2/7 levels left
+
+rFire    . . .     SeeInvis .   a - +0 whip
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   n - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.16/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: mildly poisoned (15 -> 14)
+A: large, unfitting armour, tough skin 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very hungry.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 61 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 whip (weapon)
+ b - a +0 dagger
+ e - a +0 mace
+ q - a +0 hunting sling
+ u - a +2 dagger of venom
+ v - a +0 short sword
+Missiles
+ h - 8 javelins
+ m - 47 stones (quivered)
+Armour
+ n - a +0 robe (worn)
+Jewellery
+ i - an uncursed ring of protection from magic {unknown}
+Scrolls
+ g - a scroll of enchant armour {unknown}
+ j - a scroll of identify {unknown}
+ r - a scroll of teleportation {unknown}
+ t - a scroll of immolation {unknown}
+Potions
+ d - a potion of mutation {unknown}
+ f - a potion of curing
+ k - a potion of brilliance {unknown}
+ l - a potion of degeneration {unknown}
+ o - a potion of flight
+ p - a potion of lignification {unknown}
+ s - a potion of cancellation {unknown}
+Comestibles
+ c - 3 rations
+
+
+   Skills:
+ + Level 4.1 Fighting
+ - Level 1.3 Short Blades
+ - Level 1.0 Maces & Flails
+ - Level 1.1 Throwing
+ - Level 1.7 Dodging
+ - Level 1.4 Stealth
+ - Level 2.4 Spellcasting
+ - Level 3.6 Necromancy
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           ##..         4%          1    #......
+b - Animate Skeleton      Necr           N/A          4%          1    #......
+c - Vampiric Draining     Necr           ##........   13%         3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Regeneration             Chrm/Necr      #.........   26%         3    ###....
+ Animate Dead             Necr           N/A          38%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Dithmenos
+
+Annotations:
+D:2 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+Autopickup is now on.
+You feel sick.
+Things that are here:
+a +2 dagger of venom; a +0 robe
+u - a +2 dagger of venom
+You feel sick.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+You feel sick.
+There is a stone staircase leading up here.
+You climb upwards. You feel sick.
+There is a stone staircase leading down here.
+Enter note: stupidly redzoned vs d3 orc with venom dagger.  sigmund patrolling
+d2.  sigh.
+Enter note: restarting due to error.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.......ZZ.......#         ##############
+###########.##..#       ###.......Z....#
+###########.##..#       #....#########.#
+.............#..#       #............#.#
+######...#####..#       #..............#
+.....+...'......#   #####....#######.###
+##...#...######+#####..............Z.#
+.'...'.###...#.....##.........########
+##...#.###.#.#.....##.........#
+######.....#.#.....##.........#
+.....#.....#.##...............#
+.....#.....#..............#.###############
+.....#........######....#.#.......Z.......#
+......................@.#.###############.#
+##.###....#...##........#.#######       #.#
+.#.###.####...##.....##.........#       #.#
+.#...........###.....##.........#       #.#
+.............# #.....##.........#       #Z#
+#............# #.....####'###########   #.#
+#............# #.....#  #.#.........#   #.#
+#............###.....#  #.#.........#   #.#
+##.............#.....#  #...........#   #.#
+##.............####### #####'########   #.#
+##.###.#####...####    #.........#      #.#
+##.# #.##.........#    #.........#      #.#
+##Z###.##....####.##   #.........########.#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 orc wizards (D:2)
+  An adder (D:2)
+  3 leopard geckos
+  4 orcs
+  A giant cockroach (D:1)
+  2 goblins
+  5 hobgoblins
+  6 bats
+  2 frilled lizards
+  A kobold (D:2)
+  4 rats (D:1)
+31 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hobgoblin (D:1)
+1 creature vanquished.
+
+Grand Total: 32 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Usyuti the Ogre Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 16/16 MP: 3/3
+   127 | D:1      | Learned a level 1 spell: Animate Skeleton
+   747 | D:1      | Reached skill level 1 in Fighting
+   969 | D:1      | Reached skill level 1 in Throwing
+   972 | D:1      | Reached XP level 2. HP: 27/27 MP: 1/5
+  1268 | D:1      | Reached skill level 2 in Fighting
+  1445 | D:2      | Noticed Sigmund
+  1674 | D:2      | Reached skill level 1 in Short Blades
+  1674 | D:2      | Reached XP level 3. HP: 33/35 MP: 2/6
+  1717 | D:1      | Learned a level 3 spell: Vampiric Draining
+  2015 | D:2      | Found a shadowy altar of Dithmenos.
+  2460 | D:2      | Reached skill level 3 in Fighting
+  2460 | D:2      | Reached skill level 1 in Maces & Flails
+  2460 | D:2      | Reached XP level 4. HP: 19/45 MP: 0/7
+  2660 | D:2      | Entered wizard mode.
+  2925 | D:2      | Reached skill level 4 in Fighting
+  2940 | D:1      | stupidly redzoned vs d3 orc with venom dagger.  sigmund
+                  | patrolling d2.  sigh.
+  2940 | D:1      | restarting due to error.
+  2940 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  1  2  3  4 |  4.1
+Throwing       |  1          |  1.1
+Short Blades   |     1       |  1.3
+Maces & Flails |        1    |  1.0
+Dodging        |             |  1.7
+Stealth        |             |  1.4
+Spellcasting   |             |  2.4
+Necromancy     |             |  3.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    15 |       ||    15
+       Dagger            |    11 |       ||    11
+       Whip              |     9 |  4002 ||  4011
+       Short sword       |       |  4000 ||  4000
+Throw: Stone             |    28 |     2 ||    30
+       Javelin           |     1 |       ||     1
+ Cast: Pain              |    56 |    15 ||    71
+       Animate Skeleton  |    14 |     1 ||    15
+       Vampiric Draining |     1 |       ||     1
+  Use: Potion            |     2 |       ||     2
+  Eat: Chunk             |     5 |     1 ||     6
+Armor: Robe              |    16 |   434 ||   450
+Dodge: Dodged            |    23 |  3392 ||  3415
+

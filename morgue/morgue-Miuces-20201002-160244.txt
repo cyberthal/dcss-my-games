@@ -1,0 +1,217 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13064928863689771222
+
+526951 Miuces the Intangible (level 27, 174/174 HPs) *WIZ*
+             Began as a Vine Stalker Summoner on Oct 2, 2020.
+             Quit the game in the Vestibule of Hell.
+             The game lasted 00:03:54 (263 turns).
+
+Miuces the Intangible (Vine Stalker Summoner)        Turns: 263, Time: 00:03:55
+
+Health: 174/174    AC:  4    Str: 10    XL:     27
+Magic:  55/55      EV: 31    Int: 15    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +++..                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  1.19/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: no status effects
+A: fangs 3, regeneration 2, magic shield, antimagic bite, no potion heal 3, rot
+immunity
+a: no special abilities
+
+
+You were in the Vestibule of Hell.
+You were very full.
+
+You visited 4 branches of the dungeon, and saw 4 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           79 (100)     0%          2    0
+ Call Canine Familiar     Summ           79 (100)     0%          3    0
+ Summon Guardian Golem    Hex/Summ       79 (100)     0%          3    0
+ Summon Ice Beast         Ice/Summ       79 (100)     0%          4    0
+ Summon Lightning Spire   Summ/Air       79 (100)     0%          4    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)                Dis (0/7) Hell            Geh (0/7) Hell
+    Coc (0/7) Hell            Tar (1/7) Hell        
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You heal very quickly.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+The floor.
+The shadow barely misses you. The shadow demon hits you!!
+You go down through the gate. Welcome back to Tartarus!
+This branch contains the bone rune of Zot.
+The elephant changes into a floating eye!
+The floating eye changes into a glowing shapeshifter!
+The glowing shapeshifter changes into a wolf spider!
+The ettin barely misses you. The ettin misses you. The deep troll completely
+misses you. x2; The deep troll claws you. The deep troll bites you!!
+The deep troll misses you. The deep troll claws you.
+The phantasmal warrior barely misses you.
+There is a gateway to Hell, spattered with blood here.
+The deep troll completely misses you. The deep troll misses you. x2; The deep
+troll completely misses you. The deep troll claws you.
+The deep troll completely misses you. The phantasmal warrior hits you! The wolf
+spider misses you. The wolf spider completely misses you.
+You go up through the gate. Welcome back to the Vestibule of Hell!
+There is a gateway to the decaying netherworld of Tartarus, spattered with
+blood here.
+Enter Wizard Command (? - help): 
+Super healing.
+You start waiting.
+The sentinel's mark upon you fades away.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#....##           ##...##           ##~~~.
+....##           ##.....##           ##~~~
+...##           ##.......##           ##~~
+..##           ##.........##           ##~
+.##           ##..##+++##..##           ##
+##           ##..##.....##..##           #
+#           ##..##..#.#..##..##
+           ##..##...###...##..##
+          ##..##.....#.....##..##
+         ##...#..##.....##..#...##
+        ##....####.......####....##
+       ##....##.............##....##
+      ##.....#.......@.......#.....##
+     ##..##..##.............##..##..##
+    ##...##...###.........###...##...##
+    #...........###########...........#
+    #############         #############
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Miuces the Vine Stalker Summoner began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 44/44 MP: 4/31
+     0 | D:1      | Reached XP level 3. HP: 49/49 MP: 4/32
+     0 | D:1      | Gained mutation: Your natural rate of healing is unusually
+                  | fast. [Vine Stalker growth]
+     0 | D:1      | Reached XP level 4. HP: 54/54 MP: 4/34
+     0 | D:1      | Reached XP level 5. HP: 59/59 MP: 4/35
+     0 | D:1      | Reached XP level 6. HP: 65/65 MP: 4/37
+     0 | D:1      | Reached XP level 7. HP: 70/70 MP: 4/38
+     0 | D:1      | Gained mutation: You have razor-sharp teeth. [Vine Stalker
+                  | growth]
+     0 | D:1      | Reached XP level 8. HP: 75/75 MP: 4/40
+     0 | D:1      | Reached XP level 9. HP: 80/80 MP: 4/41
+     0 | D:1      | Reached XP level 10. HP: 86/86 MP: 4/42
+     0 | D:1      | Reached XP level 11. HP: 91/91 MP: 4/43
+     0 | D:1      | Gained mutation: You heal very quickly. [Vine Stalker
+                  | growth]
+     0 | D:1      | Reached XP level 12. HP: 96/96 MP: 4/44
+     0 | D:1      | Reached XP level 13. HP: 101/101 MP: 4/45
+     0 | D:1      | Reached XP level 14. HP: 107/107 MP: 4/46
+     0 | D:1      | Reached XP level 15. HP: 111/111 MP: 4/47
+     0 | D:1      | Reached XP level 16. HP: 116/116 MP: 4/48
+     0 | D:1      | Reached XP level 17. HP: 121/121 MP: 4/49
+     0 | D:1      | Reached XP level 18. HP: 127/127 MP: 4/50
+     0 | D:1      | Reached XP level 19. HP: 132/132 MP: 4/51
+     0 | D:1      | Reached XP level 20. HP: 137/137 MP: 4/52
+     0 | D:1      | Reached XP level 21. HP: 142/142 MP: 4/53
+     0 | D:1      | Reached XP level 22. HP: 148/148 MP: 4/54
+     0 | D:1      | Reached XP level 23. HP: 153/153 MP: 4/55
+     0 | D:1      | Reached XP level 24. HP: 158/158 MP: 4/55
+     0 | D:1      | Reached XP level 25. HP: 163/163 MP: 4/55
+     0 | D:1      | Reached XP level 26. HP: 169/169 MP: 4/55
+     0 | D:1      | Reached XP level 27. HP: 174/174 MP: 4/55
+     0 | Vaults:1 | Entered Level 1 of the Vaults
+     0 | Hell     | Entered the Vestibule of Hell
+     0 | Hell     | Found a gateway to the ashen valley of Gehenna.
+     0 | Hell     | Found a gateway to the freezing wastes of Cocytus.
+     0 | Hell     | Found a gateway to the decaying netherworld of Tartarus.
+     0 | Hell     | Found a gateway to the Iron City of Dis.
+     1 | Tar:1    | Entered Level 1 of Tartarus
+     1 | Tar:1    | Found a gateway to Hell.
+   263 | Hell     | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    18 ||    18
+

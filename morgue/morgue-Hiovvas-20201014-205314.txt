@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13494351652846525994
+
+115 Hiovvas the Sneak (level 4, 32/32 HPs)
+             Began as a Vampire Enchanter on Oct 14, 2020.
+             Quit the game on level 3 of the Dungeon.
+             The game lasted 00:27:36 (2880 turns).
+
+Hiovvas the Sneak (Vampire Enchanter)               Turns: 2880, Time: 00:27:37
+
+Health: 32/32      AC:  0    Str:  6 (7)  XL:     4   Next: 68%
+Magic:  5/7        EV: 20    Int: 17 (18) God:    
+Gold:   80         SH:  2    Dex: 19      Spells: 1/7 levels left
+
+rFire    . . .     SeeInvis +   (weapon currently unavailable)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   (armour currently unavailable)
+rPois    .         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  +   (cloak currently unavailable)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       .....                  (boots currently unavailable)
+Stlth    +++++.....             q - +2 amulet of reflection
+HPRegen  0.10/turn              (ring currently unavailable)
+MPRegen  0.10/turn              (ring currently unavailable)
+
+@: bat-form, flying, very quick
+A: tiny, fangs 3, see invisible
+a: End Transformation
+
+
+You were on level 3 of the Dungeon.
+You were not thirsty.
+
+You were in vampire-bat-form.
+
+You visited 1 branch of the dungeon, and saw 3 of its levels.
+
+You collected 80 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger of freezing (melded)
+ b - a +0 hunting sling
+ t - a cursed -2 long sword
+ u - a +0 flail of crushing
+Missiles
+ c - 16 bolts
+ d - 56 stones (quivered)
+ s - 57 arrows
+Armour
+ f - a +0 robe (melded)
+ i - a +0 scale mail
+ p - a +0 helmet (melded)
+Jewellery
+ q - a +2 amulet of reflection (around neck)
+Scrolls
+ e - a scroll of amnesia
+ k - a scroll of immolation
+ l - 2 scrolls of remove curse
+ o - a scroll of fear
+ r - a scroll of teleportation
+Potions
+ g - a potion of might
+ h - a potion of flight
+ j - a potion of heal wounds
+ m - a potion of curing {unknown}
+ n - 11 potions of blood
+
+
+   Skills:
+ - Level 1.0 Fighting
+ + Level 2.9 Short Blades
+ * Level 0.5 Slings
+ - Level 2.1 Dodging
+ * Level 5.9 Stealth
+ - Level 2.0 Spellcasting
+ - Level 5.3 Hexes
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ###....      2%          1    #......
+b - Ensorcelled Hibernat  Hex/Ice        ##....       10%         2    ###....
+c - Confuse               Hex            ###.....     6%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Tukima's Dance           Hex            ###.....     6%          3    ###....
+ Dazzling Spray           Conj/Hex       ##....       19%         3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (3/15)            
+
+Altars:
+Trog
+
+Annotations:
+D:1 exclusion: downstairs
+D:2 dig for moth, exclusion: frilled lizard, Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+((You can survive without breathing.))
+
+
+Message History
+
+You see here a kobold skeleton.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is a stone staircase leading up here.
+You turn into a vampire bat.
+Your +1 dagger of freezing melds into your body.
+Your +0 helmet melds into your body. Your +0 robe melds into your body.
+Your +1 dagger of freezing stops glowing.
+You fly upwards.
+Level annotation: dig for moth, exclusion: frilled lizard, Sigmund
+There is a stone staircase leading down here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You fly downwards.
+There is a stone staircase leading up here.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? leop
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     ....
+     ######
+     #....##
+     #.....#
+     #.....##
+    ##....>.#
+    #.......#
+    +.b.....+
+  #.#.......##.#
+  #.....%......#
+.....#+##......#
+###..    ......#
+  #..    ......#
+  #.     #####.#
+  #.           #
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  4 adders (D:2)
+  2 oozes
+  8 worms (D:2)
+  A dart slug (D:1)
+  5 giant cockroaches
+  5 goblins
+  5 hobgoblins
+  2 jackals (D:2)
+  6 bats
+  2 frilled lizards
+  4 kobolds
+  5 rats
+49 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hiovvas the Vampire Enchanter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+   439 | D:1      | Reached XP level 2. HP: 16/19 MP: 3/5
+   443 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+  1135 | D:2      | Reached skill level 5 in Stealth
+  1167 | D:2      | Reached XP level 3. HP: 24/24 MP: 2/6
+  1193 | D:2      | Reached skill level 5 in Hexes
+  1217 | D:2      | Noticed Sigmund
+  1762 | D:2      | Reached XP level 4. HP: 31/31 MP: 7/7
+  1768 | D:2      | Learned a level 3 spell: Confuse
+  1959 | D:2      | Reached skill level 1 in Fighting
+  2447 | D:2      | Noticed a moth of wrath
+  2450 | D:2      | Found a bloodstained altar of Trog.
+  2880 | D:3      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Short Blades   |     2       |  2.9
+Stealth        |     5       |  5.9
+Hexes          |        5    |  5.3
+Fighting       |           1 |  1.0
+Slings         |             |  0.5
+Dodging        |             |  2.1
+Spellcasting   |             |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    93 |    21 ||   114
+       Bite              |     5 |     1 ||     6
+Throw: Stone             |    12 |     8 ||    20
+ Cast: Corona            |    20 |     6 ||    26
+       Ensorcelled Hiber |     7 |     9 ||    16
+ Abil: Bat Form          |     3 |    17 ||    20
+       End Transformatio |     3 |    16 ||    19
+  Use: Potion            |    10 |     1 ||    11
+       Scroll            |     4 |     3 ||     7
+ Stab: Sleeping          |    13 |    13 ||    26
+Armor: Robe              |     9 |       ||     9
+Dodge: Dodged            |    38 |     7 ||    45
+Block: Other             |     1 |     1 ||     2
+

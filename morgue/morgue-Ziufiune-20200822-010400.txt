@@ -1,0 +1,246 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 41708306864339374
+
+574622 Ziufiune the Trollish Barricade (level 27, 332/332 HPs) *WIZ*
+             Began as a Troll Fighter on Aug 22, 2020.
+             Was the Champion of Jiyva.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 00:08:57 (2457 turns).
+
+Ziufiune the Trollish Barricade (Troll Fighter)     Turns: 2457, Time: 00:08:58
+
+Health: 332/332    AC:  9    Str: 23    XL:     27
+Magic:  53/53      EV: 22    Int:  4    God:    Jiyva 200 (0)
+Gold:   0          SH: 22    Dex:  9    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  1.45/turn              (no ring)
+MPRegen  0.33/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, large bone plates 1, rugged brown scales 1,
+blurry vision 1, fast metabolism 3, gourmand, regeneration 2, shaggy fur 1,
+tough skin 3, acidic bite
+a: Request Jelly, Slimify, Cure Bad Mutation, Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Jiyva.
+Jiyva was exalted by your worship.
+You were very full.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (0/1) D:5         
+
+Altars:
+Cheibriados
+Okawaru
+Ru
+Wu Jian
+Yredelemnul
+Zin
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+You heal very quickly.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+You are partially covered in large bone plates. (SH +4)
+You are partially covered in rugged brown scales. (AC +1, +3% HP)
+Scrolls take you a little longer to read.
+You have acidic saliva.
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(A) Shoals         (P) Snake Pit      (N) Spider Nest    (M) Slime Pits     
+(O) Orcish Mines   (E) Elven Halls    (K) Dwarven Hall   (V) Vaults         
+(B) Hall of Blades (F) Forest         (C) Crypt          (W) Tomb           
+(U) Depths         (H) Hell           (I) Dis            (G) Gehenna        
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+What level of the Lair of Beasts? (default 1, ? - help) 
+Found 18 stones. Found a staircase back to the Dungeon.
+3 yaks come into view.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ..#.#++#(
+  .......#
+   ......#
+    .....#
+     ....#
+      ...   ###
+...####.##Y....
+#......@.YY....
+#..............
+...............
+...............
+.####...##.###.
+    ##### ##
+
+
+You could see 3 yaks.
+
+Vanquished Creatures
+  A Tzitzimitl (D:5)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  A jelly (D:5)
+1 creature vanquished.
+
+Grand Total: 2 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ziufiune the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 81/81 MP: 0/29
+     0 | D:1      | Reached XP level 3. HP: 91/91 MP: 0/30
+     0 | D:1      | Reached XP level 4. HP: 101/101 MP: 0/32
+     0 | D:1      | Reached XP level 5. HP: 110/110 MP: 0/33
+     0 | D:1      | Reached XP level 6. HP: 120/120 MP: 0/35
+     0 | D:1      | Reached XP level 7. HP: 130/130 MP: 0/36
+     0 | D:1      | Reached XP level 8. HP: 140/140 MP: 0/38
+     0 | D:1      | Reached XP level 9. HP: 149/149 MP: 0/39
+     0 | D:1      | Reached XP level 10. HP: 159/159 MP: 0/40
+     0 | D:1      | Reached XP level 11. HP: 169/169 MP: 0/41
+     0 | D:1      | Reached XP level 12. HP: 179/179 MP: 0/42
+     0 | D:1      | Reached XP level 13. HP: 188/188 MP: 0/43
+     0 | D:1      | Reached XP level 14. HP: 198/198 MP: 0/44
+     0 | D:1      | Reached XP level 15. HP: 206/206 MP: 0/45
+     0 | D:1      | Reached XP level 16. HP: 217/217 MP: 0/46
+     0 | D:1      | Reached XP level 17. HP: 226/226 MP: 0/47
+     0 | D:1      | Reached XP level 18. HP: 236/236 MP: 0/48
+     0 | D:1      | Reached XP level 19. HP: 245/245 MP: 0/49
+     0 | D:1      | Reached XP level 20. HP: 256/256 MP: 0/50
+     0 | D:1      | Reached XP level 21. HP: 265/265 MP: 0/51
+     0 | D:1      | Reached XP level 22. HP: 275/275 MP: 0/52
+     0 | D:1      | Reached XP level 23. HP: 284/284 MP: 0/53
+     0 | D:1      | Reached XP level 24. HP: 295/295 MP: 0/53
+     0 | D:1      | Reached XP level 25. HP: 304/304 MP: 0/53
+     0 | D:1      | Reached XP level 26. HP: 314/314 MP: 0/53
+     0 | D:1      | Reached XP level 27. HP: 323/323 MP: 0/53
+     0 | D:1      | Became a worshipper of Dithmenos the Shadowed
+     0 | D:1      | Fell from the grace of Dithmenos
+     0 | D:1      | Became a worshipper of Jiyva Jeeceuth the Shapeless
+     0 | D:1      | Found a snail-covered altar of Cheibriados.
+   702 | D:2      | Found a basalt altar of Yredelemnul.
+   702 | D:2      | Found a snail-covered altar of Cheibriados.
+   702 | D:2      | Found an ornate altar of the Wu Jian Council.
+  1032 | D:2      | Reached * piety under Jiyva
+  1144 | D:2      | Reached ** piety under Jiyva
+  1696 | D:4      | Found an iron altar of Okawaru.
+  2039 | D:5      | Entered Level 5 of the Dungeon
+  2040 | D:5      | Found a glowing silver altar of Zin.
+  2040 | D:5      | Found a sacrificial altar of Ru.
+  2040 | D:5      | Found a staircase to the Ecumenical Temple.
+  2431 | D:5      | Reached *** piety under Jiyva
+  2431 | D:5      | Gained mutation: You have a small jelly attached to you
+                  | that senses nearby items. [Jiyva's grace]
+  2431 | D:5      | Reached **** piety under Jiyva
+  2431 | D:5      | Gained mutation: You have a small jelly attached to you
+                  | that may absorb incoming projectiles. [Jiyva's grace]
+  2431 | D:5      | Reached ***** piety under Jiyva
+  2431 | D:5      | Gained mutation: You are partially covered in rugged brown
+                  | scales. (AC +1, +3% HP) [Jiyva's grace]
+  2431 | D:5      | Lost mutation: You have a small jelly attached to you that
+                  | senses nearby items. [Jiyva's grace]
+  2431 | D:5      | Gained mutation: You are partially covered in large bone
+                  | plates. (SH +4) [Jiyva's grace]
+  2431 | D:5      | Reached ****** piety under Jiyva
+  2431 | D:5      | Gained mutation: Scrolls take you a little longer to read.
+                  | [Jiyva's grace]
+  2431 | D:5      | Gained mutation: You heal very quickly. [Jiyva's grace]
+  2431 | D:5      | Lost mutation: You have a small jelly attached to you that
+                  | may absorb incoming projectiles. [Jiyva's grace]
+  2431 | D:5      | Gained mutation: You have acidic saliva. [Jiyva's grace]
+  2457 | Lair:1   | Entered Level 1 of the Lair of Beasts
+  2457 | Lair:1   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |       |       |       |       |       |     7 ||     7
+Invok: Request Jelly     |       |       |       |       |       |       |       |       |     3 ||     3
+  Eat: Ration            |       |       |       |       |       |       |       |       |     2 ||     2
+Armor: Robe              |       |       |       |       |       |       |       |       |     3 ||     3
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     7 ||     7
+Block: Shield            |       |       |       |       |       |       |       |       |    13 ||    13
+

@@ -1,0 +1,410 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 10600765825598378806
+
+16167 Ruggeitotu the Axe Maniac (level 12, 116/116 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:16:14 (1397 turns).
+
+Ruggeitotu the Axe Maniac (Hill Orc Fighter)        Turns: 1397, Time: 00:16:15
+
+Health: 116/116    AC:  4    Str: 22    XL:     12   Next: 34%
+Magic:  8/8        EV: 11    Int:  4    God:    No God 0 (0)
+Gold:   2445       SH: 11    Dex:  8    Spells: 11/11 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    + . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   m - +1 ring mail {rC+}
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.29/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: no status effects
+A: talons 1, clumsy 1, deformed body, deterioration 2, dopey 2, frail 1, low mp
+3, screaming 1, inhibited regeneration, weak 1, subdued magic 1
+0: Orb of Zot
+a: no special abilities
+
+
+You were in the Dungeon.
+You were very full.
+
+You visited 1 branch
+You collected 2445 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+ d - a +0 shortbow
+Missiles
+ e - 74 arrows
+ o - 22 stones (quivered)
+Armour
+ c - a +0 shield (worn)
+ m - a +1 ring mail of cold resistance (worn)
+Jewellery
+ n - an uncursed ring of protection from fire {unknown}
+ p - an uncursed amulet of the acrobat {unknown}
+ q - a +3 ring of intelligence {unknown}
+ r - an uncursed ring of fire {unknown}
+ s - an uncursed ring of poison resistance {unknown}
+Wands
+ g - a wand of digging (7)
+Scrolls
+ h - a scroll of identify {unknown}
+ j - 3 scrolls of remove curse {unknown}
+ k - 3 scrolls of blinking
+ t - a scroll of immolation {unknown}
+Potions
+ b - 2 potions of curing
+ i - 2 potions of magic
+ l - 3 potions of lignification
+Comestibles
+ f - 3 rations
+
+
+   Skills:
+ + Level 18.9 Fighting
+ O Level 27 Axes
+ - Level 3.2 Armour
+ - Level 5.4 Dodging
+ - Level 9.0 Shields
+
+
+You had 11 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Beastly Appendage        Tmut           0 (50)       87%         1    50
+ Infusion                 Chrm           0 (25)       87%         1    50
+ Shroud of Golubria       Chrm/Tloc      0 (200)      95%         2    100
+ Song of Slaying          Chrm           0 (100)      95%         2    100
+ Sticks to Snakes         Tmut           0 (100)      95%         2    100
+ Regeneration             Chrm/Necr      0 (200)      99%         3    150
+ Spectral Weapon          Hex/Chrm       0 (100)      99%         3    150
+ Spider Form              Tmut/Pois      0 (200)      99%         3    150
+ Ice Form                 Ice/Tmut       0 (100)      100%        4    250
+ Blade Hands              Tmut           0 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D =%:!!*!(!!%?[(}%[*[[?}
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have sharp toenails.
+You are clumsy. (Dex -2)
+Armour fits poorly on your strangely shaped body.
+Your body often deteriorates upon taking damage.
+You are very dopey. (Int -4)
+You are frail. (-10% HP)
+Your magical capacity is extremely low. (-30% MP)
+You occasionally shout uncontrollably at your foes.
+You do not regenerate when monsters are visible.
+You are weak. (Str -2)
+Your spells are a little easier to cast, but a little less powerful.
+
+
+Message History
+
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+[Y]es or [N]o only, please.
+Die? 
+Thought so.
+You slice the Orb Guardian!!
+You kill the Orb Guardian!
+You have mastered Axes!
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+########################
+#<)#..)..#..'..#__#..)..
+#..'..#..').#..'..'..#..
+#.@#####'#####'#__####..
+#..####..#...#.####00###
+#..#__####..##0#0~0..#.0
+#..#_____##'#_.0~0~..000
+#}}#_.\...'(..0#000..#0.
+####_..__##_.#'##0#####'
+#$$#_____###'#.#).0.###.
+############)####'###.##
+#\........'...'.....'.\#
+###''''####...##########
+#.......####.###.......#
+#........#.#'#.#........
+#..#.....#.....#'''#####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An Orb Guardian (D)
+  2 centaur warriors (D)
+  Sonja (D)
+  4 unseen horrors (D)
+  A deep troll (D)
+  A lindwurm (D)
+  An oklob plant (D)
+  8 shining eyes (D)
+  A gargoyle (D)
+  2 kobold demonologists (D)
+  4 demonic crawlers (D)
+  A hornet (D)
+  A slime creature (D)
+  Sigmund (D)
+  2 redbacks (D)
+  A yak (D)
+  13 hogs (D)
+  6 floating eyes (D)
+  7 necrophages (D)
+  An ogre (D)
+  8 jellies (D)
+  Ijyb (D)
+  4 ballistomycetes (D)
+72 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 ballistomycete spores (D)
+2 creatures vanquished.
+
+Grand Total: 74 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Ruggeitotu the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 19/19 MP: 1/1
+     1 | D        | Noticed Ijyb
+     8 | D        | Killed Ijyb
+     8 | D        | Reached skill level 8 in Axes
+     8 | D        | Reached XP level 2. HP: 26/26 MP: 2/2
+     8 | D        | Reached XP level 3. HP: 31/31 MP: 3/3
+    33 | D        | Entered wizard mode.
+    40 | D        | Noticed an ogre
+    43 | D        | Killed an ogre
+    43 | D        | Reached skill level 12 in Axes
+    43 | D        | Reached XP level 4. HP: 39/39 MP: 4/4
+    48 | D        | Noticed Sigmund
+    60 | D        | Killed Sigmund
+    60 | D        | Reached skill level 5 in Dodging
+    60 | D        | Reached XP level 5. HP: 39/51 MP: 5/5
+    60 | D        | Reached XP level 6. HP: 45/58 MP: 6/6
+    67 | D        | Found a deep blue altar of Sif Muna.
+    68 | D        | Found an ornate altar of the Wu Jian Council.
+    69 | D        | Found a viscous altar of Jiyva.
+    69 | D        | Found a corrupted altar of Lugonu.
+    69 | D        | Noticed a slime creature
+    78 | D        | Killed a slime creature
+    78 | D        | Reached skill level 15 in Axes
+    78 | D        | Reached XP level 7. HP: 54/64 MP: 7/7
+    79 | D        | Found a burning altar of Makhleb.
+    79 | D        | Found a shimmering altar of Xom.
+    81 | D        | Found a radiant altar of Vehumet.
+    85 | D        | Noticed a centaur warrior
+    88 | D        | Noticed a centaur warrior
+    95 | D        | Slain by a centaur warrior (9 damage)
+    96 | D        | Killed a centaur warrior
+    96 | D        | Reached skill level 10 in Fighting
+    96 | D        | Reached skill level 16 in Axes
+    96 | D        | Reached XP level 8. HP: 79/79 MP: 8/8
+   109 | D        | Killed a centaur warrior
+   109 | D        | Reached skill level 19 in Axes
+   109 | D        | Reached XP level 9. HP: 24/85 MP: 9/9
+   453 | D        | Noticed a kobold demonologist
+   454 | D        | Noticed a kobold demonologist
+   460 | D        | Noticed a sixfirhy
+   464 | D        | Killed a kobold demonologist
+   466 | D        | Noticed an ice devil
+   484 | D        | Reached skill level 20 in Axes
+   494 | D        | Killed a kobold demonologist
+   495 | D        | Noticed a demonic crawler
+   500 | D        | Killed a demonic crawler
+   500 | D        | Reached skill level 21 in Axes
+   501 | D        | Noticed a demonic crawler
+   501 | D        | Noticed a demonic crawler
+   501 | D        | Noticed a demonic crawler
+   507 | D        | HP: 4/85 [demonic crawler (9)]
+   508 | D        | Killed a demonic crawler
+   508 | D        | Mangled by a demonic crawler (9 damage)
+   518 | D        | Killed a demonic crawler
+   518 | D        | Reached skill level 22 in Axes
+   518 | D        | HP: 2/85 [demonic crawler (6)]
+   520 | D        | Slain by a demonic crawler (2 damage)
+   524 | D        | Killed a demonic crawler
+   524 | D        | Reached XP level 10. HP: 76/93 MP: 10/10
+   550 | D        | Found Taismewi's Distillery.
+   550 | D        | Found an ancient bone altar of Kikubaaqudgha.
+   550 | D        | Found a hazy altar of Hepliaklqana.
+   550 | D        | Found a hide-covered altar of Uskayaw.
+   550 | D        | Found a basalt altar of Yredelemnul.
+   550 | D        | Found an opulent altar of Gozag.
+   550 | D        | Found a snail-covered altar of Cheibriados.
+   550 | D        | Found a sacrificial altar of Ru.
+   550 | D        | Found a shadowy altar of Dithmenos.
+   555 | D        | Found a stormy altar of Qazlal.
+   555 | D        | Found a blossoming altar of Fedhas.
+   555 | D        | Found a bloodstained altar of Trog.
+   555 | D        | Found an iron altar of Okawaru.
+   555 | D        | Found a glowing golden altar of the Shining One.
+   555 | D        | Found a glowing silver altar of Zin.
+   555 | D        | Found a white marble altar of Elyvilon.
+   556 | D        | Found a sparkling altar of Nemelex Xobeh.
+   565 | D        | Noticed Sonja
+   584 | D        | Killed Sonja
+   652 | D        | Noticed a deep troll
+   671 | D        | Killed a deep troll
+   671 | D        | Reached skill level 23 in Axes
+   681 | D        | Found Anler's Armour Emporium.
+   723 | D        | Noticed an oklob plant
+   742 | D        | Killed an oklob plant
+   793 | D        | Killed an unseen horror
+   846 | D        | Killed an unseen horror
+   846 | D        | Reached skill level 24 in Axes
+   846 | D        | Reached XP level 11. HP: 51/107 MP: 11/11
+   852 | D        | Paralysed by a floating eye for 2 turns
+   904 | D        | Found Tesenwob's Weapon Shoppe.
+   904 | D        | Found Levonoju's Distillery.
+   904 | D        | Found Suiheos's Distillery.
+   920 | D        | Found Votie's Distillery.
+   920 | D        | Found Moem's Food Shop.
+   920 | D        | Found Girphoucw's Magic Scroll Shoppe.
+   920 | D        | Found Moubb's Antique Armour Boutique.
+   920 | D        | Found Naefoz's Antique Weapon Emporium.
+   920 | D        | Found Siveuq's Gadget Shop.
+   920 | D        | Found Plog's Food Shoppe.
+   922 | D        | Found Ludephuc's Antique Armour Boutique.
+   923 | D        | Found Cacu's Antique Armour Emporium.
+   923 | D        | Found Teankuh's Assorted Antiques.
+   924 | D        | Found Ficvyvezorgh's Magic Scroll Emporium.
+   976 | D        | Found Ecwoebuw's Jewellery Boutique.
+   978 | D        | Noticed a shining eye
+   978 | D        | Noticed a shining eye
+   978 | D        | Noticed a shining eye
+   979 | D        | Noticed a shining eye
+   979 | D        | Noticed a shining eye
+   979 | D        | Noticed a shining eye
+   979 | D        | Paralysed by a floating eye for 4 turns
+   981 | D        | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [a shining eye]
+   982 | D        | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [a shining eye]
+   986 | D        | Gained mutation: Your magical capacity is low. (-10% MP) [a
+                  | shining eye]
+   986 | D        | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [a shining eye]
+   988 | D        | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [a shining eye]
+   989 | D        | Gained mutation: You are frail. (-10% HP) [a shining eye]
+   989 | D        | Gained mutation: You have sharp toenails. [a shining eye]
+   991 | D        | Killed a shining eye
+   991 | D        | Gained mutation: You are weak. (Str -2) [a shining eye]
+   992 | D        | Killed a shining eye
+   992 | D        | Gained mutation: You do not regenerate when monsters are
+                  | visible. [a shining eye]
+   996 | D        | Killed a shining eye
+   996 | D        | Reached skill level 15 in Fighting
+   997 | D        | Killed a shining eye
+   997 | D        | Reached skill level 25 in Axes
+   999 | D        | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [a shining eye]
+  1001 | D        | Gained mutation: You are dopey. (Int -2) [a shining eye]
+  1002 | D        | Killed a shining eye
+  1003 | D        | Killed a shining eye
+  1005 | D        | Noticed a shining eye
+  1005 | D        | Noticed a shining eye
+  1008 | D        | Gained mutation: Your magical capacity is extremely low.
+                  | (-30% MP) [a shining eye]
+  1012 | D        | Gained mutation: You are very dopey. (Int -4) [a shining
+                  | eye]
+  1018 | D        | Killed a shining eye
+  1018 | D        | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [a shining eye]
+  1022 | D        | Gained mutation: You are clumsy. (Dex -2) [a shining eye]
+  1023 | D        | Killed a shining eye
+  1028 | D        | Found Fistovon's Food Shoppe.
+  1028 | D        | Found Jeomofuy's Assorted Antiques.
+  1028 | D        | Found Mos Roim's Book Emporium.
+  1029 | D        | Found Tisoq's Distillery.
+  1087 | D        | Noticed a lindwurm
+  1096 | D        | Killed a lindwurm
+  1120 | D        | Reached skill level 26 in Axes
+  1137 | D        | Reached XP level 12. HP: 104/112 MP: 8/8
+  1165 | D        | Noticed a daeva
+  1180 | D        | Found Juseadwu's Gadget Shoppe.
+  1334 | D        | Got the Orb of Zot
+  1386 | D        | Noticed an Orb Guardian
+  1395 | D        | Slain by an Orb Guardian (40 damage)
+  1396 | D        | Killed an Orb Guardian
+  1396 | D        | Reached skill level 27 in Axes
+  1397 | D        | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Axes           |  8    12       15 16 19 22 24 26 27 | 27.0
+Fighting       |           6       10       13 17 18 | 18.9
+Dodging        |           5                         |  5.4
+Shields        |                    7        9       |  9.0
+Armour         |                                     |  3.2
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: War axe           |  4008 |    14 |    77 |   258 ||  4357
+       Club              |  4000 |       |       |       ||  4000
+       Kick              |       |       |       |    38 ||    38
+  Use: Potion            |     2 |     1 |     3 |       ||     6
+Armor: Ring mail         |   890 |     3 |    17 |    42 ||   952
+       Skin              |       |       |    25 |       ||    25
+Dodge: Dodged            |  1839 |     2 |    23 |    60 ||  1924
+Block: Shield            |  2627 |     2 |    46 |    95 ||  2770
+

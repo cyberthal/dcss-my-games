@@ -1,0 +1,342 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 6311003044122984811
+
+2942 Koqunigho the Prestidigitator (level 9, 41/94 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:08:13 (787 turns).
+
+Koqunigho the Prestidigitator (Deep Dwarf Artificer) Turns: 787, Time: 00:08:14
+
+Health: 41/94      AC:  2    Str: 16      XL:     9   Next: 51%
+Magic:  23/23      EV: 20    Int:  9 (10) God:    No God 0 (0)
+Gold:   81         SH:  0    Dex: 14 (16) Spells: 28/28 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   m - +0 leather armour
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +....     Rnd*Rage +   (no boots)
+Stlth    ++++......NoTele   +   (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.18/turn              (no ring)
+
+@: very slightly contaminated, non-regenerating
+A: damage resistance, heal wounds, repulsion field 1, berserk 1, blurry vision
+1, deformed body, deterioration 1, dopey 1, sense surroundings 2, poison
+resistance, screaming 1, subdued magic 1, no regeneration
+a: Heal Wounds
+
+
+You were in the Dungeon.
+You were very full.
+
+You visited 1 branch
+You collected 81 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+ b - a +1 short sword of distortion
+Armour
+ m - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (7)
+ e - a wand of random effects (15)
+Scrolls
+ l - a scroll of blinking
+Potions
+ g - a potion of curing
+ h - a potion of heal wounds
+ i - a potion of haste
+ j - 2 potions of magic
+ k - a potion of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 10.3 Fighting
+ + Level 10.3(11.7) Short Blades
+   Level 10.0(12.0) Long Blades
+   Level 10.0(13.6) Axes
+   Level 10.0(13.0) Maces & Flails
+   Level 10.0(12.6) Polearms
+   Level 10.0(12.7) Staves
+   Level 10.0(12.2) Slings
+   Level 10.0 Bows
+   Level 10.0 Crossbows
+ - Level 10.0(11.1) Throwing
+ - Level 10.0 Armour
+ + Level 10.5 Dodging
+ + Level 10.7 Stealth
+   Level 10.0 Shields
+ - Level 10.0 Unarmed Combat
+ - Level 10.0 Spellcasting
+   Level 10.0 Conjurations
+   Level 10.0 Hexes
+   Level 10.0 Charms
+   Level 10.0 Summonings
+   Level 10.0 Necromancy
+   Level 10.0 Translocations
+   Level 10.0 Transmutations
+   Level 10.0 Fire Magic
+   Level 10.0 Ice Magic
+   Level 10.0 Air Magic
+   Level 10.0 Earth Magic
+   Level 10.0 Poison Magic
+   Level 10.0 Invocations
+ + Level 10.7 Evocations
+
+
+You had 28 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D [!%!(**}[*((%!(=(!![!!
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map the area around you.
+You do not regenerate.
+You are surrounded by a mild repulsion field. (EV +2)
+You tend to lose your temper in combat.
+Scrolls take you a little longer to read.
+Armour fits poorly on your strangely shaped body.
+Your body sometimes deteriorates upon taking damage.
+You are dopey. (Int -2)
+Your system is resistant to poisons. (rPois)
+You occasionally shout uncontrollably at your foes.
+Your spells are a little easier to cast, but a little less powerful.
+
+
+Message History
+
+You start waiting.
+You start waiting.
+You start waiting.
+You start waiting.
+You start waiting.
+Your body shudders with the violent release of wild energies!
+The magical storm engulfs you. You are splashed with acid!
+You feel stupid.
+You start waiting.
+You start waiting.
+You start waiting.
+You start waiting.
+You start waiting.
+Your body shudders with the violent release of wild energies!
+Your body twists and deforms.
+You feel less contaminated with magical energies.
+You start waiting.
+You start waiting.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###################################
+#<.#.g+..#.@+$$#__#$$+..K#[|#.$$k+h
+#..+..#.O+..#$$+.J+$$#.G.##+#$####h
+#..#####+#####+#__####K..+ss#$#[###
+#..####$$#$$$#(####(?#####ss+$#+#$#
+#..#__####$$##?#~~~.c#$$##+####^.$#
+#..#_____##+#_.+~~~..+.y#...^.#..$#
+#}}#_.\..Y+..._#~~~.c#$$#..^..+..$$
+####_..__##_.#+##+#####+###.9^#^...
+#$$#_____###.#?#(%?$###P+$#.^.###++
+############.####+###[###$#.^###..#
+#\^.......'..$'$$.$$+?\##.#..####$$
+###''''####..@###########$##+#$$#[$
+#.......####)###.......##s##)#$$$$$
+#........#$#+#$#xx......+$####$$$$$
+#..#.....#$!$!$#+++######s#$(+$$$$$
+#........#$!PP$#JJJJ...G#.#####$$$#
+#.....#..#######JJJ....#+.#)$?#####
+#........##nnnn.......~####)C...C..
+#..#.....##nnn.......~~##$(?....###
+#........###.......~~~###$(..C.##..
+###''''### ###..~~~~### #%.C..##...
+#\......\####+######+####$$$$$#..^.
+#........##\\########\\############
+#\......\###\\\\\\\\\\###~~~~~~~~d#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A deep troll (D)
+  Sonja (D)
+  A spatial vortex (D)
+  A jelly (D)
+  2 ballistomycetes (D)
+6 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  8 shining eyes (D)
+  4 floating eyes (D)
+12 creatures vanquished.
+
+Vanquished Creatures (others)
+  Sonja (D)
+  5 ballistomycete spores (D)
+6 creatures vanquished.
+
+Grand Total: 24 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found Wydaj's Distillery.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found Gaestaod's Distillery.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found Nakkogg's Antique Armour Boutique.
+     0 | D        | Found Maul's Armour Emporium.
+     0 | D        | Found Hantit's Distillery.
+     0 | D        | Found Lutsoraf's Weapon Shop.
+     0 | D        | Found Ywiurako's General Store.
+     0 | D        | Found Foshryzyx's Gadget Shoppe.
+     0 | D        | Found Baetuyvy's Distillery.
+     0 | D        | Found Ocaugi Jodghe's Distillery.
+     0 | D        | Found Hietull's Food Emporium.
+     0 | D        | Found Umacing's Assorted Antiques.
+     0 | D        | Found Zavuigeh's Armour Boutique.
+     0 | D        | Found Miazegh's General Store.
+     0 | D        | Found Viplushy's Weapon Shop.
+     0 | D        | Found Ytse's Antique Weapon Shoppe.
+     0 | D        | Found Jihoatai's Food Boutique.
+     0 | D        | Found Ostropp's Distillery.
+     0 | D        | Found Puca's Antique Weapon Shop.
+     0 | D        | Found Tocry's Jewellery Shoppe.
+     0 | D        | Found Saujett's Antique Weapon Boutique.
+     0 | D        | Found Xohekunn's Distillery.
+     0 | D        | Noticed Sonja
+     6 | D        | Your ally  died
+     6 | D        | Killed by an exploding ballistomycete spore (18 damage)
+    13 | D        | Noticed a deep troll
+    26 | D        | Noticed a floating eye
+    26 | D        | Noticed a shining eye
+    26 | D        | Noticed a floating eye
+    26 | D        | Noticed a shining eye
+    26 | D        | Noticed a floating eye
+    26 | D        | Noticed a shining eye
+    28 | D        | Killed a floating eye
+    28 | D        | Reached XP level 2. HP: 42/42 MP: 4/13
+    28 | D        | Reached XP level 3. HP: 49/49 MP: 4/14
+   102 | D        | Noticed a shining eye
+   104 | D        | Noticed a shining eye
+   106 | D        | Killed a shining eye
+   106 | D        | Reached XP level 4. HP: 56/56 MP: 16/16
+   106 | D        | Reached XP level 5. HP: 63/63 MP: 17/17
+   106 | D        | Paralysed by a floating eye for 2 turns
+   107 | D        | Killed a floating eye
+   107 | D        | Reached XP level 6. HP: 72/72 MP: 19/19
+   108 | D        | Killed a floating eye
+   114 | D        | Killed a shining eye
+   114 | D        | Reached XP level 7. HP: 79/79 MP: 20/20
+   118 | D        | Killed a shining eye
+   122 | D        | Killed a shining eye
+   125 | D        | Gained mutation: You tend to lose your temper in combat. [a
+                  | shining eye]
+   249 | D        | Killed a shining eye
+   249 | D        | Reached XP level 8. HP: 86/86 MP: 22/22
+   251 | D        | Killed a shining eye
+   255 | D        | Killed a shining eye
+   270 | D        | Noticed a shining eye
+   284 | D        | Killed a shining eye
+   289 | D        | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+   289 | D        | Reached XP level 9. HP: 72/93 MP: 23/23
+   338 | D        | Noticed Sonja
+   338 | D        | Killed Sonja
+   365 | D        | Killed by a distortion unwield (21 damage)
+   381 | D        | HP: 4/94 [something (31)]
+   385 | D        | Killed by a distortion unwield (9 damage)
+   423 | D        | Gained mutation: Your system is resistant to poisons.
+                  | (rPois) [mutagenic glow]
+   463 | D        | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [mutagenic glow]
+   508 | D        | Killed by a magical explosion (21 damage)
+   508 | D        | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [mutagenic glow]
+   556 | D        | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [mutagenic glow]
+   594 | D        | Gained mutation: Scrolls take you a little longer to read.
+                  | [mutagenic glow]
+   628 | D        | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [mutagenic glow]
+   687 | D        | Gained mutation: You are dopey. (Int -2) [mutagenic glow]
+   737 | D        | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [mutagenic glow]
+   787 | D        | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Short sword       |     1 |       |       ||     1
+Evoke: Wand              |     4 |       |     4 ||     8
+Dodge: Dodged            |       |       |     1 ||     1
+

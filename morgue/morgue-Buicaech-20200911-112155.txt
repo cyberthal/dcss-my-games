@@ -1,0 +1,220 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11276265441303254617
+
+574622 Buicaech the Conqueror (level 27, 174/174 HPs) *WIZ*
+             Began as a Spriggan Skald on Sept 11, 2020.
+             Was a Believer of Fedhas.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 00:02:47 (39 turns).
+
+Buicaech the Conqueror (Spriggan Skald)               Turns: 39, Time: 00:02:47
+
+Health: 174/174    AC:  4    Str:  7    XL:     27
+Magic:  55/55      EV: 38    Int: 14    God:    Fedhas 50 (0)
+Gold:   0          SH:  0    Dex: 15    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +   a - +0 spear
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++++.                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.39/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Fungal Bloom, Sunlight, Evolution, Renounce Religion
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Fedhas.
+Fedhas was pleased with you.
+You were very full.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 spear (weapon)
+Armour
+ b - a +0 robe (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Shroud of Golubria       Chrm/Tloc      76 (200)     0%          2    0
+ Song of Slaying          Chrm           76 (100)     0%          2    0
+ Regeneration             Chrm/Necr      76 (200)     0%          3    0
+ Spectral Weapon          Hex/Chrm       76 (100)     0%          3    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Which skill (by name)? 
+That skill doesn't seem to exist.
+Enter Wizard Command (? - help): 
+Enter new experience level: 
+Experience level set to 27.
+Select sunlight destination.
+Press: ? - help, Dir - move target cursor, f - you
+Really target yourself? 
+Enter note: xl27, still 9
+Enter Wizard Command (? - help): 
+Which skill (by name)? 
+That skill doesn't seem to exist.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 200, Enter for 0): 
+Setting piety to 50.
+Select sunlight destination.
+Press: ? - help, Dir - move target cursor, f - you
+Really target yourself? 
+You feel slightly less full.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                   #######
+                   #.....#
+                   #....##
+                   #....#
+                   #....#
+                   #....#
+ ###        ###  ###...##     ###   ######
+##.##########.####.#...########.#####..#.#
+..........................................
+...%................<...........(.........
+.....................@....................
+..........................................
+............/:......$.....................
+..........................................
+.#.#.#.####.#####.##..#..###.######.#.##..
+..######  ###   ####..[### ###    ######..
+...#               #..##              ##..
+...##              #...#              #...
+#...##           ###..##              ##..
+##...##          #....#              ##...
+###...##        ##..(##             ##....
+# ##...##     ###.....##          ###.....
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Buicaech the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Fedhas Madash
+     0 | D:1      | Reached * piety under Fedhas
+     0 | D:1      | Reached ** piety under Fedhas
+     0 | D:1      | Reached *** piety under Fedhas
+     0 | D:1      | Reached **** piety under Fedhas
+     0 | D:1      | Reached ***** piety under Fedhas
+     0 | D:1      | Reached ****** piety under Fedhas
+     0 | Lair:1   | Entered Level 1 of the Lair of Beasts
+     0 | Lair:1   | Noticed a spiny frog
+     0 | Lair:1   | Noticed a spiny frog
+    11 | Lair:1   | 9 turns of sunlight
+    21 | Lair:1   | sl27, still 9
+    21 | Lair:1   | Reached XP level 2. HP: 44/44 MP: 31/31
+    21 | Lair:1   | Reached XP level 3. HP: 49/49 MP: 32/32
+    21 | Lair:1   | Reached XP level 4. HP: 54/54 MP: 34/34
+    21 | Lair:1   | Reached XP level 5. HP: 59/59 MP: 35/35
+    21 | Lair:1   | Reached XP level 6. HP: 65/65 MP: 37/37
+    21 | Lair:1   | Reached XP level 7. HP: 70/70 MP: 38/38
+    21 | Lair:1   | Reached XP level 8. HP: 75/75 MP: 40/40
+    21 | Lair:1   | Reached XP level 9. HP: 80/80 MP: 41/41
+    21 | Lair:1   | Reached XP level 10. HP: 86/86 MP: 42/42
+    21 | Lair:1   | Reached XP level 11. HP: 91/91 MP: 43/43
+    21 | Lair:1   | Reached XP level 12. HP: 96/96 MP: 44/44
+    21 | Lair:1   | Reached XP level 13. HP: 101/101 MP: 45/45
+    21 | Lair:1   | Reached XP level 14. HP: 107/107 MP: 46/46
+    21 | Lair:1   | Reached XP level 15. HP: 111/111 MP: 47/47
+    21 | Lair:1   | Reached XP level 16. HP: 116/116 MP: 48/48
+    21 | Lair:1   | Reached XP level 17. HP: 121/121 MP: 49/49
+    21 | Lair:1   | Reached XP level 18. HP: 127/127 MP: 50/50
+    21 | Lair:1   | Reached XP level 19. HP: 132/132 MP: 51/51
+    21 | Lair:1   | Reached XP level 20. HP: 137/137 MP: 52/52
+    21 | Lair:1   | Reached XP level 21. HP: 142/142 MP: 53/53
+    21 | Lair:1   | Reached XP level 22. HP: 148/148 MP: 54/54
+    21 | Lair:1   | Reached XP level 23. HP: 153/153 MP: 55/55
+    21 | Lair:1   | Reached XP level 24. HP: 158/158 MP: 55/55
+    21 | Lair:1   | Reached XP level 25. HP: 163/163 MP: 55/55
+    21 | Lair:1   | Reached XP level 26. HP: 169/169 MP: 55/55
+    21 | Lair:1   | Reached XP level 27. HP: 174/174 MP: 55/55
+    30 | Lair:1   | xl27, still 9
+    39 | Lair:1   | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Invok: Sunlight          |     2 |       |       |       |       |       |       |       |     2 ||     4
+       Fungal Bloom      |     2 |       |       |       |       |       |       |       |       ||     2
+

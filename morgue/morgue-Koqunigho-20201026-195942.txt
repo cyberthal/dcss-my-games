@@ -1,0 +1,269 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 5416775268010880057
+
+319 Koqunigho the Prestidigitator (level 6, 61/61 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Was an Initiate of Makhleb.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:04:58 (91 turns).
+
+Koqunigho the Prestidigitator (Deep Dwarf Artificer)  Turns: 91, Time: 00:04:59
+
+Health: 61/61      AC:  3    Str: 16    XL:     6   Next: 21%
+Magic:  10/10      EV: 16    Int: 11    God:    Makhleb [......]
+Gold:   108        SH:  0    Dex: 15    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ++++......             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Makhleb.
+Makhleb was noncommittal.
+You were not hungry.
+
+You visited 1 branch
+You collected 108 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+ m - a +0 scythe
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (6)
+ d - a wand of enslavement (10)
+ e - a wand of random effects (15)
+Scrolls
+ l - a scroll of blinking
+Potions
+ g - a potion of curing
+ h - a potion of heal wounds
+ i - a potion of haste
+ j - 2 potions of magic
+ k - a potion of berserk rage
+Comestibles
+ f - a ration
+ n - 3 chunks of flesh
+
+
+   Skills:
+ + Level 5.3 Fighting
+ + Level 5.3 Short Blades
+ + Level 6.7 Dodging
+ + Level 7.7 Stealth
+ + Level 8.7 Evocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D [=?}*[!?[[?*=%(**[=[[(
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+
+Message History
+
+Key pressed, stopping explore.
+Unknown command.
+You now have 54 gold pieces (gained 27).
+Magic restored.
+You now have 81 gold pieces (gained 27).
+Key pressed, stopping explore.
+Unknown command.
+You now have 108 gold pieces (gained 27).
+Press: ? - help, . - travel, g - get item
+You can't see that place.
+[Stash: a +0 chain mail]
+[the floor.]
+There is an open door here.
+Things that are here:
+a +0 chain mail; the goblin corpse of Ijyb
+You butcher the goblin corpse of Ijyb.
+n - 3 chunks of flesh (gained 2)
+Things that are here:
+a +0 chain mail; the goblin skeleton of Ijyb
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+################################
+#<.#..'..#..'..#__#$$+..K#$%#.$$
+#..'.)#..'@.#..'[.+$$#.G.##+#$##
+#..#####+#####+#__####K..+ss#$#$
+#..####$$#$$$#?####!$#####ss+$#+
+#..#__####$$##$#~~~.c#$$##+####^
+#..#_____##+#_.+~~~..+.y#.....#.
+#}}#_.\..Y+..._#~~~.c#$$#.....+.
+####_..__##_J#+##+#####+###.9.#^
+#$$#_____###+#$#))|?###P+$#^..##
+############.####+###$###$#^^###
+#\........+$.$+$$T$$+$\##.#..###
+###++++####$K$###########$##+#$$
+#..G....####.###.......##s##$#$$
+#G......G#$#+#$#xx......+$####$$
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A slime creature (D)
+  Ijyb (D)
+2 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An ogre (D)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  Sigmund (D)
+1 creature vanquished.
+
+Grand Total: 4 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found Uvimiq's Antique Weapon Shoppe.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found Fuzaun's Gadget Emporium.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found Vumax's Armour Boutique.
+     0 | D        | Found Xiumputt's Armour Emporium.
+     0 | D        | Found Veish's Jewellery Shoppe.
+     0 | D        | Found Obisamax's General Store.
+     0 | D        | Found Majot's Distillery.
+     0 | D        | Found Pegrik's Magic Scroll Shoppe.
+     0 | D        | Found Pousiate's Armour Boutique.
+     0 | D        | Found Vujank's Armour Emporium.
+     0 | D        | Found Quton's Magic Scroll Emporium.
+     0 | D        | Found Vitofilo's Armour Boutique.
+     0 | D        | Found Jugganeo's Antique Armour Boutique.
+     0 | D        | Found Umpeiveast's Armour Emporium.
+     0 | D        | Found Huelud's Magic Scroll Shop.
+     0 | D        | Found Maasoyx's General Store.
+     0 | D        | Found Simysun's Jewellery Boutique.
+     0 | D        | Found Joynet's Food Emporium.
+     0 | D        | Found Humuep's Weapon Shop.
+     0 | D        | Found Iskulaci's Assorted Antiques.
+     0 | D        | Found Saughut's General Store.
+     0 | D        | Found Mugh's Jewellery Emporium.
+     2 | D        | Noticed Ijyb
+     6 | D        | Noticed an ogre
+    13 | D        | Killed an ogre
+    13 | D        | Reached skill level 5 in Evocations
+    13 | D        | Reached XP level 2. HP: 27/27 MP: 3/5
+    13 | D        | Reached XP level 3. HP: 33/33 MP: 4/7
+    21 | D        | Noticed Sigmund
+    50 | D        | Killed Ijyb
+    50 | D        | Reached skill level 5 in Stealth
+    50 | D        | Reached skill level 6 in Evocations
+    50 | D        | Reached XP level 4. HP: 31/42 MP: 8/8
+    57 | D        | Noticed a slime creature
+    62 | D        | Your ally  died
+    62 | D        | Reached skill level 5 in Dodging
+    62 | D        | Reached skill level 7 in Evocations
+    62 | D        | Reached XP level 5. HP: 11/50 MP: 8/10
+    68 | D        | Killed a slime creature
+    68 | D        | Reached skill level 5 in Fighting
+    68 | D        | Reached skill level 5 in Short Blades
+    68 | D        | Reached skill level 8 in Evocations
+    68 | D        | Reached XP level 6. HP: 33/61 MP: 8/10
+    76 | D        | Became a worshipper of Makhleb the Destroyer
+    91 | D        | Quit the game
+
+Skill      XL: |  1  2  3  4  5 |
+---------------+----------------+-----
+Fighting       |  2     3  4  5 |  5.3
+Short Blades   |  2     3  4  5 |  5.3
+Dodging        |  3     4  5  6 |  6.7
+Stealth        |  3     5  6  7 |  7.7
+Evocations     |  5     6  7  8 |  8.7
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Short sword       |    18 |     1 ||    19
+ Abil: Heal Wounds       |     2 |     3 ||     5
+Evoke: Wand              |     7 |     7 ||    14
+ Stab: Sleeping          |     1 |     1 ||     2
+Armor: Leather armour    |     5 |       ||     5
+Dodge: Dodged            |     8 |     2 ||    10
+

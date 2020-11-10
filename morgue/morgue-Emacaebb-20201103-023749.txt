@@ -1,0 +1,138 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11932306598164819679
+
+0 Emacaebb the Conjurer (level 1, 7/7 HPs) *WIZ*
+             Began as a Felid Conjurer on Nov 3, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:48 (6 turns).
+
+Emacaebb the Conjurer (Felid Conjurer)                 Turns: 6, Time: 00:00:48
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 0%
+Magic:  4/4        EV: 18    Int: 16    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           13 (25)      4%          1    18
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           13 (50)      7%          2    68
+ Dazzling Spray           Conj/Hex       7 (50)       30%         3    118
+ Iskenderun's Mystic Bla  Conj           13 (100)     43%         4    218
+ Force Lance              Conj/Tloc      7 (100)      69%         4    218
+ Fulminant Prism          Conj/Hex       7 (200)      69%         4    218
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Welcome, Emacaebb the Felid Conjurer.
+Will you be the one to retrieve the fabulous Orb of Zot from the depths?
+Press ? for a list of commands and other information.
+Found 11 gold pieces.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+[a] none       [b] spider     [c] blade      [d] statue     [e] ice        
+[f] dragon     [g] lich       [h] bat        [i] pig        [j] appendage  
+[k] tree       [m] wisp       [o] fungus     
+[p] shadow     [q] hydra      
+Which form (ESC to exit)? 
+Your body is suffused with negative energy!
+You feel yourself come back to life.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+....~.~....
+#.........#
+#..#...#..#
+#.........#
+#.........#
+#..#...#..#
+#...$.....#
+#....@....#
+#....<....#
+###########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Emacaebb the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     6 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+ Abil: End Transformatio ||     1
+

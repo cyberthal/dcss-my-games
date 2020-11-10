@@ -1,0 +1,271 @@
+Moent
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 whip
+(6, -1, D:1)
+  a +0 club
+(11, 23, D:1)
+  a +0 club
+(13, 27, D:1)
+  a +0 leather armour
+(25, 23, D:1)
+  a +0 pair of gloves
+(25, 34, D:1)
+  a +0 leather armour
+(35, -7, D:1)
+  a cursed -3 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 leather armour
+(5, 5, D:2)
+  a +0 club
+(20, 1, D:2)
+  a +0 club
+(24, 1, D:2)
+  a +0 club
+(37, -24, D:2)
+  a +0 mace
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 club
+(1, -36, D:3)
+  a cursed +0 dagger
+(2, -29, D:3)
+  a +0 hunting sling
+(26, -14, D:3)
+  a +0 leather armour
+(32, -5, D:3)
+  a +0 club
+(33, -17, D:3)
+  a +0 large shield
+(33, -13, D:3)
+  a +0 robe
+(37, -13, D:3)
+  a +0 robe
+(46, -14, D:3)
+  a +0 spear
+(53, -17, D:3)
+  a +0 dagger
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 leather armour
+  a +0 flail
+(4, -2, D:4)
+  a +0 giant spiked club
+(14, 4, D:4)
+  a +0 pair of gloves
+(14, 18, D:4)
+  a +0 leather armour
+(15, 5, D:4)
+  a +0 scale mail
+  a +0 dire flail of holy wrath
+(15, 16, D:4)
+  a +0 giant club
+(32, 14, D:4)
+  a +0 giant club
+
+Level 5 of the Dungeon
+[Shop] Taetireng's Armour Shop
+  a cursed +0 plate armour (300 gold)
+  a +0 leather armour (30 gold)
+  a +0 ring mail (60 gold)
+  a +2 ring mail of magic resistance (315 gold)
+  the +18 shield of the Gong {rElec rN+ MR+ EV-5} (1459 gold)
+    It affects your evasion (-5).
+    It insulates you from electricity.
+    It protects you from negative energy.
+    It affects your resistance to hostile enchantments.
+  the +1 robe "Wiodgh" {+Blink rPois Str-5} (201 gold)
+    It affects your strength (-5).
+    It protects you from poison.
+    It lets you blink.
+  a +0 scale mail (60 gold)
+  a +2 chain mail of cold resistance (322 gold)
+  a +2 ring mail of cold resistance (315 gold)
+  a +0 leather armour (30 gold)
+  a cursed -1 plate armour (225 gold)
+  a +0 leather armour (30 gold)
+(0, 0, D:5)
+  a +0 flail
+(5, 21, D:5)
+  a +0 leather armour
+  a +0 hand axe
+(6, 14, D:5)
+  a +0 robe
+  a cursed -1 dagger
+(6, 16, D:5)
+  a +0 leather armour
+  a +0 trident of flaming
+(6, 20, D:5)
+  a +0 leather armour
+  a +0 flail
+(7, 19, D:5)
+  a +0 club
+(9, 16, D:5)
+  a +0 dagger
+(11, 11, D:5)
+  a +0 ring mail
+  a +0 hand axe
+(11, 22, D:5)
+  a +0 ring mail
+(22, -12, D:5)
+  a +0 leather armour
+  a +0 mace
+(22, 18, D:5)
+  a +0 club
+(24, -14, D:5)
+  a +0 ring mail
+  a +0 club
+(30, 8, D:5)
+  a +0 dagger
+  a +0 robe
+(31, 26, D:5)
+  a +0 giant club
+(36, 25, D:5)
+  a +2 robe
+  a +0 trident
+(42, 5, D:5)
+  a +0 dagger
+  a +0 robe
+
+Level 6 of the Dungeon
+[Shop] Pyitorun's Gadget Shop
+  a wand of disintegration (11) (195 gold)
+  a wand of flame (16) (117 gold)
+  a wand of acid (3) (182 gold)
+  a crystal ball of energy (260 gold)
+  a phial of floods (520 gold)
+  a phantom mirror (390 gold)
+  a lightning rod (4/4) (520 gold)
+  a wand of clouds (6) (390 gold)
+  a sack of spiders (260 gold)
+  a phial of floods (520 gold)
+(0, 0, D:6)
+  a +0 whip
+  a +0 spear
+(1, -1, D:6)
+  a +0 whip
+(5, 4, D:6)
+  a +0 club
+(6, 14, D:6)
+  a +0 plate armour
+(9, 0, D:6)
+  a +0 trident
+(18, 31, D:6)
+  a +0 plate armour
+(19, 42, D:6)
+  a +0 hunting sling
+(40, 23, D:6)
+  2 potions of degeneration
+(41, 26, D:6)
+  a +0 animal skin
+(43, 12, D:6)
+  a +0 whip
+(45, -13, D:6)
+  a +0 leather armour
+(51, 8, D:6)
+  a +0 short sword
+(52, 9, D:6)
+  a +0 whip
+  a +0 club
+(53, 9, D:6)
+  a +0 dagger
+  a +0 whip
+  a cursed -2 club
+  a +0 club
+  a +0 whip
+(53, 10, D:6)
+  a +0 dagger
+(54, 10, D:6)
+  a +0 whip
+  a +0 dagger
+  a +0 whip
+  a +0 club
+  a +0 dagger
+(54, 35, D:6)
+  a +0 club
+  a +0 leather armour
+
+Level 7 of the Dungeon
+(0, 0, D:7)
+  a +0 hunting sling
+(13, 47, D:7)
+  a +0 flail
+  a +0 chain mail
+(14, 28, D:7)
+  a +0 robe
+  a +1 whip of freezing
+(24, 20, D:7)
+  a +0 short sword
+  an orc corpse (skeletalised by now)
+(30, 43, D:7)
+  a leopard gecko corpse (skeletalised by now)
+(34, 6, D:7)
+  a +0 mace
+(34, 9, D:7)
+  a +0 leather armour
+  a +0 morningstar
+(34, 49, D:7)
+  a +0 scale mail
+(46, 23, D:7)
+  a cursed -1 chain mail
+  a +0 flail
+(47, 12, D:7)
+  a +0 club
+  a +0 ring mail
+(49, 39, D:7)
+  a +0 giant club
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  26 sling bullets
+(1, -3, D:8)
+  18 stones
+  (unseen)
+(7, 4, D:8)
+  11 gold pieces
+(10, 6, D:8)
+  5 gold pieces
+(12, 4, D:8)
+  19 gold pieces
+(12, 8, D:8)
+  a scroll of remove curse
+(18, 2, D:8)
+  a sling bullet
+(19, -6, D:8)
+  a +0 club
+(21, -5, D:8)
+  a +0 dagger
+  a +0 robe
+  an orc corpse
+(23, 3, D:8)
+  a +0 hand axe
+  an orc corpse
+(23, 6, D:8)
+  a +0 robe
+  a +0 dagger
+  an orc corpse
+(24, 7, D:8)
+  2 sling bullets
+(25, -6, D:8)
+  a +0 club
+  a +0 leather armour
+  an orc corpse
+(27, -6, D:8)
+  a +0 chain mail
+(30, 5, D:8)
+  a stone (still there?)
+  13 gold pieces (still there?)
+(31, 6, D:8)
+  a stone
+(31, 12, D:8)
+  a +0 chain mail
+(36, 6, D:8)
+  a ration
+
+the Ecumenical Temple
+

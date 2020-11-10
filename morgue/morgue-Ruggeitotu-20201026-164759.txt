@@ -1,0 +1,356 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 13516526230413995576
+
+10400000 Ruggeitotu the Axe Maniac (level 27, -1/409 HPs)
+             Began as a Minotaur Gladiator on Oct 26, 2020.
+             Was the Champion of Makhleb.
+             Killed by divine providence
+             ... invoked by an accursed
+              (15 damage)
+             ... in the Dungeon (Sprint VIII: "Arena of Blood").
+             The game lasted 00:18:01 (104 turns).
+
+Ruggeitotu the Axe Maniac (Minotaur Gladiator)       Turns: 104, Time: 00:18:01
+
+Health: -1/409     AC:  6    Str: 27    XL:     27
+Magic:  29/53      EV: 36    Int:  5    God:    Makhleb [******]
+Gold:   0          SH:  0    Dex: 22    Spells: 80/80 levels left
+
+rFire    . . .     SeeInvis .   l - +? Axe of Woe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   c - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.78/turn              o - +200 ring of slaying
+MPRegen  0.33/turn              h - +200 ring of slaying
+
+@: berserking, very slightly contaminated, very quick
+A: retaliatory headbutt, horns 2
+a: Minor Destruction, Lesser Servant of Makhleb, Major Destruction, Greater
+Servant of Makhleb, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Makhleb.
+Makhleb was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe
+ l - the +? Axe of Woe (weapon)
+   (You found it in the Dungeon)
+Missiles
+ d - 2 throwing nets (quivered)
+Armour
+ b - a +0 leather armour (worn)
+ c - a +0 hat (worn)
+Jewellery
+ h - a +200 ring of slaying (right hand)
+ m - a +30 ring of slaying
+ n - a +30 ring of slaying
+ o - a +200 ring of slaying (left hand)
+Potions
+ e - a potion of curing
+ i - 2 potions of magic
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Axes
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Invocations
+
+
+You had 80 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Makhleb
+
+Annotations:
+D The Defiler
+
+
+Innate Abilities, Weirdness & Mutations
+
+You reflexively headbutt those who attack you in melee.
+You have a pair of horns on your head.
+
+
+Message History
+
+The reaper shouts, "I have come for you, Ruggeitotu!"
+You hear a shout! x2
+The meat berserker rages.
+A meat beast comes into view.
+The destroyer blinks!
+An orc and a lich come into view.
+The large bag of meat shouts in stereo! The bag of meat shouts! The tyrant
+shouts! You hear a shout! You feel something staring at you.
+A bolt of fire appears from out of thin air!
+Deactivating autopickup; reactivate with Ctrl-A.
+The bolt of fire hits you!!!
+* * * LOW HITPOINT WARNING * * *
+You hear a shout! x2
+The tyrant waves its bony arms in wide circles.
+The air twists around and strikes you!
+* * * LOW HITPOINT WARNING * * *
+You hear a shout!
+The tyrant casts a spell.
+The accursed gestures at you while chanting.
+Something smites you!
+You die...
+
+      #V..  ..#
+ ...###...  ..###O
+ ........###......
+.#....0..._..L....
+....oM.#%%...#.......#.#
+...OO..#_.<._#   .......
+.....V.#)V)).#......#.#.
+.#O..x.%))_)z........O..
+......0..###.......D.#.#
+ ...###)%0OVLO###{O.....
+ ..   #.)Dx.MO#.2..o0...
+      #o)MooVO#)).o..o..
+      D..O0O.LXX..2.O2..
+     ......XX{@X..#oV.#.
+    ..........@..#....#
+   ............##V...o#
+  O..#........#. .0..#V.
+ .............#. .###...
+       #...... ....  ..
+       ....... .. .
+       .#..... ###
+
+
+You could see 2 accurseds, a tentacled monstrosity, 2 meat beasts, 2 tyrants, a
+reaper, 2 eight-headed meat hydras, 3 destroyers, a sculptor of flesh, 4 large
+bags of meat, 4 large abominations, The Defiler, 5 meat berserkers, 7 bags of
+meat and a crawling corpse.
+
+Vanquished Creatures
+  Sigmund (D)
+  3 hell beasts (D)
+  2 greater mummies (D)
+  2 wraiths (D)
+  15 vampire knights (D)
+  18 ogres (D)
+  3 two-headed ogres (D)
+  3 liches (D)
+  A hydra (D)
+  34 orcs (D)
+  2 phantoms (D)
+  6 skeletal warriors (D)
+  4 small abominations (D)
+  A large abomination (D)
+  6 crawling corpses (D)
+101 creatures vanquished.
+
+Vanquished Creatures (others)
+  6 crawling corpses (D)
+6 creatures vanquished.
+
+Grand Total: 107 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Found the +? Axe of Woe
+     0 | D        | Ruggeitotu the Minotaur Gladiator began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 18/18 MP: 0/0
+     2 | D        | Noticed a bag of meat
+     4 | D        | Became a worshipper of Makhleb the Destroyer
+     5 | D        | Noticed a bag of meat
+     6 | D        | Noticed a bag of meat
+     8 | D        | Killed a bag of meat
+     8 | D        | Reached skill level 15 in Dodging
+     8 | D        | Reached XP level 2. HP: 51/51 MP: 1/1
+     8 | D        | Reached XP level 3. HP: 58/58 MP: 2/2
+     8 | D        | Reached XP level 4. HP: 66/66 MP: 3/3
+     8 | D        | Reached XP level 5. HP: 73/73 MP: 4/4
+     8 | D        | Reached XP level 6. HP: 81/81 MP: 5/5
+     8 | D        | Reached XP level 7. HP: 88/88 MP: 6/6
+     8 | D        | Reached XP level 8. HP: 95/95 MP: 7/7
+     8 | D        | Reached XP level 9. HP: 102/102 MP: 8/8
+     8 | D        | Reached XP level 10. HP: 111/111 MP: 9/9
+     8 | D        | Reached XP level 11. HP: 117/117 MP: 10/10
+     8 | D        | Noticed a meat berserker
+     8 | D        | Noticed a meat berserker
+     9 | D        | Noticed a bag of meat
+     9 | D        | Noticed a bag of meat
+     9 | D        | Noticed a bag of meat
+    10 | D        | Noticed a bag of meat
+    10 | D        | Noticed a bag of meat
+    11 | D        | Noticed a bag of meat
+    11 | D        | Noticed a bag of meat
+    12 | D        | Noticed a bag of meat
+    14 | D        | Killed a meat berserker
+    14 | D        | Reached * piety under Makhleb
+    14 | D        | Reached XP level 12. HP: 136/136 MP: 11/11
+    14 | D        | Reached XP level 13. HP: 143/143 MP: 12/12
+    14 | D        | Killed a meat berserker
+    14 | D        | Reached XP level 14. HP: 157/157 MP: 13/13
+    14 | D        | Noticed a meat berserker
+    15 | D        | Killed a bag of meat
+    15 | D        | Reached XP level 15. HP: 167/167 MP: 14/14
+    15 | D        | Noticed a meat berserker
+    16 | D        | Reached ** piety under Makhleb
+    17 | D        | Reached skill level 27 in Fighting
+    17 | D        | Reached skill level 27 in Axes
+    17 | D        | Reached XP level 16. HP: 183/183 MP: 15/15
+    18 | D        | Reached *** piety under Makhleb
+    19 | D        | Killed a meat berserker
+    19 | D        | Reached skill level 27 in Throwing
+    19 | D        | Reached skill level 27 in Dodging
+    19 | D        | Reached skill level 10 in Stealth
+    19 | D        | Reached skill level 10 in Invocations
+    19 | D        | Reached XP level 17. HP: 191/191 MP: 15/24
+    21 | D        | Killed a meat berserker
+    21 | D        | Reached **** piety under Makhleb
+    21 | D        | Reached XP level 18. HP: 200/200 MP: 15/31
+    22 | D        | Noticed a destroyer
+    23 | D        | Noticed a large bag of meat
+    23 | D        | Killed a destroyer
+    23 | D        | Reached skill level 27 in Invocations
+    23 | D        | Reached XP level 19. HP: 207/207 MP: 15/35
+    23 | D        | Noticed a destroyer
+    25 | D        | Reached ***** piety under Makhleb
+    25 | D        | Reached skill level 27 in Stealth
+    27 | D        | Noticed a large bag of meat
+    31 | D        | Killed a destroyer
+    31 | D        | Reached skill level 27 in Armour
+    31 | D        | Reached XP level 20. HP: 216/216 MP: 17/37
+    32 | D        | Noticed a destroyer
+    32 | D        | Noticed a destroyer
+    33 | D        | Noticed a meat berserker
+    33 | D        | Noticed a large bag of meat
+    33 | D        | Noticed a destroyer
+    35 | D        | Noticed a destroyer
+    36 | D        | Noticed a destroyer
+    36 | D        | Noticed a meat berserker
+    37 | D        | Noticed a destroyer
+    37 | D        | Noticed a meat berserker
+    37 | D        | Noticed a meat berserker
+    37 | D        | Noticed an eight-headed meat hydra
+    39 | D        | Noticed a destroyer
+    40 | D        | Killed a destroyer
+    41 | D        | Reached XP level 21. HP: 224/224 MP: 18/47
+    42 | D        | Killed a destroyer
+    42 | D        | Reached ****** piety under Makhleb
+    42 | D        | Reached skill level 27 in Spellcasting
+    43 | D        | Noticed a destroyer
+    43 | D        | Killed a destroyer
+    43 | D        | Reached skill level 27 in Unarmed Combat
+    43 | D        | Reached XP level 22. HP: 233/233 MP: 18/52
+    44 | D        | Killed a destroyer
+    45 | D        | Reached XP level 23. HP: 240/240 MP: 18/53
+    45 | D        | Noticed a tyrant
+    45 | D        | Noticed a destroyer
+    46 | D        | Killed a large bag of meat
+    46 | D        | Noticed a destroyer
+    46 | D        | Noticed a destroyer
+    46 | D        | Noticed a destroyer
+    47 | D        | Killed a destroyer
+    47 | D        | Reached XP level 24. HP: 249/249 MP: 19/53
+    48 | D        | Killed a large bag of meat
+    49 | D        | Killed a tyrant
+    50 | D        | Killed a destroyer
+    50 | D        | Noticed a large bag of meat
+    50 | D        | Noticed a large bag of meat
+    51 | D        | Reached XP level 25. HP: 166/257 MP: 19/53
+    52 | D        | Killed a destroyer
+    53 | D        | Killed a large bag of meat
+    53 | D        | Noticed an accursed
+    53 | D        | Noticed a tyrant
+    55 | D        | Noticed a destroyer
+    56 | D        | Noticed a tyrant
+    56 | D        | Noticed a large bag of meat
+    59 | D        | Noticed The Captor
+    60 | D        | Reached XP level 26. HP: 215/266 MP: 21/53
+    60 | D        | Noticed a destroyer
+    61 | D        | Killed a destroyer
+    65 | D        | Noticed a tyrant
+    66 | D        | Noticed an accursed
+    68 | D        | Noticed a destroyer
+    69 | D        | Noticed a destroyer
+    74 | D        | Killed a tyrant
+    74 | D        | Reached XP level 27. HP: 273/273 MP: 24/53
+    74 | D        | Noticed a dread
+    76 | D        | Noticed a dread
+    77 | D        | Killed The Captor
+    78 | D        | Noticed an accursed
+    81 | D        | Killed a destroyer
+    85 | D        | Killed a destroyer
+    85 | D        | Noticed a meat beast
+    86 | D        | Killed a tyrant
+    89 | D        | Killed a destroyer
+    89 | D        | Noticed a meat beast
+    92 | D        | Killed an accursed
+    92 | D        | Killed a meat beast
+    93 | D        | Killed a destroyer
+    95 | D        | Killed a destroyer
+    95 | D        | Noticed a destroyer
+    96 | D        | Killed a meat beast
+    98 | D        | Killed an accursed
+    99 | D        | Noticed a large bag of meat
+    99 | D        | Noticed an accursed
+    99 | D        | Noticed a meat beast
+   100 | D        | Noticed a destroyer
+   100 | D        | Killed a dread
+   100 | D        | Noticed The Defiler
+   101 | D        | Noticed a meat beast
+   101 | D        | Noticed a destroyer
+   101 | D        | Noticed an accursed
+   102 | D        | Killed a dread
+   103 | D        | Killed a meat beast
+   103 | D        | Noticed a meat beast
+   104 | D        | Noticed a tyrant
+   104 | D        | HP: 14/409 [tyrant/the air (44)]
+   104 | D        | Killed from afar by an accursed
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 15 16 17 18 19 20 21 |
+---------------+----------------------------------------------------------------+-----
+Fighting       | 17                            21    23 24 27                   | 27.0
+Axes           | 17                            21    23 24 27                   | 27.0
+Throwing       | 14                            18    20 21 23 27                | 27.0
+Dodging        | 15                            19    21 22 25 27                | 27.0
+Stealth        |                                              10 19 26 27       | 27.0
+Invocations    |                                              10 21 27          | 27.0
+Armour         |                                                       27       | 27.0
+Spellcasting   |                                                       14 23 27 | 27.0
+Unarmed Combat |                                                             27 | 27.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Executioner's axe |     1 |       |       |     1 |     3 |     4 |     7 |     8 |    37 ||    61
+Throw: Throwing net      |     1 |       |       |       |       |       |     1 |       |       ||     2
+Invok: Major Destruction |       |       |       |       |       |       |       |       |     5 ||     5
+       Greater Servant o |       |       |       |       |       |       |       |       |     2 ||     2
+  Use: Potion            |       |       |       |       |       |       |     1 |       |     2 ||     3
+       Scroll            |       |       |       |       |       |       |       |       |     1 ||     1
+ Stab: Held in net/web   |     1 |       |       |       |       |       |       |       |       ||     1
+       Distracted        |       |       |       |       |       |       |       |       |     1 ||     1
+Dodge: Dodged            |       |       |       |       |       |       |       |       |     2 ||     2
+

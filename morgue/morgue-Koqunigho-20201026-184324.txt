@@ -1,0 +1,421 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 8399861820313609063
+
+8156 Koqunigho the Prestidigitator (level 11, 107/110 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Was the Champion of Makhleb.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:45:08 (1293 turns).
+
+Koqunigho the Prestidigitator (DDAr)                Turns: 1293, Time: 00:45:08
+
+Health: 107/110    AC:  7    Str: 16    XL:     11   Next: 6%
+Magic:  17/17      EV: 19    Int: 12    God:    Makhleb 200 (0)
+Gold:   900        SH:  0    Dex: 16    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   a - +0 longbow
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   o - +0 ring mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   u - +0 pair of gloves
+MR       +....     NoTele   +   (no boots)
+Stlth    +++++.....             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.15/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 2, no regeneration
+a: Heal Wounds, Minor Destruction, Lesser Servant of Makhleb, Major Destruction,
+Greater Servant of Makhleb, Renounce Religion
+
+
+You were in the Dungeon.
+You worshipped Makhleb.
+Makhleb was exalted by your worship.
+You were hungry.
+
+You visited 1 branch
+You collected 1673 gold pieces.
+You spent 773 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 longbow (weapon)
+ b - a +2 scythe of slicing
+ c - a +1 mace of draining
+ k - a +0 short sword
+ F - a +0 hunting sling
+Missiles
+ h - 24 arrows (quivered)
+ p - 58 stones
+ s - 4 curare-tipped needles
+ w - 18 sling bullets
+Armour
+ m - a +0 leather armour
+ n - a +0 robe of fire resistance
+ o - a +0 ring mail (worn)
+ u - a +0 pair of gloves (worn)
+Wands
+ d - a wand of enslavement (9)
+ e - a wand of random effects (48)
+ i - a wand of flame (10)
+Scrolls
+ l - a scroll of blinking
+ q - a scroll of silence
+ t - 4 scrolls of magic mapping
+ v - a scroll of random uselessness
+ x - 2 scrolls of enchant weapon
+ y - a scroll of fog
+ z - 2 scrolls of identify
+ A - 3 scrolls of fear
+ D - a scroll of enchant armour
+ E - a scroll of remove curse
+Potions
+ g - 4 potions of curing
+ j - 2 potions of magic
+ r - a potion of degeneration
+ B - a potion of agility
+ C - a potion of brilliance
+ G - 2 potions of might
+Comestibles
+ f - 4 rations
+
+
+   Skills:
+ + Level 10.5 Fighting
+ - Level 4.1 Short Blades
+ * Level 4.4 Maces & Flails
+ - Level 9.1 Polearms
+ + Level 5.3 Bows
+ + Level 6.7 Armour
+ + Level 12.4 Dodging
+ + Level 14.3 Stealth
+ + Level 14.8 Evocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D ?!*%*[*}=}?**=!%*[?[(:
+
+Annotations:
+D exclusion: shining eye, Sonja
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map the area around you.
+You do not regenerate.
+
+
+Message History
+
+There is an entrance to Wyceqar's Distillery here.
+G - a potion of might; G - 2 potions of might (gained 1)
+Thank you for shopping at Wyceqar's Distillery!
+You can access your shopping list by pressing '$'.
+Okay, then.
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 robe of fire resistance. x4
+You finish taking off your +0 robe of fire resistance.
+You feel less resistant to fire.
+You start putting on your armour.
+You continue putting on your +0 ring mail. x5
+You finish putting on your +0 ring mail.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#\^.......+...'.....'.\##.#..####$$###.x
+###''''####...###########.##'#$$#[$#$###
+#..(....####.###.......##.##[#$$$$$$$$$#
+#.......G#.#'#.#.....%00'0####$$$$$$$$$#
+#..#.....#.....#'''######0#??+$$$$$$####
+#.......G#...[.#........#.#####$$$###...
+#.....#..#######%......#+0#?$=#####...##
+#G......G##...%.......~####[C...C...###.
+#..#..G..##..........~~##((%....#####..^
+#G......G###.......~~~###$%..C.##^.....^
+###++++### ###..~~~~### #!.C..##...^....
+#\......\####'######'####$$$$$#..^^.....
+#........##\\########\\############..&..
+#\......\###\\\\\\@\\\###~~~~~~~~d#....^
+########## ############ ###########...^^
+                        #..0..+.^.^...^^
+                        ################
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  2 centaur warriors (D)
+  2 unseen horrors (D)
+  An oklob plant (D)
+  A gargoyle (D)
+  2 kobold demonologists (D)
+  2 demonic crawlers (D)
+  A hornet (D)
+  A slime creature (D)
+  2 redbacks (D)
+  11 hogs (D)
+  A yak (D)
+  An ogre (D)
+  2 floating eyes (D)
+  7 necrophages (D)
+  8 jellies (D)
+  Ijyb (D)
+  2 ballistomycetes (D)
+  A ballistomycete spore (D)
+48 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 demonic crawlers (D)
+  Sigmund (D)
+  2 hogs (D)
+  3 floating eyes (D)
+8 creatures vanquished.
+
+Vanquished Creatures (others)
+  A lindwurm (D)
+  A shining eye (D)
+  2 hornets (D)
+  A ballistomycete spore (D)
+5 creatures vanquished.
+
+Grand Total: 61 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     1 | D        | Entered wizard mode.
+     1 | D        | Found a viscous altar of Jiyva.
+     1 | D        | Found a corrupted altar of Lugonu.
+     1 | D        | Found a burning altar of Makhleb.
+     1 | D        | Found a shimmering altar of Xom.
+     1 | D        | Found a white marble altar of Elyvilon.
+     1 | D        | Found a glowing silver altar of Zin.
+     1 | D        | Found Xunn's Book Shoppe.
+     1 | D        | Found a glowing golden altar of the Shining One.
+     1 | D        | Found an iron altar of Okawaru.
+     1 | D        | Found a bloodstained altar of Trog.
+     1 | D        | Found a blossoming altar of Fedhas.
+     1 | D        | Found a stormy altar of Qazlal.
+     1 | D        | Found an ornate altar of the Wu Jian Council.
+     1 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     1 | D        | Found Jeor's Food Emporium.
+     1 | D        | Found a deep blue altar of Sif Muna.
+     1 | D        | Found a basalt altar of Yredelemnul.
+     1 | D        | Found a hide-covered altar of Uskayaw.
+     1 | D        | Found a hazy altar of Hepliaklqana.
+     1 | D        | Found a radiant altar of Vehumet.
+     1 | D        | Found a shadowy altar of Dithmenos.
+     1 | D        | Found a sacrificial altar of Ru.
+     1 | D        | Found a snail-covered altar of Cheibriados.
+     1 | D        | Found an opulent altar of Gozag.
+     1 | D        | Found a sparkling altar of Nemelex Xobeh.
+     1 | D        | Found Joex's Magic Scroll Boutique.
+     1 | D        | Found Xophebex's Armour Emporium.
+     1 | D        | Found Fugupaat's Distillery.
+     1 | D        | Found Set Yrop's Assorted Antiques.
+     1 | D        | Found Riec Bofia's General Store.
+     1 | D        | Found Kubishai's Gadget Shoppe.
+     1 | D        | Found Yczoewkatesk's Antique Armour Boutique.
+     1 | D        | Found Ohueptih's Antique Weapon Emporium.
+     1 | D        | Found Dafrah's General Store.
+     1 | D        | Found Ceuming's Armour Boutique.
+     1 | D        | Found Lezyximm's Jewellery Boutique.
+     1 | D        | Found Uklaerunuk's Gadget Emporium.
+     1 | D        | Found Amneo's Magic Scroll Shop.
+     1 | D        | Found Noshium's General Store.
+     1 | D        | Found Guneok's General Store.
+     1 | D        | Found Vieg's Jewellery Emporium.
+     1 | D        | Found Wyceqar's Distillery.
+     1 | D        | Found Jefin's Food Shoppe.
+     1 | D        | Found Vahiotac's Assorted Antiques.
+     1 | D        | Found Maimy's Magic Scroll Emporium.
+     1 | D        | Found the +8 glaive of the Guard {elec, +Rage AC+5 SInv}
+     2 | D        | Noticed Ijyb
+    33 | D        | Killed Ijyb
+    33 | D        | Reached skill level 5 in Evocations
+    33 | D        | Reached XP level 2. HP: 26/26 MP: 3/5
+    58 | D        | Noticed an ogre
+    65 | D        | Noticed Sigmund
+    69 | D        | Killed Sigmund
+    69 | D        | Reached skill level 5 in Dodging
+    69 | D        | Reached XP level 3. HP: 36/36 MP: 6/8
+    69 | D        | Reached XP level 4. HP: 44/44 MP: 6/9
+    69 | D        | Reached XP level 5. HP: 50/50 MP: 6/10
+    81 | D        | Killed an ogre
+    81 | D        | Reached skill level 5 in Fighting
+    81 | D        | Reached XP level 6. HP: 48/61 MP: 7/12
+   106 | D        | Noticed a yak
+   108 | D        | Killed a yak
+   179 | D        | Noticed a slime creature
+   182 | D        | Killed a slime creature
+   182 | D        | Reached skill level 10 in Evocations
+   182 | D        | Reached XP level 7. HP: 49/70 MP: 14/14
+   184 | D        | Became a worshipper of Makhleb the Destroyer
+   209 | D        | Noticed a centaur warrior
+   209 | D        | Noticed a centaur warrior
+   218 | D        | Killed a centaur warrior
+   218 | D        | Reached skill level 10 in Stealth
+   218 | D        | Reached XP level 8. HP: 42/80 MP: 14/16
+   230 | D        | Killed a centaur warrior
+   230 | D        | Reached skill level 10 in Dodging
+   274 | D        | Noticed Sonja
+   282 | D        | Noticed a deep troll
+   302 | D        | Noticed a hornet
+   308 | D        | Killed a hornet
+   308 | D        | Reached * piety under Makhleb
+   308 | D        | Reached skill level 1 in Bows
+   308 | D        | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+   308 | D        | Reached XP level 9. HP: 65/90 MP: 18/18
+   333 | D        | Noticed a shining eye
+   333 | D        | Noticed a shining eye
+   333 | D        | Noticed a shining eye
+   362 | D        | Banished a shining eye
+   369 | D        | Bought a +0 pair of gloves for 63 gold pieces
+   372 | D        | Reached ** piety under Makhleb
+   408 | D        | Noticed an oklob plant
+   526 | D        | Killed an oklob plant
+   540 | D        | Bought a +0 ring mail for 56 gold pieces
+   585 | D        | Noticed a kobold demonologist
+   588 | D        | Noticed a kobold demonologist
+   593 | D        | Killed a kobold demonologist
+   593 | D        | Reached skill level 1 in Armour
+   596 | D        | Killed a kobold demonologist
+   597 | D        | Reached *** piety under Makhleb
+   609 | D        | Noticed a demonic crawler
+   609 | D        | Noticed a demonic crawler
+   609 | D        | Noticed a demonic crawler
+   609 | D        | Noticed a demonic crawler
+   614 | D        | Killed a demonic crawler
+   619 | D        | Killed a demonic crawler
+   624 | D        | Killed a demonic crawler
+   624 | D        | Reached XP level 10. HP: 72/99 MP: 17/17
+   631 | D        | Reached **** piety under Makhleb
+   634 | D        | Noticed a gargoyle
+   652 | D        | Killed a gargoyle
+   691 | D        | Noticed a lindwurm
+   711 | D        | Reached ***** piety under Makhleb
+   723 | D        | Reached skill level 5 in Armour
+   726 | D        | Reached skill level 10 in Fighting
+   742 | D        | Noticed a 12-headed hydra
+   749 | D        | Mangled by a 12-headed hydra (13 damage)
+   750 | D        | Paralysed by a floating eye for 4 turns
+   752 | D        | Slain by a 12-headed hydra (9 damage)
+                  | ... while paralysed by a floating eye
+   753 | D        | HP: 2/102 [12-headed hydra (8)]
+   753 | D        | Slain by a 12-headed hydra (3 damage)
+                  | ... while paralysed by a floating eye
+   899 | D        | Reached ****** piety under Makhleb
+   899 | D        | Reached skill level 1 in Maces & Flails
+   957 | D        | Killed an unseen horror
+  1030 | D        | Killed an unseen horror
+  1030 | D        | Reached skill level 5 in Bows
+  1123 | D        | Reached XP level 11. HP: 110/110 MP: 17/17
+  1235 | D        | Bought a potion of degeneration for 11 gold pieces
+  1238 | D        | Bought a scroll of identify for 20 gold pieces
+  1239 | D        | Bought a scroll of fog for 20 gold pieces
+  1239 | D        | Bought a scroll of identify for 20 gold pieces
+  1239 | D        | Bought a scroll of identify for 20 gold pieces
+  1239 | D        | Bought a scroll of identify for 20 gold pieces
+  1239 | D        | Bought a scroll of identify for 20 gold pieces
+  1248 | D        | Bought a scroll labeled ZIEVVI IHOBAGA for 29 gold pieces
+  1248 | D        | Bought a cyan potion for 26 gold pieces
+  1248 | D        | Bought a blue potion for 26 gold pieces
+  1248 | D        | Bought a scroll labeled FEGAZA FUASK for 29 gold pieces
+  1248 | D        | Bought a scroll labeled DYUBAZ WASKUE for 29 gold pieces
+  1253 | D        | Bought a scroll of identify for 22 gold pieces
+  1254 | D        | Bought a scroll of identify for 28 gold pieces
+  1260 | D        | Bought a scroll of identify for 28 gold pieces
+  1260 | D        | Bought a scroll of identify for 28 gold pieces
+  1260 | D        | Bought a scroll of identify for 28 gold pieces
+  1260 | D        | Bought a scroll of identify for 28 gold pieces
+  1265 | D        | Bought a hunting sling for 37 gold pieces
+  1273 | D        | Bought a scroll of fear for 35 gold pieces
+  1276 | D        | Bought a scroll of fear for 38 gold pieces
+  1283 | D        | Bought a potion of might for 56 gold pieces
+  1283 | D        | Bought a potion of might for 56 gold pieces
+  1293 | D        | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  2  4        5  6  7  8  9 10 | 10.5
+Short Blades   |  2  4                         |  4.1
+Dodging        |  3  5        6  8  9 10 11 12 | 12.4
+Stealth        |  3  6        7  9 10 11 13 14 | 14.3
+Evocations     |  5  7        8 10 11 12 13 14 | 14.8
+Polearms       |              2  4  6  7  8  9 |  9.1
+Bows           |                       1  3  5 |  5.3
+Armour         |                          3  6 |  6.7
+Maces & Flails |                             4 |  4.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Short sword       |    31 |       |       |       ||    31
+       Scythe            |       |     8 |    47 |  4059 ||  4114
+       Mace              |       |       |       |  4002 ||  4002
+ Fire: Longbow           |       |       |     6 |    86 ||    92
+Throw: Stone             |       |       |       |     2 ||     2
+Invok: Lesser Servant of |       |       |     1 |     1 ||     2
+       Major Destruction |       |       |       |     3 ||     3
+ Abil: Heal Wounds       |     1 |       |    13 |    13 ||    27
+Evoke: Wand              |     1 |     2 |     7 |     2 ||    12
+  Use: Potion            |       |       |     3 |     2 ||     5
+       Scroll            |       |       |       |     9 ||     9
+ Stab: Sleeping          |     2 |     2 |     1 |       ||     5
+       Distracted        |       |       |     2 |       ||     2
+  Eat: Chunk             |       |       |       |     1 ||     1
+Armor: Leather armour    |     5 |       |     1 |       ||     6
+       Ring mail         |       |       |     5 |  3080 ||  3085
+       Robe              |       |       |       |    16 ||    16
+Dodge: Dodged            |    14 |     3 |    44 | 10663 || 10724
+

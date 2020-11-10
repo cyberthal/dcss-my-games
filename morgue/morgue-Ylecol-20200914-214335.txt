@@ -1,0 +1,157 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1018397848432160541
+
+357 Ylecol the Vexing (level 6, 45/45 HPs) *WIZ*
+             Began as a Demigod Necromancer on Sept 14, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:49 (2 turns).
+
+Ylecol the Vexing (Demigod Necromancer)                Turns: 2, Time: 00:01:49
+
+Health: 45/45      AC:  2    Str: 11    XL:     6   Next: 14%
+Magic:  9/13       EV: 14    Int: 23    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 9/11 levels left
+
+rFire    . . .     SeeInvis .   b - +0 dagger (venom)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.15/turn              (no ring)
+MPRegen  0.13/turn              (no ring)
+
+@: no status effects
+A: high mp 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ b - a +0 dagger of venom (weapon)
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 3.4 Dodging
+ + Level 3.6 Stealth
+ + Level 3.2 Spellcasting
+ - Level 5.0 Hexes
+ + Level 4.7 Necromancy
+
+
+You had 9 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      1%          1    0
+b - Confusing Touch       Hex            26 (50)      1%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    0
+ Vampiric Draining        Necr           25 (200)     4%          3    77
+ Regeneration             Chrm/Necr      14 (200)     13%         3    77
+ Animate Dead             Necr           N/A          16%         4    177
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+You hit the elephant but do no damage. The elephant appears confused.
+Casting: Confusing Touch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your hands begin to glow red.
+You hit the elephant but do no damage.
+You catch the helpless elephant completely off-guard!
+You hit the elephant but do no damage.
+You hit the elephant but do no damage. The elephant appears confused.
+Casting: Confusing Touch (safe; 1% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Your hands begin to glow red.
+You hit the elephant but do no damage.
+You strike the helpless elephant from behind!
+You hit the elephant but do no damage.
+You hit the elephant but do no damage.
+You hit the elephant but do no damage.
+You hit the elephant but do no damage.
+You catch the helpless elephant completely off-guard!
+You hit the elephant but do no damage. The elephant appears confused.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ ##########
+  ~~~~~~~~~
+  ~~~~~~~~~
+  ~~~~~~~~~
+777..~~..~~
+7..........
+7..Y.......
+7P.@.......
+7<7.....7.P
+7777.......
+    .P.P7..
+    ##### .
+
+
+You could see an elephant (confused).
+
+Vanquished Creatures
+  An elephant (D:1)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ylecol the Demigod Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 5/5
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Noticed an elephant
+     2 | D:1      | Killed an elephant
+     2 | D:1      | Reached XP level 2. HP: 20/20 MP: 5/8
+     2 | D:1      | Reached XP level 3. HP: 26/26 MP: 6/10
+     2 | D:1      | Reached XP level 4. HP: 33/33 MP: 6/11
+     2 | D:1      | Reached XP level 5. HP: 38/38 MP: 6/12
+     2 | D:1      | Reached XP level 6. HP: 45/45 MP: 6/13
+     2 | D:1      | Learned a level 1 spell: Confusing Touch
+     2 | D:1      | Noticed an elephant
+     2 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Dodging        |  3 |  3.4
+Stealth        |  3 |  3.6
+Spellcasting   |  3 |  3.2
+Necromancy     |  4 |  4.7
+Hexes          |    |  5.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |     2 |    22 ||    24
+ Cast: Confusing Touch   |       |    10 ||    10
+ Stab: Sleeping          |     1 |     1 ||     2
+       Confused          |       |     6 ||     6
+

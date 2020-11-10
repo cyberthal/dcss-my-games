@@ -1,0 +1,241 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6538776388509277906
+
+574622 Saefufoa the Ninja (level 27, 175/199 HPs) *WIZ*
+             Began as a Deep Elf Wizard on Nov 7, 2020.
+             Was the Champion of Ru.
+             Quit the game on level 1 of the Crypt on Nov 8, 2020.
+             The game lasted 00:07:27 (73 turns).
+
+Saefufoa the Ninja (Deep Elf Wizard)                  Turns: 73, Time: 00:07:28
+
+Health: 175/199    AC:  4    Str:  4    XL:     27
+Magic:  56/56      EV: 30    Int: 22    God:    Ru 160 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   b - +0 hat
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       ++...                  (no boots)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.43/turn              (no ring)
+MPRegen  0.35/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: Draw Out Power, Power Leap, Apocalypse, Renounce Religion
+
+
+You were on level 1 of the Crypt.
+You worshipped Ru.
+Ru was exalted by your worship.
+You were completely stuffed.
+
+You visited 5 branches of the dungeon, and saw 7 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 hat (worn)
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 79 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          0%          2    0
+ Call Imp                 Summ           99 (100)     0%          2    0
+ Slow                     Hex            99 (100)     0%          2    0
+ Conjure Flame            Conj/Fire      99 (100)     0%          3    0
+ Mephitic Cloud           Conj/Pois/Air  99 (100)     0%          3    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)               Tomb (3/3) Crypt:3     
+
+Altars:
+Kikubaaqudgha
+
+Message History
+
+The flayed ghost begins to attack, but is stunned by your will!
+You feel yourself speed up.
+The flayed ghost disappears in a puff of smoke!
+The flying skull misses you.
+The shadow begins to attack, but is stunned by your will!
+The flying skull misses you. The flying skull completely misses you.
+You redirect something's attack!
+The flying skull barely misses you.
+You redirect something's attack!
+The flying skull hits you! The flying skull completely misses you.
+The flying skull is stunned by your will and fails to attack.
+Found a fizzy ruby potion.
+Found 12 arrows.
+The flying skull completely misses you.
+The flying skull completely misses you.
+The flying skull hits you but does no damage.
+The flying skull completely misses you.
+The flying skull barely misses you. The flying skull hits you!
+You focus your will and slow the flying skull in retribution!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+            #..#         #..#
+            #..#         #..#
+            #..#         +..#
+.           #..#         #..#
+..###+#######..#         #..#
+...............###########z.#
+........zVz.................#
+.......@zz................W.W
+.......(z.......##########...
+........z.......#        #...
+................#        #WzW
+................#        #...
+..#######.......##########...
+.       #....................
+        #..########.......%..
+                  #..........
+                  #.....#####
+                  #.....#
+                  #.....#
+                  #.....#
+
+
+You could see a jiangshi and 6 flying skulls.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Saefufoa the Deep Elf Wizard began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 7/7
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 50/50 MP: 7/32
+     0 | D:1      | Reached XP level 3. HP: 56/56 MP: 7/33
+     0 | D:1      | Reached XP level 4. HP: 62/62 MP: 7/35
+     0 | D:1      | Reached XP level 5. HP: 68/68 MP: 7/36
+     0 | D:1      | Reached XP level 6. HP: 74/74 MP: 7/38
+     0 | D:1      | Reached XP level 7. HP: 80/80 MP: 7/39
+     0 | D:1      | Reached XP level 8. HP: 86/86 MP: 7/41
+     0 | D:1      | Reached XP level 9. HP: 92/92 MP: 7/42
+     0 | D:1      | Reached XP level 10. HP: 98/98 MP: 7/43
+     0 | D:1      | Reached XP level 11. HP: 104/104 MP: 7/44
+     0 | D:1      | Reached XP level 12. HP: 110/110 MP: 7/45
+     0 | D:1      | Reached XP level 13. HP: 116/116 MP: 7/46
+     0 | D:1      | Reached XP level 14. HP: 122/122 MP: 7/47
+     0 | D:1      | Reached XP level 15. HP: 127/127 MP: 7/48
+     0 | D:1      | Reached XP level 16. HP: 133/133 MP: 7/49
+     0 | D:1      | Reached XP level 17. HP: 139/139 MP: 7/50
+     0 | D:1      | Reached XP level 18. HP: 145/145 MP: 7/51
+     0 | D:1      | Reached XP level 19. HP: 151/151 MP: 7/52
+     0 | D:1      | Reached XP level 20. HP: 157/157 MP: 7/53
+     0 | D:1      | Reached XP level 21. HP: 163/163 MP: 7/54
+     0 | D:1      | Reached XP level 22. HP: 169/169 MP: 7/55
+     0 | D:1      | Reached XP level 23. HP: 175/175 MP: 7/56
+     0 | D:1      | Reached XP level 24. HP: 181/181 MP: 7/56
+     0 | D:1      | Reached XP level 25. HP: 187/187 MP: 7/56
+     0 | D:1      | Reached XP level 26. HP: 193/193 MP: 7/56
+     0 | D:1      | Reached XP level 27. HP: 199/199 MP: 7/56
+     0 | Depths:1 | Entered Level 1 of the Depths
+     0 | Tomb:3   | Entered Level 3 of the Tomb of the Ancients
+     0 | Tomb:3   | Found the +8 whip "Snakebite" {curare, rPois}
+     0 | Tomb:3   | Identified a golden rune of Zot
+     0 | Tomb:3   | Identified the +6 shortbow of the Wheel {venom, rN+}
+     0 | Tomb:3   | Identified the +5 plate armour "Wecung" {rC+ rCorr Str+4}
+     0 | Tomb:3   | Identified the Incunabulum of Doomed Earth
+     0 | Tomb:3   | Identified the amulet "Besiawag" {Spirit Stlth+}
+     0 | Tomb:3   | Found the +8 whip "Snakebite" {curare, rPois}
+     0 | Tomb:3   | Identified the +2 troll leather armour of Ompedu {Regen+
+                  | Str+3}
+     0 | Tomb:3   | Identified the ring "Cahuiv" {*Drain +Blink Str+5 Int+2
+                  | Stlth+}
+     0 | Tomb:3   | Identified the +8 long sword of Jomire {flame, MR+ Str+4
+                  | Int-3 Dex+4}
+     0 | Tomb:3   | Identified the +1 plate armour of Hiunk {Int+4}
+     0 | Tomb:3   | Found the +8 whip "Snakebite" {curare, rPois}
+     0 | Tar:7    | Entered Level 7 of Tartarus
+     0 | Tar:7    | Found a gateway to Hell.
+     0 | Tar:7    | Found a gateway to Hell.
+     0 | Tar:7    | Found a gateway to Hell.
+     0 | Tar:7    | Identified a bone rune of Zot
+     0 | Tar:7    | Identified the ring "Zaurheti" {*Tele Str+5 Int-2}
+     0 | Tar:7    | Identified the +3 leather armour of Leofeit {rN+ Int+2}
+     0 | Tar:7    | Identified the +3 ring mail of Yhecoy {Str+3}
+     0 | Tar:7    | Identified the Almanac of Good Luck and Weightlessness
+     0 | Tar:7    | Identified the Volume of Enthralling Stones
+     0 | Tar:7    | Identified the +4 steam dragon scales "Ytohair" {rC++
+                  | Stlth+}
+     0 | Crypt:3  | Entered Level 3 of the Crypt
+     0 | Crypt:3  | Found an ancient bone altar of Kikubaaqudgha.
+     0 | Crypt:3  | Found a staircase to the Tomb.
+     0 | Crypt:3  | Identified the ring "Azeabufosa" {Wiz rC- Str+6 Dex+3
+                  | Slay+3}
+     0 | Crypt:3  | Identified the cursed +3 glaive of Change {elec, +Rage +Inv
+                  | rF+ Int-3}
+     0 | Crypt:3  | Identified the ring "Loptiurch" {+Fly rF- MR+ MP+9 Str-4}
+     0 | Crypt:3  | Identified the +1 chain mail of a Hundred Nights {rPois
+                  | SInv}
+     0 | Crypt:3  | Became a worshipper of Ru the Awakened
+     0 | Crypt:3  | Reached * piety under Ru
+     0 | Crypt:3  | Reached ** piety under Ru
+     0 | Crypt:3  | Reached *** piety under Ru
+     0 | Crypt:3  | Reached **** piety under Ru
+     0 | Crypt:3  | Reached ***** piety under Ru
+     0 | Crypt:3  | Reached ****** piety under Ru
+    27 | Crypt:1  | Entered Level 1 of the Crypt
+    73 | Crypt:1  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Armor: Robe              |       |       |       |       |       |       |       |       |     2 ||     2
+Dodge: Dodged            |       |       |       |       |       |       |       |       |    47 ||    47
+

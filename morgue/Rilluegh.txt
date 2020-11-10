@@ -1,0 +1,441 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 707217115123522752
+
+Rilluegh the Digger (Gargoyle Earth Elementalist)  Turns: 11962, Time: 02:13:13
+
+Health: 59/59      AC: 21    Str: 11    XL:     10   Next: 50%
+Magic:  16/16      EV: 11    Int: 20    God:    Fedhas [......]
+Gold:   744        SH:  0    Dex: 10    Spells: 1/17 levels left
+
+rFire    + . .     SeeInvis +   a - +9 heavy crossbow {velocity, Acc+? SInv}
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     + . .     Faith    .   A - +0 acid dragon scales
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   C - +1 cloak
+rCorr    +         Harm     +   P - +0 pair of gloves
+MR       .....                  r - +2 pair of boots
+Stlth    ++........             V - amulet of harm
+HPRegen  0.19/turn              z - ring of protection from fire
+MPRegen  0.15/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +7
+a: Fungal Bloom, Renounce Religion
+
+
+You are on level 7 of the Dungeon.
+You worship Fedhas.
+Fedhas is noncommittal.
+You are hungry.
+
+You have visited 2 branches of the dungeon, and seen 9 of its levels.
+
+You have collected 744 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - the +9 heavy crossbow "Sniper" (weapon) {velocity, Acc+? SInv}
+   (You took it off a gnoll sergeant on level 7 of the Dungeon)   
+   
+   Any bolt fired from it inflicts extra damage.
+   
+   It lets you see invisible.
+ b - a +2 whip of electrocution
+ c - a +1 dagger of venom
+ e - a +2 short sword of speed
+ f - a +0 halberd of flaming
+ g - a +0 hunting sling
+ p - a cursed +2 falchion of slicing
+ O - a cursed +4 scimitar
+ S - a +2 vampiric spear
+ Z - a +1 great sword of distortion
+Missiles
+ d - 11 poisoned needles
+ n - 96 bolts (quivered)
+ t - 118 arrows
+ R - 17 sling bullets
+ U - 2 throwing nets {!f}
+ Y - 186 stones
+Armour
+ r - a +2 pair of boots (worn)
+ A - +0 acid dragon scales (worn)
+ B - a +0 buckler
+ C - a +1 cloak (worn)
+ P - a +0 pair of gloves (worn)
+Jewellery
+ z - a ring of protection from fire (left hand)
+ V - an amulet of harm (around neck)
+Wands
+ q - a wand of flame (20)
+ s - a wand of iceblast (15)
+ y - a wand of digging (7)
+ D - a wand of acid (13)
+ L - a wand of polymorph (5)
+ Q - a wand of paralysis (3)
+ X - a wand of clouds (4)
+Scrolls
+ i - a scroll labeled USKUTR HERUDYL
+ j - a scroll of blinking
+ l - a scroll of immolation
+ o - a scroll labeled OGGOUNNIATE
+ v - a scroll of amnesia
+ w - a scroll of teleportation
+ E - 8 scrolls of remove curse
+ I - a scroll of fear
+ M - 3 scrolls of fog
+ T - a scroll labeled NIEDWASTRUNT
+ W - a scroll of noise
+Potions
+ h - 4 potions of magic
+ k - a potion of resistance
+ m - 3 potions of brilliance
+ u - 2 potions of curing
+ x - a potion of might
+ F - a potion of berserk rage
+ G - a fuming cyan potion
+ H - a potion of invisibility
+ K - an amethyst potion
+Comestibles
+ N - 18 rations
+
+
+   Skills:
+ + Level 5.5 Fighting
+ - Level 4.0 Short Blades
+ - Level 2.3 Maces & Flails
+ - Level 1.1 Polearms
+ - Level 1.0 Slings
+ - Level 5.6 Crossbows
+ - Level 6.0 Armour
+ - Level 2.0 Dodging
+ - Level 3.1 Stealth
+ - Level 4.0 Shields
+ - Level 4.0 Spellcasting
+ - Level 1.1 Conjurations
+ - Level 2.0 Summonings
+ - Level 1.6 Necromancy
+ - Level 0.7 Transmutations
+ - Level 7.4 Earth Magic
+ - Level 4.0 Evocations
+
+
+You have one spell level left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           ####..       1%          1    None
+b - Confusing Touch       Hex            #.....       19%         1    None
+c - Animate Skeleton      Necr           N/A          10%         1    None
+d - Call Imp              Summ           ##......     12%         2    #......
+e - Corpse Rot            Necr           N/A          14%         2    #......
+f - Passwall              Tmut/Erth      ###.....     5%          2    #......
+g - Stone Arrow           Conj/Erth      ###...       10%         3    ###....
+h - Petrify               Tmut/Erth      ###.....     34%         4    ####...
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Small Mammal      Summ           ##..         9%          1    None
+ Pain                     Necr           ##..         10%         1    None
+ Apportation              Tloc           #.....       19%         1    None
+ Call Canine Familiar     Summ           ##......     24%         3    ###....
+ Lee's Rapid Deconstruct  Erth           ####......   24%         5    ######.
+ Regeneration             Chrm/Necr      #.........   36%         3    ###....
+ Summon Guardian Golem    Hex/Summ       #.......     36%         3    ###....
+ Summon Ice Beast         Ice/Summ       #.......     77%         4    ####...
+ Summon Lightning Spire   Summ/Air       #.......     77%         4    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:7         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +7)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Search for what [Enter for "."]? fedhas
+You are feeling hungry.
+Okay, then.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+There is an open door here.
+Things that are here:
+a +0 halberd; a +0 robe
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+There is a blossoming altar of Fedhas here.
+You kneel at the altar of Fedhas.
+You have lost your religion!
+Kikubaaqudgha does not appreciate desertion!
+You sense decay.
+Fedhas welcomes you!
+The plants of the dungeon cease their hostilities.
+You can now turn corpses into toadstools.
+Saving game... please wait.
+
+#.##..#..............................>######
+#.#.).#.#...##.[.......#####.########.#    #
+.....##.#####............###.#####  #.######
+[...###..........................#  #.#.....
+#+#########'#####................#  #.#.....
+#.#...#.........#..###...........#  #.#.._..
+##..#.#.#.#.#.#.#..# #...........#  #.#.....
+......#..#.#.#..#..####..........#  #.......
+....#.#.#.....#.#......._.....##### ##....##
+.}....'..#.#.#..'....._..._...#.~.#  ######
+....#.#.#.....#.#.............#.~.#
+......#..#.#.#..#.......}.._..#.~.#
+##..#.#.#.#.#.#.#.............#.~.#
+#.#...#.........#.....@..._...#.~.#
+#'#########'#####......._.....##'##
+...## #....................##.....#
+....###.######.............###...##
+.#...##.######.##..........# #####
+###...#.#....#.##..........#
+# ##.)'.......>............#
+###...#......#..#..........#
+.#...##......#..###........#######
+....###......#..##...#...........#
+...## #..#......##...#...........#####
+#+#####....####.#....#...............#
+..........##  #.#....##..........#####
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  The ghost of Theoretic the Basher, a novice DDFi of Makhleb (D:7)
+  An orc knight (D:7)
+  A hippogriff (D:7)
+  A spriggan (D:7)
+  A hungry ghost (D:8)
+  An acid dragon (D:7)
+  2 orc warriors
+  A tengu (D:6)
+  An ogre (D:6)
+  4 centaurs
+  A crocodile (D:8)
+  2 big kobolds
+  4 bullfrogs
+  3 gnoll sergeants
+  4 scorpions
+  6 howler monkeys
+  5 wights (D:8)
+  3 crimson imps
+  A bullfrog zombie (D:6)
+  A centaur skeleton (D:8)
+  4 hounds
+  2 jellies
+  4 orc priests
+  3 bullfrog skeletons
+  6 orc wizards
+  3 iguanas
+  2 worker ants
+  A killer bee zombie (D:6)
+  A worker ant zombie (D:7)
+  9 gnolls
+  8 adders
+  A shadow imp (D:6)
+  3 oozes
+  An adder skeleton (D:8)
+  2 adder zombies (D:7)
+  2 worms
+  5 leopard geckos
+  16 orcs
+  A ball python (D:4)
+  6 bats
+  5 giant cockroaches
+  12 goblins
+  11 hobgoblins
+  10 jackals
+  7 quokkas
+  6 frilled lizards
+  2 jackal skeletons
+  A jackal zombie (D:7)
+  19 kobolds
+  A leopard gecko zombie (D:5)
+  A quokka skeleton (D:4)
+  10 rats
+  2 plants (D:6)
+211 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A black bear (D:8)
+  An ice beast (D:8)
+  An orc priest (D:8)
+  An orc (D:8)
+  2 jackals (D:8)
+6 creatures vanquished.
+
+Grand Total: 217 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rilluegh the Gargoyle Earth Elementalist began the quest
+                  | for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+    14 | D:1      | Noticed an electric eel
+   482 | D:1      | Reached skill level 1 in Fighting
+   642 | D:1      | Reached XP level 2. HP: 14/16 MP: 1/5
+   646 | D:1      | Learned a level 2 spell: Passwall
+   923 | D:1      | Reached skill level 1 in Maces & Flails
+  1259 | D:1      | Reached skill level 4 in Earth Magic
+  1365 | D:1      | Reached XP level 3. HP: 20/20 MP: 6/6
+  1373 | D:1      | Learned a level 3 spell: Stone Arrow
+  1379 | D:1      | Reached skill level 1 in Short Blades
+  2630 | D:3      | Found an opulent altar of Gozag.
+  2722 | D:2      | Reached skill level 1 in Slings
+  2722 | D:2      | Reached skill level 1 in Conjurations
+  2722 | D:2      | Reached XP level 4. HP: 25/25 MP: 7/7
+  2749 | D:3      | Reached skill level 1 in Evocations
+  3073 | D:3      | Reached XP level 5. HP: 26/29 MP: 6/8
+  3111 | D:3      | Found a faded altar of an unknown god.
+  3279 | D:3      | Reached skill level 1 in Shields
+  3797 | D:3      | Found a shimmering altar of Xom.
+  3799 | D:3      | Found a white marble altar of Elyvilon.
+  3799 | D:3      | Found a shattered altar of Ashenzari.
+  3807 | D:3      | Found an ancient bone altar of Kikubaaqudgha.
+  3807 | D:3      | Found a radiant altar of Vehumet.
+  3807 | D:3      | Found a sacrificial altar of Ru.
+  4072 | D:4      | Reached XP level 6. HP: 34/34 MP: 5/9
+  4181 | D:3      | Entered wizard mode.
+  4409 | D:4      | Reached skill level 5 in Earth Magic
+  5663 | D:5      | Entered Level 5 of the Dungeon
+  5695 | D:5      | Reached skill level 1 in Armour
+  5695 | D:5      | Reached XP level 7. HP: 37/38 MP: 10/10
+  5713 | D:4      | Learned a level 4 spell: Petrify
+  7125 | D:6      | Found a sacrificial altar of Ru.
+  7349 | D:6      | Reached XP level 8. HP: 38/43 MP: 8/11
+  7548 | D:6      | Reached skill level 6 in Earth Magic
+  7796 | D:6      | Reached skill level 7 in Earth Magic
+  8046 | D:7      | Noticed a spriggan baker
+  8058 | D:7      | Killed a spriggan baker
+  8259 | D:7      | Found a glowing golden altar of the Shining One.
+  8312 | D:7      | Found a blossoming altar of Fedhas.
+  8313 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+  8314 | D:7      | Found a hazy altar of Hepliaklqana.
+  8324 | D:7      | Found a shattered altar of Ashenzari.
+  8324 | D:7      | Found a glowing silver altar of Zin.
+  8325 | D:7      | Found a bloodstained altar of Trog.
+  8328 | D:7      | Became a worshipper of Kikubaaqudgha
+  8331 | D:7      | Found a runed translucent door.
+  8332 | D:7      | Noticed Theoretic's ghost (novice DDFi)
+  8474 | D:7      | Reached skill level 1 in Crossbows
+  8588 | D:7      | Reached XP level 9. HP: 48/48 MP: 12/12
+  8600 | D:7      | Noticed an orc knight
+  9297 | D:6      | Learned a level 2 spell: Call Imp
+  9305 | D:6      | Reached * piety under Kikubaaqudgha
+  9305 | D:6      | Identified Kikubaaqudgha's Handbook of Unholy Rites
+                  | (Kikubaaqudgha gifted it to you on level 6 of the Dungeon)
+  9305 | D:6      | Received a gift from Kikubaaqudgha
+  9379 | D:7      | Found a staircase to the Ecumenical Temple.
+  9395 | Temple   | Entered the Ecumenical Temple
+ 10006 | D:7      | Reached skill level 5 in Armour
+ 10100 | D:7      | Found a bloodstained altar of Trog.
+ 10195 | D:7      | Killed Theoretic's ghost
+ 10195 | D:7      | Reached skill level 5 in Crossbows
+ 10195 | D:7      | Reached skill level 1 in Summonings
+ 10406 | D:7      | Reached XP level 10. HP: 45/56 MP: 13/15
+ 10465 | D:6      | Learned a level 1 spell: Animate Skeleton
+ 10468 | D:6      | Learned a level 2 spell: Corpse Rot
+ 10777 | D:7      | Killed an orc knight
+ 10777 | D:7      | Reached skill level 1 in Necromancy
+ 10906 | D:7      | Learned a level 1 spell: Confusing Touch
+ 10906 | D:7      | You fall through a shaft!
+ 10907 | D:7      | wizmode bug shaft
+ 10907 | D:7      | didn't explore any new tiles.  just first step after logged
+                  | in same client session from other wizmode game.
+ 10907 | D:7      | so just wizmoded back to correct floor
+ 11227 | D:8      | Reached skill level 1 in Polearms
+ 11341 | D:8      | Reached ** piety under Kikubaaqudgha
+ 11394 | D:8      | Reached skill level 5 in Fighting
+ 11961 | D:7      | Fell from the grace of Kikubaaqudgha
+ 11961 | D:7      | Became a worshipper of Fedhas Madash
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 |
+---------------+-------------------------------+-----
+Fighting       |  1                    2  3  5 |  5.5
+Maces & Flails |     1                    2    |  2.3
+Earth Magic    |     4           5     7       |  7.4
+Short Blades   |        1     2        3  4    |  4.0
+Slings         |        1                      |  1.0
+Conjurations   |        1                      |  1.1
+Evocations     |           1  2     3     4    |  4.0
+Shields        |              1  3  4          |  4.0
+Armour         |                 1  4     5  6 |  6.0
+Stealth        |                       3       |  3.1
+Crossbows      |                       2  5    |  5.6
+Summonings     |                          2    |  2.0
+Spellcasting   |                          3  4 |  4.0
+Necromancy     |                             1 |  1.6
+Dodging        |                             2 |  2.0
+Polearms       |                             1 |  1.1
+Transmutations |                               |  0.7
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |   119 |  4083 |    94 |       ||  4296
+       Club              |    20 |       |       |       ||    20
+       Short sword       |       |  8036 |   157 |       ||  8193
+       Flail             |       |  4000 |       |       ||  4000
+       Whip              |       |       |    10 |    33 ||    43
+       Halberd           |       |       |       |    16 ||    16
+ Fire: Hunting sling     |    12 |   106 |   141 |    12 ||   271
+       Heavy crossbow    |       |       |    38 |    32 ||    70
+Throw: Stone             |    21 |       |     6 |       ||    27
+ Cast: Sandblast         |    15 |    16 |    43 |     1 ||    75
+       Stone Arrow       |       |     4 |     7 |       ||    11
+       Animate Skeleton  |       |       |       |    10 ||    10
+Evoke: Wand              |       |       |     7 |     3 ||    10
+  Use: Scroll            |     5 |     6 |     7 |     1 ||    19
+       Potion            |     1 |       |     4 |       ||     5
+ Stab: Sleeping          |     3 |       |       |       ||     3
+  Eat: Chunk             |     5 |    10 |    14 |     3 ||    32
+       Ration            |       |       |     1 |     1 ||     2
+Armor: Robe              |    39 |   245 |       |       ||   284
+       Ring mail         |       |   451 |   111 |     2 ||   564
+       Acid dragon scale |       |       |       |    25 ||    25
+Dodge: Dodged            |    88 |  7502 |   106 |    30 ||  7726
+Block: Buckler           |       |  2091 |    24 |       ||  2115
+

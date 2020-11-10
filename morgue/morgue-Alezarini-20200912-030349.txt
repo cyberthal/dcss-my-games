@@ -1,0 +1,468 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 1340361477667990698
+
+574622 Alezarini the Cudgeler (level 27, 191/191 HPs) *WIZ*
+             Began as a Troll Chaos Knight on Sept 12, 2020.
+             Quit the game on level 2 of the Abyss.
+             The game lasted 00:16:27 (4078 turns).
+
+Alezarini the Cudgeler (Troll Chaos Knight)         Turns: 4078, Time: 00:16:27
+
+Health: 191/191    AC: 18    Str: 15    XL:     27
+Magic:  15/15      EV: 20    Int:  4    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex:  5    Spells: 26/26 levels left
+
+rFire    + + .     SeeInvis .   (weapon currently unavailable)
+rCold    + + .     Gourm    +   (shield currently unavailable)
+rNeg     + + +     Faith    .   (armour currently unavailable)
+rPois    ?          Spirit   .   (helmet currently unavailable)
+rElec    +         Reflect  .   (cloak currently unavailable)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       ++...                  (boots unavailable)
+Stlth    +.........             (amulet currently unavailable)
+HPRegen  0.81/turn              (ring currently unavailable)
+MPRegen  0.14/turn              (ring currently unavailable)
+
+@: wisp-form, flying, quick
+A: tiny, unfitting armour, repulsion field 1, blurry vision 3, clumsy 2, dopey
+2, fast metabolism 3, frail 1, gourmand, low mp 3, sense surroundings 1,
+regeneration 1, screaming 1, weak 2
+a: no special abilities
+
+
+You were on level 2 of the Abyss.
+You were very full.
+
+You were an insubstantial wisp.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos (melded)
+Armour
+ b - a +2 robe (melded)
+Potions
+ d - 11 potions of lignification
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.6 Maces & Flails
+ + Level 1.9 Dodging
+
+
+You had 26 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+((You have claws for hands.))
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+((You are covered in fur. (AC +1)))
+((You have extremely tough skin. (AC +3)))
+You are surrounded by a mild repulsion field. (EV +2)
+((You are partially covered in icy blue scales. (AC +2)))
+((You are partially covered in molten scales. (AC +2)))
+Scrolls take you much longer to read.
+You are very clumsy. (Dex -4)
+((Armour fits poorly on your strangely shaped body.))
+You are very dopey. (Int -4)
+You are frail. (-10% HP)
+Your magical capacity is extremely low. (-30% MP)
+You passively map a small area around you.
+You occasionally shout uncontrollably at your foes.
+You are very weak. (Str -4)
+
+
+Message History
+
+Which god (default No God)? j
+Mutagenic energy floods into your body!
+You turn into an insubstantial wisp.
+Your +0 mace of chaos melds into your body.
+Your +2 robe melds into your body.
+Enter Wizard Command (? - help): 
+Which god (default No God)? j
+Some slimes ooze up out of the ground!
+A jelly, an acid blob, a shining eye and a great orb of eyes come into view.
+Enter Wizard Command (? - help): 
+Which god (default No God)? j
+Some slimes ooze up out of the ground!
+A floating eye and 2 great orbs of eyes come into view.
+Enter Wizard Command (? - help): 
+Which god (default No God)? j
+Mutagenic energy floods into your body!
+Press: ? - help, v - describe, . - travel
+Here: a great orb of eyes (translocational energy, durably summoned)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+     ######   #.
+..# ##0#..###..#
+ .....0G.0G0.....
+ ..)..#..0G......
+#.....0Jv.00.# .
+ .....JG00G..... . .
+ .[..%00\....... .
+.................
+................ . ..#
+#.....#.........0..
+ ..........#....0 .
+#.....#......... .
+     #.# . ###  0  ..
+               #0  #..
+                 #
+                 #
+
+
+You could see an acid blob, 3 great orbs of eyes, a shining eye, a jelly and a
+floating eye.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Alezarini the Troll Chaos Knight began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Fell from the grace of Xom
+  3925 | D:1      | XOM: mild Chrm miscast
+  3925 | D:1      | XOM: give mutations
+  3925 | D:1      | Gained mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  3925 | D:1      | Gained mutation: You are dopey. (Int -2) [Xom's mischief]
+  3925 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [Xom's mischief]
+  3925 | D:1      | XOM: 1-stop teleportation journey
+  3925 | D:1      | XOM: give mutation
+  3925 | D:1      | Gained mutation: You are frail. (-10% HP) [Xom's mischief]
+  3925 | D:1      | XOM: summons 14 hostile demons
+  3925 | D:1      | Noticed a ynoxinul
+  3925 | D:1      | Noticed a neqoxec
+  3925 | D:1      | Noticed a hellwing
+  3925 | D:1      | Noticed an iron imp
+  3925 | D:1      | Noticed a chaos spawn
+  3925 | D:1      | Noticed a quasit
+  3925 | D:1      | Noticed an iron imp
+  3925 | D:1      | Noticed a quasit
+  3925 | D:1      | Noticed a chaos spawn
+  3925 | D:1      | Noticed a crimson imp
+  3927 | D:1      | XOM: mild Summ miscast
+  3927 | D:1      | XOM: 1-stop teleportation journey
+  3927 | D:1      | XOM: give mutations
+  3927 | D:1      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [Xom's mischief]
+  3927 | D:1      | Gained mutation: You are very dopey. (Int -4) [Xom's
+                  | mischief]
+  3927 | D:1      | Gained mutation: You tend to lose your temper in combat.
+                  | [Xom's mischief]
+  3927 | D:1      | XOM: medium Erth miscast
+  3927 | D:1      | XOM: medium Conj miscast
+  3927 | D:1      | XOM: mild Air miscast
+  3927 | D:1      | XOM: summons 1 hostile shadow creature
+  3927 | D:1      | XOM: summons 5 hostile demons
+  3927 | D:1      | Noticed a rust devil
+  3927 | D:1      | Noticed an orange demon
+  3927 | D:1      | Noticed an iron imp
+  3927 | D:1      | Noticed a chaos spawn
+  3927 | D:1      | XOM: god gift: 26 gold pieces
+  3927 | D:1      | XOM: medium Air miscast
+  3931 | D:1      | XOM: mild Ice miscast
+  3931 | D:1      | XOM: mild Erth miscast
+  3931 | D:1      | XOM: medium Erth miscast
+  3931 | D:1      | XOM: stat loss: -1 Int (3/4)
+  3931 | D:1      | XOM: give mutations
+  3931 | D:1      | Gained mutation: You are weak. (Str -2) [Xom's mischief]
+  3931 | D:1      | Lost mutation: You tend to lose your temper in combat.
+                  | [Xom's mischief]
+  3931 | D:1      | XOM: mild Tmut miscast
+  3931 | D:1      | XOM: mild Erth miscast
+  3931 | D:1      | XOM: 1-stop teleportation journey
+  3931 | D:1      | XOM: mild Hex miscast
+  3931 | D:1      | XOM: medium Ice miscast
+  3931 | D:1      | XOM: stat loss: -1 Str (16/17)
+  3931 | D:1      | XOM: 1-stop teleportation journey
+  3931 | D:1      | XOM: stat loss: -2 Dex (4/7)
+  3931 | D:1      | XOM: 1-stop teleportation journey
+  3931 | D:1      | XOM: give mutations
+  3931 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [Xom's mischief]
+  3931 | D:1      | Lost mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  3931 | D:1      | Lost mutation: You are weak. (Str -2) [Xom's mischief]
+  3931 | D:1      | XOM: torment (2/19 hp)
+  3931 | D:1      | XOM: 1-stop teleportation journey
+  3931 | D:1      | XOM: mild Necr miscast
+  3931 | D:1      | XOM: give mutations
+  3931 | D:1      | Gained mutation: You are partially covered in yellow
+                  | scales. (AC +2) [Xom's mischief]
+  3931 | D:1      | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [Xom's mischief]
+  3931 | D:1      | Lost mutation: Your body often deteriorates upon taking
+                  | damage. [Xom's mischief]
+  3931 | D:1      | XOM: draining
+  3931 | D:1      | XOM: medium Tmut miscast
+  3931 | D:1      | XOM: give mutations
+  3931 | D:1      | Gained mutation: You are resistant to electric shocks.
+                  | (rElec) [Xom's grace]
+  3931 | D:1      | Gained mutation: You are partially covered in icy blue
+                  | scales. (AC +2) [Xom's grace]
+  3931 | D:1      | Lost mutation: Scrolls take you a little longer to read.
+                  | [Xom's grace]
+  3931 | D:1      | Gained mutation: You have supernaturally acute eyesight.
+                  | (SInv) [Xom's grace]
+  3931 | D:1      | Gained mutation: You are partially covered in rugged brown
+                  | scales. (AC +1, +3% HP) [Xom's grace]
+  3946 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+  3946 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+  3946 | D:1      | Reached XP level 4. HP: 40/40 MP: 3/3
+  3946 | D:1      | Reached XP level 5. HP: 46/46 MP: 4/4
+  3946 | D:1      | Reached XP level 6. HP: 54/54 MP: 5/5
+  3946 | D:1      | Reached XP level 7. HP: 61/61 MP: 6/6
+  3946 | D:1      | Reached XP level 8. HP: 68/68 MP: 7/7
+  3946 | D:1      | Reached XP level 9. HP: 74/74 MP: 8/8
+  3946 | D:1      | Reached XP level 10. HP: 81/81 MP: 9/9
+  3946 | D:1      | Reached XP level 11. HP: 87/87 MP: 10/10
+  3946 | D:1      | Reached XP level 12. HP: 96/96 MP: 11/11
+  3946 | D:1      | Reached XP level 13. HP: 102/102 MP: 12/12
+  3946 | D:1      | Reached XP level 14. HP: 109/109 MP: 13/13
+  3946 | D:1      | Reached XP level 15. HP: 115/115 MP: 14/14
+  3948 | D:1      | XOM: scenery: 1 doors open
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: give mutation
+  3948 | D:1      | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [Xom's mischief]
+  3948 | D:1      | XOM: draining
+  3948 | D:1      | XOM: give mutation
+  3948 | D:1      | Lost mutation: You are frail. (-10% HP) [Xom's mischief]
+  3948 | D:1      | XOM: summons 1 hostile shadow creature
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: polymorph bat -> ooze
+  3948 | D:1      | XOM: medium Air miscast
+  3948 | D:1      | XOM: polymorph ooze -> jelly
+  3948 | D:1      | XOM: polymorph jelly -> worm
+  3948 | D:1      | XOM: give mutations
+  3948 | D:1      | Gained mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  3948 | D:1      | Lost mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  3948 | D:1      | XOM: scenery: 1 doors close
+  3948 | D:1      | XOM: medium Air miscast
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: medium Summ miscast
+  3948 | D:1      | XOM: summons 2 hostile shadow creatures
+  3948 | D:1      | XOM: polymorph worm -> wyvern
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: polymorph wyvern -> shapeshifter
+  3948 | D:1      | XOM: medium Ice miscast
+  3948 | D:1      | XOM: give mutation
+  3948 | D:1      | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [Xom's mischief]
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: scenery: 1 doors open
+  3948 | D:1      | XOM: summons 3 hostile demons
+  3948 | D:1      | XOM: summons 14 hostile demons
+  3948 | D:1      | XOM: summons 3 hostile demons
+  3948 | D:1      | XOM: polymorph shapeshifter -> shapeshifter
+  3948 | D:1      | XOM: severe Pois miscast
+  3948 | D:1      | XOM: stat loss: -3 Dex (6/9)
+  3948 | D:1      | XOM: medium Tmut miscast
+  3948 | D:1      | XOM: mild Tmut miscast
+  3948 | D:1      | XOM: mild Hex miscast
+  3948 | D:1      | XOM: god gift: wand of clouds (5)
+  3948 | D:1      | XOM: stat loss: -1 Dex (5/9)
+  3948 | D:1      | XOM: give mutations
+  3948 | D:1      | Gained mutation: You have large cloven feet. [Xom's
+                  | mischief]
+  3948 | D:1      | Lost mutation: You are partially covered in yellow scales.
+                  | (AC +2) [Xom's mischief]
+  3948 | D:1      | Gained mutation: You sometimes yell uncontrollably at your
+                  | foes. [Xom's mischief]
+  3948 | D:1      | Lost mutation: You have large cloven feet. [Xom's mischief]
+  3948 | D:1      | XOM: give mutations
+  3948 | D:1      | Lost mutation: You sometimes yell uncontrollably at your
+                  | foes. [Xom's mischief]
+  3948 | D:1      | Lost mutation: You have supernaturally acute eyesight.
+                  | (SInv) [Xom's mischief]
+  3948 | D:1      | XOM: mild Necr miscast
+  3948 | D:1      | XOM: give mutations
+  3948 | D:1      | Gained mutation: Scrolls take you a little longer to read.
+                  | [Xom's mischief]
+  3948 | D:1      | Gained mutation: You are weak. (Str -2) [Xom's mischief]
+  3948 | D:1      | Lost mutation: You are partially covered in rugged brown
+                  | scales. (AC +1, +3% HP) [Xom's mischief]
+  3948 | D:1      | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [Xom's mischief]
+  3948 | D:1      | XOM: give mutations
+  3948 | D:1      | Gained mutation: You are somewhat resistant to further
+                  | mutation. [Xom's mischief]
+  3948 | D:1      | Lost mutation: You are weak. (Str -2) [Xom's mischief]
+  3948 | D:1      | Gained mutation: You passively map a small area around you.
+                  | [Xom's mischief]
+  3948 | D:1      | XOM: polymorph shapeshifter -> shapeshifter
+  3948 | D:1      | XOM: polymorph shapeshifter -> shapeshifter
+  3948 | D:1      | XOM: mild Summ miscast
+  3948 | D:1      | XOM: noise
+  3948 | D:1      | XOM: mild Tmut miscast
+  3948 | D:1      | XOM: severe Fire miscast
+  3983 | Depths:4 | XOM: severe Tloc miscast
+  3983 | Depths:4 | XOM: medium Summ miscast
+  3983 | Depths:4 | XOM: draining
+  3983 | Depths:4 | XOM: give mutation
+  3983 | Depths:4 | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [Xom's mischief]
+  3983 | Depths:4 | XOM: stat loss: -2 Str (17/19)
+  3983 | Depths:4 | XOM: medium Fire miscast
+  3983 | Depths:4 | Cast into level 2 of the Abyss (Xom)
+  3983 | Abyss:2  | Found a corrupted altar of Lugonu.
+  3983 | Abyss:2  | XOM: give mutations
+  3983 | Abyss:2  | Lost mutation: Scrolls take you a little longer to read.
+                  | [Xom's mischief]
+  3983 | Abyss:2  | Gained mutation: You are clumsy. (Dex -2) [Xom's mischief]
+  3983 | Abyss:2  | Lost mutation: You are resistant to electric shocks.
+                  | (rElec) [Xom's mischief]
+  3983 | Abyss:2  | XOM: stat loss: -3 Dex (4/7)
+  3983 | Abyss:2  | XOM: give mutations
+  3983 | Abyss:2  | Gained mutation: You are partially covered in molten
+                  | scales. (AC +2) [Xom's grace]
+  3983 | Abyss:2  | Gained mutation: You have a pair of small horns on your
+                  | head. [Xom's grace]
+  3983 | Abyss:2  | XOM: summons 1 hostile shadow creature
+  3983 | Abyss:2  | XOM: repel stairs
+  3983 | Abyss:2  | XOM: enchant monster (bad)
+  3983 | Abyss:2  | XOM: swap monsters
+  3983 | Abyss:2  | XOM: noise
+  3983 | Abyss:2  | XOM: draining
+  3983 | Abyss:2  | XOM: stat loss: -3 Dex (1/7)
+  3983 | Abyss:2  | XOM: torment (53/124 hp)
+  3983 | Abyss:2  | XOM: polymorph large abomination -> large abomination
+  3983 | Abyss:2  | XOM: swap monsters
+  3983 | Abyss:2  | XOM: fake destruction
+  3983 | Abyss:2  | XOM: fog
+  3983 | Abyss:2  | XOM: swap monsters
+  3983 | Abyss:2  | XOM: give mutations
+  3983 | Abyss:2  | Gained mutation: Scrolls take you a little longer to read.
+                  | [Xom's mischief]
+  3983 | Abyss:2  | Gained mutation: You are frail. (-10% HP) [Xom's mischief]
+  3983 | Abyss:2  | Lost mutation: You have a pair of small horns on your head.
+                  | [Xom's mischief]
+  3983 | Abyss:2  | XOM: summons 14 hostile demons
+  3983 | Abyss:2  | Reached XP level 16. HP: 56/118 MP: 15/15
+  3983 | Abyss:2  | Reached XP level 17. HP: 60/125 MP: 16/16
+  3983 | Abyss:2  | Reached XP level 18. HP: 64/133 MP: 17/17
+  3983 | Abyss:2  | Reached XP level 19. HP: 66/138 MP: 18/18
+  3983 | Abyss:2  | Reached XP level 20. HP: 69/145 MP: 19/19
+  3983 | Abyss:2  | Reached XP level 21. HP: 73/152 MP: 20/20
+  3983 | Abyss:2  | Reached XP level 22. HP: 76/158 MP: 21/21
+  3983 | Abyss:2  | Reached XP level 23. HP: 79/164 MP: 22/22
+  3983 | Abyss:2  | Reached XP level 24. HP: 82/172 MP: 22/22
+  3983 | Abyss:2  | Reached XP level 25. HP: 85/178 MP: 22/22
+  3983 | Abyss:2  | Reached XP level 26. HP: 89/185 MP: 22/22
+  3983 | Abyss:2  | Reached XP level 27. HP: 92/191 MP: 22/22
+  4021 | Abyss:2  | Gained mutation: You are weak. (Str -2) [mutagenic glow]
+  4022 | Abyss:2  | XOM: summons 14 hostile demons
+  4022 | Abyss:2  | XOM: summons 2 hostile shadow creatures
+  4022 | Abyss:2  | XOM: chaos cloud
+  4022 | Abyss:2  | XOM: confusion (+ monsters)
+  4022 | Abyss:2  | XOM: confusion
+  4022 | Abyss:2  | XOM: draining
+  4022 | Abyss:2  | XOM: confusion
+  4022 | Abyss:2  | XOM: confuse monster(s)
+  4022 | Abyss:2  | XOM: noise
+  4022 | Abyss:2  | XOM: medium Necr miscast
+  4022 | Abyss:2  | XOM: swap monsters
+  4022 | Abyss:2  | XOM: noise
+  4022 | Abyss:2  | XOM: polymorph something unseen -> komodo dragon
+  4022 | Abyss:2  | XOM: blink monster(s)
+  4022 | Abyss:2  | XOM: enchant monster (bad)
+  4022 | Abyss:2  | XOM: blink monster(s)
+  4022 | Abyss:2  | XOM: give mutations
+  4022 | Abyss:2  | Lost mutation: You are somewhat resistant to further
+                  | mutation. [Xom's mischief]
+  4022 | Abyss:2  | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [Xom's mischief]
+  4022 | Abyss:2  | XOM: noise
+  4022 | Abyss:2  | XOM: polymorph something unseen -> manticore
+  4022 | Abyss:2  | XOM: blink monster(s)
+  4022 | Abyss:2  | XOM: swap monsters
+  4022 | Abyss:2  | XOM: give mutation
+  4022 | Abyss:2  | Gained mutation: You are very frail. (-20% HP) [Xom's
+                  | mischief]
+  4022 | Abyss:2  | XOM: noise
+  4022 | Abyss:2  | XOM: enchant monster (good)
+  4022 | Abyss:2  | XOM: god gift: hardcover book {god gift}
+  4022 | Abyss:2  | XOM: mild Tloc miscast
+  4022 | Abyss:2  | XOM: mild Ice miscast
+  4022 | Abyss:2  | XOM: polymorph manticore -> shapeshifter
+  4022 | Abyss:2  | XOM: severe Air miscast
+  4022 | Abyss:2  | XOM: stat loss: -2 Int (2/4)
+  4022 | Abyss:2  | XOM: give mutation
+  4022 | Abyss:2  | Gained mutation: You are surrounded by a mild repulsion
+                  | field. (EV +2) [Xom's mischief]
+  4022 | Abyss:2  | XOM: mild Ice miscast
+  4022 | Abyss:2  | XOM: give mutation
+  4022 | Abyss:2  | Gained mutation: You are extremely frail. (-30% HP) [Xom's
+                  | mischief]
+  4022 | Abyss:2  | XOM: polymorph shapeshifter -> shapeshifter
+  4022 | Abyss:2  | XOM: give mutations
+  4022 | Abyss:2  | Lost mutation: You are extremely frail. (-30% HP) [Xom's
+                  | mischief]
+  4022 | Abyss:2  | Lost mutation: You are very frail. (-20% HP) [Xom's
+                  | mischief]
+  4022 | Abyss:2  | XOM: stat loss: -1 Str (16/17)
+  4022 | Abyss:2  | XOM: polymorph shapeshifter -> shapeshifter
+  4022 | Abyss:2  | XOM: severe Air miscast
+  4022 | Abyss:2  | XOM: polymorph shapeshifter -> shapeshifter
+  4022 | Abyss:2  | XOM: polymorph shapeshifter -> shapeshifter
+  4022 | Abyss:2  | Became a worshipper of Dithmenos the Shadowed
+  4022 | Abyss:2  | Reached * piety under Dithmenos
+  4022 | Abyss:2  | Reached ** piety under Dithmenos
+  4022 | Abyss:2  | Reached *** piety under Dithmenos
+  4022 | Abyss:2  | Reached **** piety under Dithmenos
+  4022 | Abyss:2  | Reached ***** piety under Dithmenos
+  4022 | Abyss:2  | Reached ****** piety under Dithmenos
+  4063 | Abyss:2  | Was forgiven by Xom
+  4063 | Abyss:2  | Gained mutation: You are very clumsy. (Dex -4) [the
+                  | vengeance of Jiyva]
+  4063 | Abyss:2  | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [the vengeance of Jiyva]
+  4063 | Abyss:2  | Gained mutation: Scrolls take you longer to read. [the
+                  | vengeance of Jiyva]
+  4063 | Abyss:2  | Gained mutation: Scrolls take you much longer to read. [the
+                  | vengeance of Jiyva]
+  4063 | Abyss:2  | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [the vengeance of Jiyva]
+  4077 | Abyss:2  | Fell from the grace of Dithmenos
+  4078 | Abyss:2  | Gained mutation: You are very weak. (Str -4) [the vengeance
+                  | of Jiyva]
+  4078 | Abyss:2  | Gained mutation: Your magical capacity is extremely low.
+                  | (-30% MP) [the vengeance of Jiyva]
+  4078 | Abyss:2  | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [the vengeance of Jiyva]
+  4078 | Abyss:2  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Mace              |     2 |       |       |       |       |       |       |       |       ||     2
+Invok: Renounce Religion |     1 |       |       |       |       |       |       |       |     1 ||     2
+  Use: Potion            |       |       |       |       |       |       |       |       |     1 ||     1
+Armor: Robe              |     1 |       |       |       |       |       |       |       |       ||     1
+Dodge: Dodged            |     2 |       |       |       |       |       |       |       |       ||     2
+

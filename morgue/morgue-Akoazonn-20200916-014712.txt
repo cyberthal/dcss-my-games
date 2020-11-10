@@ -1,0 +1,300 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17537850927108721309
+
+115 Akoazonn the Ghoul of Death (level 5, 45/45 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 16, 2020.
+             Was an Initiate of Yredelemnul.
+             Quit the game on level 10 of the Dungeon.
+             The game lasted 00:20:42 (484 turns).
+
+Akoazonn the Ghoul of Death (Ghoul Monk)             Turns: 484, Time: 00:20:43
+
+Health: 45/45      AC:  2    Str: 14    XL:     5   Next: 0%
+Magic:  33/33      EV: 12    Int:  5    God:    Yredelemnul 14 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 57/58 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.15/turn              (no ring)
+MPRegen  0.23/turn              (no ring)
+
+@: rotting, slowed, very slow
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Renounce Religion
+
+
+You were on level 10 of the Dungeon.
+You worshipped Yredelemnul.
+Yredelemnul was noncommittal.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 4 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 3.2 Fighting
+ + Level 2.6 Dodging
+ + Level 2.1 Stealth
+ + Level 3.2 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Necromancy
+
+
+You had 57 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           25 (25)      0%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Vampiric Draining        Necr           33 (200)     0%          3    15
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)             Slime (0/5) Lair:5      
+Temple: D:4-7         Lair: D:8-11       Swamp: Lair:2-4    Shoals: Lair:2-4
+ Snake: Lair:2-4    Spider: Lair:2-4       Orc: D:9-12      
+
+Altars:
+Jiyva
+
+Shops:
+Orc:1 =
+
+Portals:
+Bailey: Orc:1
+Volcano: Orc:1
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Which god (default Yredelemnul)? K
+Kikubaaqudgha's malice focuses upon you.
+Enter Wizard Command (? - help): 
+Which god (default Yredelemnul)? K
+You hear Kikubaaqudgha cackling.
+Nothing appears to happen. The dead are walking and hopping!
+2 zombies come into view.
+Enter Wizard Command (? - help): 
+Which god (default Yredelemnul)? K
+You hear Kikubaaqudgha cackling.
+Your bones ache. You feel yourself slow down. You feel horribly lethargic. Your
+bones ache. The dead are flying!
+A sky beast zombie comes into view.
+Enter Wizard Command (? - help): 
+Which god (default Yredelemnul)? K
+You hear Kikubaaqudgha cackling.
+Nothing appears to happen.
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 31 monsters.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###############
+.............~.
+...?..00.....###
+....8(0@0.....>#
+......000....###
+.............~.
+###############
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Akoazonn the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Kikubaaqudgha
+     0 | D:1      | Reached * piety under Kikubaaqudgha
+     0 | D:1      | Identified Kikubaaqudgha's Tome of Sinister Rites
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     0 | D:1      | Received a gift from Kikubaaqudgha
+     0 | D:1      | Reached ** piety under Kikubaaqudgha
+     1 | D:1      | Fell from the grace of Kikubaaqudgha
+     1 | D:1      | Became a worshipper of Yredelemnul the Dark
+     1 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+     1 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+     1 | D:1      | Reached XP level 4. HP: 38/38 MP: 3/3
+     1 | D:1      | Reached XP level 5. HP: 45/45 MP: 4/4
+     1 | D:1      | Reached XP level 6. HP: 51/51 MP: 5/5
+     1 | D:1      | Reached XP level 7. HP: 57/57 MP: 6/6
+     1 | D:1      | Reached XP level 8. HP: 63/63 MP: 7/7
+     1 | D:1      | Reached XP level 9. HP: 70/70 MP: 8/8
+     1 | D:1      | Reached XP level 10. HP: 77/77 MP: 9/9
+     3 | D:1      | Learned a level 1 spell: Pain
+    72 | D:1      | Noticed a reaper
+   137 | D:1      | Noticed a reaper
+   159 | D:1      | Noticed a soul eater
+   166 | D:1      | HP: 2/77 [soul eater[the malice of Kikubaaqudgha] (8)]
+   197 | Lair:5   | Found a viscous altar of Jiyva.
+   197 | Lair:5   | Found a staircase to the Slime Pits.
+   197 | Lair:5   | Noticed a seven-headed hydra
+   198 | Lair:5   | Noticed a soul eater
+   198 | Lair:5   | Noticed a soul eater
+   199 | Lair:5   | Noticed a reaper
+   199 | Lair:5   | Reached XP level 11. HP: 82/82 MP: 41/41
+   199 | Lair:5   | Reached XP level 12. HP: 89/89 MP: 42/42
+   199 | Lair:5   | Reached XP level 13. HP: 94/94 MP: 43/43
+   199 | Lair:5   | Reached XP level 14. HP: 102/102 MP: 44/44
+   199 | Lair:5   | Reached XP level 15. HP: 107/107 MP: 45/45
+   199 | Lair:5   | Reached XP level 16. HP: 114/114 MP: 46/46
+   199 | Lair:5   | Reached XP level 17. HP: 119/119 MP: 47/47
+   199 | Lair:5   | Reached XP level 18. HP: 127/127 MP: 48/48
+   199 | Lair:5   | Reached XP level 19. HP: 133/133 MP: 49/49
+   199 | Lair:5   | Reached XP level 20. HP: 139/139 MP: 50/50
+   199 | Lair:5   | Reached XP level 21. HP: 145/145 MP: 51/51
+   199 | Lair:5   | Reached XP level 22. HP: 152/152 MP: 52/52
+   199 | Lair:5   | Reached XP level 23. HP: 158/158 MP: 53/53
+   199 | Lair:5   | Reached XP level 24. HP: 165/165 MP: 53/53
+   199 | Lair:5   | Reached XP level 25. HP: 170/170 MP: 53/53
+   199 | Lair:5   | Reached XP level 26. HP: 177/177 MP: 53/53
+   199 | Lair:5   | Reached XP level 27. HP: 183/183 MP: 53/53
+   200 | Lair:5   | Reached XP level 26. HP: 183/1277 MP: 53/53
+   200 | Lair:5   | Reached XP level 25. HP: 183/1270 MP: 53/53
+   200 | Lair:5   | Reached XP level 24. HP: 183/1265 MP: 53/53
+   200 | Lair:5   | Reached XP level 23. HP: 183/1258 MP: 53/53
+   200 | Lair:5   | Reached XP level 22. HP: 183/1252 MP: 52/52
+   200 | Lair:5   | Reached XP level 21. HP: 183/1245 MP: 51/51
+   200 | Lair:5   | Reached XP level 20. HP: 183/1239 MP: 50/50
+   200 | Lair:5   | Reached XP level 19. HP: 183/1233 MP: 49/49
+   200 | Lair:5   | Reached XP level 18. HP: 183/1227 MP: 48/48
+   200 | Lair:5   | Reached XP level 17. HP: 183/1219 MP: 47/47
+   200 | Lair:5   | Reached XP level 16. HP: 183/1214 MP: 46/46
+   200 | Lair:5   | Reached XP level 15. HP: 183/1207 MP: 45/45
+   200 | Lair:5   | Reached XP level 14. HP: 183/1202 MP: 44/44
+   200 | Lair:5   | Reached XP level 13. HP: 183/1194 MP: 43/43
+   200 | Lair:5   | Reached XP level 12. HP: 183/1189 MP: 42/42
+   200 | Lair:5   | Reached XP level 11. HP: 183/1182 MP: 41/41
+   200 | Lair:5   | Reached XP level 10. HP: 183/1177 MP: 40/40
+   200 | Lair:5   | Reached XP level 9. HP: 183/1170 MP: 39/39
+   200 | Lair:5   | Reached XP level 8. HP: 183/1163 MP: 38/38
+   200 | Lair:5   | Reached XP level 7. HP: 183/1157 MP: 36/36
+   200 | Lair:5   | Reached XP level 6. HP: 183/1151 MP: 35/35
+   200 | Lair:5   | Reached XP level 5. HP: 183/1145 MP: 33/33
+   286 | Lair:5   | Noticed a shadow
+   286 | Lair:5   | Noticed a shadow
+   301 | Lair:5   | Reached XP level 6. HP: 51/51 MP: 35/35
+   301 | Lair:5   | Reached XP level 7. HP: 57/57 MP: 36/36
+   301 | Lair:5   | Noticed a shadow
+   301 | Lair:5   | Noticed a shadow
+   331 | Lair:5   | Reached XP level 6. HP: 57/1151 MP: 35/35
+   361 | Lair:5   | Reached XP level 7. HP: 57/57 MP: 36/36
+   361 | Lair:5   | Reached XP level 8. HP: 63/63 MP: 38/38
+   391 | Lair:5   | Reached XP level 9. HP: 70/70 MP: 39/39
+   437 | Lair:5   | Reached XP level 10. HP: 77/77 MP: 40/40
+   437 | Lair:5   | Noticed a reaper
+   437 | Lair:5   | Reached XP level 11. HP: 82/82 MP: 41/41
+   437 | Lair:5   | Reached XP level 12. HP: 89/89 MP: 42/42
+   437 | Lair:5   | Reached XP level 13. HP: 94/94 MP: 43/43
+   437 | Lair:5   | Reached XP level 14. HP: 102/102 MP: 44/44
+   437 | Lair:5   | Reached XP level 15. HP: 107/107 MP: 45/45
+   437 | Lair:5   | Reached XP level 16. HP: 114/114 MP: 46/46
+   437 | Lair:5   | Reached XP level 17. HP: 119/119 MP: 47/47
+   437 | Lair:5   | Reached XP level 18. HP: 127/127 MP: 48/48
+   437 | Lair:5   | Reached XP level 19. HP: 133/133 MP: 49/49
+   437 | Lair:5   | Reached XP level 20. HP: 139/139 MP: 50/50
+   437 | Lair:5   | Reached XP level 21. HP: 145/145 MP: 51/51
+   437 | Lair:5   | Reached XP level 22. HP: 152/152 MP: 52/52
+   437 | Lair:5   | Reached XP level 23. HP: 158/158 MP: 53/53
+   437 | Lair:5   | Reached XP level 24. HP: 165/165 MP: 53/53
+   437 | Lair:5   | Reached XP level 25. HP: 170/170 MP: 53/53
+   437 | Lair:5   | Reached XP level 26. HP: 177/177 MP: 53/53
+   437 | Lair:5   | Reached XP level 27. HP: 183/183 MP: 53/53
+   482 | Lair:5   | Reached XP level 26. HP: 183/1277 MP: 53/53
+   482 | Lair:5   | Reached XP level 25. HP: 183/1270 MP: 53/53
+   482 | Lair:5   | Reached XP level 24. HP: 183/1265 MP: 53/53
+   482 | Lair:5   | Reached XP level 23. HP: 183/1258 MP: 53/53
+   482 | Lair:5   | Reached XP level 22. HP: 183/1252 MP: 52/52
+   482 | Lair:5   | Reached XP level 21. HP: 183/1245 MP: 51/51
+   482 | Lair:5   | Reached XP level 20. HP: 183/1239 MP: 50/50
+   482 | Lair:5   | Reached XP level 19. HP: 183/1233 MP: 49/49
+   482 | Lair:5   | Reached XP level 18. HP: 183/1227 MP: 48/48
+   482 | Lair:5   | Reached XP level 17. HP: 183/1219 MP: 47/47
+   482 | Lair:5   | Reached XP level 16. HP: 183/1214 MP: 46/46
+   482 | Lair:5   | Reached XP level 15. HP: 183/1207 MP: 45/45
+   482 | Lair:5   | Reached XP level 14. HP: 183/1202 MP: 44/44
+   482 | Lair:5   | Reached XP level 13. HP: 183/1194 MP: 43/43
+   482 | Lair:5   | Reached XP level 12. HP: 183/1189 MP: 42/42
+   482 | Lair:5   | Reached XP level 11. HP: 183/1182 MP: 41/41
+   482 | Lair:5   | Reached XP level 10. HP: 183/1177 MP: 40/40
+   482 | Lair:5   | Reached XP level 9. HP: 183/1170 MP: 39/39
+   482 | Lair:5   | Reached XP level 8. HP: 183/1163 MP: 38/38
+   482 | Lair:5   | Reached XP level 7. HP: 183/1157 MP: 36/36
+   482 | Lair:5   | Reached XP level 6. HP: 183/1151 MP: 35/35
+   482 | Lair:5   | Reached XP level 5. HP: 183/1145 MP: 33/33
+   482 | Lair:5   | Reached XP level 4. HP: 183/1138 MP: 32/32
+   482 | Lair:5   | Reached XP level 3. HP: 183/1131 MP: 30/30
+   482 | Lair:5   | Reached XP level 2. HP: 183/1126 MP: 29/29
+   482 | Lair:5   | Reached XP level 1. HP: 183/1119 MP: 27/27
+   482 | Lair:5   | Noticed a spiny frog zombie
+   482 | Lair:5   | Noticed a spiny frog zombie
+   482 | Lair:5   | Noticed a five-headed hydra zombie
+   482 | Lair:5   | Noticed a spiny frog zombie
+   482 | Lair:5   | Noticed a water moccasin zombie
+   482 | Lair:5   | Noticed a water moccasin zombie
+   482 | Lair:5   | Noticed a five-headed hydra zombie
+   482 | Lair:5   | Noticed a spiny frog zombie
+   482 | Orc:1    | Entered Level 1 of the Orcish Mines
+   482 | Orc:1    | Noticed a troll
+   482 | Orc:1    | Found a flagged portal.
+   482 | Orc:1    | Found a dark tunnel.
+   482 | Orc:1    | Found Voifior's Jewellery Shop.
+   482 | Orc:1    | Noticed an orc knight zombie
+   482 | Orc:1    | Noticed an orc knight zombie
+   482 | Orc:1    | Noticed an orc high priest zombie
+   483 | D:10     | Entered Level 10 of the Dungeon
+   483 | D:10     | Found a staircase to the Orcish Mines.
+   483 | D:10     | Noticed an orc knight
+   484 | D:10     | Reached XP level 2. HP: 26/26 MP: 29/29
+   484 | D:10     | Reached XP level 3. HP: 31/31 MP: 30/30
+   484 | D:10     | Reached XP level 4. HP: 38/38 MP: 32/32
+   484 | D:10     | Reached XP level 5. HP: 45/45 MP: 33/33
+   484 | D:10     | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |       |       |       |     1 |       |       |       |       |       ||     1
+ Cast: Pain              |       |       |       |   164 |       |       |       |       |       ||   164
+Dodge: Dodged            |       |       |       |     3 |       |       |       |       |       ||     3
+

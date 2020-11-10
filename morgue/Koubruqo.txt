@@ -1,0 +1,200 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13508247082092516416
+
+Koubruqo the Intangible (Naga Venom Mage)             Turns: 18, Time: 00:03:17
+
+Health: 298/298    AC: 12    Str: 23    XL:     27
+Magic:  52/54      EV: 34    Int: 28    God:    Cheibriados 145 (0)
+Gold:   0          SH:  0    Dex: 24    Spells: 79/80 levels left
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    +         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       +++..                  (no barding)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.59/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: very slow
+A: large, see invisible, deformed body, poison resistance, slowness 2, slow
+metabolism 1, spit poison 1, constrict 1, AC +9
+a: Spit Poison, Bend Time, Temporal Distortion, Slouch, Step From Time, Renounce
+Religion
+
+
+You are on level 1 of the Dungeon.
+You worship Cheibriados.
+Cheibriados is extremely pleased with you.
+You are very full.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You have 79 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      25 (25)      0%          1    0
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       50 (50)      0%          2    0
+ Mephitic Cloud           Conj/Pois/Air  100 (100)    0%          3    0
+ Olgreb's Toxic Radiance  Pois           100 (100)    0%          4    0
+ Venom Bolt               Conj/Pois      112 (200)    0%          5    0
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear boots.
+Your serpentine skin is tough. (AC +9)
+You have supernaturally acute eyesight. (SInv)
+Armour fits poorly on your strangely shaped body.
+Your system is resistant to poisons. (rPois)
+You cover ground very slowly.
+You have a slow metabolism.
+You can spit poison.
+You can use your snake-like lower body to constrict enemies.
+
+
+Message History
+
+You can feel time thicken for a moment. You feel somewhat less full.
+Cheibriados lowers the support of your attributes as your movement quickens.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 153, Enter for 0): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Unknown command.
+Enter Wizard Command (? - help): 
+Super healing.
+There's no one hasty visible. Invoke Slouch anyway? 
+You can feel time thicken for a moment.
+Cheibriados lowers the support of your attributes as your movement quickens.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 145, Enter for 0): 
+Okay, then.
+Okay, then.
+Unknown command.
+Okay, then.
+You aren't carrying any potions.
+
+             #######
+     ########.......
+     ~~~~~~~~.......
+    ####~~~~~~~.....
+ ####.......~~~~..~~
+ #~~.$.<.@.....~~~~~
+#~~~~...........~~~~
+#~~~~~~........?....
+#~~~~~~~~~~~~~~~....
+#.~~~~~~~~~~~~~~~~..
+#.(....~~~~~~~~~~~~~
+#.(............~~~~~
+#>..................
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Koubruqo the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     3 | D:1      | Entered wizard mode.
+     3 | D:1      | Became a worshipper of Cheibriados the Contemplative
+     3 | D:1      | Reached * piety under Cheibriados
+     3 | D:1      | Reached ** piety under Cheibriados
+     3 | D:1      | Reached *** piety under Cheibriados
+     3 | D:1      | Reached **** piety under Cheibriados
+     3 | D:1      | Reached ***** piety under Cheibriados
+     3 | D:1      | Reached ****** piety under Cheibriados
+     3 | D:1      | Reached XP level 2. HP: 75/75 MP: 3/30
+     3 | D:1      | Reached XP level 3. HP: 84/84 MP: 3/31
+     3 | D:1      | Reached XP level 4. HP: 93/93 MP: 3/33
+     3 | D:1      | Reached XP level 5. HP: 102/102 MP: 3/34
+     3 | D:1      | Reached XP level 6. HP: 111/111 MP: 3/36
+     3 | D:1      | Reached XP level 7. HP: 120/120 MP: 3/37
+     3 | D:1      | Reached XP level 8. HP: 129/129 MP: 3/39
+     3 | D:1      | Reached XP level 9. HP: 138/138 MP: 3/40
+     3 | D:1      | Reached XP level 10. HP: 147/147 MP: 3/41
+     3 | D:1      | Reached XP level 11. HP: 156/156 MP: 3/42
+     3 | D:1      | Reached XP level 12. HP: 165/165 MP: 3/43
+     3 | D:1      | Gained mutation: You can use your snake-like lower body to
+                  | constrict enemies. [Naga growth]
+     3 | D:1      | Reached XP level 13. HP: 174/174 MP: 3/44
+     3 | D:1      | Reached XP level 14. HP: 183/183 MP: 3/45
+     3 | D:1      | Reached XP level 15. HP: 190/190 MP: 3/46
+     3 | D:1      | Reached XP level 16. HP: 200/200 MP: 3/47
+     3 | D:1      | Reached XP level 17. HP: 208/208 MP: 3/48
+     3 | D:1      | Reached XP level 18. HP: 218/218 MP: 3/49
+     3 | D:1      | Reached XP level 19. HP: 226/226 MP: 3/50
+     3 | D:1      | Reached XP level 20. HP: 236/236 MP: 3/51
+     3 | D:1      | Reached XP level 21. HP: 244/244 MP: 3/52
+     3 | D:1      | Reached XP level 22. HP: 254/254 MP: 3/53
+     3 | D:1      | Reached XP level 23. HP: 262/262 MP: 3/54
+     3 | D:1      | Reached XP level 24. HP: 272/272 MP: 3/54
+     3 | D:1      | Reached XP level 25. HP: 280/280 MP: 3/54
+     3 | D:1      | Reached XP level 26. HP: 290/290 MP: 3/54
+     3 | D:1      | Reached XP level 27. HP: 298/298 MP: 3/54
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+Invok: Slouch            |       |       |       |       |       |       |       |       |     6 ||     6
+

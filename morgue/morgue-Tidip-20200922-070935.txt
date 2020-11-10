@@ -1,0 +1,502 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 652023415423659591
+
+17774 Tidip the Lord of Darkness (level 12, 41/104 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 22, 2020.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 11 of the Dungeon.
+             The game lasted 02:52:42 (16260 turns).
+
+Tidip the Lord of Darkness (Ghoul Monk)            Turns: 16260, Time: 02:52:43
+
+Health: 41/104     AC:  9    Str: 16    XL:     12   Next: 51%
+Magic:  14/14      EV: 11    Int:  9    God:    Kikubaaqudgha 161 (0)
+Gold:   25         SH:  4    Dex: 11    Spells: 5/11 levels left
+
+rFire    . . .     SeeInvis .   h - +2 morningstar (freeze)
+rCold    + . .     Gourm    .   q - +0 buckler
+rNeg     + + +     Faith    +   w - +0 scale mail
+rPois    ?          Spirit   .   E - +0 helmet
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             H - amulet of faith
+HPRegen  0.27/turn              (no ring)
+MPRegen  0.14/turn              l - ring of resist corrosion
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Torment, Brand Weapon With Pain, Receive Necronomicon,
+Renounce Religion
+
+
+You were on level 11 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 12 of its levels.
+You also visited: Ossuary.
+
+You collected 1001 gold pieces.
+You spent 976 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling of flaming
+ b - a +3 mace of draining
+ c - a +0 mace of protection
+ d - a +2 whip of electrocution
+ e - a +3 flail of venom
+ g - the +10 flail of Qujiw {crush, MR- Str+3}
+   (You found it on level 11 of the Dungeon)   
+   
+   It inflicts extra damage upon your enemies.
+   
+   It affects your strength (+3).
+   It affects your resistance to hostile enchantments.
+ h - a +2 morningstar of freezing (weapon)
+ i - a +2 trident of venom
+ k - a +2 whip of electrocution
+Missiles
+ f - 329 stones
+ m - 63 bolts
+ u - 79 poisoned needles
+ y - 145 arrows
+ S - 20 tomahawks (quivered)
+ T - a tomahawk of dispersal {!f}
+ V - 9 silver tomahawks {!f}
+ Z - 27 sling bullets
+Armour
+ q - a +0 buckler (worn)
+ w - a +0 scale mail (worn)
+ E - a +0 helmet (worn)
+ X - a +0 troll leather armour
+Jewellery
+ l - a ring of resist corrosion (right claw)
+ s - an uncursed amulet of guardian spirit
+ H - an amulet of faith (around neck)
+ W - an uncursed ring of fire
+Wands
+ p - a wand of acid (8)
+ x - a wand of random effects (29)
+ z - a wand of disintegration (6)
+ G - a wand of digging (4)
+ L - a wand of iceblast (17)
+Scrolls
+ j - 4 scrolls of fog
+ n - 3 scrolls of amnesia
+ r - 9 scrolls of teleportation
+ A - a scroll of immolation
+ F - 2 scrolls of torment
+ I - a scroll of noise
+ K - a scroll of blinking
+ M - a scroll of magic mapping
+ N - a scroll of fear
+ P - 4 scrolls of identify
+ Q - a scroll of vulnerability
+ U - 4 scrolls of remove curse
+Potions
+ t - a potion of agility
+ v - a potion of brilliance
+ C - 3 potions of curing
+ R - 4 potions of might
+ Y - a potion of flight
+Miscellaneous
+ J - a fan of gales
+Comestibles
+ B - 24 rations
+
+
+   Skills:
+ - Level 9.0 Fighting
+ - Level 7.2 Maces & Flails
+ - Level 3.1(3.3) Slings
+ - Level 1.5(2.5) Throwing
+ - Level 7.1 Armour
+ - Level 3.2 Dodging
+ - Level 6.0 Stealth
+ - Level 4.0 Shields
+ - Level 9.0 Unarmed Combat
+ - Level 1.1 Charms
+ + Level 9.3 Necromancy
+ - Level 4.0 Evocations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Animate Skeleton      Necr           N/A          2%          1    50
+b - Corpse Rot            Necr           N/A          4%          2    100
+c - Regeneration          Chrm/Necr      9 (200)      41%         3    150
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           16 (25)      2%          1    50
+ Animate Dead             Necr           N/A          28%         4    250
+ Agony                    Necr           16 (100)     61%         5    400
+ Dispel Undead            Necr           16 (100)     61%         5    400
+ Borgnjor's Vile Clutch   Necr/Erth      8 (200)      99%         5    400
+ Simulacrum               Ice/Necr       8 (200)      100%        6    550
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (11/15)            Temple (1/1) D:6            Lair (0/6) D:11
+    Orc (0/2) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:5 ?   D:8 (
+
+Annotations:
+D:6 2 transporters, Qoitotus's ghost, novice NaFi
+D:11 loot, exclusion: ugly thing
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+You sock the seven-headed hydra!
+The seven-headed hydra seems to slow down.
+You freeze the seven-headed hydra!
+The seven-headed hydra is almost dead.
+You block the seven-headed hydra's attack.
+The seven-headed hydra bites you but does no damage.
+The seven-headed hydra closely misses you.
+The seven-headed hydra bites you!
+The seven-headed hydra bites you but does no damage.
+The seven-headed hydra barely misses you.
+The seven-headed hydra bites you but does no damage.
+You puncture the seven-headed hydra! You freeze the seven-headed hydra.
+You kill the seven-headed hydra!
+Kikubaaqudgha accepts your kill.
+Your Necromancy skill increases to level 9!
+Unknown command.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.##(#.#.......................#   #.#    #
+#.##Z#.#.........[........#....#   #.##   #
+#.##<#.#................)..#'#######..#####
+#.####.#.).............................##..
+#......#.#####.........................##..
+########.    #.........<))..............'..
+       #     #............#.............#..
+             ###'####.#.................#..
+               #Z#  #.#####.............#..
+        .#######.#  #.#   #..............##
+        .........#  #.#   #############..##
+        ........### #.######......#####..##
+        .##.......# #%#...........ZZ.....##
+          #.....Z.# #@#.####......######.##
+          #.^.....# #%#.#  #......#  #..[..
+          #.......###(#Z#  #......#  ##.#)#
+          #.......'...#.#  #......#   #Z#..
+          #......u#####.#  #......#   #.##.
+          +.......'u....#  #......#   #Z##.
+          #.......#######  #......#   #.###
+          #...h...#        ########   #.# #
+          #....h..#                   #.###
+          #...(...#                   #...Z
+           .......                    #####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  3 hydras (D:11)
+  13 ugly things (D:11)
+  A cyclops (D:10)
+  The ghost of princeOfDonkeys the Covered, an amateur DgFi (D:4)
+  2 trolls (D:10)
+  A hippogriff (D:8)
+  A spriggan (D:6)
+  6 yaks
+  2 hungry ghosts
+  2 wargs (D:10)
+  Menkaure (D:4)
+  A water moccasin (D:11)
+  2 sky beasts
+  2 black bears (D:11)
+  7 orc warriors
+  4 ice beasts
+  7 ogres
+  A phantom (D:4)
+  3 centaurs (D:7)
+  A crocodile (D:7)
+  A big kobold (D:11)
+  10 bullfrogs
+  An elf zombie (Ossuary)
+  2 scorpions
+  16 killer bees
+  A wight (D:9)
+  A howler monkey (D:5)
+  9 crimson imps
+  3 bullfrog zombies
+  4 centaur zombies
+  11 hounds
+  3 jellies
+  A quasit (D:6)
+  2 human zombies (Ossuary)
+  7 orc priests
+  2 centaur skeletons
+  3 bullfrog skeletons
+  13 orc wizards
+  5 worker ants (D:6)
+  2 ogre zombies (Ossuary)
+  A hound skeleton (D:8)
+  7 mummies (Ossuary)
+  A worker ant zombie (D:6)
+  A howler monkey zombie (D:4)
+  8 adders
+  3 gnolls
+  A shadow imp (D:8)
+  An ooze (D:2)
+  4 adder skeletons
+  5 adder zombies
+  A worm (D:2)
+  3 dart slugs
+  9 leopard geckos
+  85 orcs
+  8 bats
+  14 giant cockroaches
+  8 goblins
+  7 hobgoblins
+  17 jackals
+  9 quokkas
+  4 frilled lizards
+  2 goblin zombies (Ossuary)
+  2 hobgoblin zombies (Ossuary)
+  A jackal zombie (D:6)
+  8 kobolds
+  3 kobold zombies (Ossuary)
+  A quokka skeleton (D:9)
+  7 quokka zombies (Ossuary)
+  12 rats
+  4 rat zombies (Ossuary)
+395 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A two-headed ogre (D:11)
+  A hippogriff (D:9)
+  A soldier ant (D:10)
+  A warg (D:11)
+  2 ice beasts
+  An ogre (D:11)
+  A bullfrog (D:10)
+  A killer bee (D:11)
+  3 wights (D:9)
+  A quasit (D:7)
+  3 orc wizards
+  A bullfrog skeleton (D:7)
+  An orc priest (D:7)
+  An iguana (D:7)
+  An adder (D:8)
+  10 orcs
+30 creatures vanquished.
+
+Grand Total: 425 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tidip the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   309 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   723 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1316 | D:2      | Reached skill level 5 in Unarmed Combat
+  1600 | D:2      | Reached XP level 4. HP: 35/38 MP: 3/3
+  1850 | D:2      | Found a faded altar of an unknown god.
+  2281 | D:2      | Reached XP level 5. HP: 43/45 MP: 4/4
+  2507 | D:3      | Noticed an ice beast
+  2519 | D:3      | Killed an ice beast
+  2519 | D:3      | Reached skill level 1 in Evocations
+  2519 | D:3      | Reached XP level 6. HP: 38/51 MP: 4/6
+  3443 | D:3      | Entered wizard mode.
+  3551 | D:5      | Entered Level 5 of the Dungeon
+  3558 | D:5      | Reached skill level 1 in Armour
+  3891 | D:4      | Found a runed translucent gate.
+  3892 | D:4      | Found a runed translucent gate.
+  3894 | D:4      | Found a runed translucent gate.
+  3897 | D:4      | Noticed Menkaure
+  3917 | D:4      | Killed Menkaure
+  3917 | D:4      | Reached skill level 1 in Maces & Flails
+  3917 | D:4      | Reached XP level 7. HP: 28/57 MP: 3/7
+  4208 | D:4      | Found a sacrificial altar of Ru.
+  4334 | D:4      | Noticed princeOfDonkeys's ghost (amateur DgFi)
+  4845 | D:5      | Found Ducvymink's Magic Scroll Boutique.
+  4852 | D:5      | Bought a scroll of identify for 26 gold pieces
+  4852 | D:5      | Bought a scroll of identify for 26 gold pieces
+  4854 | D:5      | Bought a scroll of immolation for 45 gold pieces
+  4854 | D:5      | Bought a scroll of torment for 97 gold pieces
+  4945 | D:5      | Reached skill level 5 in Fighting
+  4991 | D:5      | Reached XP level 8. HP: 65/68 MP: 8/8
+  5005 | D:5      | Found a hide-covered altar of Uskayaw.
+  5265 | D:6      | Reached skill level 1 in Slings
+  5331 | D:5      | HP: 3/71 [ogre/+0 giant spiked club (17)]
+  5333 | D:5      | HP: 1/71 [ogre/+0 giant spiked club (10)]
+  5851 | D:6      | Found a sand-covered staircase.
+  5856 | Ossuary  | Entered an ossuary
+  6992 | D:6      | Reached XP level 9. HP: 75/75 MP: 9/9
+  7077 | D:6      | Found a transporter.
+  7081 | D:6      | Found a transporter.
+  7081 | D:6      | Noticed Qoitotus's ghost (novice NaFi)
+  7082 | D:6      | Identified the +4 dire flail of Dithmenos {crush, +Fly
+                  | Dex+2}
+  7082 | D:6      | Noticed a two-headed ogre
+  7571 | D:5      | Found a shattered altar of Ashenzari.
+  7572 | D:5      | Found a hazy altar of Hepliaklqana.
+  8135 | D:6      | Found a staircase to the Ecumenical Temple.
+  8144 | Temple   | Entered the Ecumenical Temple
+  8285 | Temple   | Became a worshipper of Kikubaaqudgha
+  8285 | Temple   | Reached * piety under Kikubaaqudgha
+  8285 | Temple   | Identified Kikubaaqudgha's Collected Works on Evil
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+  8285 | Temple   | Received a gift from Kikubaaqudgha
+  8285 | Temple   | Reached ** piety under Kikubaaqudgha
+  8289 | Temple   | Learned a level 1 spell: Animate Skeleton
+  8292 | Temple   | Learned a level 2 spell: Corpse Rot
+  8296 | Temple   | Learned a level 3 spell: Regeneration
+  8415 | D:7      | Reached skill level 1 in Shields
+  8554 | D:6      | Reached skill level 1 in Necromancy
+  9491 | D:7      | Reached XP level 10. HP: 67/90 MP: 10/10
+  9537 | D:7      | Reached *** piety under Kikubaaqudgha
+  9537 | D:7      | Identified Kikubaaqudgha's Handbook of Stolen Souls
+                  | (Kikubaaqudgha gifted it to you on level 7 of the Dungeon)
+  9537 | D:7      | Received a gift from Kikubaaqudgha
+  9929 | D:7      | Found an opulent altar of Gozag.
+ 10276 | D:8      | Reached skill level 5 in Armour
+ 10494 | D:8      | Found Syilio's Weapon Boutique.
+ 10551 | D:8      | Bought a +2 whip of electrocution for 254 gold pieces
+ 10647 | D:8      | Found a roughly hewn altar of Beogh.
+ 10919 | D:8      | Reached **** piety under Kikubaaqudgha
+ 11943 | D:9      | Reached ***** piety under Kikubaaqudgha
+ 12022 | D:9      | Reached skill level 5 in Maces & Flails
+ 12098 | D:9      | Found a sparkling altar of Nemelex Xobeh.
+ 12434 | D:5      | Bought a scroll of brand weapon for 260 gold pieces
+ 12668 | D:10     | Entered Level 10 of the Dungeon
+ 12719 | D:9      | Found a staircase to the Orcish Mines.
+ 13223 | D:9      | Reached skill level 1 in Throwing
+ 13322 | D:10     | Reached XP level 11. HP: 81/97 MP: 11/11
+ 14258 | D:11     | Noticed a four-headed hydra
+ 14258 | D:11     | Noticed a cyclops
+ 14258 | D:11     | Noticed a brown ugly thing
+ 14471 | D:8      | Bought a +2 morningstar of freezing for 268 gold pieces
+ 14583 | D:4      | Killed princeOfDonkeys's ghost
+ 14583 | D:4      | Reached skill level 1 in Charms
+ 14819 | D:11     | Killed a four-headed hydra
+ 14836 | D:10     | Killed a cyclops
+ 14941 | D:11     | Noticed a green ugly thing
+ 14961 | D:11     | Killed a white ugly thing
+ 14977 | D:11     | Killed a white ugly thing
+ 15088 | D:11     | Noticed a two-headed ogre
+ 15094 | D:11     | Killed a two-headed ogre
+ 15094 | D:11     | Reached skill level 5 in Stealth
+ 15306 | D:11     | Found a staircase to the Lair.
+ 15367 | D:11     | Identified the +10 flail of Qujiw {crush, MR- Str+3}
+ 15412 | D:11     | Reached ****** piety under Kikubaaqudgha
+ 15445 | D:11     | Noticed a cyan ugly thing
+ 15887 | D:11     | Noticed a purple ugly thing
+ 15901 | D:11     | Killed a purple ugly thing
+ 15901 | D:11     | Reached skill level 5 in Necromancy
+ 16082 | D:11     | Slain by a red ugly thing (11 damage)
+ 16083 | D:11     | Killed a red ugly thing
+ 16087 | D:11     | Reached XP level 12. HP: 104/104 MP: 9/14
+ 16099 | D:11     | needless zoneout death, distracted by skilling doubts
+ 16241 | D:11     | Noticed a five-headed hydra
+ 16251 | D:11     | Killed a five-headed hydra
+ 16252 | D:11     | Noticed a seven-headed hydra
+ 16259 | D:11     | Killed a seven-headed hydra
+ 16260 | D:11     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Unarmed Combat |     4  5  6     7        8  9       |  9.0
+Evocations     |              1           2     4    |  4.0
+Armour         |                 2  3        5  7    |  7.1
+Maces & Flails |                 1        2  6  7    |  7.2
+Fighting       |                    5  8     9       |  9.0
+Dodging        |                    3                |  3.2
+Slings         |                       2     3       |  3.1
+Shields        |                          4          |  4.0
+Necromancy     |                          3     5  9 |  9.3
+Stealth        |                          4     6    |  6.0
+Throwing       |                             1       |  1.5
+Charms         |                                1    |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   122 |  4218 |   441 |  8372 || 13153
+       Punch             |     2 |       |       |       ||     2
+       Mace              |       |  4000 |    52 |  8271 || 12323
+       Whip              |       |       |       |  4030 ||  4030
+       Flail             |       |       |       |  8061 ||  8061
+       Morningstar       |       |       |       |    19 ||    19
+ Fire: Hunting sling     |       |       |   123 |   258 ||   381
+Throw: Stone             |     6 |    34 |     2 |       ||    42
+       Tomahawk          |       |       |     4 |    10 ||    14
+ Cast: Animate Skeleton  |       |       |     7 |    77 ||    84
+       Corpse Rot        |       |       |       |     4 ||     4
+Invok: Receive Corpses   |       |       |       |     1 ||     1
+Evoke: Wand              |       |     2 |     1 |     6 ||     9
+  Use: Scroll            |     2 |     7 |    10 |     6 ||    25
+       Potion            |       |     1 |     4 |     3 ||     8
+ Stab: Sleeping          |     1 |       |       |       ||     1
+       Distracted        |       |       |       |     1 ||     1
+  Eat: Chunk             |     2 |     9 |    24 |    50 ||    85
+       Ration            |     1 |       |       |       ||     1
+Armor: Robe              |     2 |       |       |       ||     2
+       Ring mail         |    32 |    32 |       |       ||    64
+       Scale mail        |       |  1845 |    38 | 12292 || 14175
+       Chain mail        |       |       |   187 |       ||   187
+       Troll leather arm |       |       |       |     2 ||     2
+Dodge: Dodged            |    58 |  2981 |   141 | 18288 || 21468
+Block: Buckler           |       |   787 |    48 |  7048 ||  7883
+

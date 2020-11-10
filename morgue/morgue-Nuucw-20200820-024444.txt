@@ -1,0 +1,215 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5912785293458176318
+
+574622 Nuucw the Conqueror (level 27, 149/149 HPs) *WIZ*
+             Began as a Felid Transmuter on Aug 20, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:21 (20 turns).
+
+Nuucw the Conqueror (Felid Transmuter)                Turns: 20, Time: 00:05:21
+
+Health: 149/149    AC:  3    Str:  6    XL:     27
+Magic:  44/55      EV: 39    Int: 14    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 16    Spells: 72/80 levels left
+                                        Lives:  2   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    + . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       ++++.                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.34/turn              (no ring)
+MPRegen  0.34/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 3, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Missiles
+ a - 12 arrows
+Comestibles
+ c - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 72 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           50 (50)      0%          1    0
+b - Spider Form           Tmut/Pois      76 (200)     0%          3    0
+c - Ice Form              Ice/Tmut       76 (100)     0%          4    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sticks to Snakes         Tmut           76 (100)     0%          2    0
+ Blade Hands              Tmut           76 (200)     0%          5    22
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+Your thick and shaggy fur keeps you warm. (AC +3, rC+)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? book of geo
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? young poisoner
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? book of conj
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a spell; partial names and regexps are fine.
+Describe what? iskend
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a ability; partial names and regexps are fine.
+Describe what? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Your transformation has ended.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  .r.........
+   .........
+   #.......#
+   #.......#
+  ##.......##
+###.........###
+.............%.
+...............
+...............
+.......@.......
+...............
+...............
+...............
+###.........###
+  ##.......##
+   #..%....#
+   #.......#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Nuucw the Felid Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 12/12 MP: 6/6
+     0 | D:1      | Reached XP level 3. HP: 15/15 MP: 7/7
+     0 | D:1      | Reached XP level 4. HP: 19/19 MP: 8/8
+     0 | D:1      | Reached XP level 5. HP: 22/22 MP: 9/9
+     0 | D:1      | Gained mutation: You are covered in thick fur. (AC +2)
+                  | [Felid growth]
+     0 | D:1      | Reached XP level 6. HP: 25/25 MP: 10/10
+     0 | D:1      | Reached XP level 7. HP: 28/28 MP: 11/11
+     0 | D:1      | Reached XP level 8. HP: 32/32 MP: 12/12
+     0 | D:1      | Reached XP level 9. HP: 35/35 MP: 13/13
+     0 | D:1      | Reached XP level 10. HP: 39/39 MP: 14/14
+     0 | D:1      | Reached XP level 11. HP: 42/42 MP: 15/15
+     0 | D:1      | Gained mutation: Your thick and shaggy fur keeps you warm.
+                  | (AC +3, rC+) [Felid growth]
+     0 | D:1      | Reached XP level 12. HP: 45/45 MP: 16/16
+     0 | D:1      | Reached XP level 13. HP: 48/48 MP: 17/17
+     0 | D:1      | Reached XP level 14. HP: 52/52 MP: 18/18
+     0 | D:1      | Reached XP level 15. HP: 55/55 MP: 19/19
+     0 | D:1      | Reached XP level 16. HP: 59/59 MP: 20/20
+     0 | D:1      | Reached XP level 17. HP: 62/62 MP: 21/21
+     0 | D:1      | Reached XP level 18. HP: 66/66 MP: 22/22
+     0 | D:1      | Reached XP level 19. HP: 69/69 MP: 23/23
+     0 | D:1      | Reached XP level 20. HP: 72/72 MP: 24/24
+     0 | D:1      | Reached XP level 21. HP: 75/75 MP: 25/25
+     0 | D:1      | Reached XP level 22. HP: 79/79 MP: 26/26
+     0 | D:1      | Reached XP level 23. HP: 82/82 MP: 27/27
+     0 | D:1      | Reached XP level 24. HP: 85/85 MP: 27/27
+     0 | D:1      | Reached XP level 25. HP: 88/88 MP: 27/27
+     0 | D:1      | Reached XP level 26. HP: 92/92 MP: 27/27
+     0 | D:1      | Reached XP level 27. HP: 95/95 MP: 27/27
+     4 | D:1      | Learned a level 3 spell: Spider Form
+     9 | D:1      | Learned a level 4 spell: Ice Form
+    20 | D:1      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Spider Form       |       |       |       |       |       |       |       |       |     2 ||     2
+       Ice Form          |       |       |       |       |       |       |       |       |     2 ||     2
+ Abil: End Transformatio |       |       |       |       |       |       |       |       |     3 ||     3
+

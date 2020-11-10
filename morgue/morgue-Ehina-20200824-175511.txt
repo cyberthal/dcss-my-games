@@ -1,0 +1,141 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13311548178780110908
+
+0 Ehina the Skirmisher (level 1, 18/18 HPs) *WIZ*
+             Began as a Mummy Monk on Aug 24, 2020.
+             Was an Initiate of Gozag.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:30 (20 turns).
+
+Ehina the Skirmisher (Mummy Monk)                     Turns: 20, Time: 00:04:31
+
+Health: 18/18      AC:  2    Str: 14    XL:     1   Next: 0%
+Magic:  1/1        EV: 13    Int:  9    God:    Gozag 15 (0)
+Gold:   9986657    SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    x . .     SeeInvis .   a - +0 falchion
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   b - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: no food or potions, fire vulnerability, cold resistance 1, negative energy
+resistance 3, torment resistance, unbreathing
+a: Potion Petition, Call Merchant, Bribe Branch, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Gozag.
+Gozag was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You paid 13342 gold pieces to Gozag.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 falchion (weapon)
+Armour
+ b - a +0 robe (worn)
+
+
+   Skills:
+ + Level 3.0 Fighting
+ + Level 2.4 Long Blades
+ + Level 2.4 Dodging
+ + Level 1.5 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Shops:
+D:1 **::}(**?:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You do not eat or drink.
+Your flesh is vulnerable to fire.
+You are immune to poison.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+  [b]  1272 gold - Nebiat's Antique Armour Boutique
+  [c]  1945 gold - Zuunem's Assorted Antiques 
+Fund which merchant?
+Zuunem invites you to visit his Assorted Antiques.
+  [a]  1768 gold - Rexesei's Armour Shop
+  [b]  1702 gold - Rischoxi's Book Emporium
+  [c]  1100 gold - Dur Uni's Gadget Emporium
+Fund which merchant?
+Rischoxi invites you to visit its Book Emporium.
+  [a]  1998 gold - Karaps's Gadget Boutique
+  [b]  1572 gold - Tunkikke's Antique Weapon Shop
+  [c]  2367 gold - Wavyis's Weapon Shoppe
+Fund which merchant?
+Karaps invites you to visit his Gadget Boutique.
+  [a]  1374 gold - Fumis's Magic Scroll Shop
+  [b]  1794 gold - Jemitt's General Store 
+  [c]  1634 gold - Icodar's Antique Weapon Boutique
+Fund which merchant?
+Jemitt invites you to visit his General Store.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+   #...7
+   #...7
+   #...7
+  ##...77
+ ##.....7
+##......77
+#8..8..8.7
++\\\@....77
++\\\\\\<..7
++........77
+#8..8..8.7
+##.......7
+ ##).....7
+  ##....77
+   #....7
+   #...77
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ehina the Mummy Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 18/18 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Gozag Ym Sagoz the Greedy
+    20 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Invok: Call Merchant     ||    10
+

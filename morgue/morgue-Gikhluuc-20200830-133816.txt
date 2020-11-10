@@ -1,0 +1,130 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4850088414083737099
+
+0 Gikhluuc the Vandal (level 1, 17/17 HPs)
+             Began as a Ghoul Hunter on Aug 30, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:02 (0 turns).
+
+Gikhluuc the Vandal (Ghoul Hunter)                     Turns: 0, Time: 00:01:02
+
+Health: 17/17      AC:  3    Str: 15    XL:     1   Next: 0%
+Magic:  0/0        EV: 11    Int:  6    God:    
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 hunting sling
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   c - +0 leather armour
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling (weapon)
+ b - a +0 short sword
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ c - a +0 leather armour (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 2.1 Fighting
+ + Level 3.6 Slings
+ + Level 1.7 Dodging
+ + Level 1.1 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Welcome, Gikhluuc the Ghoul Hunter.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? dagg
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a monster; partial names and regexps are fine. Enter a single letter
+to list monsters displayed by that symbol.
+Describe what? ghoul
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#...#~.~#~~.#
+#...#~.~#~..#
+#...#...#...#
+#...........#
+#...........#
+#...........#
+#...........#
+#.....@.....#
+#...........#
+#############
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gikhluuc the Ghoul Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 0/0
+     0 | D:1      | Quit the game
+

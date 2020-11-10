@@ -1,0 +1,118 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14391664664155129909
+
+0 Zoixaxof the Vandal (level 1, 14/14 HPs) *WIZ*
+             Began as a Halfling Hunter on Aug 19, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:10 (0 turns).
+
+Zoixaxof the Vandal (Halfling Hunter)                  Turns: 0, Time: 00:00:10
+
+Health: 14/14      AC:  3    Str: 13    XL:     1   Next: 0%
+Magic:  1/1        EV: 14    Int:  9    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 hunting sling
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   c - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: small, mutation resistance 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 hunting sling (weapon)
+ b - a +0 short sword
+Missiles
+ d - 20 sling bullets (quivered)
+Armour
+ c - a +0 leather armour (worn)
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 1.7 Fighting
+ + Level 5.8 Slings
+ + Level 2.1 Dodging
+ + Level 1.1 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are small and have problems with some larger weapons.
+You are somewhat resistant to further mutation.
+
+
+Message History
+
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+(D) Dungeon        (T) Temple         (L) Lair           (S) Swamp          
+(A) Shoals         (P) Snake Pit      (N) Spider Nest    (M) Slime Pits     
+(O) Orcish Mines   (E) Elven Halls    (K) Dwarven Hall   (V) Vaults         
+(B) Hall of Blades (F) Forest         (C) Crypt          (W) Tomb           
+(U) Depths         (H) Hell           (I) Dis            (G) Gehenna        
+(X) Cocytus        (Y) Tartarus       (Z) Zot            (J) Abyss          
+(R) Pandemonium    (Q) Ziggurat       (0) Labyrinth      (1) Bazaar         
+(2) Trove          (3) Sewer          (4) Ossuary        (5) Bailey         
+(6) Ice Cave       (7) Volcano        (8) Wizlab         (9) Desolation     
+(!) Gauntlet       
+Where to? (? - help) 
+What level of the Orcish Mines? (default 1, ? - help) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#######
+#.....#
+#.....#
++..8.@#
+#.....#
+#.....#
+#######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zoixaxof the Halfling Hunter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Quit the game
+

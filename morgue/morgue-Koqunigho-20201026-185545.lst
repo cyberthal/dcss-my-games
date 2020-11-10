@@ -1,0 +1,609 @@
+Koqunigho
+
+the Dungeon
+(0, 0, D)
+  27 gold pieces
+(1, 0, D)
+  27 gold pieces
+(6, -5, D)
+  27 gold pieces
+(7, -5, D)
+  27 gold pieces
+(9, -5, D)
+  27 gold pieces
+(9, -4, D)
+  27 gold pieces
+(9, 5, D)
+  27 gold pieces
+(9, 6, D)
+  27 gold pieces
+(9, 7, D)
+  27 gold pieces
+(10, -5, D)
+  27 gold pieces
+(10, -4, D)
+  27 gold pieces
+(10, 2, D)
+  27 gold pieces
+(10, 3, D)
+  27 gold pieces
+(10, 6, D)
+  a potion of curing
+(10, 7, D)
+  a +0 helmet
+(10, 9, D)
+  10 arrows
+(10, 10, D)
+  a +1 plate armour of poison resistance
+(11, -5, D)
+  27 gold pieces
+(11, 6, D)
+  27 gold pieces
+(11, 7, D)
+  11 poisoned needles
+(11, 9, D)
+  a scroll of remove curse
+(11, 10, D)
+  a scroll of immolation
+(12, -8, D)
+  27 gold pieces
+(12, -7, D)
+  27 gold pieces
+(12, 2, D)
+  27 gold pieces
+(12, 3, D)
+  27 gold pieces
+(12, 6, D)
+  a potion of curing
+(12, 7, D)
+  18 gold pieces
+(12, 9, D)
+  22 arrows
+(12, 10, D)
+  a scroll of remove curse
+(13, -8, D)
+  27 gold pieces
+(13, -7, D)
+  27 gold pieces
+(13, -5, D)
+  10 gold pieces
+(13, -4, D)
+  9 gold pieces
+(13, 0, D)
+  a +0 leather armour
+(13, 5, D)
+  27 gold pieces
+(13, 6, D)
+  27 gold pieces
+(13, 7, D)
+  27 gold pieces
+(13, 9, D)
+  the +10 dagger of Inflation {holy, Dex+5 Stlth+}
+    It has been blessed by the Shining One to cause great damage to the undead
+    and demons.
+    
+    It affects your dexterity (+5).
+    It makes you more stealthy.
+(14, 2, D)
+  27 gold pieces
+(15, 0, D)
+  a +0 leather armour
+(15, 2, D)
+  27 gold pieces
+(16, 0, D)
+  8 gold pieces
+(17, 0, D)
+  17 arrows
+(17, 2, D)
+  27 gold pieces
+(18, -8, D)
+  27 gold pieces
+(18, -7, D)
+  27 gold pieces
+(18, -5, D)
+  a book of Minor Magic
+(18, 0, D)
+  a scroll of remove curse
+(18, 2, D)
+  27 gold pieces
+(19, -8, D)
+  27 gold pieces
+(19, -7, D)
+  27 gold pieces
+(19, -5, D)
+  a scroll of identify
+(20, 1, D)
+  14 gold pieces
+(20, 2, D)
+  a ration
+(21, -4, D)
+  27 gold pieces
+(21, -2, D)
+  27 gold pieces
+(22, -4, D)
+  27 gold pieces
+(22, -2, D)
+  27 gold pieces
+(24, 0, D)
+  27 gold pieces
+(24, 1, D)
+  27 gold pieces
+(24, 3, D)
+  27 gold pieces
+(24, 5, D)
+  27 gold pieces
+(24, 10, D)
+  9 poisoned needles
+(24, 11, D)
+  22 stones
+(24, 12, D)
+  a +0 arbalest
+(24, 13, D)
+  27 gold pieces
+(25, -8, D)
+  a scroll of enchant armour
+(25, 10, D)
+  16 gold pieces
+(25, 11, D)
+  14 stones
+(25, 13, D)
+  27 gold pieces
+(26, -8, D)
+  a book of Geomancy
+(26, 6, D)
+  18 sling bullets
+(26, 8, D)
+  22 stones
+(26, 9, D)
+  18 gold pieces
+(26, 10, D)
+  a book of Changes
+(26, 13, D)
+  27 gold pieces
+(26, 17, D)
+  the Orb of Zot
+(27, 4, D)
+  an uncursed ring of stealth
+(27, 6, D)
+  16 bolts
+(27, 8, D)
+  a potion of degeneration
+(27, 13, D)
+  27 gold pieces
+(28, -7, D)
+  27 gold pieces
+(28, -6, D)
+  27 gold pieces
+(28, -5, D)
+  27 gold pieces
+(28, 8, D)
+  a +0 robe
+(28, 13, D)
+  27 gold pieces
+(29, -8, D)
+  27 gold pieces
+(29, 3, D)
+  27 gold pieces
+(29, 4, D)
+  27 gold pieces
+(29, 5, D)
+  27 gold pieces
+(29, 6, D)
+  27 gold pieces
+(30, -8, D)
+  27 gold pieces
+(30, -6, D)
+  a +1 helmet
+(30, 3, D)
+  27 gold pieces
+(30, 4, D)
+  27 gold pieces
+(30, 5, D)
+  27 gold pieces
+(30, 6, D)
+  27 gold pieces
+(30, 7, D)
+  27 gold pieces
+(31, 4, D)
+  27 gold pieces
+(31, 5, D)
+  27 gold pieces
+(31, 6, D)
+  27 gold pieces
+(31, 7, D)
+  27 gold pieces
+(32, -5, D)
+  27 gold pieces
+(32, -4, D)
+  27 gold pieces
+(32, -3, D)
+  27 gold pieces
+(32, -2, D)
+  27 gold pieces
+(32, 2, D)
+  27 gold pieces
+(32, 3, D)
+  a ration
+(32, 4, D)
+  27 gold pieces
+(32, 5, D)
+  27 gold pieces
+(32, 6, D)
+  27 gold pieces
+(32, 7, D)
+  27 gold pieces
+(33, -2, D)
+  27 gold pieces
+(33, 2, D)
+  27 gold pieces
+(33, 3, D)
+  27 gold pieces
+(33, 4, D)
+  27 gold pieces
+(33, 5, D)
+  27 gold pieces
+(33, 6, D)
+  27 gold pieces
+(34, -2, D)
+  27 gold pieces
+(34, 4, D)
+  27 gold pieces
+(34, 5, D)
+  27 gold pieces
+(34, 6, D)
+  27 gold pieces
+(35, 3, D)
+  27 gold pieces
+(35, 4, D)
+  27 gold pieces
+(35, 5, D)
+  27 gold pieces
+(36, 4, D)
+  27 gold pieces
+(36, 5, D)
+  27 gold pieces
+(37, 4, D)
+  27 gold pieces
+(37, 5, D)
+  27 gold pieces
+(38, -5, D)
+  an uncursed staff of wizardry
+(39, -5, D)
+  23 stones
+(39, -4, D)
+  27 gold pieces
+(40, -7, D)
+  27 gold pieces
+(40, -5, D)
+  10 gold pieces
+(40, -4, D)
+  27 gold pieces
+(41, -8, D)
+  27 gold pieces
+(41, -4, D)
+  27 gold pieces
+(41, -3, D)
+  27 gold pieces
+(41, -2, D)
+  27 gold pieces
+(41, -1, D)
+  27 gold pieces
+(41, 0, D)
+  27 gold pieces
+(41, 11, D)
+  27 gold pieces
+(41, 12, D)
+  27 gold pieces
+(41, 13, D)
+  27 gold pieces
+(41, 14, D)
+  27 gold pieces
+(41, 16, D)
+  a Necronomicon
+(41, 17, D)
+  a box of beasts
+(42, 11, D)
+  27 gold pieces
+(42, 12, D)
+  27 gold pieces
+(42, 13, D)
+  27 gold pieces
+(42, 14, D)
+  27 gold pieces
+(42, 16, D)
+  +2 acid dragon scales
+(42, 17, D)
+  the +2 trident of Yredelemnul's Pride {drain, rPois rF++ Str+5}
+    A truly terrible weapon, it drains the life of those it strikes.
+    
+    It affects your strength (+5).
+    It greatly protects you from fire.
+    It protects you from poison.
+(43, 12, D)
+  27 gold pieces
+(43, 13, D)
+  27 gold pieces
+(43, 14, D)
+  27 gold pieces
+(44, 13, D)
+  27 gold pieces
+(44, 14, D)
+  27 gold pieces
+(44, 16, D)
+  a phial of floods
+(44, 17, D)
+  the brooch of Shielding {Reflect SH+8}
+    [amulet of reflection]
+    
+    It shields you and reflects attacks.
+    It affects your SH (+8).
+(45, 16, D)
+  a +4 blowgun
+(45, 17, D)
+  the +5 long sword of Disintegration {chaos, +Rage rC- Dex+2}
+    Each time it hits an enemy it has a different, random effect.
+    
+    It affects your dexterity (+2).
+    It makes you vulnerable to cold.
+    It lets you go berserk.
+(46, -8, D)
+  27 gold pieces
+(46, -7, D)
+  27 gold pieces
+(46, -6, D)
+  27 gold pieces
+(46, -5, D)
+  27 gold pieces
+(47, -8, D)
+  27 gold pieces
+(47, -7, D)
+  27 gold pieces
+(47, -6, D)
+  27 gold pieces
+(47, -5, D)
+  27 gold pieces
+(47, -4, D)
+  27 gold pieces
+(47, -2, D)
+  a +4 blowgun
+(47, 6, D)
+  27 gold pieces
+(47, 16, D)
+  27 gold pieces
+(47, 17, D)
+  27 gold pieces
+(48, -8, D)
+  27 gold pieces
+(48, -7, D)
+  27 gold pieces
+(48, -6, D)
+  27 bolts
+(48, -5, D)
+  27 gold pieces
+(48, -4, D)
+  27 gold pieces
+(48, 6, D)
+  27 gold pieces
+(48, 7, D)
+  27 gold pieces
+(48, 16, D)
+  27 gold pieces
+(48, 17, D)
+  27 gold pieces
+(49, -8, D)
+  27 gold pieces
+(49, -7, D)
+  27 gold pieces
+(49, -6, D)
+  27 gold pieces
+(49, -5, D)
+  27 gold pieces
+(49, -4, D)
+  27 gold pieces
+(49, -2, D)
+  a scroll of identify
+(49, 6, D)
+  27 gold pieces
+(49, 7, D)
+  27 gold pieces
+(49, 8, D)
+  a scroll of blinking
+(49, 17, D)
+  27 gold pieces
+(50, -6, D)
+  27 gold pieces
+(50, -5, D)
+  27 gold pieces
+(50, -4, D)
+  27 gold pieces
+(50, 6, D)
+  27 gold pieces
+(50, 7, D)
+  27 gold pieces
+(50, 8, D)
+  a ration
+(50, 17, D)
+  27 gold pieces
+(51, -8, D)
+  a +2 quarterstaff of protection
+(51, 4, D)
+  the +8 quick blade "Quorias" {pierce, rPois rN+ SInv Stlth-}
+    It inflicts extra damage upon your enemies.
+    
+    It protects you from poison.
+    It protects you from negative energy.
+    It lets you see invisible.
+    It makes you less stealthy.
+(51, 6, D)
+  27 gold pieces
+(51, 7, D)
+  27 gold pieces
+(51, 8, D)
+  a wand of disintegration (19)
+(51, 17, D)
+  27 gold pieces
+(52, -8, D)
+  an uncursed ring of poison resistance
+(52, -7, D)
+  a +2 rapier of draining
+(52, -5, D)
+  27 gold pieces
+(52, -4, D)
+  a potion of heal wounds
+(52, -3, D)
+  27 gold pieces
+(52, 3, D)
+  an uncursed staff of death
+(52, 6, D)
+  27 gold pieces
+(52, 7, D)
+  27 gold pieces
+(52, 8, D)
+  a +0 hunting sling
+(52, 17, D)
+  27 gold pieces
+(53, -8, D)
+  a +1 hand crossbow of freezing
+(53, -7, D)
+  a +2 whip of draining
+(53, -5, D)
+  27 gold pieces
+(53, -3, D)
+  27 gold pieces
+(53, 6, D)
+  27 gold pieces
+(53, 7, D)
+  27 gold pieces
+(53, 8, D)
+  a potion of lignification
+(53, 17, D)
+  27 gold pieces
+(54, -8, D)
+  27 gold pieces
+(54, -7, D)
+  27 gold pieces
+(54, -5, D)
+  27 gold pieces
+(54, -4, D)
+  a potion of might
+(54, -3, D)
+  27 gold pieces
+(54, 6, D)
+  27 gold pieces
+(54, 7, D)
+  27 gold pieces
+(54, 8, D)
+  a +0 leather armour
+(54, 17, D)
+  27 gold pieces
+(55, -8, D)
+  27 gold pieces
+(55, -7, D)
+  27 gold pieces
+(55, 6, D)
+  27 gold pieces
+(55, 7, D)
+  27 gold pieces
+(56, -8, D)
+  27 gold pieces
+(56, -7, D)
+  27 gold pieces
+(56, -6, D)
+  27 gold pieces
+(56, -5, D)
+  27 gold pieces
+(56, -4, D)
+  27 gold pieces
+(56, -3, D)
+  27 gold pieces
+(56, -2, D)
+  27 gold pieces
+(56, 6, D)
+  27 gold pieces
+(57, -8, D)
+  27 gold pieces
+(57, -7, D)
+  27 gold pieces
+(57, -6, D)
+  27 gold pieces
+(57, -5, D)
+  27 gold pieces
+(57, -4, D)
+  27 gold pieces
+(57, -3, D)
+  27 gold pieces
+(57, -2, D)
+  27 gold pieces
+(57, -1, D)
+  27 gold pieces
+(57, 8, D)
+  27 gold pieces
+(58, -8, D)
+  27 gold pieces
+(58, -7, D)
+  27 gold pieces
+(58, -6, D)
+  27 gold pieces
+(58, -5, D)
+  27 gold pieces
+(58, -4, D)
+  27 gold pieces
+(58, -3, D)
+  27 gold pieces
+(58, -2, D)
+  27 gold pieces
+(58, -1, D)
+  27 gold pieces
+(58, 0, D)
+  27 gold pieces
+(58, 1, D)
+  27 gold pieces
+(58, 6, D)
+  27 gold pieces
+(58, 7, D)
+  27 gold pieces
+(58, 8, D)
+  27 gold pieces
+(58, 9, D)
+  27 gold pieces
+(59, -8, D)
+  27 gold pieces
+(59, -7, D)
+  27 gold pieces
+(59, -6, D)
+  27 gold pieces
+(59, -5, D)
+  27 gold pieces
+(59, -4, D)
+  27 gold pieces
+(59, -3, D)
+  27 gold pieces
+(59, -2, D)
+  27 gold pieces
+(59, -1, D)
+  27 gold pieces
+(59, 0, D)
+  27 gold pieces
+(59, 1, D)
+  27 gold pieces
+(59, 2, D)
+  27 gold pieces
+(59, 3, D)
+  a potion of invisibility
+(59, 4, D)
+  27 gold pieces
+(59, 5, D)
+  27 gold pieces
+(59, 6, D)
+  27 gold pieces
+(59, 7, D)
+  27 gold pieces
+(59, 8, D)
+  27 gold pieces
+(59, 9, D)
+  27 gold pieces
+(59, 10, D)
+  27 gold pieces
+(59, 11, D)
+  27 gold pieces
+

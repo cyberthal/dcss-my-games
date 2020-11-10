@@ -1,0 +1,514 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4305253190554568965
+
+11794 Moske the Fighter (level 11, 90/90 HPs) *WIZ*
+             Began as a Barachi Transmuter on Oct 6, 2020.
+             Was an Elder of Wu Jian.
+             Quit the game on level 1 of the Orcish Mines on Oct 10, 2020.
+             The game lasted 04:08:35 (20396 turns).
+
+Moske the Fighter (Barachi Transmuter)             Turns: 20396, Time: 04:08:35
+
+Health: 90/90      AC:  8    Str: 12    XL:     11   Next: 83%
+Magic:  18/18      EV: 14    Int: 20    God:    Wu Jian 112 (0)
+Gold:   157        SH:  0    Dex: 12    Spells: 1/20 levels left
+
+rFire    . . .     SeeInvis .   a - +1 shortbow (freeze)
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    +   H - +0 leather armour of the Ninety-Nine Dreams {+Inv Slay+3}
+rPois    .         Spirit   .   J - +0 hat {Int+3}
+rElec    .         Reflect  .   y - +0 cloak
+rCorr    .         Harm     .   L - +2 pair of gloves
+MR       .....                  q - +0 pair of boots
+Stlth    +++.......             o - amulet of faith
+HPRegen  0.25/turn              w - ring of stealth
+MPRegen  0.16/turn              u - ring of protection from cold
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Wall Jump, Serpent's Lash, Renounce Religion, Evoke Invisibility
+
+
+You were on level 1 of the Orcish Mines.
+You worshipped Wu Jian.
+Wu Jian was greatly pleased with you.
+You were not hungry.
+
+You visited 3 branches of the dungeon, and saw 13 of its levels.
+You also visited: Sewer.
+
+You collected 1010 gold pieces.
+You spent 853 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 shortbow of freezing (weapon)
+ b - a +2 morningstar of protection
+ c - a +4 spear
+ d - a +2 flail of venom
+ e - a +1 great mace
+ f - a +4 quarterstaff of chaos
+ g - a +0 hunting sling
+ h - a +0 blowgun
+Missiles
+ i - 233 stones
+ n - 10 tomahawks
+ r - 118 arrows (quivered)
+ D - 2 tomahawks of returning
+ I - 16 poisoned needles
+ P - 4 exploding tomahawks
+Armour
+ q - a +0 pair of boots (worn)
+ y - a +0 cloak (worn)
+ H - the +0 leather armour of the Ninety-Nine Dreams (worn) {+Inv Slay+3}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It lets you turn invisible.
+ J - a +0 hat of intelligence (worn)
+ L - a +2 pair of gloves (worn)
+ T - a +0 ring mail of fire resistance
+ U - a +2 hat of see invisible
+ V - the +0 shield "Gulimuco" {Stlth+}
+   (You found it on level 7 of the Dungeon)   
+   
+   It makes you more stealthy.
+Magical Staves
+ K - a cursed staff of cold
+Jewellery
+ o - an amulet of faith (around neck)
+ s - an uncursed ring of ice
+ u - a ring of protection from cold (right hand)
+ w - a ring of stealth (left hand)
+ Q - an uncursed ring of fire
+ S - an uncursed ring of fire
+Wands
+ l - a wand of disintegration (5)
+ x - a wand of enslavement (8)
+ A - a wand of flame (78)
+ Y - a wand of random effects (26)
+Scrolls
+ j - a scroll of blinking
+ m - 3 scrolls of fear
+ p - 9 scrolls of remove curse
+ G - 4 scrolls of teleportation
+Potions
+ k - 8 potions of heal wounds
+ t - 2 potions of flight
+ v - a potion of magic
+ B - a potion of invisibility
+ C - a potion of berserk rage
+ E - 2 potions of agility
+ F - 3 potions of might
+ M - a potion of lignification
+ O - 4 potions of curing
+ X - 2 potions of brilliance
+Miscellaneous
+ R - a fan of gales
+Comestibles
+ z - a chunk of flesh
+ W - 7 rations
+
+
+   Skills:
+ - Level 10.0 Fighting
+   Level 1.0 Short Blades
+ - Level 5.0 Maces & Flails
+ - Level 3.0 Polearms
+ - Level 2.9(3.3) Slings
+ - Level 3.1 Bows
+ - Level 2.3(3.0) Throwing
+ - Level 1.1 Armour
+ - Level 6.0 Dodging
+ - Level 4.0 Stealth
+ - Level 2.1 Shields
+ - Level 5.0 Unarmed Combat
+ + Level 5.0 Spellcasting
+ + Level 2.4 Hexes
+ - Level 9.0 Transmutations
+ - Level 1.1 Ice Magic
+ - Level 1.0 Poison Magic
+ - Level 8.0 Evocations
+
+
+You had one spell level left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           41 (50)      1%          1    0
+b - Confusing Touch       Hex            14 (50)      5%          1    0
+c - Animate Skeleton      Necr           N/A          14%         1    0
+d - Sticks to Snakes      Tmut           41 (100)     1%          2    0
+e - Spider Form           Tmut/Pois      25 (200)     5%          3    49
+f - Ice Form              Ice/Tmut       25 (100)     19%         4    149
+g - Blade Hands           Tmut           41 (200)     10%         5    299
+h - Slow                  Hex            14 (100)     9%          2    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Apportation              Tloc           5 (50)       14%         1    0
+ Magic Dart               Conj           5 (25)       14%         1    0
+ Summon Small Mammal      Summ           5 (25)       14%         1    0
+ Blink                    Tloc           N/A          22%         2    0
+ Call Imp                 Summ           5 (100)      22%         2    0
+ Mephitic Cloud           Conj/Pois/Air  6 (100)      36%         3    49
+ Conjure Flame            Conj/Fire      5 (100)      41%         3    49
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:6             Orc (2/2) D:9
+    Elf (0/3) Orc:2       
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:6 *   D:10 %   Orc:1 :
+
+Annotations:
+D:10 exclusion: gargoyle, Erolcha, Fannar
+Orc:1 loot, 1 exclusion
+Orc:2 Saint Roka
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Your +2 pair of gloves unmelds from your body.
+Your +1 shortbow of freezing is covered in frost.
+You start resting.
+Magic restored.
+You start resting.
+Your magical contamination has completely faded away.
+You start resting.
+HP restored.
+Things that are here:
+a +1 flail of protection; a +0 plate armour
+There is a stone staircase leading down here.
+Casting: Blade Hands (slightly dangerous; 10% risk of failure)
+Confirm with . or Enter, or press ? or * to list all spells.
+Okay, then.
+Saving game... please wait.
+Level annotation: loot, 1 exclusion
+Welcome back, Moske the Barachi Transmuter.
+The Council says: Follow the path of wisdom and battle!
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##.....#.##........##
+#.....#####.......##
+##.......###....###
+ ###.....##...#.##  ###              ###
+   #.........#...# ##.##         #####.##
+  ##.........#..####...##      ###.##...#
+  #............###..#...#      #....#...#
+  ##.........)..#...#..##     ###...##.##
+   ##......_....#......########.....#...#
+   #...........#...).......#.#......#..##
+  ###..........#......................##
+###................................^..###
+#..........#......)##.#..........#.#.....
+#.#......###.......@###......[....###....
+###.....##.#......)%#.#[..[))).#.###...##
+ #........................[)<....##....#
+ ##......#......#........)##.........#.#
+  ##.#.........###........###........###
+   ####.......## ##....\..##........##
+      ###....##  ##......####.#.....#
+      #.....##   #.......## ##......#
+      #....## #####.......#####..#.##
+      ##.#.## #..#.[........#####.##
+       ##...####.............#  ###
+        ##.##........##......##
+         ####.....#######.....#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A two-headed ogre (D:9)
+  2 deep elf magi (Orc:1)
+  2 orc knights
+  3 trolls
+  A hornet (D:10)
+  A wraith (D:8)
+  13 yaks
+  2 hungry ghosts
+  A steam dragon (D:8)
+  6 wargs
+  11 orc warriors
+  4 phantoms
+  A sky beast (D:10)
+  A swamp drake (D:9)
+  An ice beast (D:9)
+  A necrophage (D:10)
+  9 ogres
+  4 centaurs
+  2 big kobolds
+  6 bullfrogs
+  3 scorpions
+  A wyvern skeleton (D:9)
+  4 killer bees (D:10)
+  2 howler monkeys (D:7)
+  A crimson imp (Orc:1)
+  2 quasits
+  5 orc priests
+  5 jellies
+  Crazy Yiuf (D:7)
+  6 hounds
+  11 orc wizards
+  An iron imp (D:9)
+  3 iguanas
+  6 worker ants
+  A hound skeleton (D:8)
+  A howler monkey zombie (D:5)
+  12 gnolls
+  15 adders
+  6 river rats
+  3 shadow imps
+  A white imp (D:9)
+  2 oozes
+  2 adder zombies
+  2 worms
+  4 dart slugs
+  8 leopard geckos
+  41 orcs
+  6 bats
+  4 giant cockroaches
+  6 goblins
+  10 hobgoblins
+  13 jackals
+  2 quokkas
+  6 ball pythons
+  9 frilled lizards
+  31 kobolds
+  A leopard gecko skeleton (D:5)
+  2 quokka zombies
+  18 rats
+329 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hornet (D:9)
+  A worker ant (D:5)
+  An adder (D:2)
+  A river rat (Sewer)
+  3 rats (Sewer)
+7 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc warrior (Orc:2)
+  2 orc wizards (Orc:1)
+  3 orcs (Orc:1)
+6 creatures vanquished.
+
+Grand Total: 342 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Moske the Barachi Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   144 | D:1      | Reached skill level 1 in Stealth
+   187 | D:1      | Reached XP level 2. HP: 17/21 MP: 3/5
+   493 | D:1      | Learned a level 2 spell: Sticks to Snakes
+   944 | D:1      | Reached XP level 3. HP: 26/26 MP: 4/6
+   998 | D:1      | Learned a level 3 spell: Spider Form
+  1751 | D:1      | You fall through a shaft!
+  2639 | D:2      | Reached XP level 4. HP: 32/32 MP: 7/7
+  2978 | D:2      | Reached skill level 1 in Slings
+  3485 | D:2      | Entered wizard mode.
+  3792 | D:3      | Reached XP level 5. HP: 35/37 MP: 6/8
+  3814 | D:3      | Reached skill level 1 in Evocations
+  4510 | D:2      | Reached skill level 1 in Polearms
+  4762 | D:4      | Reached skill level 2 in Fighting
+  4777 | D:4      | Noticed an ogre
+  4930 | D:4      | Noticed an ogre
+  4938 | D:4      | Killed an ogre
+  4938 | D:4      | Reached skill level 3 in Fighting
+  4938 | D:4      | Reached XP level 6. HP: 32/47 MP: 2/9
+  5126 | D:4      | Reached skill level 4 in Fighting
+  5177 | D:4      | Noticed a phantom
+  5223 | D:4      | Killed a phantom
+  5223 | D:4      | Reached skill level 5 in Fighting
+  5223 | D:4      | Reached XP level 7. HP: 27/56 MP: 10/10
+  5382 | D:4      | Learned a level 4 spell: Ice Form
+  6088 | D:5      | Entered Level 5 of the Dungeon
+  6419 | D:5      | Reached skill level 6 in Fighting
+  6540 | D:5      | Got a jacinth-encrusted leather armour
+  6944 | D:5      | Reached skill level 5 in Transmutations
+  7132 | D:5      | Reached skill level 1 in Short Blades
+  7132 | D:5      | Reached skill level 1 in Armour
+  7132 | D:5      | Reached skill level 1 in Ice Magic
+  7330 | D:5      | Reached XP level 8. HP: 64/64 MP: 7/11
+  7627 | D:6      | Found a glowing drain.
+  7632 | Sewer    | Entered a sewer
+  8043 | Sewer    | Reached skill level 7 in Fighting
+  8770 | D:6      | Found a radiant altar of Vehumet.
+  8903 | D:6      | Found a staircase to the Ecumenical Temple.
+  8909 | Temple   | Entered the Ecumenical Temple
+  8918 | Temple   | Became a worshipper of the Wu Jian Council
+  9081 | D:6      | Reached skill level 1 in Poison Magic
+  9348 | D:6      | Found Davim's Assorted Antiques.
+  9730 | D:6      | Identified the cursed +0 leather armour of the Ninety-Nine
+                  | Dreams {+Inv Slay+3} (You found it on level 5 of the
+                  | Dungeon)
+  9827 | D:6      | Bought a potion of heal wounds for 120 gold pieces
+  9827 | D:6      | Bought a scroll of identify for 48 gold pieces
+  9827 | D:6      | Bought a bubbling golden potion for 21 gold pieces
+  9827 | D:6      | Bought a fuming red potion for 21 gold pieces
+  9827 | D:6      | Bought 2 fizzy green potions for 43 gold pieces
+ 10105 | D:7      | Found a burning altar of Makhleb.
+ 10185 | D:7      | Reached XP level 9. HP: 69/72 MP: 12/12
+ 10285 | D:7      | Got an ichor-stained shield
+ 10299 | D:6      | Identified the +0 shield "Gulimuco" {Stlth+} (You found it
+                  | on level 7 of the Dungeon)
+ 10518 | D:7      | Reached skill level 1 in Shields
+ 10686 | D:7      | Reached skill level 1 in Bows
+ 11489 | D:7      | Found a runed translucent door.
+ 11585 | D:7      | Noticed Crazy Yiuf
+ 11595 | D:7      | Killed Crazy Yiuf
+ 11754 | D:6      | Bought a potion of haste for 240 gold pieces
+ 12220 | D:8      | Reached * piety under Wu Jian
+ 12220 | D:8      | Reached skill level 8 in Fighting
+ 12381 | D:7      | Reached skill level 1 in Maces & Flails
+ 12559 | D:8      | Reached skill level 5 in Evocations
+ 12826 | D:8      | Reached skill level 1 in Throwing
+ 12937 | D:8      | Reached skill level 5 in Dodging
+ 12958 | D:8      | Reached XP level 10. HP: 64/82 MP: 10/13
+ 12960 | D:8      | Reached skill level 9 in Fighting
+ 13108 | D:8      | Reached ** piety under Wu Jian
+ 14245 | D:9      | Paralysed by a hornet for 1 turns
+ 16232 | D:9      | Found a staircase to the Orcish Mines.
+ 16245 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 16265 | D:9      | Reached *** piety under Wu Jian
+ 16334 | D:10     | Entered Level 10 of the Dungeon
+ 16334 | D:10     | Noticed a two-headed ogre
+ 16361 | D:9      | Killed a two-headed ogre
+ 16361 | D:9      | Reached XP level 11. HP: 53/90 MP: 11/15
+ 17097 | Orc:1    | Reached skill level 10 in Fighting
+ 17106 | Orc:1    | Found Musosch's Book Emporium.
+ 17237 | Orc:1    | Found a bloodstained altar of Trog.
+ 18047 | D:10     | Noticed Erolcha
+ 18085 | D:10     | Noticed Fannar
+ 18335 | D:10     | Found Fankel's Food Boutique.
+ 18474 | Orc:1    | Noticed an orc knight
+ 18506 | Orc:1    | Reached **** piety under Wu Jian
+ 18689 | D:9      | Killed an orc knight
+ 18866 | Orc:1    | Bought a book of Cantrips for 360 gold pieces
+ 18879 | D:9      | Learned a level 5 spell: Blade Hands
+ 18883 | D:9      | Learned a level 1 spell: Animate Skeleton
+ 18985 | Orc:1    | Noticed a deep elf mage
+ 18992 | Orc:1    | Killed a deep elf mage
+ 19023 | Orc:1    | Noticed a deep elf mage
+ 19032 | Orc:1    | Killed a deep elf mage
+ 19032 | Orc:1    | Reached skill level 5 in Maces & Flails
+ 19272 | Orc:1    | Learned a level 1 spell: Confusing Touch
+ 19358 | Orc:1    | Reached skill level 5 in Unarmed Combat
+ 19432 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 19432 | Orc:2    | Found a staircase to the Elven Halls.
+ 19433 | Orc:2    | I can use SInv with +Inv and chaos quarterstaff
+ 19470 | Orc:2    | Noticed an orc knight
+ 19530 | Orc:1    | Killed an orc knight
+ 19530 | Orc:1    | Reached skill level 1 in Hexes
+ 19535 | Orc:1    | Learned a level 2 spell: Slow
+ 20041 | Orc:2    | Noticed Saint Roka
+ 20287 | Orc:2    | Reached skill level 5 in Spellcasting
+ 20396 | Orc:1    | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  1                    2  3     4 |  4.0
+Transmutations |     3     4        5  6  7  9    |  9.0
+Slings         |           1           2          |  2.9
+Unarmed Combat |           4                    5 |  5.0
+Evocations     |              2        3  5  6  8 |  8.0
+Polearms       |              1        2  3       |  3.0
+Fighting       |              3  5  6  7  8  9 10 | 10.0
+Dodging        |              3        4  5     6 |  6.0
+Short Blades   |                    1             |  1.0
+Armour         |                    1             |  1.1
+Ice Magic      |                    1             |  1.1
+Poison Magic   |                       1          |  1.0
+Shields        |                          1  2    |  2.1
+Bows           |                          2  3    |  3.1
+Maces & Flails |                          1  4  5 |  5.0
+Throwing       |                          2       |  2.3
+Spellcasting   |                             3  5 |  5.0
+Hexes          |                                2 |  2.4
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   136 |  8034 |    75 |    87 ||  8332
+       Headbutt          |     9 |     3 |    26 |  2376 ||  2414
+       Kick              |    12 |  1267 |    11 |       ||  1290
+       Punch             |     1 |   156 |     6 |   139 ||   302
+       Spear             |       |  8033 |   287 |    79 ||  8399
+       Dagger            |       |       |     5 |     3 ||     8
+       Flail             |       |       |       |  4166 ||  4166
+       Great mace        |       |       |       |  4000 ||  4000
+       Quarterstaff      |       |       |       |    10 ||    10
+       Morningstar       |       |       |       |     5 ||     5
+ Fire: Hunting sling     |     3 |    73 |   198 |       ||   274
+       Shortbow          |       |       |    68 |   160 ||   228
+       Blowgun           |       |       |     1 |    38 ||    39
+Throw: Stone             |    39 |       |       |       ||    39
+       Tomahawk          |       |     1 |     9 |    10 ||    20
+ Cast: Beastly Appendage |    32 |    17 |    56 |    46 ||   151
+       Sticks to Snakes  |     2 |     3 |     9 |     6 ||    20
+       Spider Form       |     2 |     7 |    16 |    12 ||    37
+       Blade Hands       |       |       |       |     2 ||     2
+       Animate Skeleton  |       |       |       |     1 ||     1
+       Ice Form          |       |       |       |     1 ||     1
+Invok: Lunge             |       |       |     6 |    11 ||    17
+       Whirlwind         |       |       |    17 |    67 ||    84
+ Abil: Hop               |       |     1 |     3 |     8 ||    12
+       End Transformatio |       |       |     2 |     2 ||     4
+       Evoke Invisibilit |       |       |     1 |    14 ||    15
+Evoke: Wand              |       |     5 |     1 |     3 ||     9
+  Use: Scroll            |     3 |     5 |    12 |     1 ||    21
+       Potion            |       |     2 |     5 |     2 ||     9
+ Stab: Sleeping          |     1 |       |     1 |       ||     2
+       Invisible         |       |       |     1 |    11 ||    12
+       Distracted        |       |       |       |     2 ||     2
+  Eat: Chunk             |     7 |     8 |    20 |    34 ||    69
+       Ration            |       |     1 |     3 |     1 ||     5
+Armor: Robe              |    33 |  2327 |    30 |       ||  2390
+       Skin              |       |     2 |     2 |    42 ||    46
+       Leather armour    |       |       |    17 |  2743 ||  2760
+Dodge: Dodged            |    97 |  8370 |   221 |  5547 || 14235
+

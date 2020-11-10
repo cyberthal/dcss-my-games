@@ -1,0 +1,109 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18142503669682476417
+
+0 Hyevois the Cudgeler (level 1, 22/22 HPs)
+             Began as a Troll Chaos Knight on Oct 20, 2020.
+             Was a Plaything of Xom.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:43 (0 turns).
+
+Hyevois the Cudgeler (Troll Chaos Knight)              Turns: 0, Time: 00:00:43
+
+Health: 22/22      AC:  8    Str: 19    XL:     1   Next: 0%
+Magic:  0/0        EV: 10    Int:  8    God:    Xom [..*...]
+Gold:   0          SH:  0    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 mace (chaos)
+rCold    . . .     Gourm    +   (no shield)
+rNeg     . . .     Faith    .   b - +2 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Xom.
+You were a toy of Xom.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 mace of chaos (weapon)
+Armour
+ b - a +2 robe (worn)
+Comestibles
+ c - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.6 Maces & Flails
+ + Level 1.9 Dodging
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Welcome, Hyevois the Troll Chaos Knight.
+It is said that the Orb of Zot exists deep within this dungeon.
+Xom says: A new plaything!
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Autopickup is now off.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  ###
+  ...
+###.###
+#.....#
+#..@..#
+#.....#
+#######
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hyevois the Troll Chaos Knight began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Quit the game
+

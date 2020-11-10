@@ -1,0 +1,230 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12773384485921246221
+
+60554 Hisiaf the Conqueror (level 15, 200/206 HPs) *WIZ*
+             Began as an Ogre Fighter on Sept 12, 2020.
+             Was an Initiate of Okawaru.
+             Quit the game on level 1 of the Pits of Slime.
+             The game lasted 00:07:12 (620 turns).
+
+Hisiaf the Conqueror (Ogre Fighter)                  Turns: 620, Time: 00:07:13
+
+Health: 200/206    AC:  5    Str: 19    XL:     15   Next: 0%
+Magic:  46/46      EV: 21    Int:  9    God:    Okawaru 14 (0)
+Gold:   0          SH: 17    Dex:  8    Spells: 68/68 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.44/turn              (no ring)
+MPRegen  0.30/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, tough skin 1
+a: Renounce Religion
+
+
+You were on level 1 of the Pits of Slime.
+You worshipped Okawaru.
+Okawaru was noncommittal.
+You were completely stuffed.
+
+You visited 3 branches of the dungeon, and saw 3 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 robe (worn)
+ c - a +0 shield (worn)
+Potions
+ d - a potion of might
+Comestibles
+ f - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 68 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)              Slime (1/5)             
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Jiyva
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have tough skin. (AC +1)
+
+
+Message History
+
+You feel yourself speed up.
+You feel sick.
+You start resting.
+You feel sick. x7
+You are no longer poisoned.
+You start resting.
+Enter Wizard Command (? - help): 
+Super healing.
+You climb downwards. Welcome back to the Pits of Slime!
+This branch is unnaturally silent, and so sound travels much further.
+This branch contains the slimy rune of Zot.
+The centaur warrior zombie hits you.
+The deep elf knight zombie completely misses you.
+The walls burn the deep elf mage skeleton!
+The four-headed hydra skeleton completely misses you.
+The four-headed hydra skeleton barely misses you.
+You block the four-headed hydra skeleton's attack. x2
+The deep elf archer skeleton hits you.
+There is a staircase back to the Lair, spattered with blood here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#  #########
+#.##.#..#..##
+ ...........#######
+#  #.........#.#..###
+#.##................#
+.....................
+.........#..........#
+................#...#
+...........#.........
+....#.Z.........#.#.#
+...............^# #
+.......Z.Z...#....#
+....#ZZZ@....##.....
+.......Z.Z....###....
+....#...........###.#
+ ..#.............# ##
+ .............#...
+ #...............#
+ #...............#
+ #............Z.#
+ ........#.#.####
+
+
+You could see an orb spider zombie, 2 deep elf knight zombies, a centaur warrior
+zombie, a four-headed hydra skeleton, a swamp drake skeleton (wandering), a deep
+elf mage skeleton, a shock serpent skeleton and a deep elf archer skeleton.
+
+Vanquished Creatures
+  2 deep elf master archers
+  A fire giant (Lair:5)
+  A deep elf sorcerer (Slime:1)
+  A merfolk javelineer (Slime:1)
+  2 tengu warriors (Slime:1)
+  2 deep elf knights (Slime:1)
+  A deep elf mage (Slime:1)
+  4 merfolk (Slime:1)
+14 creatures vanquished.
+
+Vanquished Creatures (others)
+  A fire giant (Slime:1)
+  A merfolk impaler (Slime:1)
+  4 merfolk (Slime:1)
+6 creatures vanquished.
+
+Grand Total: 20 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Hisiaf the Ogre Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 24/24 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | Slime:1  | Entered Level 1 of the Pits of Slime
+     0 | Slime:1  | Noticed a slime creature
+     0 | Slime:1  | Noticed a slime creature
+     0 | Slime:1  | Noticed a slime creature
+     0 | Slime:1  | Noticed a slime creature
+     1 | Lair:5   | Found a staircase to the Slime Pits.
+     1 | Lair:5   | Found a viscous altar of Jiyva.
+     1 | Lair:5   | Noticed a rime drake
+     2 | Lair:5   | Became a worshipper of Warmaster Okawaru
+     2 | Lair:5   | Reached XP level 2. HP: 32/32 MP: 2/2
+     2 | Lair:5   | Reached XP level 3. HP: 39/39 MP: 3/3
+     2 | Lair:5   | Reached XP level 4. HP: 48/48 MP: 4/4
+     2 | Lair:5   | Reached XP level 5. HP: 54/54 MP: 5/5
+     2 | Lair:5   | Reached XP level 6. HP: 62/62 MP: 6/6
+     2 | Lair:5   | Reached XP level 7. HP: 70/70 MP: 7/7
+     2 | Lair:5   | Reached XP level 8. HP: 78/78 MP: 8/8
+     2 | Lair:5   | Reached XP level 9. HP: 84/84 MP: 9/9
+     2 | Lair:5   | Reached XP level 10. HP: 92/92 MP: 10/10
+     2 | Lair:5   | Reached XP level 11. HP: 100/100 MP: 11/11
+     2 | Lair:5   | Reached XP level 12. HP: 107/107 MP: 12/12
+     2 | Lair:5   | Reached XP level 13. HP: 114/114 MP: 13/13
+     2 | Lair:5   | Reached XP level 14. HP: 123/123 MP: 14/14
+     2 | Lair:5   | Reached XP level 15. HP: 130/130 MP: 15/15
+     4 | Slime:1  | Noticed a fire giant
+     4 | Slime:1  | Noticed a deep elf master archer
+     4 | Slime:1  | Noticed a deep elf sorcerer
+    20 | Lair:5   | Killed a fire giant
+    23 | Lair:5   | Killed a deep elf master archer
+    38 | Slime:1  | Killed a deep elf sorcerer
+    56 | Slime:1  | Noticed a deep elf master archer
+    56 | Slime:1  | Noticed a fire giant
+    87 | Slime:1  | Killed a fire giant
+    98 | Slime:1  | Killed a deep elf master archer
+   107 | Slime:1  | HP: 10/206 [something (8)]
+   112 | Slime:1  | HP: 5/206 [poison (dark miasma)]
+   118 | Slime:1  | HP: 4/206 [poison (dark miasma)]
+   120 | Slime:1  | 108.6
+   136 | Slime:1  | 132.1
+   407 | Slime:1  | 404.1
+   620 | Slime:1  | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: War axe           |       |       |       |       |    72 ||    72
+Armor: Robe              |       |       |       |       |     4 ||     4
+Dodge: Dodged            |       |       |       |       |    65 ||    65
+Block: Shield            |       |       |       |       |   104 ||   104
+

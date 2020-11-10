@@ -1,0 +1,256 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 1458576595254830063
+
+11 Koqunigho the Charlatan (level 2, 22/26 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:03:53 (53 turns).
+
+Koqunigho the Charlatan (Deep Dwarf Artificer)        Turns: 53, Time: 00:03:53
+
+Health: 22/26      AC:  3    Str: 15    XL:     2   Next: 17%
+Magic:  5/5        EV: 13    Int: 11    God:    No God 0 (0)
+Gold:   108        SH:  0    Dex: 13    Spells: 1/1 levels left
+
+rFire    . . .     SeeInvis .   m - +0 scythe
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+You collected 108 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword
+ m - a +0 scythe (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (40)
+ d - a wand of enslavement (8)
+ e - a wand of random effects (15)
+ o - a wand of polymorph (5)
+Scrolls
+ l - a scroll of blinking
+Potions
+ g - a potion of curing
+ h - a potion of heal wounds
+ i - a potion of haste
+ j - 2 potions of magic
+ k - a potion of berserk rage
+Comestibles
+ f - a ration
+ n - 2 chunks of flesh
+
+
+   Skills:
+ + Level 1.9 Fighting
+ - Level 1.4 Short Blades
+ + Level 0.8 Polearms
+ + Level 3.1 Dodging
+ + Level 2.7 Stealth
+ + Level 4.8 Evocations
+
+
+You had one spell level left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D ::}![}*!*(=%:}[((!?[(*
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+
+Message History
+
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+You close the door, pushing everything out of the way.
+Things that are here:
+a wand of polymorph (5); 27 gold pieces; the goblin corpse of Ijyb
+You butcher the goblin corpse of Ijyb.
+Items here: $ %% /
+a wand of polymorph (5); 27 gold pieces; 2 chunks of flesh; the goblin skeleton
+of Ijyb
+n - 2 chunks of flesh
+o - a wand of polymorph (5)
+You see here 27 gold pieces.
+Autopickup is now on.
+You now have 54 gold pieces (gained 27).
+You see here the goblin skeleton of Ijyb.
+You now have 81 gold pieces (gained 27).
+You now have 108 gold pieces (gained 27).
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###################################
+#<.#..'..#.['.%#__#$$+..K#$%#.$$k+h
+#..'..#..'..#@.+J.+$$#.G.##+#$####h
+#..#####+#####+#__####K..+ss#$#[###
+#..####$$#$$$#!####$[#####ss+$#+#$#
+#..#__####$$##?#~~~.c#$$##+####^.$#
+#..#_____##+#_.+~~~..+.y#.^...#..$#
+#}}#_.\..Y+..._#~~~.c#$$#.....+..$$
+####_..__##_J#+##+#####+###^9.#^...
+#$$#_____###+#$#((%!###P+$#^..###++
+############.####+###!###$#..###..#
+#\........+$.$+$$T$$+!\##.#..####$$
+###++++####$K$###########$##+#$$#?$
+#..G....####.###.......##s##$#$$$$$
+#G......G#$#+#$#xx......+$####$$$$$
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (collateral kills)
+  A river rat (D)
+1 creature vanquished.
+
+Vanquished Creatures (others)
+  An ogre (D)
+  Ijyb (D)
+2 creatures vanquished.
+
+Grand Total: 3 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found Yroad's General Store.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found Gamanir's Distillery.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found Jeplouzo's Book Boutique.
+     0 | D        | Found Pommeze's Armour Emporium.
+     0 | D        | Found Qid Baw Jei's Book Shoppe.
+     0 | D        | Found Zenuner's Antique Armour Shop.
+     0 | D        | Found Ysiotyod's General Store.
+     0 | D        | Found Enoasael's Distillery.
+     0 | D        | Found Lyutik's Distillery.
+     0 | D        | Found Zeoss's Antique Weapon Emporium.
+     0 | D        | Found Efysoch's Gadget Emporium.
+     0 | D        | Found Gef Car's Gadget Boutique.
+     0 | D        | Found Jewomem's General Store.
+     0 | D        | Found Tuziph's Antique Weapon Emporium.
+     0 | D        | Found Qot Goqo's Jewellery Shop.
+     0 | D        | Found Alexip's Food Shoppe.
+     0 | D        | Found Miallax's Book Boutique.
+     0 | D        | Found Mebuy's Gadget Emporium.
+     0 | D        | Found Puriuwi's Antique Armour Shop.
+     0 | D        | Found Ustacump's Weapon Shoppe.
+     0 | D        | Found Gesoer's Weapon Boutique.
+     0 | D        | Found Qij Xuas's Magic Scroll Emporium.
+     2 | D        | Noticed Ijyb
+     6 | D        | Noticed an ogre
+    12 | D        | Noticed Sigmund
+    17 | D        | Noticed Sigmund
+    17 | D        | Sigmund changed into Sigmund the river rat
+    19 | D        | Killed Sigmund the river rat
+    19 | D        | Reached skill level 1 in Fighting
+    19 | D        | Reached skill level 1 in Short Blades
+    29 | D        | Noticed a slime creature
+    31 | D        | Slain by a slime creature (17 damage)
+    31 | D        | Slain by a slime creature (18 damage)
+    40 | D        | Your ally  died
+    40 | D        | Reached XP level 2. HP: 22/26 MP: 5/5
+    53 | D        | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       |  1 |  1.9
+Short Blades   |  1 |  1.4
+Stealth        |  2 |  2.7
+Dodging        |  3 |  3.1
+Polearms       |    |  0.8
+Evocations     |    |  4.8
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||     4
+       Scythe            ||     3
+Evoke: Wand              ||     7
+ Stab: Sleeping          ||     1
+Dodge: Dodged            ||     4
+

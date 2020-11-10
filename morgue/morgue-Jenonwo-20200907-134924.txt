@@ -1,0 +1,121 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17747740286792164434
+
+0 Jenonwo the Chiller (level 1, 13/13 HPs) *WIZ*
+             Began as a Merfolk Ice Elementalist on Sept 7, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:01:32 (1 turns).
+
+Jenonwo the Chiller (Merfolk Ice Elementalist)         Turns: 1, Time: 00:01:33
+
+Health: 13/13      AC:  2    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 13    Int: 14    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: change form in water, swift swim, stealthy swim
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 0.0 Fighting
+ - Level 3.0 Dodging
+ - Level 2.1 Stealth
+ - Level 2.0 Spellcasting
+   Level 0.7 Conjurations
+ - Level 3.2 Ice Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            10 (25)      6%          1    22
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       7 (50)       16%         2    72
+ Ozocubu's Armour         Chrm/Ice       6 (100)      36%         3    122
+ Throw Icicle             Conj/Ice       7 (100)      71%         4    222
+ Summon Ice Beast         Ice/Summ       6 (100)      77%         4    222
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:2 Robin
+
+Message History
+
+Found a staircase leading out of the dungeon.
+Autopickup is now off.
+Enter note: 2.6
+WARNING: ABOUT TO ENTER WIZARD MODE!
+If you continue, your game will not be scored!
+Do you really want to enter wizard mode? (Confirm with "yes".) 
+Enter Wizard Command (? - help): 
+Which skill (by name)? dodg
+Dodging
+To what level? 3
+Increased Dodging to skill level 3.0.
+Your legs become a tail as you enter the water.
+Enter Wizard Command (? - help): 
+You climb downwards. Found a ring mail.
+6 goblins and Robin come into view.
+There is a stone staircase leading up here.
+There are monsters nearby!
+Drop what? 2/52 slots (_ for help) (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#############.#
+..ggggg@gg...[#
+###############
+
+
+You could see Robin (sleeping) and 6 goblins.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jenonwo the Merfolk Ice Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | 2.6
+     0 | D:1      | Entered wizard mode.
+     1 | D:2      | Noticed Robin
+     1 | D:2      | Quit the game
+

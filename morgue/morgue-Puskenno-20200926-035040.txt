@@ -1,0 +1,186 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12735269876443760656
+
+0 Puskenno the Politician (level 1, 60/60 HPs) *WIZ*
+             Began as a Centaur Assassin on Sept 26, 2020.
+             Quit the game on level 2 of the Dungeon.
+             The game lasted 00:02:59 (18 turns).
+
+Puskenno the Politician (Centaur Assassin)            Turns: 18, Time: 00:02:59
+
+Health: 60/60      AC:  8    Str: 13    XL:     1   Next: 0%
+Magic:  28/28      EV: 22    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 54/54 levels left
+
+rFire    . . .     SeeInvis .   b - +0 blowgun
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +++++++++.             (no amulet)
+HPRegen  0.20/turn              (no ring)
+MPRegen  0.21/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were completely stuffed.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger
+ b - a +0 blowgun (weapon)
+Missiles
+ e - 8 poisoned needles
+ f - a curare-tipped needle
+ h - 29 needles of sleeping
+ i - 29 throwing nets
+ j - 29 needles of confusion (quivered)
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Armour
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You had 54 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Cheibriados
+Qazlal
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+j - 30 needles of confusion
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+b - a +0 blowgun (weapon)
+Firing (i - inventory. (/) - cycle) j - 30 needles of confusion (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - deep elf mage
+Aim: a deep elf mage, wielding a +0 long sword and wearing a +0 leather armour
+(heavily wounded, slow, poisoned, entangled in a net, resting, chance to
+confuse on hit: 78%)
+You shoot a needle of confusion.
+The needle of confusion hits the deep elf mage!!
+The deep elf mage appears confused.
+The deep elf mage shouts!
+The deep elf mage is heavily wounded.
+The deep elf mage is no longer moving slowly.
+Press: ? - help, v - describe, . - travel, g - get item
+Here: a deep elf mage, wielding a +0 long sword and wearing a +0 leather armour
+(heavily wounded, poisoned, confused, entangled in a net)
+A needle of confusion.
+There is something else lying underneath.
+The floor.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+  #.....# #8...8###.#.##..#..#
+  #.....# ###>####..#....#..#.
+  #.....##########....#.#..#..
+  #...............###.##..###.
+  #......##.####### #..#######
+  #......##.############   #.#
+  ####+#.##...........#    #.#
+     #.#.############.#    #.#
+     #.#.#          #.######.#
+     #.#.#          #.##...#.#
+     #.#.#          #..#...#.#
+######+#+####       #..#...#.#
+#........e..#       #......#.#
+#.......@...#       #.#....#.#
+#...........##      #.#....#.#
+##...!.......#      #.#....#.#
+ #...........########.##.###.#
+ #....................##..##.#
+########+####.........###.##.#
+#..........##.................
+#........).##........####.##.#
+#.......)..##........#  #?##.#
+#..........++........#  #..#.#
+#..........##........#####.#.#
+#..........##............#...#
+#......!...#######.......##..#
+
+
+You could see a deep elf mage (caught).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Puskenno the Centaur Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     2 | D:2      | Found a stormy altar of Qazlal.
+     2 | D:2      | Found a snail-covered altar of Cheibriados.
+     2 | D:2      | Found a glowing golden altar of the Shining One.
+     2 | D:2      | Noticed a deep elf mage
+    18 | D:2      | Quit the game
+
+Action                   || total
+-------------------------++-------
+ Fire: Blowgun           ||     3
+Throw: Throwing net      ||     1
+

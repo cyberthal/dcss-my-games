@@ -1,0 +1,253 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6120959426344032483
+
+Zeenez the Chiller (Barachi Ice Elementalist)          Turns: 5, Time: 00:07:35
+
+Health: 13/13      AC:  2    Str:  9    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 15    God:    Ru 50 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop, Sacrifice Resistance, Sacrifice Arcana, Sacrifice Health, Reject
+Sacrifices, Renounce Religion
+
+
+You are on level 1 of the Dungeon.
+You worship Ru.
+Ru is pleased with you.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 2.1 Dodging
+ + Level 1.7 Stealth
+ + Level 2.1 Spellcasting
+   Level 1.1 Conjurations
+ + Level 3.6 Ice Magic
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Freeze                Ice            12 (25)      4%          1    18
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Throw Frost              Conj/Ice       8 (50)       13%         2    68
+ Magic Dart               Conj           4 (25)       14%         1    18
+ Ensorcelled Hibernation  Hex/Ice        7 (50)       16%         2    68
+ Flame Tongue             Conj/Fire      3 (40)       17%         1    18
+ Shock                    Conj/Air       3 (25)       17%         1    18
+ Sting                    Conj/Pois      3 (25)       17%         1    18
+ Animate Skeleton         Necr           N/A          22%         1    18
+ Apportation              Tloc           1 (50)       22%         1    18
+ Beastly Appendage        Tmut           1 (50)       22%         1    18
+ Confusing Touch          Hex            1 (50)       22%         1    18
+ Corona                   Hex            1 (90)       22%         1    18
+ Infusion                 Chrm           1 (25)       22%         1    18
+ Pain                     Necr           1 (25)       22%         1    18
+ Sandblast                Erth           1 (50)       22%         1    18
+ Summon Butterflies       Summ           1 (100)      22%         1    18
+ Summon Small Mammal      Summ           1 (25)       22%         1    18
+ Searing Ray              Conj           4 (50)       22%         2    68
+ Throw Flame              Conj/Fire      3 (50)       26%         2    68
+ Ozocubu's Armour         Chrm/Ice       7 (100)      30%         3    118
+ Blink                    Tloc           N/A          32%         2    68
+ Call Imp                 Summ           1 (100)      32%         2    68
+ Corpse Rot               Necr           N/A          32%         2    68
+ Passwall                 Tmut/Erth      1 (120)      32%         2    68
+ Poisonous Vapours        Pois/Air       1 (50)       32%         2    68
+ Shroud of Golubria       Chrm/Tloc      1 (200)      32%         2    68
+ Slow                     Hex            1 (100)      32%         2    68
+ Song of Slaying          Chrm           1 (100)      32%         2    68
+ Sticks to Snakes         Tmut           1 (100)      32%         2    68
+ Sublimation of Blood     Necr           1 (200)      32%         2    68
+ Swiftness                Chrm/Air       1 (100)      32%         2    68
+ Conjure Flame            Conj/Fire      3 (100)      45%         3    118
+ Dazzling Spray           Conj/Hex       3 (50)       45%         3    118
+ Static Discharge         Conj/Air       3 (100)      45%         3    118
+ Stone Arrow              Conj/Erth      3 (50)       45%         3    118
+ Mephitic Cloud           Conj/Pois/Air  2 (100)      50%         3    118
+ Call Canine Familiar     Summ           1 (100)      54%         3    118
+ Confuse                  Hex            1 (100)      54%         3    118
+ Gell's Gravitas          Tloc           1 (200)      54%         3    118
+ Ignite Poison            Fire/Tmut/Pois 1 (100)      54%         3    118
+ Inner Flame              Hex/Fire       1 (100)      54%         3    118
+ Lesser Beckoning         Tloc           1 (200)      54%         3    118
+ Portal Projectile        Hex/Tloc       1 (50)       54%         3    118
+ Recall                   Summ/Tloc      N/A          54%         3    118
+ Regeneration             Chrm/Necr      1 (200)      54%         3    118
+ Spectral Weapon          Hex/Chrm       1 (100)      54%         3    118
+ Spider Form              Tmut/Pois      1 (200)      54%         3    118
+ Summon Guardian Golem    Hex/Summ       1 (100)      54%         3    118
+ Teleport Other           Tloc           1 (100)      54%         3    118
+ Tukima's Dance           Hex            1 (100)      54%         3    118
+ Vampiric Draining        Necr           1 (200)      54%         3    118
+ Throw Icicle             Conj/Ice       8 (100)      63%         4    218
+ Ice Form                 Ice/Tmut       7 (100)      71%         4    218
+ Summon Ice Beast         Ice/Summ       7 (100)      71%         4    218
+ Iskenderun's Mystic Bla  Conj           4 (100)      80%         4    218
+ Force Lance              Conj/Tloc      3 (100)      86%         4    218
+ Fulminant Prism          Conj/Hex       3 (200)      86%         4    218
+ Sticky Flame             Conj/Fire      3 (100)      86%         4    218
+ Airstrike                Air            1 (200)      91%         4    218
+ Animate Dead             Necr           N/A          91%         4    218
+ Cause Fear               Hex            1 (200)      91%         4    218
+ Leda's Liquefaction      Hex/Erth       1 (200)      91%         4    218
+ Olgreb's Toxic Radiance  Pois           1 (100)      91%         4    218
+ Passage of Golubria      Tloc           N/A          91%         4    218
+ Petrify                  Tmut/Erth      1 (100)      91%         4    218
+ Summon Lightning Spire   Summ/Air       1 (100)      91%         4    218
+ Metabolic Englaciation   Hex/Ice        7 (200)      96%         5    368
+ Agony                    Necr           1 (100)      99%         5    368
+ Alistair's Intoxication  Tmut/Pois      1 (100)      99%         5    368
+ Aura of Abjuration       Summ           1 (200)      99%         5    368
+ Blade Hands              Tmut           1 (200)      99%         5    368
+ Bolt of Draining         Conj/Necr      3 (200)      99%         5    368
+ Bolt of Magma            Conj/Fire/Erth 2 (200)      99%         5    368
+ Borgnjor's Vile Clutch   Necr/Erth      1 (200)      99%         5    368
+ Dispel Undead            Necr           1 (100)      99%         5    368
+ Excruciating Wounds      Chrm/Necr      1 (200)      99%         5    368
+ Fireball                 Conj/Fire      3 (200)      99%         5    368
+ Irradiate                Conj/Tmut      3 (200)      99%         5    368
+ Iskenderun's Battlesphe  Conj/Chrm      3 (100)      99%         5    368
+ Lee's Rapid Deconstruct  Erth           1 (200)      99%         5    368
+ Lightning Bolt           Conj/Air       3 (200)      99%         5    368
+ Silence                  Hex/Air        1 (200)      99%         5    368
+ Summon Demon             Summ           1 (200)      99%         5    368
+ Summon Forest            Summ/Tloc      1 (200)      99%         5    368
+ Summon Mana Viper        Hex/Summ       1 (100)      99%         5    368
+ Venom Bolt               Conj/Pois      3 (200)      99%         5    368
+ Yara's Violent Unravell  Hex/Tmut       1 (200)      99%         5    368
+ Bolt of Cold             Conj/Ice       8 (200)      100%        6    518
+ Bolt of Fire             Conj/Fire      3 (200)      100%        6    518
+ Conjure Ball Lightning   Conj/Air       3 (200)      100%        6    518
+ Darkness                 Hex            1 (200)      100%        6    518
+ Death Channel            Necr           1 (200)      100%        6    518
+ Deflect Missiles         Chrm/Air       1 (200)      100%        6    518
+ Dispersal                Tloc           1 (200)      100%        6    518
+ Freezing Cloud           Conj/Ice/Air   6 (200)      100%        6    518
+ Hydra Form               Tmut           1 (200)      100%        6    518
+ Invisibility             Hex            1 (100)      100%        6    518
+ Iron Shot                Conj/Erth      3 (200)      100%        6    518
+ Ozocubu's Refrigeration  Ice            12 (200)     100%        6    518
+ Poison Arrow             Conj/Pois      3 (200)      100%        6    518
+ Shadow Creatures         Summ           N/A          100%        6    518
+ Simulacrum               Ice/Necr       7 (200)      100%        6    518
+ Statue Form              Tmut/Erth      1 (150)      100%        6    518
+ Dragon Form              Tmut           1 (200)      100%        7    668
+ Haunt                    Necr/Summ      1 (200)      100%        7    668
+ Malign Gateway           Summ/Tloc      1 (200)      100%        7    668
+ Monstrous Menagerie      Summ           1 (200)      100%        7    668
+ Orb of Destruction       Conj           4 (200)      100%        7    668
+ Ring of Flames           Chrm/Fire      1 (200)      100%        7    668
+ Spellforged Servitor     Conj/Summ      3 (200)      100%        7    668
+ Summon Greater Demon     Summ           1 (200)      100%        7    668
+ Summon Hydra             Summ           1 (200)      100%        7    668
+ Borgnjor's Revivificati  Necr           1 (200)      100%        8    818
+ Chain Lightning          Conj/Air       3 (200)      100%        8    818
+ Controlled Blink         Tloc           N/A          100%        8    818
+ Death's Door             Chrm/Necr      1 (200)      100%        8    818
+ Discord                  Hex            1 (200)      100%        8    818
+ Disjunction              Tloc           1 (200)      100%        8    818
+ Ignition                 Fire           1 (200)      100%        8    818
+ Infestation              Necr           1 (200)      100%        8    818
+ Lehudib's Crystal Spear  Conj/Erth      3 (200)      100%        8    818
+ Necromutation            Tmut/Necr      1 (200)      100%        8    818
+ Summon Horrible Things   Summ           1 (200)      100%        8    818
+ Dragon's Call            Summ           1 (200)      100%        9    968
+ Fire Storm               Conj/Fire      3 (200)      100%        9    968
+ Glaciate                 Conj/Ice       8 (200)      100%        9    968
+ Shatter                  Erth           1 (200)      100%        9    968
+ Tornado                  Air            1 (200)      100%        9    968
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Do you really want to reject the sacrifices Ru is offering? 
+Ru will take longer to evaluate your readiness.
+Enter Wizard Command (? - help): 
+Ru believes you are ready to make a new sacrifice.
+Do you really want to reject the sacrifices Ru is offering? 
+Ru will take longer to evaluate your readiness.
+Enter Wizard Command (? - help): 
+Ru believes you are ready to make a new sacrifice.
+Do you really want to reject the sacrifices Ru is offering? 
+Ru will take longer to evaluate your readiness.
+Enter Wizard Command (? - help): 
+Which god (by name)? 
+That god doesn't seem to exist!
+Enter Wizard Command (? - help): 
+Cost level: 1  Total experience: 0  Next cost level: 117 Skill cost: 1
+Enter Wizard Command (? - help): 
+Ru believes you are ready to make a new sacrifice.
+Okay, then.
+Unknown command.
+Saving game... please wait.
+
+ #####
+ #PPP#
+##~~~##
+#..@?.#
+##7.7##
+  #+#
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zeenez the Barachi Ice Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Became a worshipper of Ru the Awakened
+     1 | D:1      | Reached * piety under Ru
+     1 | D:1      | Reached ** piety under Ru
+
+Action                   || total
+-------------------------++-------
+Invok: Reject Sacrifices ||     4
+

@@ -1,0 +1,280 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 3753061029975520365
+
+3253 Runneo the Gargoyle of Death (level 10, 68/68 HPs) *WIZ*
+             Began as a Gargoyle Earth Elementalist on Oct 29, 2020.
+             Was a Priest of Fedhas.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 00:16:46 (882 turns).
+
+Runneo the Gargoyle of Death (GrEE)                  Turns: 882, Time: 00:16:47
+
+Health: 68/68      AC: 10    Str: 11    XL:     10   Next: 0%
+Magic:  9/24       EV: 16    Int: 15    God:    Fedhas 81 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 28/29 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     + . .     Faith    .   c - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++++......             (no amulet)
+HPRegen  0.21/turn              (no ring)
+MPRegen  0.19/turn              (no ring)
+
+@: no status effects
+A: negative energy resistance 1, electricity resistance, unbreathing,
+petrification resistance, rot immunity, AC +7
+a: Fungal Bloom, Sunlight, Evolution, Growth, Renounce Religion
+
+
+You were on level 6 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was most pleased with you.
+You were very full.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+
+Inventory:
+
+Missiles
+ b - 30 stones (quivered)
+Armour
+ c - a +0 robe (worn)
+
+
+   Skills:
+ - Level 10.0 Fighting
+   Level 10.0(11.6) Short Blades
+   Level 10.0(11.6) Long Blades
+   Level 10.0(12.7) Axes
+   Level 10.0(13.2) Maces & Flails
+   Level 10.0(12.7) Polearms
+   Level 10.0(13.2) Staves
+   Level 10.0(11.6) Slings
+   Level 10.0 Bows
+   Level 10.0 Crossbows
+ - Level 10.0(11.6) Throwing
+ - Level 10.0 Armour
+ + Level 10.0 Dodging
+ + Level 10.0 Stealth
+   Level 10.0 Shields
+ - Level 10.0 Unarmed Combat
+ + Level 10.0 Spellcasting
+   Level 10.0 Conjurations
+   Level 10.0 Hexes
+   Level 10.0 Charms
+   Level 10.0 Summonings
+ O Level 27 Necromancy
+   Level 10.0 Translocations
+   Level 10.0 Transmutations
+   Level 10.0 Fire Magic
+   Level 10.0 Ice Magic
+   Level 10.0 Air Magic
+ + Level 10.0 Earth Magic
+   Level 10.0 Poison Magic
+ - Level 10.0 Invocations
+   Level 10.0 Evocations
+
+
+You had 28 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sandblast             Erth           37 (50)      1%          1    0
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          0%          1    0
+ Pain                     Necr           25 (25)      0%          1    0
+ Corpse Rot               Necr           N/A          0%          2    0
+ Vampiric Draining        Necr           73 (200)     0%          3    0
+ Animate Dead             Necr           N/A          0%          4    100
+ Agony                    Necr           73 (100)     0%          5    250
+ Dispel Undead            Necr           73 (100)     0%          5    250
+ Passwall                 Tmut/Erth      37 (120)     1%          2    0
+ Stone Arrow              Conj/Erth      37 (50)      1%          3    0
+ Petrify                  Tmut/Erth      37 (100)     1%          4    100
+ Bolt of Draining         Conj/Necr      58 (200)     1%          5    250
+ Borgnjor's Vile Clutch   Necr/Erth      58 (200)     1%          5    250
+ Lee's Rapid Deconstruct  Erth           37 (200)     4%          5    250
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:6            Lair (0/6) D:9
+    Orc (0/2) D:9         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:7 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to torment.
+Your stone body is resilient. (AC +7)
+You are immune to poison.
+You resist negative energy. (rN+)
+You are resistant to electric shocks. (rElec)
+You can survive without breathing.
+You are immune to petrification.
+You are immune to rotting.
+
+
+Message History
+
+Okay, then.
+Enter Wizard Command (? - help): 
+Which god (by name)? fedhas
+You have lost your religion!
+Kikubaaqudgha does not appreciate desertion!
+You sense decay.
+Fedhas welcomes you back!
+The plants of the dungeon cease their hostilities.
+You can now turn corpses into toadstools.
+Okay, then.
+A toadstool grows at your feet.
+Some toadstools grow from nearby corpses.
+Fedhas appreciates your contribution to the ecosystem.
+You can now call sunshine. You can now induce evolution.
+You can now cause a ring of plants to grow.
+Okay, then.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 81, Enter for 0): 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..####.##    #......## #..##    #..##.....
+.##  #..#    #..#....###.##    ##.###....#
+##   #..######..#.....#..###   #..###...##
+.### ##....................#####..##...##
+...####........................#.###..##
+##...#..#####..##PPPPPPPP###.....##..##  #
+ ##....##  ##.###PPPPPPPP#######.....#   #
+ ##....#   #..# ##PPPPPPPP#    #.....#   #
+ #.....## ##.##  #PPPPPPPP##   ##....#  ##
+##.?....###(.#  ##PPPPPPPPP#    ###+### #.
+#...........##  #PPPPPPPPPP##   #.....###.
+............#   #PPPPPPPPPPP#####.#'#.##..
+..........#.#####PPPP@PPPPPPP##.+.#>#.+...
+..#########..#PPPPPPPPPPPPPPP...#.###.#...
+###       ##..PPPPPPPPPPPPPPP...#.....####
+#        ##...P###PPPPPPPPPP#######+###
+#       ##.....# ##PPPPPPPPP#  ##.....##
+#      ##...#..## ##PPPPPPP## ##.......##
+#    ###...###..####PPPPPPP####.........##
+######....####....#PPP###PPP##............
+...##....## #.........# #.................
+..........###........####................#
+.....................###...#....###......#
+..########................##....# ####...#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures (others)
+  6 toadstools
+6 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Runneo the Gargoyle Earth Elementalist began the quest for
+                  | the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 28/28 MP: 3/13
+     0 | D:1      | Reached XP level 3. HP: 32/32 MP: 3/14
+     0 | D:1      | Reached XP level 4. HP: 37/37 MP: 3/16
+     0 | D:1      | Reached XP level 5. HP: 42/42 MP: 3/17
+     0 | D:1      | Reached XP level 6. HP: 48/48 MP: 3/19
+     0 | D:1      | Reached XP level 7. HP: 52/52 MP: 3/20
+     0 | D:1      | Reached XP level 8. HP: 57/57 MP: 3/22
+     0 | D:1      | Reached XP level 9. HP: 62/62 MP: 3/23
+     0 | D:1      | Reached XP level 10. HP: 68/68 MP: 3/24
+     0 | D:3      | Found a shattered altar of Ashenzari.
+     0 | D:4      | Found a stormy altar of Qazlal.
+     0 | D:5      | Entered Level 5 of the Dungeon
+     0 | D:5      | Found a shimmering altar of Xom.
+     0 | D:6      | Found a burning altar of Makhleb.
+     0 | D:6      | Found a glowing silver altar of Zin.
+     0 | D:6      | Found a shadowy altar of Dithmenos.
+     0 | D:6      | Found an iron altar of Okawaru.
+     0 | D:6      | Found a hazy altar of Hepliaklqana.
+     0 | D:6      | Found a bloodstained altar of Trog.
+     0 | D:6      | Found a staircase to the Ecumenical Temple.
+     0 | D:7      | Noticed Pikel
+     0 | D:7      | Found a transporter.
+     0 | D:7      | Found a transporter.
+     0 | D:8      | Found a snail-covered altar of Cheibriados.
+     0 | D:9      | Found a staircase to the Orcish Mines.
+     0 | D:9      | Found a staircase to the Lair.
+     0 | Temple   | Entered the Ecumenical Temple
+     7 | Temple   | Became a worshipper of Kikubaaqudgha
+     8 | Temple   | Reached * piety under Kikubaaqudgha
+     8 | Temple   | Identified Kikubaaqudgha's Almanac of Dark Arts
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+     8 | Temple   | Received a gift from Kikubaaqudgha
+     8 | Temple   | Reached ** piety under Kikubaaqudgha
+     8 | Temple   | Reached *** piety under Kikubaaqudgha
+     8 | Temple   | Identified Kikubaaqudgha's Compendium of Evil Secrets
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+     8 | Temple   | Received a gift from Kikubaaqudgha
+     8 | Temple   | Reached **** piety under Kikubaaqudgha
+    25 | Temple   | Fell from the grace of Kikubaaqudgha
+    25 | Temple   | Became a worshipper of Fedhas Madash
+    26 | Temple   | Reached * piety under Fedhas
+    43 | D:6      | Fell from the grace of Fedhas
+    43 | D:6      | Became a worshipper of Kikubaaqudgha
+   393 | Temple   | Fell from the grace of Kikubaaqudgha
+   393 | Temple   | Became a worshipper of Fedhas Madash
+   394 | Temple   | Reached ** piety under Fedhas
+   394 | Temple   | Reached *** piety under Fedhas
+   618 | Temple   | Fell from the grace of Fedhas
+   618 | Temple   | Became a worshipper of Kikubaaqudgha
+   872 | Temple   | Fell from the grace of Kikubaaqudgha
+   872 | Temple   | Became a worshipper of Fedhas Madash
+   872 | Temple   | Fell from the grace of Fedhas
+   872 | Temple   | Became a worshipper of Kikubaaqudgha
+   882 | D:6      | Reached ***** piety under Kikubaaqudgha
+   882 | D:6      | Reached ****** piety under Kikubaaqudgha
+   882 | D:6      | Fell from the grace of Kikubaaqudgha
+   882 | D:6      | Became a worshipper of Fedhas Madash
+   882 | D:6      | Quit the game
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Invok: Receive Corpses   |       |       |       |    57 ||    57
+       Fungal Bloom      |       |       |       |     6 ||     6
+  Eat: Ration            |       |       |       |     1 ||     1
+

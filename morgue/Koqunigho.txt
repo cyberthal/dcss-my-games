@@ -1,0 +1,624 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 17853005743003288863
+
+Koqunigho the Fetichist (Deep Dwarf Artificer)      Turns: 3583, Time: 02:50:17
+
+Health: 86/120     AC: 22    Str: 22    XL:     12   Next: 63%
+Magic:  15/15      EV: 24    Int: 18    God:    Gozag 15 (0)
+Gold:   360        SH:  0    Dex: 20    Spells: 13/21 levels left
+
+rFire    . . .     SeeInvis .   k - +8 fustibalus of Leycauv {flame, Int+5}
+rCold    + + .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   Z - +7 scale mail of Caopnoz {+Fly rC+ Dex+3}
+rPois    .         Spirit   .   F - +2 helmet {Int+3}
+rElec    .         Reflect  .   J - scarf {cloud immunity}
+rCorr    .         Harm     +   C - +1 pair of gloves
+MR       +....     NoTele   +   (no boots)
+Stlth    +++++.....             L - amulet of harm
+HPRegen  0.00/turn              P - +3 ring of evasion
+MPRegen  0.14/turn              N - +5 ring of strength
+
+@: non-regenerating
+A: damage resistance, heal wounds, fangs 1, cold resistance 1, dopey 1, sense
+surroundings 2, no regeneration
+a: Heal Wounds, Potion Petition, Call Merchant, Bribe Branch, Renounce Religion,
+Evoke Flight
+
+
+You are in the Dungeon.
+You worship Gozag.
+Gozag is aware of your devotion.
+You are not hungry.
+
+You have visited 1 branch
+You have collected 8026 gold pieces.
+You have spent 7666 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 dagger of electrocution
+ b - a +1 short sword of speed
+ c - a +1 short sword of protection
+ d - a +3 short sword of draining
+ e - a +1 great sword of flaming
+ f - a +3 great sword of holy wrath
+ g - a +3 morningstar of holy wrath
+ i - the +6 hand crossbow "Mucub" {penet, SInv}
+   (You bought it in a shop in the Dungeon)   
+   
+   Ammo fired by it will pass through the targets it hits, potentially hitting
+   all targets in its path until it reaches maximum range.
+   
+   It lets you see invisible.
+ j - a +4 blowgun
+ k - the +8 fustibalus of Leycauv (weapon) {flame, Int+5}
+   (You found it in the Dungeon)   
+   
+   It causes projectiles fired from it to burn those they strike, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents.
+   
+   It affects your intelligence (+5).
+Missiles
+ l - a throwing net
+ n - 25 bolts
+ r - 2 poisoned javelins
+ t - 17 sling bullets (quivered)
+ u - 6 poisoned needles
+ x - 7 curare-tipped needles {!f}
+ D - 100 stones
+ E - 38 arrows
+ O - 7 javelins
+Armour
+ h - a +1 cloak
+ m - a +0 buckler
+ s - a +3 scale mail of fire resistance
+ C - a +1 pair of gloves (worn)
+ F - a +2 helmet of intelligence (worn)
+ J - a scarf of cloud immunity (worn)
+ Z - the +7 scale mail of Caopnoz (worn) {+Fly rC+ Dex+3}
+   (You bought it in a shop in the Dungeon)   
+   
+   It affects your dexterity (+3).
+   It protects you from cold.
+   It lets you fly.
+Jewellery
+ L - an amulet of harm (around neck)
+ N - a +5 ring of strength (right hand)
+ P - a +3 ring of evasion (left hand)
+ Q - an uncursed ring of positive energy
+ V - an uncursed ring of fire
+Wands
+ o - a wand of iceblast (3)
+ w - a wand of flame (15)
+ y - a wand of acid (15)
+ B - a wand of enslavement (1)
+ M - a wand of random effects (12)
+ X - a wand of polymorph (7)
+ Y - a wand of digging (1)
+Scrolls
+ G - a scroll of fog
+Potions
+ p - a potion of lignification
+ q - a potion of berserk rage
+ z - 2 potions of magic
+ A - 2 potions of flight
+ H - 2 potions of resistance
+ I - a potion of brilliance
+ K - 3 potions of curing
+ R - a potion of agility
+ T - 2 potions of might
+ W - 7 potions of heal wounds
+Miscellaneous
+ v - a box of beasts
+Comestibles
+ U - 4 rations
+
+
+   Skills:
+ + Level 11.6 Fighting
+ - Level 10.4(10.6) Short Blades
+ + Level 3.8(8.3) Long Blades
+ - Level 6.0 Maces & Flails
+ * Level 2.8(5.0) Slings
+   Level 3.1 Bows
+ - Level 9.6 Crossbows
+ - Level 5.2(5.5) Throwing
+ + Level 12.8 Armour
+ + Level 13.6 Dodging
+ - Level 14.3 Stealth
+ - Level 4.0 Shields
+ - Level 5.4 Spellcasting
+ - Level 2.0 Hexes
+ - Level 2.7 Translocations
+ - Level 1.4 Transmutations
+ + Level 15.9 Evocations
+
+
+You have 13 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           10 (50)      14%         1    0
+b - Confusing Touch       Hex            12 (50)      12%         1    0
+c - Animate Skeleton      Necr           N/A          26%         1    0
+d - Apportation           Tloc           14 (50)      9%          1    0
+e - Sticks to Snakes      Tmut           10 (100)     22%         2    2
+f - Blink                 Tloc           N/A          13%         2    2
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Slow                     Hex            12 (100)     17%         2    2
+ Magic Dart               Conj           4 (25)       26%         1    0
+ Summon Small Mammal      Summ           4 (25)       26%         1    0
+ Call Imp                 Summ           4 (100)      36%         2    2
+ Spider Form              Tmut/Pois      7 (200)      52%         3    52
+ Conjure Flame            Conj/Fire      4 (100)      61%         3    52
+ Mephitic Cloud           Conj/Pois/Air  4 (100)      61%         3    52
+ Ice Form                 Ice/Tmut       7 (100)      89%         4    152
+ Blade Hands              Tmut           10 (200)     99%         5    302
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D [([*:%=[((![?:**!}![!}
+
+Annotations:
+D exclusions: 3 doors and 2 sensed monsters (detected)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map the area around you.
+You do not regenerate.
+You have very sharp teeth.
+Your flesh is cold resistant. (rC+)
+You are dopey. (Int -2)
+
+
+Message History
+
+You close the door.
+Press: ? - help, v - describe, . - travel
+A closed door.
+Placed new exclusion.
+Reduced exclusion size to a single square.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Search for what [Enter for "rcorr", or ? for help]? resis
+Unknown command.
+Search for what [Enter for "resis", or ? for help]? rn+
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? necronom
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Saving game... please wait.
+Level annotation: exclusions: 3 doors and 2 sensed monsters (detected)
+Welcome back, Koqunigho the Deep Dwarf Artificer.
+Gozag says: Greed is good.
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+..##'#0####.0000##$$'^$#0$00##}}$$$$$$#
+..'00#0#[###...#######$#00)$$#####$$$$#
+###..00#'#.###0#...##00#000$$#$$$#$$$$#
+.##0####^..#y#0##...#..##$0$0#!\[#$$$$#
+.#0...^#...###..###.#.!~###0##$$$#$$$$#
+0#^0000+.....##.#A#.#..~..#.####+#$$$$#
+'###0.0#^....#..###.#..~.##+#....##9$$#
+.'.#0..###''##.##...#..~##....^...##$$#
+##.#^.###..###..#+###$.~#^...^^....#$$#
+##.#.^####..###...#.~..##...^......##$#
+##.##'#..#..#.###.#.~..#.....D).....#(#
+##.##.#.....0...#$###..#.....[D.....#$#
+00.####0........#.#.+@.##......^...##$#
+##.#.00......####'#$##+##$$$$$$$$$$#$$#
+.#0#####...###$$..#^#~~~##$$$$$$$$##$$#
+#00#...#####.$[####.#~~~~##[/!%$(##$$$#
+####.........###...^#~~~~~########..$$#
+##.......#####..^.####~~~~#~~~~~#....$#
+##......##..^...^.#$$#'~~~'~~D~~'....$#
+ #.....##.^...^.^.#$$$##~~#~~~~~#~~~..#
+##$$$$.#..........#$$$$######'#####~~~#
+############^.&^.^#$$$$#~~~~~~~~~~##~~#
+##~~~~~~~~d#...^..#######~~~~~~~~~~~~~#
+ ###########......')|#:|'$$e~~~~~~~#~~#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  4 fire giants (D)
+  A lorocyproca (D)
+  A mummy priest (D)
+  A hydra (D)
+  A deep troll (D)
+  7 unseen horrors (D)
+  A lindwurm (D)
+  An oklob plant (D)
+  2 gargoyles (D)
+  2 kobold demonologists (D)
+  4 demonic crawlers (D)
+  A hellwing (D)
+  A hornet (D)
+  A slime creature (D)
+  2 redbacks (D)
+  A yak (D)
+  13 hogs (D)
+  An ogre (D)
+  3 floating eyes (D)
+  7 necrophages (D)
+  7 jellies (D)
+  A ballistomycete (D)
+63 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 centaur warriors (D)
+  8 shining eyes (D)
+  An oklob plant (D)
+  A hornet (D)
+  Sigmund (D)
+  4 floating eyes (D)
+  A jelly (D)
+  A ballistomycete spore (D)
+19 creatures vanquished.
+
+Vanquished Creatures (others)
+  Sonja (D)
+  A deep elf annihilator (D)
+  2 merfolk sirens (D)
+  3 hornets (D)
+  Ijyb (D)
+  A ballistomycete spore (D)
+9 creatures vanquished.
+
+Grand Total: 91 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     2 | D        | Noticed Ijyb
+     7 | D        | Noticed an ogre
+     8 | D        | Your ally  died
+    20 | D        | Noticed Sigmund
+    29 | D        | Killed Sigmund
+    29 | D        | Reached skill level 5 in Dodging
+    29 | D        | Reached skill level 5 in Stealth
+    29 | D        | Reached skill level 6 in Evocations
+    29 | D        | Reached XP level 2. HP: 18/30 MP: 4/6
+    29 | D        | Reached XP level 3. HP: 22/36 MP: 4/7
+    29 | D        | Reached XP level 4. HP: 27/44 MP: 5/9
+    37 | D        | Found a deep blue altar of Sif Muna.
+    38 | D        | Found an ornate altar of the Wu Jian Council.
+    39 | D        | Found a radiant altar of Vehumet.
+    43 | D        | Reached skill level 7 in Evocations
+    43 | D        | Reached XP level 5. HP: 43/50 MP: 6/10
+    55 | D        | Killed an ogre
+    55 | D        | Reached skill level 5 in Fighting
+    55 | D        | Reached skill level 8 in Evocations
+    55 | D        | Reached XP level 6. HP: 33/61 MP: 7/12
+   108 | D        | Found Ilecaer's Assorted Antiques.
+   108 | D        | Found an ancient bone altar of Kikubaaqudgha.
+   108 | D        | Found a hazy altar of Hepliaklqana.
+   108 | D        | Found a stormy altar of Qazlal.
+   108 | D        | Found a hide-covered altar of Uskayaw.
+   108 | D        | Found a blossoming altar of Fedhas.
+   108 | D        | Found a bloodstained altar of Trog.
+   108 | D        | Found an iron altar of Okawaru.
+   108 | D        | Found a basalt altar of Yredelemnul.
+   108 | D        | Found a glowing golden altar of the Shining One.
+   108 | D        | Found a snail-covered altar of Cheibriados.
+   108 | D        | Found a sacrificial altar of Ru.
+   108 | D        | Found a glowing silver altar of Zin.
+   108 | D        | Found a shadowy altar of Dithmenos.
+   108 | D        | Found a white marble altar of Elyvilon.
+   108 | D        | Noticed a yak
+   118 | D        | Killed a yak
+   118 | D        | Reached skill level 5 in Short Blades
+   120 | D        | Found an opulent altar of Gozag.
+   134 | D        | Found a sparkling altar of Nemelex Xobeh.
+   138 | D        | Bought a glowing scale mail for 203 gold pieces
+   152 | D        | Became a worshipper of Gozag Ym Sagoz the Greedy
+   158 | D        | Noticed Sonja
+   163 | D        | Noticed a centaur warrior
+   168 | D        | Killed a centaur warrior
+   168 | D        | Reached skill level 5 in Armour
+   168 | D        | Reached skill level 9 in Evocations
+   168 | D        | Reached XP level 7. HP: 52/69 MP: 11/13
+   170 | D        | Killed a centaur warrior
+   170 | D        | Reached skill level 10 in Evocations
+   170 | D        | Reached XP level 8. HP: 59/78 MP: 11/14
+   197 | D        | Noticed a hornet
+   202 | D        | Killed a hornet
+   202 | D        | Reached skill level 10 in Stealth
+   220 | D        | Your ally  died
+   332 | D        | Found Mohauhac's Antique Armour Boutique.
+   343 | D        | Bought a buckler for 76 gold pieces
+   348 | D        | Bought a pair of gloves for 76 gold pieces
+   365 | D        | Noticed a deep troll
+   380 | D        | Noticed a shining eye
+   380 | D        | Noticed a shining eye
+   380 | D        | Noticed a shining eye
+   391 | D        | Killed a shining eye
+   407 | D        | Killed a shining eye
+   407 | D        | Reached skill level 11 in Evocations
+   424 | D        | Killed a shining eye
+   430 | D        | Killed a shining eye
+   430 | D        | Gained mutation: You passively map the area around you.
+                  | [Deep Dwarf growth]
+   430 | D        | Reached XP level 9. HP: 67/88 MP: 16/16
+   437 | D        | Killed a shining eye
+   600 | D        | Killed a shining eye
+   600 | D        | Reached skill level 10 in Dodging
+   604 | D        | Killed a shining eye
+   604 | D        | Reached skill level 12 in Evocations
+   611 | D        | Killed a shining eye
+   721 | D        | Noticed an oklob plant
+   729 | D        | Killed an oklob plant
+   751 | D        | Entered wizard mode.
+   751 | D        | Reached XP level 10. HP: 59/98 MP: 18/18
+   763 | D        | Killed a deep troll
+   785 | D        | Found Toosuser's Armour Emporium.
+   823 | D        | Found Qacimp's Antique Armour Emporium.
+   823 | D        | Found Qalustrawk's Food Boutique.
+   826 | D        | Found Oxikliuk's Book Shop.
+   836 | D        | Found Likijyg's Weapon Shoppe.
+   850 | D        | Found Aqeopref's Jewellery Shop.
+   850 | D        | Found Wiaxoss's Armour Shoppe.
+   850 | D        | Found Korot's Gadget Boutique.
+   850 | D        | Found Cuajosost's Distillery.
+   850 | D        | Found Rapsitos's Antique Weapon Boutique.
+   850 | D        | Found Liosysa's Weapon Emporium.
+   850 | D        | Found Bivi's Distillery.
+   850 | D        | Found Wasu Roh's Armour Shoppe.
+   850 | D        | Found Kapaosm's Magic Scroll Boutique.
+   850 | D        | Found Uhofi's Book Emporium.
+   850 | D        | Found Kevu's General Store.
+   850 | D        | Found Deohuaro's Assorted Antiques.
+   850 | D        | Found Gacromaesk's Distillery.
+   850 | D        | Found Xofac's Distillery.
+   850 | D        | Found Ozyoca's Gadget Shoppe.
+   850 | D        | Found a burning altar of Makhleb.
+   850 | D        | Found a shimmering altar of Xom.
+   850 | D        | Found a viscous altar of Jiyva.
+   850 | D        | Found a corrupted altar of Lugonu.
+   857 | D        | Bought 7 javelins for 72 gold pieces
+   857 | D        | Bought a +1 short sword of protection for 137 gold pieces
+   884 | D        | Bought a +1 cloak for 161 gold pieces
+   916 | D        | Bought a book of Cantrips for 260 gold pieces
+   918 | D        | Learned a level 1 spell: Animate Skeleton
+   920 | D        | Learned a level 1 spell: Confusing Touch
+  1151 | D        | Bought a shiny helmet for 187 gold pieces
+  1181 | D        | Bought a scroll labeled LUZUYLURYD for 29 gold pieces
+  1181 | D        | Bought a scroll labeled LUZUYLURYD for 29 gold pieces
+  1181 | D        | Bought a scroll labeled XYGETUSM ETHRIB for 29 gold pieces
+  1181 | D        | Bought a scroll labeled ZAPLEH SEIRGH for 29 gold pieces
+  1202 | D        | Bought a runed ring mail for 119 gold pieces
+  1226 | D        | Bought a slimy ring mail for 225 gold pieces
+  1236 | D        | Identified the +2 ring mail "Lokariq" {*Drain Str+4 Int+3
+                  | Dex+4} (You bought it in a shop in the Dungeon)
+  1236 | D        | Bought a runed scarf for 200 gold pieces
+  1307 | D        | Killed an unseen horror
+  1307 | D        | Reached skill level 1 in Bows
+  1307 | D        | Reached skill level 1 in Hexes
+  1307 | D        | Reached skill level 13 in Evocations
+  1345 | D        | Killed an unseen horror
+  1386 | D        | Reached skill level 10 in Armour
+  1552 | D        | Bought a potion of degeneration for 11 gold pieces
+  1556 | D        | Bought a scroll of identify for 24 gold pieces
+  1562 | D        | Bought a scroll of identify for 24 gold pieces
+  1601 | D        | Bought a fizzy grey potion for 26 gold pieces
+  1641 | D        | Bought a scroll of fog for 26 gold pieces
+  1643 | D        | Bought a potion of curing for 30 gold pieces
+  1645 | D        | Bought a scroll of identify for 26 gold pieces
+  1749 | D        | Bought a slimy hand crossbow for 195 gold pieces
+  1749 | D        | Identified the +6 hand crossbow "Mucub" {penet, SInv} (You
+                  | bought it in a shop in the Dungeon)
+  1756 | D        | Bought 18 bolts for 43 gold pieces
+  1763 | D        | Bought an uncursed amulet of harm for 300 gold pieces
+  1765 | D        | Bought a glowing blowgun for 126 gold pieces
+  1765 | D        | Bought a runed short sword for 138 gold pieces
+  1772 | D        | Bought a scroll of remove curse for 39 gold pieces
+  1777 | D        | Bought a +3 ring of evasion for 210 gold pieces
+  1778 | D        | Bought an uncursed ring of positive energy for 200 gold
+                  | pieces
+  1789 | D        | Bought a potion of curing for 33 gold pieces
+  1796 | D        | Bought a potion of agility for 40 gold pieces
+  1796 | D        | Bought a potion of heal wounds for 50 gold pieces
+  1802 | D        | Bought a potion of heal wounds for 65 gold pieces
+  1802 | D        | Bought a potion of heal wounds for 65 gold pieces
+  1802 | D        | Bought a potion of heal wounds for 65 gold pieces
+  1804 | D        | Bought a potion of heal wounds for 70 gold pieces
+  1804 | D        | Bought a potion of heal wounds for 70 gold pieces
+  1812 | D        | Bought a potion of mutation for 80 gold pieces
+  1819 | D        | Bought a potion of mutation for 88 gold pieces
+  1819 | D        | Gained mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+  1819 | D        | Gained mutation: You have sharp fingernails. [potion of
+                  | mutation]
+  1819 | D        | Gained mutation: Your movements are slightly less
+                  | encumbered by armour. (ER -2) [potion of mutation]
+  1819 | D        | Gained mutation: You passively map a large area around you.
+                  | [potion of mutation]
+  1820 | D        | Bought 2 potions of might for 88 gold pieces
+  1825 | D        | Bought a scroll of enchant armour for 97 gold pieces
+  1825 | D        | Bought a scroll of enchant armour for 97 gold pieces
+  1839 | D        | Bought a scroll of enchant weapon for 97 gold pieces
+  1890 | D        | Reached skill level 1 in Crossbows
+  1916 | D        | Reached skill level 1 in Shields
+  1949 | D        | Reached skill level 5 in Throwing
+  1956 | D        | Reached XP level 11. HP: 66/108 MP: 20/20
+  2032 | D        | Noticed a lorocyproca
+  2040 | D        | Killed a lorocyproca
+  2188 | D        | Noticed a lindwurm
+  2199 | D        | Killed a lindwurm
+  2199 | D        | Reached skill level 10 in Fighting
+  2199 | D        | Reached skill level 5 in Crossbows
+  2199 | D        | Reached skill level 14 in Evocations
+  2213 | D        | Reached skill level 10 in Short Blades
+  2271 | D        | Noticed an unseen horror
+  2277 | D        | Killed an unseen horror
+  2277 | D        | Reached skill level 5 in Maces & Flails
+  2278 | D        | Noticed an unseen horror
+  2282 | D        | Noticed an unseen horror
+  2285 | D        | Noticed an unseen horror
+  2288 | D        | Killed an unseen horror
+  2289 | D        | Killed an unseen horror
+  2295 | D        | Killed an unseen horror
+  2405 | D        | Bought a potion of haste for 120 gold pieces
+  2412 | D        | Bought an uncursed ring of fire for 250 gold pieces
+  2416 | D        | Learned a level 1 spell: Apportation
+  2425 | D        | Bought a potion of brilliance for 52 gold pieces
+  2431 | D        | Bought a potion of resistance for 100 gold pieces
+  2435 | D        | Bought a wand of polymorph (7) for 108 gold pieces
+  2435 | D        | Bought a ration for 60 gold pieces
+  2439 | D        | Bought a potion of mutation for 112 gold pieces
+  2439 | D        | Lost mutation: You tend to lose your temper in combat.
+                  | [potion of mutation]
+  2439 | D        | Lost mutation: You passively map a large area around you.
+                  | [potion of mutation]
+  2439 | D        | Lost mutation: You have sharp fingernails. [potion of
+                  | mutation]
+  2439 | D        | Lost mutation: Your movements are slightly less encumbered
+                  | by armour. (ER -2) [potion of mutation]
+  2439 | D        | Gained mutation: You are dopey. (Int -2) [potion of
+                  | mutation]
+  2439 | D        | Gained mutation: Your flesh is cold resistant. (rC+)
+                  | [potion of mutation]
+  2439 | D        | Gained mutation: You have very sharp teeth. [potion of
+                  | mutation]
+  2442 | D        | Bought a potion of haste for 130 gold pieces
+  2443 | D        | Bought a wand of digging (1) for 140 gold pieces
+  2445 | D        | Bought a spiked scale mail for 198 gold pieces
+  2445 | D        | Identified the +7 scale mail of Caopnoz {+Fly rC+ Dex+3}
+                  | (You bought it in a shop in the Dungeon)
+  2446 | D        | Bought a shiny scale mail for 154 gold pieces
+  2507 | D        | Bought a shiny chain mail for 187 gold pieces
+  2596 | D        | Bought a +2 long sword of electrocution for 207 gold pieces
+  2607 | D        | Bought a box of beasts for 280 gold pieces
+  2607 | D        | Bought a wand of acid (6) for 280 gold pieces
+  2655 | D        | Bought a book of Changes for 325 gold pieces
+  2657 | D        | Learned a level 1 spell: Beastly Appendage
+  2704 | D        | Bought a wand of acid (10) for 392 gold pieces
+  2766 | D        | Noticed a daeva
+  2810 | D        | Noticed a fire giant
+  2823 | D        | Killed a fire giant
+  2823 | D        | Reached skill level 1 in Transmutations
+  2831 | D        | Noticed a fire giant
+  2836 | D        | Noticed a fire giant
+  2837 | D        | Noticed an unseen horror
+  2846 | D        | Killed a fire giant
+  2846 | D        | Reached skill level 15 in Evocations
+  2846 | D        | Reached XP level 12. HP: 75/118 MP: 5/19
+  2853 | D        | Killed a fire giant
+  2856 | D        | Noticed a fire giant
+  2883 | D        | Killed a fire giant
+  2953 | D        | Reached skill level 5 in Spellcasting
+  3031 | D        | Noticed a 12-headed hydra
+  3033 | D        | Killed an 11-headed hydra
+  3037 | D        | Learned a level 2 spell: Sticks to Snakes
+  3037 | D        | grab arrows
+  3202 | D        | Bought a potion of brilliance for 56 gold pieces
+  3251 | D        | Bought a book of Minor Magic for 260 gold pieces
+  3254 | D        | Learned a level 2 spell: Blink
+  3346 | D        | Reached skill level 1 in Long Blades
+  3369 | D        | Noticed a deep elf annihilator
+  3432 | D        | Killed a deep elf annihilator
+  3478 | D        | Noticed a mummy priest
+  3520 | D        | Got a crude fustibalus
+  3521 | D        | Identified the +8 fustibalus of Leycauv {flame, Int+5} (You
+                  | found it in the Dungeon)
+  3529 | D        | Killed a mummy priest
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Fighting       |  3        4  5  6     7  8  9 10 11 | 11.6
+Short Blades   |  3        4     6     7  8  9 10    | 10.4
+Dodging        |  5           6  7  8  9 10 11 12 13 | 13.6
+Stealth        |  5           7  9    11 12 13 14    | 14.3
+Evocations     |  6        7  8  9 10 11 12 13 15    | 15.9
+Armour         |              3  5  6  7  9 10 11 12 | 12.8
+Throwing       |                 2           5       |  5.2
+Bows           |                             3       |  3.1
+Hexes          |                             2       |  2.0
+Crossbows      |                             3  7  9 |  9.6
+Shields        |                             2  4    |  4.0
+Maces & Flails |                                6    |  6.0
+Spellcasting   |                                3  5 |  5.4
+Translocations |                                2    |  2.7
+Transmutations |                                1    |  1.4
+Long Blades    |                                   3 |  3.8
+Slings         |                                   2 |  2.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Dagger            |     4 |    18 |       |  4059 ||  4081
+       Scythe            |       |       |     2 |       ||     2
+       Short sword       |       |       |     2 |    33 ||    35
+       Long sword        |       |       |       |  4000 ||  4000
+       Bite              |       |       |       |  2099 ||  2099
+       Great sword       |       |       |       |     2 ||     2
+ Fire: Blowgun           |       |       |     6 |    27 ||    33
+       Longbow           |       |       |       |    38 ||    38
+       Hand crossbow     |       |       |       |    79 ||    79
+       Fustibalus        |       |       |       |     9 ||     9
+Throw: Javelin           |       |       |       |    10 ||    10
+ Cast: Confusing Touch   |       |       |       |     6 ||     6
+       Apportation       |       |       |       |    31 ||    31
+       Beastly Appendage |       |       |       |     1 ||     1
+ Abil: Heal Wounds       |     1 |     2 |       |    21 ||    24
+Evoke: Wand              |     5 |     1 |     8 |     7 ||    21
+  Use: Potion            |       |     1 |     2 |     6 ||     9
+       Scroll            |       |       |       |    16 ||    16
+ Stab: Confused          |       |       |       |     2 ||     2
+       Sleeping          |       |       |       |     1 ||     1
+  Eat: Ration            |       |       |       |     3 ||     3
+Armor: Chain mail        |       |     4 |       |     1 ||     5
+       Scale mail        |       |       |    11 |  3837 ||  3848
+       Ring mail         |       |       |       |    32 ||    32
+Dodge: Dodged            |     3 |     5 |     7 |  7635 ||  7650
+Block: Buckler           |       |       |     2 |  2077 ||  2079
+Rpst.: Long sword        |       |       |       |   654 ||   654
+       Great sword       |       |       |       |     1 ||     1
+

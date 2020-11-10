@@ -1,0 +1,436 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17883634936710840777
+
+2562 Soli the Nimble (level 9, 44/44 HPs) *WIZ*
+             Began as a Spriggan Skald on Sept 10, 2020.
+             Was a Believer of Fedhas.
+             Quit the game on level 9 of the Dungeon on Sept 11, 2020.
+             The game lasted 03:05:08 (14602 turns).
+
+Soli the Nimble (Spriggan Skald)                   Turns: 14602, Time: 03:05:09
+
+Health: 44/44      AC: 10    Str: 12    XL:     9   Next: 31%
+Magic:  18/18      EV: 24    Int: 16    God:    Fedhas [**....]
+Gold:   920        SH:  5    Dex: 17    Spells: 3/19 levels left
+
+rFire    . . .     SeeInvis +   a - +0 hunting sling
+rCold    + . .     Gourm    .   Q - +0 buckler
+rNeg     + . .     Faith    .   D - +0 robe
+rPois    +         Spirit   +   (helmet restricted)
+rElec    .         Reflect  .   F - +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1 Dex+1}
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             u - amulet of guardian spirit
+HPRegen  0.14/turn              q - +5 ring of protection
+MPRegen  0.16/turn              N - ring of Vehumet's Approval {*Drain +Fly rC+ Str+6}
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, screaming 1,
+slow metabolism 2, MP-powered wands
+a: Fungal Bloom, Sunlight, Evolution, Renounce Religion, Evoke Ratskin, Evoke
+Flight
+
+
+You were on level 9 of the Dungeon.
+You worshipped Fedhas.
+Fedhas was pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+You also visited: Ossuary.
+
+You collected 920 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling (weapon)
+ b - a +0 spear
+ c - a +2 dagger of venom
+ d - a +2 short sword of draining
+ e - a +0 flail of holy wrath
+ f - a +0 hand axe of chopping
+ g - a +2 quarterstaff of chaos
+ h - a +0 shortbow
+ K - a +0 mace of draining
+ O - a cursed -1 whip
+Missiles
+ m - 176 stones (quivered)
+ n - 9 poisoned needles
+ r - 100 arrows
+ A - 70 sling bullets
+ B - 23 bolts
+ P - 2 tomahawks
+Armour
+ D - a +0 robe (worn)
+ F - the +2 ratskin cloak (worn) {+Rats rPois rN+ Str-1 Int-1 Dex+1}
+   (You found it on level 5 of the Dungeon)   
+   
+   It affects your strength (-1).
+   It affects your intelligence (-1).
+   It affects your dexterity (+1).
+   It protects you from poison.
+   It protects you from negative energy.
+ Q - a +0 buckler (worn)
+Jewellery
+ q - a +5 ring of protection (left hand)
+ u - an amulet of guardian spirit (around neck)
+ w - an uncursed ring of flight
+ N - the ring of Vehumet's Approval (right hand) {*Drain +Fly rC+ Str+6}
+   (You found it on level 7 of the Dungeon)   
+   
+   [ring of flight]
+   
+   It affects your strength (+6).
+   It protects you from cold.
+   It lets you fly.
+   It causes draining when unequipped.
+Wands
+ t - a wand of digging (4)
+ M - a wand of disintegration (6)
+Scrolls
+ k - 7 scrolls of teleportation
+ o - a scroll of magic mapping
+ x - a scroll of fog
+ y - 4 scrolls of remove curse
+ E - a scroll of amnesia {unknown}
+ H - a scroll of summoning {unknown}
+ L - a scroll of immolation {unknown}
+Potions
+ i - a potion of might
+ j - 2 potions of agility
+ l - 2 potions of lignification
+ p - 3 potions of cancellation
+ s - 3 potions of heal wounds
+ v - a potion of haste {unknown}
+ z - 4 potions of curing
+ C - a potion of flight
+ G - a potion of magic
+ I - a potion of mutation
+Comestibles
+ J - 5 rations
+
+
+   Skills:
+ - Level 3.2 Fighting
+ - Level 4.6 Short Blades
+ - Level 1.0 Maces & Flails
+ - Level 1.3 Polearms
+ - Level 2.9 Slings
+ - Level 3.1 Bows
+ - Level 9.0 Dodging
+ - Level 4.0 Stealth
+ * Level 0.0 Shields
+ + Level 5.7 Spellcasting
+ - Level 2.0 Hexes
+ - Level 8.1 Charms
+ - Level 1.0 Necromancy
+ - Level 3.1 Translocations
+ - Level 2.1 Invocations
+ - Level 3.7 Evocations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           ####         1%          1    None
+b - Confusing Touch       Hex            ##....       10%         1    None
+c - Song of Slaying       Chrm           ####....     1%          2    #......
+d - Shroud of Golubria    Chrm/Tloc      ###.......   3%          2    #......
+e - Slow                  Hex            ##......     16%         2    #......
+f - Blink                 Tloc           N/A          10%         2    #......
+g - Spectral Weapon       Hex/Chrm       ###.....     9%          3    ##.....
+h - Regeneration          Chrm/Necr      ###.......   11%         3    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Gell's Gravitas          Tloc           ##........   21%         3    ##.....
+ Magic Dart               Conj           #...         24%         1    None
+ Confuse                  Hex            ##......     30%         3    ##.....
+ Call Imp                 Summ           #.......     34%         2    #......
+ Conjure Flame            Conj/Fire      #.......     56%         3    ##.....
+ Mephitic Cloud           Conj/Pois/Air  #.......     56%         3    ##.....
+ Petrify                  Tmut/Erth      #.......     93%         4    ####...
+ Metabolic Englaciation   Hex/Ice        #.........   99%         5    ######.
+ Yara's Violent Unravell  Hex/Tmut       #.........   99%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (9/15)             Temple (1/1) D:5         
+  Lair: D:8-11         Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+You occasionally shout uncontrollably at your foes.
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+Autopickup is now on.
+Autopickup is now off.
+Wield which item (- for none, * to show all)? (? for menu, Esc to quit)
+Okay, then.
+Key pressed, stopping explore.
+Unknown command.
+You see here a robe.
+A jackal comes into view.
+Unknown command.
+Firing (i - inventory. (/) - cycle) A - 71 sling bullets (quivered)
+Press: ? - help, Shift-Dir - straight line, f - jackal
+Aim: a jackal (resting)
+You shoot a sling bullet. The sling bullet hits the jackal!
+You kill the jackal!
+Saving game... please wait.
+Welcome back, Soli the Spriggan Skald.
+Fedhas says: Spread life and death.
+Press ? for a list of commands and other information.
+Enter Wizard Command (? - help): 
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         .......
+         .......
+         .......
+         .......
+ ##      .....
+##.##    ...
+#...#####.##
+#...##.[@..#
+#........#..#
+#.....#### .#
+##...##     ..
+ #...#       ..
+ #<.##        .(
+ ####          .
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A wyvern (D:8)
+  An orc warrior (D:5)
+  A black bear (D:6)
+  An ice beast (D:5)
+  3 ogres
+  A sky beast (D:6)
+  2 centaurs
+  3 bullfrogs
+  An elf skeleton (Ossuary)
+  A scorpion (D:8)
+  A water moccasin skeleton (D:6)
+  3 howler monkeys
+  6 crimson imps
+  2 orc wizards
+  Crazy Yiuf (D:5)
+  2 orc priests
+  A gnoll shaman (D:5)
+  3 centaur skeletons (Ossuary)
+  3 iguanas
+  3 hell rats
+  2 hound skeletons
+  2 mummies (Ossuary)
+  11 gnolls
+  4 river rats (D:5)
+  9 adders
+  An ooze (D:5)
+  3 worms (D:2)
+  An adder skeleton (D:6)
+  A dart slug (D:3)
+  3 leopard geckos
+  13 orcs
+  10 bats
+  7 giant cockroaches
+  9 goblins
+  10 hobgoblins
+  11 jackals
+  5 quokkas
+  2 ball pythons
+  8 frilled lizards
+  2 gnoll skeletons (Ossuary)
+  2 gnoll zombies (D:5)
+  4 goblin skeletons (Ossuary)
+  3 hobgoblin skeletons (Ossuary)
+  A jackal skeleton (D:7)
+  11 kobolds
+  A leopard gecko skeleton (D:5)
+  An orc skeleton (Ossuary)
+  23 rats
+200 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  Eustachio (D:5)
+  Blork the orc (D:5)
+  A worker ant zombie (D:5)
+3 creatures vanquished.
+
+Vanquished Creatures (others)
+  3 spectral weapons (D:5)
+  3 toadstools (D:6)
+6 creatures vanquished.
+
+Grand Total: 209 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Soli the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+    96 | D:1      | Reached skill level 1 in Stealth
+   246 | D:1      | HP starts at 10 and fighting 1.5
+   460 | D:1      | Reached XP level 2. HP: 14/14 MP: 3/6
+   522 | D:1      | Learned a level 2 spell: Song of Slaying
+   525 | D:1      | Learned a level 2 spell: Shroud of Golubria
+   720 | D:1      | Reached skill level 4 in Dodging
+   839 | D:1      | Reached skill level 1 in Translocations
+  1253 | D:1      | Entered wizard mode.
+  1358 | D:2      | Found a snail-covered altar of Cheibriados.
+  1365 | D:2      | Reached XP level 3. HP: 18/18 MP: 1/8
+  1472 | D:2      | Found a sacrificial altar of Ru.
+  1643 | D:2      | Found a glowing golden altar of the Shining One.
+  2161 | D:2      | Reached skill level 5 in Dodging
+  2281 | D:2      | Reached skill level 5 in Charms
+  2550 | D:2      | Reached XP level 4. HP: 23/23 MP: 3/9
+  2581 | D:1      | Learned a level 3 spell: Spectral Weapon
+  3526 | D:3      | Reached skill level 1 in Hexes
+  3659 | D:3      | Reached skill level 1 in Short Blades
+  4233 | D:3      | Reached XP level 5. HP: 26/26 MP: 3/10
+  5711 | D:4      | Learned a level 2 spell: Blink
+  5789 | D:4      | Found a blossoming altar of Fedhas.
+  5813 | D:4      | Found an ancient bone altar of Kikubaaqudgha.
+  5989 | D:4      | Noticed an ogre
+  6195 | D:4      | Killed an ogre
+  6195 | D:4      | Reached XP level 6. HP: 30/30 MP: 4/11
+  6405 | D:4      | Became a worshipper of Fedhas Madash
+  6595 | D:4      | Found a bloodstained altar of Trog.
+  6663 | D:5      | Entered Level 5 of the Dungeon
+  6724 | D:5      | Reached skill level 1 in Slings
+  6883 | D:5      | Noticed an ice beast
+  6906 | D:5      | Killed an ice beast
+  6910 | D:5      | Reached XP level 7. HP: 35/35 MP: 3/15
+  7300 | D:5      | Reached skill level 1 in Bows
+  7908 | D:5      | Found a basalt altar of Yredelemnul.
+  8133 | D:4      | Learned a level 2 spell: Slow
+  8586 | D:5      | Reached skill level 6 in Dodging
+  8803 | D:5      | Found the +2 ratskin cloak {+Rats rPois rN+ Str-1 Int-1
+                  | Dex+1}
+  8927 | D:5      | Found a shadowy altar of Dithmenos.
+  8938 | D:5      | Noticed Blork the orc
+  9009 | D:5      | Found a staircase to the Ecumenical Temple.
+  9017 | D:5      | Noticed Eustachio
+  9043 | D:5      | Killed Eustachio
+  9043 | D:5      | Reached skill level 5 in Spellcasting
+  9104 | D:5      | Reached * piety under Fedhas
+  9105 | Temple   | Entered the Ecumenical Temple
+  9247 | D:5      | Killed Blork the orc
+  9374 | D:5      | Found a runed translucent door.
+  9375 | D:5      | Noticed Crazy Yiuf
+  9445 | D:5      | Killed Crazy Yiuf
+  9603 | D:5      | Learned a level 3 spell: Regeneration
+  9634 | D:6      | Found a sparkling altar of Nemelex Xobeh.
+  9752 | D:6      | Reached skill level 7 in Dodging
+  9752 | D:6      | Reached skill level 1 in Necromancy
+  9988 | D:6      | Reached XP level 8. HP: 39/39 MP: 13/16
+ 10275 | D:6      | Found a stormy altar of Qazlal.
+ 10450 | D:5      | Reached skill level 8 in Dodging
+ 11644 | D:5      | Reached ** piety under Fedhas
+ 11878 | D:6      | Learned a level 1 spell: Confusing Touch
+ 12112 | D:7      | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+ 12112 | D:7      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+ 12245 | D:7      | Got a pitted bronze ring
+ 12247 | D:7      | Identified the ring of Vehumet's Approval {*Drain +Fly rC+
+                  | Str+6} (You found it on level 7 of the Dungeon)
+ 12455 | D:7      | Found a sand-covered staircase.
+ 12472 | Ossuary  | Entered an ossuary
+ 12836 | D:7      | Reached skill level 1 in Invocations
+ 13149 | D:7      | Reached XP level 9. HP: 41/43 MP: 10/17
+ 13271 | D:7      | Reached skill level 1 in Maces & Flails
+ 13584 | D:8      | Found an opulent altar of Gozag.
+ 13626 | D:8      | Found a burning altar of Makhleb.
+ 14377 | D:8      | Reached skill level 9 in Dodging
+ 14602 | D:9      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |  2        3        4       |  4.0
+Dodging        |     4  5           7  8  9 |  9.0
+Translocations |     1     2              3 |  3.1
+Charms         |        5     7        8    |  8.1
+Hexes          |           2                |  2.0
+Short Blades   |           1           4    |  4.6
+Fighting       |              2           3 |  3.2
+Spellcasting   |              3  4  5       |  5.7
+Slings         |                 2          |  2.9
+Bows           |                    2  3    |  3.1
+Evocations     |                    2  3    |  3.7
+Necromancy     |                    1       |  1.0
+Invocations    |                       1  2 |  2.1
+Maces & Flails |                          1 |  1.0
+Polearms       |                            |  1.3
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |  4113 |    99 |    62 ||  4274
+       Short sword       |  4000 |    45 |    42 ||  4087
+       Dagger            |       |    41 |   229 ||   270
+       Flail             |       |       |    19 ||    19
+       Quarterstaff      |       |       |    11 ||    11
+ Fire: Hunting sling     |       |     3 |   195 ||   198
+       Shortbow          |       |       |    96 ||    96
+Throw: Stone             |     7 |    89 |     4 ||   100
+ Cast: Infusion          |    23 |    20 |    26 ||    69
+       Shroud of Golubri |     6 |    16 |    28 ||    50
+       Song of Slaying   |       |     4 |     4 ||     8
+       Blink             |       |     1 |     1 ||     2
+       Slow              |       |       |    58 ||    58
+       Spectral Weapon   |       |       |    14 ||    14
+       Confusing Touch   |       |       |    10 ||    10
+       Regeneration      |       |       |     3 ||     3
+Invok: Fungal Bloom      |       |       |    24 ||    24
+ Abil: Evoke Ratskin     |       |       |     2 ||     2
+  Use: Scroll            |     4 |     6 |     9 ||    19
+       Potion            |     1 |     1 |     1 ||     3
+ Stab: Sleeping          |     7 |     4 |     2 ||    13
+       Confused          |       |       |     6 ||     6
+       Distracted        |       |       |     1 ||     1
+  Eat: Ration            |       |     3 |     6 ||     9
+Armor: Robe              |   134 |    17 |    34 ||   185
+Dodge: Dodged            |  5878 |   122 |   226 ||  6226
+

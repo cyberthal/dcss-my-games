@@ -1,0 +1,337 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 7084492027869229054
+
+1841 Cularghaot the Grappler (level 9, 81/81 HPs)
+             Began as a Ghoul Monk on Sept 19, 2020.
+             Quit the game on level 6 of the Dungeon.
+             The game lasted 00:44:05 (5222 turns).
+
+Cularghaot the Grappler (Ghoul Monk)                Turns: 5222, Time: 00:44:05
+
+Health: 81/81      AC: 11    Str: 16    XL:     9   Next: 12%
+Magic:  9/9        EV:  7    Int: 11    God:    
+Gold:   77         SH:  0    Dex: 13    Spells: 8/8 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   o - +0 chain mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   v - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  g - +0 pair of boots
+Stlth    ..........             f - amulet of regeneration
+HPRegen  0.63/turn              G - +6 ring of intelligence
+MPRegen  0.11/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 6 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 7 of its levels.
+
+You collected 304 gold pieces.
+You spent 227 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe
+ c - a +1 spear of piercing
+ d - a +0 spear
+ n - a +0 morningstar
+ s - a cursed +5 dagger
+ B - a +1 halberd of protection
+Missiles
+ l - 48 sling bullets
+ q - 33 bolts
+ x - 69 stones (quivered)
+ y - 3 tomahawks
+ E - 17 arrows
+ F - 21 poisoned needles
+Armour
+ g - a +0 pair of boots (worn)
+ o - a +0 chain mail (worn)
+ p - a +0 scale mail
+ v - a +0 cloak (worn)
+ w - a +0 pair of gloves
+Jewellery
+ f - an amulet of regeneration (around neck)
+ G - a +6 ring of intelligence (left claw)
+Wands
+ C - a wand of random effects (12)
+ D - a wand of polymorph (3)
+Scrolls
+ i - a scroll of fog {unknown}
+ j - a scroll of enchant weapon {unknown}
+ k - a scroll of immolation {unknown}
+ m - 2 scrolls of remove curse
+ r - a scroll of teleportation
+ t - a scroll of noise
+ H - a scroll of enchant armour {unknown}
+Potions
+ e - 2 potions of flight
+ h - a potion of heal wounds
+ u - a potion of curing
+ z - a potion of invisibility {unknown}
+ A - a potion of resistance {unknown}
+Comestibles
+ b - 10 rations
+ I - 2 chunks of flesh
+
+
+   Skills:
+ + Level 8.0 Fighting
+ - Level 1.0 Throwing
+ - Level 3.3 Armour
+ - Level 2.6 Dodging
+ - Level 3.0 Stealth
+ - Level 9.2 Unarmed Combat
+ - Level 2.0 Evocations
+
+
+You had 8 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Corona                   Hex            #......      99%         1    ##.....
+ Ensorcelled Hibernation  Hex/Ice        #.....       100%        2    ###....
+ Confuse                  Hex            #.......     100%        3    ####...
+ Dazzling Spray           Conj/Hex       #.....       100%        3    ####...
+ Tukima's Dance           Hex            #.......     100%        3    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (7/15)            
+Temple: D:4-7       
+
+Altars:
+Elyvilon
+Fedhas
+Gozag
+Okawaru
+Sif Muna
+Vehumet
+
+Shops:
+D:4 }
+
+Annotations:
+D:3 1 runed translucent door, FlamingKetchup's ghost, amateur SpEn
+D:5 Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Grinder is almost dead.
+Grinder splashes around in the water.
+You claw Grinder!
+You kill Grinder!
+Training target 9.0 for Unarmed Combat reached!
+Your Unarmed Combat skill increases to level 9!
+You need to enable at least one skill for training.
+You have reached level 9!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 16, Int 5, Dex 12.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel agile.
+Okay, then.
+Okay, then.
+I - 2 chunks of flesh
+You start resting.
+HP restored.
+Okay, then.
+Enter note: played too fast.  still doing well, but wasted resources and made
+mistakes.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    #..# #.........#
+    #.#  #.........#
+   ##.#  #.........#
+   #e.#  ##...######
+#.....#   #.#......#
+#######   ########.##
+                 #..#
+     77          ##.##
+   777.777   77####..#
+  77.....77 77.....#.##
+ 77.......777.........#
+ 7...~~~)..7...~~~....#
+ ..!~~~~~%....~~~~~)..#
+ ...~~_~~@....~~7~~...#
+ ...~~~~~.....~~~~~..##
+ 7...~~~...7...~~~...#
+ 77.......777.......##
+  77.....77 77.....##
+   777.777   77#####
+     77
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Grinder (D:6)
+  Duvessa (D:6)
+  An orc warrior (D:6)
+  A boggart (D:6)
+  3 ogres
+  Dowan (D:6)
+  5 wights (D:6)
+  2 howler monkeys (D:4)
+  3 hounds
+  2 orc priests
+  5 orc wizards
+  Jessica (D:3)
+  3 worker ants
+  An iguana (D:6)
+  A hound zombie (D:5)
+  3 worker ant zombies (D:5)
+  11 gnolls
+  5 adders
+  2 oozes
+  3 worms
+  4 dart slugs
+  7 leopard geckos
+  18 orcs
+  8 bats
+  5 giant cockroaches
+  4 goblins
+  5 hobgoblins
+  11 jackals
+  3 quokkas
+  3 ball pythons
+  8 frilled lizards
+  3 kobolds
+  A leopard gecko skeleton (D:5)
+  A leopard gecko zombie (D:5)
+  9 rats
+145 creatures vanquished.
+
+Vanquished Creatures (others)
+  An orc wizard (D:3)
+1 creature vanquished.
+
+Grand Total: 146 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Cularghaot the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     2 | D:1      | Noticed a demigod
+     2 | D:1      | Noticed a demonspawn
+     4 | D:1      | Noticed a tengu
+     4 | D:1      | Noticed an elf
+     6 | D:1      | Noticed a halfling
+     6 | D:1      | Noticed a ghoul
+     8 | D:1      | Noticed a naga
+     8 | D:1      | Noticed a merfolk
+    10 | D:1      | Noticed a human
+    12 | D:1      | Noticed a minotaur
+    14 | D:1      | Noticed a vampire
+    14 | D:1      | Noticed a centaur
+    16 | D:1      | Noticed a dwarf
+    18 | D:1      | Noticed a troll
+    18 | D:1      | Noticed a vine stalker
+    20 | D:1      | Noticed an octopode
+    22 | D:1      | Noticed a spriggan
+    22 | D:1      | Noticed a draconian
+    24 | D:1      | Noticed a felid
+    24 | D:1      | Noticed a formicid
+    26 | D:1      | Noticed an ogre
+    26 | D:1      | Noticed a gargoyle
+   222 | D:1      | Reached XP level 2. HP: 15/27 MP: 1/1
+   765 | D:1      | Reached XP level 3. HP: 33/33 MP: 2/2
+   771 | D:1      | Reached skill level 1 in Throwing
+  1131 | D:2      | Reached skill level 4 in Unarmed Combat
+  1256 | D:2      | Reached XP level 4. HP: 38/39 MP: 3/3
+  1437 | D:3      | Noticed Jessica
+  1713 | D:3      | Found a radiant altar of Vehumet.
+  1753 | D:3      | Killed Jessica
+  1919 | D:3      | Reached XP level 5. HP: 43/47 MP: 4/4
+  2049 | D:3      | Found an opulent altar of Gozag.
+  2104 | D:3      | Reached skill level 5 in Fighting
+  2108 | D:3      | Reached skill level 5 in Unarmed Combat
+  2244 | D:2      | Reached skill level 1 in Armour
+  2401 | D:4      | Reached XP level 6. HP: 54/55 MP: 5/5
+  2516 | D:3      | Found a runed translucent door.
+  2516 | D:3      | Noticed FlamingKetchup's ghost (amateur SpEn)
+  2776 | D:3      | Reached skill level 6 in Unarmed Combat
+  3120 | D:5      | Entered Level 5 of the Dungeon
+  3145 | D:4      | Reached XP level 7. HP: 28/62 MP: 6/6
+  3327 | D:4      | Noticed Grinder
+  3561 | D:4      | Found a deep blue altar of Sif Muna.
+  3800 | D:4      | Found Ruheig's Gadget Emporium.
+  3876 | D:4      | Bought a wand of random effects (15) for 110 gold pieces
+  3876 | D:4      | Bought a wand of polymorph (7) for 117 gold pieces
+  4079 | D:5      | Found a blossoming altar of Fedhas.
+  4090 | D:5      | Found an iron altar of Okawaru.
+  4131 | D:4      | Reached skill level 1 in Evocations
+  4264 | D:5      | Reached XP level 8. HP: 71/71 MP: 6/8
+  4296 | D:5      | Reached skill level 7 in Unarmed Combat
+  4390 | D:5      | Noticed Sigmund
+  4889 | D:6      | Noticed Duvessa
+  4980 | D:6      | Noticed Dowan
+  5041 | D:6      | Killed Dowan
+  5041 | D:6      | Reached skill level 8 in Unarmed Combat
+  5076 | D:6      | Noticed Blork the orc
+  5080 | D:6      | Noticed Blork
+  5080 | D:6      | Blork the orc changed into Blork the boggart
+  5083 | D:6      | Killed Blork the boggart
+  5126 | D:6      | Found a white marble altar of Elyvilon.
+  5160 | D:6      | Killed Duvessa
+  5182 | D:6      | Killed Grinder
+  5182 | D:6      | Reached skill level 9 in Unarmed Combat
+  5182 | D:6      | Reached XP level 9. HP: 56/81 MP: 9/9
+  5222 | D:6      | played too fast.  still doing well, but wasted resources
+                  | and made mistakes.
+  5222 | D:6      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Throwing       |        1                |  1.0
+Unarmed Combat |        4     5  6     9 |  9.2
+Fighting       |        4     5     6  8 |  8.0
+Armour         |              1  2     3 |  3.3
+Stealth        |              3          |  3.0
+Evocations     |                    1  2 |  2.0
+Dodging        |                         |  2.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    97 |   207 |   301 ||   605
+       Punch             |       |     3 |     8 ||    11
+Throw: Stone             |    52 |    77 |    53 ||   182
+Evoke: Wand              |       |       |     7 ||     7
+  Use: Scroll            |       |     4 |     2 ||     6
+       Potion            |       |     1 |     1 ||     2
+ Stab: Sleeping          |     2 |       |       ||     2
+  Eat: Chunk             |     5 |    20 |    25 ||    50
+Armor: Robe              |     4 |       |       ||     4
+       Chain mail        |     5 |       |   113 ||   118
+       Scale mail        |    14 |    81 |       ||    95
+Dodge: Dodged            |    41 |    96 |    76 ||   213
+

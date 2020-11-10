@@ -1,0 +1,299 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 13777094410698293570
+
+288128 Ruggeitotu the Skirmisher (level 5, 17/51 HPs) *WIZ*
+             Began as a Hill Orc Fighter on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint IX: "|||||||||||||||||||||||||||||").
+             The game lasted 00:02:12 (816 turns).
+
+Ruggeitotu the Skirmisher (Hill Orc Fighter)         Turns: 816, Time: 00:02:12
+
+Health: 17/51      AC:  7    Str: 20    XL:     5   Next: 11%
+Magic:  5/5        EV:  8    Int:  8    God:    No God 0 (0)
+Gold:   0          SH: 10    Dex: 10    Spells: 4/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 war axe
+rCold    . . .     Gourm    .   c - +0 shield
+rNeg     . . .     Faith    .   b - +0 scale mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.17/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: no striking features
+0: Orb of Zot
+}: 12/17 runes: slimy, elven, golden, iron, obsidian, icy, bone, abyssal,
+glowing, magical, fiery, dark
+a: no special abilities
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (weapon)
+Armour
+ b - a +0 scale mail (worn)
+ c - a +0 shield (worn)
+Jewellery
+ q - the ring of Xom's Absentmindedness {rC+ EV+3 Dex+3}
+   (You found it in the Dungeon)   
+   
+   [ring of evasion]
+   
+   It affects your evasion (+3).
+   It affects your dexterity (+3).
+   It protects you from cold.
+ r - the ring "Waomeput" {EV+4 Str+6}
+   (You found it in the Dungeon)   
+   
+   [ring of evasion]
+   
+   It affects your evasion (+4).
+   It affects your strength (+6).
+ s - the ring of Nemiutt {rElec rPois rF+++ Slay+5 Stlth-}
+   (You found it in the Dungeon)   
+   
+   [ring of poison resistance]
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+5).
+   It renders you almost immune to fire.
+   It insulates you from electricity.
+   It protects you from poison.
+   It makes you less stealthy.
+ t - the amulet "Peole" {*Contam +Rage Str+2 Dex+5}
+   (You found it in the Dungeon)   
+   
+   [amulet of rage]
+   
+   It affects your strength (+2).
+   It affects your dexterity (+5).
+   It lets you go berserk.
+   It causes magical contamination when unequipped.
+ u - the ring of Moix {*Corrode rC+ MP+9 Slay+3}
+   (You found it in the Dungeon)   
+   
+   [ring of slaying]
+   
+   It affects your accuracy and damage with ranged weapons and melee attacks
+   (+3).
+   It protects you from cold.
+   It affects your magic capacity (+9).
+   It may corrode you when you take damage.
+Scrolls
+ k - 2 scrolls of blinking
+ l - 4 scrolls of enchant armour
+ m - 2 scrolls of identify
+ n - a scroll of fog
+Potions
+ d - a potion of might
+ e - 3 potions of curing
+ g - 3 potions of heal wounds
+ h - 6 potions of haste
+ i - 2 potions of magic
+ j - a potion of berserk rage
+ o - 3 potions of brilliance
+ p - 2 potions of resistance
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 6.8 Fighting
+ + Level 6.8 Axes
+ + Level 6.2 Armour
+ + Level 6.2 Shields
+
+
+You had 4 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+Jiyva
+Lugonu
+
+Shops:
+D }[%!
+
+Message History
+
+You closely miss the shadow demon.
+The shadow demon is lightly wounded.
+The shadow demon completely misses you.
+You closely miss the shadow demon.
+The shadow demon is lightly wounded.
+The shadow demon gestures.
+The shadow demon hits you!
+You closely miss the shadow demon.
+The shadow demon is lightly wounded.
+You hit the neqoxec but do no damage. The shadow demon hits you!! You block the
+neqoxec's attack.
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+You are too injured to fight recklessly!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.##############77777777
+#.......................
+########################
+#.........'..........'..
+#.######################
+#.......................
+########################
+#...'.........'.........
+#.######################
+#.......................
+########################
+#.......'............)))
+#3######################
+#.@23...................
+########################
+#..........+............
+#.######################
+#.......................
+########77777777777777##
+#.......+......}......+.
+#.######77777777777777##
+#.......................
+########################
+#............+.=====...)
+#.######################
+#.......................
+
+
+You could see a shadow demon, a sixfirhy and a neqoxec.
+
+Vanquished Creatures
+  A chaos spawn (D)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Ruggeitotu the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a roughly hewn altar of Beogh.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found Rateumiq's Gadget Emporium.
+     0 | D        | Found Noptoabb's Armour Shoppe.
+     0 | D        | Found Osey's Food Emporium.
+     0 | D        | Found Qotuq's Distillery.
+     0 | D        | Identified the +7 sceptre of Asmodeus
+     0 | D        | Noticed Asmodeus
+     0 | D        | Noticed Ereshkigal
+     0 | D        | Identified the +6 sword of Cerebov {flame}
+     0 | D        | Noticed Cerebov
+     0 | D        | Identified the +4 staff of Dispater
+     0 | D        | Noticed Dispater
+     0 | D        | Got a glowing rune of Zot
+     4 | D        | Got an icy rune of Zot
+     8 | D        | Got a dark rune of Zot
+    18 | D        | Got a magical rune of Zot
+    22 | D        | Got an iron rune of Zot
+    26 | D        | Got a fiery rune of Zot
+    30 | D        | Got a bone rune of Zot
+    34 | D        | Got an obsidian rune of Zot
+   163 | D        | Got an abyssal rune of Zot
+   175 | D        | Got a golden rune of Zot
+   308 | D        | Got a slimy rune of Zot
+   328 | D        | Got an elven rune of Zot
+   446 | D        | Got the Orb of Zot
+   622 | D        | Noticed a chaos spawn
+   631 | D        | Slain by a chaos spawn (6 damage)
+   632 | D        | Killed a chaos spawn
+   632 | D        | Reached XP level 2. HP: 31/31 MP: 2/2
+   632 | D        | Reached XP level 3. HP: 38/38 MP: 3/3
+   632 | D        | Reached XP level 4. HP: 45/45 MP: 4/4
+   632 | D        | Reached XP level 5. HP: 51/51 MP: 5/5
+   789 | D        | Got the ring of Xom's Absentmindedness {rC+ EV+3 Dex+3}
+   791 | D        | Got the ring "Waomeput" {EV+4 Str+6}
+   793 | D        | Got the ring of Nemiutt {rElec rPois rF+++ Slay+5 Stlth-}
+   795 | D        | Got the amulet "Peole" {*Contam +Rage Str+2 Dex+5}
+   797 | D        | Got the ring of Moix {*Corrode rC+ MP+9 Slay+3}
+   809 | D        | Noticed a shadow demon
+   815 | D        | Noticed a neqoxec
+   815 | D        | Noticed a sixfirhy
+   816 | D        | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       |  6 |  6.8
+Axes           |  6 |  6.8
+Armour         |  6 |  6.2
+Shields        |  6 |  6.2
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: War axe           |     7 |     5 ||    12
+Armor: Scale mail        |     1 |       ||     1
+Dodge: Dodged            |     4 |     2 ||     6
+Block: Shield            |     5 |     2 ||     7
+

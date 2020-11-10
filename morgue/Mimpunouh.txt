@@ -1,0 +1,219 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 4205373134703265959
+
+Mimpunouh the Sneak (Felid Conjurer)                Turns: 4376, Time: 00:41:46
+
+Health: 19/19      AC:  1    Str:  4    XL:     4   Next: 39%
+Magic:  8/8        EV: 18    Int: 16    God:    
+Gold:   89         SH:  0    Dex: 17    Spells: 1/7 levels left
+                                        Lives:  1   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You are on level 2 of the Dungeon.
+You are completely stuffed.
+
+You have visited 1 branch of the dungeon, and seen 2 of its levels.
+
+You have collected 89 gold pieces.
+
+Inventory:
+
+Jewellery
+ d - a large glass ring
+Wands
+ l - a wand of flame (7)
+Scrolls
+ c - a scroll of magic mapping
+ f - a scroll labeled UDIZOC XAELU
+ i - a scroll labeled POLUSE SUWKEE
+ k - a scroll labeled RIKHLI KITT
+Potions
+ a - a potion of flight
+ e - a potion of haste
+ g - a potion of heal wounds
+ j - a potion of invisibility
+Comestibles
+ b - 3 rations
+ h - 2 chunks of flesh
+
+
+   Skills:
+ - Level 1.5 Fighting
+ - Level 2.6 Dodging
+ + Level 4.3 Stealth
+ - Level 2.0 Unarmed Combat
+ - Level 2.0 Spellcasting
+ - Level 3.6 Conjurations
+ + Level 1.8 Hexes
+ * Level 0.9 Evocations
+
+
+You have one spell level left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         4%          1    #......
+b - Searing Ray           Conj           ##....       7%          2    ###....
+c - Dazzling Spray        Conj/Hex       ##....       21%         3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Iskenderun's Mystic Bla  Conj           ##......     43%         4    #####..
+ Fulminant Prism          Conj/Hex       ##........   56%         4    #####..
+ Force Lance              Conj/Tloc      #.......     69%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+Annotations:
+D:1 1 exclusion
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+There is a stone staircase leading down here.
+There is an open door here.
+You see here a +0 club.
+There is a large open door here.
+There is a large open door here.
+You see here a +0 flail.
+There is an escape hatch in the floor here.
+You slide downwards. The hatch slams shut behind you.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a ring mail.
+There is a stone staircase leading down here.
+Okay, then.
+Unknown command.
+Unknown command.
+There is a stone staircase leading down here.
+Saving game... please wait.
+Welcome back, Mimpunouh the Felid Conjurer.
+Press ? for a list of commands and other information.
+Saving game... please wait.
+
+...#            #######..#.......(...#
+.#.##            ##......#...........#
+.#..##          ##.......##..........#
+.##..##    ######......#.##.........%#
+.###..##   #........####.##..........#
+.####..## ##.#......####.............#
+........###....##........##..........#
+..........#..#....#########..........#
+##.....##.......####....# #...<......#
+##.....##.......####....# #..........#
+.#..<...................###.##########
+[..#.##.....#######....^..>.#
+##.#..#.....###.(....@#####.#
+................(......####.#######
+###.................[...#.........#
+  #.............(.......#.........#
+  #....#................[.........#
+  #...##................#.........#
+  #...##..........[..<..#.........#
+ ##.#.#####................########
+##..#.##....##.............#
+#.>#.....#####......(....#.#
+.....#..####....(..(.....#.#########
+#.#####......#.......[...#.........#
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  A gnoll (D:1)
+  2 adders (D:2)
+  A worm (D:1)
+  2 dart slugs
+  5 leopard geckos
+  A ball python (D:1)
+  8 giant cockroaches
+  4 goblins
+  4 hobgoblins
+  9 kobolds
+  A quokka (D:2)
+  6 bats
+  3 frilled lizards (D:1)
+  7 rats
+  A plant (D:1)
+55 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Mimpunouh the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   263 | D:1      | Reached skill level 1 in Fighting
+   263 | D:1      | Reached skill level 1 in Unarmed Combat
+   263 | D:1      | Reached XP level 2. HP: 12/12 MP: 3/6
+   910 | D:1      | Learned a level 2 spell: Searing Ray
+   970 | D:1      | Reached skill level 3 in Stealth
+  1781 | D:1      | Reached XP level 3. HP: 15/15 MP: 7/7
+  1796 | D:1      | Learned a level 3 spell: Dazzling Spray
+  2291 | D:1      | Reached skill level 1 in Hexes
+  2914 | D:2      | Reached skill level 4 in Stealth
+  3521 | D:2      | Reached XP level 4. HP: 19/19 MP: 3/8
+
+Skill      XL: |  1  2  3 |
+---------------+----------+-----
+Fighting       |  1       |  1.5
+Unarmed Combat |  1     2 |  2.0
+Stealth        |     3  4 |  4.3
+Hexes          |        1 |  1.8
+Dodging        |          |  2.6
+Spellcasting   |          |  2.0
+Conjurations   |          |  3.6
+Evocations     |          |  0.9
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    53 |    13 ||    66
+       Bite              |     7 |     1 ||     8
+ Cast: Magic Dart        |    74 |    14 ||    88
+       Searing Ray       |     8 |     3 ||    11
+       Dazzling Spray    |       |     3 ||     3
+  Use: Scroll            |     4 |     2 ||     6
+ Stab: Sleeping          |     2 |     2 ||     4
+       Invisible         |       |     4 ||     4
+  Eat: Chunk             |    14 |     2 ||    16
+Armor: Skin              |     2 |       ||     2
+Dodge: Dodged            |    24 |    22 ||    46
+

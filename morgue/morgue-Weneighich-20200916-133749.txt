@@ -1,0 +1,187 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6252462913658517351
+
+0 Weneighich the Ducker (level 1, 23/23 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 16, 2020.
+             Quit the game on level 1 of the Lair of Beasts.
+             The game lasted 00:05:09 (123 turns).
+
+Weneighich the Ducker (Ghoul Monk)                   Turns: 123, Time: 00:05:09
+
+Health: 23/23      AC:  2    Str: 14    XL:     1   Next: 0%
+Magic:  5/5        EV: 14    Int:  5    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 11    Spells: 10/10 levels left
+
+rFire    . . .     SeeInvis .   c - +0 hunting sling
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   a - +0 robe
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +++.......             (no amulet)
+HPRegen  0.07/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: very slightly contaminated, rotting, invisible
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You were on level 1 of the Lair of Beasts.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Hand Weapons
+ c - a +0 hunting sling (weapon)
+Missiles
+ d - 41 stones (quivered)
+Armour
+ a - a +0 robe (worn)
+Potions
+ e - 8 potions of invisibility
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 5.0 Fighting
+   Level 5.0(5.9) Short Blades
+   Level 5.0(5.9) Long Blades
+   Level 5.0(6.8) Axes
+   Level 5.0(6.8) Maces & Flails
+   Level 5.0(6.8) Polearms
+   Level 5.0(6.8) Staves
+ - Level 5.0(5.9) Slings
+   Level 5.0 Bows
+   Level 5.0 Crossbows
+ - Level 5.0(5.9) Throwing
+ - Level 5.0 Armour
+ + Level 5.0 Dodging
+ + Level 5.0 Stealth
+   Level 5.0 Shields
+ + Level 5.0 Unarmed Combat
+ - Level 5.0 Spellcasting
+   Level 5.0 Conjurations
+   Level 5.0 Hexes
+   Level 5.0 Charms
+   Level 5.0 Summonings
+   Level 5.0 Necromancy
+   Level 5.0 Translocations
+   Level 5.0 Transmutations
+   Level 5.0 Fire Magic
+   Level 5.0 Ice Magic
+   Level 5.0 Air Magic
+   Level 5.0 Earth Magic
+   Level 5.0 Poison Magic
+   Level 5.0 Invocations
+   Level 5.0 Evocations
+
+
+You had 10 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+The Shining One
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a -1 arbalest and wearing a +0 plate armour
+(lightly wounded, summoned)
+You shoot a stone.
+The stone hits the orc warlord but does no damage.
+The orc warlord is lightly wounded.
+Firing (i - inventory) d - 42 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f/p - orc warlord
+Aim: an orc warlord, wielding a -1 arbalest and wearing a +0 plate armour
+(summoned)
+You shoot a stone.
+The stone hits the orc warlord but does no damage.
+You flicker back into view.
+You fade into invisibility!
+Enter Wizard Command (? - help): 
+Super healing.
+You are very lightly contaminated with residual magic.
+The orc warlord disappears in a puff of smoke!
+Saving game... please wait.
+Welcome back, Weneighich the Ghoul Monk.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+##.#.##...........................##
+......#...######.##.....##...###...#
+......#..####.##.##.....#.......#.##
+......#^.#.......++.............+.#
+.........#.......##.....#.........#
+......#...#......##.............#.#
+......#..##.......#.....#.......#.#
+.........##.......#.....#.........#
+......#..##......##.....#$........#
+......#..########.#.....#.........##
+#+#####..#.######.#.....########...#
+..................................##
+.....................@...0........#
+..................................##
+...................................#
+..##....%..##.#.####...######..#..##
+..(.?.#.............#..........#(..#
+.(.(...........................#..##
+.(.(..#....#........#..#.......#((#
+...(((((...#........#...........((#
+.....(..............(..#.......#.(#
+......#(...........(#.(#..#.###...#
+...........#+..######...(.........#
+.....................(.(?.........#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Weneighich the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Found a glowing golden altar of the Shining One.
+     2 | Lair:1   | Entered Level 1 of the Lair of Beasts
+     2 | Lair:1   | Noticed an orc warlord
+    15 | Lair:1   | Shot with a bolt by an orc warlord (28 damage)
+    33 | Lair:1   | Shot with a bolt by an orc warlord (18 damage)
+    42 | Lair:1   | Shot with a bolt by an orc warlord (28 damage)
+   123 | Lair:1   | Quit the game
+
+Action                   || total
+-------------------------++-------
+ Fire: Hunting sling     ||    49
+  Use: Potion            ||     4
+Dodge: Dodged            ||     1
+

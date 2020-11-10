@@ -1,0 +1,175 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12073048328966217822
+
+14 Woka the Grasshopper (level 2, 24/24 HPs)
+             Began as a Draconian Warper on Oct 26, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:22 (452 turns).
+
+Woka the Grasshopper (Draconian Warper)              Turns: 452, Time: 00:05:22
+
+Health: 24/24      AC:  4    Str: 13    XL:     2   Next: 31%
+Magic:  5/5        EV: 12    Int: 13    God:    
+Gold:   10         SH:  0    Dex: 10    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .   a - +0 hand axe
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.08/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: unfitting armour, cold-blooded, AC +4
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 10 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hand axe (weapon)
+Missiles
+ d - 14 stones (quivered)
+Scrolls
+ c - a scroll of blinking
+ e - a scroll of teleportation {unknown}
+Potions
+ b - 2 potions of heal wounds {unknown}
+Comestibles
+ f - 2 rations
+ g - 3 chunks of flesh
+
+
+   Skills:
+ - Level 2.1 Fighting
+ + Level 2.7 Axes
+ - Level 0.8 Throwing
+ - Level 2.1 Dodging
+ - Level 1.0 Stealth
+ - Level 2.0 Spellcasting
+   Level 3.0 Translocations
+
+
+You had 5 spell levels left.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Blink                    Tloc           N/A          11%         2    ###....
+ Shroud of Golubria       Chrm/Tloc      #.........   21%         2    ###....
+ Gell's Gravitas          Tloc           #.........   22%         3    ####...
+ Lesser Beckoning         Tloc           #.........   22%         3    ####...
+ Teleport Other           Tloc           #.......     22%         3    ####...
+ Passage of Golubria      Tloc           N/A          58%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your plain brown scales are hard. (AC +4)
+You cannot fit into any form of body armour.
+You are cold-blooded and may be slowed by cold attacks.
+
+
+Message History
+
+a +0 club; a goblin skeleton
+d - 14 stones (gained 1)
+The bat is too close now for your liking.
+Unknown command.
+Autopickup is now off.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+You see here a stone.
+d - 15 stones (gained 1)
+Throwing (i - inventory) d - 15 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - bat
+Aim: a bat
+You throw a stone. The stone closely misses the bat.
+The bat closely misses you.
+You hit the bat.
+You kill the bat!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#.########(##
+#............
+#####@##.#...
+    #.#
+    #)#
+    #.#
+    #.#
+    #.#
+    #.#
+    #.#
+    #.########
+    #....%...#          ###
+    ########.#          #..
+           #.#          #).
+           #.############..
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  A dart slug (D:1)
+  A bat (D:1)
+  A giant cockroach (D:1)
+  A goblin (D:1)
+  4 jackals (D:1)
+  A ball python (D:1)
+  A frilled lizard (D:1)
+  A kobold (D:1)
+11 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Woka the Draconian Warper began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 3/3
+    51 | D:1      | Reached skill level 1 in Stealth
+   219 | D:1      | Reached XP level 2. HP: 18/24 MP: 5/5
+   452 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Stealth        |  1 |  1.0
+Fighting       |    |  2.1
+Axes           |    |  2.7
+Throwing       |    |  0.8
+Dodging        |    |  2.1
+Spellcasting   |    |  2.0
+Translocations |    |  3.0
+
+Action                   || total
+-------------------------++-------
+Melee: Hand axe          ||    15
+       Tailslap          ||     4
+Throw: Tomahawk          ||     5
+       Stone             ||    11
+Armor: Skin              ||     4
+Dodge: Dodged            ||    10
+

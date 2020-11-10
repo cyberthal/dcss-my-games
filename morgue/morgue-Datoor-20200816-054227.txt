@@ -1,0 +1,149 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11167307056654911815
+
+2 Datoor the Skirmisher (level 1, 18/18 HPs) *WIZ*
+             Began as a Demonspawn Abyssal Knight on Aug 16, 2020.
+             Was a Follower of Lugonu.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:07:49 (562 turns).
+
+Datoor the Skirmisher (Demonspawn Abyssal Knight)    Turns: 562, Time: 00:07:49
+
+Health: 18/18      AC:  3    Str: 12    XL:     1   Next: 33%
+Magic:  2/2        EV: 11    Int: 13    God:    Lugonu 38 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +1 falchion
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: quite poisoned (18 -> 9)
+A: no striking features
+a: Depart the Abyss, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Lugonu.
+Lugonu was aware of your devotion.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+You visited the Abyss 1 time.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 falchion (weapon)
+Missiles
+ d - a stone (quivered)
+Armour
+ b - a +0 leather armour (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ - Level 3.0 Fighting
+ + Level 1.8 Long Blades
+ - Level 1.7 Armour
+ - Level 1.0 Dodging
+ * Level 0.2 Stealth
+ - Level 2.4 Invocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - you, p - kobold
+Enter monster name (or MONS spec): 
+Okay, then.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f - kobold
+Aim: a kobold, wielding a +0 dagger of venom
+Enter monster name (or MONS spec): 
+Okay, then.
+Press: ? - help, v - describe, . - travel
+The floor.
+Enter Wizard Command (? - help): 
+Select a monster, or hit Escape to use default.
+Press: ? - help, Shift-Dir - straight line, f/p - kobold
+Aim: a kobold, wielding a +0 dagger of venom
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |      3.1 |      8 |  53% |   1.7 |   121  |  0.83 |      1.4
+Attack:   Mons | No hits
+Defend: Player |      3.8 |      8 |   6% |   0.2 |   100  |  1.00 |      0.2
+Defend:   Mons |      1.0 |      5 |  58% |   0.6 |   100  |  1.00 |      0.6
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#########
+#.@.....####
+#(####.....#
+#.#........######
+#K#.#.......K...#  ###
+#g#.....#######.##...#
+#........'<'.......#
+####.###.###..####...#
+   #(# #......#    .##
+   #.# ########     #
+   #.#
+   #..
+   ....
+   #....
+
+
+You could see a goblin and a kobold.
+
+Vanquished Creatures
+  A hobgoblin (D:1)
+  A jackal (D:1)
+2 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | Abyss:1  | Datoor the Demonspawn Abyssal Knight began the quest for
+                  | the Orb.
+     0 | Abyss:1  | Reached XP level 1. HP: 18/18 MP: 2/2
+     7 | Abyss:1  | Entered wizard mode.
+    16 | D:1      | Escaped the Abyss
+    20 | D:1      | Reached skill level 1 in Dodging
+   562 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Dodging        |  1 |  1.0
+Fighting       |    |  3.0
+Long Blades    |    |  1.8
+Armour         |    |  1.7
+Stealth        |    |  0.2
+Invocations    |    |  2.4
+
+Action                   || total
+-------------------------++-------
+Melee: Falchion          ||  4010
+Throw: Stone             ||     2
+Armor: Leather armour    ||   767
+Dodge: Dodged            ||  1653
+Rpst.: Falchion          ||   573
+

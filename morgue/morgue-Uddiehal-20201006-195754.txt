@@ -1,0 +1,538 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 14246127667232704188
+
+12102 Uddiehal the Protected (level 11, 80/81 HPs) *WIZ*
+             Began as a Barachi Transmuter on Oct 3, 2020.
+             Was a Priest of Wu Jian.
+             Quit the game on level 1 of the Lair of Beasts on Oct 6, 2020.
+             The game lasted 03:54:56 (20744 turns).
+
+Uddiehal the Protected (Barachi Transmuter)        Turns: 20744, Time: 03:54:57
+
+Health: 80/81      AC: 20    Str: 14    XL:     11   Next: 88%
+Magic:  28/29      EV: 12    Int: 13    God:    Wu Jian [***...]
+Gold:   75         SH:  0    Dex: 20    Spells: 4/22 levels left
+
+rFire    . . .     SeeInvis .   b - +3 whip (elec)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   O - +3 ring mail
+rPois    .         Spirit   .   i - +0 helmet
+rElec    .         Reflect  .   X - +2 cloak {+Inv}
+rCorr    .         Harm     .   A - +2 pair of gloves
+MR       .....                  (boots currently unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.23/turn              Z - +4 ring of dexterity
+MPRegen  0.21/turn              h - ring of magical power
+
+@: appendage (expiring), slow
+A: +LOS, swims, talons 3, molten scales 1, agile 1, slowness 1, MP-powered
+wands, strong legs 1
+a: Hop, End Transformation, Wall Jump, Serpent's Lash, Renounce Religion, Evoke
+Invisibility
+
+
+You were on level 1 of the Lair of Beasts.
+You worshipped Wu Jian.
+Wu Jian was most pleased with you.
+You were not hungry.
+
+You had grown temporary talons.
+
+You visited 3 branches of the dungeon, and saw 12 of its levels.
+You also visited: Ossuary.
+
+You collected 865 gold pieces.
+You spent 790 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 shortbow of freezing
+ b - a +3 whip of electrocution (weapon)
+ c - a +0 long sword
+ d - a +0 trident
+ e - a +0 hunting sling
+ f - a +0 blowgun
+ F - a cursed +3 spear
+Missiles
+ j - 39 poisoned needles
+ n - 313 stones
+ B - 33 arrows
+ J - 11 tomahawks (quivered)
+ L - 52 sling bullets
+Armour
+ i - a +0 helmet (worn)
+ p - a +0 buckler
+ v - a +0 robe
+ A - a +2 pair of gloves (worn)
+ M - a +1 leather armour of positive energy
+ O - a +3 ring mail (worn)
+ X - a +2 cloak of invisibility (worn)
+Magical Staves
+ t - an uncursed staff of wizardry
+Jewellery
+ h - a ring of magical power (right hand)
+ r - an uncursed ring of positive energy
+ s - a +2 ring of intelligence
+ Z - a +4 ring of dexterity (left hand)
+Wands
+ k - a wand of digging (4)
+ C - a wand of polymorph (1)
+Scrolls
+ g - a scroll of holy word {unknown}
+ l - 2 scrolls of blinking
+ m - 2 scrolls of magic mapping
+ o - a scroll of immolation
+ q - 4 scrolls of remove curse
+ u - a scroll of summoning
+ w - 3 scrolls of teleportation
+ D - a scroll of noise
+ E - 5 scrolls of identify
+ R - 3 scrolls of silence
+ S - a scroll of fog
+ T - 2 scrolls of fear
+Potions
+ x - 3 potions of might
+ z - 2 potions of heal wounds
+ H - a potion of brilliance {unknown}
+ K - 2 potions of cancellation
+ N - 2 potions of agility
+ P - 2 potions of curing
+ Q - 3 potions of magic
+ U - 3 potions of haste
+ V - a potion of berserk rage
+ Y - a potion of resistance
+Comestibles
+ y - 17 rations
+ G - 6 chunks of flesh
+
+
+   Skills:
+ - Level 6.0 Fighting
+ - Level 1.6 Long Blades
+ - Level 4.1 Maces & Flails
+ - Level 4.1(4.2) Slings
+ + Level 3.1 Bows
+ - Level 1.1(2.8) Throwing
+ - Level 10.0 Armour
+ * Level 2.1 Dodging
+ - Level 4.0 Stealth
+ - Level 4.0 Shields
+ - Level 9.3 Unarmed Combat
+ - Level 6.0 Spellcasting
+ - Level 9.3 Transmutations
+ - Level 1.0 Poison Magic
+ - Level 2.1 Evocations
+
+
+You had 4 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           ####..       1%          1    None
+b - Animate Skeleton      Necr           N/A          28%         1    None
+c - Poisonous Vapours     Pois/Air       #.....       34%         2    ##.....
+d - Sticks to Snakes      Tmut           ####....     1%          2    ##.....
+e - Spider Form           Tmut/Pois      ###.......   11%         3    ###....
+f - Ice Form              Ice/Tmut       ###.....     38%         4    ####...
+g - Blade Hands           Tmut           ####......   17%         5    ######.
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           #...         28%         1    None
+ Mephitic Cloud           Conj/Pois/Air  #.......     58%         3    ###....
+ Conjure Flame            Conj/Fire      #.......     65%         3    ###....
+ Regeneration             Chrm/Necr      #.........   65%         3    ###....
+ Vampiric Draining        Necr           #.........   65%         3    ###....
+ Animate Dead             Necr           N/A          96%         4    ####...
+ Freezing Cloud           Conj/Ice/Air   #.........   100%        6    #######
+ Ring of Flames           Chrm/Fire      #.........   100%        7    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:7            Lair (1/6) D:10
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:7 [((??
+
+Annotations:
+D:4 2 transporters, Grinder
+D:10 3 runed translucent doors, book of dreams in firee, wjchen's ghost,
+journeyman MiFi
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+You have claws for feet.
+You are partially covered in molten scales. (AC +2)
+You are agile. (Dex +2)
+You expend magic power (3 MP) to strengthen your wands.
+
+
+Message History
+
+The polar bear is severely wounded.
+The polar bear bites you but does no damage.
+The polar bear closely misses you.
+The polar bear claws you but does no damage.
+Your bullfrog skeleton hits the polar bear.
+The polar bear barely misses you.
+The polar bear claws you but does no damage.
+The polar bear closely misses you.
+You swap places.
+You spin and attack the polar bear repeatedly.
+You hit the polar bear.
+Lightning courses through the polar bear!
+You kill the polar bear!
+The Council accepts your kill.
+Training target 6.0 for Spellcasting reached!
+Your Spellcasting skill increases to level 6!
+You need to enable at least one skill for training.
+Enter note: my skilling has been a wreck.  I want to start over.  char is well
+established anyway.
+Enter note: forgot to train dodging!!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+)..#..# ###    ............##       #..#....
+#...###       ###......(..#.#       #.##..#.
+#....#        #.##.....##...#       ##..####
+.....##########.......####.#         #..####
+#.......#.#.#..............#         ##..##.
+#....###%..###..####...##..####   ####..####
+#....###..Z.#..###....##P.....#####...######
+.............P.#.(..#.##......#..##..## #..P
+..%............##.P##..##.....#..##..####..#
+............(..~####....#..P....###...##..##
+............(..~~# ##...##.......##!........
+.............(~~~#  ##Z.##..................
+.............(.~##$.##ZZ##.............###..
+................P#..hh@..#........#.....####
+.................###.##Z##........##.###.###
+.................. ## ###..........#.###....
+                       ...............#..#..
+                       ............##..#####
+                       ...........######   #
+                      ............####
+                     P.............#.#
+                     #...............##### #
+                     ................##..###
+                     ..................##.#P
+             .       #............##.#####..
+          .###.    .  #...........##.##.....
+
+
+You could see 2 polar bears, a friendly water moccasin skeleton, a friendly
+bullfrog skeleton and 2 friendly black bear skeletons.
+
+Vanquished Creatures
+  A hydra (Lair:1)
+  A tengu warrior (D:8)
+  A two-headed ogre (D:10)
+  A spiny frog (Lair:1)
+  2 komodo dragons
+  A hornet (D:10)
+  A polar bear (Lair:1)
+  15 yaks
+  A wyvern (D:8)
+  4 hogs
+  A basilisk (Lair:1)
+  A human (D:10)
+  Menkaure (D:4)
+  2 water moccasins (Lair:1)
+  An ice beast (D:6)
+  5 orc warriors
+  2 black bears (Lair:1)
+  A phantom (D:8)
+  3 ogres
+  3 wolves
+  A boggart (D:6)
+  2 necrophages (D:9)
+  A centaur (D:6)
+  2 crocodiles (Lair:1)
+  3 big kobolds
+  6 bullfrogs
+  A scorpion (D:5)
+  8 killer bees
+  7 howler monkeys
+  4 wights
+  6 crimson imps
+  A quasit (D:8)
+  2 bullfrog zombies
+  2 centaur zombies (D:9)
+  7 hounds
+  4 jellies
+  13 orc wizards
+  7 orc priests
+  A centaur skeleton (D:9)
+  An iguana (D:4)
+  8 worker ants
+  Natasha (thrice) (D:4)
+  A big kobold zombie (Ossuary)
+  A hound skeleton (D:6)
+  8 mummies (Ossuary)
+  A howler monkey zombie (D:9)
+  6 gnolls
+  7 adders
+  2 shadow imps
+  An ooze (D:4)
+  3 adder zombies
+  An adder skeleton (D:9)
+  A worm (D:2)
+  4 dart slugs
+  3 leopard geckos
+  44 orcs
+  7 bats
+  7 giant cockroaches
+  A gnoll zombie (Ossuary)
+  8 goblins
+  7 hobgoblins
+  10 jackals
+  A quokka (D:3)
+  A ball python (D:1)
+  6 frilled lizards
+  A hobgoblin zombie (Ossuary)
+  17 kobolds
+  A kobold zombie (Ossuary)
+  4 orc zombies (Ossuary)
+  A quokka zombie (D:5)
+  9 rats
+302 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  2 yaks (D:9)
+  A spriggan (D:8)
+  A water moccasin (D:10)
+  A black bear (Lair:1)
+  An ogre (D:5)
+  2 crocodiles (Lair:1)
+  2 killer bees (D:10)
+  A crimson imp (D:8)
+  A hound (D:10)
+  An orc wizard (D:6)
+  2 bullfrog skeletons (D:8)
+  A centaur skeleton (D:9)
+  2 worker ants
+  2 human simulacra (D:10)
+  A gnoll (D:6)
+  2 shadow imps
+  3 orcs
+  A quokka (D:8)
+  2 kobolds (D:10)
+29 creatures vanquished.
+
+Vanquished Creatures (others)
+  2 orcs (D:10)
+2 creatures vanquished.
+
+Grand Total: 333 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Uddiehal the Barachi Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+   425 | D:1      | Reached skill level 1 in Stealth
+   425 | D:1      | Reached XP level 2. HP: 21/21 MP: 3/5
+   429 | D:1      | Learned a level 2 spell: Sticks to Snakes
+  1157 | D:1      | Reached XP level 3. HP: 26/26 MP: 4/6
+  1835 | D:2      | Learned a level 3 spell: Spider Form
+  2051 | D:2      | Reached XP level 4. HP: 25/32 MP: 1/7
+  3208 | D:3      | Found a shadowy altar of Dithmenos.
+  3572 | D:3      | Reached XP level 5. HP: 34/38 MP: 6/8
+  3753 | D:3      | Entered wizard mode.
+  4206 | D:3      | Reached skill level 1 in Long Blades
+  4312 | D:3      | Gained mutation: You are agile. (Dex +2) [potion of
+                  | mutation]
+  4312 | D:3      | Gained mutation: You are partially covered in molten
+                  | scales. (AC +2) [potion of mutation]
+  4312 | D:3      | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  4380 | D:4      | Found a transporter.
+  4454 | D:4      | Reached skill level 5 in Transmutations
+  4823 | D:4      | Reached XP level 6. HP: 47/47 MP: 5/9
+  5028 | D:4      | Reached skill level 1 in Armour
+  5382 | D:4      | Noticed Menkaure
+  5580 | D:5      | Entered Level 5 of the Dungeon
+  5592 | D:4      | Reached skill level 2 in Armour
+  5680 | D:5      | Reached XP level 7. HP: 53/54 MP: 10/10
+  5721 | D:5      | Reached skill level 3 in Armour
+  5984 | D:5      | Found a glowing silver altar of Zin.
+  5984 | D:5      | Noticed an angel
+  6081 | D:5      | Reached skill level 1 in Shields
+  6794 | D:4      | Noticed Natasha
+  6802 | D:4      | Killed Natasha
+  6834 | D:4      | Found a transporter.
+  6995 | D:4      | Noticed Natasha
+  7026 | D:4      | Killed Menkaure
+  7026 | D:4      | Reached skill level 5 in Unarmed Combat
+  7026 | D:4      | Reached XP level 8. HP: 54/60 MP: 11/11
+  7029 | D:4      | Killed Natasha
+  7152 | D:4      | Noticed Natasha
+  7174 | D:4      | Killed Natasha
+  7372 | D:4      | Found a transporter.
+  7480 | D:4      | Noticed Grinder
+  7646 | D:5      | Learned a level 5 spell: Blade Hands
+  8396 | D:6      | Learned a level 1 spell: Animate Skeleton
+  8513 | D:6      | Reached skill level 1 in Evocations
+  8580 | D:6      | Reached skill level 4 in Armour
+  8617 | D:6      | Reached XP level 9. HP: 65/65 MP: 15/15
+  8657 | D:6      | Reached skill level 5 in Armour
+  9208 | D:6      | Reached skill level 1 in Throwing
+  9470 | D:7      | Noticed Joseph
+  9472 | D:7      | Noticed Joseph
+  9472 | D:7      | Joseph changed into Joseph the boggart
+  9535 | D:6      | Killed Joseph the boggart
+  9553 | D:7      | Found a staircase to the Ecumenical Temple.
+  9625 | D:7      | Found Rabar's Weapon Shoppe.
+  9626 | D:7      | Found Irulah's Weapon Shoppe.
+  9736 | D:7      | Found a sand-covered staircase.
+  9743 | Ossuary  | Entered an ossuary
+  9799 | Ossuary  | Reached skill level 1 in Slings
+ 10272 | Temple   | Entered the Ecumenical Temple
+ 10345 | Temple   | Became a worshipper of the Wu Jian Council
+ 10402 | D:7      | Found Nopruihe's Magic Scroll Shoppe.
+ 10480 | D:7      | Found Myugg's Armour Emporium.
+ 10604 | D:7      | Found Ovysu's Magic Scroll Shop.
+ 10662 | D:7      | Bought a scroll of remove curse for 36 gold pieces
+ 10736 | D:7      | Bought a scroll of remove curse for 45 gold pieces
+ 10736 | D:7      | Bought a scroll of magic mapping for 52 gold pieces
+ 10757 | D:7      | Bought a +0 cloak of invisibility for 149 gold pieces
+ 10809 | D:7      | Bought a scroll of enchant armour for 90 gold pieces
+ 10843 | D:7      | Bought a scroll of enchant armour for 112 gold pieces
+ 10850 | D:7      | Bought a scroll of summoning for 142 gold pieces
+ 12283 | D:7      | Reached skill level 1 in Poison Magic
+ 12536 | D:7      | Bought a scroll of magic mapping for 52 gold pieces
+ 12700 | D:9      | Reached XP level 10. HP: 71/71 MP: 16/16
+ 12706 | D:9      | Reached skill level 6 in Armour
+ 12876 | D:9      | Reached * piety under Wu Jian
+ 13116 | D:9      | Noticed a tengu warrior
+ 13539 | D:8      | Killed a tengu warrior
+ 14146 | D:9      | Reached skill level 7 in Armour
+ 14328 | D:9      | Reached skill level 8 in Armour
+ 15181 | D:10     | Entered Level 10 of the Dungeon
+ 15287 | D:10     | Reached skill level 9 in Armour
+ 15579 | D:10     | Found a runed translucent gate.
+ 15580 | D:10     | Found a runed translucent gate.
+ 15581 | D:10     | Found a runed translucent gate.
+ 15582 | D:10     | Noticed wjchen's ghost (journeyman MiFi)
+ 15584 | D:10     | Identified the +5 war axe of Dyofysekk {drain, rF+ Str+5}
+ 15585 | D:10     | Found a roughly hewn altar of Beogh.
+ 15587 | D:10     | Identified the +10 spear "Spiderbane" {chaos, Dex+5}
+ 15827 | D:10     | Noticed a two-headed ogre
+ 15882 | D:10     | Reached ** piety under Wu Jian
+ 16084 | D:10     | Reached XP level 11. HP: 65/78 MP: 17/17
+ 17049 | D:9      | Reached skill level 5 in Fighting
+ 17049 | D:9      | Reached skill level 10 in Armour
+ 17176 | D:9      | Reached skill level 1 in Maces & Flails
+ 17337 | D:10     | Found a staircase to the Lair.
+ 17664 | D:10     | Paralysed by a hornet for 3 turns
+ 18024 | D:10     | Killed a two-headed ogre
+ 18576 | D:7      | Bought a scroll of enchant weapon for 112 gold pieces
+ 18705 | D:10     | Learned a level 5 spell: Blade Hands
+ 18708 | D:10     | Learned a level 2 spell: Poisonous Vapours
+ 18713 | D:10     | Learned a level 4 spell: Ice Form
+ 18879 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 19034 | Lair:1   | Reached skill level 1 in Bows
+ 20226 | Lair:1   | Reached skill level 5 in Spellcasting
+ 20323 | Lair:1   | Noticed a five-headed hydra
+ 20337 | Lair:1   | Killed a five-headed hydra
+ 20337 | Lair:1   | Reached *** piety under Wu Jian
+ 20744 | Lair:1   | my skilling has been a wreck.  I want to start over.  char
+                  | is well established anyway.
+ 20744 | Lair:1   | forgot to train dodging!!
+ 20744 | Lair:1   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Stealth        |  1                    2        4 |  4.0
+Transmutations |     3  4     5     6     8  9    |  9.3
+Unarmed Combat |           4        5  6  8  9    |  9.3
+Fighting       |           2  3  4              6 |  6.0
+Long Blades    |              1                   |  1.6
+Armour         |                 2  3  4  5  9 10 | 10.0
+Shields        |                    3  4          |  4.0
+Spellcasting   |                       4        6 |  6.0
+Evocations     |                       1  2       |  2.1
+Throwing       |                          1       |  1.1
+Slings         |                          2     4 |  4.1
+Poison Magic   |                          1       |  1.0
+Maces & Flails |                                4 |  4.1
+Bows           |                                3 |  3.1
+Dodging        |                                  |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   109 | 12161 |  4420 |   316 || 17006
+       Kick              |    21 |  3516 |  4900 |    81 ||  8518
+       Punch             |     1 |   300 |     1 |     5 ||   307
+       Falchion          |       |  8006 |     1 |       ||  8007
+       Long sword        |       |       |  8022 |       ||  8022
+       Dagger            |       |       |  4000 |       ||  4000
+       Hunting sling     |       |       |       |     2 ||     2
+       Whip              |       |       |       |    49 ||    49
+ Fire: Hunting sling     |       |       |   174 |   203 ||   377
+       Shortbow          |       |       |       |    49 ||    49
+Throw: Stone             |    52 |    76 |    33 |       ||   161
+       Tomahawk          |       |     8 |    52 |     5 ||    65
+ Cast: Beastly Appendage |    27 |    28 |    69 |    41 ||   165
+       Sticks to Snakes  |     4 |     8 |     5 |    27 ||    44
+       Spider Form       |       |     6 |     7 |    14 ||    27
+       Animate Skeleton  |       |       |    26 |    41 ||    67
+       Ice Form          |       |       |       |     4 ||     4
+Invok: Lunge             |       |       |     1 |    27 ||    28
+       Whirlwind         |       |       |       |    49 ||    49
+ Abil: Hop               |     1 |     1 |     3 |     4 ||     9
+       Evoke Invisibilit |       |       |     1 |     5 ||     6
+       End Transformatio |       |       |     1 |     1 ||     2
+Evoke: Wand              |       |       |     2 |     3 ||     5
+  Use: Scroll            |     1 |     6 |    16 |     6 ||    29
+       Potion            |       |     1 |     2 |     3 ||     6
+ Stab: Distracted        |       |     2 |     2 |     3 ||     7
+       Invisible         |       |       |       |    10 ||    10
+  Eat: Chunk             |     5 |    14 |    24 |    16 ||    59
+       Ration            |       |       |     1 |     5 ||     6
+Armor: Robe              |    32 |  2280 |    38 |       ||  2350
+       Leather armour    |       |  2914 |  2109 |       ||  5023
+       Ring mail         |       |       |    31 |   159 ||   190
+       Skin              |       |       |       |    72 ||    72
+Dodge: Dodged            |    62 | 10801 |  6678 |   175 || 17716
+Block: Buckler           |       |       |  3079 |    72 ||  3151
+Rpst.: Falchion          |       |  1396 |       |       ||  1396
+       Long sword        |       |       |  1096 |       ||  1096
+

@@ -1,0 +1,225 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 8971314444071680429
+
+Onkishrio the Skirmisher (Ghoul Monk)               Turns: 3717, Time: 00:24:21
+
+Health: 56/56      AC:  5    Str: 15    XL:     6   Next: 44%
+Magic:  5/5        EV: 11    Int:  5    God:    
+Gold:   223        SH:  0    Dex: 13    Spells: 5/5 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   f - +0 ring mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.00/turn              v - ring of resist corrosion
+MPRegen  0.09/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: no special abilities
+
+
+You are on level 4 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 4 of its levels.
+
+You have collected 223 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 dagger of venom
+ i - a +1 short sword of speed
+ p - a hunting sling
+ t - a +0 spear
+Missiles
+ d - 139 stones (quivered)
+ s - 45 bolts
+Armour
+ b - a +0 robe
+ f - a +0 ring mail (worn)
+ x - a +0 leather armour
+Magical Staves
+ u - a thick smoking staff
+Jewellery
+ v - a ring of resist corrosion (left claw)
+ A - a tubular granite ring
+Wands
+ o - a wand of digging (5)
+Scrolls
+ c - 2 scrolls labeled ILEAMMIL ASOE
+ e - a scroll labeled NASKIG JOEMU
+ g - a scroll of teleportation
+ m - a scroll labeled TICUSAAMEDGH
+ n - 2 scrolls labeled WEDU WEJ AXOR
+ q - a scroll labeled DESKYMO DOHA
+ y - a scroll labeled LEBULAPYMAEJ
+ z - a scroll labeled MONEANLAEBE
+Potions
+ j - a murky white potion
+ k - a grey potion
+ l - an amethyst potion
+ r - an inky potion
+Comestibles
+ h - 5 rations
+ w - 9 chunks of flesh
+
+
+   Skills:
+ + Level 5.4 Fighting
+ - Level 2.0 Short Blades
+ - Level 1.0 Throwing
+ - Level 2.6 Dodging
+ - Level 3.0 Stealth
+ - Level 5.1 Unarmed Combat
+
+
+You have 5 spell levels left.
+You don't know any spells.
+Your spell library is empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Autopickup is now on.
+Things that are here:
+a worker ant corpse; a hound corpse
+Butcher a worker ant corpse? [(y)es/(n)o/(a)ll/(q)uit/?]
+You butcher the worker ant corpse.
+You butcher the hound corpse.
+w - 8 chunks of flesh (gained 3); w - 9 chunks of flesh (gained 1)
+You see here a hound skeleton.
+Autopickup is now off.
+Key pressed, stopping explore.
+Unknown command.
+Key pressed, stopping explore.
+Unknown command.
+Found a stone staircase leading up.
+Unknown command.
+A worm comes into view.
+Found a scroll labeled ILEAMMIL ASOE.
+You see here a stone.
+Unknown command.
+Saving game... please wait.
+
+######
+.....#     #########
+####.#     #.......#
+####.#######.#####.#
+..##.##......#####.#
+#.##.##.##......##.#
+.....##.##.#.##.##.#
+#..........#.##.##%#       #
+#######.####.......#      ?#
+  #####.#.........##     w.#
+  #...............######...###
+  #..[..#.###.........@(......
+  #..<[...# #............(..<.
+  #.....### #.............(...
+  #.....#   #.....######...###
+  #######   #.....#     ...#
+            ##.####     ^..#
+             #.#         ..#
+####         #.#         ..#
+.).#  ########.#
+##.#  #........#
+...#  #.#####..#
+...####.##.....#
+...........##.##
+
+
+You can see a worm (wandering).
+
+Vanquished Creatures
+  A phantom (D:4)
+  An orc priest (D:3)
+  A hound (D:4)
+  An orc wizard (D:3)
+  A worker ant (D:4)
+  3 adders
+  3 gnolls (D:3)
+  3 dart slugs
+  A leopard gecko (D:4)
+  3 orcs
+  4 bats
+  A giant cockroach (D:1)
+  7 goblins
+  6 hobgoblins
+  2 jackals (D:2)
+  10 kobolds
+  2 ball pythons (D:3)
+  4 frilled lizards
+  9 rats
+63 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Onkishrio the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   245 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   807 | D:1      | Reached skill level 1 in Throwing
+   807 | D:1      | Reached XP level 3. HP: 26/31 MP: 2/2
+   916 | D:2      | Reached skill level 1 in Short Blades
+  2398 | D:3      | Reached XP level 4. HP: 37/40 MP: 3/3
+  3304 | D:3      | Entered wizard mode.
+  3314 | D:4      | Noticed a phantom
+  3339 | D:4      | Killed a phantom
+  3339 | D:4      | Reached skill level 5 in Fighting
+  3339 | D:4      | Reached skill level 5 in Unarmed Combat
+  3339 | D:4      | Reached XP level 5. HP: 41/48 MP: 4/4
+  3438 | D:3      | Reached XP level 6. HP: 47/56 MP: 5/5
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Throwing       |     1             |  1.0
+Short Blades   |        1        2 |  2.0
+Fighting       |        4  5       |  5.4
+Unarmed Combat |        4  5       |  5.1
+Stealth        |                 3 |  3.0
+Dodging        |                   |  2.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    33 |  4021 ||  4054
+       Dagger            |    70 |    59 ||   129
+       Punch             |     1 |   203 ||   204
+       Short sword       |       |  4000 ||  4000
+Throw: Stone             |   114 |    46 ||   160
+  Use: Scroll            |     1 |       ||     1
+ Stab: Sleeping          |       |     1 ||     1
+  Eat: Chunk             |     4 |     9 ||    13
+       Ration            |     1 |       ||     1
+Armor: Robe              |     3 |       ||     3
+       Ring mail         |    31 |   858 ||   889
+Dodge: Dodged            |    39 |  3744 ||  3783
+

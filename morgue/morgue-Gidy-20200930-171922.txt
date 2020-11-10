@@ -1,0 +1,190 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18092804008278634661
+
+5 Gidy the Insei (level 1, 10/10 HPs)
+             Began as a Vine Stalker Transmuter on Sept 30, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:05:20 (467 turns).
+
+Gidy the Insei (Vine Stalker Transmuter)             Turns: 467, Time: 00:05:20
+
+Health: 10/10      AC:  4    Str: 12    XL:     1   Next: 80%
+Magic:  4/4        EV: 11    Int: 13    God:    
+Gold:   28         SH:  0    Dex: 14    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 leather armour
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   h - +0 pair of gloves
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: fangs 2, magic shield, antimagic bite, no potion heal 3, rot immunity
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+You collected 28 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ i - a +1 short sword of draining
+Missiles
+ a - 12 arrows
+Armour
+ b - a +0 robe
+ c - a +0 leather armour (worn)
+ h - a +0 pair of gloves (worn)
+Scrolls
+ g - a scroll of enchant armour {unknown}
+ j - a scroll of amnesia {unknown}
+ k - a scroll of fear {unknown}
+ l - 3 scrolls of immolation {unknown}
+Potions
+ e - a potion of haste {unknown}
+Comestibles
+ d - 2 rations
+ f - 5 chunks of flesh
+
+
+   Skills:
+ - Level 1.0 Fighting
+ - Level 1.5 Dodging
+ + Level 1.1 Stealth
+ - Level 3.0 Unarmed Combat
+ - Level 2.1 Spellcasting
+ + Level 2.2 Transmutations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           #.....       13%         1    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sticks to Snakes         Tmut           #.......     19%         2    ###....
+ Spider Form              Tmut/Pois      #.........   52%         3    ####...
+ Ice Form                 Ice/Tmut       #.......     90%         4    #####..
+ Blade Hands              Tmut           #.........   98%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+Your transformation is almost over.
+You start resting.
+Magic restored.
+Autopickup is now off.
+Autopickup is now on.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+l - 3 scrolls labeled ELUITHR HAPNAT
+Autopickup is now off.
+Your horns disappear.
+Key pressed, stopping explore.
+Unknown command.
+Found 20 stones. Found a stone staircase leading down.
+Unknown command.
+A leopard gecko comes into view.
+Unknown command.
+Saving game... please wait.
+Welcome back, Gidy the Vine Stalker Transmuter.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+            #......# #.#.###
+            #......###......
+            #.......%......#
+            #......###.#....
+            ######.###.#....
+......l.....######..........
+.........(..##..............
+.>..........##########.###.#
+............##       #.....#
+.............#     ###.#.#.#
+............#      #........
+............#   ####.#.#.#.#
+.......@....#   #......#.#..
+########.####   ##.#.###.###
+     #......#    #...)..<...
+     #......## ###.#.###.###
+     #.......# #.......#.#..
+  ####.......# #.###.#.#.#.#
+  #......###.###.###........
+  #......###.##...####.#.#.#
+  #......#...##......#.....#
+  #......#.####...#.##.###.#
+  #......#........#.#### ###
+  #......######...#.########
+
+
+You could see a leopard gecko (sleeping).
+
+Vanquished Creatures
+  2 giant cockroaches (D:1)
+  A hobgoblin (D:1)
+  A bat (D:1)
+  A rat (D:1)
+5 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Gidy the Vine Stalker Transmuter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+   294 | D:1      | Reached skill level 1 in Fighting
+   430 | D:1      | Reached skill level 1 in Stealth
+   467 | D:1      | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Fighting       |  1 |  1.0
+Stealth        |  1 |  1.1
+Dodging        |    |  1.5
+Unarmed Combat |    |  3.0
+Spellcasting   |    |  2.1
+Transmutations |    |  2.2
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    19
+       Bite              ||     4
+       Kick              ||     1
+       Punch             ||     1
+ Cast: Beastly Appendage ||     4
+Armor: Leather armour    ||     2
+       Robe              ||     1
+Dodge: Dodged            ||    11
+

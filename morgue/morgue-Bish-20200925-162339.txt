@@ -1,0 +1,269 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 401009070793238705
+
+0 Bish the Sneak (level 1, 17/17 HPs) *WIZ*
+             Began as a Centaur Assassin on Sept 25, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:06:04 (4 turns).
+
+Bish the Sneak (Centaur Assassin)                      Turns: 4, Time: 00:06:05
+
+Health: 17/17      AC:  5    Str: 13    XL:     1   Next: 0%
+Magic:  1/1        EV:  9    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 1.7 Short Blades
+ + Level 2.1 Throwing
+ + Level 0.6 Dodging
+ + Level 2.4 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          36%         1    50
+ Apportation              Tloc           0 (50)       36%         1    50
+ Beastly Appendage        Tmut           0 (50)       36%         1    50
+ Confusing Touch          Hex            0 (50)       36%         1    50
+ Corona                   Hex            0 (90)       36%         1    50
+ Flame Tongue             Conj/Fire      0 (40)       36%         1    50
+ Freeze                   Ice            0 (25)       36%         1    50
+ Infusion                 Chrm           0 (25)       36%         1    50
+ Magic Dart               Conj           0 (25)       36%         1    50
+ Pain                     Necr           0 (25)       36%         1    50
+ Sandblast                Erth           0 (50)       36%         1    50
+ Shock                    Conj/Air       0 (25)       36%         1    50
+ Sting                    Conj/Pois      0 (25)       36%         1    50
+ Summon Butterflies       Summ           0 (100)      36%         1    50
+ Summon Small Mammal      Summ           0 (25)       36%         1    50
+ Blink                    Tloc           N/A          50%         2    100
+ Call Imp                 Summ           0 (100)      50%         2    100
+ Corpse Rot               Necr           N/A          50%         2    100
+ Ensorcelled Hibernation  Hex/Ice        0 (50)       50%         2    100
+ Passwall                 Tmut/Erth      0 (120)      50%         2    100
+ Poisonous Vapours        Pois/Air       0 (50)       50%         2    100
+ Searing Ray              Conj           0 (50)       50%         2    100
+ Shroud of Golubria       Chrm/Tloc      0 (200)      50%         2    100
+ Slow                     Hex            0 (100)      50%         2    100
+ Song of Slaying          Chrm           0 (100)      50%         2    100
+ Sticks to Snakes         Tmut           0 (100)      50%         2    100
+ Sublimation of Blood     Necr           0 (200)      50%         2    100
+ Swiftness                Chrm/Air       0 (100)      50%         2    100
+ Throw Flame              Conj/Fire      0 (50)       50%         2    100
+ Throw Frost              Conj/Ice       0 (50)       50%         2    100
+ Call Canine Familiar     Summ           0 (100)      75%         3    150
+ Confuse                  Hex            0 (100)      75%         3    150
+ Conjure Flame            Conj/Fire      0 (100)      75%         3    150
+ Dazzling Spray           Conj/Hex       0 (50)       75%         3    150
+ Gell's Gravitas          Tloc           0 (200)      75%         3    150
+ Ignite Poison            Fire/Tmut/Pois 0 (100)      75%         3    150
+ Inner Flame              Hex/Fire       0 (100)      75%         3    150
+ Lesser Beckoning         Tloc           0 (200)      75%         3    150
+ Mephitic Cloud           Conj/Pois/Air  0 (100)      75%         3    150
+ Ozocubu's Armour         Chrm/Ice       0 (100)      75%         3    150
+ Portal Projectile        Hex/Tloc       0 (50)       75%         3    150
+ Recall                   Summ/Tloc      N/A          75%         3    150
+ Regeneration             Chrm/Necr      0 (200)      75%         3    150
+ Spectral Weapon          Hex/Chrm       0 (100)      75%         3    150
+ Spider Form              Tmut/Pois      0 (200)      75%         3    150
+ Static Discharge         Conj/Air       0 (100)      75%         3    150
+ Stone Arrow              Conj/Erth      0 (50)       75%         3    150
+ Summon Guardian Golem    Hex/Summ       0 (100)      75%         3    150
+ Teleport Other           Tloc           0 (100)      75%         3    150
+ Tukima's Dance           Hex            0 (100)      75%         3    150
+ Vampiric Draining        Necr           0 (200)      75%         3    150
+ Airstrike                Air            0 (200)      98%         4    250
+ Animate Dead             Necr           N/A          98%         4    250
+ Cause Fear               Hex            0 (200)      98%         4    250
+ Force Lance              Conj/Tloc      0 (100)      98%         4    250
+ Fulminant Prism          Conj/Hex       0 (200)      98%         4    250
+ Ice Form                 Ice/Tmut       0 (100)      98%         4    250
+ Iskenderun's Mystic Bla  Conj           0 (100)      98%         4    250
+ Leda's Liquefaction      Hex/Erth       0 (200)      98%         4    250
+ Olgreb's Toxic Radiance  Pois           0 (100)      98%         4    250
+ Passage of Golubria      Tloc           N/A          98%         4    250
+ Petrify                  Tmut/Erth      0 (100)      98%         4    250
+ Sticky Flame             Conj/Fire      0 (100)      98%         4    250
+ Summon Ice Beast         Ice/Summ       0 (100)      98%         4    250
+ Summon Lightning Spire   Summ/Air       0 (100)      98%         4    250
+ Throw Icicle             Conj/Ice       0 (100)      98%         4    250
+ Agony                    Necr           0 (100)      100%        5    400
+ Alistair's Intoxication  Tmut/Pois      0 (100)      100%        5    400
+ Aura of Abjuration       Summ           0 (200)      100%        5    400
+ Blade Hands              Tmut           0 (200)      100%        5    400
+ Bolt of Draining         Conj/Necr      0 (200)      100%        5    400
+ Bolt of Magma            Conj/Fire/Erth 0 (200)      100%        5    400
+ Borgnjor's Vile Clutch   Necr/Erth      0 (200)      100%        5    400
+ Dispel Undead            Necr           0 (100)      100%        5    400
+ Excruciating Wounds      Chrm/Necr      0 (200)      100%        5    400
+ Fireball                 Conj/Fire      0 (200)      100%        5    400
+ Irradiate                Conj/Tmut      0 (200)      100%        5    400
+ Iskenderun's Battlesphe  Conj/Chrm      0 (100)      100%        5    400
+ Lee's Rapid Deconstruct  Erth           0 (200)      100%        5    400
+ Lightning Bolt           Conj/Air       0 (200)      100%        5    400
+ Metabolic Englaciation   Hex/Ice        0 (200)      100%        5    400
+ Silence                  Hex/Air        0 (200)      100%        5    400
+ Summon Demon             Summ           0 (200)      100%        5    400
+ Summon Forest            Summ/Tloc      0 (200)      100%        5    400
+ Summon Mana Viper        Hex/Summ       0 (100)      100%        5    400
+ Venom Bolt               Conj/Pois      0 (200)      100%        5    400
+ Yara's Violent Unravell  Hex/Tmut       0 (200)      100%        5    400
+ Bolt of Cold             Conj/Ice       0 (200)      100%        6    550
+ Bolt of Fire             Conj/Fire      0 (200)      100%        6    550
+ Conjure Ball Lightning   Conj/Air       0 (200)      100%        6    550
+ Darkness                 Hex            0 (200)      100%        6    550
+ Death Channel            Necr           0 (200)      100%        6    550
+ Deflect Missiles         Chrm/Air       0 (200)      100%        6    550
+ Dispersal                Tloc           0 (200)      100%        6    550
+ Freezing Cloud           Conj/Ice/Air   0 (200)      100%        6    550
+ Hydra Form               Tmut           0 (200)      100%        6    550
+ Invisibility             Hex            0 (100)      100%        6    550
+ Iron Shot                Conj/Erth      0 (200)      100%        6    550
+ Ozocubu's Refrigeration  Ice            0 (200)      100%        6    550
+ Poison Arrow             Conj/Pois      0 (200)      100%        6    550
+ Shadow Creatures         Summ           N/A          100%        6    550
+ Simulacrum               Ice/Necr       0 (200)      100%        6    550
+ Statue Form              Tmut/Erth      0 (150)      100%        6    550
+ Dragon Form              Tmut           0 (200)      100%        7    700
+ Haunt                    Necr/Summ      0 (200)      100%        7    700
+ Malign Gateway           Summ/Tloc      0 (200)      100%        7    700
+ Monstrous Menagerie      Summ           0 (200)      100%        7    700
+ Orb of Destruction       Conj           0 (200)      100%        7    700
+ Ring of Flames           Chrm/Fire      0 (200)      100%        7    700
+ Spellforged Servitor     Conj/Summ      0 (200)      100%        7    700
+ Summon Greater Demon     Summ           0 (200)      100%        7    700
+ Summon Hydra             Summ           0 (200)      100%        7    700
+ Borgnjor's Revivificati  Necr           0 (200)      100%        8    850
+ Chain Lightning          Conj/Air       0 (200)      100%        8    850
+ Controlled Blink         Tloc           N/A          100%        8    850
+ Death's Door             Chrm/Necr      0 (200)      100%        8    850
+ Discord                  Hex            0 (200)      100%        8    850
+ Disjunction              Tloc           0 (200)      100%        8    850
+ Ignition                 Fire           0 (200)      100%        8    850
+ Infestation              Necr           0 (200)      100%        8    850
+ Lehudib's Crystal Spear  Conj/Erth      0 (200)      100%        8    850
+ Necromutation            Tmut/Necr      0 (200)      100%        8    850
+ Summon Horrible Things   Summ           0 (200)      100%        8    850
+ Dragon's Call            Summ           0 (200)      100%        9    1000
+ Fire Storm               Conj/Fire      0 (200)      100%        9    1000
+ Glaciate                 Conj/Ice       0 (200)      100%        9    1000
+ Shatter                  Erth           0 (200)      100%        9    1000
+ Tornado                  Air            0 (200)      100%        9    1000
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Okay, then.
+Unknown command.
+Okay, then.
+Unknown command.
+You're too inexperienced to learn that spell!
+Search for what [? for help]? 
+Okay, then.
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? necronom
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Unknown command.
+Search for what [? for help]? necro
+Can't find anything matching that.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+       #^.
+  ######.#####
+  #~~~~7.7~~~#
+  #~..P...P.~#
+  #~.PPP.PPP~#
+  #~..P...P.~#  .
+.##77.......7#...
+.......@<...~?.#
+..#77.......7###
+  #~..P..$7.~#
+  #~.PPP.77 ~#
+  #~..P!..   #
+  #~~~~7.7~
+  ######.##
+       #..
+       .#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Bish the Centaur Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     4 | D:1      | Quit the game
+

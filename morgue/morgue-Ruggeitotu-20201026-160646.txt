@@ -1,0 +1,142 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 5463581136659635342
+
+26 Ruggeitotu the Cleaver (level 3, 16/31 HPs)
+             Began as a Hill Orc Fighter on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:02:04 (24 turns).
+
+Ruggeitotu the Cleaver (Hill Orc Fighter)             Turns: 24, Time: 00:02:04
+
+Health: 16/31      AC:  0    Str: 24    XL:     3   Next: 8%
+Magic:  3/3        EV: 17    Int:  8    God:    
+Gold:   0          SH:  0    Dex: 15    Spells: 2/2 levels left
+
+rFire    . . .     SeeInvis .   (weapon currently unavailable)
+rCold    . . .     Gourm    .   (shield currently unavailable)
+rNeg     . . .     Faith    .   (armour currently unavailable)
+rPois    .         Spirit   .   (helmet currently unavailable)
+rElec    .         Reflect  .   (cloak currently unavailable)
+rCorr    .         Harm     .   (gloves currently unavailable)
+MR       .....     NoTele   +   (boots currently unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.10/turn              (ring currently unavailable)
+MPRegen  0.08/turn              (ring currently unavailable)
+
+@: mighty, bat-form, flying, hasted, very quick
+A: tiny
+a: no special abilities
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You were in bat-form.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 war axe (melded)
+Armour
+ b - a +0 scale mail (melded)
+ c - a +0 shield (melded)
+Scrolls
+ k - a scroll of blinking
+Potions
+ e - a potion of curing
+ g - a potion of heal wounds
+ i - 2 potions of magic
+ j - a potion of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ - Level 3.6 Fighting
+ + Level 8.1 Axes
+ - Level 3.2 Armour
+ - Level 3.2 Shields
+
+
+You had 2 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+
+Message History
+
+You bite Ijyb!
+Ijyb is almost dead.
+You hit Ijyb.
+Ijyb is almost dead.
+Ijyb hits you.
+You hit Ijyb but do no damage.
+Ijyb is almost dead.
+You barely miss Ijyb.
+Ijyb is almost dead.
+Ijyb barely misses you.
+You hit Ijyb.
+You kill Ijyb!
+Your Axes skill gained 6 levels and is now at level 8!
+You have reached level 2!
+You have reached level 3!
+Your experience leads to an increase in your attributes!
+Your base attributes are Str 18, Int 8, Dex 10.
+Increase (S)trength, (I)ntelligence, or (D)exterity? 
+You feel stronger.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#### ##
+#<.#..+
+#.b[..#
+#..####
+#..#
+#..#
+#..#
+#}}#
+####
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Ijyb (D)
+1 creature vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Ruggeitotu the Hill Orc Fighter began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 19/19 MP: 1/1
+     1 | D        | Noticed Ijyb
+    23 | D        | Killed Ijyb
+    23 | D        | Reached skill level 8 in Axes
+    23 | D        | Reached XP level 2. HP: 13/26 MP: 2/2
+    23 | D        | Reached XP level 3. HP: 16/31 MP: 3/3
+    24 | D        | Quit the game
+
+Skill      XL: |  1 |
+---------------+----+-----
+Axes           |  8 |  8.1
+Fighting       |    |  3.6
+Armour         |    |  3.2
+Shields        |    |  3.2
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    16
+       War axe           ||     3
+  Use: Potion            ||     2
+Dodge: Dodged            ||     5
+Block: Shield            ||     1
+

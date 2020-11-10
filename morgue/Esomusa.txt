@@ -1,0 +1,356 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2571562211482259645
+
+Esomusa the Vandal (Centaur Monk)                   Turns: 7470, Time: 01:29:52
+
+Health: 66/66      AC:  8    Str: 16    XL:     8   Next: 51%
+Magic:  7/10       EV:  8    Int:  9    God:    Qazlal [**....]
+Gold:   56         SH: 10    Dex: 12    Spells: 7/7 levels left
+
+rFire    . . .     SeeInvis .   a - +2 hunting sling
+rCold    . . .     Gourm    .   N - +0 shield
+rNeg     . . .     Faith    .   y - +1 animal skin
+rPois    .         Spirit   .   r - +1 helmet
+rElec    .         Reflect  .   F - +0 cloak
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             h - amulet of regeneration
+HPRegen  0.61/turn              Q - ring of resist corrosion
+MPRegen  0.12/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: Upheaval, Renounce Religion
+
+
+You are on level 6 of the Dungeon.
+You worship Qazlal.
+Qazlal is pleased with you.
+You are not hungry.
+
+You have visited 2 branches of the dungeon, and seen 7 of its levels.
+
+You have collected 256 gold pieces.
+You have spent 200 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 hunting sling (weapon)
+ b - a +1 antimagic spear
+ c - a +2 falchion of holy wrath
+ d - a +0 flail
+ e - a +0 war axe
+ f - a +0 trident
+ g - a +4 quarterstaff of chaos
+ p - a cursed +1 scimitar
+ q - a cursed +5 hand axe
+ z - a cursed +4 halberd
+ M - a +4 scythe of protection
+ U - a runed short sword
+Missiles
+ i - 3 tomahawks
+ j - 60 arrows
+ k - 73 sling bullets
+ n - 158 stones (quivered)
+ x - 26 bolts
+ K - 12 poisoned needles
+Armour
+ r - a +1 helmet (worn)
+ y - a +1 animal skin (worn)
+ F - a +0 cloak (worn)
+ N - a +0 shield (worn)
+Jewellery
+ h - an amulet of regeneration (around neck)
+ Q - a ring of resist corrosion (left hand)
+Wands
+ O - a wand of iceblast (10)
+ S - a wand of flame (30)
+Scrolls
+ l - a scroll of teleportation
+ B - a scroll of amnesia
+ C - 2 scrolls of noise
+ E - 3 scrolls of blinking
+ G - a scroll labeled XOMOHAJOSS
+ H - a scroll of remove curse
+ I - a scroll labeled SAAFECL XURECI
+ J - a scroll labeled FIORPH VEOCS
+ T - a scroll labeled ZACOSI OTUALA
+Potions
+ m - a potion of agility
+ o - a potion of brilliance
+ s - a potion of resistance
+ t - a potion of curing
+ u - a potion of flight
+ v - 2 potions of might
+ w - 3 potions of haste
+ A - a potion of cancellation
+ L - a potion of heal wounds
+Comestibles
+ D - 9 rations
+ P - 2 chunks of flesh
+
+
+   Skills:
+ + Level 4.2 Fighting
+ - Level 1.1 Long Blades
+ - Level 5.1 Polearms
+ - Level 7.0(7.3) Slings
+ - Level 2.9(5.3) Throwing
+ - Level 2.1 Dodging
+ - Level 1.1 Stealth
+ - Level 2.0 Shields
+ * Level 2.9 Invocations
+ - Level 2.1 Evocations
+
+
+You have 7 spell levels left.
+You don't know any spells.
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Magic Dart               Conj           #...         87%         1    ##.....
+ Blink                    Tloc           N/A          95%         2    ###....
+ Call Imp                 Summ           #.......     95%         2    ###....
+ Slow                     Hex            #.......     95%         2    ###....
+ Conjure Flame            Conj/Fire      #.......     99%         3    ####...
+ Mephitic Cloud           Conj/Pois/Air  #.......     99%         3    ####...
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:5         
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 =*?
+
+Annotations:
+D:6 9 exclusions
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Returning to the game...
+There is a stone staircase leading down here.
+You climb downwards.
+You hear the sound of rushing water.
+There is an entrance to a sewer on this level. Hurry and find it before the
+portal rusts away!
+Level annotation: 9 exclusions
+You hear the brisk rusting of a very distant drain.
+There is a stone staircase leading up here.
+Autopickup is now off.
+You see here a stone.
+n - 156 stones (gained 1)
+You see here a stone.
+n - 157 stones (gained 1)
+A slave comes into view.
+The slave shouts! You hear a shout!
+A slave comes into view.
+You see here a stone.
+n - 158 stones (gained 1)
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+
+                          ..
+         .#              ..
+         ..#            ..
+         ...#         ##.
+  #####   #..#      ##..  ...
+  #...#    #..###   #..   .p
+  #...#     #...### #.#  ..
+###...#       #...###.###.
+......#       #.......#..
+###...#       #...##..#.#
+  #...#      ##...<...#.####
+  #...##   ###....#...@....#
+  #....#   #........######.#
+  ####.# ##..##..[####
+     #.#....#........##
+   ###.#.##...######..#
+  ##.<......#.     ##.#
+###..#.#.####.      #.##
+....##...#....      #..####
+#####......#        ##....#
+    #.#...##         ####.#
+    #. ..##              ...
+    .. ...#              .....
+   ##. ##..#             (....#
+
+
+You can see a slave.
+
+Vanquished Creatures
+  Sigmund (D:6)
+  Eustachio (D:5)
+  A water moccasin (D:6)
+  An orc warrior (D:3)
+  A sky beast (D:5)
+  An ogre (D:5)
+  A scorpion (D:4)
+  3 wights
+  A howler monkey (D:1)
+  A crimson imp (D:4)
+  2 orc priests
+  A bullfrog skeleton (D:4)
+  2 hounds
+  A centaur skeleton (D:6)
+  Crazy Yiuf (D:3)
+  4 orc wizards
+  Ijyb (D:5)
+  2 worker ants
+  Robin (D:2)
+  A worker ant zombie (D:5)
+  4 gnolls (D:4)
+  An adder (D:3)
+  An ooze (D:1)
+  2 adder skeletons (D:4)
+  A worm (D:3)
+  2 dart slugs
+  A leopard gecko (D:4)
+  23 orcs
+  4 bats
+  4 giant cockroaches
+  12 goblins
+  9 hobgoblins
+  2 jackals (D:5)
+  9 quokkas
+  2 ball pythons
+  4 frilled lizards
+  6 kobolds
+  A leopard gecko skeleton (D:4)
+  20 rats
+136 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Esomusa the Centaur Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+   132 | D:1      | Reached XP level 2. HP: 26/26 MP: 2/2
+  1061 | D:1      | Reached XP level 3. HP: 31/31 MP: 3/3
+  1399 | D:1      | Reached XP level 4. HP: 27/38 MP: 4/4
+  1897 | D:1      | Reached skill level 5 in Polearms
+  2030 | D:2      | Reached skill level 1 in Throwing
+  2030 | D:2      | Reached XP level 5. HP: 45/45 MP: 5/5
+  2599 | D:2      | Found a sparkling altar of Nemelex Xobeh.
+  2599 | D:2      | Found a deep blue altar of Sif Muna.
+  2648 | D:2      | Found an opulent altar of Gozag.
+  2783 | D:3      | Reached skill level 1 in Slings
+  2946 | D:3      | Noticed Robin
+  3236 | D:2      | Killed Robin
+  3475 | D:3      | Found a runed translucent door.
+  3574 | D:3      | Reached skill level 2 in Slings
+  3587 | D:3      | Found a stormy altar of Qazlal.
+  3591 | D:3      | Found an ornate altar of the Wu Jian Council.
+  3591 | D:3      | Found a bloodstained altar of Trog.
+  3637 | D:3      | Reached XP level 6. HP: 51/51 MP: 6/6
+  3695 | D:3      | Noticed an orc warrior
+  3958 | D:3      | Killed an orc warrior
+  3958 | D:3      | Reached skill level 3 in Slings
+  4077 | D:3      | Noticed Crazy Yiuf
+  4112 | D:3      | Killed Crazy Yiuf
+  4263 | D:4      | Reached skill level 4 in Slings
+  4267 | D:4      | Found Busiu's Assorted Antiques.
+  4360 | D:4      | Bought a scroll labeled XOMOHAJOSS for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled FIS ESELUONN for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled SAAFECL XURECI for 29 gold pieces
+  4360 | D:4      | Bought a scroll labeled FIORPH VEOCS for 29 gold pieces
+  4749 | D:4      | Reached skill level 5 in Slings
+  4749 | D:4      | Reached XP level 7. HP: 54/57 MP: 7/7
+  4997 | D:4      | Found a stormy altar of Qazlal.
+  5035 | D:4      | Found Ducid's Jewellery Emporium.
+  5367 | D:4      | Found Xevea's Magic Scroll Emporium.
+  5420 | D:4      | Reached skill level 6 in Slings
+  5680 | D:4      | Bought a scroll of noise for 12 gold pieces
+  5680 | D:4      | Bought a scroll of identify for 24 gold pieces
+  5701 | D:5      | Entered Level 5 of the Dungeon
+  5701 | D:5      | Noticed Eustachio
+  5706 | D:5      | Killed Eustachio
+  5706 | D:5      | Reached skill level 7 in Slings
+  5841 | D:4      | Bought a scroll of identify for 24 gold pieces
+  5873 | D:5      | Noticed Ijyb
+  5883 | D:5      | Killed Ijyb
+  6165 | D:5      | Found a white marble altar of Elyvilon.
+  6233 | D:3      | Became a worshipper of Qazlal Stormbringer
+  6233 | D:3      | Reached * piety under Qazlal
+  6233 | D:3      | Reached ** piety under Qazlal
+  6359 | D:5      | Reached skill level 1 in Evocations
+  6461 | D:5      | Reached XP level 8. HP: 63/63 MP: 2/8
+  6551 | D:5      | Found a staircase to the Ecumenical Temple.
+  6569 | Temple   | Entered the Ecumenical Temple
+  6801 | D:5      | Found a glowing golden altar of the Shining One.
+  7009 | D:4      | Bought a scroll of identify for 24 gold pieces
+  7080 | D:6      | Reached skill level 1 in Shields
+  7095 | D:5      | Reached skill level 1 in Long Blades
+  7182 | D:6      | Noticed Sigmund
+  7221 | D:6      | Killed Sigmund
+  7221 | D:6      | Reached skill level 1 in Invocations
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Polearms       |  3     4  5             |  5.1
+Throwing       |           1  2          |  2.9
+Slings         |              2  5  7    |  7.0
+Evocations     |                    1  2 |  2.1
+Shields        |                       2 |  2.0
+Long Blades    |                       1 |  1.1
+Invocations    |                       2 |  2.9
+Fighting       |                       4 |  4.2
+Dodging        |                         |  2.1
+Stealth        |                         |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Spear             |    99 |   158 |   143 ||   400
+       Kick              |    15 |    18 |    30 ||    63
+       Quarterstaff      |       |     4 |     1 ||     5
+       War axe           |       |       |     5 ||     5
+       Falchion          |       |       |     3 ||     3
+ Fire: Hunting sling     |       |   187 |    91 ||   278
+Throw: Stone             |       |     4 |       ||     4
+       Tomahawk          |       |     2 |     1 ||     3
+Evoke: Wand              |       |       |     2 ||     2
+  Use: Potion            |       |     4 |     1 ||     5
+       Scroll            |       |     3 |     9 ||    12
+ Stab: Sleeping          |     5 |       |       ||     5
+       Paralysed         |       |       |    12 ||    12
+  Eat: Chunk             |       |     9 |     7 ||    16
+Armor: Robe              |     8 |     7 |       ||    15
+       Skin              |       |     9 |       ||     9
+       Animal skin       |       |     7 |    33 ||    40
+Dodge: Dodged            |    17 |    31 |    24 ||    72
+Block: Shield            |       |       |    38 ||    38
+

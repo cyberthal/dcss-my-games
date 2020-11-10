@@ -1,0 +1,161 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 13857929867151681685
+
+0 Teuhaihem the Conqueror (level 1, 58/60 HPs) *WIZ*
+             Began as a Ghoul Fighter on Aug 30, 2020.
+             Was the Champion of Kikubaaqudgha.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:51 (22 turns).
+
+Teuhaihem the Conqueror (Ghoul Fighter)               Turns: 22, Time: 00:02:52
+
+Health: 58/60      AC:  6    Str: 19    XL:     1   Next: 0%
+Magic:  24/27      EV:  7    Int:  3    God:    Kikubaaqudgha 197 (0)
+Gold:   0          SH:  8    Dex:  8    Spells: 54/54 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   b - +0 shield
+rNeg     + + +     Faith    .   a - +0 scale mail
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ..........             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.20/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Torment, Brand Weapon With Pain, Receive Necronomicon,
+Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was exalted by your worship.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 scale mail (worn)
+ b - a +0 shield (worn)
+Potions
+ c - a potion of might
+Comestibles
+ d - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ + Level 2.6 Armour
+ + Level 2.6 Shields
+ + Level 2.1 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Necromancy
+
+
+You had 54 spell levels left.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Eat one of 9 chunks of flesh? (ye/n/q)
+You eat one of the 9 chunks of flesh. This raw flesh tastes great!
+Eat one of 8 chunks of flesh? (ye/n/q)
+You eat one of the 8 chunks of flesh. This raw flesh tastes great!
+Eat one of 7 chunks of flesh? (ye/n/q)
+You eat one of the 7 chunks of flesh. This raw flesh tastes great!
+Eat one of 6 chunks of flesh? (ye/n/q)
+You eat one of the 6 chunks of flesh. This raw flesh tastes great!
+Eat one of 5 chunks of flesh? (ye/n/q)
+You eat one of the 5 chunks of flesh. This raw flesh tastes great!
+Eat one of 4 chunks of flesh? (ye/n/q)
+You eat one of the 4 chunks of flesh. This raw flesh tastes great!
+Eat one of 3 chunks of flesh? (ye/n/q)
+You eat one of the 3 chunks of flesh. This raw flesh tastes great!
+Eat one of 2 chunks of flesh? (ye/n/q)
+You eat one of the 2 chunks of flesh. This raw flesh tastes great!
+Eat a chunk of flesh? (ye/n/q)
+You eat the chunk of flesh. This raw flesh tastes great!
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+..
+#.##########
+#..........#
+#..........#
+#.........:##
+#........<..#
+#.....8%%..(#
+#....7.%@.K.#
+#.......%...#
+............#
+##..........#
+ ###.#.##.#.#
+  ..... ..#.#
+ .##### ###..
+            ##
+
+
+You could see a kobold (sleeping).
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Teuhaihem the Ghoul Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     1 | D:1      | Became a worshipper of Kikubaaqudgha
+     1 | D:1      | Reached * piety under Kikubaaqudgha
+     1 | D:1      | Identified Kikubaaqudgha's Collected Works on Darkness
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     1 | D:1      | Reached ** piety under Kikubaaqudgha
+     1 | D:1      | Reached *** piety under Kikubaaqudgha
+     1 | D:1      | Identified Kikubaaqudgha's Handbook of Necromancy
+                  | (Kikubaaqudgha gifted it to you on level 1 of the Dungeon)
+     1 | D:1      | Received a gift from Kikubaaqudgha
+     1 | D:1      | Reached **** piety under Kikubaaqudgha
+     1 | D:1      | Reached ***** piety under Kikubaaqudgha
+     1 | D:1      | Reached ****** piety under Kikubaaqudgha
+    22 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||  4000
+Invok: Receive Corpses   ||     2
+  Eat: Chunk             ||    16
+Armor: Scale mail        ||   475
+Dodge: Dodged            ||   799
+Block: Shield            ||  1267
+

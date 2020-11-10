@@ -1,0 +1,129 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11072596037806621520
+
+0 Vaithrae the Conjurer (level 1, 7/7 HPs)
+             Began as a Felid Conjurer on Oct 20, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:39 (0 turns).
+
+Vaithrae the Conjurer (Felid Conjurer)                 Turns: 0, Time: 00:00:39
+
+Health: 7/7        AC:  1    Str:  4    XL:     1   Next: 0%
+Magic:  4/4        EV: 18    Int: 16    God:    
+Gold:   0          SH:  0    Dex: 16    Spells: 3/4 levels left
+                                        Lives:  0   Deaths: 0
+
+rFire    . . .     SeeInvis +   (weapon unavailable)
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.02/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Comestibles
+ b - a ration
+
+
+   Skills:
+ + Level 2.6 Dodging
+ + Level 2.6 Stealth
+ + Level 2.0 Spellcasting
+ + Level 3.6 Conjurations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         4%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Searing Ray              Conj           ##....       7%          2    ###....
+ Dazzling Spray           Conj/Hex       #.....       30%         3    ###....
+ Iskenderun's Mystic Bla  Conj           ##......     43%         4    #####..
+ Force Lance              Conj/Tloc      #.......     69%         4    #####..
+ Fulminant Prism          Conj/Hex       #.........   69%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Welcome, Vaithrae the Felid Conjurer.
+Will you prevail where others failed? Will you find the Orb of Zot?
+Press ? for a list of commands and other information.
+Found a staircase leading out of the dungeon.
+Unknown command.
+Unknown command.
+Unknown command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+    ###.##
+    #....#
+    #....#   #
+.####....#  .#
+.........##..#
+  ...........#
+    #........#
+    #..@.#
+    #....#
+    ##.###
+     ..
+    #..
+    #..
+    #..
+    ...
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Vaithrae the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+     0 | D:1      | Quit the game
+

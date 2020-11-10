@@ -1,0 +1,138 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 11027137373783243606
+
+0 Weghas the Archmage (level 1, 17/17 HPs) *WIZ*
+             Began as a Centaur Assassin on Sept 25, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:02:51 (1 turns).
+
+Weghas the Archmage (Centaur Assassin)                 Turns: 1, Time: 00:02:51
+
+Health: 17/17      AC:  5    Str: 13    XL:     1   Next: 0%
+Magic:  0/28       EV:  9    Int: 10    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 10    Spells: 53/54 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.21/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 1.7 Short Blades
+ + Level 2.1 Throwing
+ + Level 0.6 Dodging
+ + Level 2.4 Stealth
+ O Level 27 Spellcasting
+
+
+You had 53 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Confusing Touch       Hex            13 (50)      2%          1    0
+
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? cursed dagger
+No such item.
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? )
+What type of item? +5 dagger
+What ego type? 
+Something appears before you!
+Okay, then.
+Press: ? - help, v - describe, . - travel, g - get item
+A +0 flail.
+There is something else lying underneath.
+A staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ #####
+##...##
+#.....#
+#..@..+
+#.....#
+##...##
+ #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Weghas the Centaur Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Learned a level 1 spell: Confusing Touch
+     1 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||  4000
+       Kick              ||  1202
+ Cast: Confusing Touch   ||     1
+ Stab: Confused          ||   553
+Armor: Robe              ||   980
+Dodge: Dodged            ||  2006
+

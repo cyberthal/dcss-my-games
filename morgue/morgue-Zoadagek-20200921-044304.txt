@@ -1,0 +1,465 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 995450279073932396
+
+8918 Zoadagek the Fighter (level 11, 92/97 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 21, 2020.
+             Was an Elder of Kikubaaqudgha.
+             Quit the game on level 11 of the Dungeon.
+             The game lasted 02:48:03 (11585 turns).
+
+Zoadagek the Fighter (Ghoul Monk)                  Turns: 11585, Time: 02:48:03
+
+Health: 92/97      AC: 17    Str: 21      XL:     11   Next: 38%
+Magic:  13/13      EV:  9    Int:  5 (6)  God:    Kikubaaqudgha [****..]
+Gold:   92         SH: 12    Dex:  9 (12) Spells: 3/12 levels left
+
+rFire    . . .     SeeInvis +   d - +1 flail (protect)
+rCold    + + .     Gourm    .   s - +2 shield
+rNeg     + + +     Faith    .   w - +7 Kryia's mail coat {PotionHeal*2 rC+}
+rPois    ?          Spirit   .   (no helmet)
+rElec    .         Reflect  .   X - +2 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  y - +0 pair of boots
+Stlth    +.........             R - amulet of magic regeneration
+HPRegen  0.00/turn              i - +4 ring of strength
+MPRegen  0.38/turn              F - ring of see invisible
+
+@: very slightly contaminated, rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 11 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was greatly pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 13 of its levels.
+
+You collected 499 gold pieces.
+You spent 407 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 fustibalus
+ b - a +2 short sword of venom
+ c - a +4 scimitar of flaming
+ d - a +1 flail of protection (weapon)
+ e - a +0 war axe
+ f - a +0 trident
+ j - a +1 scimitar of slicing
+Missiles
+ g - 184 stones (quivered)
+ h - 11 tomahawks
+ k - 18 arrows
+ o - 65 sling bullets
+Armour
+ s - a +2 shield (worn)
+ w - the +7 Kryia's mail coat (worn) {PotionHeal*2 rC+}
+   (You found it on level 10 of the Dungeon)   
+   
+   It protects you from cold.
+ x - a +1 ring mail of magic resistance
+ y - a +0 pair of boots (worn)
+ V - a +3 leather armour
+ X - a +2 cloak (worn)
+Jewellery
+ i - a +4 ring of strength (left claw)
+ n - an uncursed ring of magical power
+ C - an uncursed ring of fire
+ F - a ring of see invisible (right claw)
+ I - an uncursed ring of protection from cold
+ R - an amulet of magic regeneration (around neck)
+ T - an uncursed ring of flight
+Wands
+ l - a wand of enslavement (5)
+ r - a wand of acid (9)
+ H - a wand of clouds (3)
+ J - a wand of polymorph (21)
+ S - a wand of iceblast (13)
+ W - a wand of flame (11)
+Scrolls
+ m - a scroll of remove curse
+ q - a scroll of noise
+ v - 3 scrolls of teleportation
+ D - 2 scrolls of immolation
+Potions
+ p - 2 potions of brilliance
+ t - a potion of ambrosia
+ K - 9 potions of curing
+ M - a potion of might
+ P - 2 potions of flight
+ U - 2 potions of haste
+Comestibles
+ u - 26 rations
+
+
+   Skills:
+ - Level 9.0 Fighting
+ - Level 3.0 Short Blades
+ - Level 1.0 Axes
+ - Level 3.0(3.1) Slings
+ - Level 1.4(2.4) Throwing
+ - Level 2.1 Armour
+ - Level 2.6 Dodging
+ - Level 5.3 Stealth
+ - Level 6.0 Shields
+ - Level 9.0 Unarmed Combat
+ - Level 1.0 Spellcasting
+ - Level 2.5 Summonings
+ - Level 7.0 Necromancy
+ + Level 4.4 Evocations
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           #...         24%         1    ##.....
+b - Animate Skeleton      Necr           N/A          24%         1    ##.....
+c - Call Imp              Summ           #.......     93%         2    ###....
+d - Corpse Rot            Necr           N/A          36%         2    ###....
+e - Vampiric Draining     Necr           #.........   58%         3    ####...
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Small Mammal      Summ           #...         83%         1    ##.....
+ Call Canine Familiar     Summ           #.......     99%         3    ####...
+ Summon Guardian Golem    Hex/Summ       #.......     100%        3    ####...
+ Animate Dead             Necr           N/A          94%         4    #####..
+ Summon Ice Beast         Ice/Summ       #.......     100%        4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     100%        4    #####..
+ Bolt of Draining         Conj/Necr      #.........   100%        5    ######.
+ Borgnjor's Vile Clutch   Necr/Erth      #.........   100%        5    ######.
+ Dispel Undead            Necr           #.......     100%        5    ######.
+ Simulacrum               Ice/Necr       #.........   100%        6    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:6            Lair (0/6) D:10
+   Orc: D:9-12      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:4 [   D:5 (   D:7 (
+
+Annotations:
+D:3 1 runed translucent door, exclusion: door
+D:9 loot
+D:11 Snorg
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Press: ? - help, v - describe, . - travel, g - get item
+A bat skeleton.
+The floor.
+Snorg looks more energetic.
+You see here a mace.
+There is an open door here.
+Move the cursor to view the level map, or type ? for a list of commands.
+Returning to the game...
+Unknown command.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Okay, then.
+Evoke which item? (* to show all) (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Okay, then.
+Press: ? - help, v - describe, . - travel
+Here: Snorg (heavily wounded, poisoned)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+###)######
+#....Z...#
+########.#
+       #.#
+       #.#
+       #.#
+     ###'##
+     #....#
+     #....#
+     #....######
+     #....#....#####
+     #....#........#
+     #....#........#
+     #..@.####.....#
+     ###'##  #.....#
+       #.#   #....>#
+       #.#   #.....#
+       #T#   #.....#
+ #######.#   #.....#
+ #.T..)..#   ##.##.#
+ #.#######    #.##.#
+##.############.##.#
+#......T....%......#  #
+###############.####..#
+          #......)....#
+          ###.#..#%#..#
+
+
+You could see Snorg.
+
+Vanquished Creatures
+  Erica (D:9)
+  An unseen horror (D:11)
+  Pikel (D:6)
+  Maurice (D:9)
+  2 gargoyles
+  A troll (D:9)
+  A hornet (D:9)
+  4 hippogriffs
+  A slime creature (D:11)
+  4 yaks
+  2 basilisks
+  A black bear (D:6)
+  A slave (D:6)
+  An ice beast (D:6)
+  4 orc warriors
+  A necrophage (D:10)
+  2 phantoms (D:6)
+  5 sky beasts
+  4 ogres
+  2 centaurs
+  2 big kobolds
+  4 bullfrogs
+  2 wyvern skeletons
+  3 scorpions
+  7 killer bees
+  A water moccasin skeleton (D:8)
+  A howler monkey (D:3)
+  4 electric eels
+  3 crimson imps
+  2 bullfrog zombies (D:8)
+  6 hounds
+  4 jellies
+  A centaur skeleton (D:5)
+  2 orc priests
+  An orc wizard (D:7)
+  3 iguanas
+  20 worker ants
+  A hound zombie (D:6)
+  A hound skeleton (D:9)
+  A howler monkey skeleton (D:8)
+  6 adders
+  2 shadow imps
+  2 adder zombies (D:5)
+  An adder skeleton (D:9)
+  2 dart slugs
+  6 leopard geckos
+  34 orcs
+  7 giant cockroaches
+  2 goblins
+  15 hobgoblins
+  7 jackals
+  6 quokkas
+  5 ball pythons
+  3 bats
+  4 frilled lizards
+  A jackal skeleton (D:7)
+  11 kobolds
+  13 rats
+  A fungus (D:3)
+237 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  An orc wizard (D:10)
+  A leopard gecko (D:11)
+  2 orcs (D:10)
+4 creatures vanquished.
+
+Grand Total: 241 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Zoadagek the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   219 | D:1      | Reached XP level 2. HP: 26/26 MP: 1/1
+   685 | D:1      | Reached XP level 3. HP: 31/31 MP: 2/2
+  1093 | D:2      | Reached skill level 5 in Unarmed Combat
+  1251 | D:1      | Entered wizard mode.
+  1251 | D:1      | UC 5 armor 0 shield 0 ring mail
+  1251 | D:1      | and shield
+  1252 | D:1      | vs igu: aed 2.3 vs 2.5
+  1262 | D:1      | chainmail now
+  1262 | D:1      | aed 2.1 vs 2.4, worse
+  1272 | D:1      | 1 SL shield has no effect
+  1272 | D:1      | neither does armor
+  1277 | D:1      | wow, performance same or better without the shield!!
+  1282 | D:1      | even shield at 2 doesn't change this
+  1287 | D:1      | so shield is just for arrows i guess
+  1287 | D:1      | offhand attacks really matter I suppose
+  1737 | D:4      | Reached XP level 4. HP: 38/38 MP: 3/3
+  1846 | D:3      | uc is 5.2
+  2207 | D:3      | Reached XP level 5. HP: 42/45 MP: 4/4
+  2284 | D:3      | Found a runed translucent door.
+  2302 | D:3      | Found a shadowy altar of Dithmenos.
+  2419 | D:3      | Reached skill level 1 in Short Blades
+  2488 | D:5      | Entered Level 5 of the Dungeon
+  2488 | D:5      | Noticed an ogre
+  2525 | D:4      | Found Jefudal's Antique Armour Boutique.
+  2536 | D:4      | Bought a cloak for 99 gold pieces
+  2749 | D:4      | Reached XP level 6. HP: 43/53 MP: 5/5
+  3123 | D:5      | Reached skill level 5 in Fighting
+  3298 | D:5      | Reached skill level 1 in Throwing
+  3298 | D:5      | Reached XP level 7. HP: 34/62 MP: 6/6
+  3369 | D:5      | Found Ococuqen's Weapon Emporium.
+  3684 | D:5      | Found a runed translucent door.
+  3685 | D:5      | Found a runed translucent door.
+  3819 | D:4      | Bought a glowing scale mail for 154 gold pieces
+  3987 | D:6      | Reached skill level 1 in Evocations
+  3998 | D:6      | Found a staircase to the Ecumenical Temple.
+  4175 | D:6      | Reached XP level 8. HP: 60/73 MP: 6/8
+  4232 | D:6      | Noticed Pikel
+  4243 | D:6      | Killed Pikel
+  4355 | Temple   | Entered the Ecumenical Temple
+  4394 | Temple   | Became a worshipper of Kikubaaqudgha
+  4394 | Temple   | Reached * piety under Kikubaaqudgha
+  4394 | Temple   | Identified Kikubaaqudgha's Grimoire of Unholy Rituals
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+  4394 | Temple   | Received a gift from Kikubaaqudgha
+  4394 | Temple   | Reached ** piety under Kikubaaqudgha
+  4398 | Temple   | Learned a level 1 spell: Animate Skeleton
+  4401 | Temple   | Learned a level 2 spell: Corpse Rot
+  4918 | D:6      | Reached XP level 9. HP: 81/81 MP: 10/10
+  4965 | D:6      | Reached skill level 1 in Shields
+  5322 | D:6      | Reached skill level 1 in Armour
+  5545 | D:6      | Reached skill level 1 in Necromancy
+  5717 | D:7      | Found a transporter.
+  5987 | D:7      | Learned a level 3 spell: Vampiric Draining
+  6110 | D:7      | Found a transporter.
+  6171 | D:7      | Found Kuewnosi's Weapon Shoppe.
+  6205 | D:7      | Reached skill level 1 in Slings
+  6533 | D:7      | shields 3.1
+  6534 | D:7      | aed adv 3.5
+  6534 | D:7      | shield 0, aed adv 3.3
+  6936 | D:8      | Reached *** piety under Kikubaaqudgha
+  6936 | D:8      | Identified Kikubaaqudgha's Almanac of Evil Arts
+                  | (Kikubaaqudgha gifted it to you on level 8 of the Dungeon)
+  6936 | D:8      | Received a gift from Kikubaaqudgha
+  7190 | D:9      | Noticed Erica
+  7893 | D:4      | Bought a glowing ring mail for 154 gold pieces
+  7925 | D:4      | Learned a level 1 spell: Pain
+  8103 | D:9      | Noticed Maurice
+  8132 | D:9      | Killed Maurice
+  8132 | D:9      | Reached XP level 10. HP: 85/88 MP: 11/11
+  8247 | D:10     | Entered Level 10 of the Dungeon
+  8406 | D:9      | Reached skill level 5 in Shields
+  8775 | D:8      | Learned a level 2 spell: Call Imp
+  8818 | D:9      | Killed Erica
+  8818 | D:9      | Reached skill level 5 in Necromancy
+  9466 | D:5      | Reached skill level 1 in Spellcasting
+  9477 | D:5      | Reached **** piety under Kikubaaqudgha
+  9484 | D:5      | Reached skill level 1 in Axes
+  9624 | D:10     | Noticed a gargoyle
+  9950 | D:10     | Noticed a gargoyle
+  9967 | D:9      | Killed a gargoyle
+  9996 | D:10     | Noticed a brown ugly thing
+  9996 | D:10     | Noticed a death knight
+  9998 | D:10     | Noticed a centaur warrior
+  9999 | D:10     | Identified the +7 battleaxe "Abrakeov" {drain, rElec rF+
+                  | Str+3}
+ 10353 | D:9      | Reached XP level 11. HP: 67/97 MP: 13/13
+ 10515 | D:10     | Found a staircase to the Lair.
+ 10991 | D:10     | Found the +7 Kryia's mail coat {PotionHeal*2 rC+}
+ 11535 | D:11     | Noticed Snorg
+ 11556 | D:11     | HP: 2/97 [something (9)]
+ 11557 | D:11     | Slain by an unseen horror (3 damage)
+ 11558 | D:11     | Noticed an unseen horror
+ 11562 | D:11     | Killed an unseen horror
+ 11562 | D:11     | Reached skill level 5 in Stealth
+ 11585 | D:11     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 |
+---------------+----------------------------------+-----
+Unarmed Combat |     4  5        6     8        9 |  9.0
+Short Blades   |              1  2              3 |  3.0
+Fighting       |              4  5  7  8     9    |  9.0
+Throwing       |                 1                |  1.4
+Evocations     |                    1  3     4    |  4.4
+Shields        |                          4  6    |  6.0
+Armour         |                          2       |  2.1
+Necromancy     |                          4  6  7 |  7.0
+Slings         |                          3       |  3.0
+Stealth        |                          3  4  5 |  5.3
+Summonings     |                             2    |  2.5
+Spellcasting   |                             1    |  1.0
+Axes           |                             1    |  1.0
+Dodging        |                                  |  2.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Unarmed           | 24094 | 28136 |  8185 |   157 || 60572
+       Punch             |   131 |   124 |       |       ||   255
+       Short sword       |       |    19 |   116 |    90 ||   225
+       Flail             |       |       |       |     7 ||     7
+ Fire: Fustibalus        |       |       |    39 |   108 ||   147
+Throw: Stone             |    81 |    29 |    31 |       ||   141
+       Tomahawk          |       |     9 |    22 |     2 ||    33
+ Cast: Animate Skeleton  |       |       |     3 |    11 ||    14
+       Corpse Rot        |       |       |       |     2 ||     2
+Invok: Receive Corpses   |       |       |       |     2 ||     2
+Evoke: Wand              |       |       |     4 |     2 ||     6
+  Use: Scroll            |     3 |     5 |     7 |     6 ||    21
+       Potion            |     2 |     1 |       |     4 ||     7
+ Stab: Sleeping          |     4 |     1 |       |       ||     5
+       Confused          |       |       |     1 |       ||     1
+       Invisible         |       |       |       |     2 ||     2
+       Distracted        |       |       |       |     1 ||     1
+  Eat: Chunk             |     4 |    21 |    12 |    18 ||    55
+       Ration            |       |       |     2 |       ||     2
+Armor: Robe              |     2 |       |       |       ||     2
+       Ring mail         |  2552 |  2489 |     5 |    51 ||  5097
+       Leather armour    |     2 |       |       |       ||     2
+       Chain mail        |   895 |    31 |     5 |       ||   931
+       Scale mail        |       |       |  1163 |    28 ||  1191
+Dodge: Dodged            |  7218 |  7300 |  1983 |   107 || 16608
+Block: Shield            |  5999 |  8418 |  3075 |   199 || 17691
+

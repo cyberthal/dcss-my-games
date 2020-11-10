@@ -1,0 +1,372 @@
+Caaq
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a +0 club
+(13, -16, D:1)
+  a +0 dagger
+  a +0 short sword
+(14, -28, D:1)
+  a +0 dagger
+(15, -15, D:1)
+  a +0 short sword
+(18, -17, D:1)
+  a +0 short sword
+(33, -28, D:1)
+  a +0 robe
+(34, -33, D:1)
+  a +0 club
+(35, -8, D:1)
+  a +0 robe
+(36, -27, D:1)
+  a +0 whip
+(38, -36, D:1)
+  a +0 dagger
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 club
+(5, -2, D:2)
+  a cursed -1 dagger
+(10, -4, D:2)
+  a +0 club
+(16, -10, D:2)
+  a cursed -1 club
+(19, -8, D:2)
+  a +0 club
+(27, -34, D:2)
+  a cursed -1 club
+(31, -28, D:2)
+  a +0 falchion
+(31, -20, D:2)
+  a +0 robe
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a +0 flail
+(1, 4, D:3)
+  a +0 robe
+(9, 24, D:3)
+  a +0 whip
+(28, -5, D:3)
+  a cursed +0 club
+(31, 29, D:3)
+  a +0 dagger
+(38, 5, D:3)
+  a +0 club
+(43, 8, D:3)
+  a +0 rapier
+
+Level 4 of the Dungeon
+(0, 0, D:4)
+  a +0 dagger
+(11, -16, D:4)
+  a +0 leather armour
+(12, -17, D:4)
+  a +0 quarterstaff
+  a +0 flail
+  a +0 ring mail
+  a +0 dagger
+  a cursed -2 robe
+(21, -12, D:4)
+  a +0 ring mail
+(33, -39, D:4)
+  a +0 quarterstaff
+(34, -37, D:4)
+  a +0 giant spiked club
+
+Level 5 of the Dungeon
+(0, 0, D:5)
+  a +0 dagger
+(3, 18, D:5)
+  a +0 ring mail
+(15, -17, D:5)
+  a +0 mace
+(16, 3, D:5)
+  a +0 shortbow
+(25, -1, D:5)
+  a +0 plate armour
+(28, 3, D:5)
+  a +0 dagger
+  (unseen)
+(41, 7, D:5)
+  a +0 whip
+
+Level 6 of the Dungeon
+(0, 0, D:6)
+  a +0 mace
+(9, 17, D:6)
+  a +0 hand axe
+  a +0 animal skin
+(15, 14, D:6)
+  a +0 leather armour
+  a +0 rapier
+(16, -6, D:6)
+  a +0 halberd
+(28, 23, D:6)
+  a +0 robe
+(33, 26, D:6)
+  a +0 rapier
+(34, -3, D:6)
+  a +0 dagger
+(37, -9, D:6)
+  a +0 dagger
+(51, 6, D:6)
+  a +0 leather armour
+(51, 12, D:6)
+  a +0 flail
+
+Level 7 of the Dungeon
+(4, 7, D:7)
+  a +0 flail
+  a cursed +0 ring mail
+(5, -19, D:7)
+  a +0 scale mail
+(5, 7, D:7)
+  a +0 flail
+  a +0 leather armour
+(30, 10, D:7)
+  a +0 spear
+(31, 17, D:7)
+  a +0 flail
+(37, 1, D:7)
+  a +0 ring mail
+  a +0 long sword
+  a +0 ring mail
+  a +0 long sword
+(38, -8, D:7)
+  a cursed +0 robe
+(40, 3, D:7)
+  a +0 robe
+  a +0 mace
+  a +0 mace
+  a +0 flail
+  a +0 ring mail
+(41, 0, D:7)
+  a +0 robe
+(41, 2, D:7)
+  a +0 leather armour
+  a +0 mace
+(43, -6, D:7)
+  a +0 robe
+  a +3 long sword
+(44, -16, D:7)
+  a +0 dagger
+(44, 17, D:7)
+  a +0 trident
+(50, -20, D:7)
+  a +0 vampiric whip
+  a +0 robe
+  a +0 dagger
+(51, -20, D:7)
+  a +0 ring mail
+  a +0 whip
+
+Level 8 of the Dungeon
+[Shop] Vanaag's Antique Weapon Emporium
+  a +0 trident (115 gold)
+  a +0 club (33 gold)
+  a +0 falchion (99 gold)
+  a +0 flail (115 gold)
+  a +0 glaive (214 gold)
+  a +0 dagger (66 gold)
+  a +0 dagger (66 gold)
+  a +0 dagger (66 gold)
+  a +0 falchion (99 gold)
+  a +0 trident (115 gold)
+(0, 0, D:8)
+  a +0 dagger
+(2, -10, D:8)
+  a +0 chain mail
+  (unseen)
+(3, 17, D:8)
+  a +0 flail of crushing
+  a +0 hand axe
+(9, -13, D:8)
+  a +0 scimitar
+(13, -13, D:8)
+  a +0 robe
+(13, 4, D:8)
+  a +0 whip
+  a +0 battleaxe
+(14, -14, D:8)
+  a cursed +0 pair of boots
+(14, 4, D:8)
+  a +0 club
+(15, -14, D:8)
+  a +0 leather armour
+  a +0 dagger
+(19, 18, D:8)
+  a +0 giant club
+(24, 2, D:8)
+  a +0 short sword
+(26, 27, D:8)
+  a +0 leather armour
+  a +0 hand axe
+(26, 29, D:8)
+  a +0 giant club
+  a +0 giant club
+(27, 27, D:8)
+  a +0 ring mail
+(27, 28, D:8)
+  a cursed -1 giant club
+  a +0 giant club
+(28, 29, D:8)
+  a +0 short sword
+  (unseen)
+(29, 20, D:8)
+  a +0 scale mail
+  a +0 mace
+(30, 4, D:8)
+  a +1 short sword of venom
+(35, 11, D:8)
+  a +0 trident
+  a +0 leather armour
+(35, 13, D:8)
+  a +0 mace
+(39, 10, D:8)
+  a +0 dagger
+(40, 8, D:8)
+  a +0 dagger
+  a +0 robe
+  a +0 giant spiked club
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a +0 giant spiked club
+  (unseen)
+(0, 3, D:9)
+  a +0 giant spiked club
+(4, 0, D:9)
+  a +0 shortbow
+(7, 6, D:9)
+  a +0 trident
+(9, 11, D:9)
+  a +0 leather armour
+  a +0 quarterstaff
+  a +0 hunting sling
+  a +0 giant spiked club
+  a +0 giant spiked club
+(10, -6, D:9)
+  a +1 centaur barding of fire resistance
+  a +2 scale mail of fire resistance
+(12, -25, D:9)
+  a +0 scale mail
+(36, -7, D:9)
+  a +0 chain mail
+  a +0 flail
+(38, -17, D:9)
+  a +0 hand axe
+
+Level 10 of the Dungeon
+(0, 0, D:10)
+  a +0 plate armour
+(2, 8, D:10)
+  a +0 leather armour
+  a +0 war axe
+(3, -8, D:10)
+  a cursed -1 club
+(4, 6, D:10)
+  a +0 dagger
+(13, -16, D:10)
+  a +0 great sword
+  a +0 robe
+(14, -18, D:10)
+  a +0 whip
+(15, -17, D:10)
+  a +0 club
+(16, -15, D:10)
+  a cursed -3 short sword
+(16, -14, D:10)
+  a +0 club
+(20, 3, D:10)
+  a +0 plate armour
+(23, -17, D:10)
+  a +0 ring mail
+(24, -6, D:10)
+  a +0 chain mail
+(25, -4, D:10)
+  a +0 flail
+(29, -17, D:10)
+  a +0 rapier
+(32, -6, D:10)
+  +0 acid dragon scales
+  a +1 leather armour of cold resistance
+(33, -6, D:10)
+  a +0 scimitar of electrocution
+  52 bolts
+  2 tomahawks of returning {!f}
+  a +2 vampiric whip
+(34, -15, D:10)
+  a +0 chain mail
+  a +0 glaive
+(34, -12, D:10)
+  a +0 trident
+(34, -6, D:10)
+  a +4 halberd of freezing
+  a +1 battleaxe of electrocution
+  255 arrows
+  the +2 scythe "Gabah" {speed, MR+ Str+4 Int-4 SInv}
+    Attacks with this weapon are significantly faster.
+    
+    It affects your strength (+4).
+    It affects your intelligence (-4).
+    It affects your resistance to hostile enchantments.
+    It lets you see invisible.
+(35, -12, D:10)
+  a large rock
+(35, -6, D:10)
+  an uncursed amulet of harm
+  a +2 ring of strength
+  a potion of ambrosia
+  5 scrolls of amnesia
+(35, -1, D:10)
+  a +0 robe
+  a +0 dagger
+(36, -13, D:10)
+  3 large rocks
+(38, -14, D:10)
+  2 large rocks
+(38, 18, D:10)
+  a +0 buckler
+(44, -25, D:10)
+  a +0 dagger
+(47, 20, D:10)
+  a +0 robe
+(50, 12, D:10)
+  a +0 whip
+(52, -10, D:10)
+  a +0 dagger
+(52, 3, D:10)
+  a +0 chain mail
+(55, -15, D:10)
+  a +0 trident
+(59, 15, D:10)
+  a +0 club
+
+the Ecumenical Temple
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  a +0 morningstar
+(5, -17, Lair:1)
+  a +0 battleaxe
+(23, -2, Lair:1)
+  a +0 hand crossbow
+(29, 10, Lair:1)
+  a potion of cancellation
+  22 arrows
+(65, 20, Lair:1)
+  a +0 scale mail
+
+Level 2 of the Lair of Beasts
+(6, -21, Lair:2)
+  a potion of cancellation
+  23 arrows
+(7, -12, Lair:2)
+  a +0 robe
+(28, -11, Lair:2)
+  a +0 robe
+(29, 5, Lair:2)
+  a +0 falchion
+

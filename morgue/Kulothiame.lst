@@ -1,0 +1,626 @@
+Kulothiame
+
+Level 1 of the Dungeon
+(0, 0, D:1)
+  a leather armour
+(20, 19, D:1)
+  a robe
+(29, -7, D:1)
+  a short sword
+(38, -6, D:1)
+  a +0 club
+(56, 42, D:1)
+  a +0 club
+
+Level 2 of the Dungeon
+(0, 0, D:2)
+  a +0 robe
+  a +0 dagger
+(1, -2, D:2)
+  a +0 leather armour
+  a +0 robe
+  a +0 hand axe
+  a +0 ring mail
+  a +0 dagger
+  a +0 club
+(2, -1, D:2)
+  a +0 leather armour
+  a +0 club
+(10, 8, D:2)
+  a +0 dagger
+(26, 0, D:2)
+  a potion of lignification
+(26, 37, D:2)
+  a potion of mutation
+(29, 0, D:2)
+  a +0 club
+(42, -7, D:2)
+  a +0 ring mail
+  a +0 war axe
+(43, -7, D:2)
+  a +0 scale mail
+  a +0 dagger
+(43, -2, D:2)
+  a +0 club
+  a +0 short sword
+(44, -6, D:2)
+  a +0 short sword
+(44, 34, D:2)
+  a +0 short sword
+(45, 3, D:2)
+  a +0 club
+(46, 34, D:2)
+  a +0 club
+
+Level 3 of the Dungeon
+(0, 0, D:3)
+  a leather armour
+(2, 12, D:3)
+  a leather armour
+(3, 4, D:3)
+  a +0 club
+(5, 16, D:3)
+  a +0 ring mail
+(7, 35, D:3)
+  a club
+(25, 12, D:3)
+  a rapier
+(29, 12, D:3)
+  a cursed -1 dagger
+(33, 24, D:3)
+  a +0 leather armour
+
+Level 4 of the Dungeon
+(9, -25, D:4)
+  a dagger
+(31, -9, D:4)
+  a hand axe
+(35, -20, D:4)
+  a ring mail
+(43, -16, D:4)
+  a cursed -1 giant spiked club
+
+Level 5 of the Dungeon
+[Shop] Ifatan's General Store
+  16 stones (17 gold)
+  a +0 scale mail (44 gold)
+  a +2 flail of protection (178 gold)
+  14 stones (15 gold)
+  5 needles of paralysis (33 gold)
+  the +5 arbalest "Fuarph" {flame, Str-2 Dex+4} (487 gold)
+    It causes projectiles fired from it to burn those they strike, causing extra
+    injury to most foes and up to half again as much damage against particularly
+    susceptible opponents.
+    
+    It affects your strength (-2).
+    It affects your dexterity (+4).
+  a ration (55 gold)
+  a potion of mutation (88 gold)
+(0, 0, D:5)
+  a +0 leather armour
+(2, 1, D:5)
+  a +0 giant spiked club
+(10, -23, D:5)
+  a cursed +0 club
+(13, -5, D:5)
+  a +0 whip
+(22, -19, D:5)
+  a +0 flail
+  a +1 pair of gloves
+(24, -19, D:5)
+  a +0 robe
+  a +0 club
+(31, -21, D:5)
+  a potion of mutation
+(50, -15, D:5)
+  a +0 leather armour
+  a +0 dagger
+  a +0 dagger
+  a +0 chain mail
+  a +0 falchion
+  a +0 leather armour
+
+Level 6 of the Dungeon
+(1, -13, D:6)
+  a scale mail
+(2, 7, D:6)
+  a spear
+(5, -19, D:6)
+  a +0 animal skin
+(22, -11, D:6)
+  a falchion
+(24, -33, D:6)
+  a +0 leather armour
+  a +0 dagger
+(28, -40, D:6)
+  a +0 hand axe
+  a +0 robe
+  a +0 dagger
+(38, -40, D:6)
+  a +0 spear
+(42, -8, D:6)
+  a cursed -1 giant club
+
+Level 7 of the Dungeon
+(5, -1, D:7)
+  a robe
+(11, -8, D:7)
+  a quarterstaff
+(12, -15, D:7)
+  a +0 leather armour
+  a +0 falchion of holy wrath
+(12, 9, D:7)
+  a mace
+(22, -10, D:7)
+  a +0 dagger
+  a +0 robe
+(34, -11, D:7)
+  a +0 club
+(35, -11, D:7)
+  a +0 robe
+  a +0 dagger
+(36, 15, D:7)
+  a leather armour
+(37, -13, D:7)
+  a +0 whip
+(42, -6, D:7)
+  a +0 mace of protection
+(42, -4, D:7)
+  a cursed +0 giant club
+  (unseen)
+(50, -3, D:7)
+  a dagger
+(54, -20, D:7)
+  a potion of berserk rage
+
+Level 8 of the Dungeon
+(0, 0, D:8)
+  a +0 shortbow
+(5, -16, D:8)
+  an amulet of faith
+(14, -36, D:8)
+  a +0 robe
+  a +0 dagger
+(14, -10, D:8)
+  a ring mail
+(16, -36, D:8)
+  a +0 giant club
+(23, -14, D:8)
+  a +1 long sword of slicing
+(23, -2, D:8)
+  a robe
+(28, -39, D:8)
+  a +0 giant club
+(30, -40, D:8)
+  a +0 leather armour
+  a +0 short sword
+  a +0 short sword
+  a +0 falchion
+(31, -38, D:8)
+  a +0 ring mail
+  a +0 leather armour
+  a +0 club
+(31, 1, D:8)
+  a +0 plate armour
+  (unseen)
+(32, 0, D:8)
+  a +0 chain mail
+  (unseen)
+(48, -14, D:8)
+  a whip
+(50, -17, D:8)
+  a robe
+(51, -6, D:8)
+  a +0 shortbow
+
+Level 9 of the Dungeon
+(0, 0, D:9)
+  a scale mail
+(2, -7, D:9)
+  a war axe
+(23, 50, D:9)
+  a pair of gloves
+(26, 44, D:9)
+  a +0 club
+(26, 46, D:9)
+  a +0 animal skin
+  a +0 spear
+(27, 18, D:9)
+  a +0 club
+(27, 19, D:9)
+  a +0 mace
+  a +0 ring mail
+(35, 14, D:9)
+  a +0 hand axe
+(43, 19, D:9)
+  a +0 flail
+(43, 20, D:9)
+  a +0 dagger
+(44, 8, D:9)
+  a +0 mace
+(50, 9, D:9)
+  a scale mail
+
+Level 10 of the Dungeon
+[Shop] Engas's Distillery
+  a potion of mutation (104 gold)
+  a potion of flight (39 gold)
+  a potion of lignification (39 gold)
+  a potion of curing (39 gold)
+  a potion of brilliance (52 gold)
+  a potion of flight (39 gold)
+(0, 0, D:10)
+  a +0 dire flail
+  a +0 giant spiked club
+(4, 22, D:10)
+  a scale mail
+(14, 8, D:10)
+  2 large rocks
+(34, 31, D:10)
+  a potion of degeneration
+(51, -24, D:10)
+  a glowing mace
+(52, -16, D:10)
+  a +0 giant club
+(53, -17, D:10)
+  a +0 shortbow
+(56, 1, D:10)
+  a long sword
+
+Level 11 of the Dungeon
+(0, 0, D:11)
+  a +0 giant club
+  a +0 dire flail
+(3, -12, D:11)
+  a flail
+(3, 15, D:11)
+  a mace
+(5, -1, D:11)
+  a chain mail
+(7, -12, D:11)
+  a +0 shortbow
+(7, -2, D:11)
+  a cursed +0 robe
+  a +0 dagger
+(8, -9, D:11)
+  3 large rocks
+(10, -2, D:11)
+  a +0 robe
+  a +0 dagger
+(11, -3, D:11)
+  a +0 dagger
+(12, -5, D:11)
+  a +0 short sword
+(15, 0, D:11)
+  a +2 cloak
+  a +2 pair of gloves
+  a +0 scale mail
+(16, -1, D:11)
+  a runed falchion
+(16, 0, D:11)
+  83 sling bullets
+  5 silver javelins
+  5 javelins
+  2 steel javelins
+  a +0 trident
+  8 needles of sleeping
+  52 poisoned needles
+  106 bolts
+  a +0 falchion of flaming
+(17, -8, D:11)
+  a large rock
+(17, -1, D:11)
+  a runed battleaxe
+(17, 0, D:11)
+  a +0 halberd
+(17, 1, D:11)
+  a +0 longbow
+(18, -1, D:11)
+  2 scrolls of identify
+(18, 0, D:11)
+  a potion of magic
+  4 potions of flight
+  2 scrolls of noise
+  6 scrolls of immolation
+  5 scrolls of amnesia
+  a wand of digging (5)
+(18, 1, D:11)
+  an uncursed ring of attention
+  an uncursed amulet of the gourmand
+  an uncursed amulet of rage
+(24, -3, D:11)
+  a falchion
+(29, 8, D:11)
+  a club
+(36, 17, D:11)
+  a morningstar
+(37, -14, D:11)
+  a leather armour
+(37, -13, D:11)
+  a ring mail
+(48, 18, D:11)
+  a flail
+
+Level 12 of the Dungeon
+(0, 0, D:12)
+  22 stones
+(30, -19, D:12)
+  a ration
+(30, 16, D:12)
+  an arrow
+(31, -25, D:12)
+  a +1 ring of evasion
+(33, 15, D:12)
+  an arrow
+(33, 20, D:12)
+  17 gold pieces
+
+the Ecumenical Temple
+
+Level 1 of the Orcish Mines
+(0, 0, Orc:1)
+  18 gold pieces
+(0, 15, Orc:1)
+  a +0 leather armour
+  a +0 short sword
+(1, 14, Orc:1)
+  a cursed -1 falchion
+(1, 15, Orc:1)
+  a +0 flail
+  a +0 flail
+(1, 17, Orc:1)
+  a +0 hand axe
+(2, 15, Orc:1)
+  a +0 chain mail
+  a +0 scimitar
+  a +0 war axe
+  a +0 club
+  a +1 vampiric dagger
+  a +0 giant club
+(2, 16, Orc:1)
+  a +0 plate armour
+  a +0 battleaxe
+  a +1 plate armour of poison resistance
+  a +0 short sword
+(2, 17, Orc:1)
+  a +0 ring mail
+  a +0 war axe
+(3, 0, Orc:1)
+  20 gold pieces
+(3, 15, Orc:1)
+  a cursed +0 chain mail
+  a +0 short sword
+
+Level 2 of the Orcish Mines
+(0, 0, Orc:2)
+  10 gold pieces
+(0, 8, Orc:2)
+  9 gold pieces
+(2, -3, Orc:2)
+  19 gold pieces
+(4, -3, Orc:2)
+  25 gold pieces
+(5, 2, Orc:2)
+  a tomahawk
+(5, 4, Orc:2)
+  a +0 dagger
+(6, 3, Orc:2)
+  a +0 giant club
+  (unseen)
+(7, 4, Orc:2)
+  an orc skeleton
+
+Level 1 of the Lair of Beasts
+(0, 0, Lair:1)
+  the +4 rapier of Destiny {protect, *Drain rPois Dex+5}
+    It protects the one who uses it against injury (+AC on strike).
+    
+    It affects your dexterity (+5).
+    It protects you from poison.
+    It causes draining when unequipped.
+(6, -40, Lair:1)
+  a shortbow
+(18, -40, Lair:1)
+  a flail
+(30, -32, Lair:1)
+  a leather armour
+(43, -45, Lair:1)
+  a chain mail
+(46, -47, Lair:1)
+  a ring mail
+
+Level 2 of the Lair of Beasts
+(0, 0, Lair:2)
+  a potion of degeneration
+(11, -1, Lair:2)
+  a morningstar
+(16, 26, Lair:2)
+  a stone
+(21, -22, Lair:2)
+  a leather armour
+(30, 14, Lair:2)
+  a flail
+(40, 15, Lair:2)
+  a leather armour
+(44, 6, Lair:2)
+  a +0 robe
+  a +0 rapier
+(45, 0, Lair:2)
+  a plate armour
+
+Level 3 of the Lair of Beasts
+(0, 0, Lair:3)
+  a +0 shortbow
+(1, 0, Lair:3)
+  a +0 shortbow
+(2, 2, Lair:3)
+  a +0 shortbow
+(17, -18, Lair:3)
+  a hunting sling
+
+Level 4 of the Lair of Beasts
+(0, 0, Lair:4)
+  a falchion
+(34, 1, Lair:4)
+  a scimitar
+(47, -5, Lair:4)
+  a leather armour
+(53, -13, Lair:4)
+  a ring mail
+
+Level 5 of the Lair of Beasts
+(0, 0, Lair:5)
+  a chain mail
+(8, 9, Lair:5)
+  a plate armour
+(18, 9, Lair:5)
+  a sling bullet
+(25, 7, Lair:5)
+  a +2 centaur barding of flying
+(30, -7, Lair:5)
+  a potion of degeneration
+(32, 1, Lair:5)
+  an arbalest
+(51, 3, Lair:5)
+  a robe
+
+Level 6 of the Lair of Beasts
+(0, 0, Lair:6)
+  an arrow
+(2, 37, Lair:6)
+  an arrow
+(2, 38, Lair:6)
+  an arrow
+(2, 43, Lair:6)
+  23 gold pieces
+(3, -3, Lair:6)
+  an arrow
+(3, 39, Lair:6)
+  an arrow
+(3, 49, Lair:6)
+  an arrow
+(5, 47, Lair:6)
+  an arrow
+(8, 46, Lair:6)
+  a ration
+(9, 5, Lair:6)
+  an arrow
+(9, 29, Lair:6)
+  +0 acid dragon scales
+(9, 53, Lair:6)
+  an arrow
+(10, 28, Lair:6)
+  an arrow
+(10, 53, Lair:6)
+  an arrow
+(12, 2, Lair:6)
+  an arrow
+(13, 3, Lair:6)
+  an arrow
+(13, 24, Lair:6)
+  an arrow
+(14, 7, Lair:6)
+  an arrow
+(14, 12, Lair:6)
+  an arrow
+(14, 18, Lair:6)
+  a fine scale mail
+(14, 22, Lair:6)
+  an arrow
+(14, 23, Lair:6)
+  an arrow
+(15, 13, Lair:6)
+  an arrow
+(15, 19, Lair:6)
+  an arrow
+(15, 22, Lair:6)
+  an arrow
+(16, 14, Lair:6)
+  an arrow
+(16, 15, Lair:6)
+  an arrow
+(22, 53, Lair:6)
+  an arrow
+(25, 53, Lair:6)
+  an arrow
+(29, 18, Lair:6)
+  25 arrows
+(36, 18, Lair:6)
+  an arrow
+(37, 53, Lair:6)
+  13 sling bullets
+(39, 21, Lair:6)
+  an arrow
+(40, 9, Lair:6)
+  an arrow
+(40, 19, Lair:6)
+  22 stones
+(40, 32, Lair:6)
+  12 gold pieces
+(41, 6, Lair:6)
+  an arrow
+(45, 39, Lair:6)
+  an arrow
+(46, 4, Lair:6)
+  an arrow
+(47, 26, Lair:6)
+  3 arrows
+(47, 37, Lair:6)
+  an arrow
+(48, 3, Lair:6)
+  an arrow
+(48, 51, Lair:6)
+  an arrow
+(49, 49, Lair:6)
+  an arrow
+(50, 2, Lair:6)
+  an arrow
+(50, 3, Lair:6)
+  an arrow
+(50, 49, Lair:6)
+  a battleaxe
+(54, 43, Lair:6)
+  an arrow
+(56, 41, Lair:6)
+  an arrow
+(56, 47, Lair:6)
+  an arrow
+(57, 2, Lair:6)
+  an arrow
+(57, 7, Lair:6)
+  an arrow
+(57, 42, Lair:6)
+  an arrow
+(58, 41, Lair:6)
+  an arrow
+(58, 42, Lair:6)
+  an arrow
+(58, 43, Lair:6)
+  an arrow
+(59, 4, Lair:6)
+  an arrow
+(59, 13, Lair:6)
+  an arrow
+(59, 22, Lair:6)
+  an arrow
+(59, 39, Lair:6)
+  2 arrows
+(59, 41, Lair:6)
+  an arrow
+(60, 21, Lair:6)
+  an arrow
+(60, 41, Lair:6)
+  an arrow
+(60, 44, Lair:6)
+  an arrow
+(61, 17, Lair:6)
+  an arrow
+(62, 7, Lair:6)
+  an arrow
+(62, 32, Lair:6)
+  an arrow
+(63, 25, Lair:6)
+  an arrow
+(64, 40, Lair:6)
+  a robe
+

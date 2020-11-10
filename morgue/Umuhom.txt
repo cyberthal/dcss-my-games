@@ -1,0 +1,222 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12271701811301662349
+
+Umuhom the Ninja (Octopode Venom Mage)                Turns: 24, Time: 00:02:59
+
+Health: 49/49      AC:  7    Str:  7    XL:     1   Next: 0%
+Magic:  28/28      EV: 29    Int: 17    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 50/54 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   (helmet restricted)
+rPois    ?          Spirit   .   (no amulet)
+rElec    .         Reflect  .   (no ring)
+rCorr    .         Harm     .   (no ring)
+MR       +....                  (no ring)
+Stlth    +++++++++.             (no ring)
+HPRegen  0.16/turn              (no ring)
+MPRegen  0.21/turn              (no ring)
+                                (no ring)
+                                (no ring)
+
+@: lich-form
+A: almost no armour, stealthy swim, amphibious, 8 rings, constrict 8, camouflage
+1, gelatinous body 1
+a: End Transformation
+
+
+You are on level 1 of the Dungeon.
+You are not hungry.
+
+You are a lich.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Potions
+ a - 11 potions of ambrosia
+Comestibles
+ b - a ration
+
+
+   Skills:
+ O Level 27 Fighting
+ O Level 27 Short Blades
+ O Level 27 Long Blades
+ O Level 27 Axes
+ O Level 27 Maces & Flails
+ O Level 27 Polearms
+ O Level 27 Staves
+ O Level 27 Slings
+ O Level 27 Bows
+ O Level 27 Crossbows
+ O Level 27 Throwing
+ O Level 27 Dodging
+ O Level 27 Stealth
+ O Level 27 Shields
+ O Level 27 Unarmed Combat
+ O Level 27 Spellcasting
+ O Level 27 Conjurations
+ O Level 27 Hexes
+ O Level 27 Charms
+ O Level 27 Summonings
+ O Level 27 Necromancy
+ O Level 27 Translocations
+ O Level 27 Transmutations
+ O Level 27 Fire Magic
+ O Level 27 Ice Magic
+ O Level 27 Air Magic
+ O Level 27 Earth Magic
+ O Level 27 Poison Magic
+ O Level 27 Invocations
+ O Level 27 Evocations
+
+
+You have 50 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      25 (25)      0%          1    N/A
+b - Mephitic Cloud        Conj/Pois/Air  86 (100)     0%          3    N/A
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       50 (50)      0%          2    N/A
+ Olgreb's Toxic Radiance  Pois           86 (100)     0%          4    N/A
+ Venom Bolt               Conj/Pois      86 (200)     0%          5    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear most types of armour.
+You are very stealthy in the water. (Stealth+)
+You are amphibious.
+You can wear up to eight rings at the same time.
+You can use your tentacles to constrict eight enemies at once.
+Your skin changes colour to match your surroundings (Stealth+).
+Your rubbery body absorbs attacks. (AC +1, EV +1)
+
+
+Message History
+
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? !
+What type of item? amb
+Potion of ambrosia
+Something appears before you!
+a - 12 potions of ambrosia
+You are confused.
+You feel invigorated.
+Enter Wizard Command (? - help): 
+[a] none       [b] spider     [c] blade      [d] statue     [e] ice        
+[f] dragon     [g] lich       [h] bat        [i] pig        [j] appendage  
+[k] tree       [m] wisp       [o] fungus     
+[p] shadow     [q] hydra      
+Which form (ESC to exit)? 
+Your body is suffused with negative energy!
+You feel less invigorated.
+You feel less confused.
+
+..
+ .
+  .
+  #.
+  #.########
+  #........+
+  #.....<..#
+  #........#
+  #....L...###
+  #..........#
+  #............
+  #######.......
+         .......
+         .......
+          .....
+          .....
+           ....
+
+
+There are no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Umuhom the Octopode Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 11/11 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Reached XP level 2. HP: 17/17 MP: 5/5
+     0 | D:1      | Reached XP level 3. HP: 21/21 MP: 6/6
+     0 | D:1      | Reached XP level 4. HP: 27/27 MP: 7/7
+     0 | D:1      | Reached XP level 5. HP: 31/31 MP: 8/8
+     0 | D:1      | Reached XP level 6. HP: 36/36 MP: 9/9
+     0 | D:1      | Reached XP level 7. HP: 41/41 MP: 10/10
+     0 | D:1      | Reached XP level 8. HP: 46/46 MP: 11/11
+     0 | D:1      | Reached XP level 9. HP: 51/51 MP: 12/12
+     0 | D:1      | Reached XP level 10. HP: 56/56 MP: 13/13
+     0 | D:1      | Reached XP level 11. HP: 61/61 MP: 14/14
+     0 | D:1      | Reached XP level 12. HP: 66/66 MP: 15/15
+     0 | D:1      | Reached XP level 13. HP: 71/71 MP: 16/16
+     0 | D:1      | Reached XP level 14. HP: 76/76 MP: 17/17
+     0 | D:1      | Reached XP level 15. HP: 81/81 MP: 18/18
+     0 | D:1      | Reached XP level 16. HP: 86/86 MP: 19/19
+     0 | D:1      | Reached XP level 17. HP: 90/90 MP: 20/20
+     0 | D:1      | Reached XP level 18. HP: 96/96 MP: 21/21
+     0 | D:1      | Reached XP level 19. HP: 100/100 MP: 22/22
+     0 | D:1      | Reached XP level 20. HP: 106/106 MP: 23/23
+     0 | D:1      | Reached XP level 21. HP: 110/110 MP: 24/24
+     0 | D:1      | Reached XP level 22. HP: 116/116 MP: 25/25
+     0 | D:1      | Reached XP level 23. HP: 120/120 MP: 26/26
+     0 | D:1      | Reached XP level 24. HP: 126/126 MP: 26/26
+     0 | D:1      | Reached XP level 25. HP: 130/130 MP: 26/26
+     0 | D:1      | Reached XP level 26. HP: 135/135 MP: 26/26
+     0 | D:1      | Reached XP level 27. HP: 140/140 MP: 26/26
+     4 | D:1      | Learned a level 3 spell: Mephitic Cloud
+     9 | D:1      | Reached XP level 26. HP: 224/1117 MP: 53/54
+     9 | D:1      | Reached XP level 25. HP: 224/1110 MP: 53/54
+     9 | D:1      | Reached XP level 24. HP: 224/1104 MP: 53/54
+     9 | D:1      | Reached XP level 23. HP: 224/1097 MP: 53/54
+     9 | D:1      | Reached XP level 22. HP: 224/1090 MP: 53/53
+     9 | D:1      | Reached XP level 21. HP: 224/1083 MP: 52/52
+     9 | D:1      | Reached XP level 20. HP: 224/1077 MP: 51/51
+     9 | D:1      | Reached XP level 19. HP: 224/1070 MP: 50/50
+     9 | D:1      | Reached XP level 18. HP: 224/1063 MP: 49/49
+     9 | D:1      | Reached XP level 17. HP: 224/1056 MP: 48/48
+     9 | D:1      | Reached XP level 16. HP: 224/1050 MP: 47/47
+     9 | D:1      | Reached XP level 15. HP: 224/1043 MP: 46/46
+     9 | D:1      | Reached XP level 14. HP: 224/1037 MP: 45/45
+     9 | D:1      | Reached XP level 13. HP: 224/1030 MP: 44/44
+     9 | D:1      | Reached XP level 12. HP: 224/1024 MP: 43/43
+     9 | D:1      | Reached XP level 11. HP: 224/1017 MP: 42/42
+     9 | D:1      | Reached XP level 10. HP: 224/1010 MP: 41/41
+     9 | D:1      | Reached XP level 9. HP: 224/1003 MP: 40/40
+     9 | D:1      | Reached XP level 8. HP: 224/997 MP: 39/39
+     9 | D:1      | Reached XP level 7. HP: 224/990 MP: 37/37
+     9 | D:1      | Reached XP level 6. HP: 224/983 MP: 36/36
+     9 | D:1      | Reached XP level 5. HP: 224/976 MP: 34/34
+     9 | D:1      | Reached XP level 4. HP: 224/970 MP: 33/33
+     9 | D:1      | Reached XP level 3. HP: 224/963 MP: 31/31
+     9 | D:1      | Reached XP level 2. HP: 224/956 MP: 30/30
+     9 | D:1      | Reached XP level 1. HP: 224/949 MP: 28/28
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 | 16-18 | 19-21 | 22-24 | 25-27 || total
+-------------------------+-------+-------+-------+-------+-------+-------+-------+-------+-------++-------
+ Cast: Mephitic Cloud    |       |       |       |       |       |       |       |       |     1 ||     1
+ Abil: End Transformatio |     2 |       |       |       |       |       |       |       |     1 ||     3
+  Use: Potion            |     1 |       |       |       |       |       |       |       |       ||     1
+

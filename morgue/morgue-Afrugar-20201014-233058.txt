@@ -1,0 +1,201 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9169653359165658042
+
+35 Afrugar the Sneak (level 3, -2/16 HPs)
+             Began as a Vine Stalker Enchanter on Oct 14, 2020.
+             Slain by an adder (3 damage)
+             ... on level 2 of the Dungeon.
+             The game lasted 00:21:02 (1995 turns).
+
+Afrugar the Sneak (Vine Stalker Enchanter)          Turns: 1995, Time: 00:21:03
+
+Health: -2/16      AC:  2    Str: 10    XL:     3   Next: 35%
+Magic:  0/7        EV: 12    Int: 21    God:    
+Gold:   45         SH:  3    Dex: 14    Spells: 0/6 levels left
+
+rFire    . . .     SeeInvis .   a - +1 dagger
+rCold    . . .     Gourm    .   f - +0 buckler
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   +   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.10/turn              (no ring)
+
+@: brilliant, lethally poisoned (-2 -> -13), very slightly contaminated
+A: fangs 2, magic shield, antimagic bite, no potion heal 3, rot immunity
+a: no special abilities
+
+
+You were on level 2 of the Dungeon.
+You were near starving.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 45 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +1 dagger (weapon)
+Missiles
+ c - 45 stones (quivered)
+ k - 9 poisoned needles
+Armour
+ b - a +0 robe (worn)
+ f - a +0 buckler (worn)
+ h - a +2 shield
+ j - a +0 scale mail
+Scrolls
+ e - a scroll of remove curse
+ g - a scroll of amnesia {unknown}
+ l - a scroll of enchant armour {unknown}
+Comestibles
+ d - a ration
+
+
+   Skills:
+ - Level 0.1 Fighting
+ + Level 1.9 Short Blades
+ - Level 2.1 Dodging
+ - Level 3.7 Stealth
+ * Level 0.6 Shields
+ - Level 2.1 Spellcasting
+ - Level 3.0 Hexes
+ - Level 0.2 Ice Magic
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ####...      1%          1    #......
+b - Ensorcelled Hibernat  Hex/Ice        ###...       2%          2    ##.....
+c - Confuse               Hex            ####....     2%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Tukima's Dance           Hex            ####....     2%          3    ###....
+ Dazzling Spray           Conj/Hex       ###...       4%          3    ###....
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have extremely sharp teeth.
+When hurt, damage is shared between your health and your magic reserves.
+Your bite disrupts and absorbs the magic of your enemies.
+Potions cannot restore your health.
+You are immune to rotting.
+
+
+Message History
+
+You hit the adder. Your bite misses the adder.
+The adder is moderately wounded.
+You feel sick. The adder barely misses you. The adder bites you but does no
+damage.
+You miss the adder.
+The adder is moderately wounded.
+The adder bites you.
+You hit the adder. Your bite misses the adder.
+The adder is severely wounded.
+The adder closely misses you.
+It was a potion of brilliance.
+You feel clever all of a sudden.
+You block the adder's attack.
+As you read the scroll labeled LIYZOXK GIETZ, it crumbles to dust.
+You feel blessed for a moment. It was a scroll of remove curse.
+* * * LOW HITPOINT WARNING * * *
+You feel sick. The adder bites you.
+* * * LOW HITPOINT WARNING * * *
+You are more poisoned.
+The adder poisons you! The adder bites you.
+You die...
+
+      ##############
+     ##.....##.....##
+    ##........S.....##
+    #.........@......#
+    #...........<....#  ..
+.((..................# ...
+####.................##...
+   ##................#....
+   .........................
+  ...#).................####
+ ....##..!..............#
+ ..............##..#....#
+     ###.......##.##...##
+      .........##<.....#
+      ##...........(...#
+       .............((.#
+
+
+You could see an adder.
+
+Vanquished Creatures
+  An ooze (D:1)
+  A worm (D:2)
+  A dart slug (D:1)
+  A leopard gecko (D:1)
+  3 bats (D:1)
+  A giant cockroach (D:1)
+  4 goblins (D:1)
+  3 hobgoblins (D:1)
+  3 kobolds
+  A quokka (D:2)
+  A frilled lizard (D:1)
+  4 rats
+24 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Afrugar the Vine Stalker Enchanter began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 9/9 MP: 4/4
+    33 | D:1      | Reached skill level 1 in Short Blades
+   281 | D:1      | Reached XP level 2. HP: 13/13 MP: 6/6
+   709 | D:1      | Learned a level 2 spell: Ensorcelled Hibernation
+   940 | D:1      | Reached XP level 3. HP: 13/16 MP: 2/7
+  1235 | D:1      | Learned a level 3 spell: Confuse
+  1995 | D:2      | Slain by an adder
+
+Skill      XL: |  1 |
+---------------+----+-----
+Short Blades   |  1 |  1.9
+Dodging        |  2 |  2.1
+Fighting       |    |  0.1
+Stealth        |    |  3.7
+Shields        |    |  0.6
+Spellcasting   |    |  2.1
+Hexes          |    |  3.0
+Ice Magic      |    |  0.2
+
+Action                   || total
+-------------------------++-------
+Melee: Dagger            ||    65
+       Bite              ||    17
+Throw: Stone             ||    34
+ Cast: Corona            ||    31
+       Confuse           ||     6
+       Ensorcelled Hiber ||     3
+  Use: Scroll            ||     1
+       Potion            ||     1
+ Stab: Sleeping          ||     2
+  Eat: Chunk             ||     3
+Armor: Robe              ||     7
+Dodge: Dodged            ||    36
+Block: Buckler           ||     7
+

@@ -1,0 +1,125 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 693106341039202468
+
+0 Taufa the Grave Robber (level 1, 13/13 HPs) *WIZ*
+             Began as a Human Necromancer on Sept 12, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:04:30 (23 turns).
+
+Taufa the Grave Robber (Human Necromancer)            Turns: 23, Time: 00:04:30
+
+Health: 13/13      AC:  5    Str:  8    XL:     1   Next: 0%
+Magic:  3/3        EV: 10    Int: 15    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   d - +0 ring mail
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: no status effects
+A: no striking features
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe
+ b - a +0 leather armour
+ d - a +0 ring mail (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 2.0 Dodging
+ + Level 2.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 4.0 Necromancy
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Pain                  Necr           13 (25)      13%         1    20
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          13%         1    20
+ Vampiric Draining        Necr           13 (200)     36%         3    120
+ Regeneration             Chrm/Necr      7 (200)      65%         3    120
+ Animate Dead             Necr           N/A          78%         4    220
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Message History
+
+Enter Wizard Command (? - help): 
+) - weapons     ( - missiles  [ - armour  / - wands    ?  - scrolls
+= - jewellery   ! - potions   : - books   | - staves   }  - miscellany
+X - corpses     % - food      $ - gold    0  - the Orb
+ESC - exit
+What class of item? [
+What type of item? ring m
++0 ring mail
+What ego type? 
+Something appears at your feet!
+d - a +0 ring mail
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 leather armour. x4
+You finish taking off your +0 leather armour.
+You start putting on your armour.
+You continue putting on your +0 ring mail. x5
+You finish putting on your +0 ring mail.
+No target in view!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+######
+#....#
+#.@..+
+#....#
+#....#
+###..#
+   ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Taufa the Human Necromancer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 13/13 MP: 3/3
+     1 | D:1      | Entered wizard mode.
+    23 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           || 36000
+Armor: Robe              ||  3412
+Dodge: Dodged            || 18738
+

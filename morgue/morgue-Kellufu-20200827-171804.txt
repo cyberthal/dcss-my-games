@@ -1,0 +1,159 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 9508979349687198063
+
+0 Kellufu the Stinger (level 1, 9/9 HPs) *WIZ*
+             Began as a Spriggan Venom Mage on Aug 27, 2020.
+             Was an Initiate of Cheibriados.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:14 (12 turns).
+
+Kellufu the Stinger (Spriggan Venom Mage)             Turns: 12, Time: 00:01:14
+
+Health: 9/9        AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  3/4        EV: 16    Int: 16    God:    Cheibriados 20 (0)
+Gold:   0          SH:  0    Dex: 12    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis +   (weapon restricted)
+rCold    . . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.03/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Bend Time, Renounce Religion
+
+
+You were on level 1 of the Dungeon.
+You worshipped Cheibriados.
+Cheibriados was noncommittal.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.5 Dodging
+ + Level 3.0 Stealth
+ + Level 2.0 Spellcasting
+ + Level 1.0 Conjurations
+ + Level 4.0 Poison Magic
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Sting                 Conj/Pois      9 (25)       8%          1    18
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Poisonous Vapours        Pois/Air       8 (50)       14%         2    68
+ Mephitic Cloud           Conj/Pois/Air  6 (100)      30%         3    118
+ Olgreb's Toxic Radiance  Pois           14 (100)     36%         4    218
+ Venom Bolt               Conj/Pois      9 (200)      90%         5    368
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+You climb downwards.
+Found a stone staircase leading down and a stone staircase leading up.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Enter Wizard Command (? - help): 
+Enter new piety value (current = 200, Enter for 0): 
+Setting piety to 20.
+Cheibriados lowers the support of your attributes as your movement quickens.
+You climb downwards.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Enter Wizard Command (? - help): 
+What species would you like to be now? spriggan
+You climb downwards.
+There is a stone staircase leading up here.
+You climb upwards.
+There is a stone staircase leading down here.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                       #.#           #.#
+                       #.#           #.#
+##                     #.#      ######.#
+.##                    #.#      #......#
+..########             #.#      #.######
+........>###########   #.#      #.#
+.................(.#   #.#      #!#
+...........#######.#####.#      #.#
+#.##.##.#..#######.......#      #.#
+...(....#..............###      #.#####
+#.##.##.##.###########.#        #.....#
+.....##.##.#         #.#        #####.#
+#.......##.#         #.#            #.#
+#######.##.#         #@#            #.#
+      #.##.#         #.#            #.#
+      #.##.#         #.#            #.#
+      #.##.#         #.#            #.#
+#######.##.###########.####         #.#
+........##................##        #.#
+#####################......#        #.#
+#####################################.##
+#...##.#....#.....................#....#
+#.##.##...#....#....#.............#.#.##
+#..#.#.....#...#.#.#...}....###...#.###
+.#.##..##.##.......#..............#.#
+..#.#..#...#..#...#.(..########...#.#
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kellufu the Naga Venom Mage began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+     0 | D:1      | Entered wizard mode.
+     0 | D:1      | Became a worshipper of Cheibriados the Contemplative
+     0 | D:1      | Reached * piety under Cheibriados
+     0 | D:1      | Reached ** piety under Cheibriados
+     0 | D:1      | Reached *** piety under Cheibriados
+     0 | D:1      | Reached **** piety under Cheibriados
+     0 | D:1      | Reached ***** piety under Cheibriados
+     0 | D:1      | Reached ****** piety under Cheibriados
+    12 | D:1      | Quit the game
+

@@ -1,0 +1,398 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 2593694387107002476
+
+4362 Moent the Nimble (level 10, 46/46 HPs)
+             Began as a Spriggan Skald on Sept 11, 2020.
+             Was an Initiate of Kikubaaqudgha.
+             Quit the game on level 11 of the Dungeon on Sept 12, 2020.
+             The game lasted 02:34:35 (12326 turns).
+
+Moent the Nimble (Spriggan Skald)                  Turns: 12326, Time: 02:34:35
+
+Health: 46/46      AC:  6    Str:  7    XL:     10   Next: 12%
+Magic:  26/26      EV: 29    Int: 18    God:    Kikubaaqudgha [......]
+Gold:   182        SH:  0    Dex: 21    Spells: 6/17 levels left
+
+rFire    . . .     SeeInvis +   a - +3 hunting sling
+rCold    + . .     Gourm    .   (shield restricted)
+rNeg     . . .     Faith    .   x - +1 robe "Biclua" {Dex+5 Stlth-}
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   N - +2 cloak
+rCorr    .         Harm     .   (gloves unavailable)
+MR       +....                  (boots unavailable)
+Stlth    +++.......             f - amulet of magic regeneration
+HPRegen  0.15/turn              u - ring of protection from cold
+MPRegen  0.45/turn              S - ring of magical power
+
+@: very quick
+A: very small, unfitting armour, see invisible, herbivore, speed 3, slow
+metabolism 2
+a: Renounce Religion
+
+
+You were on level 11 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was noncommittal.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 10 of its levels.
+You also visited: Sewer, Ossuary and Bailey.
+
+You collected 546 gold pieces.
+You spent 364 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +3 hunting sling (weapon)
+ b - a +4 spear
+ c - a +1 whip of freezing
+ i - a +0 whip of venom
+ B - a +0 dagger
+ H - a +0 rapier
+ J - a +0 hand axe
+Missiles
+ g - 3 throwing nets {!f}
+ k - 70 arrows
+ z - 107 stones (quivered)
+ P - 37 bolts
+ R - 37 sling bullets
+Armour
+ m - a +2 robe
+ x - the +1 robe "Biclua" (worn) {Dex+5 Stlth-}
+   (You found it on level 4 of the Dungeon)   
+   
+   It affects your dexterity (+5).
+   It makes you less stealthy.
+ N - a +2 cloak (worn)
+Jewellery
+ f - an amulet of magic regeneration (around neck)
+ h - an uncursed ring of teleportation
+ u - a ring of protection from cold (left hand)
+ G - the amulet "Cyreyheb" {Gourm rPois Int+7, unknown}
+   (You found it on level 6 of the Dungeon)   
+   
+   [amulet of the gourmand]
+   
+   It allows you to eat raw meat even when not hungry.
+   It affects your intelligence (+7).
+   It protects you from poison.
+ L - an uncursed ring of fire
+ O - an uncursed ring of teleportation
+ S - a ring of magical power (right hand)
+Wands
+ j - a wand of acid (5)
+ Q - a wand of iceblast (17)
+Scrolls
+ e - 3 scrolls of blinking
+ o - a scroll of random uselessness {unknown}
+ p - a scroll of immolation {unknown}
+ t - 4 scrolls of teleportation
+ w - a scroll of fear {unknown}
+ y - 3 scrolls of magic mapping
+ F - 2 scrolls of amnesia
+ I - a scroll of noise
+ T - a scroll of fog {unknown}
+ U - 2 scrolls of remove curse
+Potions
+ l - 4 potions of flight
+ n - a potion of agility
+ q - 3 potions of heal wounds
+ r - 6 potions of curing
+ v - a potion of cancellation
+ A - a potion of magic
+ C - a potion of brilliance
+ D - a potion of ambrosia {unknown}
+ E - a potion of lignification {unknown}
+ K - a potion of haste {unknown}
+ M - a potion of resistance {unknown}
+Miscellaneous
+ s - a fan of gales
+Comestibles
+ d - 9 rations
+
+
+   Skills:
+ - Level 2.0 Fighting
+ - Level 1.3 Maces & Flails
+ - Level 3.2 Polearms
+ - Level 8.9 Slings
+ * Level 10.9 Dodging
+ + Level 5.8 Stealth
+ - Level 4.0 Spellcasting
+ - Level 1.0 Hexes
+ - Level 10.4 Charms
+ - Level 1.4 Necromancy
+ - Level 2.4 Translocations
+ * Level 3.6 Evocations
+
+
+You had 6 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Infusion              Chrm           ####         1%          1    None
+b - Shroud of Golubria    Chrm/Tloc      ####......   1%          2    ##.....
+c - Song of Slaying       Chrm           #####...     1%          2    ##.....
+d - Spectral Weapon       Hex/Chrm       ###.....     4%          3    ###....
+e - Regeneration          Chrm/Necr      ####......   3%          3    ###....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (8/15)             Temple (1/1) D:4         
+  Lair: D:8-11      
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 [   D:6 }
+
+Annotations:
+D:7 exclusion: downstairs
+D:8 exclusion: 2 killer bees
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are very small and have problems with some larger weapons.
+You are too small for most types of armour.
+You have supernaturally acute eyesight. (SInv)
+You are a herbivore.
+You cover ground extremely quickly.
+You need to consume almost no food.
+
+
+Message History
+
+Welcome back, Moent the Spriggan Skald.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Firing (i - inventory. (/) - cycle) z - 108 stones (quivered)
+Press: ? - help, Shift-Dir - straight line, f - quokka
+Aim: a quokka (hasn't noticed you)
+You shoot a stone.
+The crimson imp shouts!
+The stone hits the quokka.
+You kill the quokka!
+Kikubaaqudgha accepts your kill.
+You fall through a shaft for 3 floors!
+The shaft crumbles and collapses.
+Saving game... please wait.
+Welcome back, Moent the Spriggan Skald.
+Kikubaaqudgha says: Spread unending torment and darkness!
+Press ? for a list of commands and other information.
+Enter note: wizmode bug shaft.  don't wanna play it.
+Enter note: char strong and established anyway.  and spriggan solved now.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+######+##
+#.......#
++.......#
+#@.#
+#..#
+#..#
+#..#
+##+#
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An orc knight (Bailey)
+  Pikel (D:7)
+  Prince Ribbit (D:5)
+  Edmund (D:4)
+  An ice beast (D:7)
+  7 orc warriors
+  A slave (D:6)
+  A black bear (D:6)
+  5 ogres
+  A big kobold (D:6)
+  Blork the orc (D:5)
+  3 bullfrogs
+  A water moccasin zombie (D:6)
+  2 scorpions
+  2 water moccasin skeletons
+  3 centaur zombies (Ossuary)
+  2 crimson imps (D:6)
+  2 howler monkeys
+  3 hounds
+  4 orc priests
+  A centaur skeleton (D:4)
+  2 bullfrog skeletons
+  An iguana (D:5)
+  5 orc wizards
+  5 worker ants
+  A killer bee zombie (D:6)
+  4 big kobold zombies (Ossuary)
+  6 mummies (Ossuary)
+  A worker ant zombie (D:7)
+  4 gnolls (D:6)
+  A howler monkey skeleton (D:4)
+  6 adders
+  A shadow imp (D:4)
+  5 oozes
+  9 worms
+  4 dart slugs
+  6 leopard geckos
+  34 orcs
+  16 bats
+  7 giant cockroaches
+  7 goblins
+  8 hobgoblins
+  12 jackals
+  8 quokkas
+  5 ball pythons
+  7 frilled lizards
+  3 hobgoblin zombies (Ossuary)
+  24 kobolds
+  A quokka zombie (D:6)
+  7 rats
+244 creatures vanquished.
+
+Vanquished Creatures (others)
+  A shadow imp (D:7)
+  2 spectral weapons
+3 creatures vanquished.
+
+Grand Total: 247 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Moent the Spriggan Skald began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 5/5
+    39 | D:1      | Reached skill level 1 in Stealth
+   660 | D:1      | Reached XP level 2. HP: 14/14 MP: 3/6
+   908 | D:1      | Learned a level 2 spell: Song of Slaying
+  1084 | D:1      | Learned a level 2 spell: Shroud of Golubria
+  1321 | D:2      | Reached skill level 5 in Charms
+  1321 | D:2      | Reached skill level 1 in Translocations
+  1491 | D:2      | Reached XP level 3. HP: 18/18 MP: 5/8
+  1615 | D:2      | Found an iron altar of Okawaru.
+  1793 | D:2      | Reached skill level 5 in Dodging
+  2019 | D:2      | Reached XP level 4. HP: 20/22 MP: 5/9
+  2029 | D:2      | Learned a level 3 spell: Spectral Weapon
+  2489 | D:2      | Found a burning altar of Makhleb.
+  2565 | D:2      | Reached skill level 1 in Hexes
+  2952 | D:2      | Found a shattered altar of Ashenzari.
+  2954 | D:2      | Found a stormy altar of Qazlal.
+  3282 | D:3      | Found a glowing drain.
+  3292 | Sewer    | Entered a sewer
+  3966 | Sewer    | Reached XP level 5. HP: 25/25 MP: 4/12
+  4591 | D:3      | Found a bloodstained altar of Trog.
+  4963 | D:3      | Found a basalt altar of Yredelemnul.
+  5293 | D:3      | Learned a level 3 spell: Regeneration
+  5312 | D:4      | Found a staircase to the Ecumenical Temple.
+  5319 | D:4      | Found a sand-covered staircase.
+  5323 | Temple   | Entered the Ecumenical Temple
+  5496 | Ossuary  | Entered an ossuary
+  5519 | Ossuary  | Reached skill level 1 in Slings
+  5530 | Ossuary  | Reached skill level 1 in Necromancy
+  5530 | Ossuary  | Reached XP level 6. HP: 29/30 MP: 0/13
+  5962 | D:4      | Reached XP level 7. HP: 33/33 MP: 12/14
+  6071 | D:4      | Reached skill level 5 in Slings
+  6105 | D:4      | Got a colourful robe
+  6533 | D:5      | Entered Level 5 of the Dungeon
+  6563 | D:5      | Noticed Edmund
+  6736 | D:4      | Killed Edmund
+  6982 | D:5      | Noticed Prince Ribbit
+  7045 | D:4      | Reached XP level 8. HP: 37/37 MP: 13/15
+  7199 | D:5      | Noticed Blork the orc
+  7220 | D:5      | Killed Blork the orc
+  8052 | D:5      | Found Taetireng's Armour Shop.
+  8311 | D:5      | Bought a +2 cloak for 247 gold pieces
+  8337 | D:5      | Identified the cursed +1 robe "Biclua" {Dex+5 Stlth-} (You
+                  | found it on level 4 of the Dungeon)
+  8338 | D:5      | stealth+++ EV24
+  8348 | D:5      | stealth++ EV25
+  8366 | D:5      | Killed Prince Ribbit
+  8366 | D:5      | Reached skill level 5 in Stealth
+  8541 | D:6      | Found Pyitorun's Gadget Shop.
+  8698 | D:6      | Reached skill level 1 in Maces & Flails
+  8982 | D:6      | Found a shadowy altar of Dithmenos.
+  9288 | D:6      | Reached XP level 9. HP: 42/42 MP: 13/16
+  9586 | D:6      | Got a brightly glowing bronze amulet
+  9883 | D:6      | Bought a wand of iceblast (5) for 117 gold pieces
+ 10104 | D:7      | Reached skill level 1 in Evocations
+ 10107 | D:7      | Noticed Pikel
+ 10226 | D:7      | Found a flagged portal.
+ 10282 | D:7      | Killed Pikel
+ 10282 | D:7      | Reached skill level 10 in Charms
+ 10309 | Bailey   | Entered a bailey
+ 10568 | Bailey   | Reached skill level 10 in Dodging
+ 10726 | Bailey   | Noticed an orc knight
+ 10927 | Bailey   | Killed an orc knight
+ 11257 | D:7      | Reached XP level 10. HP: 45/46 MP: 11/17
+ 11271 | D:7      | Found an ancient bone altar of Kikubaaqudgha.
+ 11277 | D:7      | Became a worshipper of Kikubaaqudgha
+ 12325 | D:8      | You fall through a shaft for 3 floors!
+ 12326 | D:11     | wizmode bug shaft.  don't wanna play it.
+ 12326 | D:11     | char strong and established anyway.  and spriggan solved
+                  | now.
+ 12326 | D:11     | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 |
+---------------+----------------------------+-----
+Stealth        |  2        3     4     5    |  5.8
+Dodging        |  4     5     6     7  9 10 | 10.9
+Charms         |     5           6  7  9 10 | 10.4
+Translocations |     1                 2    |  2.4
+Spellcasting   |        3  4                |  4.0
+Hexes          |           1                |  1.0
+Slings         |              2  4  5  6  8 |  8.9
+Necromancy     |              1             |  1.4
+Polearms       |                    2     3 |  3.2
+Maces & Flails |                       1    |  1.3
+Fighting       |                       2    |  2.0
+Evocations     |                          3 |  3.6
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 || total
+-------------------------+-------+-------+-------+-------++-------
+Melee: Spear             |    76 |   228 |   257 |    55 ||   616
+       Whip              |       |       |     9 |       ||     9
+ Fire: Hunting sling     |       |    51 |   426 |    41 ||   518
+Throw: Stone             |    33 |    53 |       |       ||    86
+ Cast: Infusion          |    16 |    37 |    44 |    13 ||   110
+       Shroud of Golubri |     2 |    19 |    30 |     7 ||    58
+       Song of Slaying   |       |     7 |     3 |     1 ||    11
+       Spectral Weapon   |       |     1 |    11 |     2 ||    14
+       Regeneration      |       |     2 |    13 |     2 ||    17
+  Use: Scroll            |     2 |    11 |    12 |       ||    25
+       Potion            |       |     5 |     3 |       ||     8
+ Stab: Sleeping          |     5 |     5 |     1 |       ||    11
+       Invisible         |       |     5 |     5 |       ||    10
+       Distracted        |       |       |       |     1 ||     1
+  Eat: Ration            |       |     2 |     5 |     1 ||     8
+Armor: Robe              |     5 |    13 |    15 |     4 ||    37
+Dodge: Dodged            |    19 |   216 |   144 |    25 ||   404
+

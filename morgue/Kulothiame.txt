@@ -1,0 +1,655 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 18147084867264651586
+
+Kulothiame the Fighter (Ghoul Monk)                Turns: 23948, Time: 05:56:10
+
+Health: 121/121    AC: 31    Str: 17    XL:     14   Next: 13%
+Magic:  22/22      EV: 12    Int: 13    God:    Kikubaaqudgha [******]
+Gold:   493        SH:  0    Dex: 16    Spells: 0/25 levels left
+
+rFire    . . .     SeeInvis .   a - +2 longbow (flame)
+rCold    + . .     Gourm    .   (shield currently unavailable)
+rNeg     + + +     Faith    +   I - +15 Maxwell's patent armour {-Cast -Tele rElec MR+ rCorr}
+rPois    ?          Spirit   .   (no helmet)
+rElec    +         Reflect  .   Y - scarf {repulsion}
+rCorr    +         Harm     .   z - +0 pair of gloves "Joekoheh" {MR+ rCorr Stlth+}
+MR       +++..     NoTele   +   P - +1 pair of boots
+Stlth    ..........NoCast   +   A - amulet of faith
+HPRegen  0.30/turn              y - ring "Juitutid" {Int+6 Dex+4}
+MPRegen  0.18/turn              K - +4 ring of evasion
+
+@: rotting, studying Polearms, repel missiles
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Torment, Renounce Religion
+
+
+You are on level 2 of the Orcish Mines.
+You worship Kikubaaqudgha.
+Kikubaaqudgha is exalted by your worship.
+You are not hungry.
+
+You have visited 4 branches of the dungeon, and seen 21 of its levels.
+You have also visited: Ossuary.
+
+You have collected 1199 gold pieces.
+You have spent 706 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 longbow of flaming (weapon)
+ b - a +2 whip of electrocution
+ c - a +1 whip of venom
+ d - a +2 flail of protection
+ e - a +2 hand axe of pain
+ f - a +0 spear
+ g - a +0 hunting sling
+Missiles
+ h - 147 arrows (quivered)
+ i - 406 stones
+ q - 2 tomahawks of returning
+ Q - 10 tomahawks
+Armour
+ z - the +0 pair of gloves "Joekoheh" (worn) {MR+ rCorr Stlth+}
+   (You found it on level 2 of the Lair of Beasts)   
+   
+   It affects your resistance to hostile enchantments.
+   It provides partial protection from all sources of acid and corrosion.
+   It makes you more stealthy.
+ I - the +15 Maxwell's patent armour (worn) {-Cast -Tele rElec MR+ rCorr}
+   (You acquired it on level 6 of the Lair of Beasts)   
+   
+   It insulates you from electricity.
+   It affects your resistance to hostile enchantments.
+   It prevents spellcasting.
+   It prevents most forms of teleportation.
+   It provides partial protection from all sources of acid and corrosion.
+ N - a +5 plate armour
+ O - a +0 large shield
+ P - a +1 pair of boots (worn)
+ R - a +0 troll leather armour
+ Y - a scarf of repulsion (worn)
+Jewellery
+ p - an uncursed ring of flight
+ y - the ring "Juitutid" (left hand) {Int+6 Dex+4}
+   (You found it on level 4 of the Dungeon)   
+   
+   [ring of dexterity]
+   
+   It affects your intelligence (+6).
+   It affects your dexterity (+4).
+ A - an amulet of faith (around neck)
+ B - an uncursed ring of wizardry
+ J - an uncursed ring of wizardry
+ K - a +4 ring of evasion (right hand)
+Wands
+ j - a wand of paralysis (17)
+ k - a wand of enslavement (9)
+ o - a wand of iceblast (18)
+ t - a wand of random effects (52)
+ U - a wand of acid (25)
+ V - a wand of polymorph (12)
+ Z - a wand of disintegration (39)
+Scrolls
+ l - 2 scrolls of magic mapping
+ n - 12 scrolls of remove curse
+ x - a scroll of blinking
+ D - 5 scrolls of fear
+ F - a scroll of summoning
+ H - 12 scrolls of teleportation
+Potions
+ s - 3 potions of haste
+ u - 10 potions of curing
+ v - 3 potions of brilliance
+ C - 4 potions of invisibility
+ L - 2 potions of cancellation
+ M - 5 potions of might
+ W - 4 potions of agility
+ X - 2 potions of heal wounds
+Books
+ T - a manual of Polearms
+Comestibles
+ m - 21 chunks of flesh
+ E - 33 rations
+
+
+   Skills:
+ - Level 10.2 Fighting
+ * Level 5.1(5.9) Axes
+ - Level 3.0(4.4) Maces & Flails
+ - Level 3.2(4.6) Polearms
+ - Level 4.1(4.5) Slings
+ - Level 4.1 Bows
+ - Level 2.4(3.6) Throwing
+ - Level 7.0 Armour
+ - Level 5.0 Dodging
+ - Level 5.1 Stealth
+ - Level 4.0 Shields
+ - Level 10.0 Unarmed Combat
+ - Level 6.0 Spellcasting
+ - Level 2.3 Hexes
+ - Level 2.6 Charms
+ - Level 1.2 Summonings
+ - Level 9.0 Necromancy
+ - Level 1.1 Transmutations
+ - Level 7.0 Evocations
+
+
+You cannot memorise any spells.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Corona                Hex            ##.....      91%         1    None
+b - Pain                  Necr           ####         14%         1    None
+c - Confusing Touch       Hex            ##....       91%         1    None
+d - Summon Butterflies    Summ           #.......     98%         1    None
+e - Animate Skeleton      Necr           N/A          14%         1    None
+f - Call Imp              Summ           #.......     99%         2    ##.....
+g - Sticks to Snakes      Tmut           #.......     99%         2    ##.....
+h - Corpse Rot            Necr           N/A          22%         2    ##.....
+i - Inner Flame           Hex/Fire       #.......     100%        3    ###....
+j - Vampiric Draining     Necr           ####......   38%         3    ###....
+k - Regeneration          Chrm/Necr      ###.......   83%         3    ###....
+l - Agony                 Necr           ####....     98%         5    ######.
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Dead             Necr           N/A          80%         4    ####...
+ Slow                     Hex            ##......     97%         2    ##.....
+ Summon Small Mammal      Summ           #...         98%         1    None
+ Dispel Undead            Necr           ####....     98%         5    ######.
+ Apportation              Tloc           #.....       99%         1    None
+ Poisonous Vapours        Pois/Air       #.....       100%        2    ##.....
+ Call Canine Familiar     Summ           #.......     100%        3    ###....
+ Conjure Flame            Conj/Fire      #.......     100%        3    ###....
+ Mephitic Cloud           Conj/Pois/Air  #.......     100%        3    ###....
+ Portal Projectile        Hex/Tloc       #.....       100%        3    ###....
+ Summon Guardian Golem    Hex/Summ       #.......     100%        3    ###....
+ Cause Fear               Hex            ##........   100%        4    ####...
+ Leda's Liquefaction      Hex/Erth       #.........   100%        4    ####...
+ Summon Ice Beast         Ice/Summ       #.......     100%        4    ####...
+ Summon Lightning Spire   Summ/Air       #.......     100%        4    ####...
+ Bolt of Draining         Conj/Necr      ###.......   100%        5    ######.
+ Bolt of Magma            Conj/Fire/Erth #.........   100%        5    ######.
+ Borgnjor's Vile Clutch   Necr/Erth      ###.......   100%        5    ######.
+ Iskenderun's Battlesphe  Conj/Chrm      #.......     100%        5    ######.
+ Summon Mana Viper        Hex/Summ       #.......     100%        5    ######.
+ Venom Bolt               Conj/Pois      #.........   100%        5    ######.
+ Freezing Cloud           Conj/Ice/Air   #.........   100%        6    #######
+ Iron Shot                Conj/Erth      #.........   100%        6    #######
+ Simulacrum               Ice/Necr       ###.......   100%        6    #######
+ Orb of Destruction       Conj           #.........   100%        7    #######
+ Ring of Flames           Chrm/Fire      #.........   100%        7    #######
+ Spellforged Servitor     Conj/Summ      #.........   100%        7    #######
+ Summon Hydra             Summ           #.........   100%        7    #######
+ Beastly Appendage        Tmut           Unusable     N/A         1    N/A
+ Spider Form              Tmut/Pois      Unusable     N/A         3    N/A
+ Ice Form                 Ice/Tmut       Unusable     N/A         4    N/A
+ Blade Hands              Tmut           Unusable     N/A         5    N/A
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (12/15)            Temple (1/1) D:7            Lair (6/6) D:11
+ Shoals (0/4) Lair:3       Spider (0/4) Lair:3        Slime (0/5) Lair:5
+    Orc (2/2) D:9         
+   Elf: Orc:2       
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Shops:
+D:5 *   D:10 !
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+What are your orders?
+ t - Shout!
+Orders for allies: a - Attack new target.
+                   r - Retreat!             s - Stop attacking.
+                   g - Guard the area.      f - Follow me.
+ Anything else - Cancel.
+You shout for attention!
+Enter note: burn kiku piety in Lair:6 then
+Enter note: after I run out of chunks here
+Saving game... please wait.
+
+...$.$.........
+..............#.
+...............#
+#$............#
+.............#
+......(.....#
+.......)...#
+......)@%.#
+.........##
+........##
+.........
+.$.......
+..........
+..........
+.......#...
+
+
+There are no monsters in sight!
+
+Vanquished Creatures
+  Nessos (Lair:5)
+  2 hydras
+  A centaur warrior (D:10)
+  2 catoblepae
+  3 two-headed ogres
+  3 death yaks
+  Pikel (D:5)
+  A lindwurm (Lair:6)
+  An ugly thing (D:11)
+  A cyclops (D:11)
+  2 black mambas
+  A torpor snail (Lair:4)
+  9 spiny frogs
+  2 rime drakes (Lair:3)
+  4 komodo dragons
+  A demonic crawler (Lair:3)
+  2 ice devils (Lair:5)
+  A polar bear (Lair:1)
+  3 trolls
+  A hornet (D:11)
+  7 blink frogs
+  9 hippogriffs
+  3 dream sheep (Lair:6)
+  A spriggan (Lair:2)
+  23 yaks
+  Grum (D:9)
+  4 basilisks
+  3 wyverns
+  3 steam dragons
+  A hungry ghost (D:11)
+  2 wargs
+  Edmund (D:5)
+  2 acid dragons (Lair:6)
+  3 water moccasins
+  3 swamp drakes (Lair:6)
+  10 porcupines
+  7 black bears
+  10 orc warriors
+  4 sky beasts
+  5 ice beasts
+  2 phantoms (D:6)
+  A necrophage (D:10)
+  8 ogres
+  An eye of draining (D:8)
+  15 wolves
+  7 centaurs
+  11 crocodiles
+  10 bullfrogs
+  3 elf skeletons (D:4)
+  2 wyvern skeletons
+  6 scorpions
+  9 killer bees
+  2 howler monkeys
+  An electric eel (Lair:3)
+  A vampire bat (D:9)
+  2 centaur zombies
+  10 crimson imps
+  A quasit (D:11)
+  3 hounds
+  12 orc priests
+  18 jellies
+  7 orc wizards
+  A bullfrog skeleton (D:8)
+  A centaur skeleton (D:4)
+  A human skeleton (D:4)
+  5 iguanas
+  9 worker ants
+  A big kobold zombie (Ossuary)
+  A hound skeleton (D:11)
+  3 mummies (Ossuary)
+  2 worker ant zombies
+  8 gnolls
+  7 adders
+  4 shadow imps
+  3 white imps
+  6 oozes
+  4 adder zombies (Ossuary)
+  3 worms
+  A dart slug (D:1)
+  4 leopard geckos
+  34 orcs
+  3 giant cockroaches
+  2 goblins (D:3)
+  7 hobgoblins
+  10 jackals
+  3 quokkas
+  10 bats
+  3 frilled lizards
+  3 goblin zombies (Ossuary)
+  A hobgoblin zombie (Ossuary)
+  8 kobolds
+  2 kobold zombies (Ossuary)
+  A leopard gecko skeleton (D:4)
+  2 orc skeletons (D:4)
+  A quokka skeleton (D:6)
+  3 quokka zombies (Ossuary)
+  7 rats
+  4 rat zombies (Ossuary)
+444 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hydra (Lair:6)
+  An orc high priest (Orc:1)
+  A black mamba (Lair:6)
+  5 spiny frogs
+  3 komodo dragons
+  A blink frog (Lair:5)
+  A hippogriff (Lair:1)
+  3 dream sheep (Lair:6)
+  6 yaks
+  2 basilisks
+  A warg (D:9)
+  2 water moccasins (Lair:2)
+  3 porcupines
+  An orc warrior (Orc:1)
+  A necrophage (D:7)
+  2 wolves (Lair:6)
+  2 crocodiles
+  3 bullfrogs
+  2 scorpions (D:7)
+  2 jellies (Lair:5)
+  2 orc priests
+  An orc wizard (Orc:1)
+  A worker ant (D:12)
+  A hound skeleton (D:11)
+  A leopard gecko (D:11)
+  4 orcs
+  3 fungi
+56 creatures vanquished.
+
+Vanquished Creatures (others)
+  A slave (D:6)
+  An orc priest (D:6)
+  An iguana (D:6)
+  22 fungi
+  11 plants
+36 creatures vanquished.
+
+Grand Total: 536 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Kulothiame the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+   190 | D:1      | Reached XP level 2. HP: 24/26 MP: 1/1
+   712 | D:2      | Reached XP level 3. HP: 31/33 MP: 2/2
+  1310 | D:2      | Reached XP level 4. HP: 36/41 MP: 3/3
+  1576 | D:3      | Reached skill level 5 in Fighting
+  1576 | D:3      | Reached skill level 5 in Unarmed Combat
+  1576 | D:3      | Reached XP level 5. HP: 44/48 MP: 4/4
+  1999 | D:2      | Found an opulent altar of Gozag.
+  1999 | D:2      | Found a glowing golden altar of the Shining One.
+  2152 | D:3      | Learned a level 1 spell: Animate Skeleton
+  2154 | D:3      | Learned a level 1 spell: Confusing Touch
+  2206 | D:3      | Found a sparkling altar of Nemelex Xobeh.
+  2419 | D:4      | Noticed an ogre
+  2436 | D:3      | Reached XP level 6. HP: 48/55 MP: 5/5
+  2491 | D:3      | Reached skill level 1 in Evocations
+  2520 | D:4      | Got a scorched tin ring
+  2546 | D:3      | Identified the ring "Juitutid" {Int+6 Dex+4} (You found it
+                  | on level 4 of the Dungeon)
+  2608 | D:4      | Reached skill level 1 in Necromancy
+  2615 | D:4      | Reached skill level 1 in Hexes
+  2620 | D:4      | Reached skill level 1 in Throwing
+  2832 | D:4      | Reached XP level 7. HP: 55/61 MP: 6/6
+  2895 | D:4      | Found a sand-covered staircase.
+  2902 | Ossuary  | Entered an ossuary
+  3144 | D:4      | Found a shimmering altar of Xom.
+  3428 | D:5      | Entered Level 5 of the Dungeon
+  3439 | D:4      | Found a hide-covered altar of Uskayaw.
+  3502 | D:5      | Found a white marble altar of Elyvilon.
+  3807 | D:5      | Found Ifatan's General Store.
+  3844 | D:5      | Bought a scroll of identify for 22 gold pieces
+  3845 | D:5      | Bought a wand of paralysis (7) for 99 gold pieces
+  3845 | D:5      | Bought a wand of iceblast (9) for 143 gold pieces
+  4009 | D:5      | Reached XP level 8. HP: 63/70 MP: 8/8
+  4053 | D:5      | Noticed Edmund
+  4087 | D:5      | Killed Edmund
+  4120 | D:5      | Found an ornate altar of the Wu Jian Council.
+  4331 | D:6      | Reached skill level 1 in Maces & Flails
+  4331 | D:6      | Reached skill level 1 in Bows
+  5296 | D:6      | Reached skill level 1 in Armour
+  5374 | D:7      | Reached XP level 9. HP: 81/81 MP: 9/9
+  5418 | D:7      | Reached skill level 1 in Spellcasting
+  5520 | D:6      | Noticed Pikel
+  5546 | D:5      | Killed Pikel
+  5965 | D:6      | Learned a level 1 spell: Pain
+  5968 | D:6      | Found a shadowy altar of Dithmenos.
+  6315 | D:7      | Reached skill level 5 in Necromancy
+  6344 | D:7      | Found a stormy altar of Qazlal.
+  6583 | D:7      | Found a staircase to the Ecumenical Temple.
+  6625 | Temple   | Entered the Ecumenical Temple
+  6667 | Temple   | Became a worshipper of Kikubaaqudgha
+  6667 | Temple   | Reached * piety under Kikubaaqudgha
+  6667 | Temple   | Identified Kikubaaqudgha's Catalogue of Evil Rites
+                  | (Kikubaaqudgha gifted it to you in the Ecumenical Temple)
+  6667 | Temple   | Received a gift from Kikubaaqudgha
+  6667 | Temple   | Reached ** piety under Kikubaaqudgha
+  6672 | Temple   | Learned a level 2 spell: Corpse Rot
+  6676 | Temple   | Learned a level 3 spell: Vampiric Draining
+  6678 | Temple   | Learned a level 1 spell: Corona
+  7002 | D:8      | Reached XP level 10. HP: 79/86 MP: 11/11
+  7395 | D:7      | Learned a level 3 spell: Regeneration
+  7545 | D:8      | Noticed a two-headed ogre
+  7579 | D:7      | Killed a two-headed ogre
+  7911 | D:8      | Found a hazy altar of Hepliaklqana.
+  7944 | D:8      | Reached skill level 1 in Shields
+  8009 | D:8      | Found a radiant altar of Vehumet.
+  8081 | D:8      | Found a shimmering altar of Xom.
+  8861 | D:9      | Reached *** piety under Kikubaaqudgha
+  8861 | D:9      | Identified Kikubaaqudgha's Papyrus of Stolen Souls
+                  | (Kikubaaqudgha gifted it to you on level 9 of the Dungeon)
+  8861 | D:9      | Received a gift from Kikubaaqudgha
+  8892 | D:9      | Noticed Grum
+  8976 | D:9      | Killed Grum
+  9148 | D:9      | Learned a level 1 spell: Summon Butterflies
+  9442 | D:9      | Found a glowing silver altar of Zin.
+  9582 | D:10     | Entered Level 10 of the Dungeon
+ 10160 | D:9      | Found a staircase to the Orcish Mines.
+ 10176 | D:9      | Reached **** piety under Kikubaaqudgha
+ 10498 | D:10     | Found Engas's Distillery.
+ 10512 | D:10     | Bought a potion of degeneration for 13 gold pieces
+ 10513 | D:10     | Bought a potion of might for 52 gold pieces
+ 10513 | D:10     | Bought a potion of agility for 52 gold pieces
+ 10513 | D:10     | Bought a potion of agility for 52 gold pieces
+ 10513 | D:10     | Bought a potion of heal wounds for 65 gold pieces
+ 10557 | D:9      | Reached skill level 1 in Summonings
+ 10611 | D:9      | Reached XP level 11. HP: 95/95 MP: 13/13
+ 10990 | D:10     | Reached skill level 5 in Evocations
+ 11066 | D:10     | Noticed a two-headed ogre
+ 11103 | D:11     | Killed a two-headed ogre
+ 11141 | D:10     | Noticed a cyclops
+ 11178 | D:10     | Noticed a centaur warrior
+ 11197 | D:10     | Killed a centaur warrior
+ 11450 | D:10     | Noticed a two-headed ogre
+ 11465 | D:10     | Killed a two-headed ogre
+ 11470 | D:10     | haven't been using corpse delivery enough.  and also
+                  | underestimated UC again. that explains difficulties.
+ 11882 | D:10     | Bought 2 potions of agility for 104 gold pieces
+ 12251 | D:11     | Reached ***** piety under Kikubaaqudgha
+ 12452 | D:11     | Learned a level 2 spell: Call Imp
+ 12469 | D:11     | Noticed a cyclops
+ 12496 | D:11     | Reached skill level 5 in Armour
+ 12502 | D:11     | Killed a cyclops
+ 12817 | D:11     | Found a staircase to the Lair.
+ 12852 | D:11     | Noticed a brown ugly thing
+ 12869 | D:11     | Killed a purple ugly thing
+ 13180 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 13195 | D:11     | Reached XP level 12. HP: 101/103 MP: 15/15
+ 13310 | Lair:1   | Noticed a seven-headed hydra
+ 13353 | D:12     | Noticed a seven-headed hydra
+ 13776 | D:11     | Killed a seven-headed hydra
+ 14828 | Lair:1   | Got a bloodstained rapier
+ 14836 | Lair:1   | Identified the +4 rapier of Destiny {protect, *Drain rPois
+                  | Dex+5} (You found it on level 1 of the Lair of Beasts)
+ 15387 | Lair:2   | Reached ****** piety under Kikubaaqudgha
+ 15554 | Lair:2   | Noticed a death yak
+ 15555 | Lair:2   | Noticed a death yak
+ 15555 | Lair:2   | Noticed a death yak
+ 15575 | Lair:2   | Killed a death yak
+ 15575 | Lair:2   | Reached skill level 10 in Unarmed Combat
+ 15633 | Lair:1   | Killed a death yak
+ 15633 | Lair:1   | Reached skill level 10 in Fighting
+ 15721 | Lair:1   | Killed a death yak
+ 15833 | Lair:2   | Reached skill level 1 in Polearms
+ 15849 | Lair:2   | Reached XP level 13. HP: 85/113 MP: 17/17
+ 16044 | Lair:2   | Reached skill level 5 in Stealth
+ 16260 | Lair:2   | Got a pair of distressingly furry gloves
+ 16311 | D:11     | Identified the +0 pair of gloves "Joekoheh" {MR+ rCorr
+                  | Stlth+} (You found it on level 2 of the Lair of Beasts)
+ 16328 | D:11     | Identified a scroll of acquirement
+ 16545 | D:10     | Bought a potion of cancellation for 104 gold pieces
+ 17164 | Lair:3   | Identified a +2 hand axe of pain (a +0 hand axe bloodied by
+                  | Kikubaaqudgha)
+ 17164 | Lair:3   | Received a gift from Kikubaaqudgha
+ 17174 | Lair:3   | Reached skill level 1 in Slings
+ 17198 | Lair:3   | Reached skill level 1 in Axes
+ 17334 | Lair:3   | Found a hole to the Spider Nest.
+ 17600 | Lair:3   | Found a staircase to the Shoals.
+ 19016 | Lair:5   | Noticed Nessos
+ 19049 | Lair:5   | Killed Nessos
+ 20608 | D:11     | Learned a level 2 spell: Sticks to Snakes
+ 20913 | Lair:5   | Reached skill level 1 in Transmutations
+ 20979 | Lair:5   | Found a staircase to the Slime Pits.
+ 21218 | Lair:6   | Entered Level 6 of the Lair of Beasts
+ 21971 | Lair:6   | Found the +15 Maxwell's patent armour {-Cast -Tele rElec
+                  | MR+ rCorr}
+ 22150 | Lair:6   | Reached skill level 5 in Dodging
+ 22245 | Lair:6   | Reached skill level 5 in Spellcasting
+ 22441 | Lair:6   | Reached XP level 14. HP: 115/121 MP: 17/21
+ 23351 | D:11     | Learned a level 3 spell: Inner Flame
+ 23357 | D:11     | Learned a level 5 spell: Agony
+ 23357 | D:11     | time to challenge Orc:1, I reckon.  stuffed twice on lair:6
+                  | vaults.  shouldn't have challenged them yet!
+ 23357 | D:11     | redzoned.
+ 23493 | Orc:1    | Entered Level 1 of the Orcish Mines
+ 23691 | Orc:2    | Entered Level 2 of the Orcish Mines
+ 23915 | Orc:1    | Reached skill level 5 in Axes
+ 23948 | Orc:2    | burn kiku piety in Lair:6 then
+ 23948 | Orc:2    | after I run out of chunks here
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 14 |
+---------------+-------------------------------------------+-----
+Fighting       |     4     5        6  8        9 10       | 10.2
+Unarmed Combat |     4     5        6  7  8     9 10       | 10.0
+Evocations     |                 1  2     3  4  6  7       |  7.0
+Necromancy     |                 1        6  7     9       |  9.0
+Hexes          |                 1           2             |  2.3
+Throwing       |                 1     2                   |  2.4
+Dodging        |                 3                    5    |  5.0
+Stealth        |                 3           4        5    |  5.1
+Maces & Flails |                       1  2        3       |  3.0
+Bows           |                       2           3  4    |  4.1
+Armour         |                       1     3  6  7       |  7.0
+Spellcasting   |                          1  2  3     5  6 |  6.0
+Charms         |                             2             |  2.6
+Shields        |                             1  2  3  4    |  4.0
+Summonings     |                             1             |  1.2
+Polearms       |                                   1  3    |  3.2
+Slings         |                                      4    |  4.1
+Axes           |                                      4  5 |  5.1
+Transmutations |                                      1    |  1.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |   112 |   197 | 12320 |  4450 | 12041 || 29120
+       Punch             |     1 |     5 |  1189 |   286 |   469 ||  1950
+       Flail             |       |       |  8004 |     2 |  4008 || 12014
+       Whip              |       |       |  4074 |  4361 | 12366 || 20801
+       Halberd           |       |       |       |    11 |     3 ||    14
+       Hand axe          |       |       |       |       |    78 ||    78
+       Spear             |       |       |       |       |     1 ||     1
+ Fire: Shortbow          |       |       |   109 |   152 |       ||   261
+       Longbow           |       |       |       |   147 |   138 ||   285
+       Hunting sling     |       |       |       |       |   108 ||   108
+Throw: Stone             |     7 |    26 |    14 |       |       ||    47
+       Tomahawk          |       |       |     6 |     9 |     2 ||    17
+       Throwing net      |       |       |     1 |       |       ||     1
+ Cast: Animate Skeleton  |       |     1 |     5 |    61 |    69 ||   136
+       Confusing Touch   |       |     1 |     2 |     8 |       ||    11
+       Regeneration      |       |       |       |    28 |    37 ||    65
+       Pain              |       |       |       |    11 |     1 ||    12
+       Corpse Rot        |       |       |       |     8 |     3 ||    11
+       Vampiric Draining |       |       |       |     2 |     6 ||     8
+       Call Imp          |       |       |       |     2 |       ||     2
+Invok: Receive Corpses   |       |       |       |     3 |     3 ||     6
+       Brand Weapon With |       |       |       |       |     1 ||     1
+Evoke: Wand              |       |     1 |     2 |     6 |     7 ||    16
+  Use: Scroll            |     6 |     3 |     9 |     7 |     9 ||    34
+       Potion            |       |       |     5 |     2 |     1 ||     8
+ Stab: Sleeping          |     2 |       |       |       |       ||     2
+       Distracted        |     1 |       |     1 |     7 |     6 ||    15
+       Confused          |       |     1 |     6 |     3 |       ||    10
+       Held in net/web   |       |       |     2 |       |       ||     2
+       Paralysed         |       |       |       |       |    12 ||    12
+  Eat: Chunk             |     7 |    15 |    16 |    45 |    51 ||   134
+       Ration            |       |       |       |       |     1 ||     1
+Armor: Robe              |    15 |       |       |       |       ||    15
+       Ring mail         |    15 |    19 |       |       |       ||    34
+       Scale mail        |       |    60 | 10537 |    38 |       || 10635
+       Plate armour      |       |       |       |  4752 | 21581 || 26333
+       Troll leather arm |       |       |       |     9 |   778 ||   787
+       Skin              |       |       |       |     1 |       ||     1
+Dodge: Dodged            |    55 |    98 | 15569 |  2354 | 10993 || 29069
+       Deflected         |       |       |       |       |     5 ||     5
+Block: Large shield      |       |       |       |    38 | 23212 || 23250
+

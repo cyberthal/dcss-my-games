@@ -1,0 +1,224 @@
+ Dungeon Sprint DCSS version 0.23.2 (tiles) character file.
+
+Game seed: 9127265421371437344
+
+0 Koqunigho the Charlatan (level 1, 16/16 HPs) *WIZ*
+             Began as a Deep Dwarf Artificer on Oct 26, 2020.
+             Quit the game in the Dungeon (Sprint I: "Red Sonja").
+             The game lasted 00:01:00 (31 turns).
+
+Koqunigho the Charlatan (Deep Dwarf Artificer)        Turns: 31, Time: 00:01:00
+
+Health: 16/16      AC:  3    Str: 15    XL:     1   Next: 0%
+Magic:  3/3        EV: 12    Int: 11    God:    No God 0 (0)
+Gold:   0          SH:  0    Dex: 13    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +0 short sword
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 leather armour
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....     NoTele   +   (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.00/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: non-regenerating
+A: damage resistance, heal wounds, sense surroundings 1, no regeneration
+a: Heal Wounds
+
+
+You were in the Dungeon.
+You were not hungry.
+
+You visited 1 branch
+Inventory:
+
+Hand Weapons
+ a - a +0 short sword (weapon)
+Armour
+ b - a +0 leather armour (worn)
+Wands
+ c - a wand of flame (15)
+ d - a wand of enslavement (15)
+ e - a wand of random effects (15)
+Scrolls
+ l - a scroll of blinking
+Potions
+ g - a potion of curing
+ h - a potion of heal wounds
+ i - a potion of haste
+ j - 2 potions of magic
+ k - a potion of berserk rage
+Comestibles
+ f - a ration
+
+
+   Skills:
+ + Level 0.8 Fighting
+ + Level 0.8 Short Blades
+ + Level 2.1 Dodging
+ + Level 1.2 Stealth
+ + Level 4.0 Evocations
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/1)             
+
+Altars:
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Jiyva
+Lugonu
+
+Shops:
+D [(=}?(*!*[![}(![?%([=[
+
+Annotations:
+D Ijyb, Sigmund
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are resistant to damage.
+You can heal yourself by infusing magical energy.
+You passively map a small area around you.
+You do not regenerate.
+
+
+Message History
+
+Ijyb is almost dead.
+Ijyb hits you but does no damage. Something barely misses you.
+You hit Ijyb but do no damage.
+Ijyb is almost dead.
+Ijyb barely misses you.
+You hit Ijyb but do no damage.
+Ijyb is almost dead.
+Something hits you!
+Ouch! That really hurt!
+Die? 
+Thought so. Ijyb barely misses you.
+Quiver which item? (- for none, * to show all) (? for menu, Esc to quit)
+You don't have any such object.
+Quiver which item? (- for none, * to show all) (? for menu, Esc to quit)
+Huh?
+Quiver which item? (- for none, * to show all) (? for menu, Esc to quit)
+Huh?
+Quiver which item? (- for none, * to show all) (? for menu, Esc to quit)
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+########################
+#<@#..'..#.@+$$#__#$$+..
+#..g{.#.O+..#$$+.J+$$#.G
+#..#####+#####+#__####K.
+#..####$$#$$$#$####?$###
+#..#__####$$##?#~~~.c#$$
+#..#_____##+#_.+~~~..+.y
+#}}#_.\..Y+..._#~~~.c#$$
+####_..__##_J#+##+#####+
+#$$#_____###+#$#?$)/###P
+############.####+###[##
+#\........+$.$+$$T$$+(\#
+###++++####$K$##########
+#..G....####.###.......#
+
+
+You could see Ijyb.
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D        | Koqunigho the Deep Dwarf Artificer began the quest for the
+                  | Orb.
+     0 | D        | Reached XP level 1. HP: 16/16 MP: 3/3
+     0 | D        | Entered wizard mode.
+     0 | D        | Found a viscous altar of Jiyva.
+     0 | D        | Found a corrupted altar of Lugonu.
+     0 | D        | Found a burning altar of Makhleb.
+     0 | D        | Found a shimmering altar of Xom.
+     0 | D        | Found a white marble altar of Elyvilon.
+     0 | D        | Found a glowing silver altar of Zin.
+     0 | D        | Found Jonap's Antique Armour Shoppe.
+     0 | D        | Found a glowing golden altar of the Shining One.
+     0 | D        | Found an iron altar of Okawaru.
+     0 | D        | Found a bloodstained altar of Trog.
+     0 | D        | Found a blossoming altar of Fedhas.
+     0 | D        | Found a stormy altar of Qazlal.
+     0 | D        | Found an ornate altar of the Wu Jian Council.
+     0 | D        | Found an ancient bone altar of Kikubaaqudgha.
+     0 | D        | Found Riss's Gadget Emporium.
+     0 | D        | Found a deep blue altar of Sif Muna.
+     0 | D        | Found a basalt altar of Yredelemnul.
+     0 | D        | Found a hide-covered altar of Uskayaw.
+     0 | D        | Found a hazy altar of Hepliaklqana.
+     0 | D        | Found a radiant altar of Vehumet.
+     0 | D        | Found a shadowy altar of Dithmenos.
+     0 | D        | Found a sacrificial altar of Ru.
+     0 | D        | Found a snail-covered altar of Cheibriados.
+     0 | D        | Found an opulent altar of Gozag.
+     0 | D        | Found a sparkling altar of Nemelex Xobeh.
+     0 | D        | Found Bocal's Antique Armour Boutique.
+     0 | D        | Found Yvyod's Armour Emporium.
+     0 | D        | Found Jeujibag's Weapon Shoppe.
+     0 | D        | Found Nuuvvana's Magic Scroll Shop.
+     0 | D        | Found Eptusex's General Store.
+     0 | D        | Found Hema's Distillery.
+     0 | D        | Found Jefui's Food Boutique.
+     0 | D        | Found Zygum's Jewellery Emporium.
+     0 | D        | Found Onugoff's Jewellery Emporium.
+     0 | D        | Found Komatu's Antique Weapon Boutique.
+     0 | D        | Found Rocuc's Assorted Antiques.
+     0 | D        | Found Xyacsy's Antique Armour Emporium.
+     0 | D        | Found Ofyfogaw's Distillery.
+     0 | D        | Found Abruysiu's Antique Armour Shoppe.
+     0 | D        | Found Luurig's Gadget Boutique.
+     0 | D        | Found Cack's Antique Weapon Emporium.
+     0 | D        | Found Micvin's Distillery.
+     0 | D        | Found Tifotz's Armour Shoppe.
+     0 | D        | Found Kohias's Magic Scroll Boutique.
+     0 | D        | Found Jillag's Antique Weapon Emporium.
+     2 | D        | Noticed Ijyb
+    16 | D        | Noticed Sigmund
+    24 | D        | Noticed an ogre
+    30 | D        | Slain by Sigmund
+                  | ... wielding a +0 scythe
+                  | (10 damage)
+    31 | D        | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Short sword       ||    26
+ Abil: Heal Wounds       ||     1
+Armor: Leather armour    ||     4
+Dodge: Dodged            ||    17
+

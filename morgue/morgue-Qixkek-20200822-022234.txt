@@ -1,0 +1,658 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12374818357651787831
+
+30804 Qixkek the Grappler (level 13, 101/106 HPs) *WIZ*
+             Began as a Troll Fighter on Aug 22, 2020.
+             Quit the game on level 4 of the Pits of Slime.
+             The game lasted 00:37:28 (4128 turns).
+
+Qixkek the Grappler (Troll Fighter)                 Turns: 4128, Time: 00:37:28
+
+Health: 101/106    AC: 11    Str: 30 (31) XL:     13   Next: 22%
+Magic:  12/12      EV: 25    Int:  2      God:    No God 0 (0)
+Gold:   680        SH:  0    Dex:  9      Spells: 0/12 levels left
+
+rFire    + + .     SeeInvis .     - Unarmed
+rCold    + + .     Gourm    +   (shield currently unavailable)
+rNeg     + + +     Faith    .   (armour currently unavailable)
+rPois    ?          Spirit   .   (helmet currently unavailable)
+rElec    +         Reflect  .   (cloak currently unavailable)
+rCorr    +         Harm     .   (gloves unavailable)
+MR       +....     Rnd*Rage +   (boots unavailable)
+Stlth    +.........             (amulet currently unavailable)
+HPRegen  0.67/turn              (ring currently unavailable)
+MPRegen  0.13/turn              (ring currently unavailable)
+
+@: wisp-form, flying, very heavily contaminated, glowing, studying 2 skills,
+quick
+A: tiny, unfitting armour, berserk 1, deterioration 1, dopey 1, fast metabolism
+3, frail 2, gourmand, magic resistance 1, regeneration 1, evolution 1
+a: no special abilities
+
+
+You were on level 4 of the Pits of Slime.
+You were very full.
+
+You were an insubstantial wisp.
+
+You visited 3 branches of the dungeon, and saw 8 of its levels.
+
+You collected 680 gold pieces.
+
+Inventory:
+
+Armour
+ a - a +0 robe (melded)
+ b - a +0 shield (melded)
+Jewellery
+ n - an uncursed ring of magical power {unknown}
+ w - a +2 ring of dexterity {unknown}
+ y - an uncursed ring of wizardry {unknown}
+ D - a +3 amulet of reflection {unknown}
+ E - an uncursed ring of see invisible {unknown}
+ G - an uncursed ring of fire {unknown}
+Wands
+ g - a wand of digging (5)
+ m - a wand of scattershot (6)
+Scrolls
+ f - 2 scrolls of identify {unknown}
+ j - 2 scrolls of remove curse {unknown}
+ l - a scroll of amnesia {unknown}
+ q - 3 scrolls of teleportation {unknown}
+ r - 4 scrolls of random uselessness {unknown}
+ t - a scroll of fear {unknown}
+ v - a scroll of enchant armour {unknown}
+ x - a scroll of enchant weapon {unknown}
+ B - 2 scrolls of fog {unknown}
+ F - a scroll of silence {unknown}
+Potions
+ c - a potion of might
+ e - a potion of brilliance {unknown}
+ h - 29 potions of mutation
+ i - 2 potions of invisibility {unknown}
+ k - 2 potions of degeneration {unknown}
+ o - a potion of cancellation {unknown}
+ p - a potion of resistance {unknown}
+ s - a potion of flight {unknown}
+ u - a potion of haste {unknown}
+ z - 2 potions of curing {unknown}
+ A - 2 potions of agility {unknown}
+Books
+ C - a manual of Long Blades
+ H - a manual of Fighting
+Comestibles
+ d - 27 rations
+
+
+   Skills:
+ + Level 10.0 Fighting
+ + Level 10.0 Dodging
+ + Level 10.0 Shields
+ + Level 11.5 Unarmed Combat
+   Level 10.0 Necromancy
+
+
+You couldn't memorise any spells.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Tornado               Air            0 (200)      100%        9    1000
+b - Conjure Flame         Conj/Fire      0 (100)      89%         3    150
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Animate Skeleton         Necr           N/A          1%          1    50
+ Pain                     Necr           4 (25)       1%          1    50
+ Vampiric Draining        Necr           4 (200)      3%          3    150
+ Dispel Undead            Necr           4 (100)      30%         5    400
+ Slow                     Hex            0 (100)      69%         2    100
+ Throw Flame              Conj/Fire      0 (50)       69%         2    100
+ Stone Arrow              Conj/Erth      0 (50)       89%         3    150
+ Sticky Flame             Conj/Fire      0 (100)      100%        4    250
+ Bolt of Magma            Conj/Fire/Erth 0 (200)      100%        5    400
+ Yara's Violent Unravell  Hex/Tmut       0 (200)      100%        5    400
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)             Shoals (0/4) Lair:2       Spider (0/4) Lair:2
+  Slime (4/5) Lair:5      
+
+Altars:
+Wu Jian
+Xom
+Jiyva
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+((You have claws for hands.))
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+((You are covered in fur. (AC +1)))
+((You have extremely tough skin. (AC +3)))
+((You are partially covered in slimy green scales. (AC +2)))
+You tend to lose your temper in combat.
+((Armour fits poorly on your strangely shaped body.))
+Your body sometimes deteriorates upon taking damage.
+You are dopey. (Int -2)
+You are very frail. (-20% HP)
+You are resistant to hostile enchantments. (MR+)
+You evolve.
+
+
+Message History
+
+Your body shudders with the violent release of wild energies!
+You feel frail.
+The death ooze hits you!!
+Your body deteriorates! You feel weakened.
+The death ooze hits you!! The acid blob hits you!!
+* * * LOW HITPOINT WARNING * * *
+You are splashed with acid. You resist.
+* * * LOW HITPOINT WARNING * * *
+The death ooze hits you!
+* * * LOW HITPOINT WARNING * * *
+The death ooze hits you!!
+Die? 
+Thought so.
+The acid blob spits acid at you.
+The splash of acid hits you. You resist. You are splashed with acid. You
+resist.
+You can move again.
+Press: ? - help, v - describe, . - travel
+Here: a glowing orange brain (durably summoned)
+The floor.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+.....##............####.#....##
+#..^.###.#.#.#......#.........#
+#.....######.##.........##.#.## #####
+.......#.#...............##### ##.#.##
+#.#...#...................######.....#
+#.#...##.#..##.......#...##.##.#....##
+...#.#####........<.....##...........##
+#.####   ##..............#............#
+.##       ##..#.......#.#.........#...#
+.## ##########.................##.##.##
+..###.##.#.##.....#............#...###
+..................#...GG......###.##
+.......#..............JG#......####
+............#.........vJJ......###
+...........###.........GJ........###
+.#.#........#.....>................##
+#####.#.............................#
+    ####............................##
+      ##....^..#........<............#
+  ### #.................>.........#..##
+ ##.###.........#......:..##..........#
+ #...............#.............##....##
+ ##.......................##...#.##.##
+  ###...............#...#.........###
+    ##.............#..............#
+     ###..#....##.##..>..........##
+
+
+You could see an acid blob, a shining eye, 2 glowing orange brains, a death
+ooze, 2 jellies and a floating eye.
+
+Vanquished Creatures
+  Rupert (Lair:4)
+  Nessos (Lair:4)
+  4 hydras
+  An alligator (Lair:1)
+  3 death yaks (Lair:4)
+  Urug (Lair:4)
+  3 oklob plants
+  A manticore (Lair:2)
+  A cyclops (Lair:5)
+  4 black mambas
+  5 elephants (Lair:6)
+  A guardian serpent (Lair:2)
+  A torpor snail (Lair:4)
+  8 spiny frogs
+  5 komodo dragons
+  5 tyrant leeches (Lair:4)
+  A jumping spider (Lair:2)
+  A queen bee (Lair:3)
+  8 blink frogs (Lair:5)
+  A slime creature (Lair:3)
+  5 hippogriffs
+  4 dream sheep (Lair:6)
+  5 redbacks (Lair:2)
+  9 yaks
+  3 wraiths (Lair:5)
+  A wyvern (Lair:5)
+  5 basilisks
+  A spatial vortex (Lair:3)
+  3 swamp worms (Lair:4)
+  3 soldier ants (Lair:6)
+  4 water moccasins
+  11 porcupines
+  A black bear (Lair:3)
+  11 wolves
+  6 crocodiles
+  7 bullfrogs
+  13 killer bees (Lair:3)
+  3 electric eels
+  A worker ant (Lair:6)
+  An adder (Lair:3)
+  A plant (Lair:1)
+154 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  3 death yaks (Lair:4)
+  A spiny frog (Lair:4)
+  A dream sheep (Lair:6)
+  A yak (Lair:3)
+  A bullfrog (Lair:4)
+  A fungus (Lair:4)
+8 creatures vanquished.
+
+Vanquished Creatures (others)
+  A water moccasin (Lair:3)
+  A ball lightning (Lair:2)
+  3 fungi
+  5 plants
+10 creatures vanquished.
+
+Grand Total: 172 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Qixkek the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     0 | Lair:1   | Entered Level 1 of the Lair of Beasts
+     0 | Lair:1   | Became a worshipper of Xom the Fickle
+    19 | Lair:1   | Noticed a crocodile
+    20 | Lair:1   | XOM: harmless Chrm miscast
+    20 | Lair:1   | XOM: harmless Pois miscast
+    20 | Lair:1   | Noticed a naga
+    20 | Lair:1   | a crocodile changed into a naga
+    20 | Lair:1   | XOM: polymorph crocodile -> naga
+    20 | Lair:1   | XOM: harmless Ice miscast
+    20 | Lair:1   | XOM: harmless Ice miscast
+    20 | Lair:1   | XOM: harmless Hex miscast
+    20 | Lair:1   | XOM: cloud trail
+    20 | Lair:1   | XOM: mild Ice miscast
+    20 | Lair:1   | XOM: mild Chrm miscast
+    21 | Lair:1   | XOM: destruction
+    21 | Lair:1   | XOM: destruction
+    21 | Lair:1   | XOM: harmless Pois miscast
+    21 | Lair:1   | XOM: 1-stop teleportation journey
+    21 | Lair:1   | XOM: silly message
+    32 | Lair:1   | Noticed a hippogriff
+    33 | Lair:1   | XOM: potion effect (brilliance)
+    33 | Lair:1   | XOM: harmless Erth miscast
+    33 | Lair:1   | XOM: potion effect (might)
+    36 | Lair:1   | XOM: potion effect (haste)
+    36 | Lair:1   | XOM: smoke on damage
+    38 | Lair:1   | XOM: potion effect (curing)
+    41 | Lair:1   | Killed a hippogriff
+    41 | Lair:1   | Reached skill level 3 in Unarmed Combat
+    41 | Lair:1   | Reached XP level 2. HP: 10/31 MP: 1/1
+    41 | Lair:1   | Reached XP level 3. HP: 13/37 MP: 2/2
+    41 | Lair:1   | Reached XP level 4. HP: 15/45 MP: 3/3
+    41 | Lair:1   | Reached XP level 5. HP: 18/53 MP: 4/4
+    68 | Lair:1   | XOM: harmless Summ miscast
+    77 | Lair:1   | Noticed a black mamba
+    78 | Lair:1   | Killed a black mamba
+    78 | Lair:1   | Reached skill level 4 in Unarmed Combat
+    78 | Lair:1   | Reached XP level 6. HP: 38/62 MP: 5/5
+    80 | Lair:1   | Noticed a spiny frog
+    82 | Lair:1   | XOM: potion effect (brilliance)
+    82 | Lair:1   | Killed a spiny frog
+    82 | Lair:1   | Reached XP level 7. HP: 45/70 MP: 6/6
+    89 | Lair:1   | Noticed a hippogriff
+    90 | Lair:1   | Killed a hippogriff
+   106 | Lair:1   | Reached skill level 5 in Unarmed Combat
+   106 | Lair:1   | Reached XP level 8. HP: 64/79 MP: 7/7
+   133 | Lair:1   | Noticed a komodo dragon
+   134 | Lair:1   | Killed a komodo dragon
+   161 | Lair:1   | Noticed a spiny frog
+   162 | Lair:1   | Killed a spiny frog
+   162 | Lair:1   | Reached skill level 5 in Fighting
+   162 | Lair:1   | Reached skill level 5 in Dodging
+   162 | Lair:1   | Reached skill level 5 in Shields
+   203 | Lair:1   | XOM: cleaving
+   222 | Lair:1   | XOM: cleaving
+   299 | Lair:1   | XOM: god gift: 6 rations
+   365 | Lair:1   | Noticed a seven-headed hydra
+   366 | Lair:1   | Noticed an alligator
+   366 | Lair:1   | a seven-headed hydra changed into an alligator
+   366 | Lair:1   | XOM: polymorph seven-headed hydra -> alligator
+   366 | Lair:1   | Killed an alligator
+   366 | Lair:1   | Reached skill level 6 in Unarmed Combat
+   366 | Lair:1   | Reached XP level 9. HP: 89/89 MP: 8/8
+   516 | Lair:1   | XOM: cleaving
+   528 | Lair:1   | XOM: scenery: create altars
+   559 | Lair:1   | XOM: god gift: ration
+   599 | Lair:1   | Noticed an oklob plant
+   600 | Lair:1   | XOM: scenery: create altars
+   600 | Lair:1   | XOM: divination: magic mapping
+   600 | Lair:1   | XOM: cast spell 'Alistair's Intoxication'
+   600 | Lair:1   | XOM: harmless Air miscast
+   600 | Lair:1   | XOM: fog
+   600 | Lair:1   | XOM: potion effect (heal wounds)
+   600 | Lair:1   | XOM: cast spell 'Summon Small Mammal'
+   600 | Lair:1   | XOM: divine lightning
+   600 | Lair:1   | XOM: confuse monster(s)
+   600 | Lair:1   | XOM: cast spell 'Discord'
+   600 | Lair:1   | XOM: cleaving
+   600 | Lair:1   | XOM: confuse monster(s)
+   600 | Lair:1   | XOM: summons friendly crimson imp
+   600 | Lair:1   | XOM: confuse monster(s)
+   600 | Lair:1   | XOM: enchant monster (good)
+   600 | Lair:1   | Noticed an oklob plant
+   601 | Lair:1   | XOM: polymorph oklob plant -> oklob plant
+   601 | Lair:1   | XOM: divination: detect items
+   601 | Lair:1   | XOM: mild Chrm miscast
+   601 | Lair:1   | XOM: noise
+   601 | Lair:1   | XOM: potion effect (haste)
+   605 | Lair:1   | Killed an oklob plant
+   605 | Lair:1   | Reached skill level 7 in Unarmed Combat
+   610 | Lair:1   | Noticed a spiny frog
+   615 | Lair:1   | Killed an oklob plant
+   619 | Lair:1   | Killed a spiny frog
+   619 | Lair:1   | Reached XP level 10. HP: 82/100 MP: 9/9
+   680 | Lair:2   | Found a hole to the Spider Nest.
+   681 | Lair:2   | XOM: enchant monster (good)
+   681 | Lair:2   | XOM: summons 2 friendly demons
+   681 | Lair:2   | XOM: summons friendly white imp
+   687 | Lair:2   | XOM: god gift: 22 arrows
+   732 | Lair:2   | XOM: give mutations
+   732 | Lair:2   | Gained mutation: You possess an exceptional clarity of
+                  | mind. [Xom's grace]
+   732 | Lair:2   | Gained mutation: You have supernaturally acute eyesight.
+                  | (SInv) [Xom's grace]
+   732 | Lair:2   | Gained mutation: You are agile. (Dex +2) [Xom's grace]
+   732 | Lair:2   | Gained mutation: You have sharp toenails. [Xom's grace]
+   815 | Lair:2   | XOM: mild Tloc miscast
+   816 | Lair:2   | XOM: scenery: create altars
+   816 | Lair:2   | Noticed a guardian serpent
+   816 | Lair:2   | a redback changed into a guardian serpent
+   816 | Lair:2   | XOM: polymorph redback -> guardian serpent
+   816 | Lair:2   | XOM: enchant monster (good)
+   816 | Lair:2   | Killed a guardian serpent
+   817 | Lair:2   | XOM: confuse monster(s)
+   817 | Lair:2   | Reached skill level 8 in Unarmed Combat
+   820 | Lair:2   | XOM: 8-stop teleportation journey
+   821 | Lair:2   | Noticed an eight-headed hydra
+   822 | Lair:2   | XOM: summons friendly shadow imp
+   822 | Lair:2   | XOM: confuse monster(s)
+   822 | Lair:2   | Killed an eight-headed hydra
+   841 | Lair:2   | Noticed a four-headed hydra
+   842 | Lair:2   | XOM: mild Pois miscast
+   842 | Lair:2   | XOM: silly message
+   842 | Lair:2   | XOM: destruction
+   842 | Lair:2   | XOM: harmless Chrm miscast
+   842 | Lair:2   | XOM: severe Air miscast
+   846 | Lair:2   | Killed a four-headed hydra
+   851 | Lair:2   | XOM: polymorph porcupine -> wolf
+   861 | Lair:2   | Noticed a manticore
+   862 | Lair:2   | XOM: mild Hex miscast
+   862 | Lair:2   | XOM: summons 1 hostile shadow creature
+   862 | Lair:2   | Noticed a black mamba
+   873 | Lair:2   | HP: 2/102 [manticore (13)]
+   874 | Lair:2   | Succumbed to a black mamba's poison
+   880 | Lair:2   | XOM: summons friendly crimson imp
+   882 | Lair:2   | Killed a manticore
+   898 | Lair:2   | XOM: smoke on damage
+  1020 | Lair:2   | XOM: scenery: create altars
+  1020 | Lair:2   | XOM: fog
+  1065 | Lair:2   | XOM: repel stairs
+  1065 | Lair:2   | Reached XP level 11. HP: 109/109 MP: 10/10
+  1114 | Lair:2   | Found a staircase to the Shoals.
+  1256 | Lair:3   | XOM: enchant monster (good)
+  1302 | Lair:3   | Noticed an oklob plant
+  1303 | Lair:3   | XOM: mild Tloc miscast
+  1305 | Lair:3   | XOM: polymorph oklob plant -> oklob plant
+  1305 | Lair:3   | XOM: summons friendly ufetubus
+  1305 | Lair:3   | XOM: summons 11 friendly demons
+  1311 | Lair:3   | XOM: confuse monster(s)
+  1334 | Lair:3   | Killed an oklob plant
+  1354 | Lair:3   | XOM: enchant monster (good)
+  1368 | Lair:3   | XOM: potion effect (agility)
+  1370 | Lair:3   | XOM: summons 2 friendly demons
+  1371 | Lair:3   | XOM: fog
+  1376 | Lair:3   | Reached skill level 9 in Unarmed Combat
+  1377 | Lair:3   | XOM: divination: detect creatures
+  1429 | Lair:3   | Found an ornate altar of the Wu Jian Council.
+  1578 | Lair:3   | XOM: cast spell 'Discord'
+  1580 | Lair:3   | Noticed a fire dragon
+  1580 | Lair:3   | a fire dragon changed into a slime creature
+  1580 | Lair:3   | XOM: polymorph fire dragon -> slime creature
+  1604 | Lair:3   | Slain by a slime creature (16 damage)
+  1606 | Lair:3   | XOM: 1-stop teleportation journey
+  1784 | Lair:3   | XOM: potion effect (might)
+  1804 | Lair:3   | XOM: polymorph killer bee -> adder
+  2008 | Lair:4   | Noticed Rupert
+  2012 | Lair:4   | XOM: mild Necr miscast
+  2023 | Lair:4   | Killed Rupert
+  2052 | Lair:4   | XOM: 4-stop teleportation journey
+  2053 | Lair:4   | Noticed Urug
+  2057 | Lair:4   | Noticed a death yak
+  2059 | Lair:4   | XOM: destruction
+  2059 | Lair:4   | Noticed a death yak
+  2060 | Lair:4   | XOM: cast spell 'Summon Horrible Things'
+  2061 | Lair:4   | Noticed a death yak
+  2062 | Lair:4   | Noticed a death yak
+  2064 | Lair:4   | Killed Urug
+  2065 | Lair:4   | Noticed a death yak
+  2067 | Lair:4   | Noticed a death yak
+  2072 | Lair:4   | Killed a death yak
+  2072 | Lair:4   | Reached skill level 10 in Unarmed Combat
+  2074 | Lair:4   | Killed a death yak
+  2076 | Lair:4   | Killed a death yak
+  2077 | Lair:4   | Killed a death yak
+  2077 | Lair:4   | Reached XP level 12. HP: 122/122 MP: 11/11
+  2079 | Lair:4   | Killed a death yak
+  2082 | Lair:4   | Noticed Nessos
+  2088 | Lair:4   | Killed a death yak
+  2114 | Lair:4   | XOM: summons 2 friendly demons
+  2127 | Lair:4   | XOM: enchant monster (good)
+  2136 | Lair:4   | Killed Nessos
+  2326 | Lair:4   | XOM: harmless Tloc miscast
+  2356 | Lair:4   | XOM: cloud trail
+  2466 | Lair:4   | XOM: cast spell 'Summon Ice Beast'
+  2655 | Lair:4   | XOM: harmless Tloc miscast
+  2701 | Lair:5   | XOM: confuse monster(s)
+  2770 | Lair:5   | XOM: god gift: scroll labeled EMARGH HOMU {god gift}
+  2796 | Lair:5   | XOM: divination: magic mapping
+  2889 | Lair:5   | XOM: potion effect (curing)
+  3051 | Lair:5   | XOM: enchant monster (good)
+  3072 | Lair:5   | XOM: scenery: create altars
+  3073 | Lair:5   | Reached skill level 11 in Unarmed Combat
+  3283 | Lair:5   | Found a viscous altar of Jiyva.
+  3283 | Lair:5   | Found a staircase to the Slime Pits.
+  3336 | Lair:5   | Noticed Josephine
+  3346 | Lair:5   | Noticed Josephine
+  3346 | Lair:5   | Josephine changed into Josephine the cyclops
+  3346 | Lair:5   | XOM: polymorph Josephine -> Josephine the cyclops
+  3352 | Lair:5   | Killed Josephine the cyclops
+  3360 | Lair:5   | XOM: cleaving
+  3518 | Lair:6   | Entered Level 6 of the Lair of Beasts
+  3518 | Lair:6   | Found the +8 lance "Wyrmbane" {slay drac, rPois rF+ rC+
+                  | AC+3}
+  3531 | Lair:6   | XOM: confuse monster(s)
+  3541 | Lair:6   | Noticed a seven-headed hydra
+  3546 | Lair:6   | Killed an eight-headed hydra
+  3553 | Lair:6   | XOM: summons 3 friendly demons
+  3569 | Lair:6   | Reached XP level 13. HP: 119/133 MP: 12/12
+  3587 | Lair:6   | XOM: summons 2 friendly demons
+  3590 | Lair:6   | XOM: noise
+  3615 | Lair:6   | XOM: summons 4 hostile shadow creatures
+  3620 | Lair:6   | Noticed an entropy weaver
+  3641 | Lair:6   | XOM: confuse monster(s)
+  3643 | Lair:6   | XOM: harmless Pois miscast
+  3654 | Lair:6   | Reached skill level 10 in Dodging
+  3664 | Lair:6   | Reached skill level 10 in Shields
+  3668 | Lair:6   | Reached skill level 10 in Fighting
+  3686 | Lair:6   | XOM: 2-stop teleportation journey
+  3687 | Lair:6   | Fell from the grace of Xom
+  3687 | Lair:6   | Became a worshipper of Jiyva Jigi the Shapeless
+  3687 | Lair:6   | Was forgiven by Xom
+  3687 | Slime:4  | Noticed an acid blob
+  3756 | Slime:4  | Gained mutation: You occasionally shout uncontrollably at
+                  | your foes. [the vengeance of Jiyva]
+  3899 | Slime:4  | Lost mutation: You are agile. (Dex +2) [the vengeance of
+                  | Jiyva]
+  3899 | Slime:4  | Lost mutation: You have supernaturally acute eyesight.
+                  | (SInv) [the vengeance of Jiyva]
+  3899 | Slime:4  | Gained mutation: Scrolls take you a little longer to read.
+                  | [the vengeance of Jiyva]
+  3899 | Slime:4  | Gained mutation: You are frail. (-10% HP) [the vengeance of
+                  | Jiyva]
+  3914 | Slime:4  | Gained mutation: You are dopey. (Int -2) [the vengeance of
+                  | Jiyva]
+  3914 | Slime:4  | Gained mutation: Your spells are a little easier to cast,
+                  | but a little less powerful. [the vengeance of Jiyva]
+  3914 | Slime:4  | Gained mutation: You are very frail. (-20% HP) [the
+                  | vengeance of Jiyva]
+  4035 | Slime:4  | Identified the Guide on Beguiling and Stolen Souls (Your
+                  | wizardly powers created it on level 4 of the Pits of Slime)
+  4035 | Slime:4  | Identified the Incunabulum of Flying Combat Magic (Your
+                  | wizardly powers created it on level 4 of the Pits of Slime)
+  4043 | Slime:4  | Reached * piety under Jiyva
+  4043 | Slime:4  | Reached ** piety under Jiyva
+  4046 | Slime:4  | Learned a level 9 spell: Tornado
+  4050 | Slime:4  | Learned a level 3 spell: Conjure Flame
+  4058 | Slime:4  | Gained mutation: Your magical capacity is low. (-10% MP)
+                  | [the vengeance of Jiyva]
+  4058 | Slime:4  | Lost intelligence.
+  4058 | Slime:4  | Gained mutation: You are very dopey. (Int -4) [the
+                  | vengeance of Jiyva]
+  4058 | Slime:4  | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [the vengeance of Jiyva]
+  4061 | Slime:4  | Gained mutation: Your body often deteriorates upon taking
+                  | damage. [the vengeance of Jiyva]
+  4061 | Slime:4  | Gained mutation: Your magical capacity is very low. (-20%
+                  | MP) [the vengeance of Jiyva]
+  4061 | Slime:4  | Gained mutation: You are extremely frail. (-30% HP) [the
+                  | vengeance of Jiyva]
+  4061 | Slime:4  | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [the vengeance of Jiyva]
+  4075 | Slime:4  | Fell from the grace of Jiyva
+  4077 | Slime:4  | Lost mutation: Your body often deteriorates upon taking
+                  | damage. [potion of mutation]
+  4077 | Slime:4  | Lost mutation: You have sharp toenails. [potion of
+                  | mutation]
+  4077 | Slime:4  | Lost mutation: Scrolls take you a little longer to read.
+                  | [potion of mutation]
+  4077 | Slime:4  | Lost mutation: You occasionally shout uncontrollably at
+                  | your foes. [potion of mutation]
+  4077 | Slime:4  | Gained mutation: You expend magic power (3 MP) to
+                  | strengthen your wands. [potion of mutation]
+  4078 | Slime:4  | Lost mutation: Your magical capacity is very low. (-20% MP)
+                  | [potion of mutation]
+  4078 | Slime:4  | Lost mutation: You expend magic power (3 MP) to strengthen
+                  | your wands. [potion of mutation]
+  4078 | Slime:4  | Lost mutation: You are extremely frail. (-30% HP) [potion
+                  | of mutation]
+  4078 | Slime:4  | Lost mutation: You possess an exceptional clarity of mind.
+                  | [potion of mutation]
+  4078 | Slime:4  | Gained mutation: You are resistant to hostile enchantments.
+                  | (MR+) [potion of mutation]
+  4079 | Slime:4  | Lost mutation: You are very dopey. (Int -4) [potion of
+                  | mutation]
+  4079 | Slime:4  | Lost mutation: Your spells are a little easier to cast, but
+                  | a little less powerful. [potion of mutation]
+  4079 | Slime:4  | Gained mutation: You evolve. [potion of mutation]
+  4079 | Slime:4  | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  4080 | Slime:4  | Lost mutation: You are very frail. (-20% HP) [potion of
+                  | mutation]
+  4080 | Slime:4  | Lost mutation: Your body sometimes deteriorates upon taking
+                  | damage. [potion of mutation]
+  4080 | Slime:4  | Lost mutation: Armour fits poorly on your strangely shaped
+                  | body. [potion of mutation]
+  4080 | Slime:4  | Lost mutation: Your magical capacity is low. (-10% MP)
+                  | [potion of mutation]
+  4080 | Slime:4  | Gained mutation: You are very frail. (-20% HP) [potion of
+                  | mutation]
+  4080 | Slime:4  | Gained mutation: Your flesh is heat resistant. (rF+)
+                  | [potion of mutation]
+  4081 | Slime:4  | Lost mutation: Your flesh is heat resistant. (rF+) [potion
+                  | of mutation]
+  4081 | Slime:4  | Lost mutation: You evolve. [potion of mutation]
+  4081 | Slime:4  | Lost mutation: You are dopey. (Int -2) [potion of mutation]
+  4081 | Slime:4  | Gained mutation: Your spells are a little harder to cast,
+                  | but a little more powerful. [potion of mutation]
+  4081 | Slime:4  | Gained mutation: You are agile. (Dex +2) [potion of
+                  | mutation]
+  4082 | Slime:4  | Lost mutation: You are very frail. (-20% HP) [potion of
+                  | mutation]
+  4082 | Slime:4  | Lost mutation: You have a pair of small horns on your head.
+                  | [potion of mutation]
+  4082 | Slime:4  | Lost mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+  4082 | Slime:4  | Gained mutation: You can translocate small distances at
+                  | will. [potion of mutation]
+  4082 | Slime:4  | Gained mutation: You possess an exceptional clarity of
+                  | mind. [potion of mutation]
+  4083 | Slime:4  | Lost mutation: You possess an exceptional clarity of mind.
+                  | [potion of mutation]
+  4083 | Slime:4  | Lost mutation: You are agile. (Dex +2) [potion of mutation]
+  4083 | Slime:4  | Gained mutation: You are partially covered in slimy green
+                  | scales. (AC +2) [potion of mutation]
+  4083 | Slime:4  | Gained mutation: You have a pair of small horns on your
+                  | head. [potion of mutation]
+  4084 | Slime:4  | Lost mutation: You have a pair of small horns on your head.
+                  | [potion of mutation]
+  4084 | Slime:4  | Lost mutation: Your spells are a little harder to cast, but
+                  | a little more powerful. [potion of mutation]
+  4084 | Slime:4  | Lost mutation: You can translocate small distances at will.
+                  | [potion of mutation]
+  4084 | Slime:4  | Gained mutation: You are frail. (-10% HP) [potion of
+                  | mutation]
+  4084 | Slime:4  | Gained mutation: You evolve. [potion of mutation]
+  4107 | Slime:4  | Paralysed by a floating eye for 4 turns
+  4115 | Slime:4  | Paralysed by a floating eye for 4 turns
+  4121 | Slime:4  | Noticed a death ooze
+  4121 | Slime:4  | Gained mutation: Armour fits poorly on your strangely
+                  | shaped body. [the vengeance of Jiyva]
+  4121 | Slime:4  | Noticed an acid blob
+  4121 | Slime:4  | Gained mutation: You tend to lose your temper in combat.
+                  | [the vengeance of Jiyva]
+  4121 | Slime:4  | Gained mutation: Your body sometimes deteriorates upon
+                  | taking damage. [the vengeance of Jiyva]
+  4121 | Slime:4  | Gained mutation: You are dopey. (Int -2) [the vengeance of
+                  | Jiyva]
+  4125 | Slime:4  | Paralysed by a floating eye for 3 turns
+  4126 | Slime:4  | Gained mutation: You are very frail. (-20% HP) [mutagenic
+                  | glow]
+  4127 | Slime:4  | Mangled by a death ooze (28 damage)
+                  | ... created by the vengeance of Jiyva
+                  | ... while paralysed by a floating eye
+  4128 | Slime:4  | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 13 |
+---------------+----------------------------------------+-----
+Fighting       |  3              4     5  6  7  8  9 10 | 10.0
+Dodging        |  3              4     5  6  7  8  9 10 | 10.0
+Shields        |  3              4     5  6  7  8  9 10 | 10.0
+Unarmed Combat |  3           4     5  6  7  8 10 11    | 11.5
+Necromancy     |                                        | 10.0
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Unarmed           |     5 |       |    34 |   395 |    81 ||   515
+       Kick              |       |       |       |   134 |    33 ||   167
+Invok: Renounce Religion |       |       |       |       |     1 ||     1
+  Use: Potion            |       |       |       |       |     8 ||     8
+ Stab: Paralysed         |       |       |     3 |       |       ||     3
+       Distracted        |       |       |       |     1 |       ||     1
+       Confused          |       |       |       |     1 |     1 ||     2
+  Eat: Chunk             |       |       |       |     6 |       ||     6
+Armor: Robe              |     1 |       |     3 |    34 |    10 ||    48
+Dodge: Dodged            |     3 |       |    18 |   168 |    49 ||   238
+Block: Shield            |     5 |       |    19 |   213 |    49 ||   286
+

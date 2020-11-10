@@ -1,0 +1,115 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10663211441342824918
+
+0 Pyitrur the Sneak (level 1, 17/17 HPs)
+             Began as a Centaur Assassin on Nov 7, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:24 (0 turns).
+
+Pyitrur the Sneak (Centaur Assassin)                   Turns: 0, Time: 00:01:25
+
+Health: 17/17      AC:  5    Str: 13    XL:     1   Next: 0%
+Magic:  1/1        EV:  9    Int: 10    God:    
+Gold:   0          SH:  0    Dex: 10    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .   a - +2 dagger
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   c - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   d - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no barding)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: very quick
+A: large, hooves 3, deformed body, speed 2, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +2 dagger (weapon)
+ b - a +0 blowgun
+Missiles
+ e - 8 poisoned needles
+ f - 2 curare-tipped needles
+Armour
+ c - a +0 robe (worn)
+ d - a +0 cloak (worn)
+Comestibles
+ g - a ration
+
+
+   Skills:
+ + Level 2.0 Fighting
+ + Level 1.7 Short Blades
+ + Level 2.1 Throwing
+ + Level 0.6 Dodging
+ + Level 2.4 Stealth
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have hooves in place of feet.
+Armour fits poorly on your strangely shaped body.
+You cover ground very quickly.
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Welcome, Pyitrur the Centaur Assassin.
+It is said that the Orb of Zot exists deep within this dungeon.
+Press ? for a list of commands and other information.
+Found 2 smoky cyan potions.
+Found a staircase leading out of the dungeon.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+#..#~~~#.!#
+#..#~~~#..#
+#..#####..#
+#.........#
+#...}.}...#
+#.8.....8.#
+#.........#
+#....@....#
+#.........#
+#.8.....8.#
+#.........#
+#...}.}...#
+#.........#
+###########
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Pyitrur the Centaur Assassin began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+     0 | D:1      | Quit the game
+

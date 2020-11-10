@@ -1,0 +1,627 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 10626557933619742639
+
+22393 Caaq the Protected (level 13, 98/98 HPs) *WIZ*
+             Began as a Gnoll Wanderer on Oct 19, 2020.
+             Was a Follower of Ashenzari.
+             Quit the game on level 2 of the Lair of Beasts on Oct 20, 2020.
+             The game lasted 03:08:59 (21713 turns).
+
+Caaq the Protected (Gnoll Wanderer)                Turns: 21713, Time: 03:08:59
+
+Health: 98/98      AC: 15    Str: 16    XL:     13   Next: 0%
+Magic:  33/33      EV: 15    Int: 15    God:    Ashenzari [*.....]
+Gold:   321        SH:  6    Dex: 18    Spells: 15/27 levels left
+
+rFire    + . .     SeeInvis .   Y - +6 flail "Beiclioj" {vamp, rPois MP+9}
+rCold    + . .     Gourm    .   q - +0 buckler
+rNeg     . . .     Faith    .   s - +3 scale mail {rC+} (curse)
+rPois    +         Spirit   .   H - +0 helmet
+rElec    .         Reflect  .   V - +0 cloak {rPois}
+rCorr    .         Harm     .   (no gloves)
+MR       +....                  u - +0 pair of boots (curse)
+Stlth    +++.......             (no amulet)
+HPRegen  0.26/turn              v - ring of protection from fire
+MPRegen  0.23/turn              I - ring of protection from magic
+
+@: no status effects
+A: distributed training, fangs 1, strong nose
+a: Curse Item, Scrying, Renounce Religion
+
+
+You were on level 2 of the Lair of Beasts.
+You worshipped Ashenzari.
+Ashenzari was aware of your devotion.
+You were very hungry.
+
+You visited 3 branches of the dungeon, and saw 13 of its levels.
+
+You collected 914 gold pieces.
+You spent 593 gold pieces at shops.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 hunting sling
+ b - a +3 long sword of electrocution
+ c - a +1 dagger of electrocution
+ d - a +2 short sword of venom
+ e - the +1 rapier of Raiqey {flame, rF+++ Int+2}
+   (You found it on level 8 of the Dungeon)   
+   
+   It has been specially enchanted to burn those struck by it, causing extra
+   injury to most foes and up to half again as much damage against particularly
+   susceptible opponents.
+   
+   It affects your intelligence (+2).
+   It renders you almost immune to fire.
+ f - a +3 scimitar of flaming
+ h - a +2 trident of freezing
+ i - a +2 blowgun
+ Y - the +6 flail "Beiclioj" (weapon) {vamp, rPois MP+9}
+   (You bought it in a shop on level 8 of the Dungeon)   
+   
+   It inflicts no extra harm, but heals its wielder when it wounds a living
+   foe.
+   
+   It protects you from poison.
+   It affects your magic capacity (+9).
+Missiles
+ j - 306 stones
+ l - 144 sling bullets
+ A - 4 javelins
+ C - 6 curare-tipped needles {!f}
+ O - 23 tomahawks (quivered)
+Armour
+ q - a +0 buckler (worn)
+ s - a cursed +3 scale mail of cold resistance (worn)
+ u - a cursed +0 pair of boots (worn)
+ E - a +2 scale mail of fire resistance
+ H - a +0 helmet (worn)
+ V - a +0 cloak of poison resistance (worn)
+Magical Staves
+ y - an uncursed staff of fire
+Jewellery
+ v - a ring of protection from fire (left hand)
+ I - a ring of protection from magic (right hand)
+ P - an uncursed ring of resist corrosion
+ R - a +2 ring of strength
+ Z - an uncursed ring of see invisible
+Wands
+ t - a wand of enslavement (6)
+ x - a wand of iceblast (1)
+ M - a wand of digging (6)
+ N - a wand of polymorph (3)
+ U - a wand of disintegration (9)
+Scrolls
+ n - 8 scrolls of fear
+ w - 3 scrolls of magic mapping
+ B - a scroll of remove curse
+ G - 6 scrolls of teleportation
+Potions
+ m - 3 potions of berserk rage
+ o - 2 potions of agility
+ p - a potion of lignification
+ r - 5 potions of curing
+ z - 3 potions of heal wounds
+ D - 3 potions of flight
+ J - a potion of brilliance
+ L - 2 potions of magic
+ T - a potion of haste
+ X - 3 potions of invisibility
+Miscellaneous
+ k - a lamp of fire (inert)
+ W - a box of beasts
+Comestibles
+ F - 35 rations
+
+
+   Skills:
+ + Level 8.1 Fighting
+ + Level 7.7 Short Blades
+ + Level 7.7 Long Blades
+ + Level 9.0 Axes
+ + Level 7.7 Maces & Flails
+ + Level 7.7 Polearms
+ + Level 8.1 Staves
+ + Level 7.7 Slings
+ + Level 7.7 Bows
+ + Level 7.7 Crossbows
+ + Level 8.1 Throwing
+ + Level 9.0 Armour
+ + Level 7.7 Dodging
+ + Level 8.8 Stealth
+ + Level 8.1 Shields
+ + Level 7.7 Unarmed Combat
+ + Level 7.7 Spellcasting
+ + Level 6.3 Conjurations
+ + Level 6.3 Hexes
+ + Level 6.3 Charms
+ + Level 6.3 Summonings
+ + Level 6.3 Necromancy
+ + Level 6.3 Translocations
+ + Level 6.3 Transmutations
+ + Level 6.3 Fire Magic
+ + Level 6.3 Ice Magic
+ + Level 6.3 Air Magic
+ + Level 6.3 Earth Magic
+ + Level 6.3 Poison Magic
+ + Level 8.4 Invocations
+ + Level 7.7 Evocations
+
+
+You had 15 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Confusing Touch       Hex            ###...       2%          1    None
+b - Summon Small Mammal   Summ           ###.         2%          1    None
+c - Apportation           Tloc           ###...       2%          1    None
+d - Animate Skeleton      Necr           N/A          2%          1    None
+e - Call Imp              Summ           ###.....     4%          2    None
+f - Call Canine Familiar  Summ           ###.....     8%          3    ##.....
+g - Summon Guardian Gole  Hex/Summ       ###.....     8%          3    ##.....
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Summon Ice Beast         Ice/Summ       ###.....     26%         4    ####...
+ Summon Lightning Spire   Summ/Air       ###.....     26%         4    ####...
+ Bolt of Magma            Conj/Fire/Erth ###.......   58%         5    #####..
+ Irradiate                Conj/Tmut      ###.......   58%         5    #####..
+ Iskenderun's Battlesphe  Conj/Chrm      ###.....     58%         5    #####..
+ Venom Bolt               Conj/Pois      ###.......   58%         5    #####..
+ Hydra Form               Tmut           ###.......   99%         6    #######
+ Iron Shot                Conj/Erth      ###.......   99%         6    #######
+ Statue Form              Tmut/Erth      ###......    99%         6    #######
+ Dragon Form              Tmut           ###.......   100%        7    #######
+ Orb of Destruction       Conj           ###.......   100%        7    #######
+ Spellforged Servitor     Conj/Summ      ###.......   100%        7    #######
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (10/15)            Temple (1/1) D:5            Lair (2/6) D:10
+    Orc (0/2) D:10        
+ Swamp: Lair:2-4    Shoals: Lair:2-4     Snake: Lair:2-4    Spider: Lair:2-4
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+Beogh
+
+Shops:
+D:8 (
+
+Annotations:
+D:10 loot
+Lair:1 loot
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your experience applies equally to all skills.
+You have very sharp teeth.
+Your uncanny sense of smell can sniff out nearby items.
+
+
+Message History
+
+Curse which item? (2 remove curse scrolls left) (Esc to abort) (? for menu, Esc
+to quit)
+Okay, then.
+Uncurse which item? (? for menu, Esc to quit)
+As you read the scroll of remove curse, it crumbles to dust.
+Uncurse which item? (? for menu, Esc to quit)
+Huh?
+Uncurse which item? (? for menu, Esc to quit)
+Huh?
+Uncurse which item? (? for menu, Esc to quit)
+Okay, then.
+Put on which piece of jewellery? (? for menu, Esc to quit)
+Okay, then.
+Unknown command.
+Okay, then.
+Unknown command.
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Describe a item; partial names and regexps are fine. Enter a single letter to
+list items displayed by that symbol.
+Describe what? necronom
+Describe a (M)onster, (S)pell, s(K)ill, (A)bility, (C)ard, (I)tem, (F)eature,
+(G)od, (B)ranch, c(L)oud or s(T)atus? 
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+                    #...#
+                    #...#
+                   ##...#
+                   #....#
+                   #....##
+                   ##.<..#
+                    #....#    #########
+#       ### ####   ##...## ####.......#####
+#########.###.P#####P...####..#.......#.#.##
+..............................#.......#.>...
+..............................#.......#.....
+..............................#.......#.....
+..............................##.######.....
+.###.####.##########..@..##.#.....#   ##.##.
+.# ###  ###        ##..[######..###    #####
+.#                  #...##   ####         #.
+.#                 ##....#                ##
+.##                #.....#                ##
+..#                ##..<##                #.
+..#                 #....#                #.
+..##              ###....#                ##
+.#.#              #.#...##                ##
+..##              ##..<..####             #.
+.P#             ###.......#.#             ##
+.##             #.Z#.....#..#              #
+.#             ##.###....##.##            ##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Snorg (D:10)
+  4 two-headed ogres
+  Erica (D:8)
+  4 death yaks (D:9)
+  A black mamba (Lair:2)
+  A spiny frog (Lair:2)
+  A meliai (D:9)
+  A queen bee (Lair:2)
+  3 slime creatures (D:8)
+  2 trolls (D:9)
+  3 blink frogs
+  5 hippogriffs
+  A wyvern (D:10)
+  7 yaks
+  3 humans
+  Eustachio (D:6)
+  3 hogs (D:6)
+  A hungry ghost (D:8)
+  Edmund (D:4)
+  2 soldier ants (D:9)
+  An acid dragon (D:9)
+  A porcupine (Lair:1)
+  3 water moccasins
+  3 orc warriors
+  5 ogres
+  2 sky beasts
+  A black bear (D:10)
+  3 ice beasts
+  3 phantoms
+  2 centaurs
+  4 crocodiles
+  4 big kobolds (D:8)
+  8 bullfrogs
+  3 scorpions
+  36 killer bees
+  An electric eel (Lair:2)
+  4 wights (D:7)
+  A howler monkey (D:8)
+  3 crimson imps
+  A centaur zombie (D:6)
+  2 quasits
+  2 bullfrog zombies
+  11 orc priests
+  3 hounds
+  3 jellies (D:8)
+  5 orc wizards
+  5 iguanas
+  Terence (D:2)
+  6 worker ants
+  Natasha (thrice) (D:2)
+  A killer bee zombie (D:5)
+  A hound zombie (D:5)
+  11 adders
+  A shadow imp (D:9)
+  9 oozes
+  3 adder skeletons
+  3 worms
+  2 dart slugs (D:3)
+  7 leopard geckos
+  23 orcs
+  5 giant cockroaches
+  15 goblins
+  7 hobgoblins
+  8 jackals
+  5 quokkas
+  3 ball pythons
+  6 bats
+  6 frilled lizards
+  10 kobolds
+  A leopard gecko skeleton (D:6)
+  A leopard gecko zombie (D:5)
+  A quokka skeleton (D:9)
+  2 quokka zombies
+  6 rats
+  A fungus (D:8)
+314 creatures vanquished.
+
+Vanquished Creatures (collateral kills)
+  A hydra (D:9)
+  2 death yaks (D:9)
+  A cyclops (D:9)
+  2 komodo dragons
+  A troll (D:9)
+  A hornet (D:9)
+  2 hippogriffs
+  A wraith (D:9)
+  2 hogs
+  6 yaks
+  A human (D:6)
+  A sky beast (D:10)
+  3 bullfrogs
+  A killer bee (D:7)
+  A hound (D:9)
+  An iguana (D:10)
+  3 orcs
+30 creatures vanquished.
+
+Vanquished Creatures (others)
+  A hydra (Lair:1)
+  A vampire (D:10)
+  An orc wizard (D:8)
+  5 fungi
+  9 toadstools (D:8)
+17 creatures vanquished.
+
+Grand Total: 361 creatures vanquished
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Caaq the Gnoll Wanderer began the quest for the Orb.
+     0 | D:1      | Caaq set off with the following items: a +2 blowgun, 4
+                  | curare-tipped needles, a +0 hand axe, a scroll of
+                  | teleportation, a +0 robe, a +0 dagger, a ration
+     0 | D:1      | Reached XP level 1. HP: 17/17 MP: 1/1
+   274 | D:1      | Reached XP level 2. HP: 23/23 MP: 2/2
+  1070 | D:1      | Reached XP level 3. HP: 28/28 MP: 3/3
+  1483 | D:2      | Reached skill level 1 in Invocations
+  1776 | D:2      | Reached skill level 1 in Short Blades
+  1776 | D:2      | Reached skill level 1 in Long Blades
+  1776 | D:2      | Reached skill level 1 in Maces & Flails
+  1776 | D:2      | Reached skill level 1 in Polearms
+  1776 | D:2      | Reached skill level 1 in Slings
+  1776 | D:2      | Reached skill level 1 in Bows
+  1776 | D:2      | Reached skill level 1 in Crossbows
+  1776 | D:2      | Reached skill level 1 in Dodging
+  1776 | D:2      | Reached skill level 1 in Unarmed Combat
+  1776 | D:2      | Reached skill level 1 in Spellcasting
+  1776 | D:2      | Reached skill level 1 in Evocations
+  1776 | D:2      | Reached XP level 4. HP: 34/34 MP: 5/5
+  1856 | D:2      | Noticed Terence
+  1980 | D:2      | Found a stormy altar of Qazlal.
+  2204 | D:2      | Noticed Natasha
+  2710 | D:2      | Killed Terence
+  2710 | D:2      | Reached skill level 1 in Conjurations
+  2710 | D:2      | Reached skill level 1 in Hexes
+  2710 | D:2      | Reached skill level 1 in Charms
+  2710 | D:2      | Reached skill level 1 in Summonings
+  2710 | D:2      | Reached skill level 1 in Necromancy
+  2710 | D:2      | Reached skill level 1 in Translocations
+  2710 | D:2      | Reached skill level 1 in Transmutations
+  2710 | D:2      | Reached skill level 1 in Fire Magic
+  2710 | D:2      | Reached skill level 1 in Ice Magic
+  2710 | D:2      | Reached skill level 1 in Air Magic
+  2710 | D:2      | Reached skill level 1 in Earth Magic
+  2710 | D:2      | Reached skill level 1 in Poison Magic
+  2761 | D:2      | Reached XP level 5. HP: 40/40 MP: 6/6
+  2769 | D:2      | Killed Natasha
+  2843 | D:2      | Found a stormy altar of Qazlal.
+  3061 | D:2      | Noticed Natasha
+  3079 | D:2      | Killed Natasha
+  3202 | D:2      | Noticed Natasha
+  3209 | D:2      | Killed Natasha
+  3551 | D:3      | Reached XP level 6. HP: 43/47 MP: 8/8
+  5025 | D:4      | Reached skill level 5 in Axes
+  5025 | D:4      | Reached skill level 5 in Armour
+  5261 | D:4      | Reached XP level 7. HP: 52/52 MP: 10/10
+  5493 | D:4      | Noticed Edmund
+  5542 | D:4      | Killed Edmund
+  5787 | D:5      | Entered Level 5 of the Dungeon
+  5903 | D:5      | Found a staircase to the Ecumenical Temple.
+  6037 | D:5      | Reached skill level 5 in Stealth
+  6346 | D:5      | Reached XP level 8. HP: 57/60 MP: 12/12
+  6493 | D:5      | Learned a level 1 spell: Animate Skeleton
+  6495 | D:5      | Learned a level 1 spell: Confusing Touch
+  6497 | D:5      | Learned a level 1 spell: Apportation
+  6499 | D:5      | Learned a level 1 spell: Summon Small Mammal
+  7163 | Temple   | Entered the Ecumenical Temple
+  7198 | Temple   | Became a worshipper of Ashenzari the Shackled
+  7527 | D:6      | Noticed Eustachio
+  7555 | D:6      | Killed Eustachio
+  8554 | D:7      | Found an iron altar of Okawaru.
+  8601 | D:7      | Reached XP level 9. HP: 58/66 MP: 14/14
+  9137 | D:6      | Reached skill level 5 in Fighting
+  9137 | D:6      | Reached skill level 5 in Staves
+  9137 | D:6      | Reached skill level 5 in Throwing
+  9137 | D:6      | Reached skill level 5 in Shields
+  9598 | D:7      | Reached skill level 5 in Invocations
+  9975 | D:7      | Reached XP level 10. HP: 74/74 MP: 17/17
+ 10447 | D:8      | Noticed Erica
+ 10460 | D:8      | Killed Erica
+ 10460 | D:8      | Reached skill level 5 in Short Blades
+ 10460 | D:8      | Reached skill level 5 in Long Blades
+ 10460 | D:8      | Reached skill level 5 in Maces & Flails
+ 10460 | D:8      | Reached skill level 5 in Polearms
+ 10460 | D:8      | Reached skill level 5 in Slings
+ 10460 | D:8      | Reached skill level 5 in Bows
+ 10460 | D:8      | Reached skill level 5 in Crossbows
+ 10460 | D:8      | Reached skill level 5 in Dodging
+ 10460 | D:8      | Reached skill level 5 in Unarmed Combat
+ 10460 | D:8      | Reached skill level 5 in Spellcasting
+ 10460 | D:8      | Reached skill level 5 in Evocations
+ 10592 | D:8      | Found Vanaag's Antique Weapon Emporium.
+ 10781 | D:8      | Noticed Maurice
+ 10788 | D:8      | Noticed Maurice
+ 10791 | D:8      | Killed Maurice the hog
+ 11028 | D:8      | Bought a hunting sling for 49 gold pieces
+ 11229 | D:8      | Got the rapier of Raiqey {flame, rF+++ Int+2}
+ 11230 | D:8      | Identified the +1 rapier of Raiqey {flame, rF+++ Int+2}
+                  | (You found it on level 8 of the Dungeon)
+ 11936 | D:8      | Entered wizard mode.
+ 12156 | D:9      | Reached * piety under Ashenzari
+ 12284 | D:8      | Bought an ancient flail for 280 gold pieces
+ 12434 | D:9      | Noticed Joseph
+ 12437 | D:9      | Noticed Joseph
+ 12437 | D:9      | Joseph changed into Joseph the soldier ant
+ 12452 | D:9      | Killed Joseph the soldier ant
+ 12490 | D:9      | Reached XP level 11. HP: 68/82 MP: 19/19
+ 12866 | D:9      | Noticed a two-headed ogre
+ 12990 | D:8      | Killed a two-headed ogre
+ 13010 | D:8      | Reached skill level 5 in Conjurations
+ 13010 | D:8      | Reached skill level 5 in Hexes
+ 13010 | D:8      | Reached skill level 5 in Charms
+ 13010 | D:8      | Reached skill level 5 in Summonings
+ 13010 | D:8      | Reached skill level 5 in Necromancy
+ 13010 | D:8      | Reached skill level 5 in Translocations
+ 13010 | D:8      | Reached skill level 5 in Transmutations
+ 13010 | D:8      | Reached skill level 5 in Fire Magic
+ 13010 | D:8      | Reached skill level 5 in Ice Magic
+ 13010 | D:8      | Reached skill level 5 in Air Magic
+ 13010 | D:8      | Reached skill level 5 in Earth Magic
+ 13010 | D:8      | Reached skill level 5 in Poison Magic
+ 13064 | D:9      | Noticed a two-headed ogre
+ 13084 | D:8      | Killed a two-headed ogre
+ 13521 | D:9      | Noticed a two-headed ogre
+ 13929 | D:8      | Learned a level 2 spell: Call Imp
+ 13933 | D:8      | Learned a level 3 spell: Call Canine Familiar
+ 13937 | D:8      | Learned a level 3 spell: Summon Guardian Golem
+ 14045 | D:9      | Killed a two-headed ogre
+ 14258 | D:10     | Entered Level 10 of the Dungeon
+ 14297 | D:10     | Noticed a cyclops
+ 14658 | D:9      | Killed a cyclops
+ 15002 | D:10     | Noticed a death yak
+ 15002 | D:10     | Noticed a death yak
+ 15015 | D:10     | Noticed a death yak
+ 15015 | D:10     | Noticed a death yak
+ 15073 | D:9      | Killed a death yak
+ 15241 | D:10     | Noticed a death yak
+ 15369 | D:9      | Killed a death yak
+ 15446 | D:10     | Noticed a death yak
+ 15541 | D:9      | Killed a death yak
+ 15784 | D:9      | Killed a death yak
+ 15949 | D:9      | Killed a death yak
+ 15949 | D:9      | Reached XP level 12. HP: 75/91 MP: 10/22
+ 16063 | D:9      | Killed a death yak
+ 16195 | D:10     | Found a staircase to the Lair.
+ 16412 | D:10     | Noticed a two-headed ogre
+ 16458 | D:8      | Bought a pitted scythe for 264 gold pieces
+ 16549 | D:10     | Found a staircase to the Orcish Mines.
+ 16777 | D:9      | Killed a two-headed ogre
+ 16905 | D:10     | Noticed a seven-headed hydra
+ 16918 | D:9      | Killed a six-headed hydra
+ 17463 | D:10     | Noticed Snorg
+ 17509 | D:10     | Found a roughly hewn altar of Beogh.
+ 17891 | D:10     | Killed Snorg
+ 18180 | Lair:1   | Entered Level 1 of the Lair of Beasts
+ 18181 | Lair:1   | do looting after clearing entrance
+ 18304 | D:8      | move stash downstairs multiple floors
+ 18354 | D:10     | Identified the +2 scythe "Gabah" {speed, MR+ Str+4 Int-4
+                  | SInv} (You bought it in a shop on level 8 of the Dungeon)
+ 18358 | D:10     | Identified the +6 flail "Beiclioj" {vamp, rPois MP+9} (You
+                  | bought it in a shop on level 8 of the Dungeon)
+ 19260 | Lair:1   | Noticed a four-headed hydra
+ 19278 | Lair:1   | Killed a four-headed hydra
+ 21311 | Lair:2   | Reached XP level 13. HP: 98/98 MP: 24/24
+ 21713 | Lair:2   | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8  9 10 11 12 |
+---------------+-------------------------------------+-----
+Invocations    |        1        2  3  4  5  6  7  8 |  8.4
+Short Blades   |        1        2     3  4  5  6  7 |  7.7
+Long Blades    |        1        2     3  4  5  6  7 |  7.7
+Maces & Flails |        1        2     3  4  5  6  7 |  7.7
+Polearms       |        1        2     3  4  5  6  7 |  7.7
+Slings         |        1        2     3  4  5  6  7 |  7.7
+Bows           |        1        2     3  4  5  6  7 |  7.7
+Crossbows      |        1        2     3  4  5  6  7 |  7.7
+Dodging        |        1        2     3  4  5  6  7 |  7.7
+Unarmed Combat |        1        2     3  4  5  6  7 |  7.7
+Spellcasting   |        1        2     3  4  5  6  7 |  7.7
+Evocations     |        1        2     3  4  5  6  7 |  7.7
+Conjurations   |           1        2  3     4  5  6 |  6.3
+Hexes          |           1        2  3     4  5  6 |  6.3
+Charms         |           1        2  3     4  5  6 |  6.3
+Summonings     |           1        2  3     4  5  6 |  6.3
+Necromancy     |           1        2  3     4  5  6 |  6.3
+Translocations |           1        2  3     4  5  6 |  6.3
+Transmutations |           1        2  3     4  5  6 |  6.3
+Fire Magic     |           1        2  3     4  5  6 |  6.3
+Ice Magic      |           1        2  3     4  5  6 |  6.3
+Air Magic      |           1        2  3     4  5  6 |  6.3
+Earth Magic    |           1        2  3     4  5  6 |  6.3
+Poison Magic   |           1        2  3     4  5  6 |  6.3
+Fighting       |              3        4  5  6  7  8 |  8.1
+Staves         |              3        4  5  6  7  8 |  8.1
+Throwing       |              3        4  5  6  7  8 |  8.1
+Shields        |              3        4  5  6  7  8 |  8.1
+Axes           |                 5        6  7  8  9 |  9.0
+Armour         |                 5        6  7  8  9 |  9.0
+Stealth        |                    5     6  7  8    |  8.8
+
+Action                   |  1- 3 |  4- 6 |  7- 9 | 10-12 | 13-15 || total
+-------------------------+-------+-------+-------+-------+-------++-------
+Melee: Hand axe          |    53 |       |       |       |       ||    53
+       Dagger            |    25 |   165 |   108 |     7 |       ||   305
+       Bite              |     5 |    19 |    39 |    71 |       ||   134
+       Flail             |       |       |     8 |   160 |       ||   168
+       Long sword        |       |       |   152 |   249 |       ||   401
+       Scimitar          |       |       |       |     7 |       ||     7
+       Short sword       |       |       |       |    84 |       ||    84
+       Trident           |       |       |       |    16 |       ||    16
+ Fire: Blowgun           |     1 |     1 |     1 |     6 |       ||     9
+       Hunting sling     |       |       |       |   225 |       ||   225
+Throw: Stone             |    31 |   130 |    98 |     9 |       ||   268
+       Tomahawk          |       |       |    33 |    38 |       ||    71
+ Cast: Animate Skeleton  |       |       |    14 |    56 |       ||    70
+       Confusing Touch   |       |       |       |     3 |       ||     3
+       Call Canine Famil |       |       |       |    15 |       ||    15
+       Call Imp          |       |       |       |    21 |       ||    21
+       Summon Guardian G |       |       |       |    19 |       ||    19
+Invok: Curse Item        |       |       |     2 |       |       ||     2
+Evoke: Wand              |       |       |       |    14 |     1 ||    15
+       Lamp of fire      |       |       |       |     1 |       ||     1
+  Use: Scroll            |     4 |     1 |     6 |     7 |     2 ||    20
+       Potion            |     3 |     1 |       |     1 |       ||     5
+ Stab: Sleeping          |     5 |     1 |     2 |     7 |       ||    15
+       Invisible         |       |       |       |     4 |       ||     4
+       Distracted        |       |       |       |     6 |       ||     6
+  Eat: Chunk             |     3 |    11 |    11 |    27 |       ||    52
+       Ration            |       |       |     1 |     5 |       ||     6
+Armor: Robe              |     9 |     3 |       |       |       ||    12
+       Skin              |     1 |       |       |       |       ||     1
+       Scale mail        |       |    36 |   108 |   162 |       ||   306
+Dodge: Dodged            |    42 |    55 |   115 |   293 |       ||   505
+Block: Buckler           |     2 |    19 |    72 |   139 |       ||   232
+Rpst.: Long sword        |       |       |    22 |    37 |       ||    59
+       Scimitar          |       |       |       |     1 |       ||     1
+

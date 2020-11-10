@@ -1,0 +1,215 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16956925925956374273
+
+93 Jyifeu the Conjurer (level 4, 19/19 HPs) *WIZ*
+             Began as a Felid Conjurer on Aug 20, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:16:57 (2412 turns).
+
+Jyifeu the Conjurer (Felid Conjurer)                Turns: 2412, Time: 00:16:57
+
+Health: 19/19      AC:  1    Str:  4    XL:     4   Next: 36%
+Magic:  2/9        EV: 19    Int: 17    God:    No God 0 (0)
+Gold:   67         SH:  0    Dex: 16    Spells: 3/9 levels left
+                                        Lives:  1   Deaths: 0
+
+rFire    . . .     SeeInvis +     - Unarmed
+rCold    . . .     Gourm    .   (shield unavailable)
+rNeg     . . .     Faith    .   (armour unavailable)
+rPois    .         Spirit   .   (helmet unavailable)
+rElec    .         Reflect  .   (cloak unavailable)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +++.......             (no amulet)
+HPRegen  0.06/turn              (no ring)
+MPRegen  0.11/turn              (no ring)
+
+@: quick
+A: very small, no armour, no weapons or thrown items, stealth, claws 1, fangs 3,
+see invisible, carnivore, speed 1, shaggy fur 1, slow metabolism 1, sharp paws
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were very full.
+
+You visited 1 branch of the dungeon, and saw 2 of its levels.
+
+You collected 67 gold pieces.
+
+Inventory:
+
+Scrolls
+ c - a scroll of magic mapping {unknown}
+ e - a scroll of enchant weapon {unknown}
+ j - a scroll of teleportation {unknown}
+ k - a scroll of remove curse {unknown}
+Potions
+ d - a potion of flight
+ f - a potion of might
+ g - a potion of curing
+ h - a potion of agility
+ i - a potion of brilliance
+Comestibles
+ b - 7 rations
+
+
+   Skills:
+ - Level 1.1 Fighting
+ * Level 3.4 Dodging
+ - Level 3.0 Stealth
+ - Level 1.1 Unarmed Combat
+ - Level 3.0 Spellcasting
+ - Level 3.6 Conjurations
+ + Level 1.5 Hexes
+
+
+You had 3 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           14 (25)      4%          1    0
+b - Searing Ray           Conj           14 (50)      6%          2    49
+c - Dazzling Spray        Conj/Hex       11 (50)      19%         3    99
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Iskenderun's Mystic Bla  Conj           14 (100)     36%         4    199
+ Fulminant Prism          Conj/Hex       11 (200)     52%         4    199
+ Force Lance              Conj/Tloc      8 (100)      63%         4    199
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (2/15)            
+
+Altars:
+Vehumet
+
+Annotations:
+D:1 exclusion: downstairs
+
+
+Innate Abilities, Weirdness & Mutations
+
+You cannot wear armour.
+You are incapable of wielding weapons or throwing items.
+Your paws allow you to move quietly. (Stealth)
+You have sharp claws.
+You have razor-sharp teeth.
+You have supernaturally acute eyesight. (SInv)
+You are carnivorous and can eat meat at any time.
+You cover ground quickly.
+You are covered in fur. (AC +1)
+You have a slow metabolism.
+Your sharp claws are effective at attacking unaware monsters.
+
+
+Message History
+
+Here: an iguana (moderately wounded, blind, hasn't noticed you)
+The floor.
+The iguana hisses menacingly.
+The iguana closely misses you.
+You catch the helpless iguana completely off-guard!
+You claw the iguana!
+The iguana is severely wounded.
+The iguana misses you.
+You scratch the iguana.
+You kill the iguana!
+Training target 3.0 for Spellcasting reached!
+Your Spellcasting skill increases to level 3!
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+ *,,,,,,',,,,,*          ******,,,,,,,,,,,,,
+ *,,,,,,*****,*               *,,,,,,,,,,,,,
+ *,,,,,,,,,,,,*               *,,,,,,,,,,,,,
+ *,,,,,,,***************######*,*********,**
+ *,,,,,,,,,l,,,,,,,,,l,,.....,,,,,,,,,,,,,,,
+ *,,,,,*,************###...##*,,,***,**,*,**
+ *,,,,,*,*       #####........,,,,,*,**,*,*
+ *,,,,,*,*       #[..#........,,,,,*,**,*,*
+ *****,*,*       #......#*#...***,,,,**,*,*
+     *,*l#########.....(#>....,,*,,,,**,*,**
+******>,,........'......#.....,,*,,,,**,*,,,
+,),,,,,,,#########...#........,,,,,*,**,****
+**********       #...#......#.,,,,,*,**,*
+*                ###.#@.......,,,,,*)**,*
+*                  #....#.....,,*,,,,**,*
+* ***************  #....#.....,<*,,,,**,****
+* *,,,,,,,,,,,,,*  #....###...***,,,,**,,,,*
+***,,,,,,,,,,,,,*  #.#...,,...,,,,,*,**,,,,*
+,,',,,,,,,,,,,,,***#.#....,,..,,,,,*,**,,,[*
+,,*,,,,,,,,,,,,(,,,..###..,***,,,***,**,,,,*
+,**,,,,,,,,(,,,,,,...,,,...,,**,,,,,)**,,,,*
+,**,,,,,,,,,,,,,,,,,,,,,,,,,,,*,[,,,,,',,,,,
+,*******'*,,,***,,,,,********,*,*******,,,,,
+**     *,,,,,,,*,,,,,*      *,*,*     *,,,,,
+       *,,,,,,,*****,**     *,*'*******,,,,,
+       *,,,,,,,*  *,,,*     *,,,,,,,,**,,,,,
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  An iguana (D:1)
+  An adder (D:2)
+  An ooze (D:1)
+  A worm (D:2)
+  A dart slug (D:2)
+  5 giant cockroaches
+  2 goblins (D:1)
+  8 hobgoblins
+  3 kobolds
+  A quokka (D:2)
+  3 bats
+  A frilled lizard (D:2)
+  6 rats
+34 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Jyifeu the Felid Conjurer began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 7/7 MP: 4/4
+   400 | D:1      | Reached skill level 1 in Fighting
+   492 | D:1      | Reached skill level 1 in Unarmed Combat
+   492 | D:1      | Reached XP level 2. HP: 12/12 MP: 1/6
+   496 | D:1      | Learned a level 2 spell: Searing Ray
+  1298 | D:2      | Reached XP level 3. HP: 15/15 MP: 0/7
+  1429 | D:2      | Learned a level 3 spell: Dazzling Spray
+  1604 | D:2      | Reached skill level 1 in Hexes
+  1631 | D:2      | Found a radiant altar of Vehumet.
+  2408 | D:1      | Entered wizard mode.
+  2408 | D:1      | Reached XP level 4. HP: 19/19 MP: 5/9
+  2412 | D:1      | Quit the game
+
+Skill      XL: |  1  2  3  4 |
+---------------+-------------+-----
+Fighting       |  1          |  1.1
+Unarmed Combat |  1          |  1.1
+Stealth        |     3       |  3.0
+Dodging        |     3       |  3.4
+Hexes          |        1    |  1.5
+Spellcasting   |           3 |  3.0
+Conjurations   |             |  3.6
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Unarmed           |    26 |     2 ||    28
+       Bite              |     2 |       ||     2
+ Cast: Magic Dart        |    48 |       ||    48
+       Searing Ray       |     5 |       ||     5
+       Dazzling Spray    |     6 |     1 ||     7
+  Use: Potion            |     3 |       ||     3
+       Scroll            |     2 |       ||     2
+ Stab: Sleeping          |     1 |       ||     1
+       Invisible         |       |     1 ||     1
+  Eat: Chunk             |    10 |       ||    10
+Armor: Skin              |     1 |       ||     1
+Dodge: Dodged            |    18 |     2 ||    20
+

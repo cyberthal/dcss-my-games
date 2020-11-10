@@ -1,0 +1,360 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 12942794283897042565
+
+1682 Tuwenn the Grappler (level 9, 74/74 HPs) *WIZ*
+             Began as a Ghoul Monk on Sept 22, 2020.
+             Was a Believer of Kikubaaqudgha.
+             Quit the game on level 5 of the Dungeon.
+             The game lasted 00:52:24 (4377 turns).
+
+Tuwenn the Grappler (Ghoul Monk)                    Turns: 4377, Time: 00:52:25
+
+Health: 74/74      AC: 14    Str: 15    XL:     9   Next: 2%
+Magic:  2/10       EV:  7    Int:  8    God:    Kikubaaqudgha 63 (0)
+Gold:   295        SH:  0    Dex: 11    Spells: 5/8 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    + . .     Gourm    .   (no shield)
+rNeg     + + +     Faith    .   m - +2 chain mail
+rPois    ?          Spirit   +   t - +0 helmet
+rElec    .         Reflect  .   D - +0 cloak
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  A - +0 pair of boots
+Stlth    ..........             w - amulet of guardian spirit
+HPRegen  0.22/turn              (no ring)
+MPRegen  0.12/turn              (no ring)
+
+@: rotting
+A: rotting body, claws 1, carnivore, cold resistance 1, negative energy
+resistance 3, inhibited regeneration, torment resistance, unbreathing
+a: Receive Corpses, Renounce Religion
+
+
+You were on level 5 of the Dungeon.
+You worshipped Kikubaaqudgha.
+Kikubaaqudgha was pleased with you.
+You were not hungry.
+
+You visited 2 branches of the dungeon, and saw 7 of its levels.
+
+You collected 295 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +4 flail of draining
+ b - a +0 great mace of protection
+ f - a +1 vampiric dagger
+ l - a +0 hunting sling
+ y - a +1 hand axe of freezing
+ C - a +3 quarterstaff of chaos
+ M - a +0 dagger of speed
+ O - a +0 trident
+ R - a +3 hand axe
+Missiles
+ j - 68 bolts
+ o - 60 sling bullets
+ p - 53 arrows
+Armour
+ d - a +0 scale mail
+ e - a +1 pair of gloves
+ h - a +0 scale mail of cold resistance
+ m - a +2 chain mail (worn)
+ n - a +0 pair of gloves
+ t - a +0 helmet (worn)
+ A - a +0 pair of boots (worn)
+ D - a +0 cloak (worn)
+Jewellery
+ c - an uncursed ring of positive energy {unknown}
+ r - an uncursed ring of flight {unknown}
+ w - an amulet of guardian spirit (around neck)
+ J - an uncursed ring of fire {unknown}
+ S - a cursed -2 ring of evasion {unknown}
+Wands
+ v - a wand of scattershot (5)
+ B - a wand of flame (19)
+Scrolls
+ g - 4 scrolls of teleportation
+ i - 2 scrolls of immolation
+ s - a scroll of noise {unknown}
+ x - a scroll of amnesia
+ E - a scroll of fear {unknown}
+ H - 2 scrolls of magic mapping {unknown}
+ Q - a scroll of identify
+Potions
+ k - a potion of degeneration {unknown}
+ q - a potion of resistance {unknown}
+ u - a potion of berserk rage {unknown}
+ z - 3 potions of curing
+ G - 2 potions of lignification {unknown}
+ I - a potion of haste {unknown}
+ L - a potion of heal wounds {unknown}
+ P - a potion of brilliance
+Comestibles
+ F - 7 rations
+ K - 7 chunks of flesh
+
+
+   Skills:
+ + Level 5.1 Fighting
+ + Level 1.4 Maces & Flails
+ - Level 4.0 Armour
+ + Level 3.6 Dodging
+ - Level 2.1 Stealth
+ - Level 10.2 Unarmed Combat
+ - Level 3.0 Evocations
+
+
+You had 5 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Animate Skeleton      Necr           N/A          100%        1    50
+b - Corpse Rot            Necr           N/A          100%        2    100
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Pain                     Necr           0 (25)       100%        1    50
+ Vampiric Draining        Necr           0 (200)      100%        3    150
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (6/15)             Temple (1/1) D:5         
+
+Altars:
+Ashenzari
+Cheibriados
+Dithmenos
+Elyvilon
+Fedhas
+Gozag
+Hepliaklqana
+Kikubaaqudgha
+Makhleb
+Nemelex Xobeh
+Okawaru
+Qazlal
+Ru
+Sif Muna
+Trog
+Uskayaw
+Vehumet
+Wu Jian
+Xom
+Yredelemnul
+Zin
+The Shining One
+
+Annotations:
+D:5 exclusion: 2 downstairs
+D:6 Pikel
+
+
+Innate Abilities, Weirdness & Mutations
+
+Your body is rotting away.
+You thrive on raw meat.
+You are immune to poison.
+You have sharp fingernails.
+You are carnivorous and can eat meat at any time.
+Your flesh is cold resistant. (rC+)
+You are immune to negative energy. (rN+++)
+You do not regenerate when monsters are visible.
+You are immune to unholy pain and torment.
+You can survive without breathing.
+
+
+Message History
+
+Wear which item? (? for menu, Esc to quit)
+You start removing your armour.
+You continue taking off your +0 scale mail. x4
+You finish taking off your +0 scale mail.
+You start putting on your armour.
+You continue putting on your +2 chain mail. x5
+You finish putting on your +2 chain mail.
+Enter Wizard Command (? - help): 
+Which skill (by name)? arm
+Armour
+To what level? 5
+Lowered Armour to skill level 5.0.
+Enter Wizard Command (? - help): 
+Which skill (by name)? arm
+Armour
+To what level? 4
+Lowered Armour to skill level 4.0.
+Enter Wizard Command (? - help): 
+Not a Wizard Command.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+         #.......#    #........#
+         #.......#    #........#
+         #.......#    #..<..)..#
+         #.......######........#    #
+         #...................###    #
+         #........########...###    #
+ ####### #........###    #.....##   #
+ #.....###..........######.##...#####
+ #.........########........###.......
+ #....#......### ######..### ####.###
+ #.............# #...##....#    #..##
+ #....####..##[###...##.##.#    ##>##
+ #....#  #.....[.#......##.#     #[#.
+ ###.##  ##....@>[....####.##    #...
+   #.#    ##.....#..###  #..##   ###[
+   #.#     #........#    ##..#     #.
+#######    #####..#.###   ##.###   #[
+#.....#      ###..#.<.##   #...#   #.
+#.....###    #....###..#   #.}.# ###.
+#..7..'.#  ###.##......#####...###...
+#.....#.#  #...#######.##...........#
+#.....#.####.###     #....}..>..}..#.
+#######......#       #...............
+    #..#######       ##..###...###.##
+    #..##             #### #.}.# #...
+    #...############       #...###.##
+
+
+There were no monsters in sight!
+
+Vanquished Creatures
+  Prince Ribbit (D:5)
+  A hippogriff (D:4)
+  Edmund (D:5)
+  An orc warrior (D:5)
+  An ice beast (D:4)
+  3 slaves (D:5)
+  2 ogres
+  A bullfrog (D:5)
+  A scorpion (D:4)
+  A water moccasin skeleton (D:4)
+  A howler monkey (D:4)
+  2 orc priests (D:5)
+  Crazy Yiuf (D:3)
+  A hound (D:5)
+  3 orc wizards
+  Ijyb (D:3)
+  Terence (D:2)
+  Natasha (thrice) (D:3 D:2)
+  A worker ant (D:6)
+  A hound zombie (D:6)
+  A hound skeleton (D:5)
+  2 howler monkey skeletons
+  2 worker ant zombies (D:3)
+  7 adders
+  2 shadow imps (D:5)
+  2 oozes (D:3)
+  An adder zombie (D:3)
+  2 adder skeletons (D:3)
+  4 worms
+  2 dart slugs
+  3 leopard geckos
+  13 orcs
+  4 bats
+  5 giant cockroaches
+  5 goblins
+  4 hobgoblins
+  9 jackals
+  2 quokkas (D:3)
+  A ball python (D:1)
+  7 frilled lizards
+  A giant cockroach zombie (D:3)
+  A jackal skeleton (D:3)
+  5 kobolds
+  A leopard gecko skeleton (D:4)
+  A leopard gecko zombie (D:3)
+  A quokka zombie (D:3)
+  5 rats
+121 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Tuwenn the Ghoul Monk began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 19/19 MP: 0/0
+   160 | D:1      | Reached XP level 2. HP: 15/26 MP: 1/1
+   241 | D:1      | Reached skill level 4 in Unarmed Combat
+   597 | D:2      | Reached XP level 3. HP: 27/31 MP: 2/2
+   795 | D:2      | Entered wizard mode.
+   862 | D:2      | Reached skill level 5 in Unarmed Combat
+  1055 | D:2      | Reached XP level 4. HP: 34/38 MP: 3/3
+  1376 | D:2      | Noticed Terence
+  1413 | D:2      | Killed Terence
+  1534 | D:3      | Reached skill level 6 in Unarmed Combat
+  1541 | D:3      | Found an ornate altar of the Wu Jian Council.
+  1549 | D:3      | Reached XP level 5. HP: 39/44 MP: 4/4
+  1617 | D:3      | Noticed Natasha
+  1631 | D:3      | Killed Natasha
+  1707 | D:3      | Noticed Natasha
+  1758 | D:2      | Killed Natasha
+  2293 | D:2      | Noticed Natasha
+  2300 | D:2      | Killed Natasha
+  2300 | D:2      | Reached skill level 7 in Unarmed Combat
+  2421 | D:3      | Reached XP level 6. HP: 49/51 MP: 5/5
+  2501 | D:3      | Noticed Ijyb
+  2518 | D:3      | Killed Ijyb
+  2744 | D:3      | Found a runed translucent door.
+  2745 | D:3      | Noticed Crazy Yiuf
+  2750 | D:3      | Killed Crazy Yiuf
+  2750 | D:3      | Reached skill level 1 in Evocations
+  2891 | D:5      | Entered Level 5 of the Dungeon
+  2891 | D:5      | Noticed an ice beast
+  2899 | D:4      | Killed an ice beast
+  2899 | D:4      | Reached skill level 8 in Unarmed Combat
+  2899 | D:4      | Reached XP level 7. HP: 51/57 MP: 7/7
+  2933 | D:4      | Noticed a hippogriff
+  2982 | D:4      | Killed a hippogriff
+  2982 | D:4      | Reached skill level 9 in Unarmed Combat
+  3222 | D:5      | Noticed Prince Ribbit
+  3224 | D:5      | Killed Prince Ribbit
+  3224 | D:5      | Reached skill level 5 in Fighting
+  3224 | D:5      | Reached XP level 8. HP: 56/68 MP: 8/8
+  3469 | D:5      | Found a staircase to the Ecumenical Temple.
+  3492 | Temple   | Entered the Ecumenical Temple
+  3571 | Temple   | Became a worshipper of Kikubaaqudgha
+  3571 | Temple   | Reached * piety under Kikubaaqudgha
+  3571 | Temple   | Identified Kikubaaqudgha's Grimoire of Evil (Kikubaaqudgha
+                  | gifted it to you in the Ecumenical Temple)
+  3571 | Temple   | Received a gift from Kikubaaqudgha
+  3571 | Temple   | Reached ** piety under Kikubaaqudgha
+  3581 | Temple   | Learned a level 1 spell: Animate Skeleton
+  3584 | Temple   | Learned a level 2 spell: Corpse Rot
+  3685 | D:6      | Noticed Pikel
+  4032 | D:6      | Noticed Edmund
+  4115 | D:5      | Reached skill level 10 in Unarmed Combat
+  4192 | D:5      | Killed Edmund
+  4192 | D:5      | Reached skill level 1 in Armour
+  4292 | D:6      | Reached skill level 1 in Maces & Flails
+  4292 | D:6      | Reached XP level 9. HP: 51/74 MP: 7/10
+  4377 | D:5      | Quit the game
+
+Skill      XL: |  1  2  3  4  5  6  7  8 |
+---------------+-------------------------+-----
+Unarmed Combat |     4  5  6  7  8  9 10 | 10.2
+Evocations     |                 2     3 |  3.0
+Dodging        |                    3    |  3.6
+Fighting       |                    5    |  5.1
+Armour         |                       2 |  4.0
+Maces & Flails |                       1 |  1.4
+Stealth        |                         |  2.1
+
+Action                   |  1- 3 |  4- 6 |  7- 9 || total
+-------------------------+-------+-------+-------++-------
+Melee: Unarmed           |    90 |   182 | 52182 || 52454
+       Punch             |     2 |     1 |  2084 ||  2087
+       Flail             |       |       |  4003 ||  4003
+Throw: Stone             |       |     2 |       ||     2
+Evoke: Wand              |       |     1 |     3 ||     4
+  Use: Scroll            |     6 |     1 |     2 ||     9
+       Potion            |       |     3 |       ||     3
+ Stab: Sleeping          |     1 |       |       ||     1
+  Eat: Chunk             |     4 |    15 |    15 ||    34
+Armor: Robe              |     7 |       |       ||     7
+       Chain mail        |    22 |    78 | 24273 || 24373
+Dodge: Dodged            |    26 |    43 | 17981 || 18050
+

@@ -1,0 +1,136 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 17988838597093364656
+
+0 Ruots the Heavyweight Champion (level 1, 22/22 HPs) *WIZ*
+             Began as a Troll Fighter on Sept 2, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:01:55 (2 turns).
+
+Ruots the Heavyweight Champion (Troll Fighter)         Turns: 2, Time: 00:01:56
+
+Health: 22/22      AC:  6    Str: 23    XL:     1   Next: 0%
+Magic:  0/0        EV:  8    Int:  4    God:    No God 0 (0)
+Gold:   0          SH:  8    Dex:  9    Spells: 0/0 levels left
+
+rFire    . . .     SeeInvis .     - Unarmed
+rCold    . . .     Gourm    +   b - +0 shield
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (gloves unavailable)
+MR       .....                  (boots unavailable)
+Stlth    +.........             (no amulet)
+HPRegen  0.47/turn              (no ring)
+MPRegen  0.07/turn              (no ring)
+
+@: no status effects
+A: large, unfitting armour, claws 3, fast metabolism 3, gourmand, regeneration
+1, shaggy fur 1, tough skin 3
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+ b - a +0 shield (worn)
+ e - a +0 pair of gloves
+Potions
+ c - a potion of might
+Comestibles
+ d - 2 rations
+
+
+   Skills:
+ + Level 2.4 Fighting
+ + Level 2.4 Dodging
+ + Level 2.4 Shields
+ O Level 27 Unarmed Combat
+
+
+You couldn't memorise any spells.
+You didn't know any spells.
+Your spell library was empty.
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+
+Innate Abilities, Weirdness & Mutations
+
+You are too large for most types of armour.
+You have claws for hands.
+Your metabolism is lightning-fast.
+You like to eat raw meat.
+Your natural rate of healing is unusually fast.
+You are covered in fur. (AC +1)
+You have extremely tough skin. (AC +3)
+
+
+Message History
+
+Enter Wizard Command (? - help): 
+What monsters to dismiss (ENTER for all, "harmful", "mobile", "los" or a regex,
+"keepitem" to leave items)? 
+Dismissed 31 monsters.
+There are no items here.
+Wear which item? (? for menu, Esc to quit)
+Okay, then.
+Enter Wizard Command (? - help): 
+Which skill (by name)? un
+Unarmed Combat
+To what level? 27
+Increased Unarmed Combat to skill level 27.0.
+Enter Wizard Command (? - help): 
+Enter monster name (or MONS spec): 
+        Source | AvHitDam | MaxDam |  Acc | AvDam | AvTime | AvSpd | AvEffDam
+Attack: Player |     21.5 |     62 |  71% |  15.4 |    58  |  1.74 |     26.5
+Attack:   Mons | No hits
+Defend: Player | No hits
+Defend:   Mons |      5.3 |     15 |  46% |   2.5 |   100  |  1.00 |      2.5
+Saving game... please wait.
+Welcome back, Ruots the Troll Fighter.
+Press ? for a list of commands and other information.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      #.......#
+      .........
+     ##.......#
+.#####....(...#
+..............#
+  #.........#
+  #.........#
+  #....@....#
+  ####8<8####
+     #####
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Ruots the Troll Fighter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 22/22 MP: 0/0
+     0 | D:1      | Entered wizard mode.
+     2 | D:1      | Quit the game
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||  8000
+Armor: Robe              ||   735
+Dodge: Dodged            ||  1780
+Block: Shield            ||  2503
+

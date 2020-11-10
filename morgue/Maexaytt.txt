@@ -1,0 +1,289 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 5387030358918534622
+
+Maexaytt the Gusty (Tengu Air Elementalist)         Turns: 5609, Time: 01:06:17
+
+Health: 36/36      AC:  4    Str:  7    XL:     6   Next: 68%
+Magic:  9/10       EV: 15    Int: 17    God:    Vehumet [*.....]
+Gold:   127        SH:  0    Dex: 14    Spells: 2/9 levels left
+
+rFire    . . .     SeeInvis .   a - +0 trident
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   j - +0 leather armour
+rPois    .         Spirit   .   (helmet restricted)
+rElec    .         Reflect  .   (no cloak)
+rCorr    +         Harm     .   (no gloves)
+MR       .....                  (boots unavailable)
+Stlth    ++........             (no amulet)
+HPRegen  0.12/turn              w - ring of resist corrosion
+MPRegen  0.12/turn              (no ring)
+
+@: flying quickly and evasively, quick
+A: beak, talons 3, shaggy fur 1, weak 1, able to fly
+a: Stop Flying, Renounce Religion
+
+
+You are on level 4 of the Dungeon.
+You worship Vehumet.
+Vehumet is aware of your devotion.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 4 of its levels.
+
+You have collected 127 gold pieces.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 trident (weapon)
+ b - a +0 hand axe
+ c - a +0 dagger
+ u - a runed hand axe
+ E - a glowing dagger
+ G - a +0 flail
+ H - a +0 morningstar
+Missiles
+ k - 65 arrows
+ t - 18 sling bullets
+ x - 10 poisoned needles
+ y - 24 bolts
+ z - 80 stones (quivered)
+ B - 2 tomahawks
+Armour
+ g - a +0 robe
+ j - a +0 leather armour (worn)
+ p - a scale mail
+ s - a +0 ring mail
+Jewellery
+ o - an uncursed ring of teleportation
+ w - a ring of resist corrosion (left hand)
+Wands
+ F - a wand of disintegration (13)
+Scrolls
+ d - 2 scrolls of teleportation
+ e - a scroll labeled RETAEG CING
+ h - a scroll of magic mapping
+ m - 3 scrolls of remove curse
+ n - 2 scrolls of amnesia
+ q - a scroll labeled GIAVOENEZUT
+ C - a scroll labeled MAIN WUXTINUMA
+ D - a scroll labeled YRGHET YHAMI
+Potions
+ i - 2 potions of lignification
+ l - a potion of mutation
+ r - a glowing golden potion
+ v - 2 potions of flight
+ A - a green potion
+Comestibles
+ f - 7 rations
+ I - 5 chunks of flesh
+
+
+   Skills:
+ + Level 2.3 Fighting
+ - Level 1.5 Short Blades
+ - Level 2.1(2.9) Axes
+ + Level 2.8(3.2) Polearms
+ - Level 1.0 Throwing
+ - Level 3.0 Dodging
+ - Level 2.0 Stealth
+ - Level 2.0 Spellcasting
+ - Level 3.1 Conjurations
+ - Level 1.0 Charms
+ - Level 5.0 Air Magic
+ - Level 1.0 Evocations
+
+
+You have 2 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Magic Dart            Conj           ##..         9%          1    #......
+b - Shock                 Conj/Air       ###.         5%          1    #......
+c - Swiftness             Chrm/Air       ##......     13%         2    ###....
+d - Static Discharge      Conj/Air       ###.....     17%         3    ###....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Airstrike                Air            ###.......   36%         4    #####..
+ Lightning Bolt           Conj/Air       ###.......   83%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (4/15)            
+Temple: D:4-7       
+
+Altars:
+Dithmenos
+Gozag
+Vehumet
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have a beak for a mouth.
+You have claws for feet.
+You can fly continuously.
+You are covered in fur. (AC +1)
+You are weak. (Str -2)
+
+
+Message History
+
+An orc comes into view. It is wielding a +0 whip.
+You see here a stone.
+Unknown command.
+Search for what [Enter for "."]? 
+Okay, then.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting,
+(c)onfirm, m(e)nu], (s)ave? 
+Input confirm keymap trigger key: \{27}
+Input confirm keymap action: 
+Okay, then.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting,
+(c)onfirm, m(e)nu], (s)ave? 
+Input menu keymap trigger key: \{27}
+Input menu keymap action: 
+Okay, then.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting,
+(c)onfirm, m(e)nu], (s)ave? 
+Saving macros.
+(m)acro, (M)acro raw, keymap [(k) default, (x) level-map, (t)argeting,
+(c)onfirm, m(e)nu], (s)ave? 
+Input default keymap trigger key: \{27}
+Input default keymap action: 
+Okay, then.
+Saving game... please wait.
+
+..#         #..........#
+###         #.[.......^#
+            ####.#####.#
+               #.#   #.#
+#####          #.#   #.#
+....#          #)    #.#
+###.######           #.###.#
+#........######      #.....#
+#.#............      #.#####
+#.#.###########      #.)..##
+#.#.#               ##%###.##
+#.#.######     ..####..####<######.#   ##
+#.#......######....................#   .#
+#.#.####..............@####.########   .#
+#.#.#  #..#####..#####(###(##          .#
+#.#.####..#####.......((...############.####
+#.#.............(#####.###.....Z............
+#.######..#####..  ..(.........#############
+..#    #......... .>...###..####
+########..#####..##..o.# #..#
+...............?(......# #..#
+#######...#####..##....  #..#
+#    ##.............#o#  #..#
+######....#####..####    #..#
+....#.....#####..#       ...#
+###................
+
+
+You can see an orc.
+
+Vanquished Creatures
+  A bullfrog (D:3)
+  A hound (D:4)
+  2 orc priests (D:3)
+  2 orc wizards (D:3)
+  4 adders
+  An ooze (D:1)
+  An adder skeleton (D:4)
+  5 worms
+  2 dart slugs
+  3 leopard geckos
+  13 orcs
+  A ball python (D:1)
+  2 giant cockroaches (D:1)
+  10 goblins
+  2 hobgoblins
+  7 jackals (D:3)
+  3 quokkas
+  5 bats
+  3 frilled lizards
+  10 kobolds
+  10 rats
+88 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Maexaytt the Tengu Air Elementalist began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 10/10 MP: 4/4
+     0 | D:1      | Entered wizard mode.
+   362 | D:1      | Reached XP level 2. HP: 15/15 MP: 4/6
+   366 | D:1      | Learned a level 2 spell: Swiftness
+   547 | D:1      | Reached skill level 1 in Throwing
+   810 | D:1      | Reached XP level 3. HP: 15/20 MP: 5/7
+   925 | D:1      | Reached skill level 1 in Short Blades
+   989 | D:1      | Reached skill level 1 in Fighting
+  1364 | D:1      | Learned a level 3 spell: Static Discharge
+  1665 | D:2      | Found a faded altar of an unknown god.
+  1776 | D:2      | Found a radiant altar of Vehumet.
+  1799 | D:2      | Found an opulent altar of Gozag.
+  1905 | D:2      | Became a worshipper of Vehumet
+  2636 | D:2      | Reached XP level 4. HP: 25/25 MP: 2/8
+  2693 | D:3      | Reached skill level 1 in Charms
+  3430 | D:3      | Gained mutation: You are weak. (Str -2) [potion of
+                  | mutation]
+  3430 | D:3      | Gained mutation: You are covered in fur. (AC +1) [potion of
+                  | mutation]
+  3580 | D:3      | Reached skill level 1 in Axes
+  3770 | D:3      | Reached skill level 1 in Polearms
+  3820 | D:3      | Gained mutation: You can fly continuously. [Tengu growth]
+  3820 | D:3      | Reached XP level 5. HP: 10/29 MP: 0/9
+  4230 | D:3      | armor not worth training yet
+  4274 | D:3      | Found a shadowy altar of Dithmenos.
+  4293 | D:3      | Reached XP level 6. HP: 29/35 MP: 7/10
+  4515 | D:3      | Reached * piety under Vehumet
+  4515 | D:3      | Offered knowledge of Magic Dart by Vehumet.
+  4529 | D:2      | Learned a level 1 spell: Magic Dart
+  4760 | D:3      | Reached skill level 5 in Air Magic
+  5536 | D:4      | Reached skill level 1 in Evocations
+
+Skill      XL: |  1  2  3  4  5  6 |
+---------------+-------------------+-----
+Conjurations   |  2              3 |  3.1
+Throwing       |     1             |  1.0
+Short Blades   |        1          |  1.5
+Fighting       |        1     2    |  2.3
+Charms         |           1       |  1.0
+Dodging        |           3       |  3.0
+Axes           |           1  2    |  2.1
+Polearms       |           1  2    |  2.8
+Air Magic      |                 5 |  5.0
+Evocations     |                 1 |  1.0
+Stealth        |                   |  2.0
+Spellcasting   |                   |  2.0
+
+Action                   |  1- 3 |  4- 6 || total
+-------------------------+-------+-------++-------
+Melee: Dagger            |    19 |       ||    19
+       Kick              |     7 |  2173 ||  2180
+       Peck              |     3 |  1443 ||  1446
+       Short sword       |     8 |  4002 ||  4010
+       Trident           |       |  4073 ||  4073
+Throw: Stone             |    52 |    62 ||   114
+       Tomahawk          |       |     3 ||     3
+ Cast: Shock             |    55 |    82 ||   137
+       Swiftness         |     1 |     2 ||     3
+       Magic Dart        |       |     9 ||     9
+ Abil: Fly               |       |     1 ||     1
+  Use: Scroll            |     5 |     3 ||     8
+       Potion            |     1 |     3 ||     4
+ Stab: Sleeping          |     1 |     1 ||     2
+  Eat: Chunk             |     4 |    10 ||    14
+       Ration            |     1 |       ||     1
+Armor: Robe              |     9 |   806 ||   815
+       Leather armour    |       |     3 ||     3
+Dodge: Dodged            |    21 |  3879 ||  3900
+

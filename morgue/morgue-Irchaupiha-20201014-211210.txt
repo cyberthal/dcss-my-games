@@ -1,0 +1,117 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 6823358390779102710
+
+0 Irchaupiha the Caller (level 1, 14/14 HPs)
+             Began as a Demigod Summoner on Oct 14, 2020.
+             Quit the game on level 1 of the Dungeon.
+             The game lasted 00:00:52 (0 turns).
+
+Irchaupiha the Caller (Demigod Summoner)               Turns: 0, Time: 00:00:52
+
+Health: 14/14      AC:  2    Str: 11    XL:     1   Next: 0%
+Magic:  5/5        EV: 12    Int: 19    God:    
+Gold:   0          SH:  0    Dex: 16    Spells: 2/3 levels left
+
+rFire    . . .     SeeInvis .   (no weapon)
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   a - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    ++........             (no amulet)
+HPRegen  0.04/turn              (no ring)
+MPRegen  0.09/turn              (no ring)
+
+@: no status effects
+A: high mp 1
+a: no special abilities
+
+
+You were on level 1 of the Dungeon.
+You were not hungry.
+
+You visited 1 branch of the dungeon, and saw 1 of its levels.
+
+Inventory:
+
+Armour
+ a - a +0 robe (worn)
+Comestibles
+ c - a ration
+
+
+   Skills:
+ + Level 1.7 Dodging
+ + Level 1.7 Stealth
+ + Level 1.7 Spellcasting
+ + Level 3.6 Summonings
+
+
+You had 2 spell levels left.
+You knew the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Summon Small Mammal   Summ           ###.         4%          1    #......
+
+Your spell library contained the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Call Imp                 Summ           ###.....     6%          2    ###....
+ Call Canine Familiar     Summ           ###.....     12%         3    ###....
+ Summon Guardian Golem    Hex/Summ       #.......     26%         3    ###....
+ Summon Ice Beast         Ice/Summ       #.......     63%         4    #####..
+ Summon Lightning Spire   Summ/Air       #.......     63%         4    #####..
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)
+
+
+Innate Abilities, Weirdness & Mutations
+
+You have an increased reservoir of magic. (+10% MP)
+
+
+Message History
+
+Welcome, Irchaupiha the Demigod Summoner.
+The bosom of this dungeon contains the fabled artefact, the Orb of Zot.
+Press ? for a list of commands and other information.
+Found a sedimented green potion.
+Found a staircase leading out of the dungeon.
+Okay, then.
+Are you sure you want to abandon this character and return to the main menu?
+(Confirm with "yes".) 
+
+      ###
+   ###...
+  #......
+  ......}
+##...}...
+#........
+#...}....
+#@.!...~.
+#...}....
+#........
+##...}...
+  ......}
+  #......
+   ###...
+      ###
+
+
+There were no monsters in sight!
+
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Irchaupiha the Demigod Summoner began the quest for the
+                  | Orb.
+     0 | D:1      | Reached XP level 1. HP: 14/14 MP: 5/5
+     0 | D:1      | Quit the game
+

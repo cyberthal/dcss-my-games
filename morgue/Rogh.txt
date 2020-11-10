@@ -1,0 +1,163 @@
+ Dungeon Crawl Stone Soup version 0.23.2 (tiles) character file.
+
+Game seed: 16739752369555070297
+
+Rogh the Insei (Barachi Transmuter)                  Turns: 386, Time: 00:03:49
+
+Health: 15/15      AC:  2    Str: 11    XL:     1   Next: 60%
+Magic:  3/3        EV: 12    Int: 13    God:    
+Gold:   0          SH:  0    Dex: 12    Spells: 3/4 levels left
+
+rFire    . . .     SeeInvis .   a - +0 whip
+rCold    . . .     Gourm    .   (no shield)
+rNeg     . . .     Faith    .   b - +0 robe
+rPois    .         Spirit   .   (no helmet)
+rElec    .         Reflect  .   (no cloak)
+rCorr    .         Harm     .   (no gloves)
+MR       .....                  (no boots)
+Stlth    +.........             (no amulet)
+HPRegen  0.05/turn              (no ring)
+MPRegen  0.08/turn              (no ring)
+
+@: slow
+A: +LOS, swims, slowness 1, strong legs 1
+a: Hop
+
+
+You are on level 1 of the Dungeon.
+You are not hungry.
+
+You have visited 1 branch of the dungeon, and seen 1 of its levels.
+
+Inventory:
+
+Hand Weapons
+ a - a +0 whip (weapon)
+Missiles
+ e - 12 arrows
+Armour
+ b - a +0 robe (worn)
+Scrolls
+ c - a scroll labeled FUVUSS QUAS
+Comestibles
+ d - a ration
+
+
+   Skills:
+ - Level 1.2 Fighting
+ - Level 2.1 Dodging
+ + Level 0.6 Stealth
+ - Level 3.2 Unarmed Combat
+ - Level 2.1 Spellcasting
+ + Level 2.4 Transmutations
+
+
+You have 3 spell levels left.
+You know the following spells:
+
+ Your Spells              Type           Power        Failure   Level  Hunger
+a - Beastly Appendage     Tmut           #.....       10%         1    ##.....
+
+Your spell library contains the following spells:
+
+ Spells                   Type           Power        Failure   Level  Hunger
+ Sticks to Snakes         Tmut           #.......     14%         2    ###....
+ Spider Form              Tmut/Pois      #.........   41%         3    ####...
+ Ice Form                 Ice/Tmut       #.......     83%         4    #####..
+ Blade Hands              Tmut           #.........   95%         5    ######.
+
+
+Dungeon Overview and Level Annotations
+
+Branches:
+Dungeon (1/15)            
+
+Altars:
+
+Annotations:
+D:1 exclusions: dart slug and 3 goblins
+
+
+Innate Abilities, Weirdness & Mutations
+
+Shadows flee at your approach. (+LOS)
+You can swim through water.
+You cover ground slowly.
+You can hop short distances.
+
+
+Message History
+
+Here: a goblin, wielding a +0 dagger (resting)
+The floor.
+Placed new exclusion.
+Autopickup is now on.
+Autopickup is now off.
+You see here a goblin skeleton.
+A goblin comes into view.
+Press: ? - help, v - describe, . - travel
+Here: a goblin (resting)
+The floor.
+Placed new exclusion.
+Autopickup is now on.
+Autopickup is now off.
+A goblin comes into view. It is wielding a +0 dagger.
+Found a stone staircase leading down.
+Press: ? - help, v - describe, . - travel
+Here: a goblin, wielding a +0 dagger (resting)
+The floor.
+Placed new exclusion.
+Saving game... please wait.
+
+          w...  g.......#
+           ..# ##....#####
+           #.# #..........
+           #.###..#.#.####
+           #.#....# #
+############.#....#   #
+.............#....##..#.#     #
+.#####.........#.........    .#
+.#   #.........#.####..##   ..
+.#####.........#.#     ..  .#
+...............#.#     .##..
+######.........#.#     >..
+#### #####.....#.######.###.#
+~~>#     ###.###......@.....#
+####       #.# ########.#####
+7..###     #.#         .#
+.....#     #.#         .#
+...#.#     #.#         .#
+#..#.#     #.#         .#
+#.##.#######.#         g.
+#............#         ##
+#..#.........#
+#..#########.#
+...#       #.#
+##.#########.#
+ #...........#
+
+
+You can see a goblin (sleeping).
+
+Vanquished Creatures
+  A bat (D:1)
+  A goblin (D:1)
+  A kobold (D:1)
+  A rat (D:1)
+4 creatures vanquished.
+
+Notes
+Turn   | Place    | Note
+-------+----------+-------------------------------------------
+     0 | D:1      | Rogh the Barachi Transmuter began the quest for the Orb.
+     0 | D:1      | Reached XP level 1. HP: 15/15 MP: 3/3
+
+Action                   || total
+-------------------------++-------
+Melee: Unarmed           ||    11
+       Whip              ||     4
+       Headbutt          ||     1
+ Cast: Beastly Appendage ||     2
+Armor: Robe              ||     1
+Dodge: Dodged            ||     7
+
